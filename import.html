@@ -1,0 +1,68 @@
+<html>
+	<head>
+		<meta charset='utf-8'>
+		<title>Addr Import</title>
+	</head>
+	<body>
+
+	<table>
+		<tr>
+			<td>
+				Select postal code:
+			</td>
+			<td>
+				<input
+					type="number" min="1000" max="9999"
+					id="pcodeInput"
+					title="Enter the postal code you want to query"/>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Filter streets:
+			</td>
+			<td>
+				<input
+					type="text"
+					value="*"
+					id="filterStreetsInput"
+					title="Only show certain streets (use * as wildcard)."/>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Load OSM data:
+			</td>
+			<td>
+				<input 
+					type="checkbox"
+					id="loadOsmInput"
+					title="Check this to also compare the CRAB data to the latest OSM data"/>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Max distance:
+			</td>
+			<td>
+				<input
+					type="number" step="any" min="0"
+					id="maxDistanceInput"
+					title="Allowed difference between CRAB and OSM data (meters). Use 0 to not compare the distance (default)."/>
+			</td>
+		</tr>
+	</table>
+	<button type="button" onclick="gotoPermalink()">Update</button>
+
+	<table id="streetsTable">
+	</table>
+
+	<br/>
+	<small>
+		This page contains <a href="https://download.agiv.be/Producten/Detail?id=102&title=CRAB_adresposities">CRAB</a> (&copy; AGIV; Free Open Data License Flanders v1.0) and OSM data (&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap contributors</a>)
+	</small>
+
+	<script type="text/javascript" src="loadStreets.js"></script>
+
+	</body>
+</html>
