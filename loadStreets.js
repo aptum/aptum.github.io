@@ -331,7 +331,7 @@ function openInJosm(type, streetData, layerName, message)
 		    str += "<tag k='CRAB:huisnrlabel' v='" + addr.huisnrlabel.replace(/'/g, "&apos;") + "'/>";
 		if ("source" in addr)
 		    str += "<tag k='CRAB:source' v='" + addr.source.replace(/'/g, "&apos;") + "'/>";
-		if ("message" in addr)
+		if ("message" in addr && addr.message.replace(/'/g, "&apos;") != "")
 		    str += "<tag k='CRAB:message' v='" + addr.message.replace(/'/g, "&apos;") + "'/>";
 		if (msg)
 			str += "<tag k='fixme' v='" + msg + "'/>";
