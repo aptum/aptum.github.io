@@ -1,3 +1,6 @@
+<!-- 
+	vim: tabstop=2:softtabstop=2:shiftwidth=2:noexpandtab
+-->
 <html>
 	<head>
 		<meta charset='utf-8'>
@@ -55,6 +58,17 @@
 	<button type="button" onclick="gotoPermalink()">Update</button>
 
 	<table id="streetsTable">
+		<thead>
+			<tr>
+				<th title="Name of the street">Name</th>
+				<th title="Total number of housenumbers">Total</th>
+				<th title="Number of regular housenumbers not present in OSM">Missing</th>
+				<th title="Housenumbers that don\'t have a position in CRAB, and are not present in OSM">Missing w/o pos</th>
+				<th title="Housenumbers in OSM but without match in CRAB">Wrong</th>
+			</tr>
+		</thead>
+		<tbody id="streetsTableBody">
+		</tbody>
 	</table>
 
 	<br/>
@@ -66,3 +80,4 @@
 
 	</body>
 </html>
+
