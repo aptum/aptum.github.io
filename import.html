@@ -61,10 +61,10 @@
 		<thead>
 			<tr>
 				<th title="Name of the street">Name</th>
-				<th title="Total number of housenumbers">Total</th>
+				<th title="All adresses in CRAB">Total</th>
 				<th title="Number of regular housenumbers not present in OSM">Missing</th>
-				<th title="Housenumbers that don\'t have a position in CRAB, and are not present in OSM">Missing w/o pos</th>
-				<th title="Housenumbers in OSM but without match in CRAB">Wrong</th>
+				<th title="Housenumbers where different ones are merged under the same hnrlabel, since they're overlapping. Map these with care, and decide if they belong to the same building or not.">Missing overlapping</th>
+				<th title="Housenumbers in OSM but without match in CRAB, please survey in case of doubt">Wrong</th>
 			</tr>
 		</thead>
 		<tbody id="streetsTableBody">
@@ -77,7 +77,38 @@
 	</small>
 
 	<script type="text/javascript" src="loadStreets.js"></script>
+	<script type="text/javascript">
+		// Read the URL query to set stuff
+		var query = window.location.search.substring(1);
+		var vars = query.split("&");
+		for (var i = 0; i < vars.length; i++)
+		{
+			var kv = vars[i].split("=");
+			if (kv.length != 2)
+				continue;
+			kv[0] += "Input"
+			if (kv[1] == "true")
+				document.getElementById(kv[0]).checked = true;
+			else if (kv[1] == "false")
+				document.getElementById(kv[0]).checked = false;
+			else
+				document.getElementById(kv[0]).value = decodeURIComponent(kv[1]);
+		}
+
+		readPcode();
+
+		// Make table sortable
+		var table = document.getElementById("streetsTable");
+		var th = table.tHead;
+		var cells = th.rows[0].cells;
+		for (var i = 0; i < cells.length; i++)
+		{
+			(function (i) {
+				var reverse = true;
+				cells[i].addEventListener('click', function() {sortTable(i, (reverse = !reverse)); });
+			}(i));
+		}
+	</script>
 
 	</body>
 </html>
-

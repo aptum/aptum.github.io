@@ -42,20 +42,25 @@ var sortedBy = "name";
 /**
  * Makes the html code for a table cell (including links tooltip, ...)
  */
-function writeCellHtml(type, streetIdx, msg)
+function writeCellHtml(type, streetIdx)
 {
 	var street = streets[streetIdx];
 	var sanName = street.sanName;
-	if (msg)
-		msg = '"' + msg + '"';
-	document.getElementById(sanName + '-' + type).innerHTML = 
-		"<a href='#%layerName' title='Load this data in JOSM' onclick='openInJosm(\"%type\", streets[%i], \"%layerName\", %msg)' >%num</a>"
-			.replace(/%type/g, type)
-			.replace(/%street/g, sanName)
-			.replace(/%i/g, streetIdx)
-			.replace(/%layerName/g, sanName + '-' + type)
-			.replace(/%msg/g, msg)
-			.replace(/%num/g, street[type].length);
+	var doc = document.getElementById(sanName + '-' + type);
+	if (!street[type].length)
+		doc.innerHTML = "0";
+	else
+		doc.innerHTML = 
+			("<a href='#%layerName' "+
+					"title='Load this data in JOSM' "+
+					"onclick='openInJosm(\"%type\", streets[%i], \"%layerName\")' >"+
+				"%num"+
+			"</a>")
+				.replace(/%type/g, type)
+				.replace(/%street/g, sanName)
+				.replace(/%i/g, streetIdx)
+				.replace(/%layerName/g, sanName + '-' + type)
+				.replace(/%num/g, street[type].length);
 }
 
 function getTableRow(streetIdx)
@@ -72,7 +77,7 @@ function getTableRow(streetIdx)
 		'</td>\n' +
 		'<td id="%n-full" name="%n-full"></td>\n' +
 		'<td id="%n-missing" name="%n-missing"></td>\n' +
-		'<td id="%n-missing_noPos" name="%n-missing_noPos"></td>\n' +
+		'<td id="%n-missing_overlapping" name="%n-missing_overlapping"></td>\n' +
 		'<td id="%n-wrong" name="%n-wrong"></td>\n' +
 		'</tr>\n').replace(/%n/g, street.sanName);
 }
@@ -96,7 +101,7 @@ function loadOsmData()
 function getStreetsFilter()
 {
 	var str = document.getElementById("filterStreetsInput").value;
-	str = escapeRegExp(str, true, false);
+	str = escapeRegExp(str, STAR_AS_WILDCARD);
 	if (!str.length)
 		str = ".*";
 	return "^" + str + "$";
@@ -169,7 +174,7 @@ function updateData()
 		if (loadOsmData())
 		{
 			document.getElementById(sanName + "-missing").innerHTML = "Loading...";
-			document.getElementById(sanName + "-missing_noPos").innerHTML = "Loading...";
+			document.getElementById(sanName + "-missing_overlapping").innerHTML = "Loading...";
 			document.getElementById(sanName + "-wrong").innerHTML = "Loading...";
 		}
 		// Also import the actual CRAB data
@@ -222,7 +227,6 @@ function getOsmInfo() {
 			addr.lat = d.lat || d.center.lat;
 			addr.lon = d.lon || d.center.lon;
 
-			// TODO support Associated Street relations?
 			if (!d.tags["addr:housenumber"] || !d.tags["addr:street"])
 				continue;
 			addr.housenumber = d.tags["addr:housenumber"];
@@ -250,105 +254,124 @@ function compareData() {
 		var crabStreet = street.full;
 
 
-		var re = new RegExp("^" + escapeRegExp(street.name, false, true) + "$");
+		var re = new RegExp("^" + escapeRegExp(street.name, IGNORE_SPELLING) + "$");
 		var osmStreet = osmInfo.filter(function(addr) {
 			return re.test(addr.street);
 		});
 		
 		var crabStreetPos = crabStreet.filter(function(addr) {
-			return addr.lat && addr.lon;
+			return addr.housenumber == addr.huisnrlabel;
 		});
-		var crabStreet_noPos = crabStreet.filter(function(addr) {
-			return !addr.lat || !addr.lon;
+		var crabStreet_overlapping = crabStreet.filter(function(addr) {
+			return addr.housenumber != addr.huisnrlabel;
 		});
 		// Matches in one direction
-		street.missing = compareHnr(crabStreetPos, osmStreet);
-		street.missing_noPos = compareHnr(crabStreet_noPos, osmStreet);
-		street.wrong = compareHnr(osmStreet, crabStreet);
+		street.missing = compareStreet(crabStreetPos, osmStreet);
+		street.missing_overlapping = compareStreet(crabStreet_overlapping, osmStreet);
+		street.wrong = compareStreet(osmStreet, crabStreet);
 
 
 		// Create links
 		writeCellHtml("missing", i);
-		writeCellHtml("missing_noPos", i);
-		writeCellHtml("wrong", i, "Housenumber not found in CRAB, or not close enough ");
+		writeCellHtml("missing_overlapping", i);
+		writeCellHtml("wrong", i);
 	}
 }
 
-function compareHnr(source, comp) {
+function compareStreet(source, comp) {
 	var diffList = [];
-	var maxDist = getMaxDist();
 	for (var i = 0; i < source.length; i++)
 	{
-		// also match double housenumbers "42-44" with single ones "44"
-		var housenumberList = source[i].housenumber.split("-");
-		var match = true;
-		for (var j = 0; j < housenumberList.length; j++)
-		{
-			var re = new RegExp("^(.*-)?" + escapeRegExp(housenumberList[j]) + "(-.*)?$");
-			// find a housenumber in the comparison list that matches (probably partially)
-			match = match && comp.find( function (addr) {
-				var test = re.test(addr.housenumber);
-				if (!test)
-					return false;
-				if (!maxDist)
-					return true;
-				// Also test the distance if the housenumbers match and a distance is given
-				return getAddrDistance(source[i], addr) < maxDist;
-			});
-		}
-		if (!match)
+		var sourceAddr = source[i];
+		if (!comp.find(
+			function(compAddr) {
+				return compareAddr(sourceAddr, compAddr);
+			}
+		))
 			diffList.push(source[i]);
 	}
 	return diffList;
 }
 
-// REMOTECONTROL BINDINGS
-function openInJosm(type, streetData, layerName, message)
+/**
+ * Test if the source housenumber matches with the comparison one
+ */
+function compareAddr(sourceAddr, compAddr)
+{
+	function uniformise(hnr)
+	{
+		if (!hnr)
+			return hnr;
+		hnr = hnr.replace(/ bis/g, "_2");
+		hnr = hnr.replace(/ ter/g, "_3");
+		hnr = hnr.replace(/\/([0-9]+)/g, "_$1");
+		return hnr;
+	}
+
+	sourceHnr = uniformise(sourceAddr.housenumber);
+	sourceHnrLabel = uniformise(sourceAddr.huisnrlabel);
+	compHnr = uniformise(compAddr.housenumber);
+	compHnrLabel = uniformise(compAddr.huisnrlabel);
+	
+	var matchHnr = false;
+	if (compHnr == sourceHnr)
+		matchHnr = true;
+	else if (compHnrLabel == sourceHnr)
+		matchHnr = true;
+	else if (compHnr == sourceHnrLabel)
+		matchHnr = true;
+	if (!matchHnr)
+		return false;
+	if (!getMaxDist())
+		return true;
+	// Also test the distance if the housenumbers match and a distance is given
+	return getAddrDistance(sourceAddr, compAddr) < getMaxDist();
+}
+
+function getOsmXml(type, streetData)
 {
 	var timeStr = (new Date()).toISOString();
-	var str = "<osm version='0.6' generator='flanders-addr-import'>\n";
-	var numOfAddrWoPos = 0;
+	var str = "<osm version='0.6' upload='no' generator='flanders-addr-import'>";
 	for (var i = 0; i < streetData[type].length; i++)
 	{
 		var addr = streetData[type][i];
-		// take the precise position when available, else, center on the street
-		var lat = addr.lat;
-		var lon = addr.lon;
-		var msg = message;
-		if (!lat || !lon)
-		{
-			lat = (streetData.t + streetData.b) / 2;
-			lon = (streetData.l + streetData.r) / 2 +
-				numOfAddrWoPos * noOverlappingOffset;
-			msg = (msg || "") + "Position not found in CRAB. Please map with care."
-			numOfAddrWoPos++;
-		}
 
-		str += "<node id='" + (-i-1) + "' lat='" + lat + "' lon='" + lon + "' version='0' timestamp='" + timeStr + "' uid='1' user=''>";
-		str += "<tag k='addr:housenumber' v='" + addr.housenumber.replace(/'/g, "&apos;") + "'/>";
-		str += "<tag k='addr:street' v='" + addr.street.replace(/'/g, "&apos;") + "'/>";
-		if ("huisnrlabel" in addr)
-		    str += "<tag k='CRAB:huisnrlabel' v='" + addr.huisnrlabel.replace(/'/g, "&apos;") + "'/>";
+		str += "<node id='" + (-i-1) + "' " +
+			"lat='" + addr.lat + "' " +
+			"lon='" + addr.lon + "' " +
+			"version='0' "+
+			"timestamp='" + timeStr + "' " +
+			"uid='1' user=''>";
+		// tags
+		str += "<tag k='addr:housenumber' v='" + escapeXML(addr.housenumber) + "'/>";
+		str += "<tag k='addr:street' v='" + escapeXML(addr.street) + "'/>";
 		if ("source" in addr)
-		    str += "<tag k='CRAB:source' v='" + addr.source.replace(/'/g, "&apos;") + "'/>";
-		if ("message" in addr && addr.message.replace(/'/g, "&apos;") != "")
-		    str += "<tag k='CRAB:message' v='" + addr.message.replace(/'/g, "&apos;") + "'/>";
-		if (msg)
-			str += "<tag k='fixme' v='" + msg + "'/>";
-		str += "</node>\n";
+			str += "<tag k='CRAB:source' v='" + escapeXML(addr.source) + "'/>";
+		if (type == "wrong")
+			str += "<tag k='fixme' v='This number is not preset in CRAB. It may be a spelling mistake, a non-existing address or an error in CRAB itself.'/>";
+
+		str += "</node>";
 	}
-	str += "</osm>\n";
+	str += "</osm>";	
+	return str;
+}
+
+// REMOTECONTROL BINDINGS
+function openInJosm(type, streetData, layerName)
+{
 
 	var url =  "http://localhost:8111/load_data?new_layer=true&layer_name="+layerName+"&data=";
+	var xml = getOsmXml(type, streetData);
 
 	var req = new XMLHttpRequest();
-	req.open("GET", url + encodeURIComponent(str), true);
-	req.send(null);
 	req.onreadystatechange = function()
 	{
 		if (req.readyState == 4 && req.status == 400)
+			// something went wrong. Alert the user with appropriate messages
 			testJosmVersion();
 	}
+	req.open("GET", url + encodeURIComponent(xml), true);
+	req.send(null);
 }
 
 function openStreetInJosm(streetNumber)
@@ -426,10 +449,19 @@ function getAddrDistance(addr1, addr2)
 /**
  * Helper function that escapes all special characters from regex
  */
-function escapeRegExp(str, starAsWildcard, pointAsAbbrev) {
-	str = str.replace(/[\-\[\]\/\{\}\(\)\+\?\\\^\$\|]/g, "\\$&");
-	if (pointAsAbbrev)
+const DEFAULT = 0;
+const STAR_AS_WILDCARD = 1;
+const IGNORE_SPELLING = 2;
+function escapeRegExp(str, flag) {
+	str = str.replace(/[\[\]\/\{\}\(\)\+\?\\\^\$\|]/g, "\\$&");
+	if (flag == STAR_AS_WILDCARD)
 	{
+		str = str.replace(/[\-\.]/g, "\\$&");
+		str = str.replace(/[\*]/g, ".*");
+	}
+	else if (flag == IGNORE_SPELLING)
+	{
+		str = str.replace(/[\*]/g, "\\$&");
 		// Support abbreviations in CRAB data: change . to regex
 		// CRAB name         -> Related Regex              -> matching OSM name
 		// "J. Gobelijn"     -> /^J.* Gobelijn$/           -> "Jeremias Gobelijn"
@@ -439,23 +471,31 @@ function escapeRegExp(str, starAsWildcard, pointAsAbbrev) {
 		// "G.W. Bush"       -> /^G.*W.* Bush$/            -> "George Walker Bush"
 		var replacer = function(match, p1) {
 			var str = "";
-			for (var j = 0; j < str.length; j++)
+			for (var j = 0; j < p1.length; j++)
 				str += p1[j] + ".*";
 			return str;
 		}
-		str = str.replace(/([A-Z,a-z]+\\\.)/g, replacer)
+		str = str.replace(/([A-Z,a-z]+)\./g, replacer);
+		// Treat hyphen and space as equal
+		str = str.replace(/[\-]/g, "[\\- ]");
 	}
 	else
-		str = str.replace(/[\.]/g, "\\.");
-	if (starAsWildcard)
-		str = str.replace(/[\*]/g, ".*");
-	else
-		str = str.replace(/[\*]/g, "\\*");
+		str = str.replace(/[\.\*\-]/g, "\\.");
 	return str;
 }
 
+function escapeXML(str)
+{
+	return str.replace(/&/g, "&amp;")
+		.replace(/'/g, "&apos;")
+		.replace(/>/g, "&gt;")
+		.replace(/</g, "&lt;");
+}
+
 function gotoPermalink() {
-	var url = window.location.pathname + "?";
+	var url = window.location.protocol + "//";
+	url += window.location.host;
+	url += window.location.pathname + "?";
 	var ids = ["pcode", "filterStreets", "maxDistance"]
 	for (var i = 0; i < ids.length; i++)
 	{
@@ -470,37 +510,5 @@ function gotoPermalink() {
 		window.location.href = url;
 }
 
-// EXECUTE
-
-// Read the URL query to set stuff
-var query = window.location.search.substring(1);
-var vars = query.split("&");
-for (var i = 0; i < vars.length; i++)
-{
-	var kv = vars[i].split("=");
-	if (kv.length != 2)
-		continue;
-	kv[0] += "Input"
-	if (kv[1] == "true")
-		document.getElementById(kv[0]).checked = true;
-	else if (kv[1] == "false")
-		document.getElementById(kv[0]).checked = false;
-	else
-		document.getElementById(kv[0]).value = decodeURIComponent(kv[1]);
-}
-
-readPcode();
-
-// Make table sortable
-var table = document.getElementById("streetsTable");
-var th = table.tHead;
-var cells = th.rows[0].cells;
-for (var i = 0; i < cells.length; i++)
-{
-	(function (i) {
-		var reverse = true;
-		cells[i].addEventListener('click', function() {sortTable(i, (reverse = !reverse)); });
-	}(i));
-}
 
 
