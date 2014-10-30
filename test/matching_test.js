@@ -62,8 +62,6 @@ function testAddrNonMatching(crabAddresses, osmAddresses)
 	refute.equals(streets[0].wrong, []);
 }
 
-// stubs
-
 buster.testCase("Comparisons", {
 
     "escapeStreetFilterTest": function () {
@@ -250,3 +248,5 @@ buster.testCase("Comparisons", {
 	},
 
 });
+
+
