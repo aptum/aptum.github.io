@@ -341,7 +341,7 @@ function compareAddr(sourceAddr, compAddr)
 function getOsmXml(type, streetData)
 {
 	var timeStr = (new Date()).toISOString();
-	var str = "<osm version='0.6' upload='no' generator='flanders-addr-import'>";
+	var str = "<osm version='0.6' generator='flanders-addr-import'>";
 	for (var i = 0; i < streetData[type].length; i++)
 	{
 		var addr = streetData[type][i];
@@ -522,6 +522,7 @@ function gotoPermalink() {
 	}
 	url += "loadOsm=" + document.getElementById("loadOsmInput").checked;
 	url += "&includePcode=" + document.getElementById("includePcodeInput").checked;
+	url += "&crabHerkomst=" + document.getElementById("crabHerkomstInput").checked;
 	url += window.location.hash;
 	if (window.location.href == url)
 		window.location.reload(true);
