@@ -98,6 +98,16 @@ function loadOsmData()
 	return document.getElementById("loadOsmInput").checked;
 }
 
+function showCrabHerkomst()
+{
+	return document.getElementById("crabHerkomstInput").checked;
+}
+
+function includePcode()
+{
+	return document.getElementById("includePcodeInput").checked;
+}
+
 function getStreetsFilter()
 {
 	var str = document.getElementById("filterStreetsInput").value;
@@ -346,7 +356,15 @@ function getOsmXml(type, streetData)
 		str += "<tag k='addr:housenumber' v='" + escapeXML(addr.housenumber) + "'/>";
 		str += "<tag k='addr:street' v='" + escapeXML(addr.street) + "'/>";
 		if ("source" in addr)
-			str += "<tag k='CRAB:source' v='" + escapeXML(addr.source) + "'/>";
+		{
+			str += "<tag k='odbl:note' v='CRAB:" + escapeXML(addr.source) + "'/>";
+			if (showCrabHerkomst())
+				str += "<tag k='CRAB:herkomst' v='" + escapeXML(addr.source) + "'/>";
+		}
+		if (includePcode)
+			// TODO: also include municipality and get the pcode from the actual address
+			str +=  "<tag k='addr:postal_code' v='" + escapeXML("" + getPcode()) + "'/>";
+
 		if (type == "wrong")
 			str += "<tag k='fixme' v='This number is not preset in CRAB. It may be a spelling mistake, a non-existing address or an error in CRAB itself.'/>";
 
@@ -503,6 +521,7 @@ function gotoPermalink() {
 		url += ids[i] + "=" + encodeURIComponent(obj.value) + "&";
 	}
 	url += "loadOsm=" + document.getElementById("loadOsmInput").checked;
+	url += "&includePcode=" + document.getElementById("includePcodeInput").checked;
 	url += window.location.hash;
 	if (window.location.href == url)
 		window.location.reload(true);
