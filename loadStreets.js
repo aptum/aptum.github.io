@@ -31,25 +31,27 @@ var overpassapi = "http://overpass-api.de/api/interpreter?data=";
 var crabInfo = {};
 var osmInfo = [];
 var streets = [];
+var bbox = {};
 var finished = [];
+var mapObj;
 
-var tableId = "streetsTableBody";
+var tableBodyId = "streetsTableBody";
+var mapId = "map"
+var tableId = "streetsTable";
 
 // HTML WRITERS
 /**
  * Makes the html code for a table cell (including links tooltip, ...)
  */
-function writeCellHtml(type, streetIdx)
+function getCellHtml(type, streetIdx)
 {
 	var street = streets[streetIdx];
 	var sanName = street.sanName;
-	var doc = document.getElementById(sanName + '-' + type);
 	if (!street[type].length)
-		doc.innerHTML = "0";
+		return "0";
 	else
-		doc.innerHTML = 
-			("<a href='#%layerName' "+
-					"title='Load this data in JOSM' "+
+		return ("<a href='#%layerName' "+
+					"title='Load this data in JOSM (%type)' "+
 					"onclick='openInJosm(\"%type\", streets[%i], \"%layerName\")' >"+
 				"%num"+
 			"</a>")
@@ -77,6 +79,18 @@ function getTableRow(streetIdx)
 		'<td id="%n-missing_overlapping" name="%n-missing_overlapping"></td>\n' +
 		'<td id="%n-wrong" name="%n-wrong"></td>\n' +
 		'</tr>\n').replace(/%n/g, street.sanName);
+}
+
+function getMapPopup(i) {
+	ret = "<h4><a href='#' onclick='openStreetInJosm(" + i + ")'>" + streets[i].name + "</a></h4>";
+	ret += "Full: " + getCellHtml("full", i) + "<br/>";
+	if (loadOsmData())
+	{
+		ret += "Missing: " + getCellHtml("missing", i) + "<br/>";
+		ret += "Missing overlapping: " + getCellHtml("missing_overlapping", i) + "<br/>";
+		ret += "Wrong: " + getCellHtml("wrong", i);
+	}
+	return ret;
 }
 
 // READ URL PARAMETERS
@@ -137,7 +151,7 @@ function readPcode()
 		for (var i = 0; i < streets.length; i++)
 			html += getTableRow(i);
 
-		document.getElementById(tableId).innerHTML = html;
+		document.getElementById(tableBodyId).innerHTML = html;
 		updateData();
 	}
 	req.open("GET", "data/" + pcode + ".json", true);
@@ -160,7 +174,8 @@ function getCrabInfo(num) {
 		var data = JSON.parse(req.responseText);
 
 		streets[num].full = data.addresses;
-		writeCellHtml("full", num);
+		var doc = document.getElementById(sanName + '-full');
+		doc.innerHTML = getCellHtml("full", num);
 
 		finished[num] = true;
 		finishLoading();
@@ -197,10 +212,11 @@ function updateData()
  */
 function finishLoading()
 {
-	if (!loadOsmData())
-		return; // don't compare if you don't load anything
-	if (finished.every(function(d) { return d; }))
+	if (!finished.every(function(d) { return d; }))
+		return;
+	if (loadOsmData())
 		compareData();
+	renderMap();
 }
 
 /**
@@ -279,9 +295,12 @@ function compareData() {
 
 
 		// Create links
-		writeCellHtml("missing", i);
-		writeCellHtml("missing_overlapping", i);
-		writeCellHtml("wrong", i);
+		var doc = document.getElementById(street.sanName + '-missing');
+		doc.innerHTML = getCellHtml("missing", i);
+		var doc = document.getElementById(street.sanName + '-missing_overlapping');
+		doc.innerHTML = getCellHtml("missing_overlapping", i);
+		var doc = document.getElementById(street.sanName + '-wrong');
+		doc.innerHTML = getCellHtml("wrong", i);
 	}
 }
 
@@ -338,7 +357,12 @@ function compareAddr(sourceAddr, compAddr)
 function getOsmXml(type, streetData)
 {
 	var timeStr = (new Date()).toISOString();
-	var str = "<osm version='0.6' generator='flanders-addr-import'>";
+
+	var uploadStr = " ";
+	// certainly prohibit uploading the wrong or full data
+	if (type == "wrong" || type == "full")
+		uploadStr = " upload='no' ";
+	var str = "<osm version='0.6'" + uploadStr + "generator='flanders-addr-import'>";
 	for (var i = 0; i < streetData[type].length; i++)
 	{
 		var addr = streetData[type][i];
@@ -360,7 +384,7 @@ function getOsmXml(type, streetData)
 		}
 		if (includePcode())
 			// TODO: also include municipality and get the pcode from the actual address
-			str +=  "<tag k='addr:postal_code' v='" + escapeXML("" + getPcode()) + "'/>";
+			str +=  "<tag k='addr:postcode' v='" + escapeXML("" + getPcode()) + "'/>";
 
 		if (type == "wrong")
 			str += "<tag k='fixme' v='This number is not preset in CRAB. It may be a spelling mistake, a non-existing address or an error in CRAB itself.'/>";
@@ -438,6 +462,25 @@ function sortTable(col, reverse) {
 	rows.sort(sortFunction);
 	for(i = 0; i < rows.length; ++i)
 		tb.appendChild(rows[i]);
+}
+
+function renderMap() {
+	bbox = {t: -90, b: 90, l: 180, r: -180};
+	mapObj = L.map('map');
+	for (var i = 0; i < streets.length; i++)
+	{
+		var street = streets[i];
+		bbox.t = bbox.t < street.t ? street.t : bbox.t;
+		bbox.b = bbox.b > street.b ? street.b : bbox.b;
+		bbox.l = bbox.l > street.l ? street.l : bbox.l;
+		bbox.r = bbox.r < street.r ? street.r : bbox.r;
+		var marker = L.marker([(street.t + street.b) / 2, (street.l + street.r) / 2]).addTo(mapObj);
+		marker.bindPopup(getMapPopup(i)).openPopup();
+	}
+	L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+		attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors',
+		maxZoom: 18
+	}).addTo(mapObj);
 }
 
 // HELPER FUNCTIONS
@@ -527,5 +570,24 @@ function gotoPermalink() {
 		window.location.href = url;
 }
 
+function switchMapVsTable() {
+	var button = document.getElementById("switchMapVsTableButton");
+	var map = document.getElementById(mapId);
+	var table = document.getElementById(tableId);
+	if (map.style.display == "none")
+	{
+		map.style.display = "";
+		table.style.display = "none";
+		button.innerHTML = "Show table";
+		if (mapObj)
+			mapObj.setView([(bbox.t + bbox.b) / 2, (bbox.l + bbox.r) / 2], 13);
+	}
+	else
+	{
+		map.style.display = "none";
+		table.style.display = "";
+		button.innerHTML = "Show map";
 
+	}
+}
 

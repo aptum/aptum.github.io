@@ -5,6 +5,10 @@
 	<head>
 		<meta charset='utf-8'>
 		<title>Addr Import</title>
+		<link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.css" />
+		<style type="text/css">
+#map { height: 500px; }
+		</style>
 	</head>
 	<body>
 
@@ -86,6 +90,8 @@
 
 	<h2>Data</h2>
 
+	<button type="button" onclick="switchMapVsTable()" id="switchMapVsTableButton">Show map</button>
+
 	<table id="streetsTable">
 		<thead>
 			<tr>
@@ -100,13 +106,17 @@
 		</tbody>
 	</table>
 
+	<div id="map"></div>
+
 	<br/>
 	<small>
 		This page contains <a href="https://download.agiv.be/Producten/Detail?id=102&title=CRAB_adresposities">CRAB</a> (&copy; AGIV; Free Open Data License Flanders v1.0) and OSM data (&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap contributors</a>)
 	</small>
 
+	<script src="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.js"></script>
 	<script type="text/javascript" src="loadStreets.js"></script>
 	<script type="text/javascript">
+		document.getElementById(mapId).style.display = "none";
 		// Read the URL query to set stuff
 		var query = window.location.search.substring(1);
 		var vars = query.split("&");
