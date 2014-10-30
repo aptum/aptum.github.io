@@ -34,9 +34,6 @@ var streets = [];
 var finished = [];
 
 var tableId = "streetsTableBody";
-var noOverlappingOffset = 0.00002;
-
-var sortedBy = "name";
 
 // HTML WRITERS
 /**
@@ -214,7 +211,7 @@ function getOsmInfo() {
 	var tagSet = '["addr:housenumber"]["addr:street"~"' + getStreetsFilter() + '"]';
 	var query = 
 		'[out:json];'+
-		'area["boundary"="administrative"]["addr:postcode"="' + getPcode() + '"]->.area;'+
+		'area["boundary"="postal_code"]["postal_code"="' + getPcode() + '"]->.area;'+
 		'('+
 			'node' + tagSet + '(area.area);'+
 			'way' + tagSet + '(area.area);'+
@@ -361,7 +358,7 @@ function getOsmXml(type, streetData)
 			if (showCrabHerkomst())
 				str += "<tag k='CRAB:herkomst' v='" + escapeXML(addr.source) + "'/>";
 		}
-		if (includePcode)
+		if (includePcode())
 			// TODO: also include municipality and get the pcode from the actual address
 			str +=  "<tag k='addr:postal_code' v='" + escapeXML("" + getPcode()) + "'/>";
 
