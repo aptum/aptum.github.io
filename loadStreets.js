@@ -83,7 +83,7 @@ function getTableRow(streetIdx)
 
 function getMapPopup(i) {
 	ret = "<h4><a href='#' onclick='openStreetInJosm(" + i + ")'>" + streets[i].name + "</a></h4>";
-	ret += "Full: " + getCellHtml("full", i) + "<br/>";
+	ret += "Total: " + getCellHtml("full", i) + "<br/>";
 	if (loadOsmData())
 	{
 		ret += "Missing: " + getCellHtml("missing", i) + "<br/>";
@@ -293,10 +293,13 @@ function compareData() {
 		street.missing_overlapping = compareStreet(crabStreet_overlapping, osmStreet);
 		street.wrong = compareStreet(osmStreet, crabStreet);
 
+		// express the completeness as a number between 0 and 1
 		street.completeness = 1 -
 			( street.missing.length +
 			street.missing_overlapping.length +
 			street.wrong.length ) / street.full.length;
+		if (street.completeness < 0)
+			street.completeness = 0;
 
 		for (var t = 0; t < 3; t++)
 		{
@@ -521,6 +524,12 @@ function sortTable(col, reverse) {
 function renderMap() {
 	bbox = {t: -90, b: 90, l: 180, r: -180};
 	mapObj = L.map('map');
+	var icons = [];
+	for (var i = 0; i <= 10; i++)
+	{
+		var colour = hslToRgb(i / 30, 1, 0.5);
+		icons[i] = L.MakiMarkers.icon({icon: "circle", color: colour, size: "m"});
+	}
 	for (var i = 0; i < streets.length; i++)
 	{
 		var street = streets[i];
@@ -528,7 +537,8 @@ function renderMap() {
 		bbox.b = bbox.b > street.b ? street.b : bbox.b;
 		bbox.l = bbox.l > street.l ? street.l : bbox.l;
 		bbox.r = bbox.r < street.r ? street.r : bbox.r;
-		var marker = L.marker([(street.t + street.b) / 2, (street.l + street.r) / 2]).addTo(mapObj);
+		var icon = icons[Math.floor(street.completeness * 10)];
+		var marker = L.marker([(street.t + street.b) / 2, (street.l + street.r) / 2], {icon: icon}).addTo(mapObj);
 		marker.bindPopup(getMapPopup(i)).openPopup();
 	}
 	L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
@@ -643,5 +653,51 @@ function switchMapVsTable() {
 		button.innerHTML = "Show map";
 
 	}
+}
+
+/**
+ * Converts an HSL color value to RGB. Conversion formula
+ * adapted from http://en.wikipedia.org/wiki/HSL_color_space.
+ * Assumes h, s, and l are contained in the set [0, 1] and
+ * returns r, g, and b in the set [0, 255].
+ *
+ * @param   Number  h       The hue
+ * @param   Number  s       The saturation
+ * @param   Number  l       The lightness
+ * @return  Array           The RGB representation
+ */
+function hslToRgb(h, s, l){
+	var r, g, b;
+
+	if(s == 0)
+	{
+		r = g = b = l; // achromatic
+	}
+	else
+	{
+		function hue2rgb(p, q, t) {
+			if(t < 0) t += 1;
+			if(t > 1) t -= 1;
+			if(t < 1/6) return p + (q - p) * 6 * t;
+			if(t < 1/2) return q;
+			if(t < 2/3) return p + (q - p) * (2/3 - t) * 6;
+			return p;
+		}
+
+		var q = l < 0.5 ? l * (1 + s) : l + s - l * s;
+		var p = 2 * l - q;
+		r = hue2rgb(p, q, h + 1/3);
+		g = hue2rgb(p, q, h);
+		b = hue2rgb(p, q, h - 1/3);
+	}
+
+	function toHex(n) {
+		var h = Math.round(n * 255).toString(16);
+		if (h.length < 2)
+			h = "0" + h;
+		return h;
+	}
+
+	return "#" + toHex(r) + toHex(g) + toHex(b);
 }
 
