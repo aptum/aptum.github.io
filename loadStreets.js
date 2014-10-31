@@ -665,6 +665,9 @@ function collapseSection(id) {
 	{
 		section.style.display = "";
 		collapser.innerHTML = "\u25bc";
+		// Hack to get leaflet to recalculate the screen center
+		if (id == "map" && mapObj)
+			window.dispatchEvent(new Event('resize'));
 	}
 	else
 	{
