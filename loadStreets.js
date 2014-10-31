@@ -142,7 +142,7 @@ function readPcode()
 		if (req.readyState != 4)
 			return;
 		var data = JSON.parse(req.responseText);
-		var re = new RegExp(getStreetsFilter(), "i");
+		var re = new RegExp(getStreetsFilter());
 		streets = data.streets.filter(function(street) {
 			return re.test(street.name);
 		});
