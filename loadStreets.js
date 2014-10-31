@@ -109,9 +109,9 @@ function loadOsmData()
 	return document.getElementById("loadOsmInput").checked;
 }
 
-function showCrabHerkomst()
+function showCrabInfo()
 {
-	return document.getElementById("crabHerkomstInput").checked;
+	return document.getElementById("crabInfoInput").checked;
 }
 
 function includePcode()
@@ -303,14 +303,17 @@ function compareData() {
 			var type = ["missing", "missing_overlapping", "wrong"][t];
 			// Create links
 			var doc = document.getElementById(street.sanName + '-' + type);
-			doc.innerHTML = getCellHtml(type, i);
+			if (doc)
+				doc.innerHTML = getCellHtml(type, i);
 		}
 	}
 	for (var t = 0; t < 3; t++)
 	{
 		var type = ["missing", "missing_overlapping", "wrong"][t];
 		// enable GPX button
-		document.getElementById(type + "GpxButton").disabled = false;
+		var doc = document.getElementById(type + "GpxButton");
+		if (doc)
+			doc.disabled = false;
 	}
 }
 
@@ -386,11 +389,16 @@ function getOsmXml(type, streetData)
 		// tags
 		str += "<tag k='addr:housenumber' v='" + escapeXML(addr.housenumber) + "'/>";
 		str += "<tag k='addr:street' v='" + escapeXML(addr.street) + "'/>";
-		if ("source" in addr)
+		if (type == "wrong")
+			str += "<tag k='odbl:note' v='CRAB:OsmDerived'/>";
+		else
 		{
 			str += "<tag k='odbl:note' v='CRAB:" + escapeXML(addr.source) + "'/>";
-			if (showCrabHerkomst())
+			if (showCrabInfo())
+			{
 				str += "<tag k='CRAB:herkomst' v='" + escapeXML(addr.source) + "'/>";
+				str += "<tag k='CRAB:hnrLabel' v='" + escapeXML(addr.huisnrlabel) + "'/>";
+			}
 		}
 		if (includePcode())
 			// TODO: also include municipality and get the pcode from the actual address
@@ -608,7 +616,7 @@ function gotoPermalink() {
 	}
 	url += "loadOsm=" + document.getElementById("loadOsmInput").checked;
 	url += "&includePcode=" + document.getElementById("includePcodeInput").checked;
-	url += "&crabHerkomst=" + document.getElementById("crabHerkomstInput").checked;
+	url += "&crabInfo=" + document.getElementById("crabInfoInput").checked;
 	url += window.location.hash;
 	if (window.location.href == url)
 		window.location.reload(true);

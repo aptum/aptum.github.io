@@ -2,7 +2,6 @@ var assert = buster.assertions.assert;
 var refute = buster.assertions.refute;
 
 // Stubs to avoid reading/writing actual HTML or reading params
-writeCellHtml = function() {}
 getMaxDist = function() {return 0;} 
 getPcode = function() {return 1234;} 
 
@@ -26,7 +25,7 @@ const simpleAddr =  {
 	"lat": 1,
 	"lon": 1,
 	"pcode": 1234,
-	"street": "Dorpsstraat"
+	"street": "Dorpsstraat",
 };
 const simpleAddrCrab =  {
 	"housenumber": "1",
@@ -34,7 +33,8 @@ const simpleAddrCrab =  {
 	"lat": 1,
 	"lon": 1,
 	"pcode": 1234,
-	"street": "Dorpsstraat"
+	"street": "Dorpsstraat",
+	"source": "afgeleidVanIets",
 };
 
 /**

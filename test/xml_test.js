@@ -1,6 +1,13 @@
 var assert = buster.assertions.assert;
 var refute = buster.assertions.refute;
 
+var showCrabInfo = function() {
+	return false;
+}
+var includePcode = function() {
+	return false;
+}
+
 xmlValidityTest = function(xmlDoc) {
 	var root = xmlDoc.firstChild;
 	assert.equals(root.localName, "osm");
@@ -22,6 +29,7 @@ xmlValidityTest = function(xmlDoc) {
 				"addr:housenumber",
 				"addr:street",
 				"addr:postal_code",
+				"odbl:note",
 			];
 			assert(tag.attributes.v.value);
 			assert(possibleKeys.indexOf(tag.attributes.k.value) > -1);
@@ -36,7 +44,7 @@ buster.testCase("XmlGeneration", {
 
 	{
 		var street = {
-			"full": [cloneObj(simpleAddr)]
+			"full": [cloneObj(simpleAddrCrab)]
 		};
 		var xml = getOsmXml("full", street);
 		xmlDoc = parser.parseFromString(xml,"text/xml");
@@ -45,7 +53,7 @@ buster.testCase("XmlGeneration", {
 
 	"specialStreetXmlTest": function()
 	{
-		var addr = cloneObj(simpleAddr);
+		var addr = cloneObj(simpleAddrCrab);
 		addr.street = "\"'/\\ & <> =.(()[[]";
 		var xml = getOsmXml("full", {"full": [addr]});
 		xmlDoc = parser.parseFromString(xml,"text/xml");
@@ -58,7 +66,7 @@ buster.testCase("XmlGeneration", {
 
 	"specialHousenumberXmlTest": function()
 	{
-		var addr = cloneObj(simpleAddr);
+		var addr = cloneObj(simpleAddrCrab);
 		addr.housenumber = "\"'/\\ & <> =.(()[[]";
 		var xml = getOsmXml("full", {"full": [addr]});
 		xmlDoc = parser.parseFromString(xml,"text/xml");
