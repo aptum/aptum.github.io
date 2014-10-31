@@ -43,22 +43,24 @@ var tableId = "streetsTable";
 /**
  * Makes the html code for a table cell (including links tooltip, ...)
  */
-function getCellHtml(type, streetIdx)
+function getCellHtml(type, streetIdx, useMapAnchor)
 {
 	var street = streets[streetIdx];
 	var sanName = street.sanName;
+	var layerName =  sanName + '-' + type;
 	if (!street[type].length)
 		return "0";
 	else
-		return ("<a href='#%layerName' "+
+		return ("<a href='#%anchor' "+
 					"title='Load this data in JOSM (%type)' "+
 					"onclick='openInJosm(\"%type\", streets[%i], \"%layerName\")' >"+
 				"%num"+
 			"</a>")
+				.replace(/%anchor/g, useMapAnchor ? "map" : layerName)
 				.replace(/%type/g, type)
 				.replace(/%street/g, sanName)
 				.replace(/%i/g, streetIdx)
-				.replace(/%layerName/g, sanName + '-' + type)
+				.replace(/%layerName/g, layerName)
 				.replace(/%num/g, street[type].length);
 }
 
@@ -82,13 +84,13 @@ function getTableRow(streetIdx)
 }
 
 function getMapPopup(i) {
-	ret = "<h4><a href='#' onclick='openStreetInJosm(" + i + ")'>" + streets[i].name + "</a></h4>";
-	ret += "Total: " + getCellHtml("full", i) + "<br/>";
+	ret = "<h4><a href='#map' onclick='openStreetInJosm(" + i + ")'>" + streets[i].name + "</a></h4>";
+	ret += "Total: " + getCellHtml("full", i, true) + "<br/>";
 	if (loadOsmData())
 	{
-		ret += "Missing: " + getCellHtml("missing", i) + "<br/>";
-		ret += "Missing overlapping: " + getCellHtml("missing_overlapping", i) + "<br/>";
-		ret += "Wrong: " + getCellHtml("wrong", i);
+		ret += "Missing: " + getCellHtml("missing", i, true) + "<br/>";
+		ret += "Missing overlapping: " + getCellHtml("missing_overlapping", i, true) + "<br/>";
+		ret += "Wrong: " + getCellHtml("wrong", i, true);
 	}
 	return ret;
 }
@@ -174,6 +176,7 @@ function getCrabInfo(num) {
 		var data = JSON.parse(req.responseText);
 
 		streets[num].full = data.addresses;
+		streets[num].completeness = 0;
 		var doc = document.getElementById(sanName + '-full');
 		doc.innerHTML = getCellHtml("full", num);
 
@@ -316,7 +319,10 @@ function compareData() {
 		// enable GPX button
 		var doc = document.getElementById(type + "GpxButton");
 		if (doc)
+		{
 			doc.disabled = false;
+			doc.title = "Click to download the results as a GPX file"
+		}
 	}
 }
 
@@ -545,6 +551,7 @@ function renderMap() {
 		attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors',
 		maxZoom: 18
 	}).addTo(mapObj);
+	mapObj.setView([(bbox.t + bbox.b) / 2, (bbox.l + bbox.r) / 2], 13);
 }
 
 // HELPER FUNCTIONS
@@ -615,43 +622,54 @@ function escapeXML(str)
 }
 
 function gotoPermalink() {
-	var url = window.location.protocol + "//";
-	url += window.location.host;
-	url += window.location.pathname + "?";
+	var search = "?";
+	// free options
 	var ids = ["pcode", "filterStreets", "maxDistance"]
 	for (var i = 0; i < ids.length; i++)
 	{
 		var obj = document.getElementById(ids[i] + "Input");
-		url += ids[i] + "=" + encodeURIComponent(obj.value) + "&";
+		search += ids[i] + "=" + encodeURIComponent(obj.value) + "&";
 	}
-	url += "loadOsm=" + document.getElementById("loadOsmInput").checked;
-	url += "&includePcode=" + document.getElementById("includePcodeInput").checked;
-	url += "&crabInfo=" + document.getElementById("crabInfoInput").checked;
-	url += window.location.hash;
-	if (window.location.href == url)
+	// checkboxes
+	var ids = ["loadOsm", "includePcode", "crabInfo"]
+	for (var i = 0; i < ids.length; i++)
+	{
+		var obj = document.getElementById(ids[i] + "Input");
+		search += ids[i] + "=" + obj.checked + "&";
+	}
+
+	// collapsed sections
+	search += "collapsedSections=";
+	var ids = ["comparison", "export", "data", "map"]
+	search += ids.filter(function (id) {
+		var section = document.getElementById(id + "Section");
+		return section.style.display == "none";
+	}).join(",");	
+	
+	if (window.location.search == search)
 		window.location.reload(true);
 	else
+	{
+		var url = window.location.protocol + "//";
+		url += window.location.host;
+		url += window.location.pathname;
+		url += search;
 		window.location.href = url;
+	}
 }
 
-function switchMapVsTable() {
-	var button = document.getElementById("switchMapVsTableButton");
-	var map = document.getElementById(mapId);
-	var table = document.getElementById(tableId);
-	if (map.style.display == "none")
+function collapseSection(id) {
+	var section = document.getElementById(id + "Section");
+	var collapser = document.getElementById(id + "Collapser");
+	if (section.style.display == "none")
 	{
-		map.style.display = "";
-		table.style.display = "none";
-		button.innerHTML = "Show table";
-		if (mapObj)
-			mapObj.setView([(bbox.t + bbox.b) / 2, (bbox.l + bbox.r) / 2], 13);
+		section.style.display = "";
+		collapser.innerHTML = "\u25bc";
 	}
 	else
 	{
-		map.style.display = "none";
-		table.style.display = "";
-		button.innerHTML = "Show map";
-
+		section.style.display = "none";
+		collapser.innerHTML = "\u25b6";
 	}
 }
 

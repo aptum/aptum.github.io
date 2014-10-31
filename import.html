@@ -7,142 +7,195 @@
 		<title>Addr Import</title>
 		<link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.css" />
 		<style type="text/css">
-#map { height: 500px; }
+#map { height: 90%; }
 		</style>
 	</head>
 	<body>
 
-	<h2>Comparison options</h2>
-	<table>
-		<tr>
-			<td>
-				Select postal code:
-			</td>
-			<td>
-				<input
-					type="number" min="1000" max="9999"
-					id="pcodeInput"
-					title="Enter the postal code you want to query"/>
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Filter streets:
-			</td>
-			<td>
-				<input
-					type="text"
-					value="*"
-					id="filterStreetsInput"
-					title="Only show certain streets (use * as wildcard)."/>
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Load OSM data:
-			</td>
-			<td>
-				<input 
-					type="checkbox"
-					id="loadOsmInput"
-					title="Check this to also compare the CRAB data to the latest OSM data"/>
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Max distance:
-			</td>
-			<td>
-				<input
-					type="number" step="any" min="0"
-					id="maxDistanceInput"
-					title="Allowed difference between CRAB and OSM data (meters). Use 0 to not compare the distance (default)."/>
-			</td>
-		</tr>
-	</table>
-	<button type="button" onclick="gotoPermalink()">Update</button>
-
-	<h2>Export options</h2>
-	<table>
-		<tr>
-			<td>
-				include CRAB info:
-			</td>
-			<td>
-				<input
-					type="checkbox"
-					id="crabInfoInput"
-					title="Show the CRAB herkomst (precision) and housenumber label in OSM. Please do not upload this to the OSM database."/>
-			</td>
-		</tr>
-		<tr>
-			<td>
-				include municipality and postcode:
-			</td>
-			<td>
-				<input
-					type="checkbox"
-					id="includePcodeInput"
-					title="Include the postal code and municipality name in the OSM attributes (not really needed)."/>
-			</td>
-		</tr>
-	</table>
-
-	<h2>Data</h2>
-
-	<button type="button" onclick="switchMapVsTable()" id="switchMapVsTableButton">Show map</button>
-
-	<table id="streetsTable">
-		<thead>
+	<h2>
+		<u>
+			<a
+					href="#comparison"
+					name="comparison"
+					id="comparisonCollapser"
+					onclick="collapseSection('comparison')">
+				▼
+			</a>
+			Comparison options
+		</u>
+	</h2>
+	<div id="comparisonSection">
+		<table>
 			<tr>
-				<th title="Name of the street">Name</th>
-				<th title="All adresses in CRAB">Total</th>
-				<th title="Number of regular housenumbers not present in OSM">Missing</th>
-				<th title="Housenumbers where different ones are merged under the same hnrlabel, since they're overlapping. Map these with care, and decide if they belong to the same building or not.">Missing overlapping</th>
-				<th title="Housenumbers in OSM but without match in CRAB, please survey in case of doubt">Wrong</th>
-			</tr>
-		</thead>
-		<tbody id="streetsTableBody">
-		</tbody>
-		<tfoot>
-			<tr>
-				<td/>
-				<td/>
 				<td>
-					<button
-							type="button"
-							onclick="getGpx('missing')"
-							id="missingGpxButton"
-							disabled
-					>
-						GPX
-					</button>
+					Select postal code:
 				</td>
 				<td>
-					<button
-							type="button"
-							onclick="getGpx('missing_overlapping')"
-							id="missing_overlappingGpxButton"
-							disabled
-					>
-						GPX
-					</button>
-				</td>
-				<td>
-					<button
-							type="button"
-							onclick="getGpx('wrong')"
-							id="wrongGpxButton"
-							disabled
-					>
-						GPX
-					</button>
+					<input
+						type="number" min="1000" max="9999"
+						id="pcodeInput"
+						title="Enter the postal code you want to query"/>
 				</td>
 			</tr>
-		</tfoot>
-	</table>
+			<tr>
+				<td>
+					Filter streets:
+				</td>
+				<td>
+					<input
+						type="text"
+						value="*"
+						id="filterStreetsInput"
+						title="Only show certain streets (use * as wildcard)."/>
+				</td>
+			</tr>
+			<tr>
+				<td>
+					Load OSM data:
+				</td>
+				<td>
+					<input 
+						type="checkbox"
+						id="loadOsmInput"
+						title="Check this to also compare the CRAB data to the latest OSM data"/>
+				</td>
+			</tr>
+			<tr>
+				<td>
+					Max distance:
+				</td>
+				<td>
+					<input
+						type="number" step="any" min="0"
+						id="maxDistanceInput"
+						title="Allowed difference between CRAB and OSM data (meters). Use 0 to not compare the distance (default)."/>
+				</td>
+			</tr>
+		</table>
+		<button type="button" onclick="gotoPermalink()">Update</button>
+	</div>
+	<h2>
+		<u>
+			<a
+					href="#export"
+					name="export"
+					id="exportCollapser"
+					onclick="collapseSection('export')">
+				▼
+			</a>
+			Export options
+		</u>
+	</h2>
+	<div id="exportSection">
+		<table>
+			<tr>
+				<td>
+					include CRAB info:
+				</td>
+				<td>
+					<input
+						type="checkbox"
+						id="crabInfoInput"
+						title="Show the CRAB herkomst (precision) and housenumber label in OSM. Please do not upload this to the OSM database."/>
+				</td>
+			</tr>
+			<tr>
+				<td>
+					include municipality and postcode:
+				</td>
+				<td>
+					<input
+						type="checkbox"
+						id="includePcodeInput"
+						title="Include the postal code and municipality name in the OSM attributes (not really needed)."/>
+				</td>
+			</tr>
+		</table>
+	</div>
 
-	<div id="map"></div>
+	<h2>
+		<u>
+			<a
+					href="#data"
+					name="data"
+					id="dataCollapser"
+					onclick="collapseSection('data')">
+				▼
+			</a>
+			Data
+		</u>
+	</h2>
+
+	<div id="dataSection">
+		<table id="streetsTable">
+			<thead>
+				<tr>
+					<th title="Name of the street">Name</th>
+					<th title="All adresses in CRAB">Total</th>
+					<th title="Number of regular housenumbers not present in OSM">Missing</th>
+					<th title="Housenumbers where different ones are merged under the same hnrlabel, since they're overlapping. Map these with care, and decide if they belong to the same building or not.">Missing overlapping</th>
+					<th title="Housenumbers in OSM but without match in CRAB, please survey in case of doubt">Wrong</th>
+				</tr>
+			</thead>
+			<tbody id="streetsTableBody">
+			</tbody>
+			<tfoot>
+				<tr>
+					<td/>
+					<td/>
+					<td>
+						<button
+								type="button"
+								onclick="getGpx('missing')"
+								id="missingGpxButton"
+								title="Load OSM data to enable this"
+								disabled
+						>
+							GPX
+						</button>
+					</td>
+					<td>
+						<button
+								type="button"
+								onclick="getGpx('missing_overlapping')"
+								id="missing_overlappingGpxButton"
+								title="Load OSM data to enable this"
+								disabled
+						>
+							GPX
+						</button>
+					</td>
+					<td>
+						<button
+								type="button"
+								onclick="getGpx('wrong')"
+								id="wrongGpxButton"
+								title="Load OSM data to enable this"
+								disabled
+						>
+							GPX
+						</button>
+					</td>
+				</tr>
+			</tfoot>
+		</table>
+	</div>
+
+	<h2>
+		<u>
+			<a
+					href="#map"
+					name="map"
+					id="mapCollapser"
+					onclick="collapseSection('map')">
+				▼
+			</a>
+			Map
+		</u>
+	</h2>
+	<div id="mapSection">
+		<div id="map"></div>
+	</div>
 
 	<br/>
 	<small>
@@ -153,7 +206,6 @@
 	<script src="Leaflet.MakiMarkers.js"></script>
 	<script type="text/javascript" src="loadStreets.js"></script>
 	<script type="text/javascript">
-		document.getElementById(mapId).style.display = "none";
 		// Read the URL query to set stuff
 		var query = window.location.search.substring(1);
 		var vars = query.split("&");
@@ -162,6 +214,12 @@
 			var kv = vars[i].split("=");
 			if (kv.length != 2)
 				continue;
+			if (kv[0] == "collapsedSections")
+			{
+				var sections = kv[1].split(",");
+				sections.map(collapseSection);
+				continue;
+			}
 			kv[0] += "Input"
 			if (kv[1] == "true")
 				document.getElementById(kv[0]).checked = true;
