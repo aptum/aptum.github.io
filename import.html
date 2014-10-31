@@ -104,6 +104,42 @@
 		</thead>
 		<tbody id="streetsTableBody">
 		</tbody>
+		<tfoot>
+			<tr>
+				<td/>
+				<td/>
+				<td>
+					<button
+							type="button"
+							onclick="getGpx('missing')"
+							id="missingGpxButton"
+							disabled
+					>
+						GPX
+					</button>
+				</td>
+				<td>
+					<button
+							type="button"
+							onclick="getGpx('missing_overlapping')"
+							id="missing_overlappingGpxButton"
+							disabled
+					>
+						GPX
+					</button>
+				</td>
+				<td>
+					<button
+							type="button"
+							onclick="getGpx('wrong')"
+							id="wrongGpxButton"
+							disabled
+					>
+						GPX
+					</button>
+				</td>
+			</tr>
+		</tfoot>
 	</table>
 
 	<div id="map"></div>

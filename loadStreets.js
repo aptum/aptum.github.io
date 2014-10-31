@@ -293,14 +293,24 @@ function compareData() {
 		street.missing_overlapping = compareStreet(crabStreet_overlapping, osmStreet);
 		street.wrong = compareStreet(osmStreet, crabStreet);
 
+		street.completeness = 1 -
+			( street.missing.length +
+			street.missing_overlapping.length +
+			street.wrong.length ) / street.full.length;
 
-		// Create links
-		var doc = document.getElementById(street.sanName + '-missing');
-		doc.innerHTML = getCellHtml("missing", i);
-		var doc = document.getElementById(street.sanName + '-missing_overlapping');
-		doc.innerHTML = getCellHtml("missing_overlapping", i);
-		var doc = document.getElementById(street.sanName + '-wrong');
-		doc.innerHTML = getCellHtml("wrong", i);
+		for (var t = 0; t < 3; t++)
+		{
+			var type = ["missing", "missing_overlapping", "wrong"][t];
+			// Create links
+			var doc = document.getElementById(street.sanName + '-' + type);
+			doc.innerHTML = getCellHtml(type, i);
+		}
+	}
+	for (var t = 0; t < 3; t++)
+	{
+		var type = ["missing", "missing_overlapping", "wrong"][t];
+		// enable GPX button
+		document.getElementById(type + "GpxButton").disabled = false;
 	}
 }
 
@@ -395,6 +405,42 @@ function getOsmXml(type, streetData)
 	return str;
 }
 
+function getGpxXml(type) {
+	var gpx = "<gpx>";
+	for (var i = 0; i < streets.length; i++)
+	{
+		for (var j = 0; j < streets[i][type].length; j++)
+		{
+			var addr = streets[i][type][j];
+			gpx += "<wpt lat='" + addr.lat + "' ";
+			gpx += "lon='" + addr.lon + "'>";
+			gpx += "<name>"
+			gpx += type + ": " + escapeXML(addr.street) + " " + escapeXML(addr.housenumber);
+			gpx += "</name>";
+			gpx += "</wpt>";
+			
+		}
+	}
+	gpx += "</gpx>";
+	return gpx;
+}
+
+function getGpx(type) {
+	var xml = getGpxXml(type);
+	var uri = 'data:application/xml;charset=utf-8,' + encodeURIComponent(xml);
+
+	var link = document.createElement('a');
+    if (typeof link.download === 'string') {
+        document.body.appendChild(link); //Firefox requires the link to be in the body
+        link.download = getPcode() + "_" + type + ".gpx";
+        link.href = uri;
+        link.click();
+        document.body.removeChild(link); //remove the link when done
+    } else {
+        location.replace(uri);
+    }
+}
+
 // REMOTECONTROL BINDINGS
 function openInJosm(type, streetData, layerName)
 {
@@ -443,7 +489,7 @@ function testJosmVersion() {
 }
 
 function sortTable(col, reverse) {
-	var tb = document.getElementById(tableId);
+	var tb = document.getElementById(tableBodyId);
 	var sortFunction = function (r1, r2) {
 		var t1 = r1.cells[col].textContent;
 		var t2 = r2.cells[col].textContent;
