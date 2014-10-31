@@ -661,6 +661,8 @@ function gotoPermalink() {
 function collapseSection(id) {
 	var section = document.getElementById(id + "Section");
 	var collapser = document.getElementById(id + "Collapser");
+	if (!section || !collapser)
+		return;
 	if (section.style.display == "none")
 	{
 		section.style.display = "";
