@@ -29,7 +29,7 @@ const simpleAddr =  {
 };
 const simpleAddrCrab =  {
 	"housenumber": "1",
-	"huisnrlabel": "1",
+	"hnrlbls": ["1"],
 	"lat": 1,
 	"lon": 1,
 	"pcode": 1234,
@@ -113,11 +113,11 @@ buster.testCase("Comparisons", {
 	"houseNumberRangeToRangeTest1": function()
 	{
 		var addrCRAB1 = cloneObj(simpleAddrCrab);
-		addrCRAB1.huisnrlabel = "1-3";
+		addrCRAB1.hnrlbls = ["1-3"];
 
 		var addrCRAB2 = cloneObj(simpleAddrCrab);
 		addrCRAB2.housenumber = "3";
-		addrCRAB2.huisnrlabel = "1-3";
+		addrCRAB2.hnrlbls = ["1-3"];
 
 		var addrOSM = cloneObj(simpleAddr);
 		addrOSM.housenumber = "1-3";
@@ -129,15 +129,15 @@ buster.testCase("Comparisons", {
 	"houseNumberRangeToRangeTest2": function()
 	{
 		var addrCRAB1 = cloneObj(simpleAddrCrab);
-		addrCRAB1.huisnrlabel = "1-5";
+		addrCRAB1.hnrlbls = ["1-5"];
 
 		var addrCRAB2 = cloneObj(simpleAddrCrab);
 		addrCRAB2.housenumber = "3";
-		addrCRAB2.huisnrlabel = "1-5";
+		addrCRAB2.hnrlbls = ["1-5"];
 
 		var addrCRAB3 = cloneObj(simpleAddrCrab);
 		addrCRAB3.housenumber = "5";
-		addrCRAB3.huisnrlabel = "1-5";
+		addrCRAB3.hnrlbls = ["1-5"];
 
 		var addrOSM = cloneObj(simpleAddr);
 		addrOSM.housenumber = "1-5";
@@ -149,11 +149,11 @@ buster.testCase("Comparisons", {
 	"housenumberRangeToSinglesTest1": function()
 	{
 		var addrCRAB1 = cloneObj(simpleAddrCrab);
-		addrCRAB1.huisnrlabel = "1-3";
+		addrCRAB1.hnrlbls = ["1-3"];
 
 		var addrCRAB2 = cloneObj(simpleAddrCrab);
 		addrCRAB2.housenumber = "3";
-		addrCRAB2.huisnrlabel = "1-3";
+		addrCRAB2.hnrlbls = ["1-3"];
 
 		var addrOSM1 = cloneObj(simpleAddr);
 
@@ -166,15 +166,15 @@ buster.testCase("Comparisons", {
 	"housenumberRangeToSinglesTest2": function()
 	{
 		var addrCRAB1 = cloneObj(simpleAddrCrab);
-		addrCRAB1.huisnrlabel = "1-5";
+		addrCRAB1.hnrlbls = ["1-5"];
 
 		var addrCRAB2 = cloneObj(simpleAddrCrab);
 		addrCRAB2.housenumber = "3";
-		addrCRAB2.huisnrlabel = "1-5";
+		addrCRAB2.hnrlbls = ["1-5"];
 
 		var addrCRAB3 = cloneObj(simpleAddrCrab);
 		addrCRAB3.housenumber = "5";
-		addrCRAB3.huisnrlabel = "1-5";
+		addrCRAB3.hnrlbls = ["1-5"];
 
 		var addrOSM1 = cloneObj(simpleAddr);
 
@@ -191,7 +191,7 @@ buster.testCase("Comparisons", {
 	{
 		var addrCRAB = cloneObj(simpleAddrCrab);
 		addrCRAB.housenumber = "1A";
-		addrCRAB.huisnrlabel = "1A";
+		addrCRAB.hnrlbls = ["1A"];
 
 		var addrOSM = cloneObj(simpleAddr);
 		addrOSM.housenumber = "1a";
@@ -203,7 +203,7 @@ buster.testCase("Comparisons", {
 	{
 		var addrCRAB = cloneObj(simpleAddrCrab);
 		addrCRAB.housenumber = "1A";
-		addrCRAB.huisnrlabel = "1A";
+		addrCRAB.hnrlbls = ["1A"];
 
 		var addrOSM = cloneObj(simpleAddr);
 		addrOSM.housenumber = "1A";
@@ -215,7 +215,7 @@ buster.testCase("Comparisons", {
 	{
 		var addrCRAB = cloneObj(simpleAddrCrab);
 		addrCRAB.housenumber = "1_2";
-		addrCRAB.huisnrlabel = "1_2";
+		addrCRAB.hnrlbls = ["1_2"];
 
 		var addrOSM = cloneObj(simpleAddr);
 		addrOSM.housenumber = "1 bis";
@@ -227,7 +227,7 @@ buster.testCase("Comparisons", {
 	{
 		var addrCRAB = cloneObj(simpleAddrCrab);
 		addrCRAB.housenumber = "1_3";
-		addrCRAB.huisnrlabel = "1_3";
+		addrCRAB.hnrlbls = ["1_3"];
 
 		var addrOSM = cloneObj(simpleAddr);
 		addrOSM.housenumber = "1 ter";
@@ -239,7 +239,7 @@ buster.testCase("Comparisons", {
 	{
 		var addrCRAB = cloneObj(simpleAddrCrab);
 		addrCRAB.housenumber = "1_2";
-		addrCRAB.huisnrlabel = "1_2";
+		addrCRAB.hnrlbls = ["1_2"];
 
 		var addrOSM = cloneObj(simpleAddr);
 		addrOSM.housenumber = "1/2";

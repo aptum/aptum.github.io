@@ -357,11 +357,15 @@ function compareAddr(sourceAddr, compAddr)
 	}
 
 	sourceHnr = uniformise(sourceAddr.housenumber);
-	if(sourceAddr.hnrlbls === undefined){sourceHnrLabel = ""}
-	else                                {sourceHnrLabel = uniformise(sourceAddr.hnrlbls[0])}
 	compHnr = uniformise(compAddr.housenumber);
-	if(compAddr.hnrlbls === undefined) {compHnrLabel = ""}
-	else                               {compHnrLabel = uniformise(compAddr.hnrlbls[0])}
+	if(!sourceAddr.hnrlbls)
+		sourceHnrLabel = "";
+	else
+		sourceHnrLabel = uniformise(sourceAddr.hnrlbls[0]);
+	if(!compAddr.hnrlbls)
+		compHnrLabel = "";
+	else
+		compHnrLabel = uniformise(compAddr.hnrlbls[0]);
 	
 	var matchHnr = false;
 	if (compHnr == sourceHnr)
@@ -408,12 +412,14 @@ function getOsmXml(type, streetData)
 			if (showCrabInfo())
 			{
 				str += "<tag k='CRAB:herkomst' v='" + escapeXML(addr.source) + "'/>";
-				str += "<tag k='CRAB:hnrLabel' v='" + escapeXML(addr.hnrlbls[0]) + "'/>";
+				str += "<tag k='CRAB:hnrLabel' v='" + escapeXML(addr.hnrlbls[0].join(",")) + "'/>";
 			}
 		}
-		if (includePcode())
-			// TODO: also include municipality and get the pcode from the actual address
-			str +=  "<tag k='addr:postcode' v='" + escapeXML("" + getPcode()) + "'/>";
+		if (includePcode() && type != "wrong")
+		{
+			str +=  "<tag k='addr:postcode' v='" + escapeXML(addr.pcode) + "'/>";
+			str +=  "<tag k='addr:postcode' v='" + escapeXML(addr.municipality) + "'/>";
+		}
 
 		if (type == "wrong")
 			str += "<tag k='fixme' v='This number is not preset in CRAB. It may be a spelling mistake, a non-existing address or an error in CRAB itself.'/>";
