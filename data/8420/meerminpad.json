@@ -1,21 +1,28 @@
 {
   "addresses": [
     {
+      "apptnrs": "VER1,VER2", 
+      "busnrs": "101,102,201", 
+      "hnrlbls": [
+        "1"
+      ], 
       "housenumber": "1", 
-      "huisnrlabel": "1", 
       "lat": 51.308653294285044, 
       "lon": 3.1046863183676323, 
-      "message": "busnrs on this address: 201, 102, 101; apptnrs on this address: VER1, VER2", 
+      "municipality": "De Haan", 
       "pcode": "8420", 
       "source": "afgeleidVanGebouw", 
       "street": "Meerminpad"
     }, 
     {
+      "busnrs": "1,101,102,2,201", 
+      "hnrlbls": [
+        "3"
+      ], 
       "housenumber": "3", 
-      "huisnrlabel": "3", 
       "lat": 51.30835110275593, 
       "lon": 3.1052287714909315, 
-      "message": "busnrs on this address: 2, 101, 1, 201, 102", 
+      "municipality": "De Haan", 
       "pcode": "8420", 
       "source": "afgeleidVanGebouw", 
       "street": "Meerminpad"

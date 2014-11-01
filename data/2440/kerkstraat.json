@@ -1,31 +1,41 @@
 {
   "addresses": [
     {
+      "apptnrs": "1,2,4", 
+      "busnrs": "3,5", 
+      "hnrlbls": [
+        "2"
+      ], 
       "housenumber": "2", 
-      "huisnrlabel": "2", 
       "lat": 51.14185389796417, 
       "lon": 4.94490004149779, 
-      "message": "busnrs on this address: 3, 5; apptnrs on this address: 4, 1, 2", 
+      "municipality": "Geel", 
       "pcode": "2440", 
       "source": "manueleAanduidingVanPerceel", 
       "street": "Kerkstraat"
     }, 
     {
+      "busnrs": "1,2,3,4,5,6", 
+      "hnrlbls": [
+        "4"
+      ], 
       "housenumber": "4", 
-      "huisnrlabel": "4", 
       "lat": 51.14194501128696, 
       "lon": 4.944796710396851, 
-      "message": "busnrs on this address: 3, 6, 1, 5, 4, 2", 
+      "municipality": "Geel", 
       "pcode": "2440", 
       "source": "manueleAanduidingVanPerceel", 
       "street": "Kerkstraat"
     }, 
     {
+      "apptnrs": "1,2,3,4,5,6", 
+      "hnrlbls": [
+        "6"
+      ], 
       "housenumber": "6", 
-      "huisnrlabel": "6", 
       "lat": 51.142069006807525, 
       "lon": 4.944678495024648, 
-      "message": "apptnrs on this address: 1, 4, 2, 5, 6, 3", 
+      "municipality": "Geel", 
       "pcode": "2440", 
       "source": "manueleAanduidingVanLot", 
       "street": "Kerkstraat"

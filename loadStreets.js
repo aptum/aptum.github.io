@@ -286,10 +286,10 @@ function compareData() {
 		});
 		
 		var crabStreetPos = crabStreet.filter(function(addr) {
-			return addr.housenumber == addr.huisnrlabel;
+			return addr.housenumber == addr.hnrlbls[0];
 		});
 		var crabStreet_overlapping = crabStreet.filter(function(addr) {
-			return addr.housenumber != addr.huisnrlabel;
+			return addr.housenumber != addr.hnrlbls[0];
 		});
 		// Matches in one direction
 		street.missing = compareStreet(crabStreetPos, osmStreet);
@@ -357,9 +357,9 @@ function compareAddr(sourceAddr, compAddr)
 	}
 
 	sourceHnr = uniformise(sourceAddr.housenumber);
-	sourceHnrLabel = uniformise(sourceAddr.huisnrlabel);
+	sourceHnrLabel = uniformise(sourceAddr.hnrlbls[0]);
 	compHnr = uniformise(compAddr.housenumber);
-	compHnrLabel = uniformise(compAddr.huisnrlabel);
+	compHnrLabel = uniformise(compAddr.hnrlbls[0]);
 	
 	var matchHnr = false;
 	if (compHnr == sourceHnr)
@@ -406,7 +406,7 @@ function getOsmXml(type, streetData)
 			if (showCrabInfo())
 			{
 				str += "<tag k='CRAB:herkomst' v='" + escapeXML(addr.source) + "'/>";
-				str += "<tag k='CRAB:hnrLabel' v='" + escapeXML(addr.huisnrlabel) + "'/>";
+				str += "<tag k='CRAB:hnrLabel' v='" + escapeXML(addr.hnrlbls[0]) + "'/>";
 			}
 		}
 		if (includePcode())

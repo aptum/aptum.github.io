@@ -1,41 +1,53 @@
 {
   "addresses": [
     {
+      "busnrs": "1,2,3,4", 
+      "hnrlbls": [
+        "1-1O"
+      ], 
       "housenumber": "1", 
-      "huisnrlabel": "1-1O", 
       "lat": 51.02551828167238, 
       "lon": 4.476186987646294, 
-      "message": "busnrs on this address: 1, 3, 4, 2", 
+      "municipality": "Mechelen", 
       "pcode": "2800", 
       "source": "afgeleidVanPerceelGrb", 
       "street": "Zwaanstraatje"
     }, 
     {
+      "busnrs": "100,300", 
+      "hnrlbls": [
+        "1-1O"
+      ], 
       "housenumber": "1O", 
-      "huisnrlabel": "1-1O", 
       "lat": 51.02551828167238, 
       "lon": 4.476186987646294, 
-      "message": "busnrs on this address: 300, 100", 
+      "municipality": "Mechelen", 
       "pcode": "2800", 
       "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
       "street": "Zwaanstraatje"
     }, 
     {
+      "busnrs": "1,2,3", 
+      "hnrlbls": [
+        "1-2"
+      ], 
       "housenumber": "2", 
-      "huisnrlabel": "1-2", 
       "lat": 51.025682450614106, 
       "lon": 4.476155153538569, 
-      "message": "busnrs on this address: 1, 2, 3", 
+      "municipality": "Mechelen", 
       "pcode": "2800", 
       "source": "afgeleidVanGebouw", 
       "street": "Zwaanstraatje"
     }, 
     {
+      "busnrs": "3", 
+      "hnrlbls": [
+        "4"
+      ], 
       "housenumber": "4", 
-      "huisnrlabel": "4", 
       "lat": 51.02552439134034, 
       "lon": 4.476385696567994, 
-      "message": "busnrs on this address: 3", 
+      "municipality": "Mechelen", 
       "pcode": "2800", 
       "source": "afgeleidVanStraat", 
       "street": "Zwaanstraatje"

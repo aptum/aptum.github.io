@@ -1,31 +1,39 @@
 {
   "addresses": [
     {
+      "busnrs": "1,2", 
+      "hnrlbls": [
+        "1"
+      ], 
       "housenumber": "1", 
-      "huisnrlabel": "1", 
       "lat": 50.83024967671122, 
       "lon": 3.2650859649346176, 
-      "message": "busnrs on this address: 2, 1", 
+      "municipality": "Kortrijk", 
       "pcode": "8500", 
       "source": "geinterpoleerdObvWegverbinding", 
       "street": "Trompestraat"
     }, 
     {
+      "hnrlbls": [
+        "10"
+      ], 
       "housenumber": "10", 
-      "huisnrlabel": "10", 
       "lat": 50.83014220391324, 
       "lon": 3.2647859712046614, 
-      "message": "", 
+      "municipality": "Kortrijk", 
       "pcode": "8500", 
       "source": "afgeleidVanStraat", 
       "street": "Trompestraat"
     }, 
     {
+      "busnrs": "1,11,12", 
+      "hnrlbls": [
+        "3"
+      ], 
       "housenumber": "3", 
-      "huisnrlabel": "3", 
       "lat": 50.83029076174427, 
       "lon": 3.2648851222547224, 
-      "message": "busnrs on this address: 1, 11, 12", 
+      "municipality": "Kortrijk", 
       "pcode": "8500", 
       "source": "afgeleidVanGebouw", 
       "street": "Trompestraat"
