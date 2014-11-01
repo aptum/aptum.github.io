@@ -357,9 +357,11 @@ function compareAddr(sourceAddr, compAddr)
 	}
 
 	sourceHnr = uniformise(sourceAddr.housenumber);
-	sourceHnrLabel = uniformise(sourceAddr.hnrlbls[0]);
+	if(sourceAddr.hnrlbls === undefined){sourceHnrLabel = ""}
+	else                                {sourceHnrLabel = uniformise(sourceAddr.hnrlbls[0])}
 	compHnr = uniformise(compAddr.housenumber);
-	compHnrLabel = uniformise(compAddr.hnrlbls[0]);
+	if(compAddr.hnrlbls === undefined) {compHnrLabel = ""}
+	else                               {compHnrLabel = uniformise(compAddr.hnrlbls[0])}
 	
 	var matchHnr = false;
 	if (compHnr == sourceHnr)
