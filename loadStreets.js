@@ -39,6 +39,16 @@ var tableBodyId = "streetsTableBody";
 var mapId = "map"
 var tableId = "streetsTable";
 
+/**
+ * A housenumber is a number, followed by one possible bis-number
+ * The bisnumber can either be 
+ * - a capitalised letter (A, B, C, ...)
+ * - a '/' followed by a number
+ * - a wordly description: bis, ter, ... (separated with a space)
+ */
+var validHnrRegex = /^[0-9]+([A-Z]|\/[0-9]+| bis| ter)?$/;
+
+
 // HTML WRITERS
 /**
  * Makes the html code for a table cell (including links tooltip, ...)
@@ -295,6 +305,9 @@ function compareData() {
 		street.missing = compareStreet(crabStreetPos, osmStreet);
 		street.missing_overlapping = compareStreet(crabStreet_overlapping, osmStreet);
 		street.wrong = compareStreet(osmStreet, crabStreet);
+		street.wrong.concat(osmStreet.filter(function (addr) {
+			return !validHnrRegex.test(addr.housenumber);
+		}));
 
 		// express the completeness as a number between 0 and 1
 		street.completeness = 1 -
@@ -398,6 +411,7 @@ function getOsmXml(type, streetData)
 	for (var i = 0; i < streetData[type].length; i++)
 	{
 		var addr = streetData[type][i];
+		var fixme = "";
 
 		str += "<node id='" + (-i-1) + "' " +
 			"lat='" + addr.lat + "' " +
@@ -411,7 +425,7 @@ function getOsmXml(type, streetData)
 		if (type == "wrong")
 		{
 			str += getOsmTag("odbl:note", "CRAB:OsmDerived");
-			str += getOsmTag("fixme", "This number is not preset in CRAB. It may be a spelling mistake, a non-existing address or an error in CRAB itself.");
+			fixme += "This number is not preset in CRAB. It may be a spelling mistake, a non-existing address or an error in CRAB itself. ";
 		}
 		else
 		{
@@ -427,8 +441,12 @@ function getOsmXml(type, streetData)
 				str += getOsmTag("CRAB:hnrLabels", addr.hnrlbls.join(";"));
 			}
 			if (addr.hnrlbls.length > 1)
-				str += getOsmTag("fixme", "This number contains multiple housenumber labels. As the housenumber labels is a combination of all housenumbers in that location, this is certainly a mistake in CRAB. Please report it to AGIV.");
+				fixme += "This number contains multiple housenumber labels. As the housenumber labels is a combination of all housenumbers in that location, this is certainly a mistake in CRAB. Please report it to AGIV. ";
 		}
+		if (!validHnrRegex.test(addr.housenumber))
+			fixme += "This housenumber does not follow the usual housenumber pattern. "
+		if (fixme)
+			str += getOsmTag("fixme", fixme);
 
 		str += "</node>";
 	}
@@ -737,4 +755,5 @@ function hslToRgb(h, s, l){
 
 	return "#" + toHex(r) + toHex(g) + toHex(b);
 }
+
 
