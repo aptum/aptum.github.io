@@ -30,6 +30,7 @@ xmlValidityTest = function(xmlDoc) {
 				"addr:street",
 				"addr:postal_code",
 				"odbl:note",
+				"fixme",
 			];
 			assert(tag.attributes.v.value);
 			assert(possibleKeys.indexOf(tag.attributes.k.value) > -1);
