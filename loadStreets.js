@@ -26,7 +26,11 @@ if (!Array.prototype.find) {
 }
 
 // GLOBAL VARIABLES
-var overpassapi = "http://overpass-api.de/api/interpreter?data=";
+/* @TODO: temporary fix for emergency rollback overpass-api.de
+ *        decide on how to handle this in the future
+ *  var overpassapi = "http://overpass-api.de/api/interpreter?data=";
+ */
+var overpassapi = "http://overpass.osm.rambler.ru/cgi/interpreter?data=";
 
 var crabInfo = {};
 var osmInfo = [];
