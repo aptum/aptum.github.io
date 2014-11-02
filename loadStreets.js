@@ -265,7 +265,8 @@ function getOsmInfo() {
 		{
 			var addr = {};
 			var d = data[i];
-			if(d.lat || d.center.lat)
+			// Check if positional data is present in the element to be parsed
+			if(not(typeof(d.lat) === 'undefined' && typeof(d.center.lat) === 'undefine'))
 			{
 				addr.lat = d.lat || d.center.lat;
 				addr.lon = d.lon || d.center.lon;
