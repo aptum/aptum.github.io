@@ -45,8 +45,9 @@ var tableId = "streetsTable";
  * - a capitalised letter (A, B, C, ...)
  * - a '/' followed by a number
  * - a wordly description: bis, ter, ... (separated with a space)
+ * Eventually it's an address range, connected with a hyphen
  */
-var validHnrRegex = /^[0-9]+([A-Z]|\/[0-9]+| bis| ter)?$/;
+var validHnrRegex = /^[0-9]+([A-Z]|\/[0-9]+| bis| ter)?(\-[0-9]+([A-Z]|\/[0-9]+| bis| ter)?)?$/;
 
 
 // HTML WRITERS
