@@ -265,14 +265,17 @@ function getOsmInfo() {
 		{
 			var addr = {};
 			var d = data[i];
-			addr.lat = d.lat || d.center.lat;
-			addr.lon = d.lon || d.center.lon;
+			if(d.lat || d.center.lat)
+			{
+				addr.lat = d.lat || d.center.lat;
+				addr.lon = d.lon || d.center.lon;
 
-			if (!d.tags["addr:housenumber"] || !d.tags["addr:street"])
-				continue;
-			addr.housenumber = d.tags["addr:housenumber"];
-			addr.street = d.tags["addr:street"];
-			osmInfo.push(addr);
+				if (!d.tags["addr:housenumber"] || !d.tags["addr:street"])
+					continue;
+				addr.housenumber = d.tags["addr:housenumber"];
+				addr.street = d.tags["addr:street"];
+				osmInfo.push(addr);
+			}
 		}
 		finished[streets.length] = true;
 		finishLoading();
