@@ -697,8 +697,20 @@
       "street": "Molemstraat"
     }, 
     {
-      "apptnrs": "1.1,1.2,1.3,1.4,2.1,2.2,2.3,2.4", 
-      "busnrs": "1,2", 
+      "apptnrs": [
+        "1.1", 
+        "1.2", 
+        "1.3", 
+        "1.4", 
+        "2.1", 
+        "2.2", 
+        "2.3", 
+        "2.4"
+      ], 
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "27"
       ], 
@@ -723,7 +735,10 @@
       "street": "Molemstraat"
     }, 
     {
-      "busnrs": "1,2", 
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "29"
       ], 
@@ -820,8 +835,14 @@
       "street": "Molemstraat"
     }, 
     {
-      "apptnrs": "00.1,01.1", 
-      "busnrs": "0,1", 
+      "apptnrs": [
+        "00.1", 
+        "01.1"
+      ], 
+      "busnrs": [
+        "0", 
+        "1"
+      ], 
       "hnrlbls": [
         "35"
       ], 
@@ -978,7 +999,11 @@
       "street": "Molemstraat"
     }, 
     {
-      "busnrs": "1,2,3", 
+      "busnrs": [
+        "1", 
+        "2", 
+        "3"
+      ], 
       "hnrlbls": [
         "45-45B"
       ], 
@@ -1075,8 +1100,14 @@
       "street": "Molemstraat"
     }, 
     {
-      "apptnrs": "1.1,1.2,1.3", 
-      "busnrs": "1", 
+      "apptnrs": [
+        "1.1", 
+        "1.2", 
+        "1.3"
+      ], 
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "50-52"
       ], 
@@ -1353,7 +1384,10 @@
       "street": "Molemstraat"
     }, 
     {
-      "busnrs": "1,2", 
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "65"
       ], 
@@ -1486,8 +1520,15 @@
       "street": "Molemstraat"
     }, 
     {
-      "apptnrs": "1.1,1.2,2.1", 
-      "busnrs": "1,2", 
+      "apptnrs": [
+        "1.1", 
+        "1.2", 
+        "2.1"
+      ], 
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "74"
       ], 

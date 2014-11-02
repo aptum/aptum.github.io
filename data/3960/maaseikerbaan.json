@@ -157,8 +157,16 @@
       "street": "Maaseikerbaan"
     }, 
     {
-      "apptnrs": "0/01,0/02,01/1,01/2", 
-      "busnrs": "1,2", 
+      "apptnrs": [
+        "0/01", 
+        "0/02", 
+        "01/1", 
+        "01/2"
+      ], 
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -207,8 +215,12 @@
       "street": "Maaseikerbaan"
     }, 
     {
-      "apptnrs": "1/2", 
-      "busnrs": "1/1", 
+      "apptnrs": [
+        "1/2"
+      ], 
+      "busnrs": [
+        "1/1"
+      ], 
       "hnrlbls": [
         "24"
       ], 

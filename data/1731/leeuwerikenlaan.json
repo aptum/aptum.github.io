@@ -73,7 +73,9 @@
       "street": "Leeuwerikenlaan"
     }, 
     {
-      "apptnrs": "1.0", 
+      "apptnrs": [
+        "1.0"
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -110,8 +112,14 @@
       "street": "Leeuwerikenlaan"
     }, 
     {
-      "apptnrs": "0.0,1.0,2.0", 
-      "busnrs": "1", 
+      "apptnrs": [
+        "0.0", 
+        "1.0", 
+        "2.0"
+      ], 
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "6"
       ], 

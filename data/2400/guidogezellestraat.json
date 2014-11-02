@@ -49,7 +49,9 @@
       "street": "Guido Gezellestraat"
     }, 
     {
-      "busnrs": "101", 
+      "busnrs": [
+        "101"
+      ], 
       "hnrlbls": [
         "17"
       ], 
@@ -230,7 +232,10 @@
       "street": "Guido Gezellestraat"
     }, 
     {
-      "busnrs": "1,101", 
+      "busnrs": [
+        "1", 
+        "101"
+      ], 
       "hnrlbls": [
         "27"
       ], 
@@ -399,7 +404,10 @@
       "street": "Guido Gezellestraat"
     }, 
     {
-      "busnrs": "1,101", 
+      "busnrs": [
+        "1", 
+        "101"
+      ], 
       "hnrlbls": [
         "4"
       ], 
@@ -652,7 +660,15 @@
       "street": "Guido Gezellestraat"
     }, 
     {
-      "busnrs": "1,101,102,2,201,202,301", 
+      "busnrs": [
+        "1", 
+        "101", 
+        "102", 
+        "2", 
+        "201", 
+        "202", 
+        "301"
+      ], 
       "hnrlbls": [
         "7"
       ], 

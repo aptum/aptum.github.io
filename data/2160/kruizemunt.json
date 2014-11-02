@@ -1,7 +1,12 @@
 {
   "addresses": [
     {
-      "apptnrs": "GVLR,V1A,V1L,V1R", 
+      "apptnrs": [
+        "GVLR", 
+        "V1A", 
+        "V1L", 
+        "V1R"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -146,8 +151,15 @@
       "street": "Kruizemunt"
     }, 
     {
-      "apptnrs": "GVLR,V1A,V1L,V1R", 
-      "busnrs": "GVLL", 
+      "apptnrs": [
+        "GVLR", 
+        "V1A", 
+        "V1L", 
+        "V1R"
+      ], 
+      "busnrs": [
+        "GVLL"
+      ], 
       "hnrlbls": [
         "3"
       ], 
@@ -172,7 +184,11 @@
       "street": "Kruizemunt"
     }, 
     {
-      "apptnrs": "V1A,V1L,V1R", 
+      "apptnrs": [
+        "V1A", 
+        "V1L", 
+        "V1R"
+      ], 
       "hnrlbls": [
         "5"
       ], 

@@ -265,8 +265,14 @@
       "street": "Raymond Lauwersstraat"
     }, 
     {
-      "apptnrs": "1.0", 
-      "busnrs": "1,10,20", 
+      "apptnrs": [
+        "1.0"
+      ], 
+      "busnrs": [
+        "1", 
+        "10", 
+        "20"
+      ], 
       "hnrlbls": [
         "33"
       ], 
@@ -279,7 +285,11 @@
       "street": "Raymond Lauwersstraat"
     }, 
     {
-      "busnrs": "1,10,20", 
+      "busnrs": [
+        "1", 
+        "10", 
+        "20"
+      ], 
       "hnrlbls": [
         "35"
       ], 

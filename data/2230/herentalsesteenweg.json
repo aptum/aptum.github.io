@@ -1,7 +1,21 @@
 {
   "addresses": [
     {
-      "busnrs": "01/1,01/2,01/3,01/4,01/5,01/6,01/7,A,B,C,D,E,F", 
+      "busnrs": [
+        "01/1", 
+        "01/2", 
+        "01/3", 
+        "01/4", 
+        "01/5", 
+        "01/6", 
+        "01/7", 
+        "A", 
+        "B", 
+        "C", 
+        "D", 
+        "E", 
+        "F"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -542,7 +556,11 @@
       "street": "Herentalsesteenweg"
     }, 
     {
-      "busnrs": "1,2,3", 
+      "busnrs": [
+        "1", 
+        "2", 
+        "3"
+      ], 
       "hnrlbls": [
         "52"
       ], 
@@ -651,8 +669,12 @@
       "street": "Herentalsesteenweg"
     }, 
     {
-      "apptnrs": "1/01", 
-      "busnrs": "01/1", 
+      "apptnrs": [
+        "1/01"
+      ], 
+      "busnrs": [
+        "01/1"
+      ], 
       "hnrlbls": [
         "60"
       ], 

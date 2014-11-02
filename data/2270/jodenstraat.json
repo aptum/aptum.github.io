@@ -973,7 +973,9 @@
       "street": "Jodenstraat"
     }, 
     {
-      "busnrs": "101", 
+      "busnrs": [
+        "101"
+      ], 
       "hnrlbls": [
         "39"
       ], 
@@ -1778,7 +1780,9 @@
       "street": "Jodenstraat"
     }, 
     {
-      "busnrs": "1", 
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "83"
       ], 
@@ -2031,7 +2035,15 @@
       "street": "Jodenstraat"
     }, 
     {
-      "busnrs": "1,101,102,201,202,301,302", 
+      "busnrs": [
+        "1", 
+        "101", 
+        "102", 
+        "201", 
+        "202", 
+        "301", 
+        "302"
+      ], 
       "hnrlbls": [
         "99"
       ], 

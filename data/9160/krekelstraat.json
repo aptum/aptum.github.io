@@ -13,7 +13,12 @@
       "street": "Krekelstraat"
     }, 
     {
-      "busnrs": "1,2,3,4", 
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4"
+      ], 
       "hnrlbls": [
         "11W"
       ], 
@@ -134,7 +139,11 @@
       "street": "Krekelstraat"
     }, 
     {
-      "busnrs": "1,2,3", 
+      "busnrs": [
+        "1", 
+        "2", 
+        "3"
+      ], 
       "hnrlbls": [
         "26W"
       ], 
@@ -159,7 +168,12 @@
       "street": "Krekelstraat"
     }, 
     {
-      "busnrs": "101,102,201,202", 
+      "busnrs": [
+        "101", 
+        "102", 
+        "201", 
+        "202"
+      ], 
       "hnrlbls": [
         "3-77"
       ], 
@@ -244,7 +258,9 @@
       "street": "Krekelstraat"
     }, 
     {
-      "apptnrs": "W002", 
+      "apptnrs": [
+        "W002"
+      ], 
       "hnrlbls": [
         "40"
       ], 
@@ -557,8 +573,16 @@
       "street": "Krekelstraat"
     }, 
     {
-      "apptnrs": "0103,B104", 
-      "busnrs": "101,102,104,105", 
+      "apptnrs": [
+        "0103", 
+        "B104"
+      ], 
+      "busnrs": [
+        "101", 
+        "102", 
+        "104", 
+        "105"
+      ], 
       "hnrlbls": [
         "82-84"
       ], 

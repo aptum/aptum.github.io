@@ -109,8 +109,13 @@
       "street": "Leeuwenstraat"
     }, 
     {
-      "apptnrs": "1001,2002", 
-      "busnrs": "0001", 
+      "apptnrs": [
+        "1001", 
+        "2002"
+      ], 
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -363,7 +368,12 @@
       "street": "Leeuwenstraat"
     }, 
     {
-      "apptnrs": "0001,1001,1002,2001", 
+      "apptnrs": [
+        "0001", 
+        "1001", 
+        "1002", 
+        "2001"
+      ], 
       "hnrlbls": [
         "4"
       ], 
@@ -508,7 +518,11 @@
       "street": "Leeuwenstraat"
     }, 
     {
-      "apptnrs": "0001,1001,2001", 
+      "apptnrs": [
+        "0001", 
+        "1001", 
+        "2001"
+      ], 
       "hnrlbls": [
         "6"
       ], 
@@ -605,7 +619,10 @@
       "street": "Leeuwenstraat"
     }, 
     {
-      "apptnrs": "0001,1001", 
+      "apptnrs": [
+        "0001", 
+        "1001"
+      ], 
       "hnrlbls": [
         "8"
       ], 

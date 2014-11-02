@@ -85,7 +85,19 @@
       "street": "Tuinwijk"
     }, 
     {
-      "apptnrs": "1,10,11,2,3,4,5,6,7,8,9", 
+      "apptnrs": [
+        "1", 
+        "10", 
+        "11", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6", 
+        "7", 
+        "8", 
+        "9"
+      ], 
       "hnrlbls": [
         "2-2A"
       ], 
@@ -290,7 +302,11 @@
       "street": "Tuinwijk"
     }, 
     {
-      "apptnrs": "1L,1R,GLVL", 
+      "apptnrs": [
+        "1L", 
+        "1R", 
+        "GLVL"
+      ], 
       "hnrlbls": [
         "43"
       ], 
@@ -303,7 +319,9 @@
       "street": "Tuinwijk"
     }, 
     {
-      "busnrs": "3", 
+      "busnrs": [
+        "3"
+      ], 
       "hnrlbls": [
         "45"
       ], 

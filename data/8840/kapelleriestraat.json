@@ -73,8 +73,15 @@
       "street": "Kapelleriestraat"
     }, 
     {
-      "apptnrs": "03/1,1/2,2/1,2/2", 
-      "busnrs": "5", 
+      "apptnrs": [
+        "03/1", 
+        "1/2", 
+        "2/1", 
+        "2/2"
+      ], 
+      "busnrs": [
+        "5"
+      ], 
       "hnrlbls": [
         "16"
       ], 
@@ -255,7 +262,12 @@
       "street": "Kapelleriestraat"
     }, 
     {
-      "apptnrs": "0.1,0.2,1.1,1.2", 
+      "apptnrs": [
+        "0.1", 
+        "0.2", 
+        "1.1", 
+        "1.2"
+      ], 
       "hnrlbls": [
         "32A"
       ], 
@@ -688,7 +700,9 @@
       "street": "Kapelleriestraat"
     }, 
     {
-      "busnrs": "1", 
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "8"
       ], 

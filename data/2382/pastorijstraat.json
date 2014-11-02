@@ -181,7 +181,9 @@
       "street": "Pastorijstraat"
     }, 
     {
-      "busnrs": "1", 
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "31"
       ], 
@@ -206,8 +208,15 @@
       "street": "Pastorijstraat"
     }, 
     {
-      "apptnrs": "00-1,01-1,02-2,2-01", 
-      "busnrs": "2", 
+      "apptnrs": [
+        "00-1", 
+        "01-1", 
+        "02-2", 
+        "2-01"
+      ], 
+      "busnrs": [
+        "2"
+      ], 
       "hnrlbls": [
         "35"
       ], 

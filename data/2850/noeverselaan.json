@@ -13,7 +13,16 @@
       "street": "Noeverselaan"
     }, 
     {
-      "busnrs": "1,2,3,4,5,6,7,8", 
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6", 
+        "7", 
+        "8"
+      ], 
       "hnrlbls": [
         "11"
       ], 
@@ -38,7 +47,15 @@
       "street": "Noeverselaan"
     }, 
     {
-      "busnrs": "1,2,3,4,5,6,7", 
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6", 
+        "7"
+      ], 
       "hnrlbls": [
         "13"
       ], 
@@ -99,7 +116,9 @@
       "street": "Noeverselaan"
     }, 
     {
-      "busnrs": "3", 
+      "busnrs": [
+        "3"
+      ], 
       "hnrlbls": [
         "14-18"
       ], 
@@ -124,7 +143,11 @@
       "street": "Noeverselaan"
     }, 
     {
-      "busnrs": "1,2,3", 
+      "busnrs": [
+        "1", 
+        "2", 
+        "3"
+      ], 
       "hnrlbls": [
         "2-2A"
       ], 
@@ -209,7 +232,12 @@
       "street": "Noeverselaan"
     }, 
     {
-      "busnrs": "1,2,3,4", 
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4"
+      ], 
       "hnrlbls": [
         "2-2A"
       ], 
@@ -498,8 +526,14 @@
       "street": "Noeverselaan"
     }, 
     {
-      "apptnrs": "0.1,0.2,01.2", 
-      "busnrs": "4", 
+      "apptnrs": [
+        "0.1", 
+        "0.2", 
+        "01.2"
+      ], 
+      "busnrs": [
+        "4"
+      ], 
       "hnrlbls": [
         "70-78"
       ], 
@@ -512,7 +546,10 @@
       "street": "Noeverselaan"
     }, 
     {
-      "busnrs": "1,2", 
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "70O"
       ], 

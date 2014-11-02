@@ -1429,8 +1429,16 @@
       "street": "Baalsebaan"
     }, 
     {
-      "apptnrs": "1.01,1.02,1.03,1.04", 
-      "busnrs": "1,2", 
+      "apptnrs": [
+        "1.01", 
+        "1.02", 
+        "1.03", 
+        "1.04"
+      ], 
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "322"
       ], 
@@ -1515,7 +1523,10 @@
       "street": "Baalsebaan"
     }, 
     {
-      "busnrs": "1,2", 
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "326"
       ], 
@@ -1528,7 +1539,9 @@
       "street": "Baalsebaan"
     }, 
     {
-      "busnrs": "1", 
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "328"
       ], 

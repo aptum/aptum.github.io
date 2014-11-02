@@ -229,8 +229,12 @@
       "street": "Savelberg"
     }, 
     {
-      "apptnrs": "2", 
-      "busnrs": "1", 
+      "apptnrs": [
+        "2"
+      ], 
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "44"
       ], 
@@ -339,7 +343,10 @@
       "street": "Savelberg"
     }, 
     {
-      "busnrs": "1,2", 
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "58"
       ], 

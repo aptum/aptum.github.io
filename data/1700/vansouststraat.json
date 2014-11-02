@@ -13,8 +13,12 @@
       "street": "Van Souststraat"
     }, 
     {
-      "apptnrs": "2.0", 
-      "busnrs": "2", 
+      "apptnrs": [
+        "2.0"
+      ], 
+      "busnrs": [
+        "2"
+      ], 
       "hnrlbls": [
         "602"
       ], 
@@ -27,7 +31,9 @@
       "street": "Van Souststraat"
     }, 
     {
-      "busnrs": "1", 
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "604"
       ], 
@@ -40,7 +46,12 @@
       "street": "Van Souststraat"
     }, 
     {
-      "busnrs": "1,101,201,301", 
+      "busnrs": [
+        "1", 
+        "101", 
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
         "606"
       ], 
@@ -65,8 +76,16 @@
       "street": "Van Souststraat"
     }, 
     {
-      "apptnrs": "3.0,4.0", 
-      "busnrs": "101,201,301,401", 
+      "apptnrs": [
+        "3.0", 
+        "4.0"
+      ], 
+      "busnrs": [
+        "101", 
+        "201", 
+        "301", 
+        "401"
+      ], 
       "hnrlbls": [
         "610"
       ], 

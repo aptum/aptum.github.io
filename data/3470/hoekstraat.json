@@ -229,7 +229,14 @@
       "street": "Hoekstraat"
     }, 
     {
-      "busnrs": "1B,2,2B,3B,4,4B", 
+      "busnrs": [
+        "1B", 
+        "2", 
+        "2B", 
+        "3B", 
+        "4", 
+        "4B"
+      ], 
       "hnrlbls": [
         "6-6B"
       ], 
@@ -242,7 +249,10 @@
       "street": "Hoekstraat"
     }, 
     {
-      "busnrs": "1,2", 
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "6A"
       ], 
@@ -255,7 +265,11 @@
       "street": "Hoekstraat"
     }, 
     {
-      "busnrs": "1,2,3", 
+      "busnrs": [
+        "1", 
+        "2", 
+        "3"
+      ], 
       "hnrlbls": [
         "6-6B"
       ], 

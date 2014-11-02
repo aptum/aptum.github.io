@@ -301,7 +301,14 @@
       "street": "Topstraat"
     }, 
     {
-      "busnrs": "1,2,3,4,5,6", 
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6"
+      ], 
       "hnrlbls": [
         "23"
       ], 
@@ -326,7 +333,11 @@
       "street": "Topstraat"
     }, 
     {
-      "busnrs": "1\u00b0V,2\u00b0V,GV", 
+      "busnrs": [
+        "1\u00b0V", 
+        "2\u00b0V", 
+        "GV"
+      ], 
       "hnrlbls": [
         "25"
       ], 
@@ -351,7 +362,14 @@
       "street": "Topstraat"
     }, 
     {
-      "busnrs": "1,2,3,4,5,6", 
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6"
+      ], 
       "hnrlbls": [
         "27"
       ], 
@@ -544,7 +562,9 @@
       "street": "Topstraat"
     }, 
     {
-      "apptnrs": "1.0", 
+      "apptnrs": [
+        "1.0"
+      ], 
       "hnrlbls": [
         "43"
       ], 
@@ -1085,7 +1105,10 @@
       "street": "Topstraat"
     }, 
     {
-      "apptnrs": "0.0,1.0", 
+      "apptnrs": [
+        "0.0", 
+        "1.0"
+      ], 
       "hnrlbls": [
         "91"
       ], 

@@ -73,7 +73,9 @@
       "street": "Van Dyckstraat"
     }, 
     {
-      "busnrs": "1", 
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "16"
       ], 
@@ -386,7 +388,10 @@
       "street": "Van Dyckstraat"
     }, 
     {
-      "busnrs": "1,2", 
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "40-56"
       ], 
@@ -399,8 +404,14 @@
       "street": "Van Dyckstraat"
     }, 
     {
-      "apptnrs": "00.1,01.1,01.2", 
-      "busnrs": "1", 
+      "apptnrs": [
+        "00.1", 
+        "01.1", 
+        "01.2"
+      ], 
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "41-41A"
       ], 

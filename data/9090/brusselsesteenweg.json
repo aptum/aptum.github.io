@@ -325,7 +325,9 @@
       "street": "Brusselsesteenweg"
     }, 
     {
-      "busnrs": "202", 
+      "busnrs": [
+        "202"
+      ], 
       "hnrlbls": [
         "127a"
       ], 
@@ -578,7 +580,10 @@
       "street": "Brusselsesteenweg"
     }, 
     {
-      "busnrs": "101,201", 
+      "busnrs": [
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "15-15A"
       ], 
@@ -687,7 +692,9 @@
       "street": "Brusselsesteenweg"
     }, 
     {
-      "busnrs": "G", 
+      "busnrs": [
+        "G"
+      ], 
       "hnrlbls": [
         "159_8"
       ], 
@@ -1744,7 +1751,9 @@
       "street": "Brusselsesteenweg"
     }, 
     {
-      "busnrs": "2", 
+      "busnrs": [
+        "2"
+      ], 
       "hnrlbls": [
         "243-243F"
       ], 
@@ -1817,8 +1826,16 @@
       "street": "Brusselsesteenweg"
     }, 
     {
-      "apptnrs": "0/01,1/01,2/01", 
-      "busnrs": "0,1,2", 
+      "apptnrs": [
+        "0/01", 
+        "1/01", 
+        "2/01"
+      ], 
+      "busnrs": [
+        "0", 
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "245-253"
       ], 
@@ -1843,8 +1860,15 @@
       "street": "Brusselsesteenweg"
     }, 
     {
-      "apptnrs": "1/01,2/01", 
-      "busnrs": "0,1,2", 
+      "apptnrs": [
+        "1/01", 
+        "2/01"
+      ], 
+      "busnrs": [
+        "0", 
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "245-253"
       ], 
@@ -1869,8 +1893,15 @@
       "street": "Brusselsesteenweg"
     }, 
     {
-      "apptnrs": "0/01,1/01,2/01", 
-      "busnrs": "01,201", 
+      "apptnrs": [
+        "0/01", 
+        "1/01", 
+        "2/01"
+      ], 
+      "busnrs": [
+        "01", 
+        "201"
+      ], 
       "hnrlbls": [
         "245-253"
       ], 
@@ -1955,7 +1986,9 @@
       "street": "Brusselsesteenweg"
     }, 
     {
-      "busnrs": "15", 
+      "busnrs": [
+        "15"
+      ], 
       "hnrlbls": [
         "24-26G"
       ], 
@@ -1992,8 +2025,13 @@
       "street": "Brusselsesteenweg"
     }, 
     {
-      "apptnrs": "1/01,2/01", 
-      "busnrs": "101", 
+      "apptnrs": [
+        "1/01", 
+        "2/01"
+      ], 
+      "busnrs": [
+        "101"
+      ], 
       "hnrlbls": [
         "245-253"
       ], 
@@ -2018,8 +2056,14 @@
       "street": "Brusselsesteenweg"
     }, 
     {
-      "apptnrs": "0/01,1/01,2/01", 
-      "busnrs": "01", 
+      "apptnrs": [
+        "0/01", 
+        "1/01", 
+        "2/01"
+      ], 
+      "busnrs": [
+        "01"
+      ], 
       "hnrlbls": [
         "245-253"
       ], 
@@ -2092,7 +2136,10 @@
       "street": "Brusselsesteenweg"
     }, 
     {
-      "busnrs": "1,6", 
+      "busnrs": [
+        "1", 
+        "6"
+      ], 
       "hnrlbls": [
         "24-26G"
       ], 
@@ -2609,7 +2656,9 @@
       "street": "Brusselsesteenweg"
     }, 
     {
-      "busnrs": "1", 
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "286-288"
       ], 
@@ -3486,7 +3535,13 @@
       "street": "Brusselsesteenweg"
     }, 
     {
-      "busnrs": "1,101,102,2,3", 
+      "busnrs": [
+        "1", 
+        "101", 
+        "102", 
+        "2", 
+        "3"
+      ], 
       "hnrlbls": [
         "322B"
       ], 
@@ -3823,7 +3878,9 @@
       "street": "Brusselsesteenweg"
     }, 
     {
-      "busnrs": "11", 
+      "busnrs": [
+        "11"
+      ], 
       "hnrlbls": [
         "346"
       ], 
@@ -3848,7 +3905,20 @@
       "street": "Brusselsesteenweg"
     }, 
     {
-      "busnrs": "10,11,12,13,14,15,16,5,6,7,8,9", 
+      "busnrs": [
+        "10", 
+        "11", 
+        "12", 
+        "13", 
+        "14", 
+        "15", 
+        "16", 
+        "5", 
+        "6", 
+        "7", 
+        "8", 
+        "9"
+      ], 
       "hnrlbls": [
         "346B-346C"
       ], 
@@ -3861,7 +3931,20 @@
       "street": "Brusselsesteenweg"
     }, 
     {
-      "busnrs": "10,11,12,13,14,15,16,5,6,7,8,9", 
+      "busnrs": [
+        "10", 
+        "11", 
+        "12", 
+        "13", 
+        "14", 
+        "15", 
+        "16", 
+        "5", 
+        "6", 
+        "7", 
+        "8", 
+        "9"
+      ], 
       "hnrlbls": [
         "346B-346C"
       ], 
@@ -3874,7 +3957,9 @@
       "street": "Brusselsesteenweg"
     }, 
     {
-      "busnrs": "351", 
+      "busnrs": [
+        "351"
+      ], 
       "hnrlbls": [
         "347"
       ], 
@@ -5975,7 +6060,9 @@
       "street": "Brusselsesteenweg"
     }, 
     {
-      "busnrs": "101", 
+      "busnrs": [
+        "101"
+      ], 
       "hnrlbls": [
         "57"
       ], 
@@ -6108,7 +6195,10 @@
       "street": "Brusselsesteenweg"
     }, 
     {
-      "busnrs": "1,2", 
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "67"
       ], 
@@ -6457,7 +6547,12 @@
       "street": "Brusselsesteenweg"
     }, 
     {
-      "busnrs": "101,102,201,202", 
+      "busnrs": [
+        "101", 
+        "102", 
+        "201", 
+        "202"
+      ], 
       "hnrlbls": [
         "93"
       ], 

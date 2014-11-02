@@ -457,7 +457,9 @@
       "street": "Borreveldlaan"
     }, 
     {
-      "busnrs": "1", 
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "44"
       ], 
@@ -518,7 +520,13 @@
       "street": "Borreveldlaan"
     }, 
     {
-      "busnrs": "1,2,3,4,5", 
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5"
+      ], 
       "hnrlbls": [
         "49"
       ], 
@@ -543,8 +551,15 @@
       "street": "Borreveldlaan"
     }, 
     {
-      "apptnrs": "1.0,2.0", 
-      "busnrs": "1,2,23", 
+      "apptnrs": [
+        "1.0", 
+        "2.0"
+      ], 
+      "busnrs": [
+        "1", 
+        "2", 
+        "23"
+      ], 
       "hnrlbls": [
         "50"
       ], 

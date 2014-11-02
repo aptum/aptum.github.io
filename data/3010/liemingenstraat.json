@@ -85,8 +85,12 @@
       "street": "Liemingenstraat"
     }, 
     {
-      "apptnrs": "0001", 
-      "busnrs": "0101", 
+      "apptnrs": [
+        "0001"
+      ], 
+      "busnrs": [
+        "0101"
+      ], 
       "hnrlbls": [
         "18"
       ], 
@@ -207,7 +211,10 @@
       "street": "Liemingenstraat"
     }, 
     {
-      "apptnrs": "0001,0101", 
+      "apptnrs": [
+        "0001", 
+        "0101"
+      ], 
       "hnrlbls": [
         "28"
       ], 

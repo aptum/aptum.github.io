@@ -157,7 +157,13 @@
       "street": "Willem Eggerickxstraat"
     }, 
     {
-      "busnrs": "1,11,2,20,VDL", 
+      "busnrs": [
+        "1", 
+        "11", 
+        "2", 
+        "20", 
+        "VDL"
+      ], 
       "hnrlbls": [
         "3"
       ], 
@@ -314,8 +320,13 @@
       "street": "Willem Eggerickxstraat"
     }, 
     {
-      "apptnrs": "1.0", 
-      "busnrs": "1,2", 
+      "apptnrs": [
+        "1.0"
+      ], 
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "5"
       ], 

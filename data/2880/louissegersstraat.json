@@ -301,8 +301,12 @@
       "street": "Louis Segersstraat"
     }, 
     {
-      "apptnrs": "0.0", 
-      "busnrs": "1", 
+      "apptnrs": [
+        "0.0"
+      ], 
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "18"
       ], 
@@ -411,7 +415,13 @@
       "street": "Louis Segersstraat"
     }, 
     {
-      "busnrs": "1,2,3,4,5", 
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5"
+      ], 
       "hnrlbls": [
         "28A"
       ], 
@@ -424,7 +434,13 @@
       "street": "Louis Segersstraat"
     }, 
     {
-      "busnrs": "1,2,3,4,5", 
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5"
+      ], 
       "hnrlbls": [
         "28B"
       ], 

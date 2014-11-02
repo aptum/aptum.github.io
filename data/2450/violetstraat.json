@@ -25,7 +25,9 @@
       "street": "Violetstraat"
     }, 
     {
-      "busnrs": "1", 
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "11"
       ], 
@@ -50,7 +52,10 @@
       "street": "Violetstraat"
     }, 
     {
-      "busnrs": "1,2", 
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "13"
       ], 
@@ -75,8 +80,15 @@
       "street": "Violetstraat"
     }, 
     {
-      "apptnrs": "1-1,1-2", 
-      "busnrs": "1,11,12", 
+      "apptnrs": [
+        "1-1", 
+        "1-2"
+      ], 
+      "busnrs": [
+        "1", 
+        "11", 
+        "12"
+      ], 
       "hnrlbls": [
         "2-22B"
       ], 
@@ -137,7 +149,12 @@
       "street": "Violetstraat"
     }, 
     {
-      "busnrs": "11,21,22,31", 
+      "busnrs": [
+        "11", 
+        "21", 
+        "22", 
+        "31"
+      ], 
       "hnrlbls": [
         "7"
       ], 

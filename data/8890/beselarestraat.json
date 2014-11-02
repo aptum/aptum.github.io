@@ -85,7 +85,9 @@
       "street": "Beselarestraat"
     }, 
     {
-      "busnrs": "14A", 
+      "busnrs": [
+        "14A"
+      ], 
       "hnrlbls": [
         "14"
       ], 
@@ -386,7 +388,14 @@
       "street": "Beselarestraat"
     }, 
     {
-      "busnrs": "1,1000,2,2000,3,3000", 
+      "busnrs": [
+        "1", 
+        "1000", 
+        "2", 
+        "2000", 
+        "3", 
+        "3000"
+      ], 
       "hnrlbls": [
         "38"
       ], 
@@ -411,7 +420,9 @@
       "street": "Beselarestraat"
     }, 
     {
-      "apptnrs": "4A", 
+      "apptnrs": [
+        "4A"
+      ], 
       "hnrlbls": [
         "4"
       ], 
@@ -568,7 +579,10 @@
       "street": "Beselarestraat"
     }, 
     {
-      "apptnrs": "A,B", 
+      "apptnrs": [
+        "A", 
+        "B"
+      ], 
       "hnrlbls": [
         "5"
       ], 
@@ -761,8 +775,16 @@
       "street": "Beselarestraat"
     }, 
     {
-      "apptnrs": "2.2", 
-      "busnrs": "1,11,2,3,5", 
+      "apptnrs": [
+        "2.2"
+      ], 
+      "busnrs": [
+        "1", 
+        "11", 
+        "2", 
+        "3", 
+        "5"
+      ], 
       "hnrlbls": [
         "7"
       ], 

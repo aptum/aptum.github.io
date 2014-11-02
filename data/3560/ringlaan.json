@@ -13,8 +13,16 @@
       "street": "Ringlaan"
     }, 
     {
-      "apptnrs": "1.1,1.2,2.1,2.2", 
-      "busnrs": "1,2", 
+      "apptnrs": [
+        "1.1", 
+        "1.2", 
+        "2.1", 
+        "2.2"
+      ], 
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -51,7 +59,13 @@
       "street": "Ringlaan"
     }, 
     {
-      "apptnrs": "a,b,c,d,e", 
+      "apptnrs": [
+        "a", 
+        "b", 
+        "c", 
+        "d", 
+        "e"
+      ], 
       "hnrlbls": [
         "15"
       ], 
@@ -124,7 +138,9 @@
       "street": "Ringlaan"
     }, 
     {
-      "busnrs": "1", 
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "16"
       ], 
@@ -449,7 +465,9 @@
       "street": "Ringlaan"
     }, 
     {
-      "busnrs": "1", 
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "22-30D"
       ], 
@@ -570,7 +588,9 @@
       "street": "Ringlaan"
     }, 
     {
-      "busnrs": "12", 
+      "busnrs": [
+        "12"
+      ], 
       "hnrlbls": [
         "32-40D"
       ], 
@@ -727,7 +747,9 @@
       "street": "Ringlaan"
     }, 
     {
-      "apptnrs": "A", 
+      "apptnrs": [
+        "A"
+      ], 
       "hnrlbls": [
         "32-40D"
       ], 

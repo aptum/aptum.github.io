@@ -13,7 +13,11 @@
       "street": "Vlierstraat"
     }, 
     {
-      "busnrs": "1,2,3", 
+      "busnrs": [
+        "1", 
+        "2", 
+        "3"
+      ], 
       "hnrlbls": [
         "11"
       ], 
@@ -38,7 +42,11 @@
       "street": "Vlierstraat"
     }, 
     {
-      "busnrs": "1,2,3", 
+      "busnrs": [
+        "1", 
+        "2", 
+        "3"
+      ], 
       "hnrlbls": [
         "13"
       ], 
@@ -111,8 +119,16 @@
       "street": "Vlierstraat"
     }, 
     {
-      "apptnrs": "0.0,0L,0R,1L,1R", 
-      "busnrs": "2", 
+      "apptnrs": [
+        "0.0", 
+        "0L", 
+        "0R", 
+        "1L", 
+        "1R"
+      ], 
+      "busnrs": [
+        "2"
+      ], 
       "hnrlbls": [
         "2"
       ], 

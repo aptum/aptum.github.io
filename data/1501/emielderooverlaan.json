@@ -13,7 +13,9 @@
       "street": "Emiel Derooverlaan"
     }, 
     {
-      "apptnrs": "1", 
+      "apptnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -38,8 +40,18 @@
       "street": "Emiel Derooverlaan"
     }, 
     {
-      "apptnrs": "01,11,13,22", 
-      "busnrs": "2,4,6,8", 
+      "apptnrs": [
+        "01", 
+        "11", 
+        "13", 
+        "22"
+      ], 
+      "busnrs": [
+        "2", 
+        "4", 
+        "6", 
+        "8"
+      ], 
       "hnrlbls": [
         "10B"
       ], 
@@ -100,7 +112,11 @@
       "street": "Emiel Derooverlaan"
     }, 
     {
-      "apptnrs": "01,11,12", 
+      "apptnrs": [
+        "01", 
+        "11", 
+        "12"
+      ], 
       "hnrlbls": [
         "15"
       ], 

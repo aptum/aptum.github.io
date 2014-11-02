@@ -181,8 +181,13 @@
       "street": "Gemeentebos"
     }, 
     {
-      "apptnrs": "VER1", 
-      "busnrs": "1,2", 
+      "apptnrs": [
+        "VER1"
+      ], 
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "24"
       ], 
@@ -195,7 +200,14 @@
       "street": "Gemeentebos"
     }, 
     {
-      "apptnrs": "1,2,3,4,5,VER1", 
+      "apptnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "VER1"
+      ], 
       "hnrlbls": [
         "25-27"
       ], 
@@ -220,7 +232,12 @@
       "street": "Gemeentebos"
     }, 
     {
-      "apptnrs": "2,3,4,VER1", 
+      "apptnrs": [
+        "2", 
+        "3", 
+        "4", 
+        "VER1"
+      ], 
       "hnrlbls": [
         "25-27"
       ], 
@@ -293,7 +310,9 @@
       "street": "Gemeentebos"
     }, 
     {
-      "apptnrs": "VER1", 
+      "apptnrs": [
+        "VER1"
+      ], 
       "hnrlbls": [
         "32"
       ], 

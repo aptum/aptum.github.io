@@ -721,7 +721,18 @@
       "street": "Steenstraat"
     }, 
     {
-      "apptnrs": "0.4,0.6,2.0,2.00,V1,V2,V3,V4,V5,V6", 
+      "apptnrs": [
+        "0.4", 
+        "0.6", 
+        "2.0", 
+        "2.00", 
+        "V1", 
+        "V2", 
+        "V3", 
+        "V4", 
+        "V5", 
+        "V6"
+      ], 
       "hnrlbls": [
         "39"
       ], 
@@ -1094,8 +1105,15 @@
       "street": "Steenstraat"
     }, 
     {
-      "apptnrs": "V1,V2,V3,V4", 
-      "busnrs": "1", 
+      "apptnrs": [
+        "V1", 
+        "V2", 
+        "V3", 
+        "V4"
+      ], 
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "70"
       ], 
@@ -1216,7 +1234,10 @@
       "street": "Steenstraat"
     }, 
     {
-      "apptnrs": "0.1,V1", 
+      "apptnrs": [
+        "0.1", 
+        "V1"
+      ], 
       "hnrlbls": [
         "80"
       ], 

@@ -133,7 +133,9 @@
       "street": "Kasteelstraat"
     }, 
     {
-      "apptnrs": "1.0", 
+      "apptnrs": [
+        "1.0"
+      ], 
       "hnrlbls": [
         "20"
       ], 
@@ -146,8 +148,14 @@
       "street": "Kasteelstraat"
     }, 
     {
-      "apptnrs": "1.0,2.0", 
-      "busnrs": "1,10", 
+      "apptnrs": [
+        "1.0", 
+        "2.0"
+      ], 
+      "busnrs": [
+        "1", 
+        "10"
+      ], 
       "hnrlbls": [
         "20A"
       ], 
@@ -184,8 +192,15 @@
       "street": "Kasteelstraat"
     }, 
     {
-      "apptnrs": "1.0,3.0", 
-      "busnrs": "1,20,30", 
+      "apptnrs": [
+        "1.0", 
+        "3.0"
+      ], 
+      "busnrs": [
+        "1", 
+        "20", 
+        "30"
+      ], 
       "hnrlbls": [
         "22"
       ], 

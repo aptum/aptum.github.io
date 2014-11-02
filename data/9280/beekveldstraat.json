@@ -121,8 +121,14 @@
       "street": "Beekveldstraat"
     }, 
     {
-      "apptnrs": "3", 
-      "busnrs": "1,2,4", 
+      "apptnrs": [
+        "3"
+      ], 
+      "busnrs": [
+        "1", 
+        "2", 
+        "4"
+      ], 
       "hnrlbls": [
         "1A-1B"
       ], 
@@ -135,7 +141,10 @@
       "street": "Beekveldstraat"
     }, 
     {
-      "busnrs": "1,2", 
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "1A-1B"
       ], 

@@ -1,8 +1,15 @@
 {
   "addresses": [
     {
-      "apptnrs": "VER1,VER2", 
-      "busnrs": "101,102,201", 
+      "apptnrs": [
+        "VER1", 
+        "VER2"
+      ], 
+      "busnrs": [
+        "101", 
+        "102", 
+        "201"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -15,7 +22,13 @@
       "street": "Meerminpad"
     }, 
     {
-      "busnrs": "1,101,102,2,201", 
+      "busnrs": [
+        "1", 
+        "101", 
+        "102", 
+        "2", 
+        "201"
+      ], 
       "hnrlbls": [
         "3"
       ], 

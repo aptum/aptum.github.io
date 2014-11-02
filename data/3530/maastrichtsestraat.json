@@ -301,8 +301,14 @@
       "street": "Maastrichtsestraat"
     }, 
     {
-      "apptnrs": "01-1,02-1", 
-      "busnrs": "1,2", 
+      "apptnrs": [
+        "01-1", 
+        "02-1"
+      ], 
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "3"
       ], 
@@ -363,7 +369,10 @@
       "street": "Maastrichtsestraat"
     }, 
     {
-      "busnrs": "1,2", 
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "35"
       ], 
@@ -508,8 +517,16 @@
       "street": "Maastrichtsestraat"
     }, 
     {
-      "apptnrs": "01-1,01-2,02-1,02-2", 
-      "busnrs": "1,2", 
+      "apptnrs": [
+        "01-1", 
+        "01-2", 
+        "02-1", 
+        "02-2"
+      ], 
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "5"
       ], 
@@ -618,7 +635,10 @@
       "street": "Maastrichtsestraat"
     }, 
     {
-      "busnrs": "1,2", 
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "60"
       ], 
@@ -667,8 +687,12 @@
       "street": "Maastrichtsestraat"
     }, 
     {
-      "apptnrs": "01-1", 
-      "busnrs": "1", 
+      "apptnrs": [
+        "01-1"
+      ], 
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "7"
       ], 
@@ -729,8 +753,22 @@
       "street": "Maastrichtsestraat"
     }, 
     {
-      "apptnrs": "01-1,01-2,01-3,01-4,01-5,01-6", 
-      "busnrs": "1,2,3,4,5,6", 
+      "apptnrs": [
+        "01-1", 
+        "01-2", 
+        "01-3", 
+        "01-4", 
+        "01-5", 
+        "01-6"
+      ], 
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6"
+      ], 
       "hnrlbls": [
         "8-8R"
       ], 

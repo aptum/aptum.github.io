@@ -661,8 +661,13 @@
       "street": "Berreveldlaan"
     }, 
     {
-      "apptnrs": "0.0,1.0", 
-      "busnrs": "2", 
+      "apptnrs": [
+        "0.0", 
+        "1.0"
+      ], 
+      "busnrs": [
+        "2"
+      ], 
       "hnrlbls": [
         "67-69"
       ], 
@@ -675,7 +680,10 @@
       "street": "Berreveldlaan"
     }, 
     {
-      "busnrs": "1,2", 
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "67-69"
       ], 

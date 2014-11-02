@@ -313,7 +313,12 @@
       "street": "Madestraat"
     }, 
     {
-      "busnrs": "1,A,B,C", 
+      "busnrs": [
+        "1", 
+        "A", 
+        "B", 
+        "C"
+      ], 
       "hnrlbls": [
         "14"
       ], 
@@ -494,7 +499,9 @@
       "street": "Madestraat"
     }, 
     {
-      "busnrs": "A", 
+      "busnrs": [
+        "A"
+      ], 
       "hnrlbls": [
         "28"
       ], 
@@ -699,7 +706,9 @@
       "street": "Madestraat"
     }, 
     {
-      "busnrs": "A", 
+      "busnrs": [
+        "A"
+      ], 
       "hnrlbls": [
         "40"
       ], 
@@ -1120,7 +1129,10 @@
       "street": "Madestraat"
     }, 
     {
-      "busnrs": "A,A1", 
+      "busnrs": [
+        "A", 
+        "A1"
+      ], 
       "hnrlbls": [
         "66"
       ], 

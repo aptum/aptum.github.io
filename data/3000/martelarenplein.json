@@ -205,7 +205,16 @@
       "street": "Martelarenplein"
     }, 
     {
-      "apptnrs": "bus 1,bus 2,bus 3,bus 4,bus 5,bus 6,bus 7,bus 8", 
+      "apptnrs": [
+        "bus 1", 
+        "bus 2", 
+        "bus 3", 
+        "bus 4", 
+        "bus 5", 
+        "bus 6", 
+        "bus 7", 
+        "bus 8"
+      ], 
       "hnrlbls": [
         "3"
       ], 
@@ -254,8 +263,12 @@
       "street": "Martelarenplein"
     }, 
     {
-      "apptnrs": "0301", 
-      "busnrs": "0001", 
+      "apptnrs": [
+        "0301"
+      ], 
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "7"
       ], 

@@ -481,8 +481,14 @@
       "street": "Broekerveld"
     }, 
     {
-      "apptnrs": "01-1", 
-      "busnrs": "1,11,2", 
+      "apptnrs": [
+        "01-1"
+      ], 
+      "busnrs": [
+        "1", 
+        "11", 
+        "2"
+      ], 
       "hnrlbls": [
         "50-51"
       ], 
@@ -495,8 +501,13 @@
       "street": "Broekerveld"
     }, 
     {
-      "apptnrs": "01-1", 
-      "busnrs": "1,2", 
+      "apptnrs": [
+        "01-1"
+      ], 
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "50-51"
       ], 
@@ -509,7 +520,9 @@
       "street": "Broekerveld"
     }, 
     {
-      "busnrs": "1", 
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "52"
       ], 

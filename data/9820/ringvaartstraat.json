@@ -553,7 +553,10 @@
       "street": "Ringvaartstraat"
     }, 
     {
-      "busnrs": "1,2", 
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "55"
       ], 
@@ -830,7 +833,15 @@
       "street": "Ringvaartstraat"
     }, 
     {
-      "busnrs": "1,101,103,2,201,202,4", 
+      "busnrs": [
+        "1", 
+        "101", 
+        "103", 
+        "2", 
+        "201", 
+        "202", 
+        "4"
+      ], 
       "hnrlbls": [
         "9"
       ], 

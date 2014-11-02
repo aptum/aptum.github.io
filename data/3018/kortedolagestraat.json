@@ -121,8 +121,13 @@
       "street": "Korte Dolagestraat"
     }, 
     {
-      "apptnrs": "0001", 
-      "busnrs": "0101,0201", 
+      "apptnrs": [
+        "0001"
+      ], 
+      "busnrs": [
+        "0101", 
+        "0201"
+      ], 
       "hnrlbls": [
         "22"
       ], 
@@ -279,7 +284,10 @@
       "street": "Korte Dolagestraat"
     }, 
     {
-      "apptnrs": "0101,0201", 
+      "apptnrs": [
+        "0101", 
+        "0201"
+      ], 
       "hnrlbls": [
         "44"
       ], 

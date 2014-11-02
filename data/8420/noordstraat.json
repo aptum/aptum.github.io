@@ -1,7 +1,12 @@
 {
   "addresses": [
     {
-      "busnrs": "1,101,102,2", 
+      "busnrs": [
+        "1", 
+        "101", 
+        "102", 
+        "2"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -98,7 +103,15 @@
       "street": "Noordstraat"
     }, 
     {
-      "busnrs": "1,101,102,103,2,3,4", 
+      "busnrs": [
+        "1", 
+        "101", 
+        "102", 
+        "103", 
+        "2", 
+        "3", 
+        "4"
+      ], 
       "hnrlbls": [
         "18"
       ], 
@@ -231,8 +244,15 @@
       "street": "Noordstraat"
     }, 
     {
-      "apptnrs": "VER1,VER2", 
-      "busnrs": "1,101,201", 
+      "apptnrs": [
+        "VER1", 
+        "VER2"
+      ], 
+      "busnrs": [
+        "1", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "31"
       ], 
@@ -245,8 +265,14 @@
       "street": "Noordstraat"
     }, 
     {
-      "apptnrs": "VER1", 
-      "busnrs": "1,101,201", 
+      "apptnrs": [
+        "VER1"
+      ], 
+      "busnrs": [
+        "1", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "33"
       ], 

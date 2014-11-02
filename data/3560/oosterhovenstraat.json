@@ -157,8 +157,15 @@
       "street": "Oosterhovenstraat"
     }, 
     {
-      "apptnrs": "01.1,02.2", 
-      "busnrs": "1,11,2", 
+      "apptnrs": [
+        "01.1", 
+        "02.2"
+      ], 
+      "busnrs": [
+        "1", 
+        "11", 
+        "2"
+      ], 
       "hnrlbls": [
         "19"
       ], 

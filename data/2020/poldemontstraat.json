@@ -1,7 +1,10 @@
 {
   "addresses": [
     {
-      "busnrs": "1,A", 
+      "busnrs": [
+        "1", 
+        "A"
+      ], 
       "hnrlbls": [
         "10-10_1"
       ], 
@@ -38,7 +41,9 @@
       "street": "Pol de Montstraat"
     }, 
     {
-      "busnrs": "B", 
+      "busnrs": [
+        "B"
+      ], 
       "hnrlbls": [
         "10-10_1"
       ], 
@@ -51,7 +56,14 @@
       "street": "Pol de Montstraat"
     }, 
     {
-      "busnrs": "1,2,3,4,5,6", 
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6"
+      ], 
       "hnrlbls": [
         "2"
       ], 

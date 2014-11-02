@@ -253,7 +253,12 @@
       "street": "Oud-Dorpsstraat"
     }, 
     {
-      "apptnrs": "2,3,4,5", 
+      "apptnrs": [
+        "2", 
+        "3", 
+        "4", 
+        "5"
+      ], 
       "hnrlbls": [
         "136-136B"
       ], 
@@ -710,8 +715,14 @@
       "street": "Oud-Dorpsstraat"
     }, 
     {
-      "apptnrs": "1,2,4", 
-      "busnrs": "3", 
+      "apptnrs": [
+        "1", 
+        "2", 
+        "4"
+      ], 
+      "busnrs": [
+        "3"
+      ], 
       "hnrlbls": [
         "53-55"
       ], 
@@ -784,8 +795,13 @@
       "street": "Oud-Dorpsstraat"
     }, 
     {
-      "apptnrs": "1L,VER2", 
-      "busnrs": "3", 
+      "apptnrs": [
+        "1L", 
+        "VER2"
+      ], 
+      "busnrs": [
+        "3"
+      ], 
       "hnrlbls": [
         "61-61V"
       ], 
@@ -798,7 +814,9 @@
       "street": "Oud-Dorpsstraat"
     }, 
     {
-      "apptnrs": "1R", 
+      "apptnrs": [
+        "1R"
+      ], 
       "hnrlbls": [
         "61-61V"
       ], 

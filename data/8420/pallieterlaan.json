@@ -121,7 +121,10 @@
       "street": "Pallieterlaan"
     }, 
     {
-      "busnrs": "101,102", 
+      "busnrs": [
+        "101", 
+        "102"
+      ], 
       "hnrlbls": [
         "3"
       ], 
@@ -134,8 +137,13 @@
       "street": "Pallieterlaan"
     }, 
     {
-      "apptnrs": "VER1", 
-      "busnrs": "1,101", 
+      "apptnrs": [
+        "VER1"
+      ], 
+      "busnrs": [
+        "1", 
+        "101"
+      ], 
       "hnrlbls": [
         "4"
       ], 

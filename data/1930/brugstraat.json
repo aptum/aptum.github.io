@@ -13,8 +13,13 @@
       "street": "Brugstraat"
     }, 
     {
-      "apptnrs": "2.0", 
-      "busnrs": "1,2", 
+      "apptnrs": [
+        "2.0"
+      ], 
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "12"
       ], 
@@ -147,7 +152,9 @@
       "street": "Brugstraat"
     }, 
     {
-      "busnrs": "1", 
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "24"
       ], 
@@ -304,7 +311,9 @@
       "street": "Brugstraat"
     }, 
     {
-      "apptnrs": "1.0", 
+      "apptnrs": [
+        "1.0"
+      ], 
       "hnrlbls": [
         "48"
       ], 

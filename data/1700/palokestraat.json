@@ -25,8 +25,15 @@
       "street": "Palokestraat"
     }, 
     {
-      "apptnrs": "1.0", 
-      "busnrs": "1,101,201,3", 
+      "apptnrs": [
+        "1.0"
+      ], 
+      "busnrs": [
+        "1", 
+        "101", 
+        "201", 
+        "3"
+      ], 
       "hnrlbls": [
         "104"
       ], 
@@ -171,7 +178,9 @@
       "street": "Palokestraat"
     }, 
     {
-      "busnrs": "1", 
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "148-152"
       ], 

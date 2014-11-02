@@ -241,7 +241,9 @@
       "street": "Venusstraat"
     }, 
     {
-      "busnrs": "1", 
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "37-101"
       ], 
@@ -254,7 +256,12 @@
       "street": "Venusstraat"
     }, 
     {
-      "busnrs": "1,101,102,2", 
+      "busnrs": [
+        "1", 
+        "101", 
+        "102", 
+        "2"
+      ], 
       "hnrlbls": [
         "4"
       ], 

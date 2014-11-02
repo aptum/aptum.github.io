@@ -157,8 +157,13 @@
       "street": "Rosweg"
     }, 
     {
-      "apptnrs": "1.0", 
-      "busnrs": "1,EVE", 
+      "apptnrs": [
+        "1.0"
+      ], 
+      "busnrs": [
+        "1", 
+        "EVE"
+      ], 
       "hnrlbls": [
         "27-27_1"
       ], 
@@ -183,7 +188,10 @@
       "street": "Rosweg"
     }, 
     {
-      "busnrs": "EVE,eV.", 
+      "busnrs": [
+        "EVE", 
+        "eV."
+      ], 
       "hnrlbls": [
         "27-27_1"
       ], 
@@ -688,7 +696,9 @@
       "street": "Rosweg"
     }, 
     {
-      "apptnrs": "1.0", 
+      "apptnrs": [
+        "1.0"
+      ], 
       "hnrlbls": [
         "68B"
       ], 

@@ -61,7 +61,9 @@
       "street": "Lange Kouterstraat"
     }, 
     {
-      "busnrs": "1", 
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "14A"
       ], 
@@ -110,7 +112,15 @@
       "street": "Lange Kouterstraat"
     }, 
     {
-      "busnrs": "1,11,12,2,21,22,31", 
+      "busnrs": [
+        "1", 
+        "11", 
+        "12", 
+        "2", 
+        "21", 
+        "22", 
+        "31"
+      ], 
       "hnrlbls": [
         "17"
       ], 
@@ -459,7 +469,11 @@
       "street": "Lange Kouterstraat"
     }, 
     {
-      "busnrs": "1,11,12", 
+      "busnrs": [
+        "1", 
+        "11", 
+        "12"
+      ], 
       "hnrlbls": [
         "50"
       ], 

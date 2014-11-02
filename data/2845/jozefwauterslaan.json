@@ -1045,7 +1045,12 @@
       "street": "Jozef Wauterslaan"
     }, 
     {
-      "busnrs": "1,2,3,4", 
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4"
+      ], 
       "hnrlbls": [
         "88B"
       ], 
@@ -1058,8 +1063,12 @@
       "street": "Jozef Wauterslaan"
     }, 
     {
-      "apptnrs": "0.0", 
-      "busnrs": "1", 
+      "apptnrs": [
+        "0.0"
+      ], 
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "89"
       ], 

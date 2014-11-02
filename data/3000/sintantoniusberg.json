@@ -1,8 +1,15 @@
 {
   "addresses": [
     {
-      "apptnrs": "0101,0102,0201,0301", 
-      "busnrs": "0001", 
+      "apptnrs": [
+        "0101", 
+        "0102", 
+        "0201", 
+        "0301"
+      ], 
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -63,7 +70,10 @@
       "street": "Sint-Antoniusberg"
     }, 
     {
-      "busnrs": "0001,0101", 
+      "busnrs": [
+        "0001", 
+        "0101"
+      ], 
       "hnrlbls": [
         "16"
       ], 
@@ -112,8 +122,13 @@
       "street": "Sint-Antoniusberg"
     }, 
     {
-      "apptnrs": "0002", 
-      "busnrs": "0001,0003", 
+      "apptnrs": [
+        "0002"
+      ], 
+      "busnrs": [
+        "0001", 
+        "0003"
+      ], 
       "hnrlbls": [
         "6"
       ], 

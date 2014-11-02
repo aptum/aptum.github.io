@@ -337,7 +337,13 @@
       "street": "Burgstraat"
     }, 
     {
-      "apptnrs": "1,2,3,4,5", 
+      "apptnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5"
+      ], 
       "hnrlbls": [
         "34"
       ], 
@@ -362,8 +368,17 @@
       "street": "Burgstraat"
     }, 
     {
-      "apptnrs": "1", 
-      "busnrs": "2,3,4,5,6,7", 
+      "apptnrs": [
+        "1"
+      ], 
+      "busnrs": [
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6", 
+        "7"
+      ], 
       "hnrlbls": [
         "4"
       ], 

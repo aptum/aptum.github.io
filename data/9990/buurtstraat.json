@@ -133,7 +133,9 @@
       "street": "Buurtstraat"
     }, 
     {
-      "busnrs": "4", 
+      "busnrs": [
+        "4"
+      ], 
       "hnrlbls": [
         "17"
       ], 
@@ -182,7 +184,13 @@
       "street": "Buurtstraat"
     }, 
     {
-      "busnrs": "1A,1B,2A,2B,3B", 
+      "busnrs": [
+        "1A", 
+        "1B", 
+        "2A", 
+        "2B", 
+        "3B"
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -771,7 +779,12 @@
       "street": "Buurtstraat"
     }, 
     {
-      "apptnrs": "0-01,1-01,2-01,2-02", 
+      "apptnrs": [
+        "0-01", 
+        "1-01", 
+        "2-01", 
+        "2-02"
+      ], 
       "hnrlbls": [
         "7"
       ], 

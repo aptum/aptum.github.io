@@ -109,7 +109,9 @@
       "street": "Mollekensstraat"
     }, 
     {
-      "busnrs": "101", 
+      "busnrs": [
+        "101"
+      ], 
       "hnrlbls": [
         "20"
       ], 
@@ -218,7 +220,10 @@
       "street": "Mollekensstraat"
     }, 
     {
-      "busnrs": "1,2", 
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "3"
       ], 
@@ -255,8 +260,16 @@
       "street": "Mollekensstraat"
     }, 
     {
-      "apptnrs": "1.0,3.0", 
-      "busnrs": "1,2,201,3", 
+      "apptnrs": [
+        "1.0", 
+        "3.0"
+      ], 
+      "busnrs": [
+        "1", 
+        "2", 
+        "201", 
+        "3"
+      ], 
       "hnrlbls": [
         "32"
       ], 
@@ -353,8 +366,19 @@
       "street": "Mollekensstraat"
     }, 
     {
-      "apptnrs": "1.0,2.0", 
-      "busnrs": "1,102,2,302,4,5,8", 
+      "apptnrs": [
+        "1.0", 
+        "2.0"
+      ], 
+      "busnrs": [
+        "1", 
+        "102", 
+        "2", 
+        "302", 
+        "4", 
+        "5", 
+        "8"
+      ], 
       "hnrlbls": [
         "42"
       ], 
@@ -367,8 +391,13 @@
       "street": "Mollekensstraat"
     }, 
     {
-      "apptnrs": "2.0", 
-      "busnrs": "1,301", 
+      "apptnrs": [
+        "2.0"
+      ], 
+      "busnrs": [
+        "1", 
+        "301"
+      ], 
       "hnrlbls": [
         "44"
       ], 

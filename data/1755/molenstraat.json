@@ -289,7 +289,12 @@
       "street": "Molenstraat"
     }, 
     {
-      "busnrs": "1,2,4,A", 
+      "busnrs": [
+        "1", 
+        "2", 
+        "4", 
+        "A"
+      ], 
       "hnrlbls": [
         "3"
       ], 
@@ -458,7 +463,10 @@
       "street": "Molenstraat"
     }, 
     {
-      "busnrs": "1,2", 
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "3A"
       ], 
@@ -495,7 +503,9 @@
       "street": "Molenstraat"
     }, 
     {
-      "busnrs": "A", 
+      "busnrs": [
+        "A"
+      ], 
       "hnrlbls": [
         "3_1"
       ], 

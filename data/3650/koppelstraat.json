@@ -97,7 +97,12 @@
       "street": "Koppelstraat"
     }, 
     {
-      "busnrs": "1,1A,2,2A", 
+      "busnrs": [
+        "1", 
+        "1A", 
+        "2", 
+        "2A"
+      ], 
       "hnrlbls": [
         "21"
       ], 
@@ -110,7 +115,10 @@
       "street": "Koppelstraat"
     }, 
     {
-      "busnrs": "1,2", 
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "21A"
       ], 
@@ -711,7 +719,9 @@
       "street": "Koppelstraat"
     }, 
     {
-      "busnrs": "1", 
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "9"
       ], 

@@ -217,7 +217,13 @@
       "street": "Schoonzichtlaan"
     }, 
     {
-      "apptnrs": "0001,0101,0102,0201,0202", 
+      "apptnrs": [
+        "0001", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202"
+      ], 
       "hnrlbls": [
         "24"
       ], 
@@ -278,8 +284,13 @@
       "street": "Schoonzichtlaan"
     }, 
     {
-      "apptnrs": "0101,0201", 
-      "busnrs": "0001", 
+      "apptnrs": [
+        "0101", 
+        "0201"
+      ], 
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "36"
       ], 

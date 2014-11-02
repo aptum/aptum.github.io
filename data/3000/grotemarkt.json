@@ -49,8 +49,14 @@
       "street": "Grote Markt"
     }, 
     {
-      "apptnrs": "0201,0301,0401", 
-      "busnrs": "0001", 
+      "apptnrs": [
+        "0201", 
+        "0301", 
+        "0401"
+      ], 
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "13"
       ], 
@@ -123,7 +129,10 @@
       "street": "Grote Markt"
     }, 
     {
-      "busnrs": "0001,0201", 
+      "busnrs": [
+        "0001", 
+        "0201"
+      ], 
       "hnrlbls": [
         "4"
       ], 

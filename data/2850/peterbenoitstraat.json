@@ -277,8 +277,13 @@
       "street": "Peter Benoitstraat"
     }, 
     {
-      "apptnrs": "01.1", 
-      "busnrs": "1,2", 
+      "apptnrs": [
+        "01.1"
+      ], 
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "46-48"
       ], 
@@ -363,7 +368,9 @@
       "street": "Peter Benoitstraat"
     }, 
     {
-      "busnrs": "1", 
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "58"
       ], 

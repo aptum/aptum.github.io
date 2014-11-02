@@ -13,8 +13,15 @@
       "street": "Pr. H. Devosstraat"
     }, 
     {
-      "apptnrs": "1.0,2.0", 
-      "busnrs": "1,101,201", 
+      "apptnrs": [
+        "1.0", 
+        "2.0"
+      ], 
+      "busnrs": [
+        "1", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "15"
       ], 
@@ -63,7 +70,10 @@
       "street": "Pr. H. Devosstraat"
     }, 
     {
-      "busnrs": "1,101", 
+      "busnrs": [
+        "1", 
+        "101"
+      ], 
       "hnrlbls": [
         "3"
       ], 
@@ -76,7 +86,9 @@
       "street": "Pr. H. Devosstraat"
     }, 
     {
-      "busnrs": "1", 
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "5"
       ], 

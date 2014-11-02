@@ -565,8 +565,12 @@
       "street": "Fran\u00e7ois Demarsinstraat"
     }, 
     {
-      "apptnrs": "0001", 
-      "busnrs": "0101", 
+      "apptnrs": [
+        "0001"
+      ], 
+      "busnrs": [
+        "0101"
+      ], 
       "hnrlbls": [
         "67"
       ], 
@@ -603,7 +607,10 @@
       "street": "Fran\u00e7ois Demarsinstraat"
     }, 
     {
-      "apptnrs": "0001,0101", 
+      "apptnrs": [
+        "0001", 
+        "0101"
+      ], 
       "hnrlbls": [
         "73"
       ], 

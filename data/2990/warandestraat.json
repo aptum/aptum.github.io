@@ -109,7 +109,11 @@
       "street": "Warandestraat"
     }, 
     {
-      "apptnrs": "0.0,1.0,2.0", 
+      "apptnrs": [
+        "0.0", 
+        "1.0", 
+        "2.0"
+      ], 
       "hnrlbls": [
         "1A-1C"
       ], 
@@ -146,7 +150,11 @@
       "street": "Warandestraat"
     }, 
     {
-      "busnrs": "1,2,3", 
+      "busnrs": [
+        "1", 
+        "2", 
+        "3"
+      ], 
       "hnrlbls": [
         "20"
       ], 
@@ -219,7 +227,9 @@
       "street": "Warandestraat"
     }, 
     {
-      "apptnrs": "VER1", 
+      "apptnrs": [
+        "VER1"
+      ], 
       "hnrlbls": [
         "3"
       ], 

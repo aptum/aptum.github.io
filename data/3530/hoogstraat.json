@@ -49,7 +49,9 @@
       "street": "Hoogstraat"
     }, 
     {
-      "busnrs": "1", 
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "14-14A"
       ], 
@@ -470,8 +472,17 @@
       "street": "Hoogstraat"
     }, 
     {
-      "apptnrs": "01-1,01-2", 
-      "busnrs": "1,11,111,12,2", 
+      "apptnrs": [
+        "01-1", 
+        "01-2"
+      ], 
+      "busnrs": [
+        "1", 
+        "11", 
+        "111", 
+        "12", 
+        "2"
+      ], 
       "hnrlbls": [
         "6"
       ], 

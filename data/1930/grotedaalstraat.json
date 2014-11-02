@@ -217,8 +217,14 @@
       "street": "Grote Daalstraat"
     }, 
     {
-      "apptnrs": "0.0,1.0,2.0", 
-      "busnrs": "2", 
+      "apptnrs": [
+        "0.0", 
+        "1.0", 
+        "2.0"
+      ], 
+      "busnrs": [
+        "2"
+      ], 
       "hnrlbls": [
         "16"
       ], 
@@ -327,8 +333,14 @@
       "street": "Grote Daalstraat"
     }, 
     {
-      "apptnrs": "1.0,2.0", 
-      "busnrs": "1,2", 
+      "apptnrs": [
+        "1.0", 
+        "2.0"
+      ], 
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -401,7 +413,9 @@
       "street": "Grote Daalstraat"
     }, 
     {
-      "busnrs": "2", 
+      "busnrs": [
+        "2"
+      ], 
       "hnrlbls": [
         "30"
       ], 
@@ -450,7 +464,9 @@
       "street": "Grote Daalstraat"
     }, 
     {
-      "busnrs": "3", 
+      "busnrs": [
+        "3"
+      ], 
       "hnrlbls": [
         "4"
       ], 

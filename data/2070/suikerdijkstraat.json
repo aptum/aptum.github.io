@@ -1,7 +1,13 @@
 {
   "addresses": [
     {
-      "busnrs": "B01,B02,B03,B04,B05", 
+      "busnrs": [
+        "B01", 
+        "B02", 
+        "B03", 
+        "B04", 
+        "B05"
+      ], 
       "hnrlbls": [
         "1-109"
       ], 
@@ -398,8 +404,13 @@
       "street": "Suikerdijkstraat"
     }, 
     {
-      "apptnrs": "0.0,V1", 
-      "busnrs": "3", 
+      "apptnrs": [
+        "0.0", 
+        "V1"
+      ], 
+      "busnrs": [
+        "3"
+      ], 
       "hnrlbls": [
         "47"
       ], 
@@ -556,7 +567,11 @@
       "street": "Suikerdijkstraat"
     }, 
     {
-      "apptnrs": "0.0,V1,V2", 
+      "apptnrs": [
+        "0.0", 
+        "V1", 
+        "V2"
+      ], 
       "hnrlbls": [
         "6"
       ], 

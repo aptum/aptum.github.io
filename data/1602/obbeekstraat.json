@@ -25,8 +25,12 @@
       "street": "Obbeekstraat"
     }, 
     {
-      "apptnrs": "1.0", 
-      "busnrs": "1", 
+      "apptnrs": [
+        "1.0"
+      ], 
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "30"
       ], 
@@ -39,7 +43,10 @@
       "street": "Obbeekstraat"
     }, 
     {
-      "busnrs": "eL,eR", 
+      "busnrs": [
+        "eL", 
+        "eR"
+      ], 
       "hnrlbls": [
         "30_1-30_2"
       ], 
@@ -52,7 +59,9 @@
       "street": "Obbeekstraat"
     }, 
     {
-      "busnrs": "eR", 
+      "busnrs": [
+        "eR"
+      ], 
       "hnrlbls": [
         "30_1-30_2"
       ], 
@@ -113,7 +122,10 @@
       "street": "Obbeekstraat"
     }, 
     {
-      "busnrs": "1,2", 
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "63-63C"
       ], 

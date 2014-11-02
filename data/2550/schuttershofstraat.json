@@ -37,7 +37,13 @@
       "street": "Schuttershofstraat"
     }, 
     {
-      "busnrs": "0001,0101,0102,0201,0202", 
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202"
+      ], 
       "hnrlbls": [
         "15"
       ], 
@@ -74,8 +80,12 @@
       "street": "Schuttershofstraat"
     }, 
     {
-      "apptnrs": "2.0", 
-      "busnrs": "201", 
+      "apptnrs": [
+        "2.0"
+      ], 
+      "busnrs": [
+        "201"
+      ], 
       "hnrlbls": [
         "29"
       ], 

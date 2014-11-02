@@ -313,8 +313,12 @@
       "street": "Reynaertstraat"
     }, 
     {
-      "apptnrs": "0.0", 
-      "busnrs": "1", 
+      "apptnrs": [
+        "0.0"
+      ], 
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "42"
       ], 
@@ -411,7 +415,16 @@
       "street": "Reynaertstraat"
     }, 
     {
-      "apptnrs": "1L,1RA,1RV,2L,2R,GL-L,GLRA,GLRV", 
+      "apptnrs": [
+        "1L", 
+        "1RA", 
+        "1RV", 
+        "2L", 
+        "2R", 
+        "GL-L", 
+        "GLRA", 
+        "GLRV"
+      ], 
       "hnrlbls": [
         "9"
       ], 

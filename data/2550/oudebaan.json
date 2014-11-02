@@ -313,7 +313,11 @@
       "street": "Oude Baan"
     }, 
     {
-      "busnrs": "0001,0002,0101", 
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0101"
+      ], 
       "hnrlbls": [
         "2B"
       ], 
@@ -326,8 +330,13 @@
       "street": "Oude Baan"
     }, 
     {
-      "apptnrs": "1L,1R", 
-      "busnrs": "1", 
+      "apptnrs": [
+        "1L", 
+        "1R"
+      ], 
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "2C"
       ], 

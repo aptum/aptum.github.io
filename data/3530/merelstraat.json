@@ -13,7 +13,11 @@
       "street": "Merelstraat"
     }, 
     {
-      "apptnrs": "01-1,12,12/1-1", 
+      "apptnrs": [
+        "01-1", 
+        "12", 
+        "12/1-1"
+      ], 
       "hnrlbls": [
         "12"
       ], 
@@ -38,8 +42,12 @@
       "street": "Merelstraat"
     }, 
     {
-      "apptnrs": "01-1", 
-      "busnrs": "1", 
+      "apptnrs": [
+        "01-1"
+      ], 
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "14"
       ], 
@@ -52,7 +60,10 @@
       "street": "Merelstraat"
     }, 
     {
-      "busnrs": "1,2", 
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "16"
       ], 
@@ -269,8 +280,16 @@
       "street": "Merelstraat"
     }, 
     {
-      "apptnrs": "01-1,01-2", 
-      "busnrs": "1,11,12,2", 
+      "apptnrs": [
+        "01-1", 
+        "01-2"
+      ], 
+      "busnrs": [
+        "1", 
+        "11", 
+        "12", 
+        "2"
+      ], 
       "hnrlbls": [
         "6"
       ], 

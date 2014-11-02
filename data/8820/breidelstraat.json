@@ -121,7 +121,10 @@
       "street": "Breidelstraat"
     }, 
     {
-      "apptnrs": "V1,V2", 
+      "apptnrs": [
+        "V1", 
+        "V2"
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -134,8 +137,18 @@
       "street": "Breidelstraat"
     }, 
     {
-      "apptnrs": "V1,V2,V3,V4,V5,V6,V7", 
-      "busnrs": "2", 
+      "apptnrs": [
+        "V1", 
+        "V2", 
+        "V3", 
+        "V4", 
+        "V5", 
+        "V6", 
+        "V7"
+      ], 
+      "busnrs": [
+        "2"
+      ], 
       "hnrlbls": [
         "1-17"
       ], 

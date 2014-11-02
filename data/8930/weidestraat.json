@@ -301,7 +301,12 @@
       "street": "Weidestraat"
     }, 
     {
-      "busnrs": "0001,0101,201,202", 
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "201", 
+        "202"
+      ], 
       "hnrlbls": [
         "5-7"
       ], 
@@ -494,7 +499,9 @@
       "street": "Weidestraat"
     }, 
     {
-      "busnrs": "0202", 
+      "busnrs": [
+        "0202"
+      ], 
       "hnrlbls": [
         "5-7"
       ], 

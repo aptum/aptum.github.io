@@ -313,8 +313,14 @@
       "street": "B. Vandammestraat"
     }, 
     {
-      "apptnrs": "VER1,VER2", 
-      "busnrs": "1,201", 
+      "apptnrs": [
+        "VER1", 
+        "VER2"
+      ], 
+      "busnrs": [
+        "1", 
+        "201"
+      ], 
       "hnrlbls": [
         "4"
       ], 
@@ -615,7 +621,10 @@
       "street": "B. Vandammestraat"
     }, 
     {
-      "busnrs": "1,101", 
+      "busnrs": [
+        "1", 
+        "101"
+      ], 
       "hnrlbls": [
         "9"
       ], 

@@ -13,8 +13,15 @@
       "street": "Vijverstraat"
     }, 
     {
-      "apptnrs": "0.0,1.0", 
-      "busnrs": "1,2,3", 
+      "apptnrs": [
+        "0.0", 
+        "1.0"
+      ], 
+      "busnrs": [
+        "1", 
+        "2", 
+        "3"
+      ], 
       "hnrlbls": [
         "11"
       ], 
@@ -111,7 +118,10 @@
       "street": "Vijverstraat"
     }, 
     {
-      "busnrs": "1,2", 
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "9"
       ], 

@@ -133,8 +133,13 @@
       "street": "Lazaretstraat"
     }, 
     {
-      "apptnrs": "1.0", 
-      "busnrs": "1,3", 
+      "apptnrs": [
+        "1.0"
+      ], 
+      "busnrs": [
+        "1", 
+        "3"
+      ], 
       "hnrlbls": [
         "21-21b"
       ], 
@@ -147,7 +152,9 @@
       "street": "Lazaretstraat"
     }, 
     {
-      "busnrs": "3", 
+      "busnrs": [
+        "3"
+      ], 
       "hnrlbls": [
         "21-21b"
       ], 
@@ -424,7 +431,9 @@
       "street": "Lazaretstraat"
     }, 
     {
-      "apptnrs": "1.0", 
+      "apptnrs": [
+        "1.0"
+      ], 
       "hnrlbls": [
         "48"
       ], 

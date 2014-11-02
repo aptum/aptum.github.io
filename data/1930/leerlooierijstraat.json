@@ -361,8 +361,13 @@
       "street": "Leerlooierijstraat"
     }, 
     {
-      "apptnrs": "1.0", 
-      "busnrs": "2,3", 
+      "apptnrs": [
+        "1.0"
+      ], 
+      "busnrs": [
+        "2", 
+        "3"
+      ], 
       "hnrlbls": [
         "6"
       ], 
@@ -387,7 +392,10 @@
       "street": "Leerlooierijstraat"
     }, 
     {
-      "busnrs": "1,11", 
+      "busnrs": [
+        "1", 
+        "11"
+      ], 
       "hnrlbls": [
         "61-63"
       ], 

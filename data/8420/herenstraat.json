@@ -1,8 +1,13 @@
 {
   "addresses": [
     {
-      "apptnrs": "VER1", 
-      "busnrs": "101,7", 
+      "apptnrs": [
+        "VER1"
+      ], 
+      "busnrs": [
+        "101", 
+        "7"
+      ], 
       "hnrlbls": [
         "1-33"
       ], 
@@ -39,7 +44,9 @@
       "street": "Herenstraat"
     }, 
     {
-      "busnrs": "202", 
+      "busnrs": [
+        "202"
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -52,8 +59,15 @@
       "street": "Herenstraat"
     }, 
     {
-      "apptnrs": "VER1,VER2", 
-      "busnrs": "101,2,201", 
+      "apptnrs": [
+        "VER1", 
+        "VER2"
+      ], 
+      "busnrs": [
+        "101", 
+        "2", 
+        "201"
+      ], 
       "hnrlbls": [
         "3"
       ], 
@@ -90,7 +104,11 @@
       "street": "Herenstraat"
     }, 
     {
-      "busnrs": "1,101,102", 
+      "busnrs": [
+        "1", 
+        "101", 
+        "102"
+      ], 
       "hnrlbls": [
         "8-16"
       ], 

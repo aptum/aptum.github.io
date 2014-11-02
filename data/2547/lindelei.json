@@ -13,8 +13,15 @@
       "street": "Lindelei"
     }, 
     {
-      "apptnrs": "1L,1R,GL-L,GL-R", 
-      "busnrs": "2", 
+      "apptnrs": [
+        "1L", 
+        "1R", 
+        "GL-L", 
+        "GL-R"
+      ], 
+      "busnrs": [
+        "2"
+      ], 
       "hnrlbls": [
         "13"
       ], 
@@ -39,7 +46,14 @@
       "street": "Lindelei"
     }, 
     {
-      "apptnrs": "1L,1R,2L,2R,GL-L,GL-R", 
+      "apptnrs": [
+        "1L", 
+        "1R", 
+        "2L", 
+        "2R", 
+        "GL-L", 
+        "GL-R"
+      ], 
       "hnrlbls": [
         "15"
       ], 
@@ -112,7 +126,9 @@
       "street": "Lindelei"
     }, 
     {
-      "apptnrs": "0.0", 
+      "apptnrs": [
+        "0.0"
+      ], 
       "hnrlbls": [
         "21"
       ], 
@@ -137,8 +153,12 @@
       "street": "Lindelei"
     }, 
     {
-      "apptnrs": "0.0", 
-      "busnrs": "1", 
+      "apptnrs": [
+        "0.0"
+      ], 
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "23"
       ], 
@@ -295,8 +315,13 @@
       "street": "Lindelei"
     }, 
     {
-      "apptnrs": "0.0", 
-      "busnrs": "1,2", 
+      "apptnrs": [
+        "0.0"
+      ], 
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "5-8"
       ], 

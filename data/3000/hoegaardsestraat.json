@@ -73,8 +73,13 @@
       "street": "Hoegaardsestraat"
     }, 
     {
-      "apptnrs": "0001", 
-      "busnrs": "0101,0102", 
+      "apptnrs": [
+        "0001"
+      ], 
+      "busnrs": [
+        "0101", 
+        "0102"
+      ], 
       "hnrlbls": [
         "106"
       ], 
@@ -1059,7 +1064,10 @@
       "street": "Hoegaardsestraat"
     }, 
     {
-      "busnrs": "0001,0101", 
+      "busnrs": [
+        "0001", 
+        "0101"
+      ], 
       "hnrlbls": [
         "31"
       ], 
@@ -1156,7 +1164,10 @@
       "street": "Hoegaardsestraat"
     }, 
     {
-      "apptnrs": "0101,0201", 
+      "apptnrs": [
+        "0101", 
+        "0201"
+      ], 
       "hnrlbls": [
         "39"
       ], 
@@ -1481,7 +1492,10 @@
       "street": "Hoegaardsestraat"
     }, 
     {
-      "apptnrs": "0101,0201", 
+      "apptnrs": [
+        "0101", 
+        "0201"
+      ], 
       "hnrlbls": [
         "65"
       ], 

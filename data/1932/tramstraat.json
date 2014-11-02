@@ -73,8 +73,16 @@
       "street": "Tramstraat"
     }, 
     {
-      "apptnrs": "0.0,1.0,2.0,3.0", 
-      "busnrs": "1,32", 
+      "apptnrs": [
+        "0.0", 
+        "1.0", 
+        "2.0", 
+        "3.0"
+      ], 
+      "busnrs": [
+        "1", 
+        "32"
+      ], 
       "hnrlbls": [
         "15-17"
       ], 
@@ -171,7 +179,10 @@
       "street": "Tramstraat"
     }, 
     {
-      "busnrs": "1,2", 
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "23"
       ], 
@@ -220,8 +231,13 @@
       "street": "Tramstraat"
     }, 
     {
-      "apptnrs": "0.0,1.0", 
-      "busnrs": "1", 
+      "apptnrs": [
+        "0.0", 
+        "1.0"
+      ], 
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "29"
       ], 

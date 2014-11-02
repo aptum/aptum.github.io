@@ -25,7 +25,10 @@
       "street": "De Huttestraat"
     }, 
     {
-      "busnrs": "1,2", 
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "101"
       ], 
@@ -314,8 +317,12 @@
       "street": "De Huttestraat"
     }, 
     {
-      "apptnrs": "01-1", 
-      "busnrs": "1", 
+      "apptnrs": [
+        "01-1"
+      ], 
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "42"
       ], 

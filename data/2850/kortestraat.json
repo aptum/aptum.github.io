@@ -73,7 +73,9 @@
       "street": "Kortestraat"
     }, 
     {
-      "busnrs": "1", 
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "15"
       ], 
@@ -122,8 +124,19 @@
       "street": "Kortestraat"
     }, 
     {
-      "apptnrs": "00.1,01.1,01.2,01.3,02.1,02.2,02.3", 
-      "busnrs": "0,1", 
+      "apptnrs": [
+        "00.1", 
+        "01.1", 
+        "01.2", 
+        "01.3", 
+        "02.1", 
+        "02.2", 
+        "02.3"
+      ], 
+      "busnrs": [
+        "0", 
+        "1"
+      ], 
       "hnrlbls": [
         "19-21"
       ], 
@@ -172,8 +185,13 @@
       "street": "Kortestraat"
     }, 
     {
-      "apptnrs": "00.1,00.2", 
-      "busnrs": "2", 
+      "apptnrs": [
+        "00.1", 
+        "00.2"
+      ], 
+      "busnrs": [
+        "2"
+      ], 
       "hnrlbls": [
         "22"
       ], 

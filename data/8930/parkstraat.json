@@ -121,7 +121,14 @@
       "street": "Parkstraat"
     }, 
     {
-      "busnrs": "0002,003,1,101,201,301", 
+      "busnrs": [
+        "0002", 
+        "003", 
+        "1", 
+        "101", 
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
         "21"
       ], 
@@ -326,7 +333,11 @@
       "street": "Parkstraat"
     }, 
     {
-      "busnrs": "1,101,201", 
+      "busnrs": [
+        "1", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "40"
       ], 
@@ -771,7 +782,9 @@
       "street": "Parkstraat"
     }, 
     {
-      "busnrs": "8", 
+      "busnrs": [
+        "8"
+      ], 
       "hnrlbls": [
         "84"
       ], 

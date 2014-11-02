@@ -265,7 +265,9 @@
       "street": "Veegang"
     }, 
     {
-      "busnrs": "1", 
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "39"
       ], 
@@ -290,8 +292,14 @@
       "street": "Veegang"
     }, 
     {
-      "apptnrs": "0.0,1.0", 
-      "busnrs": "2,3", 
+      "apptnrs": [
+        "0.0", 
+        "1.0"
+      ], 
+      "busnrs": [
+        "2", 
+        "3"
+      ], 
       "hnrlbls": [
         "41-41_1"
       ], 
@@ -304,7 +312,9 @@
       "street": "Veegang"
     }, 
     {
-      "busnrs": "VL", 
+      "busnrs": [
+        "VL"
+      ], 
       "hnrlbls": [
         "41-41_1"
       ], 
@@ -449,7 +459,10 @@
       "street": "Veegang"
     }, 
     {
-      "busnrs": "1,2", 
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "52"
       ], 

@@ -217,7 +217,9 @@
       "street": "Kiezel"
     }, 
     {
-      "busnrs": "1", 
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "135"
       ], 
@@ -446,8 +448,17 @@
       "street": "Kiezel"
     }, 
     {
-      "apptnrs": "1-1,2-1", 
-      "busnrs": "01,1,11,2,21", 
+      "apptnrs": [
+        "1-1", 
+        "2-1"
+      ], 
+      "busnrs": [
+        "01", 
+        "1", 
+        "11", 
+        "2", 
+        "21"
+      ], 
       "hnrlbls": [
         "165"
       ], 
@@ -604,7 +615,9 @@
       "street": "Kiezel"
     }, 
     {
-      "busnrs": "1", 
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "179"
       ], 

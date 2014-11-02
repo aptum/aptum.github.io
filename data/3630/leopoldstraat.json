@@ -265,7 +265,9 @@
       "street": "Leopoldstraat"
     }, 
     {
-      "busnrs": "1", 
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "5"
       ], 
@@ -386,7 +388,14 @@
       "street": "Leopoldstraat"
     }, 
     {
-      "apptnrs": "0.3,1L,1R,2L,2R,3R", 
+      "apptnrs": [
+        "0.3", 
+        "1L", 
+        "1R", 
+        "2L", 
+        "2R", 
+        "3R"
+      ], 
       "hnrlbls": [
         "6"
       ], 
@@ -495,7 +504,13 @@
       "street": "Leopoldstraat"
     }, 
     {
-      "busnrs": "1,2,3,4,5", 
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5"
+      ], 
       "hnrlbls": [
         "7"
       ], 
@@ -568,8 +583,18 @@
       "street": "Leopoldstraat"
     }, 
     {
-      "apptnrs": "1L,1R,2L,2R,3L,3R", 
-      "busnrs": "1,L3", 
+      "apptnrs": [
+        "1L", 
+        "1R", 
+        "2L", 
+        "2R", 
+        "3L", 
+        "3R"
+      ], 
+      "busnrs": [
+        "1", 
+        "L3"
+      ], 
       "hnrlbls": [
         "8-8R"
       ], 
@@ -606,7 +631,9 @@
       "street": "Leopoldstraat"
     }, 
     {
-      "busnrs": "2", 
+      "busnrs": [
+        "2"
+      ], 
       "hnrlbls": [
         "8-8R"
       ], 

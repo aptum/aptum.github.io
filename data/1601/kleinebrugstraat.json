@@ -25,8 +25,14 @@
       "street": "Kleine Brugstraat"
     }, 
     {
-      "apptnrs": "1.0,2.0,3.0", 
-      "busnrs": "1", 
+      "apptnrs": [
+        "1.0", 
+        "2.0", 
+        "3.0"
+      ], 
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "101"
       ], 
@@ -543,7 +549,10 @@
       "street": "Kleine Brugstraat"
     }, 
     {
-      "apptnrs": "1.0,2.0", 
+      "apptnrs": [
+        "1.0", 
+        "2.0"
+      ], 
       "hnrlbls": [
         "56"
       ], 

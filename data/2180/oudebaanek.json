@@ -1,7 +1,9 @@
 {
   "addresses": [
     {
-      "busnrs": "1", 
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -254,7 +256,10 @@
       "street": "Oudebaan_EK"
     }, 
     {
-      "busnrs": "1,2", 
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "39"
       ], 
@@ -411,7 +416,9 @@
       "street": "Oudebaan_EK"
     }, 
     {
-      "busnrs": "1", 
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "51"
       ], 
@@ -652,8 +659,16 @@
       "street": "Oudebaan_EK"
     }, 
     {
-      "apptnrs": "0001,0101,0201", 
-      "busnrs": "1,2,3", 
+      "apptnrs": [
+        "0001", 
+        "0101", 
+        "0201"
+      ], 
+      "busnrs": [
+        "1", 
+        "2", 
+        "3"
+      ], 
       "hnrlbls": [
         "70"
       ], 

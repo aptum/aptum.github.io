@@ -289,7 +289,10 @@
       "street": "Sint-Lambrechts-Herkstraat"
     }, 
     {
-      "busnrs": "1,2", 
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "127"
       ], 
@@ -518,8 +521,14 @@
       "street": "Sint-Lambrechts-Herkstraat"
     }, 
     {
-      "apptnrs": "1.03", 
-      "busnrs": "1,2,4", 
+      "apptnrs": [
+        "1.03"
+      ], 
+      "busnrs": [
+        "1", 
+        "2", 
+        "4"
+      ], 
       "hnrlbls": [
         "2-511A"
       ], 
@@ -724,8 +733,16 @@
       "street": "Sint-Lambrechts-Herkstraat"
     }, 
     {
-      "apptnrs": "0.02,1.03", 
-      "busnrs": "02,1,3,4", 
+      "apptnrs": [
+        "0.02", 
+        "1.03"
+      ], 
+      "busnrs": [
+        "02", 
+        "1", 
+        "3", 
+        "4"
+      ], 
       "hnrlbls": [
         "2-511A"
       ], 
@@ -1038,7 +1055,11 @@
       "street": "Sint-Lambrechts-Herkstraat"
     }, 
     {
-      "busnrs": "3,4,5", 
+      "busnrs": [
+        "3", 
+        "4", 
+        "5"
+      ], 
       "hnrlbls": [
         "69"
       ], 
@@ -1255,7 +1276,9 @@
       "street": "Sint-Lambrechts-Herkstraat"
     }, 
     {
-      "busnrs": "1", 
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "87"
       ], 

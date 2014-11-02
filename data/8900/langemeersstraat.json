@@ -277,7 +277,11 @@
       "street": "Lange Meersstraat"
     }, 
     {
-      "apptnrs": "1A,2A,GLVA", 
+      "apptnrs": [
+        "1A", 
+        "2A", 
+        "GLVA"
+      ], 
       "hnrlbls": [
         "4"
       ], 
@@ -290,7 +294,9 @@
       "street": "Lange Meersstraat"
     }, 
     {
-      "busnrs": "A", 
+      "busnrs": [
+        "A"
+      ], 
       "hnrlbls": [
         "4_2"
       ], 

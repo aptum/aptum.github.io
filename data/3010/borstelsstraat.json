@@ -289,7 +289,10 @@
       "street": "Borstelsstraat"
     }, 
     {
-      "apptnrs": "1,2", 
+      "apptnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "153"
       ], 
@@ -350,7 +353,10 @@
       "street": "Borstelsstraat"
     }, 
     {
-      "apptnrs": "1,2", 
+      "apptnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "158"
       ], 
@@ -699,8 +705,18 @@
       "street": "Borstelsstraat"
     }, 
     {
-      "apptnrs": "0001,0002,0101,0103", 
-      "busnrs": "0102,0201,0202,0203", 
+      "apptnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
+        "0103"
+      ], 
+      "busnrs": [
+        "0102", 
+        "0201", 
+        "0202", 
+        "0203"
+      ], 
       "hnrlbls": [
         "48"
       ], 
@@ -833,8 +849,14 @@
       "street": "Borstelsstraat"
     }, 
     {
-      "apptnrs": "0101,0201,0202", 
-      "busnrs": "0001", 
+      "apptnrs": [
+        "0101", 
+        "0201", 
+        "0202"
+      ], 
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "58"
       ], 

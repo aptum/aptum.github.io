@@ -181,7 +181,13 @@
       "street": "Groenstraat"
     }, 
     {
-      "busnrs": "1,2,3,4,5", 
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5"
+      ], 
       "hnrlbls": [
         "23"
       ], 
@@ -326,7 +332,10 @@
       "street": "Groenstraat"
     }, 
     {
-      "busnrs": "A000,B000", 
+      "busnrs": [
+        "A000", 
+        "B000"
+      ], 
       "hnrlbls": [
         "34"
       ], 

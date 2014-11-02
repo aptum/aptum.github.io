@@ -1,7 +1,14 @@
 {
   "addresses": [
     {
-      "apptnrs": "0-01,0-02,1-01,1-02,2-01,2-02", 
+      "apptnrs": [
+        "0-01", 
+        "0-02", 
+        "1-01", 
+        "1-02", 
+        "2-01", 
+        "2-02"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -410,7 +417,9 @@
       "street": "Maciebergstraat"
     }, 
     {
-      "busnrs": "1", 
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "52"
       ], 
@@ -651,7 +660,11 @@
       "street": "Maciebergstraat"
     }, 
     {
-      "busnrs": "1,2,3", 
+      "busnrs": [
+        "1", 
+        "2", 
+        "3"
+      ], 
       "hnrlbls": [
         "9"
       ], 

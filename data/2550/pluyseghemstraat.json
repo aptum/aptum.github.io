@@ -1,7 +1,13 @@
 {
   "addresses": [
     {
-      "busnrs": "0001,0101,0102,0201,0202", 
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -38,7 +44,10 @@
       "street": "Pluyseghemstraat"
     }, 
     {
-      "busnrs": "0001,0101", 
+      "busnrs": [
+        "0001", 
+        "0101"
+      ], 
       "hnrlbls": [
         "12"
       ], 
@@ -111,8 +120,14 @@
       "street": "Pluyseghemstraat"
     }, 
     {
-      "apptnrs": "0101,0102,0201", 
-      "busnrs": "0001", 
+      "apptnrs": [
+        "0101", 
+        "0102", 
+        "0201"
+      ], 
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "2-55"
       ], 
@@ -161,7 +176,13 @@
       "street": "Pluyseghemstraat"
     }, 
     {
-      "busnrs": "1,101,102,2,4", 
+      "busnrs": [
+        "1", 
+        "101", 
+        "102", 
+        "2", 
+        "4"
+      ], 
       "hnrlbls": [
         "24-24_2"
       ], 
@@ -174,7 +195,9 @@
       "street": "Pluyseghemstraat"
     }, 
     {
-      "busnrs": "de.", 
+      "busnrs": [
+        "de."
+      ], 
       "hnrlbls": [
         "24-24_2"
       ], 
@@ -259,7 +282,9 @@
       "street": "Pluyseghemstraat"
     }, 
     {
-      "apptnrs": "2.0", 
+      "apptnrs": [
+        "2.0"
+      ], 
       "hnrlbls": [
         "32-34"
       ], 

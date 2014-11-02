@@ -133,7 +133,11 @@
       "street": "Weg naar As"
     }, 
     {
-      "busnrs": "1,2,3", 
+      "busnrs": [
+        "1", 
+        "2", 
+        "3"
+      ], 
       "hnrlbls": [
         "110"
       ], 
@@ -146,7 +150,11 @@
       "street": "Weg naar As"
     }, 
     {
-      "busnrs": "1,2,3", 
+      "busnrs": [
+        "1", 
+        "2", 
+        "3"
+      ], 
       "hnrlbls": [
         "110A"
       ], 
@@ -795,7 +803,10 @@
       "street": "Weg naar As"
     }, 
     {
-      "busnrs": "1,2", 
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "44"
       ], 
@@ -904,7 +915,11 @@
       "street": "Weg naar As"
     }, 
     {
-      "busnrs": "1,2,3", 
+      "busnrs": [
+        "1", 
+        "2", 
+        "3"
+      ], 
       "hnrlbls": [
         "52"
       ], 
@@ -917,7 +932,9 @@
       "street": "Weg naar As"
     }, 
     {
-      "busnrs": "1", 
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "54"
       ], 
@@ -1086,7 +1103,9 @@
       "street": "Weg naar As"
     }, 
     {
-      "busnrs": "1", 
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "7"
       ], 
@@ -1111,7 +1130,9 @@
       "street": "Weg naar As"
     }, 
     {
-      "busnrs": "1", 
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "72"
       ], 
@@ -1124,7 +1145,13 @@
       "street": "Weg naar As"
     }, 
     {
-      "busnrs": "1,2,3,4,5", 
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5"
+      ], 
       "hnrlbls": [
         "72A"
       ], 
@@ -1137,8 +1164,16 @@
       "street": "Weg naar As"
     }, 
     {
-      "apptnrs": "0.1", 
-      "busnrs": "1,2,3,4,5", 
+      "apptnrs": [
+        "0.1"
+      ], 
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5"
+      ], 
       "hnrlbls": [
         "72B"
       ], 

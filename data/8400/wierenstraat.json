@@ -133,7 +133,9 @@
       "street": "Wierenstraat"
     }, 
     {
-      "busnrs": "1", 
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "31"
       ], 
@@ -242,8 +244,14 @@
       "street": "Wierenstraat"
     }, 
     {
-      "apptnrs": "1.0,2.0", 
-      "busnrs": "1,201", 
+      "apptnrs": [
+        "1.0", 
+        "2.0"
+      ], 
+      "busnrs": [
+        "1", 
+        "201"
+      ], 
       "hnrlbls": [
         "38"
       ], 

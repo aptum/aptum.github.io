@@ -49,7 +49,11 @@
       "street": "Maskensstraat"
     }, 
     {
-      "apptnrs": "0/1,1/1,2/1", 
+      "apptnrs": [
+        "0/1", 
+        "1/1", 
+        "2/1"
+      ], 
       "hnrlbls": [
         "15"
       ], 
@@ -86,7 +90,11 @@
       "street": "Maskensstraat"
     }, 
     {
-      "busnrs": "1,2,3", 
+      "busnrs": [
+        "1", 
+        "2", 
+        "3"
+      ], 
       "hnrlbls": [
         "18"
       ], 
@@ -195,8 +203,17 @@
       "street": "Maskensstraat"
     }, 
     {
-      "apptnrs": "0/1,0/2,1/1,1/2,2/1", 
-      "busnrs": "0,2", 
+      "apptnrs": [
+        "0/1", 
+        "0/2", 
+        "1/1", 
+        "1/2", 
+        "2/1"
+      ], 
+      "busnrs": [
+        "0", 
+        "2"
+      ], 
       "hnrlbls": [
         "4"
       ], 
@@ -209,7 +226,13 @@
       "street": "Maskensstraat"
     }, 
     {
-      "apptnrs": "0/1,0/2,1/1,1/2,2/1", 
+      "apptnrs": [
+        "0/1", 
+        "0/2", 
+        "1/1", 
+        "1/2", 
+        "2/1"
+      ], 
       "hnrlbls": [
         "6"
       ], 

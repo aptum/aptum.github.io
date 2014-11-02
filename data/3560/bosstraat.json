@@ -313,8 +313,19 @@
       "street": "Bosstraat"
     }, 
     {
-      "apptnrs": "3.1", 
-      "busnrs": "1,2,3,3A,3B,4,4A,A", 
+      "apptnrs": [
+        "3.1"
+      ], 
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "3A", 
+        "3B", 
+        "4", 
+        "4A", 
+        "A"
+      ], 
       "hnrlbls": [
         "50"
       ], 
@@ -339,7 +350,9 @@
       "street": "Bosstraat"
     }, 
     {
-      "busnrs": "2", 
+      "busnrs": [
+        "2"
+      ], 
       "hnrlbls": [
         "52"
       ], 
@@ -352,7 +365,12 @@
       "street": "Bosstraat"
     }, 
     {
-      "busnrs": "5,6,7,8", 
+      "busnrs": [
+        "5", 
+        "6", 
+        "7", 
+        "8"
+      ], 
       "hnrlbls": [
         "54"
       ], 

@@ -73,7 +73,10 @@
       "street": "Voetpad"
     }, 
     {
-      "busnrs": "1,2", 
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "21"
       ], 
@@ -110,7 +113,10 @@
       "street": "Voetpad"
     }, 
     {
-      "busnrs": "1,11", 
+      "busnrs": [
+        "1", 
+        "11"
+      ], 
       "hnrlbls": [
         "25"
       ], 
@@ -435,8 +441,13 @@
       "street": "Voetpad"
     }, 
     {
-      "apptnrs": "21", 
-      "busnrs": "11,22", 
+      "apptnrs": [
+        "21"
+      ], 
+      "busnrs": [
+        "11", 
+        "22"
+      ], 
       "hnrlbls": [
         "6"
       ], 

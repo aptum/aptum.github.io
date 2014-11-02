@@ -277,8 +277,14 @@
       "street": "Sint Kathelijnestraat"
     }, 
     {
-      "apptnrs": "01.1,01.2,02.1", 
-      "busnrs": "2", 
+      "apptnrs": [
+        "01.1", 
+        "01.2", 
+        "02.1"
+      ], 
+      "busnrs": [
+        "2"
+      ], 
       "hnrlbls": [
         "5"
       ], 

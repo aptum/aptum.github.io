@@ -265,7 +265,11 @@
       "street": "Streepstraat"
     }, 
     {
-      "busnrs": "1,2,3", 
+      "busnrs": [
+        "1", 
+        "2", 
+        "3"
+      ], 
       "hnrlbls": [
         "131"
       ], 
@@ -278,7 +282,10 @@
       "street": "Streepstraat"
     }, 
     {
-      "apptnrs": "0001 - glv,0002 - 1ste", 
+      "apptnrs": [
+        "0001 - glv", 
+        "0002 - 1ste"
+      ], 
       "hnrlbls": [
         "133"
       ], 
@@ -315,7 +322,14 @@
       "street": "Streepstraat"
     }, 
     {
-      "busnrs": "1,2,3,4,5,6", 
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6"
+      ], 
       "hnrlbls": [
         "147"
       ], 
@@ -532,8 +546,15 @@
       "street": "Streepstraat"
     }, 
     {
-      "apptnrs": "0002 - glv,0003 - 1ste,0004 - 1ste,0005 - 2de", 
-      "busnrs": "0001 - glv", 
+      "apptnrs": [
+        "0002 - glv", 
+        "0003 - 1ste", 
+        "0004 - 1ste", 
+        "0005 - 2de"
+      ], 
+      "busnrs": [
+        "0001 - glv"
+      ], 
       "hnrlbls": [
         "20"
       ], 

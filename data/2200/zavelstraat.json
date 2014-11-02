@@ -121,7 +121,9 @@
       "street": "Zavelstraat"
     }, 
     {
-      "busnrs": "1", 
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -218,7 +220,10 @@
       "street": "Zavelstraat"
     }, 
     {
-      "busnrs": "1,2", 
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "27"
       ], 
@@ -459,7 +464,14 @@
       "street": "Zavelstraat"
     }, 
     {
-      "busnrs": "A,B,C,D,E,F", 
+      "busnrs": [
+        "A", 
+        "B", 
+        "C", 
+        "D", 
+        "E", 
+        "F"
+      ], 
       "hnrlbls": [
         "43_1"
       ], 

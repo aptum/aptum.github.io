@@ -25,8 +25,14 @@
       "street": "Kerkstraat"
     }, 
     {
-      "apptnrs": "01-1,02-1", 
-      "busnrs": "1,2", 
+      "apptnrs": [
+        "01-1", 
+        "02-1"
+      ], 
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "15"
       ], 
@@ -39,7 +45,11 @@
       "street": "Kerkstraat"
     }, 
     {
-      "apptnrs": "00-1,01-1,02-1", 
+      "apptnrs": [
+        "00-1", 
+        "01-1", 
+        "02-1"
+      ], 
       "hnrlbls": [
         "17"
       ], 
@@ -100,7 +110,9 @@
       "street": "Kerkstraat"
     }, 
     {
-      "busnrs": "01-1", 
+      "busnrs": [
+        "01-1"
+      ], 
       "hnrlbls": [
         "25A"
       ], 

@@ -193,7 +193,12 @@
       "street": "Terelststraat"
     }, 
     {
-      "apptnrs": "0.0,0.0 + 1.0,1.0,2.0", 
+      "apptnrs": [
+        "0.0", 
+        "0.0 + 1.0", 
+        "1.0", 
+        "2.0"
+      ], 
       "hnrlbls": [
         "159"
       ], 
@@ -518,7 +523,13 @@
       "street": "Terelststraat"
     }, 
     {
-      "busnrs": "1,2,3,4,VA", 
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "VA"
+      ], 
       "hnrlbls": [
         "273"
       ], 

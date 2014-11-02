@@ -121,7 +121,9 @@
       "street": "Pierstraat"
     }, 
     {
-      "busnrs": "1", 
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -218,8 +220,13 @@
       "street": "Pierstraat"
     }, 
     {
-      "apptnrs": "2L", 
-      "busnrs": "1L,2R", 
+      "apptnrs": [
+        "2L"
+      ], 
+      "busnrs": [
+        "1L", 
+        "2R"
+      ], 
       "hnrlbls": [
         "2A"
       ], 

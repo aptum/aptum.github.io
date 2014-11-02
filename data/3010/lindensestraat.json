@@ -1,8 +1,13 @@
 {
   "addresses": [
     {
-      "apptnrs": "0101,0201", 
-      "busnrs": "0001", 
+      "apptnrs": [
+        "0101", 
+        "0201"
+      ], 
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -75,7 +80,11 @@
       "street": "Lindensestraat"
     }, 
     {
-      "busnrs": "0101,0102,0201", 
+      "busnrs": [
+        "0101", 
+        "0102", 
+        "0201"
+      ], 
       "hnrlbls": [
         "15"
       ], 
@@ -472,7 +481,11 @@
       "street": "Lindensestraat"
     }, 
     {
-      "apptnrs": "0001,0101,0201", 
+      "apptnrs": [
+        "0001", 
+        "0101", 
+        "0201"
+      ], 
       "hnrlbls": [
         "52"
       ], 

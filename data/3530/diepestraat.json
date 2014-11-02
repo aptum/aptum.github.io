@@ -109,8 +109,15 @@
       "street": "Diepestraat"
     }, 
     {
-      "apptnrs": "01-1,02-1,02-2", 
-      "busnrs": "1,2", 
+      "apptnrs": [
+        "01-1", 
+        "02-1", 
+        "02-2"
+      ], 
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "3"
       ], 

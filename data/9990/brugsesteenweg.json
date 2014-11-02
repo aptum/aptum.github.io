@@ -253,7 +253,14 @@
       "street": "Brugse Steenweg"
     }, 
     {
-      "busnrs": "A1,A2,A3,B1,B2,B3", 
+      "busnrs": [
+        "A1", 
+        "A2", 
+        "A3", 
+        "B1", 
+        "B2", 
+        "B3"
+      ], 
       "hnrlbls": [
         "185"
       ], 
@@ -566,7 +573,10 @@
       "street": "Brugse Steenweg"
     }, 
     {
-      "apptnrs": "0-01,1-01", 
+      "apptnrs": [
+        "0-01", 
+        "1-01"
+      ], 
       "hnrlbls": [
         "202"
       ], 

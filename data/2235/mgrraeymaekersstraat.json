@@ -1,7 +1,10 @@
 {
   "addresses": [
     {
-      "busnrs": "1,2", 
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "1-3"
       ], 
@@ -86,7 +89,14 @@
       "street": "Mgr. Raeymaekersstraat"
     }, 
     {
-      "apptnrs": "0/1,0/2,1/1,1/2,2/1,2/2", 
+      "apptnrs": [
+        "0/1", 
+        "0/2", 
+        "1/1", 
+        "1/2", 
+        "2/1", 
+        "2/2"
+      ], 
       "hnrlbls": [
         "16"
       ], 
@@ -99,7 +109,12 @@
       "street": "Mgr. Raeymaekersstraat"
     }, 
     {
-      "busnrs": "1,2,3,4", 
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4"
+      ], 
       "hnrlbls": [
         "17"
       ], 
@@ -448,8 +463,15 @@
       "street": "Mgr. Raeymaekersstraat"
     }, 
     {
-      "apptnrs": "0/1,1/1,1/2", 
-      "busnrs": "0,1", 
+      "apptnrs": [
+        "0/1", 
+        "1/1", 
+        "1/2"
+      ], 
+      "busnrs": [
+        "0", 
+        "1"
+      ], 
       "hnrlbls": [
         "5"
       ], 

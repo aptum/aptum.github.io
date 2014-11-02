@@ -73,8 +73,23 @@
       "street": "Poperbosstraat"
     }, 
     {
-      "apptnrs": "V1,V10,V11,V12,V2,V3,V4,V5,V6,V7,V8,V9", 
-      "busnrs": "2", 
+      "apptnrs": [
+        "V1", 
+        "V10", 
+        "V11", 
+        "V12", 
+        "V2", 
+        "V3", 
+        "V4", 
+        "V5", 
+        "V6", 
+        "V7", 
+        "V8", 
+        "V9"
+      ], 
+      "busnrs": [
+        "2"
+      ], 
       "hnrlbls": [
         "16"
       ], 
@@ -363,7 +378,11 @@
       "street": "Poperbosstraat"
     }, 
     {
-      "apptnrs": "V1,V2,V3", 
+      "apptnrs": [
+        "V1", 
+        "V2", 
+        "V3"
+      ], 
       "hnrlbls": [
         "7"
       ], 

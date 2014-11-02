@@ -13,7 +13,10 @@
       "street": "Kiekenmarkt"
     }, 
     {
-      "apptnrs": "1A,GLVA", 
+      "apptnrs": [
+        "1A", 
+        "GLVA"
+      ], 
       "hnrlbls": [
         "3"
       ], 
@@ -26,8 +29,28 @@
       "street": "Kiekenmarkt"
     }, 
     {
-      "apptnrs": "1A,1B,1C,1D,GLD,GLE,GLF,GLR", 
-      "busnrs": "GLA,GLB,GLC,GLG,GLH,GLK,GLL,GLM,GLN,GLP", 
+      "apptnrs": [
+        "1A", 
+        "1B", 
+        "1C", 
+        "1D", 
+        "GLD", 
+        "GLE", 
+        "GLF", 
+        "GLR"
+      ], 
+      "busnrs": [
+        "GLA", 
+        "GLB", 
+        "GLC", 
+        "GLG", 
+        "GLH", 
+        "GLK", 
+        "GLL", 
+        "GLM", 
+        "GLN", 
+        "GLP"
+      ], 
       "hnrlbls": [
         "3A"
       ], 
@@ -64,7 +87,9 @@
       "street": "Kiekenmarkt"
     }, 
     {
-      "apptnrs": "1A", 
+      "apptnrs": [
+        "1A"
+      ], 
       "hnrlbls": [
         "6"
       ], 

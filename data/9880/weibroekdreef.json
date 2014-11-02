@@ -457,7 +457,9 @@
       "street": "Weibroekdreef"
     }, 
     {
-      "busnrs": "A", 
+      "busnrs": [
+        "A"
+      ], 
       "hnrlbls": [
         "2A-2_1"
       ], 
@@ -662,8 +664,14 @@
       "street": "Weibroekdreef"
     }, 
     {
-      "apptnrs": "1.0", 
-      "busnrs": "1,3,D", 
+      "apptnrs": [
+        "1.0"
+      ], 
+      "busnrs": [
+        "1", 
+        "3", 
+        "D"
+      ], 
       "hnrlbls": [
         "45-45_1"
       ], 
@@ -676,7 +684,13 @@
       "street": "Weibroekdreef"
     }, 
     {
-      "busnrs": "A,B,C,D,F", 
+      "busnrs": [
+        "A", 
+        "B", 
+        "C", 
+        "D", 
+        "F"
+      ], 
       "hnrlbls": [
         "45-45_1"
       ], 

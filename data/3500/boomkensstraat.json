@@ -85,7 +85,12 @@
       "street": "Boomkensstraat"
     }, 
     {
-      "busnrs": "2,3,4,5", 
+      "busnrs": [
+        "2", 
+        "3", 
+        "4", 
+        "5"
+      ], 
       "hnrlbls": [
         "105"
       ], 
@@ -110,7 +115,13 @@
       "street": "Boomkensstraat"
     }, 
     {
-      "busnrs": "1,2,3,4,5", 
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5"
+      ], 
       "hnrlbls": [
         "107"
       ], 
@@ -147,7 +158,12 @@
       "street": "Boomkensstraat"
     }, 
     {
-      "busnrs": "1,2,3,4", 
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4"
+      ], 
       "hnrlbls": [
         "110"
       ], 
@@ -160,7 +176,10 @@
       "street": "Boomkensstraat"
     }, 
     {
-      "busnrs": "1,2", 
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "111"
       ], 
@@ -173,7 +192,12 @@
       "street": "Boomkensstraat"
     }, 
     {
-      "busnrs": "1,2,3,4", 
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4"
+      ], 
       "hnrlbls": [
         "112"
       ], 
@@ -186,7 +210,11 @@
       "street": "Boomkensstraat"
     }, 
     {
-      "busnrs": "1,2,3", 
+      "busnrs": [
+        "1", 
+        "2", 
+        "3"
+      ], 
       "hnrlbls": [
         "113"
       ], 
@@ -199,7 +227,10 @@
       "street": "Boomkensstraat"
     }, 
     {
-      "busnrs": "1,2", 
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "114"
       ], 
@@ -212,7 +243,11 @@
       "street": "Boomkensstraat"
     }, 
     {
-      "busnrs": "1,2,3", 
+      "busnrs": [
+        "1", 
+        "2", 
+        "3"
+      ], 
       "hnrlbls": [
         "115"
       ], 
@@ -381,7 +416,11 @@
       "street": "Boomkensstraat"
     }, 
     {
-      "busnrs": "1,2,3", 
+      "busnrs": [
+        "1", 
+        "2", 
+        "3"
+      ], 
       "hnrlbls": [
         "128"
       ], 
@@ -622,7 +661,13 @@
       "street": "Boomkensstraat"
     }, 
     {
-      "busnrs": "1,2,3,4,5", 
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5"
+      ], 
       "hnrlbls": [
         "149"
       ], 
@@ -659,7 +704,13 @@
       "street": "Boomkensstraat"
     }, 
     {
-      "busnrs": "1,2,3,4,5", 
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5"
+      ], 
       "hnrlbls": [
         "151"
       ], 
@@ -720,7 +771,10 @@
       "street": "Boomkensstraat"
     }, 
     {
-      "busnrs": "1,2", 
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "156"
       ], 
@@ -745,7 +799,11 @@
       "street": "Boomkensstraat"
     }, 
     {
-      "busnrs": "1,2,3", 
+      "busnrs": [
+        "1", 
+        "2", 
+        "3"
+      ], 
       "hnrlbls": [
         "158"
       ], 
@@ -794,7 +852,11 @@
       "street": "Boomkensstraat"
     }, 
     {
-      "busnrs": "1,2,3", 
+      "busnrs": [
+        "1", 
+        "2", 
+        "3"
+      ], 
       "hnrlbls": [
         "161"
       ], 
@@ -807,7 +869,9 @@
       "street": "Boomkensstraat"
     }, 
     {
-      "busnrs": "1", 
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "162"
       ], 
@@ -844,7 +908,16 @@
       "street": "Boomkensstraat"
     }, 
     {
-      "busnrs": "1,2,3,4,5,6,7,8", 
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6", 
+        "7", 
+        "8"
+      ], 
       "hnrlbls": [
         "166"
       ], 
@@ -905,8 +978,27 @@
       "street": "Boomkensstraat"
     }, 
     {
-      "apptnrs": "0.01,0.02,0.03,1.01,1.02,2.01,2.02,3.01,3.02", 
-      "busnrs": "001,002,003,101,201,203,301,302", 
+      "apptnrs": [
+        "0.01", 
+        "0.02", 
+        "0.03", 
+        "1.01", 
+        "1.02", 
+        "2.01", 
+        "2.02", 
+        "3.01", 
+        "3.02"
+      ], 
+      "busnrs": [
+        "001", 
+        "002", 
+        "003", 
+        "101", 
+        "201", 
+        "203", 
+        "301", 
+        "302"
+      ], 
       "hnrlbls": [
         "125-170"
       ], 
@@ -979,7 +1071,13 @@
       "street": "Boomkensstraat"
     }, 
     {
-      "busnrs": "1,2,3,4,5", 
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5"
+      ], 
       "hnrlbls": [
         "177"
       ], 
@@ -1076,7 +1174,11 @@
       "street": "Boomkensstraat"
     }, 
     {
-      "busnrs": "1,2,3", 
+      "busnrs": [
+        "1", 
+        "2", 
+        "3"
+      ], 
       "hnrlbls": [
         "187"
       ], 
@@ -1101,7 +1203,10 @@
       "street": "Boomkensstraat"
     }, 
     {
-      "busnrs": "1,2", 
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "22-190"
       ], 
@@ -1162,7 +1267,9 @@
       "street": "Boomkensstraat"
     }, 
     {
-      "busnrs": "1", 
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "195"
       ], 
@@ -1199,7 +1306,12 @@
       "street": "Boomkensstraat"
     }, 
     {
-      "busnrs": "1,2,3,4", 
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4"
+      ], 
       "hnrlbls": [
         "199"
       ], 
@@ -1284,7 +1396,16 @@
       "street": "Boomkensstraat"
     }, 
     {
-      "busnrs": "1,2,3,4,5,6,7,8", 
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6", 
+        "7", 
+        "8"
+      ], 
       "hnrlbls": [
         "207"
       ], 
@@ -1417,7 +1538,12 @@
       "street": "Boomkensstraat"
     }, 
     {
-      "busnrs": "2,3,4,5", 
+      "busnrs": [
+        "2", 
+        "3", 
+        "4", 
+        "5"
+      ], 
       "hnrlbls": [
         "249"
       ], 
@@ -1466,7 +1592,12 @@
       "street": "Boomkensstraat"
     }, 
     {
-      "busnrs": "1,2,3,4", 
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4"
+      ], 
       "hnrlbls": [
         "255-257"
       ], 
@@ -1491,7 +1622,13 @@
       "street": "Boomkensstraat"
     }, 
     {
-      "busnrs": "1,2,3,4,5", 
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5"
+      ], 
       "hnrlbls": [
         "255-257"
       ], 
@@ -1504,7 +1641,10 @@
       "street": "Boomkensstraat"
     }, 
     {
-      "busnrs": "1,2", 
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "259"
       ], 
@@ -1553,7 +1693,10 @@
       "street": "Boomkensstraat"
     }, 
     {
-      "busnrs": "1,2", 
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "265"
       ], 
@@ -1602,7 +1745,11 @@
       "street": "Boomkensstraat"
     }, 
     {
-      "busnrs": "1,2,3", 
+      "busnrs": [
+        "1", 
+        "2", 
+        "3"
+      ], 
       "hnrlbls": [
         "2-277"
       ], 
@@ -1615,7 +1762,19 @@
       "street": "Boomkensstraat"
     }, 
     {
-      "busnrs": "1,10,11,12,3,4,5,6,7,8,9", 
+      "busnrs": [
+        "1", 
+        "10", 
+        "11", 
+        "12", 
+        "3", 
+        "4", 
+        "5", 
+        "6", 
+        "7", 
+        "8", 
+        "9"
+      ], 
       "hnrlbls": [
         "279-281"
       ], 
@@ -1640,7 +1799,9 @@
       "street": "Boomkensstraat"
     }, 
     {
-      "busnrs": "1", 
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "279-281"
       ], 
@@ -1689,7 +1850,11 @@
       "street": "Boomkensstraat"
     }, 
     {
-      "busnrs": "1,2,3", 
+      "busnrs": [
+        "1", 
+        "2", 
+        "3"
+      ], 
       "hnrlbls": [
         "291"
       ], 
@@ -1834,7 +1999,15 @@
       "street": "Boomkensstraat"
     }, 
     {
-      "busnrs": "1,2,3,4,5,6,7", 
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6", 
+        "7"
+      ], 
       "hnrlbls": [
         "320"
       ], 
@@ -1931,7 +2104,19 @@
       "street": "Boomkensstraat"
     }, 
     {
-      "busnrs": "10,11,12,2,3,4,5,6,7,8,9", 
+      "busnrs": [
+        "10", 
+        "11", 
+        "12", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6", 
+        "7", 
+        "8", 
+        "9"
+      ], 
       "hnrlbls": [
         "34-40"
       ], 
@@ -2100,7 +2285,10 @@
       "street": "Boomkensstraat"
     }, 
     {
-      "busnrs": "1,2", 
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "364"
       ], 
@@ -2113,7 +2301,15 @@
       "street": "Boomkensstraat"
     }, 
     {
-      "busnrs": "1,2,3,4,5,6,7", 
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6", 
+        "7"
+      ], 
       "hnrlbls": [
         "366"
       ], 
@@ -2186,7 +2382,12 @@
       "street": "Boomkensstraat"
     }, 
     {
-      "busnrs": "1,2,3,4", 
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4"
+      ], 
       "hnrlbls": [
         "43"
       ], 
@@ -2247,7 +2448,11 @@
       "street": "Boomkensstraat"
     }, 
     {
-      "busnrs": "1,2,5", 
+      "busnrs": [
+        "1", 
+        "2", 
+        "5"
+      ], 
       "hnrlbls": [
         "5"
       ], 
@@ -2284,7 +2489,11 @@
       "street": "Boomkensstraat"
     }, 
     {
-      "busnrs": "1,2,3", 
+      "busnrs": [
+        "1", 
+        "2", 
+        "3"
+      ], 
       "hnrlbls": [
         "53-55"
       ], 
@@ -2297,7 +2506,11 @@
       "street": "Boomkensstraat"
     }, 
     {
-      "busnrs": "1,2,3", 
+      "busnrs": [
+        "1", 
+        "2", 
+        "3"
+      ], 
       "hnrlbls": [
         "53-55"
       ], 
@@ -2370,7 +2583,10 @@
       "street": "Boomkensstraat"
     }, 
     {
-      "busnrs": "1,2", 
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "63"
       ], 
@@ -2383,7 +2599,9 @@
       "street": "Boomkensstraat"
     }, 
     {
-      "busnrs": "1", 
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "63A"
       ], 
@@ -2408,7 +2626,13 @@
       "street": "Boomkensstraat"
     }, 
     {
-      "busnrs": "1,2,3,4,5", 
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5"
+      ], 
       "hnrlbls": [
         "62-66"
       ], 
@@ -2433,7 +2657,11 @@
       "street": "Boomkensstraat"
     }, 
     {
-      "busnrs": "1,2,3", 
+      "busnrs": [
+        "1", 
+        "2", 
+        "3"
+      ], 
       "hnrlbls": [
         "62-66"
       ], 
@@ -2446,7 +2674,9 @@
       "street": "Boomkensstraat"
     }, 
     {
-      "busnrs": "1", 
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "67"
       ], 
@@ -2639,7 +2869,15 @@
       "street": "Boomkensstraat"
     }, 
     {
-      "busnrs": "1,2,3,4,5,6,7", 
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6", 
+        "7"
+      ], 
       "hnrlbls": [
         "80"
       ], 
@@ -2676,7 +2914,10 @@
       "street": "Boomkensstraat"
     }, 
     {
-      "busnrs": "1,2", 
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "83"
       ], 
@@ -2857,7 +3098,9 @@
       "street": "Boomkensstraat"
     }, 
     {
-      "busnrs": "1", 
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "98"
       ], 

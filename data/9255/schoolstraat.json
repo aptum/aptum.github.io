@@ -133,7 +133,10 @@
       "street": "Schoolstraat"
     }, 
     {
-      "busnrs": "1,102", 
+      "busnrs": [
+        "1", 
+        "102"
+      ], 
       "hnrlbls": [
         "25A"
       ], 
@@ -326,8 +329,14 @@
       "street": "Schoolstraat"
     }, 
     {
-      "apptnrs": "0102,0201,0202", 
-      "busnrs": "101", 
+      "apptnrs": [
+        "0102", 
+        "0201", 
+        "0202"
+      ], 
+      "busnrs": [
+        "101"
+      ], 
       "hnrlbls": [
         "41"
       ], 
@@ -796,7 +805,10 @@
       "street": "Schoolstraat"
     }, 
     {
-      "busnrs": "1,101", 
+      "busnrs": [
+        "1", 
+        "101"
+      ], 
       "hnrlbls": [
         "80"
       ], 

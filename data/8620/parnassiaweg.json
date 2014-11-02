@@ -1,7 +1,11 @@
 {
   "addresses": [
     {
-      "busnrs": "1,101,2", 
+      "busnrs": [
+        "1", 
+        "101", 
+        "2"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -38,7 +42,9 @@
       "street": "Parnassiaweg"
     }, 
     {
-      "busnrs": "301", 
+      "busnrs": [
+        "301"
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -51,8 +57,15 @@
       "street": "Parnassiaweg"
     }, 
     {
-      "apptnrs": "0.1", 
-      "busnrs": "1,2,201,301", 
+      "apptnrs": [
+        "0.1"
+      ], 
+      "busnrs": [
+        "1", 
+        "2", 
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
         "4"
       ], 
@@ -65,7 +78,12 @@
       "street": "Parnassiaweg"
     }, 
     {
-      "busnrs": "1,101,2,202", 
+      "busnrs": [
+        "1", 
+        "101", 
+        "2", 
+        "202"
+      ], 
       "hnrlbls": [
         "4A"
       ], 

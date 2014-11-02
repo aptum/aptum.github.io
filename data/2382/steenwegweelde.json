@@ -133,8 +133,14 @@
       "street": "Steenweg Weelde"
     }, 
     {
-      "apptnrs": "00-1,00-2,01-1", 
-      "busnrs": "2", 
+      "apptnrs": [
+        "00-1", 
+        "00-2", 
+        "01-1"
+      ], 
+      "busnrs": [
+        "2"
+      ], 
       "hnrlbls": [
         "11"
       ], 
@@ -339,7 +345,9 @@
       "street": "Steenweg Weelde"
     }, 
     {
-      "apptnrs": "0.1", 
+      "apptnrs": [
+        "0.1"
+      ], 
       "hnrlbls": [
         "14"
       ], 
@@ -352,8 +360,14 @@
       "street": "Steenweg Weelde"
     }, 
     {
-      "apptnrs": "0.0,1.1,1.2", 
-      "busnrs": "1", 
+      "apptnrs": [
+        "0.0", 
+        "1.1", 
+        "1.2"
+      ], 
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "14a"
       ], 

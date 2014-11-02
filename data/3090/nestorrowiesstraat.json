@@ -1,7 +1,9 @@
 {
   "addresses": [
     {
-      "busnrs": "1", 
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -26,7 +28,9 @@
       "street": "Nestor Rowiesstraat"
     }, 
     {
-      "busnrs": "2", 
+      "busnrs": [
+        "2"
+      ], 
       "hnrlbls": [
         "3"
       ], 
@@ -39,8 +43,16 @@
       "street": "Nestor Rowiesstraat"
     }, 
     {
-      "apptnrs": "1,01,1.01,1.02,2,01,2,02", 
-      "busnrs": "1", 
+      "apptnrs": [
+        "1,01", 
+        "1.01", 
+        "1.02", 
+        "2,01", 
+        "2,02"
+      ], 
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "4"
       ], 

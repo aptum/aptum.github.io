@@ -817,8 +817,13 @@
       "street": "Plankenstraat"
     }, 
     {
-      "apptnrs": "1.0", 
-      "busnrs": "1,101", 
+      "apptnrs": [
+        "1.0"
+      ], 
+      "busnrs": [
+        "1", 
+        "101"
+      ], 
       "hnrlbls": [
         "53"
       ], 
@@ -843,7 +848,11 @@
       "street": "Plankenstraat"
     }, 
     {
-      "busnrs": "1,101,2", 
+      "busnrs": [
+        "1", 
+        "101", 
+        "2"
+      ], 
       "hnrlbls": [
         "55"
       ], 
@@ -1240,8 +1249,12 @@
       "street": "Plankenstraat"
     }, 
     {
-      "apptnrs": "1.0", 
-      "busnrs": "101", 
+      "apptnrs": [
+        "1.0"
+      ], 
+      "busnrs": [
+        "101"
+      ], 
       "hnrlbls": [
         "85"
       ], 
@@ -1266,7 +1279,10 @@
       "street": "Plankenstraat"
     }, 
     {
-      "busnrs": "1,2", 
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "87"
       ], 

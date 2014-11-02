@@ -1,8 +1,30 @@
 {
   "addresses": [
     {
-      "apptnrs": "1A,1B,1C,1D,1E,1F,2A,2B,2C,2D,2E,2F,3A,3B,3C,3D,3E,3F", 
-      "busnrs": "3,D", 
+      "apptnrs": [
+        "1A", 
+        "1B", 
+        "1C", 
+        "1D", 
+        "1E", 
+        "1F", 
+        "2A", 
+        "2B", 
+        "2C", 
+        "2D", 
+        "2E", 
+        "2F", 
+        "3A", 
+        "3B", 
+        "3C", 
+        "3D", 
+        "3E", 
+        "3F"
+      ], 
+      "busnrs": [
+        "3", 
+        "D"
+      ], 
       "hnrlbls": [
         "1-1_3"
       ], 
@@ -27,8 +49,12 @@
       "street": "Jacob Catsstraat"
     }, 
     {
-      "apptnrs": "1", 
-      "busnrs": "D", 
+      "apptnrs": [
+        "1"
+      ], 
+      "busnrs": [
+        "D"
+      ], 
       "hnrlbls": [
         "1-1_3"
       ], 
@@ -53,7 +79,26 @@
       "street": "Jacob Catsstraat"
     }, 
     {
-      "apptnrs": "1A,1B,1C,1D,1E,1F,2A,2B,2C,2D,2E,2F,3A,3B,3C,3D,3E,3F", 
+      "apptnrs": [
+        "1A", 
+        "1B", 
+        "1C", 
+        "1D", 
+        "1E", 
+        "1F", 
+        "2A", 
+        "2B", 
+        "2C", 
+        "2D", 
+        "2E", 
+        "2F", 
+        "3A", 
+        "3B", 
+        "3C", 
+        "3D", 
+        "3E", 
+        "3F"
+      ], 
       "hnrlbls": [
         "3"
       ], 
@@ -78,7 +123,25 @@
       "street": "Jacob Catsstraat"
     }, 
     {
-      "apptnrs": "1A,1B,1C,1E,1F,2A,2B,2C,2D,2E,2F,3A,3B,3C,3D,3E,3F", 
+      "apptnrs": [
+        "1A", 
+        "1B", 
+        "1C", 
+        "1E", 
+        "1F", 
+        "2A", 
+        "2B", 
+        "2C", 
+        "2D", 
+        "2E", 
+        "2F", 
+        "3A", 
+        "3B", 
+        "3C", 
+        "3D", 
+        "3E", 
+        "3F"
+      ], 
       "hnrlbls": [
         "5"
       ], 
@@ -103,8 +166,32 @@
       "street": "Jacob Catsstraat"
     }, 
     {
-      "apptnrs": "1A,1B,1C,1D,1E,1F,2B,2C,2D,2E,2F,3A,3B,3C,3E,3F", 
-      "busnrs": "1,2,3,A,D,F", 
+      "apptnrs": [
+        "1A", 
+        "1B", 
+        "1C", 
+        "1D", 
+        "1E", 
+        "1F", 
+        "2B", 
+        "2C", 
+        "2D", 
+        "2E", 
+        "2F", 
+        "3A", 
+        "3B", 
+        "3C", 
+        "3E", 
+        "3F"
+      ], 
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "A", 
+        "D", 
+        "F"
+      ], 
       "hnrlbls": [
         "7"
       ], 
@@ -117,7 +204,9 @@
       "street": "Jacob Catsstraat"
     }, 
     {
-      "busnrs": "F", 
+      "busnrs": [
+        "F"
+      ], 
       "hnrlbls": [
         "7_2"
       ], 

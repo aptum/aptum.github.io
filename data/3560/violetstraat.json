@@ -301,7 +301,12 @@
       "street": "Violetstraat"
     }, 
     {
-      "busnrs": "1,3,A,B", 
+      "busnrs": [
+        "1", 
+        "3", 
+        "A", 
+        "B"
+      ], 
       "hnrlbls": [
         "30"
       ], 
@@ -314,7 +319,10 @@
       "street": "Violetstraat"
     }, 
     {
-      "busnrs": "A,B", 
+      "busnrs": [
+        "A", 
+        "B"
+      ], 
       "hnrlbls": [
         "30_1"
       ], 

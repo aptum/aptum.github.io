@@ -577,8 +577,16 @@
       "street": "Sint-Stevenstraat"
     }, 
     {
-      "apptnrs": "E1,E2", 
-      "busnrs": "01D,01E,02D,02E", 
+      "apptnrs": [
+        "E1", 
+        "E2"
+      ], 
+      "busnrs": [
+        "01D", 
+        "01E", 
+        "02D", 
+        "02E"
+      ], 
       "hnrlbls": [
         "35"
       ], 
@@ -627,7 +635,10 @@
       "street": "Sint-Stevenstraat"
     }, 
     {
-      "busnrs": "1,2", 
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "35D"
       ], 

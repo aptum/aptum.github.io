@@ -397,8 +397,16 @@
       "street": "Stationsstraat"
     }, 
     {
-      "apptnrs": "0/1,1/1,2/1,2/2", 
-      "busnrs": "1,2", 
+      "apptnrs": [
+        "0/1", 
+        "1/1", 
+        "2/1", 
+        "2/2"
+      ], 
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "42-44"
       ], 
@@ -411,8 +419,14 @@
       "street": "Stationsstraat"
     }, 
     {
-      "apptnrs": "0/1,1/1,2/1", 
-      "busnrs": "1", 
+      "apptnrs": [
+        "0/1", 
+        "1/1", 
+        "2/1"
+      ], 
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "42-44"
       ], 

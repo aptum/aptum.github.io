@@ -85,7 +85,9 @@
       "street": "Gravinstraat"
     }, 
     {
-      "busnrs": "4", 
+      "busnrs": [
+        "4"
+      ], 
       "hnrlbls": [
         "19"
       ], 
@@ -266,7 +268,9 @@
       "street": "Gravinstraat"
     }, 
     {
-      "busnrs": "2", 
+      "busnrs": [
+        "2"
+      ], 
       "hnrlbls": [
         "34"
       ], 
@@ -363,8 +367,15 @@
       "street": "Gravinstraat"
     }, 
     {
-      "apptnrs": "4.0", 
-      "busnrs": "1,2,3,4", 
+      "apptnrs": [
+        "4.0"
+      ], 
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4"
+      ], 
       "hnrlbls": [
         "48"
       ], 

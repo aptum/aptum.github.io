@@ -373,7 +373,10 @@
       "street": "Ter Waarde"
     }, 
     {
-      "apptnrs": "1A,GLVA", 
+      "apptnrs": [
+        "1A", 
+        "GLVA"
+      ], 
       "hnrlbls": [
         "43"
       ], 
@@ -398,7 +401,11 @@
       "street": "Ter Waarde"
     }, 
     {
-      "busnrs": "1A,GLVA,GLVB", 
+      "busnrs": [
+        "1A", 
+        "GLVA", 
+        "GLVB"
+      ], 
       "hnrlbls": [
         "45"
       ], 
@@ -519,7 +526,12 @@
       "street": "Ter Waarde"
     }, 
     {
-      "busnrs": "1A,1B,GLVA,GLVB", 
+      "busnrs": [
+        "1A", 
+        "1B", 
+        "GLVA", 
+        "GLVB"
+      ], 
       "hnrlbls": [
         "66"
       ], 

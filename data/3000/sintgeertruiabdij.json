@@ -25,8 +25,14 @@
       "street": "Sint-Geertruiabdij"
     }, 
     {
-      "apptnrs": "0001", 
-      "busnrs": "0101,0102,0103", 
+      "apptnrs": [
+        "0001"
+      ], 
+      "busnrs": [
+        "0101", 
+        "0102", 
+        "0103"
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -39,7 +45,17 @@
       "street": "Sint-Geertruiabdij"
     }, 
     {
-      "apptnrs": "1,2,3,4,5,6,7,8,9", 
+      "apptnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6", 
+        "7", 
+        "8", 
+        "9"
+      ], 
       "hnrlbls": [
         "3-4"
       ], 
@@ -52,7 +68,10 @@
       "street": "Sint-Geertruiabdij"
     }, 
     {
-      "apptnrs": "1,2", 
+      "apptnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "3-4"
       ], 

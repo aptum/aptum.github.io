@@ -1,7 +1,14 @@
 {
   "addresses": [
     {
-      "apptnrs": "0.1,0.2,0.3,V001,V002,V003", 
+      "apptnrs": [
+        "0.1", 
+        "0.2", 
+        "0.3", 
+        "V001", 
+        "V002", 
+        "V003"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -134,8 +141,13 @@
       "street": "Kerkplaats"
     }, 
     {
-      "apptnrs": "V01L,V01R", 
-      "busnrs": "GVLO", 
+      "apptnrs": [
+        "V01L", 
+        "V01R"
+      ], 
+      "busnrs": [
+        "GVLO"
+      ], 
       "hnrlbls": [
         "22"
       ], 
@@ -148,7 +160,11 @@
       "street": "Kerkplaats"
     }, 
     {
-      "apptnrs": "V1,V2,V3", 
+      "apptnrs": [
+        "V1", 
+        "V2", 
+        "V3"
+      ], 
       "hnrlbls": [
         "23"
       ], 
@@ -173,7 +189,11 @@
       "street": "Kerkplaats"
     }, 
     {
-      "apptnrs": "0.1,V1,V2", 
+      "apptnrs": [
+        "0.1", 
+        "V1", 
+        "V2"
+      ], 
       "hnrlbls": [
         "24-25"
       ], 
@@ -294,7 +314,11 @@
       "street": "Kerkplaats"
     }, 
     {
-      "apptnrs": "V1L,V2L,V2R", 
+      "apptnrs": [
+        "V1L", 
+        "V2L", 
+        "V2R"
+      ], 
       "hnrlbls": [
         "6-7"
       ], 
@@ -307,8 +331,17 @@
       "street": "Kerkplaats"
     }, 
     {
-      "apptnrs": "0.1,0.2,0.3,V1,V2,V3", 
-      "busnrs": "1", 
+      "apptnrs": [
+        "0.1", 
+        "0.2", 
+        "0.3", 
+        "V1", 
+        "V2", 
+        "V3"
+      ], 
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "6-7"
       ], 

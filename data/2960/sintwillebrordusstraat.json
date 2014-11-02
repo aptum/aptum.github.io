@@ -97,8 +97,13 @@
       "street": "Sint Willebrordusstraat"
     }, 
     {
-      "apptnrs": "0L,1.0", 
-      "busnrs": "2", 
+      "apptnrs": [
+        "0L", 
+        "1.0"
+      ], 
+      "busnrs": [
+        "2"
+      ], 
       "hnrlbls": [
         "17"
       ], 
@@ -195,7 +200,11 @@
       "street": "Sint Willebrordusstraat"
     }, 
     {
-      "apptnrs": "1V,2V,GlVL", 
+      "apptnrs": [
+        "1V", 
+        "2V", 
+        "GlVL"
+      ], 
       "hnrlbls": [
         "26"
       ], 
@@ -268,7 +277,9 @@
       "street": "Sint Willebrordusstraat"
     }, 
     {
-      "apptnrs": "2.0", 
+      "apptnrs": [
+        "2.0"
+      ], 
       "hnrlbls": [
         "31"
       ], 
@@ -749,7 +760,9 @@
       "street": "Sint Willebrordusstraat"
     }, 
     {
-      "busnrs": "2", 
+      "busnrs": [
+        "2"
+      ], 
       "hnrlbls": [
         "69"
       ], 

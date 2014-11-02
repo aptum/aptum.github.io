@@ -121,7 +121,11 @@
       "street": "Liebaertstraat"
     }, 
     {
-      "busnrs": "1,101,201", 
+      "busnrs": [
+        "1", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "19"
       ], 
@@ -590,7 +594,13 @@
       "street": "Liebaertstraat"
     }, 
     {
-      "busnrs": "101,102,2,201,202", 
+      "busnrs": [
+        "101", 
+        "102", 
+        "2", 
+        "201", 
+        "202"
+      ], 
       "hnrlbls": [
         "6"
       ], 
@@ -627,8 +637,14 @@
       "street": "Liebaertstraat"
     }, 
     {
-      "apptnrs": "0.0 + 1.0,VER2", 
-      "busnrs": "1,201", 
+      "apptnrs": [
+        "0.0 + 1.0", 
+        "VER2"
+      ], 
+      "busnrs": [
+        "1", 
+        "201"
+      ], 
       "hnrlbls": [
         "9"
       ], 

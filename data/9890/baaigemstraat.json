@@ -1765,7 +1765,12 @@
       "street": "Baaigemstraat"
     }, 
     {
-      "busnrs": "1,2,3,5", 
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "5"
+      ], 
       "hnrlbls": [
         "3"
       ], 
@@ -3122,7 +3127,9 @@
       "street": "Baaigemstraat"
     }, 
     {
-      "busnrs": "1", 
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "49-53"
       ], 

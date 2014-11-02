@@ -1,8 +1,16 @@
 {
   "addresses": [
     {
-      "apptnrs": "0/1,1/1,1/2,2/1", 
-      "busnrs": "0,1", 
+      "apptnrs": [
+        "0/1", 
+        "1/1", 
+        "1/2", 
+        "2/1"
+      ], 
+      "busnrs": [
+        "0", 
+        "1"
+      ], 
       "hnrlbls": [
         "1-7"
       ], 
@@ -255,7 +263,9 @@
       "street": "Cockstraat"
     }, 
     {
-      "apptnrs": "1/1", 
+      "apptnrs": [
+        "1/1"
+      ], 
       "hnrlbls": [
         "35"
       ], 

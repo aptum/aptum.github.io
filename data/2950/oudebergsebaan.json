@@ -229,7 +229,10 @@
       "street": "Oude Bergsebaan"
     }, 
     {
-      "busnrs": "1,2", 
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "17"
       ], 
@@ -266,7 +269,18 @@
       "street": "Oude Bergsebaan"
     }, 
     {
-      "apptnrs": "001 - app g,002 - app g,003 - app 1,004 - app 1,005 - app 1,006 - app 1,007 - app 1,008 - app 2,009 - app 2,010 - app 2", 
+      "apptnrs": [
+        "001 - app g", 
+        "002 - app g", 
+        "003 - app 1", 
+        "004 - app 1", 
+        "005 - app 1", 
+        "006 - app 1", 
+        "007 - app 1", 
+        "008 - app 2", 
+        "009 - app 2", 
+        "010 - app 2"
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -507,7 +521,9 @@
       "street": "Oude Bergsebaan"
     }, 
     {
-      "apptnrs": "app glv lin", 
+      "apptnrs": [
+        "app glv lin"
+      ], 
       "hnrlbls": [
         "4"
       ], 

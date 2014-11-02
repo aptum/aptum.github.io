@@ -61,8 +61,14 @@
       "street": "Jan Longinstraat"
     }, 
     {
-      "apptnrs": "1.0", 
-      "busnrs": "2,4,5", 
+      "apptnrs": [
+        "1.0"
+      ], 
+      "busnrs": [
+        "2", 
+        "4", 
+        "5"
+      ], 
       "hnrlbls": [
         "13"
       ], 
@@ -87,7 +93,12 @@
       "street": "Jan Longinstraat"
     }, 
     {
-      "busnrs": "1,2,3,4", 
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4"
+      ], 
       "hnrlbls": [
         "15"
       ], 

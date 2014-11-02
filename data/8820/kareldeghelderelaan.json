@@ -97,8 +97,21 @@
       "street": "Karel de Ghelderelaan"
     }, 
     {
-      "apptnrs": "V1,V2,V3,V4,V5,V6,V7,V8,V9", 
-      "busnrs": "6,7", 
+      "apptnrs": [
+        "V1", 
+        "V2", 
+        "V3", 
+        "V4", 
+        "V5", 
+        "V6", 
+        "V7", 
+        "V8", 
+        "V9"
+      ], 
+      "busnrs": [
+        "6", 
+        "7"
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -171,7 +184,9 @@
       "street": "Karel de Ghelderelaan"
     }, 
     {
-      "busnrs": "6", 
+      "busnrs": [
+        "6"
+      ], 
       "hnrlbls": [
         "24A-24C"
       ], 
@@ -184,7 +199,9 @@
       "street": "Karel de Ghelderelaan"
     }, 
     {
-      "busnrs": "2", 
+      "busnrs": [
+        "2"
+      ], 
       "hnrlbls": [
         "24A-24C"
       ], 
@@ -197,7 +214,9 @@
       "street": "Karel de Ghelderelaan"
     }, 
     {
-      "apptnrs": "2.0", 
+      "apptnrs": [
+        "2.0"
+      ], 
       "hnrlbls": [
         "24A-24C"
       ], 

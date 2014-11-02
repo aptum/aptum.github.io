@@ -229,7 +229,10 @@
       "street": "Motstraat"
     }, 
     {
-      "busnrs": "3,8", 
+      "busnrs": [
+        "3", 
+        "8"
+      ], 
       "hnrlbls": [
         "54"
       ], 
@@ -242,7 +245,9 @@
       "street": "Motstraat"
     }, 
     {
-      "busnrs": "7", 
+      "busnrs": [
+        "7"
+      ], 
       "hnrlbls": [
         "54A"
       ], 
@@ -255,8 +260,20 @@
       "street": "Motstraat"
     }, 
     {
-      "apptnrs": "7A", 
-      "busnrs": "10,11,2,4,6,7,8,9,A", 
+      "apptnrs": [
+        "7A"
+      ], 
+      "busnrs": [
+        "10", 
+        "11", 
+        "2", 
+        "4", 
+        "6", 
+        "7", 
+        "8", 
+        "9", 
+        "A"
+      ], 
       "hnrlbls": [
         "72"
       ], 
@@ -269,7 +286,9 @@
       "street": "Motstraat"
     }, 
     {
-      "busnrs": "A", 
+      "busnrs": [
+        "A"
+      ], 
       "hnrlbls": [
         "72_7"
       ], 

@@ -373,7 +373,9 @@
       "street": "Grote Baan"
     }, 
     {
-      "apptnrs": "00.1", 
+      "apptnrs": [
+        "00.1"
+      ], 
       "hnrlbls": [
         "35"
       ], 
@@ -590,7 +592,9 @@
       "street": "Grote Baan"
     }, 
     {
-      "busnrs": "19", 
+      "busnrs": [
+        "19"
+      ], 
       "hnrlbls": [
         "6"
       ], 
@@ -603,8 +607,16 @@
       "street": "Grote Baan"
     }, 
     {
-      "apptnrs": "01.1,01.2,02.1,02.2", 
-      "busnrs": "1,2", 
+      "apptnrs": [
+        "01.1", 
+        "01.2", 
+        "02.1", 
+        "02.2"
+      ], 
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "61"
       ], 

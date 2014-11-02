@@ -265,8 +265,13 @@
       "street": "Beeldekensweg"
     }, 
     {
-      "apptnrs": "V1R,V2", 
-      "busnrs": "V1L", 
+      "apptnrs": [
+        "V1R", 
+        "V2"
+      ], 
+      "busnrs": [
+        "V1L"
+      ], 
       "hnrlbls": [
         "52"
       ], 

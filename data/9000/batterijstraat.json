@@ -61,7 +61,12 @@
       "street": "Batterijstraat"
     }, 
     {
-      "busnrs": "0001,0101,0201,0301", 
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0201", 
+        "0301"
+      ], 
       "hnrlbls": [
         "15"
       ], 
@@ -422,7 +427,10 @@
       "street": "Batterijstraat"
     }, 
     {
-      "busnrs": "0001,0101", 
+      "busnrs": [
+        "0001", 
+        "0101"
+      ], 
       "hnrlbls": [
         "8"
       ], 

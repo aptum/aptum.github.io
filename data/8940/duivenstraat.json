@@ -553,7 +553,14 @@
       "street": "Duivenstraat"
     }, 
     {
-      "busnrs": "1,2,3,4,5,6", 
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6"
+      ], 
       "hnrlbls": [
         "59-61"
       ], 
@@ -710,7 +717,10 @@
       "street": "Duivenstraat"
     }, 
     {
-      "apptnrs": "0101,GV01", 
+      "apptnrs": [
+        "0101", 
+        "GV01"
+      ], 
       "hnrlbls": [
         "77"
       ], 

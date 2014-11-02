@@ -73,7 +73,9 @@
       "street": "Hertsbergsestraat"
     }, 
     {
-      "apptnrs": "0-01", 
+      "apptnrs": [
+        "0-01"
+      ], 
       "hnrlbls": [
         "15"
       ], 
@@ -446,7 +448,9 @@
       "street": "Hertsbergsestraat"
     }, 
     {
-      "busnrs": "1", 
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "5"
       ], 
@@ -471,8 +475,13 @@
       "street": "Hertsbergsestraat"
     }, 
     {
-      "apptnrs": "0-01", 
-      "busnrs": "0,1", 
+      "apptnrs": [
+        "0-01"
+      ], 
+      "busnrs": [
+        "0", 
+        "1"
+      ], 
       "hnrlbls": [
         "51"
       ], 

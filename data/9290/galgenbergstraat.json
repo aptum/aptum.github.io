@@ -673,8 +673,13 @@
       "street": "Galgenbergstraat"
     }, 
     {
-      "apptnrs": "1", 
-      "busnrs": "2A,3", 
+      "apptnrs": [
+        "1"
+      ], 
+      "busnrs": [
+        "2A", 
+        "3"
+      ], 
       "hnrlbls": [
         "52"
       ], 
@@ -687,7 +692,11 @@
       "street": "Galgenbergstraat"
     }, 
     {
-      "busnrs": "1,3,3.0", 
+      "busnrs": [
+        "1", 
+        "3", 
+        "3.0"
+      ], 
       "hnrlbls": [
         "52A"
       ], 
@@ -724,7 +733,9 @@
       "street": "Galgenbergstraat"
     }, 
     {
-      "busnrs": "1", 
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "54"
       ], 

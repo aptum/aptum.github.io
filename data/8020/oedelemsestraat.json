@@ -253,8 +253,17 @@
       "street": "Oedelemsestraat"
     }, 
     {
-      "apptnrs": "0-01,0-02,1-01,1-02,2-01,2-02", 
-      "busnrs": "2", 
+      "apptnrs": [
+        "0-01", 
+        "0-02", 
+        "1-01", 
+        "1-02", 
+        "2-01", 
+        "2-02"
+      ], 
+      "busnrs": [
+        "2"
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -927,7 +936,9 @@
       "street": "Oedelemsestraat"
     }, 
     {
-      "busnrs": "2", 
+      "busnrs": [
+        "2"
+      ], 
       "hnrlbls": [
         "83"
       ], 

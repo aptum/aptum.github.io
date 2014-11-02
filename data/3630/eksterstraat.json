@@ -13,7 +13,10 @@
       "street": "Eksterstraat"
     }, 
     {
-      "busnrs": "1,2", 
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -242,7 +245,9 @@
       "street": "Eksterstraat"
     }, 
     {
-      "busnrs": "1", 
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "3"
       ], 
@@ -279,7 +284,9 @@
       "street": "Eksterstraat"
     }, 
     {
-      "busnrs": "1", 
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "34"
       ], 
@@ -340,7 +347,14 @@
       "street": "Eksterstraat"
     }, 
     {
-      "apptnrs": "0L,0R,1L,1R,2L,2R", 
+      "apptnrs": [
+        "0L", 
+        "0R", 
+        "1L", 
+        "1R", 
+        "2L", 
+        "2R"
+      ], 
       "hnrlbls": [
         "46"
       ], 

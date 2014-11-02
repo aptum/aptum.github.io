@@ -169,8 +169,12 @@
       "street": "Brelaarstraat"
     }, 
     {
-      "apptnrs": "01-1", 
-      "busnrs": "1", 
+      "apptnrs": [
+        "01-1"
+      ], 
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "28"
       ], 
@@ -303,7 +307,10 @@
       "street": "Brelaarstraat"
     }, 
     {
-      "busnrs": "1,2", 
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "46"
       ], 

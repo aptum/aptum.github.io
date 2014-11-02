@@ -85,8 +85,14 @@
       "street": "Kruisstraat"
     }, 
     {
-      "apptnrs": "01-1,01-2", 
-      "busnrs": "1,2", 
+      "apptnrs": [
+        "01-1", 
+        "01-2"
+      ], 
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "2-2A"
       ], 
@@ -111,7 +117,9 @@
       "street": "Kruisstraat"
     }, 
     {
-      "busnrs": "1", 
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "22"
       ], 
@@ -172,8 +180,12 @@
       "street": "Kruisstraat"
     }, 
     {
-      "apptnrs": "1.1", 
-      "busnrs": "1", 
+      "apptnrs": [
+        "1.1"
+      ], 
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "2-2A"
       ], 
@@ -402,7 +414,10 @@
       "street": "Kruisstraat"
     }, 
     {
-      "apptnrs": "45,45/1-1", 
+      "apptnrs": [
+        "45", 
+        "45/1-1"
+      ], 
       "hnrlbls": [
         "45"
       ], 

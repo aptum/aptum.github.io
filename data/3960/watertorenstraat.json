@@ -1,8 +1,16 @@
 {
   "addresses": [
     {
-      "apptnrs": "0/01,01/1,01/2,02/1", 
-      "busnrs": "02,1", 
+      "apptnrs": [
+        "0/01", 
+        "01/1", 
+        "01/2", 
+        "02/1"
+      ], 
+      "busnrs": [
+        "02", 
+        "1"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -279,7 +287,9 @@
       "street": "Watertorenstraat"
     }, 
     {
-      "apptnrs": "2/1", 
+      "apptnrs": [
+        "2/1"
+      ], 
       "hnrlbls": [
         "5"
       ], 
@@ -292,8 +302,13 @@
       "street": "Watertorenstraat"
     }, 
     {
-      "apptnrs": "2/1", 
-      "busnrs": "0/1,1/1", 
+      "apptnrs": [
+        "2/1"
+      ], 
+      "busnrs": [
+        "0/1", 
+        "1/1"
+      ], 
       "hnrlbls": [
         "6"
       ], 
@@ -306,7 +321,11 @@
       "street": "Watertorenstraat"
     }, 
     {
-      "apptnrs": "0/01,01/1,01/2", 
+      "apptnrs": [
+        "0/01", 
+        "01/1", 
+        "01/2"
+      ], 
       "hnrlbls": [
         "8"
       ], 

@@ -169,8 +169,14 @@
       "street": "Lindenstraat"
     }, 
     {
-      "apptnrs": "1.0", 
-      "busnrs": "1,2,3", 
+      "apptnrs": [
+        "1.0"
+      ], 
+      "busnrs": [
+        "1", 
+        "2", 
+        "3"
+      ], 
       "hnrlbls": [
         "21"
       ], 
@@ -651,7 +657,10 @@
       "street": "Lindenstraat"
     }, 
     {
-      "busnrs": "1,2", 
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "61"
       ], 

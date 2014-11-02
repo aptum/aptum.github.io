@@ -301,7 +301,9 @@
       "street": "Heibergstraat"
     }, 
     {
-      "busnrs": "1", 
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "24A"
       ], 
@@ -350,7 +352,13 @@
       "street": "Heibergstraat"
     }, 
     {
-      "busnrs": "1,2,3,4,5", 
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5"
+      ], 
       "hnrlbls": [
         "28"
       ], 
@@ -579,7 +587,10 @@
       "street": "Heibergstraat"
     }, 
     {
-      "busnrs": "1,2", 
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "39-41"
       ], 

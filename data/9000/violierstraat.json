@@ -337,7 +337,12 @@
       "street": "Violierstraat"
     }, 
     {
-      "busnrs": "0001,0101,0201,0301", 
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0201", 
+        "0301"
+      ], 
       "hnrlbls": [
         "34"
       ], 
@@ -386,7 +391,9 @@
       "street": "Violierstraat"
     }, 
     {
-      "busnrs": "0101", 
+      "busnrs": [
+        "0101"
+      ], 
       "hnrlbls": [
         "38"
       ], 

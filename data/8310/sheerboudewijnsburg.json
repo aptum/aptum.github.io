@@ -745,7 +745,12 @@
       "street": "'s-Heer Boudewijnsburg"
     }, 
     {
-      "busnrs": "1,2,3,4", 
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4"
+      ], 
       "hnrlbls": [
         "56"
       ], 
@@ -818,8 +823,13 @@
       "street": "'s-Heer Boudewijnsburg"
     }, 
     {
-      "apptnrs": "1.0", 
-      "busnrs": "1,2", 
+      "apptnrs": [
+        "1.0"
+      ], 
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "63"
       ], 

@@ -13,8 +13,13 @@
       "street": "Trooststraat"
     }, 
     {
-      "apptnrs": "0,1", 
-      "busnrs": "2", 
+      "apptnrs": [
+        "0", 
+        "1"
+      ], 
+      "busnrs": [
+        "2"
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -51,7 +56,13 @@
       "street": "Trooststraat"
     }, 
     {
-      "apptnrs": "0,1/1,1/2,2/1,2/2", 
+      "apptnrs": [
+        "0", 
+        "1/1", 
+        "1/2", 
+        "2/1", 
+        "2/2"
+      ], 
       "hnrlbls": [
         "13"
       ], 
@@ -124,7 +135,15 @@
       "street": "Trooststraat"
     }, 
     {
-      "apptnrs": "1,2,3,4,5,6,7", 
+      "apptnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6", 
+        "7"
+      ], 
       "hnrlbls": [
         "4"
       ], 

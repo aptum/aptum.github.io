@@ -97,7 +97,12 @@
       "street": "Hogeweg"
     }, 
     {
-      "busnrs": "1,2,3,4", 
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4"
+      ], 
       "hnrlbls": [
         "11"
       ], 
@@ -638,7 +643,9 @@
       "street": "Hogeweg"
     }, 
     {
-      "busnrs": "1", 
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "6"
       ], 

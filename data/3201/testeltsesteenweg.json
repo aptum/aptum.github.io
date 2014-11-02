@@ -1957,7 +1957,12 @@
       "street": "Testeltsesteenweg"
     }, 
     {
-      "busnrs": "1,2,3,4", 
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4"
+      ], 
       "hnrlbls": [
         "284-286"
       ], 
@@ -2150,7 +2155,9 @@
       "street": "Testeltsesteenweg"
     }, 
     {
-      "busnrs": "1", 
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "31"
       ], 

@@ -61,8 +61,12 @@
       "street": "Terluchtestraat"
     }, 
     {
-      "apptnrs": "0-02", 
-      "busnrs": "1", 
+      "apptnrs": [
+        "0-02"
+      ], 
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "14"
       ], 
@@ -195,7 +199,10 @@
       "street": "Terluchtestraat"
     }, 
     {
-      "busnrs": "1,3", 
+      "busnrs": [
+        "1", 
+        "3"
+      ], 
       "hnrlbls": [
         "24B"
       ], 

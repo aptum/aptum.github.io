@@ -97,7 +97,13 @@
       "street": "Bergstraat"
     }, 
     {
-      "busnrs": "001A,1,2,3,4", 
+      "busnrs": [
+        "001A", 
+        "1", 
+        "2", 
+        "3", 
+        "4"
+      ], 
       "hnrlbls": [
         "15-15A"
       ], 
@@ -110,7 +116,9 @@
       "street": "Bergstraat"
     }, 
     {
-      "busnrs": "1", 
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "15-15A"
       ], 

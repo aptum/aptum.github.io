@@ -145,7 +145,10 @@
       "street": "Kleinbroekstraat"
     }, 
     {
-      "busnrs": "11B,1B", 
+      "busnrs": [
+        "11B", 
+        "1B"
+      ], 
       "hnrlbls": [
         "18"
       ], 
@@ -518,7 +521,10 @@
       "street": "Kleinbroekstraat"
     }, 
     {
-      "busnrs": "11,21", 
+      "busnrs": [
+        "11", 
+        "21"
+      ], 
       "hnrlbls": [
         "42A", 
         "42A-44"
@@ -532,7 +538,14 @@
       "street": "Kleinbroekstraat"
     }, 
     {
-      "busnrs": "1,11,12,2,21,22", 
+      "busnrs": [
+        "1", 
+        "11", 
+        "12", 
+        "2", 
+        "21", 
+        "22"
+      ], 
       "hnrlbls": [
         "42A-44", 
         "44"

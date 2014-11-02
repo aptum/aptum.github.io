@@ -97,7 +97,12 @@
       "street": "Boomgaardstraat"
     }, 
     {
-      "busnrs": "1,2,3,4", 
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4"
+      ], 
       "hnrlbls": [
         "115"
       ], 
@@ -422,7 +427,9 @@
       "street": "Boomgaardstraat"
     }, 
     {
-      "busnrs": "165", 
+      "busnrs": [
+        "165"
+      ], 
       "hnrlbls": [
         "161"
       ], 
@@ -495,7 +502,10 @@
       "street": "Boomgaardstraat"
     }, 
     {
-      "apptnrs": "0.0,V1", 
+      "apptnrs": [
+        "0.0", 
+        "V1"
+      ], 
       "hnrlbls": [
         "18"
       ], 
@@ -568,7 +578,9 @@
       "street": "Boomgaardstraat"
     }, 
     {
-      "apptnrs": "V1", 
+      "apptnrs": [
+        "V1"
+      ], 
       "hnrlbls": [
         "23"
       ], 
@@ -677,8 +689,20 @@
       "street": "Boomgaardstraat"
     }, 
     {
-      "apptnrs": "00 01,00 02,01 01,01 02,02 01", 
-      "busnrs": "1,101,102,2,201", 
+      "apptnrs": [
+        "00 01", 
+        "00 02", 
+        "01 01", 
+        "01 02", 
+        "02 01"
+      ], 
+      "busnrs": [
+        "1", 
+        "101", 
+        "102", 
+        "2", 
+        "201"
+      ], 
       "hnrlbls": [
         "3"
       ], 
@@ -967,7 +991,10 @@
       "street": "Boomgaardstraat"
     }, 
     {
-      "apptnrs": "0.0,V1", 
+      "apptnrs": [
+        "0.0", 
+        "V1"
+      ], 
       "hnrlbls": [
         "54"
       ], 

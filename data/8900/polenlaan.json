@@ -121,7 +121,17 @@
       "street": "Polenlaan"
     }, 
     {
-      "apptnrs": "1A,1B,2A,2B,3A,3B,4A,4B,5A", 
+      "apptnrs": [
+        "1A", 
+        "1B", 
+        "2A", 
+        "2B", 
+        "3A", 
+        "3B", 
+        "4A", 
+        "4B", 
+        "5A"
+      ], 
       "hnrlbls": [
         "2", 
         "1-2"
@@ -207,7 +217,9 @@
       "street": "Polenlaan"
     }, 
     {
-      "apptnrs": "1A", 
+      "apptnrs": [
+        "1A"
+      ], 
       "hnrlbls": [
         "3"
       ], 
@@ -232,7 +244,12 @@
       "street": "Polenlaan"
     }, 
     {
-      "apptnrs": "1A,1B,2A,GLVA", 
+      "apptnrs": [
+        "1A", 
+        "1B", 
+        "2A", 
+        "GLVA"
+      ], 
       "hnrlbls": [
         "4"
       ], 

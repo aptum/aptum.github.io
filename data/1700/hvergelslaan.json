@@ -61,8 +61,14 @@
       "street": "H. Vergelslaan"
     }, 
     {
-      "apptnrs": "2.0,3.0", 
-      "busnrs": "2,3", 
+      "apptnrs": [
+        "2.0", 
+        "3.0"
+      ], 
+      "busnrs": [
+        "2", 
+        "3"
+      ], 
       "hnrlbls": [
         "2-2b"
       ], 
@@ -183,7 +189,9 @@
       "street": "H. Vergelslaan"
     }, 
     {
-      "busnrs": "5", 
+      "busnrs": [
+        "5"
+      ], 
       "hnrlbls": [
         "2-2b"
       ], 

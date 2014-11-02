@@ -1,7 +1,17 @@
 {
   "addresses": [
     {
-      "apptnrs": "GVA1,GVA2,GVA3,V1A1,V1A2,V1A3,V2A1,V2A2,V2A3", 
+      "apptnrs": [
+        "GVA1", 
+        "GVA2", 
+        "GVA3", 
+        "V1A1", 
+        "V1A2", 
+        "V1A3", 
+        "V2A1", 
+        "V2A2", 
+        "V2A3"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -278,7 +288,10 @@
       "street": "Zeeweg"
     }, 
     {
-      "busnrs": "1,2", 
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "2A"
       ], 
@@ -483,7 +496,11 @@
       "street": "Zeeweg"
     }, 
     {
-      "apptnrs": "GVA1,V1A1,V2A1", 
+      "apptnrs": [
+        "GVA1", 
+        "V1A1", 
+        "V2A1"
+      ], 
       "hnrlbls": [
         "4"
       ], 

@@ -505,8 +505,25 @@
       "street": "Oostmolenstraat"
     }, 
     {
-      "apptnrs": "1.0,2.0", 
-      "busnrs": "1A,1B,1C,1D,1E,1F,2A,2B,2C,2D,2E,2F,2G", 
+      "apptnrs": [
+        "1.0", 
+        "2.0"
+      ], 
+      "busnrs": [
+        "1A", 
+        "1B", 
+        "1C", 
+        "1D", 
+        "1E", 
+        "1F", 
+        "2A", 
+        "2B", 
+        "2C", 
+        "2D", 
+        "2E", 
+        "2F", 
+        "2G"
+      ], 
       "hnrlbls": [
         "15-17"
       ], 
@@ -615,7 +632,13 @@
       "street": "Oostmolenstraat"
     }, 
     {
-      "busnrs": "A,B,C,D,F", 
+      "busnrs": [
+        "A", 
+        "B", 
+        "C", 
+        "D", 
+        "F"
+      ], 
       "hnrlbls": [
         "15_1-15_2"
       ], 
@@ -628,7 +651,14 @@
       "street": "Oostmolenstraat"
     }, 
     {
-      "busnrs": "A,B,D,F,G,c", 
+      "busnrs": [
+        "A", 
+        "B", 
+        "D", 
+        "F", 
+        "G", 
+        "c"
+      ], 
       "hnrlbls": [
         "15_1-15_2"
       ], 
@@ -1433,7 +1463,9 @@
       "street": "Oostmolenstraat"
     }, 
     {
-      "busnrs": "1", 
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "226-228"
       ], 

@@ -25,7 +25,9 @@
       "street": "Olmenstraat"
     }, 
     {
-      "busnrs": "1", 
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "12"
       ], 
@@ -470,8 +472,14 @@
       "street": "Olmenstraat"
     }, 
     {
-      "apptnrs": "01-1,01-2", 
-      "busnrs": "1,2", 
+      "apptnrs": [
+        "01-1", 
+        "01-2"
+      ], 
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "59"
       ], 

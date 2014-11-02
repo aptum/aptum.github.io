@@ -565,8 +565,14 @@
       "street": "Jagersdal"
     }, 
     {
-      "apptnrs": "1.0,2.0,3.0", 
-      "busnrs": "1", 
+      "apptnrs": [
+        "1.0", 
+        "2.0", 
+        "3.0"
+      ], 
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "145"
       ], 
@@ -1419,7 +1425,11 @@
       "street": "Jagersdal"
     }, 
     {
-      "apptnrs": "1.0,2.0,3.0", 
+      "apptnrs": [
+        "1.0", 
+        "2.0", 
+        "3.0"
+      ], 
       "hnrlbls": [
         "84"
       ], 
@@ -1444,7 +1454,9 @@
       "street": "Jagersdal"
     }, 
     {
-      "apptnrs": "1.0", 
+      "apptnrs": [
+        "1.0"
+      ], 
       "hnrlbls": [
         "86"
       ], 

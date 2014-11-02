@@ -481,8 +481,14 @@
       "street": "Albert Woutersstraat"
     }, 
     {
-      "apptnrs": "0101,0201,0301", 
-      "busnrs": "0001", 
+      "apptnrs": [
+        "0101", 
+        "0201", 
+        "0301"
+      ], 
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "168"
       ], 
@@ -567,7 +573,10 @@
       "street": "Albert Woutersstraat"
     }, 
     {
-      "apptnrs": "0001,0101", 
+      "apptnrs": [
+        "0001", 
+        "0101"
+      ], 
       "hnrlbls": [
         "25"
       ], 
@@ -1240,8 +1249,12 @@
       "street": "Albert Woutersstraat"
     }, 
     {
-      "apptnrs": "0101", 
-      "busnrs": "0201", 
+      "apptnrs": [
+        "0101"
+      ], 
+      "busnrs": [
+        "0201"
+      ], 
       "hnrlbls": [
         "85"
       ], 

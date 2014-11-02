@@ -85,7 +85,9 @@
       "street": "Goorstraat"
     }, 
     {
-      "busnrs": "1", 
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "17"
       ], 
@@ -134,8 +136,16 @@
       "street": "Goorstraat"
     }, 
     {
-      "apptnrs": "1.0", 
-      "busnrs": "1,101,102,103,E", 
+      "apptnrs": [
+        "1.0"
+      ], 
+      "busnrs": [
+        "1", 
+        "101", 
+        "102", 
+        "103", 
+        "E"
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -256,7 +266,12 @@
       "street": "Goorstraat"
     }, 
     {
-      "busnrs": "A,B,D,E", 
+      "busnrs": [
+        "A", 
+        "B", 
+        "D", 
+        "E"
+      ], 
       "hnrlbls": [
         "2_1"
       ], 

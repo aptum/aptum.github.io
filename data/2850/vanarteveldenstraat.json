@@ -37,7 +37,11 @@
       "street": "Van Arteveldenstraat"
     }, 
     {
-      "busnrs": "1,2,3", 
+      "busnrs": [
+        "1", 
+        "2", 
+        "3"
+      ], 
       "hnrlbls": [
         "10-12"
       ], 
@@ -542,8 +546,13 @@
       "street": "Van Arteveldenstraat"
     }, 
     {
-      "apptnrs": "01.1,02.1", 
-      "busnrs": "0", 
+      "apptnrs": [
+        "01.1", 
+        "02.1"
+      ], 
+      "busnrs": [
+        "0"
+      ], 
       "hnrlbls": [
         "56-58"
       ], 
@@ -820,7 +829,9 @@
       "street": "Van Arteveldenstraat"
     }, 
     {
-      "busnrs": "1", 
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "8"
       ], 

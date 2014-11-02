@@ -133,7 +133,9 @@
       "street": "Oostmalsebaan"
     }, 
     {
-      "busnrs": "6", 
+      "busnrs": [
+        "6"
+      ], 
       "hnrlbls": [
         "16"
       ], 
@@ -218,7 +220,9 @@
       "street": "Oostmalsebaan"
     }, 
     {
-      "busnrs": "1", 
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "1A"
       ], 
@@ -243,8 +247,17 @@
       "street": "Oostmalsebaan"
     }, 
     {
-      "apptnrs": "5", 
-      "busnrs": "3,4,6,9,U2,U5", 
+      "apptnrs": [
+        "5"
+      ], 
+      "busnrs": [
+        "3", 
+        "4", 
+        "6", 
+        "9", 
+        "U2", 
+        "U5"
+      ], 
       "hnrlbls": [
         "1C"
       ], 
@@ -929,7 +942,9 @@
       "street": "Oostmalsebaan"
     }, 
     {
-      "apptnrs": "1.0", 
+      "apptnrs": [
+        "1.0"
+      ], 
       "hnrlbls": [
         "6"
       ], 

@@ -349,7 +349,9 @@
       "street": "Schalbroekstraat"
     }, 
     {
-      "busnrs": "21", 
+      "busnrs": [
+        "21"
+      ], 
       "hnrlbls": [
         "120"
       ], 
@@ -686,8 +688,14 @@
       "street": "Schalbroekstraat"
     }, 
     {
-      "apptnrs": "1.1,1.2", 
-      "busnrs": "1,2", 
+      "apptnrs": [
+        "1.1", 
+        "1.2"
+      ], 
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "154"
       ], 
@@ -1432,8 +1440,14 @@
       "street": "Schalbroekstraat"
     }, 
     {
-      "apptnrs": "00.1,01.1", 
-      "busnrs": "0,1", 
+      "apptnrs": [
+        "00.1", 
+        "01.1"
+      ], 
+      "busnrs": [
+        "0", 
+        "1"
+      ], 
       "hnrlbls": [
         "5-5A"
       ], 
@@ -2022,8 +2036,12 @@
       "street": "Schalbroekstraat"
     }, 
     {
-      "apptnrs": "1.1", 
-      "busnrs": "1", 
+      "apptnrs": [
+        "1.1"
+      ], 
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "87"
       ], 

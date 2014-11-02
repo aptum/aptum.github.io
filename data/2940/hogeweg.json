@@ -37,8 +37,13 @@
       "street": "Hoge Weg"
     }, 
     {
-      "apptnrs": "1L,1R", 
-      "busnrs": "1", 
+      "apptnrs": [
+        "1L", 
+        "1R"
+      ], 
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "101"
       ], 
@@ -807,7 +812,10 @@
       "street": "Hoge Weg"
     }, 
     {
-      "apptnrs": "VD1L,VD1R", 
+      "apptnrs": [
+        "VD1L", 
+        "VD1R"
+      ], 
       "hnrlbls": [
         "163"
       ], 

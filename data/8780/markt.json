@@ -325,8 +325,14 @@
       "street": "Markt"
     }, 
     {
-      "apptnrs": "2,3,4", 
-      "busnrs": "1", 
+      "apptnrs": [
+        "2", 
+        "3", 
+        "4"
+      ], 
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "8"
       ], 
@@ -339,7 +345,10 @@
       "street": "Markt"
     }, 
     {
-      "apptnrs": "1,2", 
+      "apptnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "9"
       ], 

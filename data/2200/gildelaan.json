@@ -1,7 +1,11 @@
 {
   "addresses": [
     {
-      "busnrs": "101,2,201", 
+      "busnrs": [
+        "101", 
+        "2", 
+        "201"
+      ], 
       "hnrlbls": [
         "1-1_1"
       ], 
@@ -86,8 +90,22 @@
       "street": "Gildelaan"
     }, 
     {
-      "apptnrs": "2.0", 
-      "busnrs": "1,1A,1B,1C,2A,2B,2C,2D,2E,2F,3", 
+      "apptnrs": [
+        "2.0"
+      ], 
+      "busnrs": [
+        "1", 
+        "1A", 
+        "1B", 
+        "1C", 
+        "2A", 
+        "2B", 
+        "2C", 
+        "2D", 
+        "2E", 
+        "2F", 
+        "3"
+      ], 
       "hnrlbls": [
         "20"
       ], 
@@ -100,7 +118,10 @@
       "street": "Gildelaan"
     }, 
     {
-      "busnrs": "A,C", 
+      "busnrs": [
+        "A", 
+        "C"
+      ], 
       "hnrlbls": [
         "20_1-20_2"
       ], 
@@ -113,7 +134,13 @@
       "street": "Gildelaan"
     }, 
     {
-      "busnrs": "A,B,C,D,F", 
+      "busnrs": [
+        "A", 
+        "B", 
+        "C", 
+        "D", 
+        "F"
+      ], 
       "hnrlbls": [
         "20_1-20_2"
       ], 
@@ -366,7 +393,10 @@
       "street": "Gildelaan"
     }, 
     {
-      "busnrs": "101,201", 
+      "busnrs": [
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "38"
       ], 

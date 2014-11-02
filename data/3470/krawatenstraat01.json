@@ -901,7 +901,9 @@
       "street": "Krawatenstraat_01"
     }, 
     {
-      "busnrs": "101", 
+      "busnrs": [
+        "101"
+      ], 
       "hnrlbls": [
         "2A"
       ], 
@@ -1478,7 +1480,16 @@
       "street": "Krawatenstraat_01"
     }, 
     {
-      "busnrs": "1,2,3,4,5,6,7,8", 
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6", 
+        "7", 
+        "8"
+      ], 
       "hnrlbls": [
         "55"
       ], 

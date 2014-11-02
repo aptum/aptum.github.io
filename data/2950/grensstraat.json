@@ -1237,8 +1237,15 @@
       "street": "Grensstraat"
     }, 
     {
-      "apptnrs": "0001 - glv,0002 - glv,0003 - 1ste,0004 - 2de", 
-      "busnrs": "4", 
+      "apptnrs": [
+        "0001 - glv", 
+        "0002 - glv", 
+        "0003 - 1ste", 
+        "0004 - 2de"
+      ], 
+      "busnrs": [
+        "4"
+      ], 
       "hnrlbls": [
         "6"
       ], 
@@ -1467,7 +1474,9 @@
       "street": "Grensstraat"
     }, 
     {
-      "busnrs": "1", 
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "80"
       ], 

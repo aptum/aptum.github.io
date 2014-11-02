@@ -73,7 +73,12 @@
       "street": "Robert Rinskopflaan"
     }, 
     {
-      "busnrs": "0001,0101,0201,0301", 
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0201", 
+        "0301"
+      ], 
       "hnrlbls": [
         "15"
       ], 
@@ -686,7 +691,10 @@
       "street": "Robert Rinskopflaan"
     }, 
     {
-      "busnrs": "0001,0101", 
+      "busnrs": [
+        "0001", 
+        "0101"
+      ], 
       "hnrlbls": [
         "6"
       ], 

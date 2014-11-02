@@ -37,7 +37,10 @@
       "street": "Dorpstraat"
     }, 
     {
-      "apptnrs": "01/1,01/2", 
+      "apptnrs": [
+        "01/1", 
+        "01/2"
+      ], 
       "hnrlbls": [
         "13"
       ], 
@@ -62,7 +65,12 @@
       "street": "Dorpstraat"
     }, 
     {
-      "apptnrs": "0/01,0/02,01/1,01/2", 
+      "apptnrs": [
+        "0/01", 
+        "0/02", 
+        "01/1", 
+        "01/2"
+      ], 
       "hnrlbls": [
         "15"
       ], 
@@ -375,7 +383,10 @@
       "street": "Dorpstraat"
     }, 
     {
-      "apptnrs": "0/01,01/1", 
+      "apptnrs": [
+        "0/01", 
+        "01/1"
+      ], 
       "hnrlbls": [
         "4"
       ], 
@@ -544,8 +555,15 @@
       "street": "Dorpstraat"
     }, 
     {
-      "apptnrs": "0/01,1/2,1/3", 
-      "busnrs": "0/1,1/1", 
+      "apptnrs": [
+        "0/01", 
+        "1/2", 
+        "1/3"
+      ], 
+      "busnrs": [
+        "0/1", 
+        "1/1"
+      ], 
       "hnrlbls": [
         "61"
       ], 
@@ -582,8 +600,15 @@
       "street": "Dorpstraat"
     }, 
     {
-      "apptnrs": "0/01,0/02,01/1,01/2", 
-      "busnrs": "0", 
+      "apptnrs": [
+        "0/01", 
+        "0/02", 
+        "01/1", 
+        "01/2"
+      ], 
+      "busnrs": [
+        "0"
+      ], 
       "hnrlbls": [
         "9-11"
       ], 

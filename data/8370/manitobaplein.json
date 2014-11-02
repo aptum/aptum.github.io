@@ -61,8 +61,16 @@
       "street": "Manitobaplein"
     }, 
     {
-      "apptnrs": "1.2,2.1,2.2,4.1,4.2", 
-      "busnrs": "302", 
+      "apptnrs": [
+        "1.2", 
+        "2.1", 
+        "2.2", 
+        "4.1", 
+        "4.2"
+      ], 
+      "busnrs": [
+        "302"
+      ], 
       "hnrlbls": [
         "12-16"
       ], 
@@ -75,7 +83,10 @@
       "street": "Manitobaplein"
     }, 
     {
-      "apptnrs": "1.2,2.1", 
+      "apptnrs": [
+        "1.2", 
+        "2.1"
+      ], 
       "hnrlbls": [
         "12-16"
       ], 
@@ -124,7 +135,10 @@
       "street": "Manitobaplein"
     }, 
     {
-      "apptnrs": "VER1,VER3", 
+      "apptnrs": [
+        "VER1", 
+        "VER3"
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -137,7 +151,11 @@
       "street": "Manitobaplein"
     }, 
     {
-      "apptnrs": "VER1,VER2,VER3", 
+      "apptnrs": [
+        "VER1", 
+        "VER2", 
+        "VER3"
+      ], 
       "hnrlbls": [
         "3"
       ], 
@@ -150,8 +168,12 @@
       "street": "Manitobaplein"
     }, 
     {
-      "apptnrs": "VER1", 
-      "busnrs": "301", 
+      "apptnrs": [
+        "VER1"
+      ], 
+      "busnrs": [
+        "301"
+      ], 
       "hnrlbls": [
         "4"
       ], 
@@ -164,8 +186,14 @@
       "street": "Manitobaplein"
     }, 
     {
-      "apptnrs": "VER2", 
-      "busnrs": "101,102,301", 
+      "apptnrs": [
+        "VER2"
+      ], 
+      "busnrs": [
+        "101", 
+        "102", 
+        "301"
+      ], 
       "hnrlbls": [
         "5"
       ], 
@@ -178,7 +206,11 @@
       "street": "Manitobaplein"
     }, 
     {
-      "apptnrs": "VER1,VER2,VER3", 
+      "apptnrs": [
+        "VER1", 
+        "VER2", 
+        "VER3"
+      ], 
       "hnrlbls": [
         "6"
       ], 
@@ -203,7 +235,10 @@
       "street": "Manitobaplein"
     }, 
     {
-      "apptnrs": "VER1,VER2", 
+      "apptnrs": [
+        "VER1", 
+        "VER2"
+      ], 
       "hnrlbls": [
         "8-10"
       ], 
@@ -216,7 +251,12 @@
       "street": "Manitobaplein"
     }, 
     {
-      "busnrs": "101,201,301,401", 
+      "busnrs": [
+        "101", 
+        "201", 
+        "301", 
+        "401"
+      ], 
       "hnrlbls": [
         "7-9"
       ], 

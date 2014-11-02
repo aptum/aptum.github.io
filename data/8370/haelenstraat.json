@@ -1,7 +1,10 @@
 {
   "addresses": [
     {
-      "apptnrs": "VER1,VER2", 
+      "apptnrs": [
+        "VER1", 
+        "VER2"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -26,7 +29,13 @@
       "street": "Haelenstraat"
     }, 
     {
-      "busnrs": "101,201,301,401,501", 
+      "busnrs": [
+        "101", 
+        "201", 
+        "301", 
+        "401", 
+        "501"
+      ], 
       "hnrlbls": [
         "11"
       ], 
@@ -39,7 +48,14 @@
       "street": "Haelenstraat"
     }, 
     {
-      "busnrs": "101,201,3,301,401,502", 
+      "busnrs": [
+        "101", 
+        "201", 
+        "3", 
+        "301", 
+        "401", 
+        "502"
+      ], 
       "hnrlbls": [
         "12-13"
       ], 
@@ -124,8 +140,14 @@
       "street": "Haelenstraat"
     }, 
     {
-      "apptnrs": "VER2", 
-      "busnrs": "1,101,201", 
+      "apptnrs": [
+        "VER2"
+      ], 
+      "busnrs": [
+        "1", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "7"
       ], 

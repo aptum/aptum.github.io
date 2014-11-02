@@ -121,7 +121,13 @@
       "street": "Sint-Denijsplaats"
     }, 
     {
-      "busnrs": "1,2,3,4,5", 
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5"
+      ], 
       "hnrlbls": [
         "21"
       ], 
@@ -134,7 +140,16 @@
       "street": "Sint-Denijsplaats"
     }, 
     {
-      "busnrs": "1,101,102,2,201,202,301,302", 
+      "busnrs": [
+        "1", 
+        "101", 
+        "102", 
+        "2", 
+        "201", 
+        "202", 
+        "301", 
+        "302"
+      ], 
       "hnrlbls": [
         "22"
       ], 
@@ -555,7 +570,10 @@
       "street": "Sint-Denijsplaats"
     }, 
     {
-      "busnrs": "1,101", 
+      "busnrs": [
+        "1", 
+        "101"
+      ], 
       "hnrlbls": [
         "57"
       ], 

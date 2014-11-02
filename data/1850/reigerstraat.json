@@ -133,7 +133,13 @@
       "street": "Reigerstraat"
     }, 
     {
-      "busnrs": "B001,B002,B003,B004,B005", 
+      "busnrs": [
+        "B001", 
+        "B002", 
+        "B003", 
+        "B004", 
+        "B005"
+      ], 
       "hnrlbls": [
         "25"
       ], 
@@ -242,7 +248,10 @@
       "street": "Reigerstraat"
     }, 
     {
-      "busnrs": "B001,B002", 
+      "busnrs": [
+        "B001", 
+        "B002"
+      ], 
       "hnrlbls": [
         "36"
       ], 
@@ -291,7 +300,11 @@
       "street": "Reigerstraat"
     }, 
     {
-      "busnrs": "1,101,201", 
+      "busnrs": [
+        "1", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "42"
       ], 

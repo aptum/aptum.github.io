@@ -169,7 +169,9 @@
       "street": "Hollebeekstraat"
     }, 
     {
-      "apptnrs": "01.1", 
+      "apptnrs": [
+        "01.1"
+      ], 
       "hnrlbls": [
         "122"
       ], 
@@ -374,8 +376,13 @@
       "street": "Hollebeekstraat"
     }, 
     {
-      "apptnrs": "00.1,01.1", 
-      "busnrs": "00.01", 
+      "apptnrs": [
+        "00.1", 
+        "01.1"
+      ], 
+      "busnrs": [
+        "00.01"
+      ], 
       "hnrlbls": [
         "25"
       ], 
@@ -436,7 +443,15 @@
       "street": "Hollebeekstraat"
     }, 
     {
-      "busnrs": "1,2,3,4,5,6,7", 
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6", 
+        "7"
+      ], 
       "hnrlbls": [
         "1-5"
       ], 
@@ -665,7 +680,13 @@
       "street": "Hollebeekstraat"
     }, 
     {
-      "busnrs": "1,2,3,4,5", 
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5"
+      ], 
       "hnrlbls": [
         "1-5"
       ], 

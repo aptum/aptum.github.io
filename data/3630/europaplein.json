@@ -13,7 +13,10 @@
       "street": "Europaplein"
     }, 
     {
-      "busnrs": "2,3", 
+      "busnrs": [
+        "2", 
+        "3"
+      ], 
       "hnrlbls": [
         "11"
       ], 
@@ -50,7 +53,10 @@
       "street": "Europaplein"
     }, 
     {
-      "busnrs": "2,4", 
+      "busnrs": [
+        "2", 
+        "4"
+      ], 
       "hnrlbls": [
         "14"
       ], 
@@ -63,7 +69,9 @@
       "street": "Europaplein"
     }, 
     {
-      "busnrs": "1", 
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "15"
       ], 
@@ -100,7 +108,13 @@
       "street": "Europaplein"
     }, 
     {
-      "apptnrs": "1R,2L,2R,3R,R1", 
+      "apptnrs": [
+        "1R", 
+        "2L", 
+        "2R", 
+        "3R", 
+        "R1"
+      ], 
       "hnrlbls": [
         "18"
       ], 
@@ -125,7 +139,9 @@
       "street": "Europaplein"
     }, 
     {
-      "busnrs": "1", 
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -138,7 +154,13 @@
       "street": "Europaplein"
     }, 
     {
-      "busnrs": "1,2,3,4,5", 
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5"
+      ], 
       "hnrlbls": [
         "20"
       ], 
@@ -163,7 +185,13 @@
       "street": "Europaplein"
     }, 
     {
-      "busnrs": "1,2,3,4,5", 
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5"
+      ], 
       "hnrlbls": [
         "22"
       ], 
@@ -176,7 +204,9 @@
       "street": "Europaplein"
     }, 
     {
-      "busnrs": "1", 
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "23"
       ], 
@@ -189,7 +219,9 @@
       "street": "Europaplein"
     }, 
     {
-      "busnrs": "1", 
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "24"
       ], 
@@ -214,7 +246,12 @@
       "street": "Europaplein"
     }, 
     {
-      "busnrs": "1,2,3,4", 
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4"
+      ], 
       "hnrlbls": [
         "26"
       ], 
@@ -239,7 +276,9 @@
       "street": "Europaplein"
     }, 
     {
-      "busnrs": "1", 
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "28"
       ], 
@@ -252,7 +291,14 @@
       "street": "Europaplein"
     }, 
     {
-      "busnrs": "3,4,5,6,7,8", 
+      "busnrs": [
+        "3", 
+        "4", 
+        "5", 
+        "6", 
+        "7", 
+        "8"
+      ], 
       "hnrlbls": [
         "29"
       ], 
@@ -277,7 +323,10 @@
       "street": "Europaplein"
     }, 
     {
-      "busnrs": "1,2", 
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "30"
       ], 
@@ -290,7 +339,15 @@
       "street": "Europaplein"
     }, 
     {
-      "busnrs": "1,2,3,4,5,6,7", 
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6", 
+        "7"
+      ], 
       "hnrlbls": [
         "31"
       ], 
@@ -399,8 +456,54 @@
       "street": "Europaplein"
     }, 
     {
-      "apptnrs": "1A,1B,1C,1D,1E,1F,1G,1H,2A,2D,2E,2F,2G,2H,3A,3B,3C,3D,3E,3F,3G,3H,4A,4B,4C,4D,4E,4F,4G", 
-      "busnrs": "25,2C,4H,5A,5B,5C,5D,5E,5F,5G,5H,6B,6C,6F,6G", 
+      "apptnrs": [
+        "1A", 
+        "1B", 
+        "1C", 
+        "1D", 
+        "1E", 
+        "1F", 
+        "1G", 
+        "1H", 
+        "2A", 
+        "2D", 
+        "2E", 
+        "2F", 
+        "2G", 
+        "2H", 
+        "3A", 
+        "3B", 
+        "3C", 
+        "3D", 
+        "3E", 
+        "3F", 
+        "3G", 
+        "3H", 
+        "4A", 
+        "4B", 
+        "4C", 
+        "4D", 
+        "4E", 
+        "4F", 
+        "4G"
+      ], 
+      "busnrs": [
+        "25", 
+        "2C", 
+        "4H", 
+        "5A", 
+        "5B", 
+        "5C", 
+        "5D", 
+        "5E", 
+        "5F", 
+        "5G", 
+        "5H", 
+        "6B", 
+        "6C", 
+        "6F", 
+        "6G"
+      ], 
       "hnrlbls": [
         "40-44"
       ], 
@@ -425,7 +528,12 @@
       "street": "Europaplein"
     }, 
     {
-      "busnrs": "1,2,3,4", 
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4"
+      ], 
       "hnrlbls": [
         "5"
       ], 
@@ -438,8 +546,15 @@
       "street": "Europaplein"
     }, 
     {
-      "apptnrs": "1L,1R,2L,2R", 
-      "busnrs": "2", 
+      "apptnrs": [
+        "1L", 
+        "1R", 
+        "2L", 
+        "2R"
+      ], 
+      "busnrs": [
+        "2"
+      ], 
       "hnrlbls": [
         "6-6L"
       ], 
@@ -464,7 +579,16 @@
       "street": "Europaplein"
     }, 
     {
-      "busnrs": "001,2,3,4,5,6,7,8", 
+      "busnrs": [
+        "001", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6", 
+        "7", 
+        "8"
+      ], 
       "hnrlbls": [
         "7"
       ], 
@@ -477,7 +601,11 @@
       "street": "Europaplein"
     }, 
     {
-      "busnrs": "1,2,3", 
+      "busnrs": [
+        "1", 
+        "2", 
+        "3"
+      ], 
       "hnrlbls": [
         "8"
       ], 
@@ -490,7 +618,13 @@
       "street": "Europaplein"
     }, 
     {
-      "busnrs": "1,2,3,4,A", 
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "A"
+      ], 
       "hnrlbls": [
         "9"
       ], 

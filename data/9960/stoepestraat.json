@@ -457,7 +457,9 @@
       "street": "Stoepestraat"
     }, 
     {
-      "busnrs": "1", 
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "5A"
       ], 
@@ -530,7 +532,14 @@
       "street": "Stoepestraat"
     }, 
     {
-      "busnrs": "001M,2M,3M,4M,5M,6M", 
+      "busnrs": [
+        "001M", 
+        "2M", 
+        "3M", 
+        "4M", 
+        "5M", 
+        "6M"
+      ], 
       "hnrlbls": [
         "7"
       ], 
@@ -639,7 +648,12 @@
       "street": "Stoepestraat"
     }, 
     {
-      "busnrs": "1,2,3,6", 
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "6"
+      ], 
       "hnrlbls": [
         "7M"
       ], 

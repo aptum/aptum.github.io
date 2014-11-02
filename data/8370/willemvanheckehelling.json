@@ -13,7 +13,10 @@
       "street": "Willem Van Heckehelling"
     }, 
     {
-      "busnrs": "101,202", 
+      "busnrs": [
+        "101", 
+        "202"
+      ], 
       "hnrlbls": [
         "3-67"
       ], 
@@ -26,7 +29,11 @@
       "street": "Willem Van Heckehelling"
     }, 
     {
-      "busnrs": "1,201,301", 
+      "busnrs": [
+        "1", 
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
         "4"
       ], 
@@ -39,8 +46,16 @@
       "street": "Willem Van Heckehelling"
     }, 
     {
-      "apptnrs": "3.0", 
-      "busnrs": "1,201,301,501,701", 
+      "apptnrs": [
+        "3.0"
+      ], 
+      "busnrs": [
+        "1", 
+        "201", 
+        "301", 
+        "501", 
+        "701"
+      ], 
       "hnrlbls": [
         "5"
       ], 
@@ -53,7 +68,11 @@
       "street": "Willem Van Heckehelling"
     }, 
     {
-      "apptnrs": "VER1,VER2,VER6", 
+      "apptnrs": [
+        "VER1", 
+        "VER2", 
+        "VER6"
+      ], 
       "hnrlbls": [
         "6"
       ], 

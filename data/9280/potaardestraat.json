@@ -1261,7 +1261,10 @@
       "street": "Potaardestraat"
     }, 
     {
-      "busnrs": "1,101", 
+      "busnrs": [
+        "1", 
+        "101"
+      ], 
       "hnrlbls": [
         "7"
       ], 
@@ -1370,8 +1373,14 @@
       "street": "Potaardestraat"
     }, 
     {
-      "apptnrs": "101", 
-      "busnrs": "1,201,301", 
+      "apptnrs": [
+        "101"
+      ], 
+      "busnrs": [
+        "1", 
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
         "7A"
       ], 

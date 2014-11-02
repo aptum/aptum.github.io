@@ -25,7 +25,14 @@
       "street": "Vijfwindgatenstraat"
     }, 
     {
-      "busnrs": "0001,0101,0201,0202,0301,0302", 
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302"
+      ], 
       "hnrlbls": [
         "11"
       ], 
@@ -290,7 +297,10 @@
       "street": "Vijfwindgatenstraat"
     }, 
     {
-      "busnrs": "0101,0201", 
+      "busnrs": [
+        "0101", 
+        "0201"
+      ], 
       "hnrlbls": [
         "4"
       ], 

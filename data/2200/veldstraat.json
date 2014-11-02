@@ -133,7 +133,9 @@
       "street": "Veldstraat"
     }, 
     {
-      "apptnrs": "1.0", 
+      "apptnrs": [
+        "1.0"
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -266,7 +268,14 @@
       "street": "Veldstraat"
     }, 
     {
-      "busnrs": "A,B,C,D,F,G", 
+      "busnrs": [
+        "A", 
+        "B", 
+        "C", 
+        "D", 
+        "F", 
+        "G"
+      ], 
       "hnrlbls": [
         "2_1"
       ], 

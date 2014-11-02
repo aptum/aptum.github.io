@@ -121,7 +121,11 @@
       "street": "Karreweg"
     }, 
     {
-      "busnrs": "A,B,C", 
+      "busnrs": [
+        "A", 
+        "B", 
+        "C"
+      ], 
       "hnrlbls": [
         "18"
       ], 
@@ -194,8 +198,14 @@
       "street": "Karreweg"
     }, 
     {
-      "apptnrs": "0-01,1-01,2-01", 
-      "busnrs": "3", 
+      "apptnrs": [
+        "0-01", 
+        "1-01", 
+        "2-01"
+      ], 
+      "busnrs": [
+        "3"
+      ], 
       "hnrlbls": [
         "25"
       ], 

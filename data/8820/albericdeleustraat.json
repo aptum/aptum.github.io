@@ -169,7 +169,11 @@
       "street": "Alberic Deleustraat"
     }, 
     {
-      "apptnrs": "V2,V3,V4", 
+      "apptnrs": [
+        "V2", 
+        "V3", 
+        "V4"
+      ], 
       "hnrlbls": [
         "24"
       ], 
@@ -350,7 +354,11 @@
       "street": "Alberic Deleustraat"
     }, 
     {
-      "apptnrs": "V1,V2,V3", 
+      "apptnrs": [
+        "V1", 
+        "V2", 
+        "V3"
+      ], 
       "hnrlbls": [
         "42"
       ], 
@@ -375,7 +383,9 @@
       "street": "Alberic Deleustraat"
     }, 
     {
-      "apptnrs": "V1", 
+      "apptnrs": [
+        "V1"
+      ], 
       "hnrlbls": [
         "46"
       ], 
@@ -424,8 +434,18 @@
       "street": "Alberic Deleustraat"
     }, 
     {
-      "apptnrs": "0.6,V1,V2,V3,V4,V5,V6", 
-      "busnrs": "6", 
+      "apptnrs": [
+        "0.6", 
+        "V1", 
+        "V2", 
+        "V3", 
+        "V4", 
+        "V5", 
+        "V6"
+      ], 
+      "busnrs": [
+        "6"
+      ], 
       "hnrlbls": [
         "50-50B"
       ], 
@@ -438,7 +458,9 @@
       "street": "Alberic Deleustraat"
     }, 
     {
-      "busnrs": "6", 
+      "busnrs": [
+        "6"
+      ], 
       "hnrlbls": [
         "50-50B"
       ], 

@@ -205,7 +205,9 @@
       "street": "Singelstraat"
     }, 
     {
-      "busnrs": "101", 
+      "busnrs": [
+        "101"
+      ], 
       "hnrlbls": [
         "33"
       ], 
@@ -290,7 +292,9 @@
       "street": "Singelstraat"
     }, 
     {
-      "busnrs": "45", 
+      "busnrs": [
+        "45"
+      ], 
       "hnrlbls": [
         "45"
       ], 
@@ -303,7 +307,17 @@
       "street": "Singelstraat"
     }, 
     {
-      "busnrs": "1,101,102,103,2,201,202,203,3", 
+      "busnrs": [
+        "1", 
+        "101", 
+        "102", 
+        "103", 
+        "2", 
+        "201", 
+        "202", 
+        "203", 
+        "3"
+      ], 
       "hnrlbls": [
         "49"
       ], 

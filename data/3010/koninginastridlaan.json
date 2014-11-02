@@ -157,7 +157,11 @@
       "street": "Koningin Astridlaan"
     }, 
     {
-      "apptnrs": "0001,0101,0201", 
+      "apptnrs": [
+        "0001", 
+        "0101", 
+        "0201"
+      ], 
       "hnrlbls": [
         "22"
       ], 
@@ -194,8 +198,13 @@
       "street": "Koningin Astridlaan"
     }, 
     {
-      "apptnrs": "0101,0201", 
-      "busnrs": "0001", 
+      "apptnrs": [
+        "0101", 
+        "0201"
+      ], 
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "26"
       ], 
@@ -244,8 +253,14 @@
       "street": "Koningin Astridlaan"
     }, 
     {
-      "apptnrs": "1,2", 
-      "busnrs": "101,201", 
+      "apptnrs": [
+        "1", 
+        "2"
+      ], 
+      "busnrs": [
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "3"
       ], 

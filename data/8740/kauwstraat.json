@@ -85,7 +85,10 @@
       "street": "Kauwstraat"
     }, 
     {
-      "busnrs": "2,5", 
+      "busnrs": [
+        "2", 
+        "5"
+      ], 
       "hnrlbls": [
         "18-20"
       ], 
@@ -110,7 +113,13 @@
       "street": "Kauwstraat"
     }, 
     {
-      "busnrs": "1,2,3,4,5", 
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5"
+      ], 
       "hnrlbls": [
         "18-20"
       ], 
@@ -159,8 +168,15 @@
       "street": "Kauwstraat"
     }, 
     {
-      "apptnrs": "0/1,1/1,2/1", 
-      "busnrs": "1,2", 
+      "apptnrs": [
+        "0/1", 
+        "1/1", 
+        "2/1"
+      ], 
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "24"
       ], 
@@ -521,8 +537,13 @@
       "street": "Kauwstraat"
     }, 
     {
-      "apptnrs": "1/1,2/1", 
-      "busnrs": "1", 
+      "apptnrs": [
+        "1/1", 
+        "2/1"
+      ], 
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "7"
       ], 

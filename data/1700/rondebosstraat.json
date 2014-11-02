@@ -13,8 +13,13 @@
       "street": "Rondebosstraat"
     }, 
     {
-      "apptnrs": "1.0", 
-      "busnrs": "1,101", 
+      "apptnrs": [
+        "1.0"
+      ], 
+      "busnrs": [
+        "1", 
+        "101"
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -123,7 +128,9 @@
       "street": "Rondebosstraat"
     }, 
     {
-      "busnrs": "2", 
+      "busnrs": [
+        "2"
+      ], 
       "hnrlbls": [
         "23"
       ], 
@@ -460,7 +467,9 @@
       "street": "Rondebosstraat"
     }, 
     {
-      "busnrs": "202", 
+      "busnrs": [
+        "202"
+      ], 
       "hnrlbls": [
         "8"
       ], 

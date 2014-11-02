@@ -25,7 +25,9 @@
       "street": "Molenstraat"
     }, 
     {
-      "busnrs": "101", 
+      "busnrs": [
+        "101"
+      ], 
       "hnrlbls": [
         "100-100B"
       ], 
@@ -1130,8 +1132,13 @@
       "street": "Molenstraat"
     }, 
     {
-      "apptnrs": "1.0", 
-      "busnrs": "1,101", 
+      "apptnrs": [
+        "1.0"
+      ], 
+      "busnrs": [
+        "1", 
+        "101"
+      ], 
       "hnrlbls": [
         "26-26A"
       ], 
@@ -1144,7 +1151,9 @@
       "street": "Molenstraat"
     }, 
     {
-      "busnrs": "1", 
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "26-26A"
       ], 
@@ -1313,7 +1322,9 @@
       "street": "Molenstraat"
     }, 
     {
-      "busnrs": "101", 
+      "busnrs": [
+        "101"
+      ], 
       "hnrlbls": [
         "42"
       ], 
@@ -1854,7 +1865,13 @@
       "street": "Molenstraat"
     }, 
     {
-      "busnrs": "02,1,101,3,4", 
+      "busnrs": [
+        "02", 
+        "1", 
+        "101", 
+        "3", 
+        "4"
+      ], 
       "hnrlbls": [
         "87B-89A"
       ], 

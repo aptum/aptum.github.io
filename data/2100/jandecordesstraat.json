@@ -97,7 +97,11 @@
       "street": "Jan de Cordesstraat"
     }, 
     {
-      "busnrs": "1,2,3", 
+      "busnrs": [
+        "1", 
+        "2", 
+        "3"
+      ], 
       "hnrlbls": [
         "17"
       ], 
@@ -350,8 +354,12 @@
       "street": "Jan de Cordesstraat"
     }, 
     {
-      "apptnrs": "2.0", 
-      "busnrs": "2", 
+      "apptnrs": [
+        "2.0"
+      ], 
+      "busnrs": [
+        "2"
+      ], 
       "hnrlbls": [
         "4"
       ], 

@@ -37,8 +37,18 @@
       "street": "Gitsstraat"
     }, 
     {
-      "apptnrs": "V1,V2,V3,V4,V5,V6,V7", 
-      "busnrs": "5", 
+      "apptnrs": [
+        "V1", 
+        "V2", 
+        "V3", 
+        "V4", 
+        "V5", 
+        "V6", 
+        "V7"
+      ], 
+      "busnrs": [
+        "5"
+      ], 
       "hnrlbls": [
         "14-16"
       ], 
@@ -63,7 +73,15 @@
       "street": "Gitsstraat"
     }, 
     {
-      "apptnrs": "V1,V2,V3,V4,V5,V6,V7", 
+      "apptnrs": [
+        "V1", 
+        "V2", 
+        "V3", 
+        "V4", 
+        "V5", 
+        "V6", 
+        "V7"
+      ], 
       "hnrlbls": [
         "14-16"
       ], 
@@ -448,7 +466,9 @@
       "street": "Gitsstraat"
     }, 
     {
-      "busnrs": "1", 
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "6"
       ], 

@@ -1,7 +1,11 @@
 {
   "addresses": [
     {
-      "apptnrs": "00-1,00-2,01-1", 
+      "apptnrs": [
+        "00-1", 
+        "00-2", 
+        "01-1"
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -38,8 +42,15 @@
       "street": "St.-Jansstraat"
     }, 
     {
-      "apptnrs": "00-1,00-2,01-1", 
-      "busnrs": "01,11", 
+      "apptnrs": [
+        "00-1", 
+        "00-2", 
+        "01-1"
+      ], 
+      "busnrs": [
+        "01", 
+        "11"
+      ], 
       "hnrlbls": [
         "6"
       ], 
@@ -52,7 +63,9 @@
       "street": "St.-Jansstraat"
     }, 
     {
-      "busnrs": "1", 
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "8-8A"
       ], 

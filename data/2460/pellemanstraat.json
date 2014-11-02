@@ -145,7 +145,12 @@
       "street": "Pellemanstraat"
     }, 
     {
-      "busnrs": "1,2,3,4", 
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4"
+      ], 
       "hnrlbls": [
         "21"
       ], 
@@ -266,7 +271,9 @@
       "street": "Pellemanstraat"
     }, 
     {
-      "busnrs": "bus 1", 
+      "busnrs": [
+        "bus 1"
+      ], 
       "hnrlbls": [
         "2C"
       ], 

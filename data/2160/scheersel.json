@@ -145,7 +145,12 @@
       "street": "Scheersel"
     }, 
     {
-      "apptnrs": "V1R,V2L,V2R,VR", 
+      "apptnrs": [
+        "V1R", 
+        "V2L", 
+        "V2R", 
+        "VR"
+      ], 
       "hnrlbls": [
         "29"
       ], 
@@ -182,7 +187,12 @@
       "street": "Scheersel"
     }, 
     {
-      "apptnrs": "1L,1R,2L,2R", 
+      "apptnrs": [
+        "1L", 
+        "1R", 
+        "2L", 
+        "2R"
+      ], 
       "hnrlbls": [
         "31"
       ], 
@@ -207,8 +217,15 @@
       "street": "Scheersel"
     }, 
     {
-      "apptnrs": "1L,1R,2L,2R", 
-      "busnrs": "5", 
+      "apptnrs": [
+        "1L", 
+        "1R", 
+        "2L", 
+        "2R"
+      ], 
+      "busnrs": [
+        "5"
+      ], 
       "hnrlbls": [
         "33"
       ], 

@@ -661,7 +661,11 @@
       "street": "Molenheiken"
     }, 
     {
-      "apptnrs": "0.0,1.0,2.0", 
+      "apptnrs": [
+        "0.0", 
+        "1.0", 
+        "2.0"
+      ], 
       "hnrlbls": [
         "87A"
       ], 
@@ -722,8 +726,13 @@
       "street": "Molenheiken"
     }, 
     {
-      "apptnrs": "1.0,2.0", 
-      "busnrs": "1", 
+      "apptnrs": [
+        "1.0", 
+        "2.0"
+      ], 
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "9"
       ], 

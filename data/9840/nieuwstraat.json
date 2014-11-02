@@ -157,7 +157,10 @@
       "street": "Nieuwstraat"
     }, 
     {
-      "busnrs": "A000,B000", 
+      "busnrs": [
+        "A000", 
+        "B000"
+      ], 
       "hnrlbls": [
         "23-23A"
       ], 
@@ -890,7 +893,14 @@
       "street": "Nieuwstraat"
     }, 
     {
-      "busnrs": "1,2,3,4,5,6", 
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6"
+      ], 
       "hnrlbls": [
         "9"
       ], 

@@ -1,7 +1,9 @@
 {
   "addresses": [
     {
-      "apptnrs": "VER1", 
+      "apptnrs": [
+        "VER1"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -62,8 +64,14 @@
       "street": "R. Brulezstraat"
     }, 
     {
-      "apptnrs": "VER1,VER2", 
-      "busnrs": "101,201", 
+      "apptnrs": [
+        "VER1", 
+        "VER2"
+      ], 
+      "busnrs": [
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "3"
       ], 
@@ -76,7 +84,10 @@
       "street": "R. Brulezstraat"
     }, 
     {
-      "apptnrs": "0.0+1.0,VER2", 
+      "apptnrs": [
+        "0.0+1.0", 
+        "VER2"
+      ], 
       "hnrlbls": [
         "4"
       ], 
@@ -113,7 +124,9 @@
       "street": "R. Brulezstraat"
     }, 
     {
-      "apptnrs": "VER2", 
+      "apptnrs": [
+        "VER2"
+      ], 
       "hnrlbls": [
         "7"
       ], 

@@ -637,8 +637,15 @@
       "street": "Eugeen Van Oyestraat"
     }, 
     {
-      "apptnrs": "V1,V2,V3,V4", 
-      "busnrs": "3", 
+      "apptnrs": [
+        "V1", 
+        "V2", 
+        "V3", 
+        "V4"
+      ], 
+      "busnrs": [
+        "3"
+      ], 
       "hnrlbls": [
         "63"
       ], 
@@ -699,7 +706,9 @@
       "street": "Eugeen Van Oyestraat"
     }, 
     {
-      "apptnrs": "V1", 
+      "apptnrs": [
+        "V1"
+      ], 
       "hnrlbls": [
         "7"
       ], 

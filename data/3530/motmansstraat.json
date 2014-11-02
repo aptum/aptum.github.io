@@ -157,8 +157,13 @@
       "street": "Motmansstraat"
     }, 
     {
-      "apptnrs": "24/1,24/2", 
-      "busnrs": "1", 
+      "apptnrs": [
+        "24/1", 
+        "24/2"
+      ], 
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "24-24A"
       ], 
@@ -183,7 +188,9 @@
       "street": "Motmansstraat"
     }, 
     {
-      "busnrs": "1", 
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "25"
       ], 

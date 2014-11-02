@@ -109,8 +109,15 @@
       "street": "Charles Ampestraat"
     }, 
     {
-      "apptnrs": "0.1,1.1,2.1", 
-      "busnrs": "1,2", 
+      "apptnrs": [
+        "0.1", 
+        "1.1", 
+        "2.1"
+      ], 
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "1A"
       ], 

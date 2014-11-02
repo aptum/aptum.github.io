@@ -637,7 +637,10 @@
       "street": "Elsendonkstraat"
     }, 
     {
-      "busnrs": "A,B", 
+      "busnrs": [
+        "A", 
+        "B"
+      ], 
       "hnrlbls": [
         "40"
       ], 
@@ -818,7 +821,14 @@
       "street": "Elsendonkstraat"
     }, 
     {
-      "busnrs": "A,B,C,D,E,F", 
+      "busnrs": [
+        "A", 
+        "B", 
+        "C", 
+        "D", 
+        "E", 
+        "F"
+      ], 
       "hnrlbls": [
         "6"
       ], 
@@ -975,7 +985,9 @@
       "street": "Elsendonkstraat"
     }, 
     {
-      "busnrs": "A", 
+      "busnrs": [
+        "A"
+      ], 
       "hnrlbls": [
         "75"
       ], 

@@ -73,8 +73,13 @@
       "street": "Burgemeester Van Ackerwijk C"
     }, 
     {
-      "apptnrs": "W3", 
-      "busnrs": "1,W4", 
+      "apptnrs": [
+        "W3"
+      ], 
+      "busnrs": [
+        "1", 
+        "W4"
+      ], 
       "hnrlbls": [
         "52C-52W"
       ], 
@@ -87,7 +92,14 @@
       "street": "Burgemeester Van Ackerwijk C"
     }, 
     {
-      "busnrs": "1,2,3,4,5,6", 
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6"
+      ], 
       "hnrlbls": [
         "52C-52W"
       ], 

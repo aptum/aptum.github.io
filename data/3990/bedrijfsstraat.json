@@ -85,7 +85,9 @@
       "street": "Bedrijfsstraat"
     }, 
     {
-      "busnrs": "2", 
+      "busnrs": [
+        "2"
+      ], 
       "hnrlbls": [
         "15"
       ], 
@@ -98,8 +100,20 @@
       "street": "Bedrijfsstraat"
     }, 
     {
-      "apptnrs": "B2", 
-      "busnrs": "1,11,2,3,4,5,7,8,9", 
+      "apptnrs": [
+        "B2"
+      ], 
+      "busnrs": [
+        "1", 
+        "11", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "7", 
+        "8", 
+        "9"
+      ], 
       "hnrlbls": [
         "19-19B"
       ], 
@@ -112,7 +126,9 @@
       "street": "Bedrijfsstraat"
     }, 
     {
-      "busnrs": "3", 
+      "busnrs": [
+        "3"
+      ], 
       "hnrlbls": [
         "19-19B"
       ], 
@@ -209,7 +225,11 @@
       "street": "Bedrijfsstraat"
     }, 
     {
-      "busnrs": "24,3,8", 
+      "busnrs": [
+        "24", 
+        "3", 
+        "8"
+      ], 
       "hnrlbls": [
         "7"
       ], 

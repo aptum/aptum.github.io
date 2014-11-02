@@ -697,7 +697,9 @@
       "street": "Sint-Katriensteenweg"
     }, 
     {
-      "apptnrs": "0001", 
+      "apptnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "24"
       ], 
@@ -770,7 +772,13 @@
       "street": "Sint-Katriensteenweg"
     }, 
     {
-      "apptnrs": "0001,0002,0011,0012,0021", 
+      "apptnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0012", 
+        "0021"
+      ], 
       "hnrlbls": [
         "3"
       ], 
@@ -927,8 +935,13 @@
       "street": "Sint-Katriensteenweg"
     }, 
     {
-      "apptnrs": "0001,0004", 
-      "busnrs": "B", 
+      "apptnrs": [
+        "0001", 
+        "0004"
+      ], 
+      "busnrs": [
+        "B"
+      ], 
       "hnrlbls": [
         "43"
       ], 

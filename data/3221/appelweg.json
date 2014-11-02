@@ -457,7 +457,9 @@
       "street": "Appelweg"
     }, 
     {
-      "busnrs": "1", 
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "13"
       ], 
@@ -722,7 +724,14 @@
       "street": "Appelweg"
     }, 
     {
-      "busnrs": "1,101,102,103,104,2", 
+      "busnrs": [
+        "1", 
+        "101", 
+        "102", 
+        "103", 
+        "104", 
+        "2"
+      ], 
       "hnrlbls": [
         "20"
       ], 
@@ -747,7 +756,9 @@
       "street": "Appelweg"
     }, 
     {
-      "busnrs": "1", 
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "23"
       ], 
@@ -1456,7 +1467,9 @@
       "street": "Appelweg"
     }, 
     {
-      "busnrs": "9", 
+      "busnrs": [
+        "9"
+      ], 
       "hnrlbls": [
         "88"
       ], 
@@ -1481,8 +1494,13 @@
       "street": "Appelweg"
     }, 
     {
-      "apptnrs": "A101,A102", 
-      "busnrs": "B", 
+      "apptnrs": [
+        "A101", 
+        "A102"
+      ], 
+      "busnrs": [
+        "B"
+      ], 
       "hnrlbls": [
         "9"
       ], 

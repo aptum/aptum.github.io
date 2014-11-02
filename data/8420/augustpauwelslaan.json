@@ -373,8 +373,15 @@
       "street": "August Pauwelslaan"
     }, 
     {
-      "apptnrs": "1.5,2.9", 
-      "busnrs": "103,202,3", 
+      "apptnrs": [
+        "1.5", 
+        "2.9"
+      ], 
+      "busnrs": [
+        "103", 
+        "202", 
+        "3"
+      ], 
       "hnrlbls": [
         "31-39"
       ], 
@@ -387,7 +394,9 @@
       "street": "August Pauwelslaan"
     }, 
     {
-      "busnrs": "9", 
+      "busnrs": [
+        "9"
+      ], 
       "hnrlbls": [
         "39A"
       ], 
@@ -424,7 +433,15 @@
       "street": "August Pauwelslaan"
     }, 
     {
-      "busnrs": "1,102,2,202,302,401,501", 
+      "busnrs": [
+        "1", 
+        "102", 
+        "2", 
+        "202", 
+        "302", 
+        "401", 
+        "501"
+      ], 
       "hnrlbls": [
         "41"
       ], 
@@ -449,7 +466,12 @@
       "street": "August Pauwelslaan"
     }, 
     {
-      "busnrs": "1,102,201,202", 
+      "busnrs": [
+        "1", 
+        "102", 
+        "201", 
+        "202"
+      ], 
       "hnrlbls": [
         "43"
       ], 

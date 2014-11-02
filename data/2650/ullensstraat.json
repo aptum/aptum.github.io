@@ -73,7 +73,10 @@
       "street": "Ullensstraat"
     }, 
     {
-      "apptnrs": "0.0,1.0", 
+      "apptnrs": [
+        "0.0", 
+        "1.0"
+      ], 
       "hnrlbls": [
         "43"
       ], 
@@ -158,8 +161,16 @@
       "street": "Ullensstraat"
     }, 
     {
-      "apptnrs": "0.0", 
-      "busnrs": "1,2,3,4,5", 
+      "apptnrs": [
+        "0.0"
+      ], 
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5"
+      ], 
       "hnrlbls": [
         "51"
       ], 

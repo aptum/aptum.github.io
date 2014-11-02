@@ -1,7 +1,16 @@
 {
   "addresses": [
     {
-      "apptnrs": "V1,V2,V3,V4,V5,V6,V7,V8", 
+      "apptnrs": [
+        "V1", 
+        "V2", 
+        "V3", 
+        "V4", 
+        "V5", 
+        "V6", 
+        "V7", 
+        "V8"
+      ], 
       "hnrlbls": [
         "1-16"
       ], 
@@ -230,7 +239,13 @@
       "street": "Industrielaan"
     }, 
     {
-      "apptnrs": "V1,V3,V4,V5,V6", 
+      "apptnrs": [
+        "V1", 
+        "V3", 
+        "V4", 
+        "V5", 
+        "V6"
+      ], 
       "hnrlbls": [
         "3"
       ], 
@@ -291,7 +306,9 @@
       "street": "Industrielaan"
     }, 
     {
-      "apptnrs": "V2", 
+      "apptnrs": [
+        "V2"
+      ], 
       "hnrlbls": [
         "4"
       ], 
@@ -376,8 +393,12 @@
       "street": "Industrielaan"
     }, 
     {
-      "apptnrs": "V1", 
-      "busnrs": "2", 
+      "apptnrs": [
+        "V1"
+      ], 
+      "busnrs": [
+        "2"
+      ], 
       "hnrlbls": [
         "5"
       ], 

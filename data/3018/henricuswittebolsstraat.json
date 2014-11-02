@@ -145,8 +145,15 @@
       "street": "Henricus Wittebolsstraat"
     }, 
     {
-      "apptnrs": "0001,0102", 
-      "busnrs": "0002,0003,0101", 
+      "apptnrs": [
+        "0001", 
+        "0102"
+      ], 
+      "busnrs": [
+        "0002", 
+        "0003", 
+        "0101"
+      ], 
       "hnrlbls": [
         "12"
       ], 
@@ -699,8 +706,12 @@
       "street": "Henricus Wittebolsstraat"
     }, 
     {
-      "apptnrs": "0101", 
-      "busnrs": "0001", 
+      "apptnrs": [
+        "0101"
+      ], 
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "6"
       ], 

@@ -253,8 +253,13 @@
       "street": "Charles Coppensstraat"
     }, 
     {
-      "apptnrs": "2.0", 
-      "busnrs": "10,20", 
+      "apptnrs": [
+        "2.0"
+      ], 
+      "busnrs": [
+        "10", 
+        "20"
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -543,7 +548,9 @@
       "street": "Charles Coppensstraat"
     }, 
     {
-      "busnrs": "2", 
+      "busnrs": [
+        "2"
+      ], 
       "hnrlbls": [
         "48"
       ], 
@@ -892,7 +899,10 @@
       "street": "Charles Coppensstraat"
     }, 
     {
-      "busnrs": "22,VDL", 
+      "busnrs": [
+        "22", 
+        "VDL"
+      ], 
       "hnrlbls": [
         "89"
       ], 

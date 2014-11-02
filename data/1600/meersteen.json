@@ -37,7 +37,11 @@
       "street": "Meersteen"
     }, 
     {
-      "busnrs": "1,2,3", 
+      "busnrs": [
+        "1", 
+        "2", 
+        "3"
+      ], 
       "hnrlbls": [
         "12"
       ], 
@@ -146,7 +150,10 @@
       "street": "Meersteen"
     }, 
     {
-      "apptnrs": "1.0,2.0", 
+      "apptnrs": [
+        "1.0", 
+        "2.0"
+      ], 
       "hnrlbls": [
         "20"
       ], 
@@ -243,8 +250,13 @@
       "street": "Meersteen"
     }, 
     {
-      "apptnrs": "0.0,2.0", 
-      "busnrs": "1", 
+      "apptnrs": [
+        "0.0", 
+        "2.0"
+      ], 
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "26"
       ], 

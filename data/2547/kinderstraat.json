@@ -1,7 +1,14 @@
 {
   "addresses": [
     {
-      "apptnrs": "1L,1R,2L,2R,GL-L,GL-R", 
+      "apptnrs": [
+        "1L", 
+        "1R", 
+        "2L", 
+        "2R", 
+        "GL-L", 
+        "GL-R"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -14,7 +21,11 @@
       "street": "Kinderstraat"
     }, 
     {
-      "apptnrs": "1A,1R,GL", 
+      "apptnrs": [
+        "1A", 
+        "1R", 
+        "GL"
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -27,8 +38,12 @@
       "street": "Kinderstraat"
     }, 
     {
-      "apptnrs": "0.0", 
-      "busnrs": "1", 
+      "apptnrs": [
+        "0.0"
+      ], 
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "101"
       ], 
@@ -101,7 +116,14 @@
       "street": "Kinderstraat"
     }, 
     {
-      "apptnrs": "1L,1R,2L,2R,GL-A,GL-V", 
+      "apptnrs": [
+        "1L", 
+        "1R", 
+        "2L", 
+        "2R", 
+        "GL-A", 
+        "GL-V"
+      ], 
       "hnrlbls": [
         "12"
       ], 
@@ -474,8 +496,13 @@
       "street": "Kinderstraat"
     }, 
     {
-      "apptnrs": "0.0", 
-      "busnrs": "1,2", 
+      "apptnrs": [
+        "0.0"
+      ], 
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "17"
       ], 
@@ -500,7 +527,14 @@
       "street": "Kinderstraat"
     }, 
     {
-      "apptnrs": "1L,1R,2L,2R,GL-L,GL-R", 
+      "apptnrs": [
+        "1L", 
+        "1R", 
+        "2L", 
+        "2R", 
+        "GL-L", 
+        "GL-R"
+      ], 
       "hnrlbls": [
         "18"
       ], 
@@ -1185,7 +1219,9 @@
       "street": "Kinderstraat"
     }, 
     {
-      "busnrs": "1", 
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "97"
       ], 

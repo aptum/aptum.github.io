@@ -313,7 +313,12 @@
       "street": "Valkstraat"
     }, 
     {
-      "apptnrs": "001,002,101,102", 
+      "apptnrs": [
+        "001", 
+        "002", 
+        "101", 
+        "102"
+      ], 
       "hnrlbls": [
         "124"
       ], 
@@ -746,7 +751,9 @@
       "street": "Valkstraat"
     }, 
     {
-      "busnrs": "2", 
+      "busnrs": [
+        "2"
+      ], 
       "hnrlbls": [
         "20-22"
       ], 

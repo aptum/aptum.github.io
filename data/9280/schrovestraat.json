@@ -37,7 +37,10 @@
       "street": "Schrovestraat"
     }, 
     {
-      "busnrs": "1,2", 
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "12"
       ], 
@@ -98,8 +101,15 @@
       "street": "Schrovestraat"
     }, 
     {
-      "apptnrs": "102", 
-      "busnrs": "1,101,2,201", 
+      "apptnrs": [
+        "102"
+      ], 
+      "busnrs": [
+        "1", 
+        "101", 
+        "2", 
+        "201"
+      ], 
       "hnrlbls": [
         "15B"
       ], 
@@ -1072,7 +1082,11 @@
       "street": "Schrovestraat"
     }, 
     {
-      "busnrs": "1,101,201", 
+      "busnrs": [
+        "1", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "81A"
       ], 

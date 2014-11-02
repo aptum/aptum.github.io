@@ -61,7 +61,9 @@
       "street": "Zaventemsesteenweg"
     }, 
     {
-      "busnrs": "99", 
+      "busnrs": [
+        "99"
+      ], 
       "hnrlbls": [
         "101-103"
       ], 
@@ -230,8 +232,13 @@
       "street": "Zaventemsesteenweg"
     }, 
     {
-      "apptnrs": "0.0", 
-      "busnrs": "1,2", 
+      "apptnrs": [
+        "0.0"
+      ], 
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "121-121B"
       ], 
@@ -244,7 +251,11 @@
       "street": "Zaventemsesteenweg"
     }, 
     {
-      "busnrs": "1,2,3", 
+      "busnrs": [
+        "1", 
+        "2", 
+        "3"
+      ], 
       "hnrlbls": [
         "121-121B"
       ], 
@@ -689,7 +700,10 @@
       "street": "Zaventemsesteenweg"
     }, 
     {
-      "busnrs": "1,8", 
+      "busnrs": [
+        "1", 
+        "8"
+      ], 
       "hnrlbls": [
         "3"
       ], 

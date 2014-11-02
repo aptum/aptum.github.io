@@ -13,7 +13,11 @@
       "street": "Millenstraat"
     }, 
     {
-      "busnrs": "1,2,3", 
+      "busnrs": [
+        "1", 
+        "2", 
+        "3"
+      ], 
       "hnrlbls": [
         "12"
       ], 
@@ -26,7 +30,12 @@
       "street": "Millenstraat"
     }, 
     {
-      "busnrs": "1,2,3,4", 
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4"
+      ], 
       "hnrlbls": [
         "12A-25"
       ], 
@@ -147,7 +156,15 @@
       "street": "Millenstraat"
     }, 
     {
-      "apptnrs": "0/1,0/2,1/1,1/2,1/3,2/1,2/2", 
+      "apptnrs": [
+        "0/1", 
+        "0/2", 
+        "1/1", 
+        "1/2", 
+        "1/3", 
+        "2/1", 
+        "2/2"
+      ], 
       "hnrlbls": [
         "22"
       ], 
@@ -220,8 +237,23 @@
       "street": "Millenstraat"
     }, 
     {
-      "apptnrs": "0/01,0/02,0/03,1/1,1/2,1/3,2/1,2/2", 
-      "busnrs": "0/1,0/2,0/3,02,11", 
+      "apptnrs": [
+        "0/01", 
+        "0/02", 
+        "0/03", 
+        "1/1", 
+        "1/2", 
+        "1/3", 
+        "2/1", 
+        "2/2"
+      ], 
+      "busnrs": [
+        "0/1", 
+        "0/2", 
+        "0/3", 
+        "02", 
+        "11"
+      ], 
       "hnrlbls": [
         "30"
       ], 
@@ -306,7 +338,9 @@
       "street": "Millenstraat"
     }, 
     {
-      "busnrs": "1", 
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "37"
       ], 
@@ -319,7 +353,9 @@
       "street": "Millenstraat"
     }, 
     {
-      "busnrs": "4", 
+      "busnrs": [
+        "4"
+      ], 
       "hnrlbls": [
         "21-42C"
       ], 
@@ -356,8 +392,14 @@
       "street": "Millenstraat"
     }, 
     {
-      "apptnrs": "0/01", 
-      "busnrs": "0/1,1/1,2/1", 
+      "apptnrs": [
+        "0/01"
+      ], 
+      "busnrs": [
+        "0/1", 
+        "1/1", 
+        "2/1"
+      ], 
       "hnrlbls": [
         "41"
       ], 
@@ -442,7 +484,10 @@
       "street": "Millenstraat"
     }, 
     {
-      "busnrs": "1,2", 
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "6"
       ], 

@@ -37,7 +37,10 @@
       "street": "Bronweg"
     }, 
     {
-      "busnrs": "11A,3A", 
+      "busnrs": [
+        "11A", 
+        "3A"
+      ], 
       "hnrlbls": [
         "13"
       ], 
@@ -374,8 +377,12 @@
       "street": "Bronweg"
     }, 
     {
-      "apptnrs": "01-2", 
-      "busnrs": "1", 
+      "apptnrs": [
+        "01-2"
+      ], 
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "54-56A"
       ], 
@@ -460,8 +467,14 @@
       "street": "Bronweg"
     }, 
     {
-      "apptnrs": "01-2", 
-      "busnrs": "1,11,12", 
+      "apptnrs": [
+        "01-2"
+      ], 
+      "busnrs": [
+        "1", 
+        "11", 
+        "12"
+      ], 
       "hnrlbls": [
         "6"
       ], 
@@ -606,7 +619,9 @@
       "street": "Bronweg"
     }, 
     {
-      "apptnrs": "1.1", 
+      "apptnrs": [
+        "1.1"
+      ], 
       "hnrlbls": [
         "78A"
       ], 

@@ -265,8 +265,14 @@
       "street": "Frans Peetersstraat"
     }, 
     {
-      "apptnrs": "0.0,1.0", 
-      "busnrs": "1,2", 
+      "apptnrs": [
+        "0.0", 
+        "1.0"
+      ], 
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "6"
       ], 
@@ -363,7 +369,9 @@
       "street": "Frans Peetersstraat"
     }, 
     {
-      "busnrs": "1", 
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "86"
       ], 

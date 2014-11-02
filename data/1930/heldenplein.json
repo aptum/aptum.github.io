@@ -13,8 +13,13 @@
       "street": "Heldenplein"
     }, 
     {
-      "apptnrs": "1.0,2.0", 
-      "busnrs": "1", 
+      "apptnrs": [
+        "1.0", 
+        "2.0"
+      ], 
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "10-12"
       ], 
@@ -159,7 +164,9 @@
       "street": "Heldenplein"
     }, 
     {
-      "busnrs": "2", 
+      "busnrs": [
+        "2"
+      ], 
       "hnrlbls": [
         "5"
       ], 

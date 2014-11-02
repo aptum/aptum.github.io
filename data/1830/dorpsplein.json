@@ -1,8 +1,12 @@
 {
   "addresses": [
     {
-      "apptnrs": "0B", 
-      "busnrs": "12", 
+      "apptnrs": [
+        "0B"
+      ], 
+      "busnrs": [
+        "12"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -15,8 +19,14 @@
       "street": "Dorpsplein"
     }, 
     {
-      "apptnrs": "2.2", 
-      "busnrs": "3,A,B", 
+      "apptnrs": [
+        "2.2"
+      ], 
+      "busnrs": [
+        "3", 
+        "A", 
+        "B"
+      ], 
       "hnrlbls": [
         "1A"
       ], 
@@ -77,7 +87,9 @@
       "street": "Dorpsplein"
     }, 
     {
-      "busnrs": "8", 
+      "busnrs": [
+        "8"
+      ], 
       "hnrlbls": [
         "2A-2C"
       ], 

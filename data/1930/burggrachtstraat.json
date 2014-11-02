@@ -37,7 +37,12 @@
       "street": "Burggrachtstraat"
     }, 
     {
-      "busnrs": "1,2,3,4", 
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4"
+      ], 
       "hnrlbls": [
         "14"
       ], 
@@ -86,8 +91,12 @@
       "street": "Burggrachtstraat"
     }, 
     {
-      "apptnrs": "1.0", 
-      "busnrs": "1", 
+      "apptnrs": [
+        "1.0"
+      ], 
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "18-20"
       ], 
@@ -232,8 +241,13 @@
       "street": "Burggrachtstraat"
     }, 
     {
-      "apptnrs": "1.0,2.0", 
-      "busnrs": "1", 
+      "apptnrs": [
+        "1.0", 
+        "2.0"
+      ], 
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "5"
       ], 

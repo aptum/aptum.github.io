@@ -853,7 +853,10 @@
       "street": "Haesendonckstraat"
     }, 
     {
-      "apptnrs": "0,1", 
+      "apptnrs": [
+        "0", 
+        "1"
+      ], 
       "hnrlbls": [
         "31"
       ], 
@@ -866,7 +869,12 @@
       "street": "Haesendonckstraat"
     }, 
     {
-      "apptnrs": "0,1,2,3", 
+      "apptnrs": [
+        "0", 
+        "1", 
+        "2", 
+        "3"
+      ], 
       "hnrlbls": [
         "32"
       ], 
@@ -939,7 +947,16 @@
       "street": "Haesendonckstraat"
     }, 
     {
-      "apptnrs": "0,1/1,1/2,1/B,2/1,2/2,3,4", 
+      "apptnrs": [
+        "0", 
+        "1/1", 
+        "1/2", 
+        "1/B", 
+        "2/1", 
+        "2/2", 
+        "3", 
+        "4"
+      ], 
       "hnrlbls": [
         "39"
       ], 
@@ -1108,7 +1125,10 @@
       "street": "Haesendonckstraat"
     }, 
     {
-      "busnrs": "00/1,01/1", 
+      "busnrs": [
+        "00/1", 
+        "01/1"
+      ], 
       "hnrlbls": [
         "53"
       ], 
@@ -1121,7 +1141,9 @@
       "street": "Haesendonckstraat"
     }, 
     {
-      "busnrs": "1", 
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "53O"
       ], 

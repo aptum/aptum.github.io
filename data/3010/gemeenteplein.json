@@ -145,7 +145,12 @@
       "street": "Gemeenteplein"
     }, 
     {
-      "busnrs": "0001,0101,0102,0201", 
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0102", 
+        "0201"
+      ], 
       "hnrlbls": [
         "23"
       ], 
@@ -170,8 +175,13 @@
       "street": "Gemeenteplein"
     }, 
     {
-      "apptnrs": "0201,0202", 
-      "busnrs": "0001", 
+      "apptnrs": [
+        "0201", 
+        "0202"
+      ], 
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "26"
       ], 
@@ -220,7 +230,10 @@
       "street": "Gemeenteplein"
     }, 
     {
-      "apptnrs": "0101,0201", 
+      "apptnrs": [
+        "0101", 
+        "0201"
+      ], 
       "hnrlbls": [
         "31-32"
       ], 
@@ -245,7 +258,11 @@
       "street": "Gemeenteplein"
     }, 
     {
-      "apptnrs": "0001,0101,0202", 
+      "apptnrs": [
+        "0001", 
+        "0101", 
+        "0202"
+      ], 
       "hnrlbls": [
         "33"
       ], 
@@ -294,8 +311,16 @@
       "street": "Gemeenteplein"
     }, 
     {
-      "apptnrs": "0001,0002,0101,0102", 
-      "busnrs": "0201,0202", 
+      "apptnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102"
+      ], 
+      "busnrs": [
+        "0201", 
+        "0202"
+      ], 
       "hnrlbls": [
         "7"
       ], 

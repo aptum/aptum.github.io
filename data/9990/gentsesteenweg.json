@@ -397,7 +397,9 @@
       "street": "Gentse Steenweg"
     }, 
     {
-      "apptnrs": "1-01", 
+      "apptnrs": [
+        "1-01"
+      ], 
       "hnrlbls": [
         "136"
       ], 
@@ -1070,8 +1072,19 @@
       "street": "Gentse Steenweg"
     }, 
     {
-      "apptnrs": "0-01,0-02,1-01,1-02,2-01,2-02", 
-      "busnrs": "101,201,202", 
+      "apptnrs": [
+        "0-01", 
+        "0-02", 
+        "1-01", 
+        "1-02", 
+        "2-01", 
+        "2-02"
+      ], 
+      "busnrs": [
+        "101", 
+        "201", 
+        "202"
+      ], 
       "hnrlbls": [
         "203"
       ], 
@@ -1168,7 +1181,9 @@
       "street": "Gentse Steenweg"
     }, 
     {
-      "busnrs": "1", 
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "209A"
       ], 
@@ -1313,7 +1328,9 @@
       "street": "Gentse Steenweg"
     }, 
     {
-      "busnrs": "B", 
+      "busnrs": [
+        "B"
+      ], 
       "hnrlbls": [
         "229"
       ], 

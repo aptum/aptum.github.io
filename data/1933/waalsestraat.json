@@ -385,8 +385,13 @@
       "street": "Waalsestraat"
     }, 
     {
-      "apptnrs": "2.0", 
-      "busnrs": "1,2", 
+      "apptnrs": [
+        "2.0"
+      ], 
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "15"
       ], 
@@ -663,7 +668,13 @@
       "street": "Waalsestraat"
     }, 
     {
-      "busnrs": "1,11,3,4,6", 
+      "busnrs": [
+        "1", 
+        "11", 
+        "3", 
+        "4", 
+        "6"
+      ], 
       "hnrlbls": [
         "2-18"
       ], 

@@ -757,7 +757,16 @@
       "street": "Vissersstraat"
     }, 
     {
-      "apptnrs": "1,2,3,4,5,6,7,8", 
+      "apptnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6", 
+        "7", 
+        "8"
+      ], 
       "hnrlbls": [
         "39A"
       ], 
@@ -1082,7 +1091,10 @@
       "street": "Vissersstraat"
     }, 
     {
-      "apptnrs": "1,2", 
+      "apptnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "60"
       ], 
@@ -1227,8 +1239,13 @@
       "street": "Vissersstraat"
     }, 
     {
-      "apptnrs": "1", 
-      "busnrs": "A,B", 
+      "apptnrs": [
+        "1"
+      ], 
+      "busnrs": [
+        "A", 
+        "B"
+      ], 
       "hnrlbls": [
         "71"
       ], 

@@ -73,7 +73,9 @@
       "street": "Meerstraat"
     }, 
     {
-      "busnrs": "1", 
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "16"
       ], 
@@ -122,8 +124,12 @@
       "street": "Meerstraat"
     }, 
     {
-      "apptnrs": "1.1", 
-      "busnrs": "1", 
+      "apptnrs": [
+        "1.1"
+      ], 
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -220,7 +226,10 @@
       "street": "Meerstraat"
     }, 
     {
-      "apptnrs": "A,B", 
+      "apptnrs": [
+        "A", 
+        "B"
+      ], 
       "hnrlbls": [
         "28"
       ], 
