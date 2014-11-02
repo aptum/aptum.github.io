@@ -24,7 +24,6 @@ const simpleAddr =  {
 	"housenumber": "1",
 	"lat": 1,
 	"lon": 1,
-	"pcode": 1234,
 	"street": "Dorpsstraat",
 };
 const simpleAddrCrab =  {

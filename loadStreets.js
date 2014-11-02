@@ -412,8 +412,10 @@ function getOsmXml(type, streetData)
 			if (showCrabInfo())
 			{
 				str += "<tag k='CRAB:herkomst' v='" + escapeXML(addr.source) + "'/>";
-				str += "<tag k='CRAB:hnrLabel' v='" + escapeXML(addr.hnrlbls[0].join(",")) + "'/>";
+				str += "<tag k='CRAB:hnrLabel' v='" + escapeXML(addr.hnrlbls.join(",")) + "'/>";
 			}
+			if (addr.hnrlbls.length > 1)
+				str += "<tag k='fixme' v='This number contains multiple housenumber labels. As the housenumber labels is a combination of all housenumbers in that location, this is certainly a mistake in CRAB. Please report it to AGIV.'/>"
 		}
 		if (includePcode() && type != "wrong")
 		{
