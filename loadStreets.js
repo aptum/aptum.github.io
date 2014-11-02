@@ -442,6 +442,17 @@ function getOsmXml(type, streetData)
 			}
 			if (addr.hnrlbls.length > 1)
 				fixme += "This number contains multiple housenumber labels. As the housenumber labels is a combination of all housenumbers in that location, this is certainly a mistake in CRAB. Please report it to AGIV. ";
+			if (addr.apptnrs && addr.busnrs)
+			{
+				fixme += "There are both appartment- and busnumbers on this address. Please check what's visible on the front door as part of the address. ";
+				str += getOsmTag("addr:flats:1", getLabelsRange(addr.apptnrs));
+				str += getOsmTag("addr:flats:2", getLabelsRange(addr.busnrs));
+			}
+			else if (addr.apptnrs)
+				str += getOsmTag("addr:flats", getLabelsRange(addr.apptnrs));
+			else if (addr.busnrs)
+				str += getOsmTag("addr:flats", getLabelsRange(addr.busnrs));
+				
 		}
 		if (!validHnrRegex.test(addr.housenumber))
 			fixme += "This housenumber does not follow the usual housenumber pattern. "
@@ -754,6 +765,45 @@ function hslToRgb(h, s, l){
 	}
 
 	return "#" + toHex(r) + toHex(g) + toHex(b);
+}
+
+/**
+ * Try to group a list of labels into a range
+ * Like ["1", "2", "3", "4"] -> ["1-4"]
+ */
+function getLabelsRange(labels) {
+	var numericLabels = [];
+	for (var i = 0; i < labels.length; i++)
+	{
+		if (labels[i] == "" + (+labels[i]))
+			numericLabels.push(+labels[i]);
+		else // if not all labels are numeric, we can't make a range
+			return labels.join(";");
+	}
+	var rangeStart = numericLabels[0];
+	var current = numericLabels[0];
+	var ranges = [];
+	for (var i = 1; i < numericLabels.length; i++)
+	{
+		if (current +1 == numericLabels[i])
+		{
+			current++;
+			continue;
+		}
+		// if not, close this range
+		if (rangeStart == current)
+			ranges.push("" + rangeStart);
+		else
+			ranges.push(rangeStart + "-" + current);
+		rangeStart = numericLabels[i];
+		current = numericLabels[i];
+	}
+	if (rangeStart == current)
+		ranges.push("" + rangeStart);
+	else
+		ranges.push(rangeStart + "-" + current);
+
+	return ranges.join(";");
 }
 
 
