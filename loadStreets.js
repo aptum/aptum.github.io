@@ -382,6 +382,10 @@ function compareAddr(sourceAddr, compAddr)
 	return getAddrDistance(sourceAddr, compAddr) < getMaxDist();
 }
 
+function getOsmTag(key, value) {
+	return "<tag k='" + escapeXML(key) + "' v='" + escapeXML(value) + "'/>"
+}
+
 function getOsmXml(type, streetData)
 {
 	var timeStr = (new Date()).toISOString();
@@ -402,29 +406,29 @@ function getOsmXml(type, streetData)
 			"timestamp='" + timeStr + "' " +
 			"uid='1' user=''>";
 		// tags
-		str += "<tag k='addr:housenumber' v='" + escapeXML(addr.housenumber) + "'/>";
-		str += "<tag k='addr:street' v='" + escapeXML(addr.street) + "'/>";
+		str += getOsmTag("addr:housenumber", addr.housenumber);
+		str += getOsmTag("addr:street", addr.street);
 		if (type == "wrong")
-			str += "<tag k='odbl:note' v='CRAB:OsmDerived'/>";
+		{
+			str += getOsmTag("odbl:note", "CRAB:OsmDerived");
+			str += getOsmTag("fixme", "This number is not preset in CRAB. It may be a spelling mistake, a non-existing address or an error in CRAB itself.");
+		}
 		else
 		{
-			str += "<tag k='odbl:note' v='CRAB:" + escapeXML(addr.source) + "'/>";
+			str += getOsmTag("odbl:note", "CRAB:" + addr.source);
+			if (includePcode())
+			{
+				str += getOsmTag("addr:city", addr.municipality);
+				str += getOsmTag("addr:postcode", addr.pcode);
+			}
 			if (showCrabInfo())
 			{
-				str += "<tag k='CRAB:herkomst' v='" + escapeXML(addr.source) + "'/>";
-				str += "<tag k='CRAB:hnrLabel' v='" + escapeXML(addr.hnrlbls.join(",")) + "'/>";
+				str += getOsmTag("CRAB:herkomst", addr.source);
+				str += getOsmTag("CRAB:hnrLabels", addr.hnrlbls.join(";"));
 			}
 			if (addr.hnrlbls.length > 1)
-				str += "<tag k='fixme' v='This number contains multiple housenumber labels. As the housenumber labels is a combination of all housenumbers in that location, this is certainly a mistake in CRAB. Please report it to AGIV.'/>"
+				str += getOsmTag("fixme", "This number contains multiple housenumber labels. As the housenumber labels is a combination of all housenumbers in that location, this is certainly a mistake in CRAB. Please report it to AGIV.");
 		}
-		if (includePcode() && type != "wrong")
-		{
-			str +=  "<tag k='addr:postcode' v='" + escapeXML(addr.pcode) + "'/>";
-			str +=  "<tag k='addr:postcode' v='" + escapeXML(addr.municipality) + "'/>";
-		}
-
-		if (type == "wrong")
-			str += "<tag k='fixme' v='This number is not preset in CRAB. It may be a spelling mistake, a non-existing address or an error in CRAB itself.'/>";
 
 		str += "</node>";
 	}
