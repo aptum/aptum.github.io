@@ -265,20 +265,14 @@ function getOsmInfo() {
 		{
 			var addr = {};
 			var d = data[i];
-			// Check if positional data is present in the element to be parsed
-			// Depending on the called API, elements without a position seem to be present
-			if(!( typeof(d.lat)    === 'undefined' && 
-			      typeof(d.center) === 'undefined' ))
-			{
-				addr.lat = d.lat || d.center.lat;
-				addr.lon = d.lon || d.center.lon;
+			addr.lat = d.lat || (d.center && d.center.lat);
+			addr.lon = d.lon || (d.center && d.center.lon);
 
-				if (!d.tags["addr:housenumber"] || !d.tags["addr:street"])
-					continue;
-				addr.housenumber = d.tags["addr:housenumber"];
-				addr.street = d.tags["addr:street"];
-				osmInfo.push(addr);
-			}
+			if (!d.tags["addr:housenumber"] || !d.tags["addr:street"])
+				continue;
+			addr.housenumber = d.tags["addr:housenumber"];
+			addr.street = d.tags["addr:street"];
+			osmInfo.push(addr);
 		}
 		finished[streets.length] = true;
 		finishLoading();
