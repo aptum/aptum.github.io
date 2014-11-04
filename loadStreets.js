@@ -83,7 +83,8 @@ function getTableRow(streetIdx)
 		'<tr id="%n">\n' +
 		'<td id="%n-name" name="%n-name">'+
 			'<b><a ' +
-				'onclick="openStreetInJosm(' + streetIdx + ')">' +
+				'onclick="openStreetInJosm(' + streetIdx + ')" ' +
+				'title="Load this street in JOSM in the active layer">' +
 				street.name +
 			'</a></b>'+
 		'</td>\n' +
