@@ -7,22 +7,20 @@
 		<title>Addr Import</title>
 		<link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.css" />
 		<style type="text/css">
-#map { height: 90%; width: 100%;}
+			#map { height: 90%; width: 100%; }
+			a, th {cursor: pointer; }
+			a:hover, a:focus {text-decoration: underline; }
+			a.blueLink {color: #0645AD; }
 		</style>
 	</head>
 	<body>
 
 	<h3>
-		<u>
-			<a
-					href="#comparison"
-					name="comparison"
-					id="comparisonCollapser"
-					onclick="collapseSection('comparison')">
-				▼
-			</a>
-			Comparison options
-		</u>
+		<a
+				name="comparison"
+				id="comparisonCollapser"
+				onclick="collapseSection('comparison')">▼</a>
+		Comparison options
 	</h3>
 	<div id="comparisonSection">
 		<table>
@@ -44,7 +42,6 @@
 				<td>
 					<input
 						type="text"
-						value="*"
 						id="filterStreetsInput"
 						title="Only show certain streets (use * as wildcard)."/>
 				</td>
@@ -75,16 +72,11 @@
 		<button type="button" onclick="gotoPermalink()">Update</button>
 	</div>
 	<h3>
-		<u>
-			<a
-					href="#export"
-					name="export"
-					id="exportCollapser"
-					onclick="collapseSection('export')">
-				▼
-			</a>
-			Export options
-		</u>
+		<a
+				name="export"
+				id="exportCollapser"
+				onclick="collapseSection('export')">▼</a>
+		Export options
 	</h3>
 	<div id="exportSection">
 		<table>
@@ -114,16 +106,11 @@
 	</div>
 
 	<h3>
-		<u>
-			<a
-					href="#data"
-					name="data"
-					id="dataCollapser"
-					onclick="collapseSection('data')">
-				▼
-			</a>
-			Data
-		</u>
+		<a
+				name="data"
+				id="dataCollapser"
+				onclick="collapseSection('data')">▼</a>
+		Data
 	</h3>
 
 	<div id="dataSection">
@@ -182,16 +169,11 @@
 	</div>
 
 	<h3>
-		<u>
-			<a
-					href="#map"
-					name="map"
-					id="mapCollapser"
-					onclick="collapseSection('map')">
-				▼
-			</a>
-			Map
-		</u>
+		<a
+				name="map"
+				id="mapCollapser"
+				onclick="collapseSection('map')">▼</a>
+		Map
 	</h3>
 	<div id="mapSection">
 		<div id="map"></div>

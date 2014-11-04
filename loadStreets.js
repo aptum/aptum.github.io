@@ -49,16 +49,16 @@ var tableId = "streetsTable";
  * - a capitalised letter (A, B, C, ...)
  * - a '/' followed by a number
  * - a wordly description: bis, ter, ... (separated with a space)
- * Eventually it's an address range, connected with a hyphen
+ * Possibly it's a number range, connected with a hyphen
  */
-var validHnrRegex = /^[0-9]+([A-Z]|\/[0-9]+| bis| ter)?(\-[0-9]+([A-Z]|\/[0-9]+| bis| ter)?)?$/;
+var validHnrRegex = /^[0-9]+([A-Z]|\/[0-9]+| bis| ter)?(\-[0-9]*([A-Z]|\/[0-9]+| bis| ter)?)?$/;
 
 
 // HTML WRITERS
 /**
  * Makes the html code for a table cell (including links tooltip, ...)
  */
-function getCellHtml(type, streetIdx, useMapAnchor)
+function getCellHtml(type, streetIdx)
 {
 	var street = streets[streetIdx];
 	var sanName = street.sanName;
@@ -66,12 +66,12 @@ function getCellHtml(type, streetIdx, useMapAnchor)
 	if (!street[type].length)
 		return "0";
 	else
-		return ("<a href='#%anchor' "+
+		return ("<a "+
+					"class='blueLink'" +
 					"title='Load this data in JOSM (%type)' "+
 					"onclick='openInJosm(\"%type\", streets[%i], \"%layerName\")' >"+
 				"%num"+
 			"</a>")
-				.replace(/%anchor/g, useMapAnchor ? "map" : layerName)
 				.replace(/%type/g, type)
 				.replace(/%street/g, sanName)
 				.replace(/%i/g, streetIdx)
@@ -86,10 +86,10 @@ function getTableRow(streetIdx)
 	return (
 		'<tr id="%n">\n' +
 		'<td id="%n-name" name="%n-name">'+
-			'<a href="#%n-name" ' +
+			'<b><a ' +
 				'onclick="openStreetInJosm(' + streetIdx + ')">' +
 				street.name +
-			'</a>'+
+			'</a></b>'+
 		'</td>\n' +
 		'<td id="%n-full" name="%n-full"></td>\n' +
 		'<td id="%n-missing" name="%n-missing"></td>\n' +
@@ -99,8 +99,8 @@ function getTableRow(streetIdx)
 }
 
 function getMapPopup(i) {
-	ret = "<h4><a href='#map' onclick='openStreetInJosm(" + i + ")'>" + streets[i].name + "</a></h4>";
-	ret += "Total: " + getCellHtml("full", i, true) + "<br/>";
+	ret = "<h4><a onclick='openStreetInJosm(" + i + ")'>" + streets[i].name + "</a></h4>";
+	ret += "Total: " + getCellHtml("full", i) + "<br/>";
 	if (loadOsmData())
 	{
 		ret += "Missing: " + getCellHtml("missing", i, true) + "<br/>";
@@ -140,9 +140,7 @@ function getStreetsFilter()
 {
 	var str = document.getElementById("filterStreetsInput").value;
 	str = escapeRegExp(str, STAR_AS_WILDCARD);
-	if (!str.length)
-		str = ".*";
-	return "^" + str + "$";
+	return str;
 }
 
 // DATA PARSING FUNCTIONS
@@ -159,10 +157,16 @@ function readPcode()
 		if (req.readyState != 4)
 			return;
 		var data = JSON.parse(req.responseText);
-		var re = new RegExp(getStreetsFilter());
-		streets = data.streets.filter(function(street) {
-			return re.test(street.name);
-		});
+		var streetsFilter = getStreetsFilter();
+		if (streetsFilter)
+		{
+			var re = new RegExp("^" + streetsFilter + "$");
+			streets = data.streets.filter(function(street) {
+				return re.test(street.name);
+			});
+		}
+		else
+			streets = data.streets;
 
 		var html = "";
 		for (var i = 0; i < streets.length; i++)
@@ -242,7 +246,12 @@ function finishLoading()
  */
 function getOsmInfo() {
 	finished[streets.length] = false;
-	var tagSet = '["addr:housenumber"]["addr:street"~"' + getStreetsFilter() + '"]';
+	var streetsFilter = getStreetsFilter();
+	var tagSet = '["addr:housenumber"]';
+	if (streetsFilter)
+		tagSet += '["addr:street"~"^' + streetsFilter + '$"]';
+	else
+		tagSet += '["addr:street"]'
 	var query = 
 		'[out:json];'+
 		'area["boundary"="postal_code"]["postal_code"="' + getPcode() + '"]->.area;'+
@@ -676,14 +685,16 @@ function gotoPermalink() {
 	for (var i = 0; i < ids.length; i++)
 	{
 		var obj = document.getElementById(ids[i] + "Input");
-		search += ids[i] + "=" + encodeURIComponent(obj.value) + "&";
+		if (obj.value)
+			search += ids[i] + "=" + encodeURIComponent(obj.value) + "&";
 	}
 	// checkboxes
 	var ids = ["loadOsm", "includePcode", "crabInfo"]
 	for (var i = 0; i < ids.length; i++)
 	{
 		var obj = document.getElementById(ids[i] + "Input");
-		search += ids[i] + "=" + obj.checked + "&";
+		if (obj.checked)
+			search += ids[i] + "=" + obj.checked + "&";
 	}
 
 	// collapsed sections
