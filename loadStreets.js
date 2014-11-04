@@ -133,6 +133,10 @@ function includePcode()
 	return document.getElementById("includePcodeInput").checked;
 }
 
+function includeFlats()
+{
+	return document.getElementById("includeFlatsInput").checked;
+}
 function getStreetsFilter()
 {
 	var str = document.getElementById("filterStreetsInput").value;
@@ -457,16 +461,19 @@ function getOsmXml(type, streetData)
 			}
 			if (addr.hnrlbls.length > 1)
 				fixme += "This number contains multiple housenumber labels. As the housenumber labels is a combination of all housenumbers in that location, this is certainly a mistake in CRAB. Please report it to AGIV. ";
-			if (addr.apptnrs && addr.busnrs)
+			if (includeFlats())
 			{
-				fixme += "There are both appartment- and busnumbers on this address. Please check what's visible on the front door as part of the address. ";
-				str += getOsmTag("addr:flats:1", getLabelsRange(addr.apptnrs));
-				str += getOsmTag("addr:flats:2", getLabelsRange(addr.busnrs));
+				if (addr.apptnrs && addr.busnrs)
+				{
+					fixme += "There are both appartment- and busnumbers on this address. Please check what's visible on the front door as part of the address. ";
+					str += getOsmTag("addr:flats:1", getLabelsRange(addr.apptnrs));
+					str += getOsmTag("addr:flats:2", getLabelsRange(addr.busnrs));
+				}
+				else if (addr.apptnrs)
+					str += getOsmTag("addr:flats", getLabelsRange(addr.apptnrs));
+				else if (addr.busnrs)
+					str += getOsmTag("addr:flats", getLabelsRange(addr.busnrs));
 			}
-			else if (addr.apptnrs)
-				str += getOsmTag("addr:flats", getLabelsRange(addr.apptnrs));
-			else if (addr.busnrs)
-				str += getOsmTag("addr:flats", getLabelsRange(addr.busnrs));
 				
 		}
 		if (!validHnrRegex.test(addr.housenumber))
@@ -690,7 +697,7 @@ function gotoPermalink() {
 			search += ids[i] + "=" + encodeURIComponent(obj.value) + "&";
 	}
 	// checkboxes
-	var ids = ["loadOsm", "includePcode", "crabInfo"]
+	var ids = ["loadOsm", "includePcode", "includeFlats", "crabInfo"]
 	for (var i = 0; i < ids.length; i++)
 	{
 		var obj = document.getElementById(ids[i] + "Input");
