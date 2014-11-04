@@ -450,6 +450,10 @@ function getOsmXml(type, streetData)
 			{
 				str += getOsmTag("CRAB:herkomst", addr.source);
 				str += getOsmTag("CRAB:hnrLabels", addr.hnrlbls.join(";"));
+				if (addr.apptnrs)
+					str += getOsmTag("CRAB:apptnrs", addr.apptnrs.join(";"));
+				if (addr.busnrs)
+					str += getOsmTag("CRAB:busnrs", addr.busnrs.join(";"));
 			}
 			if (addr.hnrlbls.length > 1)
 				fixme += "This number contains multiple housenumber labels. As the housenumber labels is a combination of all housenumbers in that location, this is certainly a mistake in CRAB. Please report it to AGIV. ";
