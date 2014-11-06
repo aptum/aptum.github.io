@@ -310,19 +310,28 @@ function compareData() {
 			return re.test(addr.street);
 		});
 		
-		var crabStreetPos = crabStreet.filter(function(addr) {
-			return addr.housenumber == addr.hnrlbls[0];
-		});
-		var crabStreet_overlapping = crabStreet.filter(function(addr) {
-			return addr.housenumber != addr.hnrlbls[0];
-		});
-		// Matches in one direction
-		street.missing = compareStreet(crabStreetPos, osmStreet);
-		street.missing_overlapping = compareStreet(crabStreet_overlapping, osmStreet);
-		street.wrong = compareStreet(osmStreet, crabStreet);
-		street.wrong.concat(osmStreet.filter(function (addr) {
-			return !validHnrRegex.test(addr.housenumber);
-		}));
+		street.wrong = [];
+		for (var a = 0; a < osmStreet.length; a++)
+		{
+			var osmAddr = osmStreet[a];
+			// expand all osm housenumbers before any comparison
+			osmAddr.expandedHnr = expandOsmHnr(osmAddr.housenumber);
+			if (!isOsmAddrInCrab(osmAddr, crabStreet))
+				street.wrong.push(osmAddr);
+		}
+
+		street.missing = [];
+		street.missing_overlapping = [];
+		for (var a = 0; a < crabStreet.length; a++)
+		{
+			var crabAddr = crabStreet[a];
+			if (isCrabAddrInOsm(crabAddr, osmStreet))
+				continue;
+			if (crabAddr.housenumber == crabAddr.hnrlbls[0])
+				street.missing.push(crabAddr);
+			else
+				street.missing_overlapping.push(crabAddr);
+		}
 
 		// express the completeness as a number between 0 and 1
 		street.completeness = 1 -
@@ -354,66 +363,115 @@ function compareData() {
 	}
 }
 
-function compareStreet(source, comp) {
-	var diffList = [];
-	for (var i = 0; i < source.length; i++)
+/**
+ * Brings one OSM address to multiple CRAB format addresses
+ * - transform bis and ter into _2 and _3
+ * - transform /2, /3, ... into _2, _3, ...
+ * - split the address per , or ;
+ * 
+ */
+function expandOsmHnr(hnr) {
+	// simple format that's the same in OSM and in CRAB
+	if (/^[0-9]+[A-Z]?$/.test(hnr))
+		return [hnr];
+	// split on , or ;
+	hnrArray = hnr.split(/,|;/g);
+
+	for (var i = hnrArray.length - 1; i >= 0; i--)
 	{
-		var sourceAddr = source[i];
-		if (!comp.find(
-			function(compAddr) {
-				return compareAddr(sourceAddr, compAddr);
+		// if one of the included housenumbers isn't valid, this number is just wrong
+		if (!validHnrRegex.test(hnrArray[i]))
+			return [];
+
+		// transform all bis addresses to CRAB format
+		hnrArray[i] = hnrArray[i].replace(/ bis/g, "_2");
+		hnrArray[i] = hnrArray[i].replace(/ ter/g, "_3");
+		hnrArray[i] = hnrArray[i].replace(/\/([0-9]+)/g, "_$1");
+
+		var range = hnrArray[i].split("-");
+		if (range.length == 1)
+			continue;
+
+		// handle housenumber ranges: 10-12, 10-C, 10B-D, ...
+		var start = range[0];
+		var stop = range[1];
+		// test if both are numbers:
+		if (+start == start && +stop == stop)
+		{
+			var step = 1;
+			// if both are odd or both are even, advance per 2
+			if (+start % 2 == +stop % 2)
+				step = 2;
+			for (var num = +start; num <= +stop; num += step) 
+			{
+				hnrArray.push("" + num);
 			}
-		))
-			diffList.push(source[i]);
+		}
+		else 
+		{
+			// if only the start is a number (e.g 10-C means 10, 10A, 10B and 10C)
+			if (+start == start)
+			{
+				hnrArray.push(start);
+				var number = start;
+				var startLetter = "A";
+			}
+			// if none are numbers, it should be a format like 10B-D, which means 10B, 10C and 10D
+			else
+			{
+				var number = start.match(/[0-9]+/);
+				var startLetter = start.match(/[A-Z]/);
+				if (!number || !startLetter)
+					return [];
+				number = number[0];
+				startLetter = startLetter[0];
+			}
+			for (var charC = startLetter.charCodeAt(0); charC <= stop.charCodeAt(0); charC++)
+				hnrArray.push(number + String.fromCharCode(charC));
+		}
+		// delete the originial housenumber
+		hnrArray.splice(i,1);
 	}
-	return diffList;
+		
+	
+	return hnrArray;
 }
 
-/**
- * Test if the source housenumber matches with the comparison one
- */
-function compareAddr(sourceAddr, compAddr)
-{
-	function uniformise(hnr)
-	{
-		if (!hnr)
-			return hnr;
-		hnr = hnr.replace(/ bis/g, "_2");
-		hnr = hnr.replace(/ ter/g, "_3");
-		hnr = hnr.replace(/\/([0-9]+)/g, "_$1");
-		return hnr;
-	}
-
-	sourceHnr = uniformise(sourceAddr.housenumber);
-	compHnr = uniformise(compAddr.housenumber);
-	if(!sourceAddr.hnrlbls)
-		sourceHnrLabel = "";
-	else
-		sourceHnrLabel = uniformise(sourceAddr.hnrlbls[0]);
-	if(!compAddr.hnrlbls)
-		compHnrLabel = "";
-	else
-		compHnrLabel = uniformise(compAddr.hnrlbls[0]);
-	
-	var matchHnr = false;
-	if (compHnr == sourceHnr)
-		matchHnr = true;
-	else if (compHnrLabel == sourceHnr)
-		matchHnr = true;
-	else if (compHnr == sourceHnrLabel)
-		matchHnr = true;
-	if (!matchHnr)
+function isOsmAddrInCrab(osmAddr, crabStreet) {
+	if (osmAddr.expandedHnr.length == 0)
 		return false;
-	if (!getMaxDist())
-		return true;
-	// Also test the distance if the housenumbers match and a distance is given
-	return getAddrDistance(sourceAddr, compAddr) < getMaxDist();
+	var maxDist = getMaxDist();
+	// every housenumber in the OSM address has to be somewhere in a CRAB address
+	return osmAddr.expandedHnr.every(function(hnr) {
+		return crabStreet.some(function(crabAddr) {
+			if  (hnr != crabAddr.housenumber)
+				return false;
+			if (!maxDist)
+				return true;
+			return getAddrDistance(osmAddr, crabAddr) < maxDist;
+		});
+	});
+}
+
+function isCrabAddrInOsm(crabAddr, osmStreet)
+{
+	var maxDist = getMaxDist();
+	return osmStreet.some(function(osmAddr) {
+		if (!osmAddr.expandedHnr.some(function(hnr) {
+			return hnr == crabAddr.housenumber;
+		}))
+			return false;
+		if (!maxDist)
+			return true;
+		return getAddrDistance(osmAddr, crabAddr) < maxDist;
+	});
 }
 
 function getOsmTag(key, value) {
 	return "<tag k='" + escapeXML(key) + "' v='" + escapeXML(value) + "'/>"
 }
 
+// XML WRITERS
 function getOsmXml(type, streetData)
 {
 	var timeStr = (new Date()).toISOString();
