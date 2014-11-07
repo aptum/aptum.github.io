@@ -39,15 +39,6 @@ var tableBodyId = "streetsTableBody";
 var mapId = "map"
 var tableId = "streetsTable";
 
-/**
- * A housenumber is a number, followed by one possible bis-number
- * The bisnumber can either be 
- * - a capitalised letter (A, B, C, ...)
- * - a '/' followed by a number
- * - a wordly description: bis, ter, ... (separated with a space)
- * Possibly it's a number range, connected with a hyphen
- */
-var validHnrRegex = /^[0-9]+([A-Z]|\/[0-9]+| bis| ter)?(\-[0-9]*([A-Z]|\/[0-9]+| bis| ter)?)?$/;
 
 
 // HTML WRITERS
@@ -248,7 +239,7 @@ function finishLoading()
 function getOsmInfo() {
 	finished[streets.length] = false;
 	var streetsFilter = getStreetsFilter();
-	var tagSet = '["addr:housenumber"]';
+	var tagSet = '[~"^addr:(official_)?housenumber$"~".*"]';
 	if (streetsFilter)
 		tagSet += '["addr:street"~"^' + streetsFilter + '$"]';
 	else
@@ -278,9 +269,8 @@ function getOsmInfo() {
 			addr.lat = d.lat || (d.center && d.center.lat);
 			addr.lon = d.lon || (d.center && d.center.lon);
 
-			if (!d.tags["addr:housenumber"] || !d.tags["addr:street"])
-				continue;
 			addr.housenumber = d.tags["addr:housenumber"];
+			addr.official_housenumber = d.tags["addr:official_housenumber"];
 			addr.street = d.tags["addr:street"];
 			osmInfo.push(addr);
 		}
@@ -316,6 +306,7 @@ function compareData() {
 			var osmAddr = osmStreet[a];
 			// expand all osm housenumbers before any comparison
 			osmAddr.expandedHnr = expandOsmHnr(osmAddr.housenumber);
+			osmAddr.expandedHnr.concat(expandOsmHnr(osmAddr.official_housenumber));
 			if (!isOsmAddrInCrab(osmAddr, crabStreet))
 				street.wrong.push(osmAddr);
 		}
@@ -368,15 +359,28 @@ function compareData() {
  * - transform bis and ter into _2 and _3
  * - transform /2, /3, ... into _2, _3, ...
  * - split the address per , or ;
- * 
+ * - split ranges appropriately: 22-26 -> 22,24 and 26
+ *                               10-C  -> 10, 10A, 10B and 10C
+ *                               1-2   -> 1 and 2
  */
 function expandOsmHnr(hnr) {
+	if (!hnr)
+		return [];
 	// simple format that's the same in OSM and in CRAB
 	if (/^[0-9]+[A-Z]?$/.test(hnr))
 		return [hnr];
 	// split on , or ;
 	hnrArray = hnr.split(/,|;/g);
 
+	/**
+	 * A housenumber is a number, followed by one possible bis-number
+	 * The bisnumber can either be 
+	 * - a capitalised letter (A, B, C, ...)
+	 * - a '/' followed by a number
+	 * - a wordly description: bis, ter, ... (separated with a space)
+	 * Possibly it's a number range, connected with a hyphen
+	 */
+	var validHnrRegex = /^[0-9]+([A-Z]|\/[0-9]+| bis| ter)?(\-[0-9]*([A-Z]|\/[0-9]+| bis| ter)?)?$/;
 	for (var i = hnrArray.length - 1; i >= 0; i--)
 	{
 		// if one of the included housenumbers isn't valid, this number is just wrong
@@ -403,9 +407,7 @@ function expandOsmHnr(hnr) {
 			if (+start % 2 == +stop % 2)
 				step = 2;
 			for (var num = +start; num <= +stop; num += step) 
-			{
 				hnrArray.push("" + num);
-			}
 		}
 		else 
 		{
@@ -493,15 +495,21 @@ function getOsmXml(type, streetData)
 			"timestamp='" + timeStr + "' " +
 			"uid='1' user=''>";
 		// tags
-		str += getOsmTag("addr:housenumber", addr.housenumber);
+		if (addr.housenumber)
+			str += getOsmTag("addr:housenumber", addr.housenumber);
+		if (addr.official_housenumber)
+			str += getOsmTag("addr:official_housenumber", addr.official_housenumber);
+		
 		str += getOsmTag("addr:street", addr.street);
 		if (type == "wrong")
 		{
+			// odbl:note is discarded by JOSM, so never uploaded
 			str += getOsmTag("odbl:note", "CRAB:OsmDerived");
 			fixme += "This number is not preset in CRAB. It may be a spelling mistake, a non-existing address or an error in CRAB itself. ";
 		}
 		else
 		{
+			// odbl:note is discarded by JOSM, so never uploaded
 			str += getOsmTag("odbl:note", "CRAB:" + addr.source);
 			if (includePcode())
 			{
@@ -534,8 +542,6 @@ function getOsmXml(type, streetData)
 			}
 				
 		}
-		if (!validHnrRegex.test(addr.housenumber))
-			fixme += "This housenumber does not follow the usual housenumber pattern. "
 		if (fixme)
 			str += getOsmTag("fixme", fixme);
 

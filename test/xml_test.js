@@ -4,7 +4,12 @@ var refute = buster.assertions.refute;
 var showCrabInfo = function() {
 	return false;
 }
+
 var includePcode = function() {
+	return false;
+}
+
+var includeFlats = function() {
 	return false;
 }
 
