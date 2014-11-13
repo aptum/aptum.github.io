@@ -71,7 +71,7 @@ function getTableRow(streetIdx)
 	var street = streets[streetIdx];
 	var sanName = street.sanName;
 	return (
-		'<tr id="%n">\n' +
+		'<tr id="%n" class="dataRow">\n' +
 		'<td id="%n-name" name="%n-name">'+
 			'<b><a ' +
 				'onclick="openStreetInJosm(' + streetIdx + ')" ' +
@@ -306,7 +306,7 @@ function compareData() {
 			var osmAddr = osmStreet[a];
 			// expand all osm housenumbers before any comparison
 			osmAddr.expandedHnr = expandOsmHnr(osmAddr.housenumber);
-			osmAddr.expandedHnr.concat(expandOsmHnr(osmAddr.official_housenumber));
+			osmAddr.expandedHnr = osmAddr.expandedHnr.concat(expandOsmHnr(osmAddr.official_housenumber));
 			if (!isOsmAddrInCrab(osmAddr, crabStreet))
 				street.wrong.push(osmAddr);
 		}
@@ -361,12 +361,14 @@ function compareData() {
  * - split the address per , or ;
  * - split ranges appropriately: 22-26 -> 22,24 and 26
  *                               10-C  -> 10, 10A, 10B and 10C
+ *                               10-10C-> 10, 10A, 10B and 10C
  *                               1-2   -> 1 and 2
  */
 function expandOsmHnr(hnr) {
 	if (!hnr)
 		return [];
 	// simple format that's the same in OSM and in CRAB
+	// for performance reasons, most housenumbers should stop here
 	if (/^[0-9]+[A-Z]?$/.test(hnr))
 		return [hnr];
 	// split on , or ;
@@ -416,7 +418,7 @@ function expandOsmHnr(hnr) {
 			{
 				hnrArray.push(start);
 				var number = start;
-				var startLetter = "A";
+				var startLetter = "A".charCodeAt(0);
 			}
 			// if none are numbers, it should be a format like 10B-D, which means 10B, 10C and 10D
 			else
@@ -426,10 +428,14 @@ function expandOsmHnr(hnr) {
 				if (!number || !startLetter)
 					return [];
 				number = number[0];
-				startLetter = startLetter[0];
+				startLetter = startLetter[0].charCodeAt(0);
 			}
-			for (var charC = startLetter.charCodeAt(0); charC <= stop.charCodeAt(0); charC++)
-				hnrArray.push(number + String.fromCharCode(charC));
+			var stopLetter = stop.match(/[A-Z]/);
+			if (!stopLetter)
+				return [];
+			stopLetter = stopLetter[0].charCodeAt(0);
+			for (var c = startLetter; c <= stopLetter; c++)
+				hnrArray.push(number + String.fromCharCode(c));
 		}
 		// delete the originial housenumber
 		hnrArray.splice(i,1);
