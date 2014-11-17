@@ -506,7 +506,9 @@ function getOsmXml(type, streetData)
 		if (addr.official_housenumber)
 			str += getOsmTag("addr:official_housenumber", addr.official_housenumber);
 		
-		str += getOsmTag("addr:street", addr.street);
+		str += getOsmTag("addr:street", addr.street.replace(/_[0-9]+/g,""));
+		if (addr.street.indexOf(".") > -1)
+			fixme += "This street contains abbreviations, please try to expand them"
 		if (type == "wrong")
 		{
 			// odbl:note is discarded by JOSM, so never uploaded
@@ -740,6 +742,8 @@ function escapeRegExp(str, flag) {
 			return str;
 		}
 		str = str.replace(/([A-Z,a-z]+)\./g, replacer);
+		// _num suffixes are added by AGIV to differ streets with the same name, but these suffixes shouldnt' appear in OSM in most cases, so make them optional
+		str = str.replace(/_[0-9]+/g, "($&)?");
 		// Treat hyphen and space as equal
 		str = str.replace(/[\-]/g, "[\\- ]");
 	}
