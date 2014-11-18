@@ -452,7 +452,7 @@ function isOsmAddrInCrab(osmAddr, crabStreet) {
 	// every housenumber in the OSM address has to be somewhere in a CRAB address
 	return osmAddr.expandedHnr.every(function(hnr) {
 		return crabStreet.some(function(crabAddr) {
-			if  (hnr != crabAddr.housenumber)
+			if  (hnr != crabAddr.housenumber.toUpperCase())
 				return false;
 			if (!maxDist)
 				return true;
@@ -466,7 +466,7 @@ function isCrabAddrInOsm(crabAddr, osmStreet)
 	var maxDist = getMaxDist();
 	return osmStreet.some(function(osmAddr) {
 		if (!osmAddr.expandedHnr.some(function(hnr) {
-			return hnr == crabAddr.housenumber;
+			return hnr == crabAddr.housenumber.toUpperCase();
 		}))
 			return false;
 		if (!maxDist)
@@ -502,7 +502,7 @@ function getOsmXml(type, streetData)
 			"uid='1' user=''>";
 		// tags
 		if (addr.housenumber)
-			str += getOsmTag("addr:housenumber", addr.housenumber);
+			str += getOsmTag("addr:housenumber", addr.housenumber.toUpperCase());
 		if (addr.official_housenumber)
 			str += getOsmTag("addr:official_housenumber", addr.official_housenumber);
 		
