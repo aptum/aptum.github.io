@@ -78,7 +78,7 @@
       ], 
       "housenumber": "107", 
       "lat": 51.02531026485857, 
-      "lon": 4.8366488690209986, 
+      "lon": 4.836648869020999, 
       "municipality": "Herselt", 
       "pcode": "2230", 
       "source": "afgeleidVanGebouw", 
@@ -122,7 +122,7 @@
     }, 
     {
       "hnrlbls": [
-        "110-110A"
+        "110"
       ], 
       "housenumber": "110", 
       "lat": 51.029827980097515, 
@@ -134,14 +134,14 @@
     }, 
     {
       "hnrlbls": [
-        "110-110A"
+        "110A"
       ], 
       "housenumber": "110A", 
-      "lat": 51.029827980097515, 
-      "lon": 4.834062723590373, 
+      "lat": 51.02973769636348, 
+      "lon": 4.833999555901044, 
       "municipality": "Herselt", 
       "pcode": "2230", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "G. Vandenheuvelstr."
     }, 
     {
@@ -161,11 +161,11 @@
         "112"
       ], 
       "housenumber": "112", 
-      "lat": 51.029696269451605, 
-      "lon": 4.834067542420625, 
+      "lat": 51.029678549729795, 
+      "lon": 4.833998967316925, 
       "municipality": "Herselt", 
       "pcode": "2230", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "G. Vandenheuvelstr."
     }, 
     {
@@ -206,18 +206,6 @@
     }, 
     {
       "hnrlbls": [
-        "116"
-      ], 
-      "housenumber": "116", 
-      "lat": 51.02935914813269, 
-      "lon": 4.834301390469167, 
-      "municipality": "Herselt", 
-      "pcode": "2230", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "G. Vandenheuvelstr."
-    }, 
-    {
-      "hnrlbls": [
         "117"
       ], 
       "housenumber": "117", 
@@ -241,8 +229,11 @@
       "street": "G. Vandenheuvelstr."
     }, 
     {
+      "busnrs": [
+        "A"
+      ], 
       "hnrlbls": [
-        "119-119A"
+        "119"
       ], 
       "housenumber": "119", 
       "lat": 51.02440212270355, 
@@ -250,18 +241,6 @@
       "municipality": "Herselt", 
       "pcode": "2230", 
       "source": "afgeleidVanGebouw", 
-      "street": "G. Vandenheuvelstr."
-    }, 
-    {
-      "hnrlbls": [
-        "119-119A"
-      ], 
-      "housenumber": "119A", 
-      "lat": 51.02440212270355, 
-      "lon": 4.837767518481308, 
-      "municipality": "Herselt", 
-      "pcode": "2230", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "G. Vandenheuvelstr."
     }, 
     {
@@ -293,21 +272,23 @@
         "121"
       ], 
       "housenumber": "121", 
-      "lat": 51.024269331513615, 
-      "lon": 4.837952906850193, 
+      "lat": 51.02429402900022, 
+      "lon": 4.838146248915112, 
       "municipality": "Herselt", 
       "pcode": "2230", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "G. Vandenheuvelstr."
     }, 
     {
       "busnrs": [
         "1", 
         "2", 
-        "3"
+        "3", 
+        "A", 
+        "B"
       ], 
       "hnrlbls": [
-        "122-122B"
+        "122"
       ], 
       "housenumber": "122", 
       "lat": 51.02906477353739, 
@@ -315,30 +296,6 @@
       "municipality": "Herselt", 
       "pcode": "2230", 
       "source": "afgeleidVanGebouw", 
-      "street": "G. Vandenheuvelstr."
-    }, 
-    {
-      "hnrlbls": [
-        "122-122B"
-      ], 
-      "housenumber": "122A", 
-      "lat": 51.02906477353739, 
-      "lon": 4.83440950500971, 
-      "municipality": "Herselt", 
-      "pcode": "2230", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "G. Vandenheuvelstr."
-    }, 
-    {
-      "hnrlbls": [
-        "122-122B"
-      ], 
-      "housenumber": "122B", 
-      "lat": 51.02906477353739, 
-      "lon": 4.83440950500971, 
-      "municipality": "Herselt", 
-      "pcode": "2230", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "G. Vandenheuvelstr."
     }, 
     {
@@ -358,11 +315,11 @@
         "124"
       ], 
       "housenumber": "124", 
-      "lat": 51.02889175644416, 
-      "lon": 4.834494023711943, 
+      "lat": 51.02890011748368, 
+      "lon": 4.834490142387107, 
       "municipality": "Herselt", 
       "pcode": "2230", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "G. Vandenheuvelstr."
     }, 
     {
@@ -535,26 +492,26 @@
     }, 
     {
       "hnrlbls": [
-        "136-138"
+        "136"
       ], 
       "housenumber": "136", 
-      "lat": 51.02782839765815, 
-      "lon": 4.835181190907022, 
+      "lat": 51.02796982615567, 
+      "lon": 4.835377889623137, 
       "municipality": "Herselt", 
       "pcode": "2230", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "G. Vandenheuvelstr."
     }, 
     {
       "hnrlbls": [
-        "136-138"
+        "138"
       ], 
       "housenumber": "138", 
-      "lat": 51.02782839765815, 
-      "lon": 4.835181190907022, 
+      "lat": 51.02772993336226, 
+      "lon": 4.835529159059002, 
       "municipality": "Herselt", 
       "pcode": "2230", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "G. Vandenheuvelstr."
     }, 
     {
@@ -734,7 +691,7 @@
       ], 
       "housenumber": "150", 
       "lat": 51.02665399314736, 
-      "lon": 4.835987665391014, 
+      "lon": 4.835987665391013, 
       "municipality": "Herselt", 
       "pcode": "2230", 
       "source": "afgeleidVanGebouw", 
@@ -1117,7 +1074,7 @@
         "20"
       ], 
       "housenumber": "20", 
-      "lat": 51.03147821493842, 
+      "lat": 51.03147821493841, 
       "lon": 4.833539857118517, 
       "municipality": "Herselt", 
       "pcode": "2230", 
@@ -1562,7 +1519,7 @@
         "45"
       ], 
       "housenumber": "45", 
-      "lat": 51.03044765153554, 
+      "lat": 51.030447651535525, 
       "lon": 4.833414428529877, 
       "municipality": "Herselt", 
       "pcode": "2230", 
@@ -1586,7 +1543,7 @@
         "47"
       ], 
       "housenumber": "47", 
-      "lat": 51.030378915844544, 
+      "lat": 51.03037891584456, 
       "lon": 4.833588372988048, 
       "municipality": "Herselt", 
       "pcode": "2230", 
@@ -1637,92 +1594,23 @@
         "01/4", 
         "01/5", 
         "01/6", 
-        "01/7"
-      ], 
-      "busnrs": [
-        "1"
+        "01/7", 
+        "A", 
+        "B", 
+        "C", 
+        "D", 
+        "E", 
+        "F"
       ], 
       "hnrlbls": [
         "50"
       ], 
       "housenumber": "50", 
-      "lat": 51.030341782338105, 
-      "lon": 4.83508865977999, 
+      "lat": 51.0303392968766, 
+      "lon": 4.834805633051354, 
       "municipality": "Herselt", 
       "pcode": "2230", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "G. Vandenheuvelstr."
-    }, 
-    {
-      "hnrlbls": [
-        "50A"
-      ], 
-      "housenumber": "50A", 
-      "lat": 51.03030192392358, 
-      "lon": 4.834961817747249, 
-      "municipality": "Herselt", 
-      "pcode": "2230", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "G. Vandenheuvelstr."
-    }, 
-    {
-      "hnrlbls": [
-        "50B"
-      ], 
-      "housenumber": "50B", 
-      "lat": 51.03030130308257, 
-      "lon": 4.834869009593971, 
-      "municipality": "Herselt", 
-      "pcode": "2230", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "G. Vandenheuvelstr."
-    }, 
-    {
-      "hnrlbls": [
-        "50C"
-      ], 
-      "housenumber": "50C", 
-      "lat": 51.030323911769294, 
-      "lon": 4.8347667393914415, 
-      "municipality": "Herselt", 
-      "pcode": "2230", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "G. Vandenheuvelstr."
-    }, 
-    {
-      "hnrlbls": [
-        "50D"
-      ], 
-      "housenumber": "50D", 
-      "lat": 51.03036565979575, 
-      "lon": 4.834666370463979, 
-      "municipality": "Herselt", 
-      "pcode": "2230", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "G. Vandenheuvelstr."
-    }, 
-    {
-      "hnrlbls": [
-        "50E"
-      ], 
-      "housenumber": "50E", 
-      "lat": 51.030366008291104, 
-      "lon": 4.834578418655194, 
-      "municipality": "Herselt", 
-      "pcode": "2230", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "G. Vandenheuvelstr."
-    }, 
-    {
-      "hnrlbls": [
-        "50F"
-      ], 
-      "housenumber": "50F", 
-      "lat": 51.030379525020045, 
-      "lon": 4.8344793363259955, 
-      "municipality": "Herselt", 
-      "pcode": "2230", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "G. Vandenheuvelstr."
     }, 
     {
@@ -1763,38 +1651,14 @@
     }, 
     {
       "hnrlbls": [
-        "56-58"
-      ], 
-      "housenumber": "56", 
-      "lat": 51.030331248153054, 
-      "lon": 4.834594038251774, 
-      "municipality": "Herselt", 
-      "pcode": "2230", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "G. Vandenheuvelstr."
-    }, 
-    {
-      "hnrlbls": [
-        "56-58"
-      ], 
-      "housenumber": "58", 
-      "lat": 51.030331248153054, 
-      "lon": 4.834594038251774, 
-      "municipality": "Herselt", 
-      "pcode": "2230", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "G. Vandenheuvelstr."
-    }, 
-    {
-      "hnrlbls": [
         "59A"
       ], 
       "housenumber": "59A", 
-      "lat": 51.02934170973179, 
-      "lon": 4.833619685252489, 
+      "lat": 51.029377061227, 
+      "lon": 4.833743639396581, 
       "municipality": "Herselt", 
       "pcode": "2230", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "G. Vandenheuvelstr."
     }, 
     {
@@ -1802,7 +1666,7 @@
         "6"
       ], 
       "housenumber": "6", 
-      "lat": 51.03191973021399, 
+      "lat": 51.03191973021398, 
       "lon": 4.83318428807248, 
       "municipality": "Herselt", 
       "pcode": "2230", 
@@ -1871,32 +1735,20 @@
     }, 
     {
       "busnrs": [
-        "1"
+        "1", 
+        "A", 
+        "B", 
+        "B/01"
       ], 
       "hnrlbls": [
         "65"
       ], 
       "housenumber": "65", 
-      "lat": 51.02903415392588, 
-      "lon": 4.833787828646674, 
+      "lat": 51.029034116509834, 
+      "lon": 4.833787761986064, 
       "municipality": "Herselt", 
       "pcode": "2230", 
       "source": "afgeleidVanGebouw", 
-      "street": "G. Vandenheuvelstr."
-    }, 
-    {
-      "busnrs": [
-        "01"
-      ], 
-      "hnrlbls": [
-        "65B"
-      ], 
-      "housenumber": "65B", 
-      "lat": 51.02894575816288, 
-      "lon": 4.833795929984503, 
-      "municipality": "Herselt", 
-      "pcode": "2230", 
-      "source": "afgeleidVanPerceelGrb", 
       "street": "G. Vandenheuvelstr."
     }, 
     {
@@ -1916,8 +1768,8 @@
         "67"
       ], 
       "housenumber": "67", 
-      "lat": 51.029105853570066, 
-      "lon": 4.833773716690508, 
+      "lat": 51.02883458166083, 
+      "lon": 4.833803728277648, 
       "municipality": "Herselt", 
       "pcode": "2230", 
       "source": "afgeleidVanGebouw", 
@@ -1925,14 +1777,14 @@
     }, 
     {
       "hnrlbls": [
-        "68-70"
+        "68"
       ], 
       "housenumber": "68", 
-      "lat": 51.03020707836647, 
-      "lon": 4.834170132424037, 
+      "lat": 51.030200391213775, 
+      "lon": 4.834052343557662, 
       "municipality": "Herselt", 
       "pcode": "2230", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "G. Vandenheuvelstr."
     }, 
     {
@@ -1949,14 +1801,14 @@
     }, 
     {
       "hnrlbls": [
-        "68-70"
+        "70"
       ], 
       "housenumber": "70", 
-      "lat": 51.03020707836647, 
-      "lon": 4.834170132424037, 
+      "lat": 51.030210638788766, 
+      "lon": 4.834324864210842, 
       "municipality": "Herselt", 
       "pcode": "2230", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "G. Vandenheuvelstr."
     }, 
     {
@@ -2166,14 +2018,15 @@
     {
       "busnrs": [
         "1", 
-        "2"
+        "2", 
+        "A"
       ], 
       "hnrlbls": [
         "9"
       ], 
       "housenumber": "9", 
-      "lat": 51.03172853342816, 
-      "lon": 4.832682582916103, 
+      "lat": 51.0317775433052, 
+      "lon": 4.832859518189748, 
       "municipality": "Herselt", 
       "pcode": "2230", 
       "source": "afgeleidVanGebouw", 
@@ -2241,26 +2094,14 @@
     }, 
     {
       "hnrlbls": [
-        "97"
-      ], 
-      "housenumber": "97", 
-      "lat": 51.02558966541162, 
-      "lon": 4.83497042212904, 
-      "municipality": "Herselt", 
-      "pcode": "2230", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "G. Vandenheuvelstr."
-    }, 
-    {
-      "hnrlbls": [
         "98"
       ], 
       "housenumber": "98", 
-      "lat": 51.02997202193415, 
-      "lon": 4.835437359963098, 
+      "lat": 51.0299326740304, 
+      "lon": 4.837811029682274, 
       "municipality": "Herselt", 
       "pcode": "2230", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "G. Vandenheuvelstr."
     }, 
     {
@@ -2273,42 +2114,6 @@
       "municipality": "Herselt", 
       "pcode": "2230", 
       "source": "afgeleidVanGebouw", 
-      "street": "G. Vandenheuvelstr."
-    }, 
-    {
-      "hnrlbls": [
-        "9A-9_2"
-      ], 
-      "housenumber": "9A", 
-      "lat": 51.03167961074959, 
-      "lon": 4.832505754288185, 
-      "municipality": "Herselt", 
-      "pcode": "2230", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "G. Vandenheuvelstr."
-    }, 
-    {
-      "hnrlbls": [
-        "9A-9_2"
-      ], 
-      "housenumber": "9_1", 
-      "lat": 51.03167961074959, 
-      "lon": 4.832505754288185, 
-      "municipality": "Herselt", 
-      "pcode": "2230", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "G. Vandenheuvelstr."
-    }, 
-    {
-      "hnrlbls": [
-        "9A-9_2"
-      ], 
-      "housenumber": "9_2", 
-      "lat": 51.03167961074959, 
-      "lon": 4.832505754288185, 
-      "municipality": "Herselt", 
-      "pcode": "2230", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "G. Vandenheuvelstr."
     }
   ]

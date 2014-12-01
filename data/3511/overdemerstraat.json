@@ -1,8 +1,11 @@
 {
   "addresses": [
     {
-      "busnrs": [
+      "apptnrs": [
         "2"
+      ], 
+      "busnrs": [
+        "1"
       ], 
       "hnrlbls": [
         "1"
@@ -16,9 +19,8 @@
       "street": "Overdemerstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2"
+      "apptnrs": [
+        "1"
       ], 
       "hnrlbls": [
         "10"
@@ -128,7 +130,7 @@
       "street": "Overdemerstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2"
       ], 
@@ -156,10 +158,12 @@
       "street": "Overdemerstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
-        "2", 
         "3"
+      ], 
+      "busnrs": [
+        "2"
       ], 
       "hnrlbls": [
         "114"
@@ -173,7 +177,7 @@
       "street": "Overdemerstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3"
@@ -190,7 +194,7 @@
       "street": "Overdemerstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1"
       ], 
       "hnrlbls": [
@@ -410,9 +414,21 @@
     }, 
     {
       "hnrlbls": [
-        "151A"
+        "151A-151B"
       ], 
       "housenumber": "151A", 
+      "lat": 50.95253174041368, 
+      "lon": 5.313262875211526, 
+      "municipality": "Hasselt", 
+      "pcode": "3511", 
+      "source": "geinterpoleerdObvWegverbinding", 
+      "street": "Overdemerstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "151A-151B"
+      ], 
+      "housenumber": "151B", 
       "lat": 50.95253174041368, 
       "lon": 5.313262875211526, 
       "municipality": "Hasselt", 
@@ -565,9 +581,11 @@
       "street": "Overdemerstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
+      "apptnrs": [
         "2"
+      ], 
+      "busnrs": [
+        "1"
       ], 
       "hnrlbls": [
         "31-31B"
@@ -693,11 +711,11 @@
         "4"
       ], 
       "housenumber": "4", 
-      "lat": 50.94741719220194, 
-      "lon": 5.30854185730472, 
+      "lat": 50.94639720300829, 
+      "lon": 5.307719792928396, 
       "municipality": "Hasselt", 
       "pcode": "3511", 
-      "source": "afgeleidVanStraat", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Overdemerstraat"
     }, 
     {
@@ -738,26 +756,14 @@
     }, 
     {
       "hnrlbls": [
-        "50"
-      ], 
-      "housenumber": "50", 
-      "lat": 50.9486570744228, 
-      "lon": 5.311448993206235, 
-      "municipality": "Hasselt", 
-      "pcode": "3511", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Overdemerstraat"
-    }, 
-    {
-      "hnrlbls": [
         "6"
       ], 
       "housenumber": "6", 
-      "lat": 50.94637920941757, 
-      "lon": 5.307485338323975, 
+      "lat": 50.94644641359985, 
+      "lon": 5.307805308945529, 
       "municipality": "Hasselt", 
       "pcode": "3511", 
-      "source": "geinterpoleerdObvWegverbinding", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Overdemerstraat"
     }, 
     {
@@ -802,10 +808,25 @@
       ], 
       "housenumber": "68", 
       "lat": 50.9495542553959, 
-      "lon": 5.311552002087978, 
+      "lon": 5.311552002087977, 
       "municipality": "Hasselt", 
       "pcode": "3511", 
       "source": "afgeleidVanGebouw", 
+      "street": "Overdemerstraat"
+    }, 
+    {
+      "apptnrs": [
+        "1"
+      ], 
+      "hnrlbls": [
+        "69"
+      ], 
+      "housenumber": "69", 
+      "lat": 50.94871997644552, 
+      "lon": 5.310185944002274, 
+      "municipality": "Hasselt", 
+      "pcode": "3511", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Overdemerstraat"
     }, 
     {
@@ -842,6 +863,18 @@
       "municipality": "Hasselt", 
       "pcode": "3511", 
       "source": "afgeleidVanGebouw", 
+      "street": "Overdemerstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "75"
+      ], 
+      "housenumber": "75", 
+      "lat": 50.94968916258699, 
+      "lon": 5.310962251964495, 
+      "municipality": "Hasselt", 
+      "pcode": "3511", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Overdemerstraat"
     }, 
     {
@@ -898,7 +931,7 @@
       ], 
       "housenumber": "81", 
       "lat": 50.95016926197128, 
-      "lon": 5.3112603826292935, 
+      "lon": 5.311260382629294, 
       "municipality": "Hasselt", 
       "pcode": "3511", 
       "source": "afgeleidVanGebouw", 
@@ -918,7 +951,7 @@
     }, 
     {
       "hnrlbls": [
-        "85"
+        "85-85A"
       ], 
       "housenumber": "85", 
       "lat": 50.950695614413135, 
@@ -930,14 +963,14 @@
     }, 
     {
       "hnrlbls": [
-        "85A"
+        "85-85A"
       ], 
       "housenumber": "85A", 
-      "lat": 50.950914383999596, 
-      "lon": 5.311256154396742, 
+      "lat": 50.950695614413135, 
+      "lon": 5.311351236237534, 
       "municipality": "Hasselt", 
       "pcode": "3511", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Overdemerstraat"
     }, 
     {

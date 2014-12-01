@@ -1,7 +1,7 @@
 {
   "addresses": [
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "10", 
         "2", 
@@ -9,9 +9,11 @@
         "4", 
         "5", 
         "6", 
-        "7", 
         "8", 
         "9"
+      ], 
+      "busnrs": [
+        "7"
       ], 
       "hnrlbls": [
         "1-11"
@@ -25,11 +27,15 @@
       "street": "Bampslaan"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "3", 
         "4", 
         "5", 
         "6"
+      ], 
+      "busnrs": [
+        "1", 
+        "2"
       ], 
       "hnrlbls": [
         "10"
@@ -68,18 +74,6 @@
     }, 
     {
       "hnrlbls": [
-        "12B"
-      ], 
-      "housenumber": "12B", 
-      "lat": 50.93001553692908, 
-      "lon": 5.331092191814539, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Bampslaan"
-    }, 
-    {
-      "hnrlbls": [
         "13"
       ], 
       "housenumber": "13", 
@@ -103,7 +97,7 @@
       "street": "Bampslaan"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3"
@@ -120,19 +114,7 @@
       "street": "Bampslaan"
     }, 
     {
-      "hnrlbls": [
-        "17"
-      ], 
-      "housenumber": "17", 
-      "lat": 50.930285147574075, 
-      "lon": 5.3313554973720985, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Bampslaan"
-    }, 
-    {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "10", 
         "2", 
@@ -181,6 +163,10 @@
     }, 
     {
       "apptnrs": [
+        "1"
+      ], 
+      "busnrs": [
+        "2", 
         "2.01"
       ], 
       "hnrlbls": [
@@ -195,6 +181,11 @@
       "street": "Bampslaan"
     }, 
     {
+      "busnrs": [
+        "1.01", 
+        "2.01", 
+        "3.01"
+      ], 
       "hnrlbls": [
         "21"
       ], 
@@ -204,6 +195,18 @@
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanGebouw", 
+      "street": "Bampslaan"
+    }, 
+    {
+      "hnrlbls": [
+        "21A"
+      ], 
+      "housenumber": "21A", 
+      "lat": 50.930531166511145, 
+      "lon": 5.331031218671374, 
+      "municipality": "Hasselt", 
+      "pcode": "3500", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Bampslaan"
     }, 
     {
@@ -223,8 +226,8 @@
         "23"
       ], 
       "housenumber": "23", 
-      "lat": 50.93057330068434, 
-      "lon": 5.330508143155424, 
+      "lat": 50.930573301849506, 
+      "lon": 5.330508000920235, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanGebouw", 
@@ -232,23 +235,11 @@
     }, 
     {
       "hnrlbls": [
-        "24"
-      ], 
-      "housenumber": "24", 
-      "lat": 50.93017888865031, 
-      "lon": 5.330521391637265, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
-      "street": "Bampslaan"
-    }, 
-    {
-      "hnrlbls": [
         "24A"
       ], 
       "housenumber": "24A", 
-      "lat": 50.930229273063304, 
-      "lon": 5.330494542563346, 
+      "lat": 50.930174700938075, 
+      "lon": 5.330418026516343, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanPerceelGrb", 
@@ -291,27 +282,17 @@
       "street": "Bampslaan"
     }, 
     {
-      "hnrlbls": [
-        "3-3A"
-      ], 
-      "housenumber": "3", 
-      "lat": 50.93015557731527, 
-      "lon": 5.332026997244766, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Bampslaan"
-    }, 
-    {
-      "busnrs": [
-        "1", 
+      "apptnrs": [
         "2", 
-        "3", 
-        "4", 
-        "5", 
         "6", 
         "7", 
         "8"
+      ], 
+      "busnrs": [
+        "1", 
+        "3", 
+        "4", 
+        "5"
       ], 
       "hnrlbls": [
         "30-32"
@@ -325,12 +306,14 @@
       "street": "Bampslaan"
     }, 
     {
-      "busnrs": [
-        "1", 
+      "apptnrs": [
         "2", 
         "3", 
-        "4", 
         "5"
+      ], 
+      "busnrs": [
+        "1", 
+        "4"
       ], 
       "hnrlbls": [
         "31"
@@ -356,7 +339,7 @@
       "street": "Bampslaan"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2"
       ], 
@@ -388,23 +371,11 @@
         "35"
       ], 
       "housenumber": "35", 
-      "lat": 50.93055304650314, 
-      "lon": 5.330182096790487, 
+      "lat": 50.93059309819453, 
+      "lon": 5.330066692344421, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Bampslaan"
-    }, 
-    {
-      "hnrlbls": [
-        "36-48"
-      ], 
-      "housenumber": "36", 
-      "lat": 50.93044233208807, 
-      "lon": 5.329506943028099, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Bampslaan"
     }, 
     {
@@ -421,18 +392,6 @@
     }, 
     {
       "hnrlbls": [
-        "38-44"
-      ], 
-      "housenumber": "38", 
-      "lat": 50.93046891105539, 
-      "lon": 5.329400935851958, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Bampslaan"
-    }, 
-    {
-      "hnrlbls": [
         "39"
       ], 
       "housenumber": "39", 
@@ -441,18 +400,6 @@
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanGebouw", 
-      "street": "Bampslaan"
-    }, 
-    {
-      "hnrlbls": [
-        "3-3A"
-      ], 
-      "housenumber": "3A", 
-      "lat": 50.93015557731527, 
-      "lon": 5.332026997244766, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Bampslaan"
     }, 
     {
@@ -468,15 +415,30 @@
       "street": "Bampslaan"
     }, 
     {
+      "busnrs": [
+        "0.01", 
+        "0.02", 
+        "0.03", 
+        "0.04", 
+        "0.05", 
+        "1.01", 
+        "1.02", 
+        "2.01", 
+        "2.02", 
+        "3.01", 
+        "3.02", 
+        "4.01", 
+        "4.02"
+      ], 
       "hnrlbls": [
-        "38-44"
+        "40"
       ], 
       "housenumber": "40", 
-      "lat": 50.93046891105539, 
-      "lon": 5.329400935851958, 
+      "lat": 50.930411384065394, 
+      "lon": 5.329630500614251, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Bampslaan"
     }, 
     {
@@ -493,18 +455,6 @@
     }, 
     {
       "hnrlbls": [
-        "38-44"
-      ], 
-      "housenumber": "42", 
-      "lat": 50.93046891105539, 
-      "lon": 5.329400935851958, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Bampslaan"
-    }, 
-    {
-      "hnrlbls": [
         "43"
       ], 
       "housenumber": "43", 
@@ -516,21 +466,6 @@
       "street": "Bampslaan"
     }, 
     {
-      "hnrlbls": [
-        "38-44"
-      ], 
-      "housenumber": "44", 
-      "lat": 50.93046891105539, 
-      "lon": 5.329400935851958, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Bampslaan"
-    }, 
-    {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
         "45"
       ], 
@@ -549,18 +484,6 @@
       "housenumber": "47", 
       "lat": 50.930827594814666, 
       "lon": 5.329513130329359, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Bampslaan"
-    }, 
-    {
-      "hnrlbls": [
-        "36-48"
-      ], 
-      "housenumber": "48", 
-      "lat": 50.93044233208807, 
-      "lon": 5.329506943028099, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanGebouw", 
@@ -591,7 +514,7 @@
       "street": "Bampslaan"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1"
       ], 
       "hnrlbls": [
@@ -610,15 +533,15 @@
         "6"
       ], 
       "housenumber": "6", 
-      "lat": 50.929912598893225, 
-      "lon": 5.331410442075253, 
+      "lat": 50.92984707978172, 
+      "lon": 5.331452058480236, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Bampslaan"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2"
       ], 
@@ -646,6 +569,10 @@
       "street": "Bampslaan"
     }, 
     {
+      "apptnrs": [
+        "1.01", 
+        "1.02"
+      ], 
       "hnrlbls": [
         "9"
       ], 

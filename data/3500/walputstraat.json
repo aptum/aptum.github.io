@@ -1,18 +1,20 @@
 {
   "addresses": [
     {
+      "apptnrs": [
+        "2", 
+        "4"
+      ], 
       "busnrs": [
         "1", 
-        "2", 
-        "3", 
-        "4"
+        "3"
       ], 
       "hnrlbls": [
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 50.931309424551635, 
-      "lon": 5.3375151066620505, 
+      "lat": 50.93130942455163, 
+      "lon": 5.33751510666205, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanGebouw", 
@@ -20,38 +22,14 @@
     }, 
     {
       "hnrlbls": [
-        "10"
+        "6-10"
       ], 
       "housenumber": "10", 
-      "lat": 50.93156923038951, 
-      "lon": 5.336360325970546, 
+      "lat": 50.93125033718387, 
+      "lon": 5.336220446058943, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "geinterpoleerdObvWegverbinding", 
-      "street": "Walputstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "9-15"
-      ], 
-      "housenumber": "11", 
-      "lat": 50.93156068294287, 
-      "lon": 5.337080850071206, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Walputstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "129"
-      ], 
-      "housenumber": "129", 
-      "lat": 50.93142622591534, 
-      "lon": 5.337000398205495, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "afgeleidVanStraat", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Walputstraat"
     }, 
     {
@@ -59,11 +37,11 @@
         "9-15"
       ], 
       "housenumber": "13", 
-      "lat": 50.93156068294287, 
-      "lon": 5.337080850071206, 
+      "lat": 50.93170383883306, 
+      "lon": 5.337163900535939, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Walputstraat"
     }, 
     {
@@ -71,11 +49,11 @@
         "9-15"
       ], 
       "housenumber": "15", 
-      "lat": 50.93156068294287, 
-      "lon": 5.337080850071206, 
+      "lat": 50.93170383883306, 
+      "lon": 5.337163900535939, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Walputstraat"
     }, 
     {
@@ -139,9 +117,6 @@
       "street": "Walputstraat"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
         "25"
       ], 
@@ -178,10 +153,13 @@
       "street": "Walputstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "2", 
         "3", 
         "4"
+      ], 
+      "busnrs": [
+        "1"
       ], 
       "hnrlbls": [
         "3"
@@ -195,9 +173,6 @@
       "street": "Walputstraat"
     }, 
     {
-      "busnrs": [
-        "3"
-      ], 
       "hnrlbls": [
         "31"
       ], 
@@ -234,10 +209,12 @@
       "street": "Walputstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
+      "apptnrs": [
         "2", 
         "3"
+      ], 
+      "busnrs": [
+        "1"
       ], 
       "hnrlbls": [
         "35-37"
@@ -263,15 +240,17 @@
       "street": "Walputstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
+      "apptnrs": [
         "3", 
         "4", 
         "5", 
-        "6", 
         "7", 
         "8"
+      ], 
+      "busnrs": [
+        "1", 
+        "2", 
+        "6"
       ], 
       "hnrlbls": [
         "5"
@@ -301,11 +280,11 @@
         "9-15"
       ], 
       "housenumber": "9", 
-      "lat": 50.93156068294287, 
-      "lon": 5.337080850071206, 
+      "lat": 50.93170383883306, 
+      "lon": 5.337163900535939, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Walputstraat"
     }
   ]

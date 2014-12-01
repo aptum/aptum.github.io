@@ -13,7 +13,7 @@
       "street": "Leopoldplein"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "10", 
         "11", 
@@ -39,12 +39,14 @@
       "street": "Leopoldplein"
     }, 
     {
-      "busnrs": [
-        "1", 
+      "apptnrs": [
         "2", 
         "3", 
         "4", 
         "5"
+      ], 
+      "busnrs": [
+        "1"
       ], 
       "hnrlbls": [
         "11"
@@ -70,9 +72,6 @@
       "street": "Leopoldplein"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
         "13"
       ], 
@@ -85,20 +84,23 @@
       "street": "Leopoldplein"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "4", 
+      "apptnrs": [
         "5", 
         "6", 
         "7", 
-        "8", 
-        "9"
+        "8"
+      ], 
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4"
       ], 
       "hnrlbls": [
         "14-18"
       ], 
       "housenumber": "14", 
-      "lat": 50.92747002149363, 
+      "lat": 50.92747002149365, 
       "lon": 5.33488808946059, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
@@ -118,19 +120,11 @@
       "street": "Leopoldplein"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "7"
-      ], 
       "hnrlbls": [
         "14-18"
       ], 
       "housenumber": "16", 
-      "lat": 50.92747002149363, 
+      "lat": 50.92747002149365, 
       "lon": 5.33488808946059, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
@@ -143,28 +137,30 @@
       ], 
       "housenumber": "17", 
       "lat": 50.92791847926527, 
-      "lon": 5.335648415791307, 
+      "lon": 5.335648415791306, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanGebouw", 
       "street": "Leopoldplein"
     }, 
     {
-      "busnrs": [
-        "10", 
+      "apptnrs": [
         "2", 
-        "3", 
         "4", 
         "5", 
         "6", 
         "7", 
         "8"
       ], 
+      "busnrs": [
+        "1", 
+        "3"
+      ], 
       "hnrlbls": [
         "14-18"
       ], 
       "housenumber": "18", 
-      "lat": 50.92747002149363, 
+      "lat": 50.92747002149365, 
       "lon": 5.33488808946059, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
@@ -172,26 +168,14 @@
       "street": "Leopoldplein"
     }, 
     {
-      "busnrs": [
-        "10"
-      ], 
-      "hnrlbls": [
-        "18B"
-      ], 
-      "housenumber": "18B", 
-      "lat": 50.9274526600466, 
-      "lon": 5.334867532279064, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Leopoldplein"
-    }, 
-    {
-      "busnrs": [
+      "apptnrs": [
         "2"
       ], 
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
-        "19-19A"
+        "19"
       ], 
       "housenumber": "19", 
       "lat": 50.92794251828896, 
@@ -202,31 +186,7 @@
       "street": "Leopoldplein"
     }, 
     {
-      "hnrlbls": [
-        "19-19A"
-      ], 
-      "housenumber": "19A", 
-      "lat": 50.92794251828896, 
-      "lon": 5.335567686032169, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Leopoldplein"
-    }, 
-    {
-      "hnrlbls": [
-        "2"
-      ], 
-      "housenumber": "2", 
-      "lat": 50.92717138069573, 
-      "lon": 5.3360769692562435, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "geinterpoleerdObvWegverbinding", 
-      "street": "Leopoldplein"
-    }, 
-    {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3"
@@ -244,30 +204,6 @@
     }, 
     {
       "hnrlbls": [
-        "21B"
-      ], 
-      "housenumber": "21B", 
-      "lat": 50.928015401595864, 
-      "lon": 5.3355162712649555, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Leopoldplein"
-    }, 
-    {
-      "hnrlbls": [
-        "22"
-      ], 
-      "housenumber": "22", 
-      "lat": 50.92754405398139, 
-      "lon": 5.334686055075201, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Leopoldplein"
-    }, 
-    {
-      "hnrlbls": [
         "23"
       ], 
       "housenumber": "23", 
@@ -279,11 +215,13 @@
       "street": "Leopoldplein"
     }, 
     {
-      "busnrs": [
-        "1", 
+      "apptnrs": [
         "2", 
         "3", 
         "4"
+      ], 
+      "busnrs": [
+        "1"
       ], 
       "hnrlbls": [
         "24"
@@ -297,20 +235,23 @@
       "street": "Leopoldplein"
     }, 
     {
-      "busnrs": [
-        "1", 
+      "apptnrs": [
         "10", 
         "11", 
         "12", 
         "13", 
         "14", 
-        "16", 
-        "2", 
         "5", 
         "6", 
         "7", 
         "8", 
         "9"
+      ], 
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4"
       ], 
       "hnrlbls": [
         "1-27"
@@ -324,12 +265,15 @@
       "street": "Leopoldplein"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "2", 
         "3"
       ], 
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
-        "26-26A"
+        "26"
       ], 
       "housenumber": "26", 
       "lat": 50.92770319454249, 
@@ -340,31 +284,23 @@
       "street": "Leopoldplein"
     }, 
     {
-      "hnrlbls": [
-        "26-26A"
-      ], 
-      "housenumber": "26A", 
-      "lat": 50.92770319454249, 
-      "lon": 5.334432713488017, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Leopoldplein"
-    }, 
-    {
-      "busnrs": [
+      "apptnrs": [
         "10", 
         "11", 
-        "12", 
         "13", 
         "14", 
-        "3", 
         "4", 
         "5", 
         "6", 
         "7", 
         "8", 
         "9"
+      ], 
+      "busnrs": [
+        "1", 
+        "12", 
+        "2", 
+        "3"
       ], 
       "hnrlbls": [
         "1-27"
@@ -390,25 +326,26 @@
       "street": "Leopoldplein"
     }, 
     {
-      "busnrs": [
-        "1", 
+      "apptnrs": [
         "10", 
         "11", 
         "12", 
-        "13", 
         "14", 
-        "15", 
-        "16", 
         "17", 
-        "18", 
-        "2", 
-        "3", 
-        "4", 
         "5", 
         "6", 
         "7", 
         "8", 
         "9"
+      ], 
+      "busnrs": [
+        "1", 
+        "13", 
+        "15", 
+        "16", 
+        "2", 
+        "3", 
+        "4"
       ], 
       "hnrlbls": [
         "26-29"
@@ -426,11 +363,11 @@
         "3-5"
       ], 
       "housenumber": "3", 
-      "lat": 50.92769646788619, 
-      "lon": 5.336188799479973, 
+      "lat": 50.92770126317563, 
+      "lon": 5.336228728563524, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Leopoldplein"
     }, 
     {
@@ -438,23 +375,25 @@
         "30"
       ], 
       "housenumber": "30", 
-      "lat": 50.92778502142006, 
-      "lon": 5.334179200871064, 
+      "lat": 50.92778502142007, 
+      "lon": 5.334179200871063, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanGebouw", 
       "street": "Leopoldplein"
     }, 
     {
-      "busnrs": [
-        "1", 
+      "apptnrs": [
         "2", 
         "3", 
         "4", 
         "5", 
         "6", 
-        "7", 
         "8"
+      ], 
+      "busnrs": [
+        "1", 
+        "7"
       ], 
       "hnrlbls": [
         "28-31"
@@ -472,7 +411,7 @@
         "32"
       ], 
       "housenumber": "32", 
-      "lat": 50.92786481026239, 
+      "lat": 50.92786481026237, 
       "lon": 5.334118822242709, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
@@ -492,20 +431,26 @@
       "street": "Leopoldplein"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "10", 
+        "5", 
+        "7"
+      ], 
+      "busnrs": [
+        "1", 
         "2", 
         "3", 
         "4", 
-        "5", 
-        "7"
+        "6", 
+        "8", 
+        "9"
       ], 
       "hnrlbls": [
         "34-36"
       ], 
       "housenumber": "34", 
       "lat": 50.92789112890293, 
-      "lon": 5.333979389060944, 
+      "lon": 5.333979389060945, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanGebouw", 
@@ -518,15 +463,17 @@
         "11", 
         "12", 
         "13", 
+        "2", 
         "3", 
         "4", 
         "5", 
         "6", 
         "7", 
+        "8", 
         "9"
       ], 
       "hnrlbls": [
-        "35-35A"
+        "35"
       ], 
       "housenumber": "35", 
       "lat": 50.92852794800577, 
@@ -537,39 +484,32 @@
       "street": "Leopoldplein"
     }, 
     {
-      "hnrlbls": [
-        "35-35A"
-      ], 
-      "housenumber": "35A", 
-      "lat": 50.92852794800577, 
-      "lon": 5.334300902638018, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Leopoldplein"
-    }, 
-    {
-      "busnrs": [
-        "1", 
+      "apptnrs": [
         "3", 
-        "5", 
         "6", 
         "8", 
         "9"
+      ], 
+      "busnrs": [
+        "1", 
+        "2", 
+        "4", 
+        "5", 
+        "7"
       ], 
       "hnrlbls": [
         "34-36"
       ], 
       "housenumber": "36", 
       "lat": 50.92789112890293, 
-      "lon": 5.333979389060944, 
+      "lon": 5.333979389060945, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanGebouw", 
       "street": "Leopoldplein"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3", 
@@ -579,7 +519,7 @@
         "7"
       ], 
       "hnrlbls": [
-        "37-37A"
+        "37"
       ], 
       "housenumber": "37", 
       "lat": 50.92857243136757, 
@@ -587,18 +527,6 @@
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanGebouw", 
-      "street": "Leopoldplein"
-    }, 
-    {
-      "hnrlbls": [
-        "37-37A"
-      ], 
-      "housenumber": "37A", 
-      "lat": 50.92857243136757, 
-      "lon": 5.334193706278673, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Leopoldplein"
     }, 
     {
@@ -614,30 +542,33 @@
       "street": "Leopoldplein"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
-        "10", 
         "12", 
         "13", 
         "14", 
-        "15", 
         "16", 
         "17", 
-        "18", 
         "2", 
         "3", 
         "4", 
-        "5", 
         "6", 
         "7", 
         "8"
+      ], 
+      "busnrs": [
+        "10", 
+        "11", 
+        "15", 
+        "5", 
+        "9"
       ], 
       "hnrlbls": [
         "39"
       ], 
       "housenumber": "39", 
-      "lat": 50.92856440200097, 
-      "lon": 5.333814436479343, 
+      "lat": 50.92856440317013, 
+      "lon": 5.333814294250323, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanGebouw", 
@@ -645,34 +576,24 @@
     }, 
     {
       "hnrlbls": [
-        "/zn-9838"
-      ], 
-      "housenumber": "39838", 
-      "lat": 50.92789440433024, 
-      "lon": 5.334783459504215, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "afgeleidVanStraat", 
-      "street": "Leopoldplein"
-    }, 
-    {
-      "hnrlbls": [
         "4"
       ], 
       "housenumber": "4", 
-      "lat": 50.9272213416735, 
-      "lon": 5.335970744127583, 
+      "lat": 50.927232668063716, 
+      "lon": 5.335414214814573, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "geinterpoleerdObvWegverbinding", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Leopoldplein"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
+      "apptnrs": [
         "3", 
         "4"
+      ], 
+      "busnrs": [
+        "1", 
+        "2"
       ], 
       "hnrlbls": [
         "40"
@@ -690,11 +611,11 @@
         "41"
       ], 
       "housenumber": "41", 
-      "lat": 50.9283992490352, 
-      "lon": 5.333585424755277, 
+      "lat": 50.92855618298973, 
+      "lon": 5.333884682580818, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "geinterpoleerdObvWegverbinding", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Leopoldplein"
     }, 
     {
@@ -711,22 +632,10 @@
     }, 
     {
       "hnrlbls": [
-        "/zn-9838"
-      ], 
-      "housenumber": "43", 
-      "lat": 50.92789440433024, 
-      "lon": 5.334783459504215, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "afgeleidVanStraat", 
-      "street": "Leopoldplein"
-    }, 
-    {
-      "hnrlbls": [
         "44"
       ], 
       "housenumber": "44", 
-      "lat": 50.928104606720574, 
+      "lat": 50.92810460672056, 
       "lon": 5.333611937616476, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
@@ -746,13 +655,16 @@
       "street": "Leopoldplein"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "2", 
         "3", 
         "4", 
         "5", 
         "6", 
         "7"
+      ], 
+      "busnrs": [
+        "1"
       ], 
       "hnrlbls": [
         "48"
@@ -770,15 +682,15 @@
         "3-5"
       ], 
       "housenumber": "5", 
-      "lat": 50.92769646788619, 
-      "lon": 5.336188799479973, 
+      "lat": 50.92770126317563, 
+      "lon": 5.336228728563524, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Leopoldplein"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "11", 
         "12", 
         "13", 
@@ -796,8 +708,12 @@
         "8", 
         "9"
       ], 
+      "busnrs": [
+        "1", 
+        "10"
+      ], 
       "hnrlbls": [
-        "50-50C"
+        "50"
       ], 
       "housenumber": "50", 
       "lat": 50.9282261592969, 
@@ -808,31 +724,7 @@
       "street": "Leopoldplein"
     }, 
     {
-      "hnrlbls": [
-        "50-50C"
-      ], 
-      "housenumber": "50C", 
-      "lat": 50.9282261592969, 
-      "lon": 5.333304756138033, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Leopoldplein"
-    }, 
-    {
-      "hnrlbls": [
-        "/zn-9838"
-      ], 
-      "housenumber": "55A", 
-      "lat": 50.92789440433024, 
-      "lon": 5.334783459504215, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "afgeleidVanStraat", 
-      "street": "Leopoldplein"
-    }, 
-    {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "10", 
         "11", 
@@ -858,10 +750,6 @@
       "street": "Leopoldplein"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "3"
-      ], 
       "hnrlbls": [
         "7"
       ], 
@@ -878,17 +766,14 @@
         "8"
       ], 
       "housenumber": "8", 
-      "lat": 50.92727892156623, 
-      "lon": 5.335463390833464, 
+      "lat": 50.92723739656625, 
+      "lon": 5.335429532947763, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Leopoldplein"
     }, 
     {
-      "busnrs": [
-        "2"
-      ], 
       "hnrlbls": [
         "9"
       ], 

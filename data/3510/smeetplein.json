@@ -2,19 +2,19 @@
   "addresses": [
     {
       "hnrlbls": [
-        "10"
+        "10-15"
       ], 
       "housenumber": "10", 
-      "lat": 50.946966375877935, 
-      "lon": 5.252611195498305, 
+      "lat": 50.94675045353782, 
+      "lon": 5.25258535066798, 
       "municipality": "Hasselt", 
       "pcode": "3510", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Smeetplein"
     }, 
     {
       "hnrlbls": [
-        "11-15"
+        "10-15"
       ], 
       "housenumber": "11", 
       "lat": 50.94675045353782, 
@@ -38,19 +38,19 @@
     }, 
     {
       "hnrlbls": [
-        "13"
+        "10-15"
       ], 
       "housenumber": "13", 
-      "lat": 50.94669243006563, 
-      "lon": 5.25288907618209, 
+      "lat": 50.94675045353782, 
+      "lon": 5.25258535066798, 
       "municipality": "Hasselt", 
       "pcode": "3510", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Smeetplein"
     }, 
     {
       "hnrlbls": [
-        "11-15"
+        "10-15"
       ], 
       "housenumber": "14", 
       "lat": 50.94675045353782, 
@@ -62,7 +62,7 @@
     }, 
     {
       "hnrlbls": [
-        "11-15"
+        "10-15"
       ], 
       "housenumber": "15", 
       "lat": 50.94675045353782, 
@@ -100,19 +100,13 @@
       "apptnrs": [
         "1.01", 
         "1.02", 
+        "1.03", 
         "2.01", 
         "2.02", 
         "2.03"
       ], 
-      "busnrs": [
-        "101", 
-        "102", 
-        "201", 
-        "202", 
-        "203"
-      ], 
       "hnrlbls": [
-        "2-202"
+        "2-6"
       ], 
       "housenumber": "3", 
       "lat": 50.94713940046976, 
@@ -129,15 +123,8 @@
         "2.01", 
         "2.02"
       ], 
-      "busnrs": [
-        "101", 
-        "102", 
-        "201", 
-        "202"
-      ], 
       "hnrlbls": [
-        "6-203", 
-        "6"
+        "6-9"
       ], 
       "housenumber": "6", 
       "lat": 50.9471822083119, 
@@ -149,14 +136,38 @@
     }, 
     {
       "hnrlbls": [
-        "7"
+        "6-9"
       ], 
       "housenumber": "7", 
-      "lat": 50.9469133334044, 
-      "lon": 5.253053338554742, 
+      "lat": 50.9471822083119, 
+      "lon": 5.252637038871402, 
       "municipality": "Hasselt", 
       "pcode": "3510", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Smeetplein"
+    }, 
+    {
+      "hnrlbls": [
+        "6-9"
+      ], 
+      "housenumber": "8", 
+      "lat": 50.9471822083119, 
+      "lon": 5.252637038871402, 
+      "municipality": "Hasselt", 
+      "pcode": "3510", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Smeetplein"
+    }, 
+    {
+      "hnrlbls": [
+        "6-9"
+      ], 
+      "housenumber": "9", 
+      "lat": 50.9471822083119, 
+      "lon": 5.252637038871402, 
+      "municipality": "Hasselt", 
+      "pcode": "3510", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Smeetplein"
     }
   ]

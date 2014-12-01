@@ -2,14 +2,14 @@
   "addresses": [
     {
       "hnrlbls": [
-        "8-10"
+        "8-12"
       ], 
       "housenumber": "10", 
-      "lat": 50.923273513275284, 
-      "lon": 5.333394622614003, 
+      "lat": 50.92427103767821, 
+      "lon": 5.33377913495753, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Kerkhofstraat"
     }, 
     {
@@ -134,7 +134,7 @@
     }, 
     {
       "hnrlbls": [
-        "12"
+        "8-12"
       ], 
       "housenumber": "12", 
       "lat": 50.92427103767821, 
@@ -210,7 +210,7 @@
       ], 
       "housenumber": "2", 
       "lat": 50.92443454701987, 
-      "lon": 5.333912792208932, 
+      "lon": 5.333912792208931, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanGebouw", 
@@ -221,11 +221,11 @@
         "20"
       ], 
       "housenumber": "20", 
-      "lat": 50.923942895224215, 
-      "lon": 5.333648491882707, 
+      "lat": 50.92387121268882, 
+      "lon": 5.333794518620697, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Kerkhofstraat"
     }, 
     {
@@ -290,18 +290,6 @@
     }, 
     {
       "hnrlbls": [
-        "2-302"
-      ], 
-      "housenumber": "302", 
-      "lat": 50.922347416504735, 
-      "lon": 5.3329167251139475, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Kerkhofstraat"
-    }, 
-    {
-      "hnrlbls": [
         "32"
       ], 
       "housenumber": "32", 
@@ -337,11 +325,11 @@
       "street": "Kerkhofstraat"
     }, 
     {
+      "apptnrs": [
+        "2"
+      ], 
       "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4"
+        "1"
       ], 
       "hnrlbls": [
         "35"
@@ -416,6 +404,18 @@
     }, 
     {
       "hnrlbls": [
+        "40"
+      ], 
+      "housenumber": "40", 
+      "lat": 50.92315109103664, 
+      "lon": 5.333315296535464, 
+      "municipality": "Hasselt", 
+      "pcode": "3500", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Kerkhofstraat"
+    }, 
+    {
+      "hnrlbls": [
         "41"
       ], 
       "housenumber": "41", 
@@ -455,8 +455,8 @@
         "46"
       ], 
       "housenumber": "46", 
-      "lat": 50.92305451598673, 
-      "lon": 5.333088149943829, 
+      "lat": 50.92305397901008, 
+      "lon": 5.333087854428783, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanGebouw", 
@@ -551,11 +551,11 @@
         "59"
       ], 
       "housenumber": "59", 
-      "lat": 50.92060833415959, 
-      "lon": 5.3305987658879275, 
+      "lat": 50.92111037274973, 
+      "lon": 5.331121234406739, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "geinterpoleerdObvWegverbinding", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Kerkhofstraat"
     }, 
     {
@@ -587,26 +587,23 @@
         "61"
       ], 
       "housenumber": "61", 
-      "lat": 50.921937762829174, 
-      "lon": 5.331577571198679, 
+      "lat": 50.92104504072238, 
+      "lon": 5.331085189549121, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "afgeleidVanStraat", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Kerkhofstraat"
     }, 
     {
-      "apptnrs": [
-        "1.01"
-      ], 
       "busnrs": [
-        "101"
+        "1.01"
       ], 
       "hnrlbls": [
         "62"
       ], 
       "housenumber": "62", 
-      "lat": 50.92201489385772, 
-      "lon": 5.3324763617267115, 
+      "lat": 50.92201489385771, 
+      "lon": 5.332476361726711, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanGebouw", 
@@ -617,23 +614,16 @@
         "0.02", 
         "1.01", 
         "1.02", 
+        "2.01", 
         "2.02", 
         "3.01", 
         "3.02"
       ], 
       "busnrs": [
-        "0", 
-        "001", 
-        "02", 
-        "101", 
-        "102", 
-        "201", 
-        "202", 
-        "301", 
-        "302"
+        "0.01"
       ], 
       "hnrlbls": [
-        "2-302"
+        "2-64"
       ], 
       "housenumber": "64", 
       "lat": 50.922347416504735, 
@@ -644,7 +634,7 @@
       "street": "Kerkhofstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2"
       ], 
@@ -652,11 +642,11 @@
         "75"
       ], 
       "housenumber": "75", 
-      "lat": 50.92046924583433, 
-      "lon": 5.330095411281711, 
+      "lat": 50.92041207699713, 
+      "lon": 5.329896826532502, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "geinterpoleerdObvWegverbinding", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Kerkhofstraat"
     }, 
     {
@@ -664,43 +654,43 @@
         "77"
       ], 
       "housenumber": "77", 
-      "lat": 50.9203542475584, 
-      "lon": 5.329515323410779, 
+      "lat": 50.92033656608166, 
+      "lon": 5.32978633227927, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "geinterpoleerdObvWegverbinding", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Kerkhofstraat"
     }, 
     {
       "hnrlbls": [
-        "8-10"
+        "8-12"
       ], 
       "housenumber": "8", 
-      "lat": 50.923273513275284, 
-      "lon": 5.333394622614003, 
+      "lat": 50.92427103767821, 
+      "lon": 5.33377913495753, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Kerkhofstraat"
     }, 
     {
       "apptnrs": [
-        "0.01", 
-        "0.02", 
-        "1.01", 
-        "1.02", 
-        "2.01", 
-        "2.02"
+        "0.1", 
+        "0.2", 
+        "1.1", 
+        "1.2", 
+        "2.1", 
+        "2.2"
       ], 
       "hnrlbls": [
-        "80"
+        "3-80"
       ], 
       "housenumber": "80", 
-      "lat": 50.922014733805746, 
-      "lon": 5.33255060416641, 
+      "lat": 50.92176859874125, 
+      "lon": 5.332954037250882, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Kerkhofstraat"
     }, 
     {
@@ -756,7 +746,7 @@
         "92"
       ], 
       "housenumber": "92", 
-      "lat": 50.92127278538392, 
+      "lat": 50.921272785383934, 
       "lon": 5.332024604598323, 
       "municipality": "Hasselt", 
       "pcode": "3500", 

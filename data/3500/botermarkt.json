@@ -25,7 +25,7 @@
       "street": "Botermarkt"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1"
       ], 
       "hnrlbls": [
@@ -52,7 +52,7 @@
       "street": "Botermarkt"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3"
@@ -69,7 +69,7 @@
       "street": "Botermarkt"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3"
@@ -110,9 +110,8 @@
       "street": "Botermarkt"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "3"
+      "apptnrs": [
+        "1"
       ], 
       "hnrlbls": [
         "18"
@@ -138,8 +137,12 @@
       "street": "Botermarkt"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "3"
+      ], 
+      "busnrs": [
+        "1", 
+        "2"
       ], 
       "hnrlbls": [
         "2"
@@ -157,11 +160,11 @@
         "20"
       ], 
       "housenumber": "20", 
-      "lat": 50.93070767098933, 
-      "lon": 5.338664366037792, 
+      "lat": 50.93074418672359, 
+      "lon": 5.338575355467877, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Botermarkt"
     }, 
     {
@@ -186,18 +189,6 @@
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanGebouw", 
-      "street": "Botermarkt"
-    }, 
-    {
-      "hnrlbls": [
-        "22B"
-      ], 
-      "housenumber": "22B", 
-      "lat": 50.93067377600293, 
-      "lon": 5.338708192136068, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Botermarkt"
     }, 
     {
@@ -261,18 +252,15 @@
       "street": "Botermarkt"
     }, 
     {
-      "busnrs": [
-        "3"
-      ], 
       "hnrlbls": [
         "3"
       ], 
       "housenumber": "3", 
-      "lat": 50.93060702240541, 
-      "lon": 5.338082577005339, 
+      "lat": 50.93050083687523, 
+      "lon": 5.338258347848343, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "geinterpoleerdObvWegverbinding", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Botermarkt"
     }, 
     {
@@ -336,10 +324,12 @@
       "street": "Botermarkt"
     }, 
     {
-      "busnrs": [
-        "1", 
+      "apptnrs": [
         "2", 
         "3"
+      ], 
+      "busnrs": [
+        "1"
       ], 
       "hnrlbls": [
         "9"

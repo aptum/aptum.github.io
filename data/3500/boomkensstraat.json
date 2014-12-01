@@ -29,7 +29,7 @@
         "100"
       ], 
       "housenumber": "100", 
-      "lat": 50.92491737349559, 
+      "lat": 50.92491737349561, 
       "lon": 5.330904781537663, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
@@ -85,11 +85,13 @@
       "street": "Boomkensstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "2", 
         "3", 
-        "4", 
-        "5"
+        "4"
+      ], 
+      "busnrs": [
+        "1"
       ], 
       "hnrlbls": [
         "105"
@@ -115,7 +117,7 @@
       "street": "Boomkensstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3", 
@@ -147,7 +149,7 @@
     }, 
     {
       "hnrlbls": [
-        "11-11A"
+        "11"
       ], 
       "housenumber": "11", 
       "lat": 50.92800766771424, 
@@ -158,7 +160,7 @@
       "street": "Boomkensstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3", 
@@ -176,9 +178,8 @@
       "street": "Boomkensstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2"
+      "apptnrs": [
+        "1"
       ], 
       "hnrlbls": [
         "111"
@@ -192,7 +193,7 @@
       "street": "Boomkensstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3", 
@@ -210,7 +211,7 @@
       "street": "Boomkensstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3"
@@ -227,7 +228,7 @@
       "street": "Boomkensstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2"
       ], 
@@ -243,7 +244,7 @@
       "street": "Boomkensstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3"
@@ -293,18 +294,6 @@
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanGebouw", 
-      "street": "Boomkensstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "11-11A"
-      ], 
-      "housenumber": "11A", 
-      "lat": 50.92800766771424, 
-      "lon": 5.331918147359861, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Boomkensstraat"
     }, 
     {
@@ -416,10 +405,12 @@
       "street": "Boomkensstraat"
     }, 
     {
+      "apptnrs": [
+        "0.01", 
+        "0.02"
+      ], 
       "busnrs": [
-        "1", 
-        "2", 
-        "3"
+        "1.01"
       ], 
       "hnrlbls": [
         "128"
@@ -490,18 +481,6 @@
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanGebouw", 
-      "street": "Boomkensstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "133"
-      ], 
-      "housenumber": "133", 
-      "lat": 50.92402687591314, 
-      "lon": 5.33004175162864, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Boomkensstraat"
     }, 
     {
@@ -578,6 +557,18 @@
     }, 
     {
       "hnrlbls": [
+        "140-142"
+      ], 
+      "housenumber": "140", 
+      "lat": 50.92368850454454, 
+      "lon": 5.3304241212621815, 
+      "municipality": "Hasselt", 
+      "pcode": "3500", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Boomkensstraat"
+    }, 
+    {
+      "hnrlbls": [
         "141"
       ], 
       "housenumber": "141", 
@@ -586,6 +577,18 @@
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanGebouw", 
+      "street": "Boomkensstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "140-142"
+      ], 
+      "housenumber": "142", 
+      "lat": 50.92368850454454, 
+      "lon": 5.3304241212621815, 
+      "municipality": "Hasselt", 
+      "pcode": "3500", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Boomkensstraat"
     }, 
     {
@@ -661,12 +664,15 @@
       "street": "Boomkensstraat"
     }, 
     {
+      "apptnrs": [
+        "1.01", 
+        "5"
+      ], 
       "busnrs": [
         "1", 
         "2", 
         "3", 
-        "4", 
-        "5"
+        "4"
       ], 
       "hnrlbls": [
         "149"
@@ -704,7 +710,7 @@
       "street": "Boomkensstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3", 
@@ -771,7 +777,7 @@
       "street": "Boomkensstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2"
       ], 
@@ -799,7 +805,7 @@
       "street": "Boomkensstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3"
@@ -852,7 +858,7 @@
       "street": "Boomkensstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3"
@@ -869,9 +875,6 @@
       "street": "Boomkensstraat"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
         "162"
       ], 
@@ -908,7 +911,7 @@
       "street": "Boomkensstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3", 
@@ -943,14 +946,14 @@
     }, 
     {
       "hnrlbls": [
-        "168"
+        "141-168"
       ], 
       "housenumber": "168", 
-      "lat": 50.92292243930061, 
-      "lon": 5.330832701216808, 
+      "lat": 50.92283144791543, 
+      "lon": 5.330998672509844, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Boomkensstraat"
     }, 
     {
@@ -978,33 +981,12 @@
       "street": "Boomkensstraat"
     }, 
     {
-      "apptnrs": [
-        "0.01", 
-        "0.02", 
-        "0.03", 
-        "1.01", 
-        "1.02", 
-        "2.01", 
-        "2.02", 
-        "3.01", 
-        "3.02"
-      ], 
-      "busnrs": [
-        "001", 
-        "002", 
-        "003", 
-        "101", 
-        "201", 
-        "203", 
-        "301", 
-        "302"
-      ], 
       "hnrlbls": [
-        "125-170"
+        "143-170"
       ], 
       "housenumber": "170", 
-      "lat": 50.922847879456405, 
-      "lon": 5.330715960668004, 
+      "lat": 50.9228478806218, 
+      "lon": 5.330715818456233, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanGebouw", 
@@ -1071,7 +1053,7 @@
       "street": "Boomkensstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3", 
@@ -1142,8 +1124,8 @@
         "181"
       ], 
       "housenumber": "181", 
-      "lat": 50.9227940079053, 
-      "lon": 5.329587923722669, 
+      "lat": 50.922808545298324, 
+      "lon": 5.329459356193009, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanPerceelGrb", 
@@ -1174,7 +1156,7 @@
       "street": "Boomkensstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3"
@@ -1192,18 +1174,18 @@
     }, 
     {
       "hnrlbls": [
-        "19"
+        "19-23"
       ], 
       "housenumber": "19", 
-      "lat": 50.927265013557, 
-      "lon": 5.3316972004479055, 
+      "lat": 50.927218531790885, 
+      "lon": 5.331609900782835, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Boomkensstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2"
       ], 
@@ -1267,9 +1249,6 @@
       "street": "Boomkensstraat"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
         "195"
       ], 
@@ -1306,11 +1285,13 @@
       "street": "Boomkensstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
-        "2", 
         "3", 
         "4"
+      ], 
+      "busnrs": [
+        "2"
       ], 
       "hnrlbls": [
         "199"
@@ -1385,6 +1366,18 @@
     }, 
     {
       "hnrlbls": [
+        "204"
+      ], 
+      "housenumber": "204", 
+      "lat": 50.92181966725444, 
+      "lon": 5.329807195834377, 
+      "municipality": "Hasselt", 
+      "pcode": "3500", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Boomkensstraat"
+    }, 
+    {
+      "hnrlbls": [
         "205"
       ], 
       "housenumber": "205", 
@@ -1396,7 +1389,7 @@
       "street": "Boomkensstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3", 
@@ -1419,11 +1412,23 @@
     }, 
     {
       "hnrlbls": [
+        "209"
+      ], 
+      "housenumber": "209", 
+      "lat": 50.921903275276705, 
+      "lon": 5.329148095737255, 
+      "municipality": "Hasselt", 
+      "pcode": "3500", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Boomkensstraat"
+    }, 
+    {
+      "hnrlbls": [
         "21"
       ], 
       "housenumber": "21", 
       "lat": 50.92720315340666, 
-      "lon": 5.331643440238142, 
+      "lon": 5.3316434402381425, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanGebouw", 
@@ -1491,26 +1496,14 @@
     }, 
     {
       "hnrlbls": [
-        "223"
-      ], 
-      "housenumber": "223", 
-      "lat": 50.920841985461045, 
-      "lon": 5.328698961843479, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Boomkensstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "23"
+        "19-23"
       ], 
       "housenumber": "23", 
-      "lat": 50.92718563261668, 
-      "lon": 5.331620320634362, 
+      "lat": 50.927218531790885, 
+      "lon": 5.331609900782835, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Boomkensstraat"
     }, 
     {
@@ -1538,11 +1531,14 @@
       "street": "Boomkensstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "2", 
         "3", 
         "4", 
         "5"
+      ], 
+      "busnrs": [
+        "1"
       ], 
       "hnrlbls": [
         "249"
@@ -1592,7 +1588,7 @@
       "street": "Boomkensstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3", 
@@ -1603,26 +1599,14 @@
       ], 
       "housenumber": "255", 
       "lat": 50.919780448698276, 
-      "lon": 5.327542694030916, 
+      "lon": 5.327542694030915, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanGebouw", 
       "street": "Boomkensstraat"
     }, 
     {
-      "hnrlbls": [
-        "256"
-      ], 
-      "housenumber": "256", 
-      "lat": 50.91989116854472, 
-      "lon": 5.3282404459240045, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
-      "street": "Boomkensstraat"
-    }, 
-    {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3", 
@@ -1634,14 +1618,14 @@
       ], 
       "housenumber": "257", 
       "lat": 50.919780448698276, 
-      "lon": 5.327542694030916, 
+      "lon": 5.327542694030915, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanGebouw", 
       "street": "Boomkensstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2"
       ], 
@@ -1693,7 +1677,7 @@
       "street": "Boomkensstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2"
       ], 
@@ -1745,7 +1729,7 @@
       "street": "Boomkensstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3"
@@ -1755,18 +1739,19 @@
       ], 
       "housenumber": "277", 
       "lat": 50.919334509962404, 
-      "lon": 5.326511406601573, 
+      "lon": 5.326511406601574, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanGebouw", 
       "street": "Boomkensstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "10", 
         "11", 
         "12", 
+        "2", 
         "3", 
         "4", 
         "5", 
@@ -1799,9 +1784,6 @@
       "street": "Boomkensstraat"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
         "279-281"
       ], 
@@ -1850,10 +1832,12 @@
       "street": "Boomkensstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
-        "2", 
         "3"
+      ], 
+      "busnrs": [
+        "2"
       ], 
       "hnrlbls": [
         "291"
@@ -1967,7 +1951,7 @@
         "303"
       ], 
       "housenumber": "303", 
-      "lat": 50.91851111772183, 
+      "lat": 50.918511117721806, 
       "lon": 5.325716777099463, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
@@ -1999,7 +1983,7 @@
       "street": "Boomkensstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3", 
@@ -2048,11 +2032,11 @@
         "326"
       ], 
       "housenumber": "326", 
-      "lat": 50.91909437342097, 
-      "lon": 5.3272287170631865, 
+      "lat": 50.91906334283724, 
+      "lon": 5.327197504697472, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Boomkensstraat"
     }, 
     {
@@ -2096,7 +2080,7 @@
         "338"
       ], 
       "housenumber": "338", 
-      "lat": 50.918814873631455, 
+      "lat": 50.91881487363144, 
       "lon": 5.32692021134414, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
@@ -2104,11 +2088,10 @@
       "street": "Boomkensstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "10", 
         "11", 
         "12", 
-        "2", 
         "3", 
         "4", 
         "5", 
@@ -2116,6 +2099,10 @@
         "7", 
         "8", 
         "9"
+      ], 
+      "busnrs": [
+        "1", 
+        "2"
       ], 
       "hnrlbls": [
         "34-40"
@@ -2253,11 +2240,11 @@
         "360"
       ], 
       "housenumber": "360", 
-      "lat": 50.91836777873312, 
-      "lon": 5.326316589077078, 
+      "lat": 50.918331932731185, 
+      "lon": 5.326379714817779, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Boomkensstraat"
     }, 
     {
@@ -2285,7 +2272,7 @@
       "street": "Boomkensstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2"
       ], 
@@ -2301,7 +2288,7 @@
       "street": "Boomkensstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3", 
@@ -2382,11 +2369,13 @@
       "street": "Boomkensstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
-        "2", 
-        "3", 
         "4"
+      ], 
+      "busnrs": [
+        "2", 
+        "3"
       ], 
       "hnrlbls": [
         "43"
@@ -2448,10 +2437,11 @@
       "street": "Boomkensstraat"
     }, 
     {
+      "apptnrs": [
+        "2"
+      ], 
       "busnrs": [
-        "1", 
-        "2", 
-        "5"
+        "1"
       ], 
       "hnrlbls": [
         "5"
@@ -2489,7 +2479,7 @@
       "street": "Boomkensstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3"
@@ -2506,10 +2496,12 @@
       "street": "Boomkensstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
+      "apptnrs": [
         "2", 
         "3"
+      ], 
+      "busnrs": [
+        "1"
       ], 
       "hnrlbls": [
         "53-55"
@@ -2583,7 +2575,7 @@
       "street": "Boomkensstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2"
       ], 
@@ -2599,7 +2591,7 @@
       "street": "Boomkensstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1"
       ], 
       "hnrlbls": [
@@ -2626,7 +2618,7 @@
       "street": "Boomkensstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3", 
@@ -2657,7 +2649,7 @@
       "street": "Boomkensstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3"
@@ -2674,9 +2666,6 @@
       "street": "Boomkensstraat"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
         "67"
       ], 
@@ -2686,18 +2675,6 @@
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanGebouw", 
-      "street": "Boomkensstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "/zn-676"
-      ], 
-      "housenumber": "676", 
-      "lat": 50.92392111742085, 
-      "lon": 5.330133888049537, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "afgeleidVanStraat", 
       "street": "Boomkensstraat"
     }, 
     {
@@ -2869,14 +2846,16 @@
       "street": "Boomkensstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
+      "apptnrs": [
         "2", 
         "3", 
         "4", 
         "5", 
         "6", 
         "7"
+      ], 
+      "busnrs": [
+        "1"
       ], 
       "hnrlbls": [
         "80"
@@ -2914,7 +2893,7 @@
       "street": "Boomkensstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2"
       ], 
@@ -3055,7 +3034,7 @@
       ], 
       "housenumber": "94", 
       "lat": 50.92505137441015, 
-      "lon": 5.330931712201232, 
+      "lon": 5.330931712201233, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanGebouw", 
@@ -3098,7 +3077,7 @@
       "street": "Boomkensstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1"
       ], 
       "hnrlbls": [

@@ -49,14 +49,11 @@
       "street": "Gaarveldstraat"
     }, 
     {
-      "apptnrs": [
-        "1.01"
-      ], 
       "hnrlbls": [
         "102"
       ], 
       "housenumber": "102", 
-      "lat": 50.925703328427524, 
+      "lat": 50.92570332842754, 
       "lon": 5.327360960252057, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
@@ -100,7 +97,7 @@
       "street": "Gaarveldstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2"
       ], 
@@ -113,22 +110,6 @@
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanGebouw", 
-      "street": "Gaarveldstraat"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
-      "hnrlbls": [
-        "106B"
-      ], 
-      "housenumber": "106B", 
-      "lat": 50.92564625151898, 
-      "lon": 5.326026682106475, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Gaarveldstraat"
     }, 
     {
@@ -180,7 +161,7 @@
       "street": "Gaarveldstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1"
       ], 
       "hnrlbls": [
@@ -195,9 +176,6 @@
       "street": "Gaarveldstraat"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
         "111"
       ], 
@@ -214,8 +192,8 @@
         "111A"
       ], 
       "housenumber": "111A", 
-      "lat": 50.92599315481768, 
-      "lon": 5.325367772534129, 
+      "lat": 50.92601128466774, 
+      "lon": 5.325404557149057, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanPerceelGrb", 
@@ -402,7 +380,7 @@
       "street": "Gaarveldstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2"
       ], 
@@ -455,22 +433,10 @@
     }, 
     {
       "hnrlbls": [
-        "169"
-      ], 
-      "housenumber": "169", 
-      "lat": 50.926016503621895, 
-      "lon": 5.327563803156465, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "afgeleidVanStraat", 
-      "street": "Gaarveldstraat"
-    }, 
-    {
-      "hnrlbls": [
         "17"
       ], 
       "housenumber": "17", 
-      "lat": 50.92688334964694, 
+      "lat": 50.926883349646964, 
       "lon": 5.330637865997101, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
@@ -650,11 +616,11 @@
         "35"
       ], 
       "housenumber": "35", 
-      "lat": 50.926643318858424, 
-      "lon": 5.329231949888059, 
+      "lat": 50.926815173913226, 
+      "lon": 5.3294119994131925, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Gaarveldstraat"
     }, 
     {
@@ -670,7 +636,7 @@
       "street": "Gaarveldstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3", 
@@ -701,13 +667,15 @@
       "street": "Gaarveldstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3", 
         "4", 
-        "5", 
         "6"
+      ], 
+      "busnrs": [
+        "5"
       ], 
       "hnrlbls": [
         "38-40"
@@ -733,8 +701,7 @@
       "street": "Gaarveldstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
+      "apptnrs": [
         "2", 
         "3", 
         "4", 
@@ -742,6 +709,9 @@
         "6", 
         "7", 
         "8"
+      ], 
+      "busnrs": [
+        "1"
       ], 
       "hnrlbls": [
         "13-47"
@@ -827,9 +797,8 @@
       "street": "Gaarveldstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2"
+      "apptnrs": [
+        "1"
       ], 
       "hnrlbls": [
         "55"
@@ -868,7 +837,7 @@
     }, 
     {
       "hnrlbls": [
-        "58"
+        "2-58"
       ], 
       "housenumber": "58", 
       "lat": 50.92633701554204, 
@@ -903,12 +872,12 @@
       "street": "Gaarveldstraat"
     }, 
     {
+      "apptnrs": [
+        "3"
+      ], 
       "busnrs": [
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "7"
+        "1", 
+        "2"
       ], 
       "hnrlbls": [
         "56-60"
@@ -934,14 +903,16 @@
       "street": "Gaarveldstraat"
     }, 
     {
+      "apptnrs": [
+        "4", 
+        "6", 
+        "7"
+      ], 
       "busnrs": [
         "1", 
         "2", 
         "3", 
-        "4", 
-        "5", 
-        "6", 
-        "7"
+        "5"
       ], 
       "hnrlbls": [
         "62"
@@ -1007,17 +978,14 @@
         "68A"
       ], 
       "housenumber": "68A", 
-      "lat": 50.92607718098662, 
-      "lon": 5.328675553700195, 
+      "lat": 50.92626517882589, 
+      "lon": 5.328475706006897, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "geinterpoleerdObvWegverbinding", 
       "street": "Gaarveldstraat"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
         "69-69A"
       ], 
@@ -1046,8 +1014,8 @@
         "69B"
       ], 
       "housenumber": "69B", 
-      "lat": 50.9259240640925, 
-      "lon": 5.3272582201045235, 
+      "lat": 50.92607486125101, 
+      "lon": 5.327143950113552, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanPerceelGrb", 
@@ -1066,10 +1034,9 @@
       "street": "Gaarveldstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
-        "2", 
-        "3"
+        "2"
       ], 
       "hnrlbls": [
         "70"
@@ -1095,8 +1062,11 @@
       "street": "Gaarveldstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "2"
+      ], 
+      "busnrs": [
+        "1"
       ], 
       "hnrlbls": [
         "72"
@@ -1171,6 +1141,7 @@
     }, 
     {
       "apptnrs": [
+        "1.01", 
         "2.01"
       ], 
       "hnrlbls": [
@@ -1185,7 +1156,7 @@
       "street": "Gaarveldstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3", 
@@ -1208,7 +1179,7 @@
         "8"
       ], 
       "housenumber": "8", 
-      "lat": 50.92663633267802, 
+      "lat": 50.92663633267804, 
       "lon": 5.331105912943248, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
@@ -1228,15 +1199,17 @@
       "street": "Gaarveldstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
+      "apptnrs": [
         "2", 
         "3", 
         "4", 
         "5"
       ], 
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
-        "82-82I"
+        "82"
       ], 
       "housenumber": "82", 
       "lat": 50.925930058771144, 
@@ -1244,18 +1217,6 @@
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanGebouw", 
-      "street": "Gaarveldstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "82-82I"
-      ], 
-      "housenumber": "82I", 
-      "lat": 50.925930058771144, 
-      "lon": 5.327999154302848, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Gaarveldstraat"
     }, 
     {
@@ -1283,9 +1244,11 @@
       "street": "Gaarveldstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
+      "apptnrs": [
         "2"
+      ], 
+      "busnrs": [
+        "1"
       ], 
       "hnrlbls": [
         "85"
@@ -1335,10 +1298,12 @@
       "street": "Gaarveldstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
+      "apptnrs": [
         "2", 
         "3"
+      ], 
+      "busnrs": [
+        "1"
       ], 
       "hnrlbls": [
         "89"
@@ -1356,7 +1321,7 @@
         "89A"
       ], 
       "housenumber": "89A", 
-      "lat": 50.92595376334423, 
+      "lat": 50.92595376334422, 
       "lon": 5.326218731798879, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
@@ -1368,7 +1333,7 @@
         "9"
       ], 
       "housenumber": "9", 
-      "lat": 50.92687334874305, 
+      "lat": 50.92687334874306, 
       "lon": 5.330881900454309, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
@@ -1472,7 +1437,7 @@
       "street": "Gaarveldstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1"
       ], 
       "hnrlbls": [

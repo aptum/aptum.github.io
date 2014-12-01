@@ -1,22 +1,26 @@
 {
   "addresses": [
     {
-      "busnrs": [
+      "apptnrs": [
         "10", 
         "11", 
         "12", 
         "13", 
-        "14", 
-        "15", 
         "16", 
         "17", 
-        "2", 
         "3", 
         "5", 
-        "6", 
-        "7", 
         "8", 
         "9"
+      ], 
+      "busnrs": [
+        "1", 
+        "14", 
+        "15", 
+        "2", 
+        "4", 
+        "6", 
+        "7"
       ], 
       "hnrlbls": [
         "1-28A"
@@ -66,7 +70,7 @@
       "street": "Stadsomvaart"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3"
@@ -108,7 +112,7 @@
     }, 
     {
       "hnrlbls": [
-        "11"
+        "11-87"
       ], 
       "housenumber": "11", 
       "lat": 50.92602646483071, 
@@ -311,7 +315,7 @@
       "street": "Stadsomvaart"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1"
       ], 
       "hnrlbls": [
@@ -326,10 +330,12 @@
       "street": "Stadsomvaart"
     }, 
     {
-      "busnrs": [
-        "1", 
+      "apptnrs": [
         "2", 
         "3"
+      ], 
+      "busnrs": [
+        "1"
       ], 
       "hnrlbls": [
         "140"
@@ -439,9 +445,6 @@
       "street": "Stadsomvaart"
     }, 
     {
-      "busnrs": [
-        "5"
-      ], 
       "hnrlbls": [
         "157"
       ], 
@@ -466,15 +469,16 @@
       "street": "Stadsomvaart"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
-        "3", 
-        "4", 
         "5", 
         "6", 
-        "7", 
-        "8"
+        "7"
+      ], 
+      "busnrs": [
+        "3", 
+        "4"
       ], 
       "hnrlbls": [
         "161"
@@ -488,7 +492,7 @@
       "street": "Stadsomvaart"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2"
       ], 
@@ -516,9 +520,11 @@
       "street": "Stadsomvaart"
     }, 
     {
-      "busnrs": [
-        "1", 
+      "apptnrs": [
         "2"
+      ], 
+      "busnrs": [
+        "1"
       ], 
       "hnrlbls": [
         "18"
@@ -532,9 +538,6 @@
       "street": "Stadsomvaart"
     }, 
     {
-      "busnrs": [
-        "23"
-      ], 
       "hnrlbls": [
         "1-28A"
       ], 
@@ -559,9 +562,6 @@
       "street": "Stadsomvaart"
     }, 
     {
-      "busnrs": [
-        "2"
-      ], 
       "hnrlbls": [
         "5"
       ], 
@@ -623,29 +623,29 @@
     }, 
     {
       "apptnrs": [
-        "0.01", 
-        "0.02", 
-        "0.03", 
-        "0.04", 
-        "1.01", 
-        "1.02", 
-        "1.03", 
-        "1.04", 
-        "1.05", 
-        "2.01", 
-        "2.02", 
-        "2.03", 
-        "2.04", 
-        "2.05", 
-        "3.01", 
-        "3.02", 
-        "3.03", 
-        "3.04", 
-        "4.01", 
-        "4.02"
+        "0.1", 
+        "0.2", 
+        "0.3", 
+        "0.4", 
+        "1.1", 
+        "1.2", 
+        "1.3", 
+        "1.4", 
+        "1.5", 
+        "2.1", 
+        "2.2", 
+        "2.3", 
+        "2.4", 
+        "2.5", 
+        "3.1", 
+        "3.2", 
+        "3.3", 
+        "3.4", 
+        "4.1", 
+        "4.2"
       ], 
       "hnrlbls": [
-        "74-76"
+        "74"
       ], 
       "housenumber": "74", 
       "lat": 50.92690948721339, 
@@ -657,17 +657,53 @@
     }, 
     {
       "apptnrs": [
-        "2.02"
+        "0.1", 
+        "0.2", 
+        "1.1", 
+        "1.2", 
+        "1.3", 
+        "2.1", 
+        "2.2", 
+        "2.3", 
+        "3.1", 
+        "3.2", 
+        "3.3"
       ], 
       "hnrlbls": [
-        "74-76"
+        "76A-76B"
       ], 
-      "housenumber": "76", 
-      "lat": 50.92690948721339, 
-      "lon": 5.342678711158872, 
+      "housenumber": "76A", 
+      "lat": 50.92702530117152, 
+      "lon": 5.342697759711604, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Stadsomvaart"
+    }, 
+    {
+      "apptnrs": [
+        "0.1", 
+        "0.2", 
+        "0.3", 
+        "1.1", 
+        "1.2", 
+        "1.3", 
+        "2.1", 
+        "2.2", 
+        "2.3", 
+        "3.1", 
+        "3.2", 
+        "3.3"
+      ], 
+      "hnrlbls": [
+        "76A-76B"
+      ], 
+      "housenumber": "76B", 
+      "lat": 50.92702530117152, 
+      "lon": 5.342697759711604, 
+      "municipality": "Hasselt", 
+      "pcode": "3500", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Stadsomvaart"
     }, 
     {
@@ -684,26 +720,14 @@
     }, 
     {
       "hnrlbls": [
-        "79-79A"
+        "11-87"
       ], 
       "housenumber": "79", 
-      "lat": 50.927105331196536, 
-      "lon": 5.343183068191102, 
+      "lat": 50.92602646483071, 
+      "lon": 5.342604895342799, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Stadsomvaart"
-    }, 
-    {
-      "hnrlbls": [
-        "79-79A"
-      ], 
-      "housenumber": "79A", 
-      "lat": 50.927105331196536, 
-      "lon": 5.343183068191102, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Stadsomvaart"
     }, 
     {
@@ -780,14 +804,14 @@
     }, 
     {
       "hnrlbls": [
-        "87"
+        "11-87"
       ], 
       "housenumber": "87", 
-      "lat": 50.927270758747774, 
-      "lon": 5.343495898368697, 
+      "lat": 50.92602646483071, 
+      "lon": 5.342604895342799, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Stadsomvaart"
     }, 
     {
@@ -816,15 +840,19 @@
     }, 
     {
       "apptnrs": [
+        "0.01", 
+        "1.01", 
         "1.02", 
         "2.01", 
         "2.02", 
         "3.01", 
+        "3.02", 
         "4.01", 
-        "4.02"
+        "4.02", 
+        "5.01"
       ], 
       "hnrlbls": [
-        "90"
+        "90-92"
       ], 
       "housenumber": "90", 
       "lat": 50.92732526413823, 
@@ -836,14 +864,14 @@
     }, 
     {
       "hnrlbls": [
-        "92"
+        "90-92"
       ], 
       "housenumber": "92", 
-      "lat": 50.92754477475707, 
-      "lon": 5.3433011639569825, 
+      "lat": 50.92732526413823, 
+      "lon": 5.343752653884338, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Stadsomvaart"
     }, 
     {

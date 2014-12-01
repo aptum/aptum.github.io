@@ -2,20 +2,10 @@
   "addresses": [
     {
       "busnrs": [
-        "1", 
-        "10", 
-        "2", 
-        "20", 
-        "21", 
-        "22", 
-        "23", 
-        "28", 
-        "3", 
-        "5", 
-        "8"
+        "3"
       ], 
       "hnrlbls": [
-        "10-10_2"
+        "10"
       ], 
       "housenumber": "10", 
       "lat": 50.95570394507314, 
@@ -23,21 +13,6 @@
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanGebouw", 
-      "street": "Bedrijfsstraat"
-    }, 
-    {
-      "busnrs": [
-        "A"
-      ], 
-      "hnrlbls": [
-        "10-10_2"
-      ], 
-      "housenumber": "10_2", 
-      "lat": 50.95570394507314, 
-      "lon": 5.363195342123981, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Bedrijfsstraat"
     }, 
     {
@@ -78,6 +53,18 @@
     }, 
     {
       "hnrlbls": [
+        "13A"
+      ], 
+      "housenumber": "13A", 
+      "lat": 50.95502533566477, 
+      "lon": 5.362169658314506, 
+      "municipality": "Hasselt", 
+      "pcode": "3500", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Bedrijfsstraat"
+    }, 
+    {
+      "hnrlbls": [
         "14"
       ], 
       "housenumber": "14", 
@@ -101,9 +88,6 @@
       "street": "Bedrijfsstraat"
     }, 
     {
-      "busnrs": [
-        "2"
-      ], 
       "hnrlbls": [
         "17"
       ], 
@@ -116,10 +100,18 @@
       "street": "Bedrijfsstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2"
+      "hnrlbls": [
+        "17A"
       ], 
+      "housenumber": "17A", 
+      "lat": 50.95498288374425, 
+      "lon": 5.362979492538301, 
+      "municipality": "Hasselt", 
+      "pcode": "3500", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Bedrijfsstraat"
+    }, 
+    {
       "hnrlbls": [
         "18-18A"
       ], 
@@ -132,6 +124,11 @@
       "street": "Bedrijfsstraat"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3"
+      ], 
       "hnrlbls": [
         "18-18A"
       ], 
@@ -144,8 +141,11 @@
       "street": "Bedrijfsstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "2"
+      ], 
+      "busnrs": [
+        "1"
       ], 
       "hnrlbls": [
         "19"
@@ -156,6 +156,18 @@
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanGebouw", 
+      "street": "Bedrijfsstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "19A"
+      ], 
+      "housenumber": "19A", 
+      "lat": 50.95469129026652, 
+      "lon": 5.362730059050921, 
+      "municipality": "Hasselt", 
+      "pcode": "3500", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Bedrijfsstraat"
     }, 
     {
@@ -183,13 +195,8 @@
       "street": "Bedrijfsstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "14", 
-        "15"
-      ], 
       "hnrlbls": [
-        "21-21A"
+        "21"
       ], 
       "housenumber": "21", 
       "lat": 50.9542739319891, 
@@ -201,26 +208,14 @@
     }, 
     {
       "hnrlbls": [
-        "21-21A"
+        "21A"
       ], 
       "housenumber": "21A", 
-      "lat": 50.9542739319891, 
-      "lon": 5.3616612621473285, 
+      "lat": 50.95426520832568, 
+      "lon": 5.361778643336692, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Bedrijfsstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "22"
-      ], 
-      "housenumber": "22", 
-      "lat": 50.95403260020717, 
-      "lon": 5.36337678918615, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Bedrijfsstraat"
     }, 
     {
@@ -237,7 +232,7 @@
     }, 
     {
       "hnrlbls": [
-        "28-28C"
+        "28"
       ], 
       "housenumber": "28", 
       "lat": 50.95368947892474, 
@@ -245,18 +240,6 @@
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanPerceelGrb", 
-      "street": "Bedrijfsstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "28-28C"
-      ], 
-      "housenumber": "28C", 
-      "lat": 50.95368947892474, 
-      "lon": 5.36240678668539, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
       "street": "Bedrijfsstraat"
     }, 
     {
@@ -273,14 +256,14 @@
     }, 
     {
       "hnrlbls": [
-        "4-8"
+        "4"
       ], 
       "housenumber": "4", 
-      "lat": 50.95504442804762, 
-      "lon": 5.361346802562716, 
+      "lat": 50.95479657350953, 
+      "lon": 5.35957903931259, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Bedrijfsstraat"
     }, 
     {
@@ -309,14 +292,14 @@
     }, 
     {
       "hnrlbls": [
-        "4-8"
+        "8"
       ], 
       "housenumber": "8", 
-      "lat": 50.95504442804762, 
-      "lon": 5.361346802562716, 
+      "lat": 50.95565557943311, 
+      "lon": 5.363184636934133, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Bedrijfsstraat"
     }, 
     {
@@ -324,11 +307,11 @@
         "9"
       ], 
       "housenumber": "9", 
-      "lat": 50.95497771798584, 
-      "lon": 5.361443030646622, 
+      "lat": 50.95488779576538, 
+      "lon": 5.361126426212523, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Bedrijfsstraat"
     }
   ]

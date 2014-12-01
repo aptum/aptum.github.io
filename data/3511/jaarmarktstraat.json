@@ -1,15 +1,28 @@
 {
   "addresses": [
     {
+      "apptnrs": [
+        "0.01", 
+        "1.01", 
+        "1.02", 
+        "1.03", 
+        "2.01", 
+        "2.02", 
+        "2.03"
+      ], 
+      "busnrs": [
+        "0.02", 
+        "0.03"
+      ], 
       "hnrlbls": [
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 50.94389246841073, 
-      "lon": 5.306002728059198, 
+      "lat": 50.94380732380513, 
+      "lon": 5.30559832045132, 
       "municipality": "Hasselt", 
       "pcode": "3511", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "geinterpoleerdObvWegverbinding", 
       "street": "Jaarmarktstraat"
     }, 
     {
@@ -49,9 +62,8 @@
       "street": "Jaarmarktstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2"
+      "apptnrs": [
+        "1"
       ], 
       "hnrlbls": [
         "15"
@@ -78,7 +90,7 @@
     }, 
     {
       "hnrlbls": [
-        "2-2A"
+        "2"
       ], 
       "housenumber": "2", 
       "lat": 50.94363700882061, 
@@ -89,23 +101,23 @@
       "street": "Jaarmarktstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2"
       ], 
       "hnrlbls": [
-        "2-2A"
+        "2A"
       ], 
       "housenumber": "2A", 
-      "lat": 50.94363700882061, 
-      "lon": 5.306020814595149, 
+      "lat": 50.9436394538943, 
+      "lon": 5.306018586716867, 
       "municipality": "Hasselt", 
       "pcode": "3511", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Jaarmarktstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3", 
@@ -132,6 +144,26 @@
       "municipality": "Hasselt", 
       "pcode": "3511", 
       "source": "afgeleidVanGebouw", 
+      "street": "Jaarmarktstraat"
+    }, 
+    {
+      "apptnrs": [
+        "1", 
+        "2", 
+        "4"
+      ], 
+      "busnrs": [
+        "3"
+      ], 
+      "hnrlbls": [
+        "5"
+      ], 
+      "housenumber": "5", 
+      "lat": 50.943934233888335, 
+      "lon": 5.306356607036954, 
+      "municipality": "Hasselt", 
+      "pcode": "3511", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Jaarmarktstraat"
     }, 
     {

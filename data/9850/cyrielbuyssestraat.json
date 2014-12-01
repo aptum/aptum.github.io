@@ -41,7 +41,7 @@
         "12"
       ], 
       "housenumber": "12", 
-      "lat": 51.032681463959314, 
+      "lat": 51.0326814639593, 
       "lon": 3.5483470098713323, 
       "municipality": "Nevele", 
       "pcode": "9850", 
@@ -53,7 +53,7 @@
         "13"
       ], 
       "housenumber": "13", 
-      "lat": 51.03234845250405, 
+      "lat": 51.03234845250403, 
       "lon": 3.5480832498770685, 
       "municipality": "Nevele", 
       "pcode": "9850", 
@@ -77,8 +77,8 @@
         "15"
       ], 
       "housenumber": "15", 
-      "lat": 51.032298927534846, 
-      "lon": 3.5479552385806548, 
+      "lat": 51.03229890834936, 
+      "lon": 3.5479553080437545, 
       "municipality": "Nevele", 
       "pcode": "9850", 
       "source": "afgeleidVanGebouw", 
@@ -101,11 +101,11 @@
         "17"
       ], 
       "housenumber": "17", 
-      "lat": 51.032273587838205, 
-      "lon": 3.5476961336052963, 
+      "lat": 51.032187888153615, 
+      "lon": 3.547810627250016, 
       "municipality": "Nevele", 
       "pcode": "9850", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Cyriel Buyssestraat"
     }, 
     {
@@ -221,11 +221,11 @@
     }, 
     {
       "hnrlbls": [
-        "28"
+        "28-28A"
       ], 
       "housenumber": "28", 
-      "lat": 51.03245043568606, 
-      "lon": 3.5473408365587056, 
+      "lat": 51.032450411368124, 
+      "lon": 3.54734085178659, 
       "municipality": "Nevele", 
       "pcode": "9850", 
       "source": "afgeleidVanGebouw", 
@@ -233,14 +233,14 @@
     }, 
     {
       "hnrlbls": [
-        "28A"
+        "28-28A"
       ], 
       "housenumber": "28A", 
-      "lat": 51.03241703811268, 
-      "lon": 3.5474631727753843, 
+      "lat": 51.032450411368124, 
+      "lon": 3.54734085178659, 
       "municipality": "Nevele", 
       "pcode": "9850", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Cyriel Buyssestraat"
     }, 
     {
@@ -296,14 +296,14 @@
     }, 
     {
       "hnrlbls": [
-        "32"
+        "32-34"
       ], 
       "housenumber": "32", 
-      "lat": 51.03241226110143, 
-      "lon": 3.5468939933482235, 
+      "lat": 51.03236255344975, 
+      "lon": 3.546831993052885, 
       "municipality": "Nevele", 
       "pcode": "9850", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Cyriel Buyssestraat"
     }, 
     {
@@ -314,11 +314,11 @@
         "32A"
       ], 
       "housenumber": "32A", 
-      "lat": 51.032902403620824, 
-      "lon": 3.5464862093758116, 
+      "lat": 51.0327514502324, 
+      "lon": 3.546535049858831, 
       "municipality": "Nevele", 
       "pcode": "9850", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Cyriel Buyssestraat"
     }, 
     {
@@ -335,11 +335,11 @@
     }, 
     {
       "hnrlbls": [
-        "34"
+        "32-34"
       ], 
       "housenumber": "34", 
-      "lat": 51.03236256596858, 
-      "lon": 3.546831993755199, 
+      "lat": 51.03236255344975, 
+      "lon": 3.546831993052885, 
       "municipality": "Nevele", 
       "pcode": "9850", 
       "source": "afgeleidVanGebouw", 
@@ -401,8 +401,11 @@
     }, 
     {
       "busnrs": [
-        "2", 
-        "202"
+        "0001", 
+        "0002", 
+        "0101", 
+        "0201", 
+        "0202"
       ], 
       "hnrlbls": [
         "39"
@@ -452,6 +455,9 @@
       "street": "Cyriel Buyssestraat"
     }, 
     {
+      "busnrs": [
+        "0101"
+      ], 
       "hnrlbls": [
         "42"
       ], 
@@ -505,23 +511,11 @@
     }, 
     {
       "hnrlbls": [
-        "6-6F"
-      ], 
-      "housenumber": "6", 
-      "lat": 51.03327808090958, 
-      "lon": 3.5485896217827464, 
-      "municipality": "Nevele", 
-      "pcode": "9850", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Cyriel Buyssestraat"
-    }, 
-    {
-      "hnrlbls": [
-        "6-6F"
+        "6A-6F"
       ], 
       "housenumber": "6A", 
-      "lat": 51.03327808090958, 
-      "lon": 3.5485896217827464, 
+      "lat": 51.033278072601966, 
+      "lon": 3.5485895531292577, 
       "municipality": "Nevele", 
       "pcode": "9850", 
       "source": "afgeleidVanGebouw", 
@@ -529,11 +523,11 @@
     }, 
     {
       "hnrlbls": [
-        "6-6F"
+        "6A-6F"
       ], 
       "housenumber": "6B", 
-      "lat": 51.03327808090958, 
-      "lon": 3.5485896217827464, 
+      "lat": 51.033278072601966, 
+      "lon": 3.5485895531292577, 
       "municipality": "Nevele", 
       "pcode": "9850", 
       "source": "afgeleidVanGebouw", 
@@ -541,11 +535,11 @@
     }, 
     {
       "hnrlbls": [
-        "6-6F"
+        "6A-6F"
       ], 
       "housenumber": "6C", 
-      "lat": 51.03327808090958, 
-      "lon": 3.5485896217827464, 
+      "lat": 51.033278072601966, 
+      "lon": 3.5485895531292577, 
       "municipality": "Nevele", 
       "pcode": "9850", 
       "source": "afgeleidVanGebouw", 
@@ -553,11 +547,11 @@
     }, 
     {
       "hnrlbls": [
-        "6-6F"
+        "6A-6F"
       ], 
       "housenumber": "6D", 
-      "lat": 51.03327808090958, 
-      "lon": 3.5485896217827464, 
+      "lat": 51.033278072601966, 
+      "lon": 3.5485895531292577, 
       "municipality": "Nevele", 
       "pcode": "9850", 
       "source": "afgeleidVanGebouw", 
@@ -565,23 +559,11 @@
     }, 
     {
       "hnrlbls": [
-        "6E"
+        "6A-6F"
       ], 
       "housenumber": "6E", 
-      "lat": 51.03337263980108, 
-      "lon": 3.5482412174257294, 
-      "municipality": "Nevele", 
-      "pcode": "9850", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Cyriel Buyssestraat"
-    }, 
-    {
-      "hnrlbls": [
-        "6-6F"
-      ], 
-      "housenumber": "6F", 
-      "lat": 51.03327808090958, 
-      "lon": 3.5485896217827464, 
+      "lat": 51.033278072601966, 
+      "lon": 3.5485895531292577, 
       "municipality": "Nevele", 
       "pcode": "9850", 
       "source": "afgeleidVanGebouw", 
@@ -589,11 +571,23 @@
     }, 
     {
       "hnrlbls": [
-        "7"
+        "6A-6F"
+      ], 
+      "housenumber": "6F", 
+      "lat": 51.033278072601966, 
+      "lon": 3.5485895531292577, 
+      "municipality": "Nevele", 
+      "pcode": "9850", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Cyriel Buyssestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "7-9"
       ], 
       "housenumber": "7", 
-      "lat": 51.03239624118985, 
-      "lon": 3.5483105172303477, 
+      "lat": 51.03239628627633, 
+      "lon": 3.5483105448529546, 
       "municipality": "Nevele", 
       "pcode": "9850", 
       "source": "afgeleidVanGebouw", 
@@ -613,14 +607,14 @@
     }, 
     {
       "hnrlbls": [
-        "9"
+        "7-9"
       ], 
       "housenumber": "9", 
-      "lat": 51.032420822250735, 
-      "lon": 3.5482142315960057, 
+      "lat": 51.03239628627633, 
+      "lon": 3.5483105448529546, 
       "municipality": "Nevele", 
       "pcode": "9850", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Cyriel Buyssestraat"
     }
   ]

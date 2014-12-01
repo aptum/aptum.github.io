@@ -100,8 +100,6 @@
       "apptnrs": [
         "0.01", 
         "0.02", 
-        "0.03", 
-        "0.04", 
         "0.05", 
         "0.06", 
         "0.07", 
@@ -128,15 +126,19 @@
         "2.12"
       ], 
       "busnrs": [
-        "2", 
-        "21"
+        "0.03", 
+        "0.04", 
+        "1.09", 
+        "1.11", 
+        "2.09", 
+        "2.11"
       ], 
       "hnrlbls": [
-        "17"
+        "17-17A"
       ], 
       "housenumber": "17", 
       "lat": 50.9343345803115, 
-      "lon": 5.33046109948216, 
+      "lon": 5.330461099482158, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanPerceelGrb", 
@@ -144,14 +146,14 @@
     }, 
     {
       "hnrlbls": [
-        "17A"
+        "17-17A"
       ], 
       "housenumber": "17A", 
-      "lat": 50.93427201740129, 
-      "lon": 5.3303613650884945, 
+      "lat": 50.9343345803115, 
+      "lon": 5.330461099482158, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Rozenstraat"
     }, 
     {
@@ -179,13 +181,13 @@
       "street": "Rozenstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3"
       ], 
       "hnrlbls": [
-        "1A-3A"
+        "1A"
       ], 
       "housenumber": "1A", 
       "lat": 50.934021142085875, 
@@ -272,7 +274,7 @@
         "25"
       ], 
       "housenumber": "25", 
-      "lat": 50.93446734382306, 
+      "lat": 50.934467343823044, 
       "lon": 5.3295959704578895, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
@@ -292,15 +294,16 @@
       "street": "Rozenstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
+      "apptnrs": [
         "2", 
         "3", 
         "4", 
         "5", 
         "6", 
-        "7", 
-        "8"
+        "7"
+      ], 
+      "busnrs": [
+        "1"
       ], 
       "hnrlbls": [
         "27"
@@ -327,18 +330,6 @@
     }, 
     {
       "hnrlbls": [
-        "1A-3A"
-      ], 
-      "housenumber": "2A", 
-      "lat": 50.934021142085875, 
-      "lon": 5.331453971350882, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Rozenstraat"
-    }, 
-    {
-      "hnrlbls": [
         "3"
       ], 
       "housenumber": "3", 
@@ -354,11 +345,11 @@
         "30"
       ], 
       "housenumber": "30", 
-      "lat": 50.934246017701966, 
-      "lon": 5.329375183804166, 
+      "lat": 50.93407713059702, 
+      "lon": 5.3295795793826635, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Rozenstraat"
     }, 
     {
@@ -374,13 +365,14 @@
       "street": "Rozenstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
-        "3", 
         "4", 
-        "5", 
-        "6"
+        "5"
+      ], 
+      "busnrs": [
+        "3"
       ], 
       "hnrlbls": [
         "33"
@@ -388,18 +380,6 @@
       "housenumber": "33", 
       "lat": 50.934646684833, 
       "lon": 5.329135698904325, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Rozenstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "1A-3A"
-      ], 
-      "housenumber": "3A", 
-      "lat": 50.934021142085875, 
-      "lon": 5.331453971350882, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanGebouw", 
@@ -418,30 +398,8 @@
       "street": "Rozenstraat"
     }, 
     {
-      "busnrs": [
-        "3B", 
-        "4A", 
-        "6", 
-        "7", 
-        "7A", 
-        "9B", 
-        "C1"
-      ], 
-      "hnrlbls": [
-        "44-44C"
-      ], 
-      "housenumber": "44", 
-      "lat": 50.93437336110138, 
-      "lon": 5.329303812337649, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Rozenstraat"
-    }, 
-    {
-      "busnrs": [
+      "apptnrs": [
         "1", 
-        "2", 
         "3", 
         "4", 
         "5", 
@@ -449,8 +407,11 @@
         "7", 
         "8"
       ], 
+      "busnrs": [
+        "2"
+      ], 
       "hnrlbls": [
-        "44-44C"
+        "44A-44C"
       ], 
       "housenumber": "44A", 
       "lat": 50.93437336110138, 
@@ -461,19 +422,21 @@
       "street": "Rozenstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3", 
         "4", 
         "5", 
-        "6", 
-        "7", 
         "8", 
         "9"
       ], 
+      "busnrs": [
+        "6", 
+        "7"
+      ], 
       "hnrlbls": [
-        "44-44C"
+        "44A-44C"
       ], 
       "housenumber": "44B", 
       "lat": 50.93437336110138, 
@@ -484,13 +447,13 @@
       "street": "Rozenstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3"
       ], 
       "hnrlbls": [
-        "44-44C"
+        "44A-44C"
       ], 
       "housenumber": "44C", 
       "lat": 50.93437336110138, 
@@ -505,15 +468,15 @@
         "48"
       ], 
       "housenumber": "48", 
-      "lat": 50.934414025816956, 
-      "lon": 5.329014413256206, 
+      "lat": 50.93441402581695, 
+      "lon": 5.329014413256205, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanGebouw", 
       "street": "Rozenstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3", 
@@ -532,9 +495,6 @@
       "street": "Rozenstraat"
     }, 
     {
-      "busnrs": [
-        "52"
-      ], 
       "hnrlbls": [
         "50"
       ], 
@@ -551,11 +511,11 @@
         "52"
       ], 
       "housenumber": "52", 
-      "lat": 50.93457195638423, 
-      "lon": 5.32880850938984, 
+      "lat": 50.93448112248108, 
+      "lon": 5.328900690380373, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "geinterpoleerdObvWegverbinding", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Rozenstraat"
     }, 
     {

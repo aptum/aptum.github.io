@@ -53,7 +53,7 @@
         "104"
       ], 
       "housenumber": "104", 
-      "lat": 50.93615269553001, 
+      "lat": 50.93615269553, 
       "lon": 5.395980599064151, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
@@ -134,7 +134,7 @@
     }, 
     {
       "hnrlbls": [
-        "42-112"
+        "112"
       ], 
       "housenumber": "112", 
       "lat": 50.93631289394652, 
@@ -209,8 +209,8 @@
         "20"
       ], 
       "housenumber": "20", 
-      "lat": 50.9353807680014, 
-      "lon": 5.3907197039171475, 
+      "lat": 50.935380678117134, 
+      "lon": 5.390719701957859, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanGebouw", 
@@ -229,11 +229,13 @@
       "street": "Beerhoutstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
+      "apptnrs": [
         "2", 
         "3", 
         "4"
+      ], 
+      "busnrs": [
+        "1"
       ], 
       "hnrlbls": [
         "26"
@@ -268,6 +270,30 @@
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanGebouw", 
+      "street": "Beerhoutstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "30-30A"
+      ], 
+      "housenumber": "30", 
+      "lat": 50.934580465509086, 
+      "lon": 5.385614729326798, 
+      "municipality": "Hasselt", 
+      "pcode": "3500", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Beerhoutstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "30-30A"
+      ], 
+      "housenumber": "30A", 
+      "lat": 50.934580465509086, 
+      "lon": 5.385614729326798, 
+      "municipality": "Hasselt", 
+      "pcode": "3500", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Beerhoutstraat"
     }, 
     {
@@ -308,35 +334,11 @@
     }, 
     {
       "hnrlbls": [
-        "38E"
-      ], 
-      "housenumber": "38E", 
-      "lat": 50.934412769665094, 
-      "lon": 5.387060134150916, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Beerhoutstraat"
-    }, 
-    {
-      "hnrlbls": [
         "4"
       ], 
       "housenumber": "4", 
       "lat": 50.934252807872525, 
       "lon": 5.382179446238333, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Beerhoutstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "42-112"
-      ], 
-      "housenumber": "42", 
-      "lat": 50.93631289394652, 
-      "lon": 5.397326646106989, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanGebouw", 
@@ -355,7 +357,7 @@
       "street": "Beerhoutstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1"
       ], 
       "hnrlbls": [
@@ -374,11 +376,11 @@
         "62"
       ], 
       "housenumber": "62", 
-      "lat": 50.9343029088243, 
-      "lon": 5.387868555332362, 
+      "lat": 50.93576805914569, 
+      "lon": 5.390472190923164, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "geinterpoleerdObvWegverbinding", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Beerhoutstraat"
     }, 
     {
@@ -470,7 +472,7 @@
         "92"
       ], 
       "housenumber": "92", 
-      "lat": 50.93599654844081, 
+      "lat": 50.9359965484408, 
       "lon": 5.394621845254906, 
       "municipality": "Hasselt", 
       "pcode": "3500", 

@@ -2,7 +2,7 @@
   "addresses": [
     {
       "hnrlbls": [
-        "1-1B"
+        "1"
       ], 
       "housenumber": "1", 
       "lat": 50.926028343212394, 
@@ -13,7 +13,7 @@
       "street": "Kunstlaan"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "10", 
         "11", 
         "12", 
@@ -26,6 +26,10 @@
         "7", 
         "8", 
         "9"
+      ], 
+      "busnrs": [
+        "1", 
+        "13"
       ], 
       "hnrlbls": [
         "10"
@@ -40,38 +44,14 @@
     }, 
     {
       "hnrlbls": [
-        "12-12A"
-      ], 
-      "housenumber": "12", 
-      "lat": 50.92743234420885, 
-      "lon": 5.345741400600721, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Kunstlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "12-12A"
-      ], 
-      "housenumber": "12A", 
-      "lat": 50.92743234420885, 
-      "lon": 5.345741400600721, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Kunstlaan"
-    }, 
-    {
-      "hnrlbls": [
         "14"
       ], 
       "housenumber": "14", 
-      "lat": 50.927348394341195, 
-      "lon": 5.34623610292052, 
+      "lat": 50.92722916799845, 
+      "lon": 5.346831918310822, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Kunstlaan"
     }, 
     {
@@ -87,9 +67,6 @@
       "street": "Kunstlaan"
     }, 
     {
-      "busnrs": [
-        "5"
-      ], 
       "hnrlbls": [
         "18"
       ], 
@@ -103,24 +80,6 @@
     }, 
     {
       "hnrlbls": [
-        "1-1B"
-      ], 
-      "housenumber": "1B", 
-      "lat": 50.926028343212394, 
-      "lon": 5.346532052630792, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Kunstlaan"
-    }, 
-    {
-      "apptnrs": [
-        "1.0"
-      ], 
-      "busnrs": [
-        "5"
-      ], 
-      "hnrlbls": [
         "20"
       ], 
       "housenumber": "20", 
@@ -133,49 +92,90 @@
     }, 
     {
       "busnrs": [
-        "110", 
-        "111", 
-        "112", 
-        "113"
+        "0.01", 
+        "0.02", 
+        "0.03", 
+        "0.04", 
+        "0.05", 
+        "1.01", 
+        "1.02", 
+        "1.03", 
+        "1.04", 
+        "1.05", 
+        "1.06", 
+        "1.07", 
+        "1.08", 
+        "1.09", 
+        "1.10", 
+        "1.11", 
+        "1.12", 
+        "1.13", 
+        "2.01", 
+        "2.02", 
+        "2.03", 
+        "2.04", 
+        "3.01", 
+        "3.02", 
+        "3.03", 
+        "3.04", 
+        "3.05", 
+        "4.01", 
+        "4.02", 
+        "4.03", 
+        "4.04", 
+        "4.05", 
+        "5.01", 
+        "5.02", 
+        "5.03", 
+        "5.04"
       ], 
       "hnrlbls": [
-        "2A"
+        "2A-2B"
       ], 
       "housenumber": "2A", 
-      "lat": 50.92867018122257, 
-      "lon": 5.342994383777887, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Kunstlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "2B"
-      ], 
-      "housenumber": "2B", 
-      "lat": 50.92867920568518, 
-      "lon": 5.34359673105666, 
+      "lat": 50.9274441837111, 
+      "lon": 5.345625855796452, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanPerceelGrb", 
       "street": "Kunstlaan"
     }, 
     {
-      "hnrlbls": [
-        "5-46"
+      "busnrs": [
+        "0.01", 
+        "0.02", 
+        "0.03", 
+        "1.01", 
+        "1.02", 
+        "1.03", 
+        "1.04", 
+        "1.05", 
+        "1.06", 
+        "1.07", 
+        "2.01", 
+        "2.02", 
+        "2.03", 
+        "2.04", 
+        "3.01", 
+        "3.02", 
+        "3.03", 
+        "4.01", 
+        "4.02", 
+        "4.03"
       ], 
-      "housenumber": "30", 
-      "lat": 50.92725369421198, 
-      "lon": 5.345408513231775, 
+      "hnrlbls": [
+        "2A-2B"
+      ], 
+      "housenumber": "2B", 
+      "lat": 50.9274441837111, 
+      "lon": 5.345625855796452, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "afgeleidVanStraat", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Kunstlaan"
     }, 
     {
-      "busnrs": [
-        "1", 
+      "apptnrs": [
         "10", 
         "11", 
         "12", 
@@ -187,6 +187,10 @@
         "7", 
         "8", 
         "9"
+      ], 
+      "busnrs": [
+        "1", 
+        "2"
       ], 
       "hnrlbls": [
         "4"
@@ -200,35 +204,19 @@
       "street": "Kunstlaan"
     }, 
     {
-      "busnrs": [
-        "3"
-      ], 
       "hnrlbls": [
-        "5-46"
-      ], 
-      "housenumber": "46", 
-      "lat": 50.92725369421198, 
-      "lon": 5.345408513231775, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "afgeleidVanStraat", 
-      "street": "Kunstlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "5-46"
+        "5"
       ], 
       "housenumber": "5", 
-      "lat": 50.92725369421198, 
-      "lon": 5.345408513231775, 
+      "lat": 50.92603547153124, 
+      "lon": 5.346518118940904, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "afgeleidVanStraat", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Kunstlaan"
     }, 
     {
-      "busnrs": [
-        "10", 
+      "apptnrs": [
         "11", 
         "12", 
         "2", 
@@ -236,8 +224,13 @@
         "5", 
         "6", 
         "7", 
-        "8", 
         "9"
+      ], 
+      "busnrs": [
+        "1", 
+        "10", 
+        "3", 
+        "8"
       ], 
       "hnrlbls": [
         "6"
@@ -251,39 +244,31 @@
       "street": "Kunstlaan"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "10", 
         "11", 
         "12", 
         "3", 
         "4", 
         "5", 
-        "6", 
         "7", 
         "8", 
         "9"
+      ], 
+      "busnrs": [
+        "1", 
+        "2", 
+        "6"
       ], 
       "hnrlbls": [
         "8"
       ], 
       "housenumber": "8", 
       "lat": 50.92790855690723, 
-      "lon": 5.344399934769015, 
+      "lon": 5.344399934769014, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanGebouw", 
-      "street": "Kunstlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "5-46"
-      ], 
-      "housenumber": "9", 
-      "lat": 50.92725369421198, 
-      "lon": 5.345408513231775, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "afgeleidVanStraat", 
       "street": "Kunstlaan"
     }
   ]

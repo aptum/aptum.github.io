@@ -97,15 +97,14 @@
       "street": "Ambachtsschoolstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3", 
         "4", 
         "5", 
         "6", 
-        "7", 
-        "8"
+        "7"
       ], 
       "hnrlbls": [
         "17"
@@ -131,13 +130,16 @@
       "street": "Ambachtsschoolstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
+      "apptnrs": [
         "3", 
         "4", 
         "5", 
         "6", 
         "7"
+      ], 
+      "busnrs": [
+        "1", 
+        "2"
       ], 
       "hnrlbls": [
         "19"
@@ -151,7 +153,7 @@
       "street": "Ambachtsschoolstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3"
@@ -240,15 +242,12 @@
       "street": "Ambachtsschoolstraat"
     }, 
     {
-      "busnrs": [
-        "2"
-      ], 
       "hnrlbls": [
         "27"
       ], 
       "housenumber": "27", 
-      "lat": 50.93410669714358, 
-      "lon": 5.321438802924004, 
+      "lat": 50.934187509619726, 
+      "lon": 5.321461927817921, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanPerceelGrb", 
@@ -267,7 +266,7 @@
       "street": "Ambachtsschoolstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2"
       ], 
@@ -355,7 +354,7 @@
       "street": "Ambachtsschoolstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3", 
@@ -472,6 +471,9 @@
       "street": "Ambachtsschoolstraat"
     }, 
     {
+      "apptnrs": [
+        "2.01"
+      ], 
       "hnrlbls": [
         "46"
       ], 
@@ -580,9 +582,6 @@
       "street": "Ambachtsschoolstraat"
     }, 
     {
-      "busnrs": [
-        "2"
-      ], 
       "hnrlbls": [
         "66"
       ], 
@@ -639,14 +638,6 @@
         "3.01", 
         "3.02"
       ], 
-      "busnrs": [
-        "101", 
-        "12", 
-        "201", 
-        "202", 
-        "302", 
-        "31"
-      ], 
       "hnrlbls": [
         "5-9"
       ], 
@@ -656,18 +647,6 @@
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanGebouw", 
-      "street": "Ambachtsschoolstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "9A"
-      ], 
-      "housenumber": "9A", 
-      "lat": 50.933725203731704, 
-      "lon": 5.322562938537266, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Ambachtsschoolstraat"
     }
   ]

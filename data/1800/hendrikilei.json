@@ -8,14 +8,14 @@
         "4/1"
       ], 
       "hnrlbls": [
-        "1-3"
+        "1"
       ], 
       "housenumber": "1", 
-      "lat": 50.93054051118168, 
-      "lon": 4.427726429729917, 
+      "lat": 50.93048593718582, 
+      "lon": 4.427726667508191, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Hendrik I-lei"
     }, 
     {
@@ -131,14 +131,14 @@
         "2"
       ], 
       "hnrlbls": [
-        "106-108"
+        "106"
       ], 
       "housenumber": "106", 
-      "lat": 50.9334128875045, 
-      "lon": 4.430780189078412, 
+      "lat": 50.93339805978644, 
+      "lon": 4.430726031974444, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "afgeleidVanGebouw", 
       "street": "Hendrik I-lei"
     }, 
     {
@@ -165,14 +165,14 @@
         "2"
       ], 
       "hnrlbls": [
-        "106-108"
+        "108"
       ], 
       "housenumber": "108", 
-      "lat": 50.9334128875045, 
-      "lon": 4.430780189078412, 
+      "lat": 50.933427573110066, 
+      "lon": 4.430834362114542, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "afgeleidVanGebouw", 
       "street": "Hendrik I-lei"
     }, 
     {
@@ -232,11 +232,11 @@
         "114"
       ], 
       "housenumber": "114", 
-      "lat": 50.93371988466675, 
-      "lon": 4.4309241364950065, 
+      "lat": 50.93369853015861, 
+      "lon": 4.430999014558831, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "afgeleidVanGebouw", 
       "street": "Hendrik I-lei"
     }, 
     {
@@ -297,11 +297,11 @@
         "119"
       ], 
       "housenumber": "119", 
-      "lat": 50.93365258767178, 
-      "lon": 4.430016165103579, 
+      "lat": 50.93362683149093, 
+      "lon": 4.430100634405102, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "afgeleidVanGebouw", 
       "street": "Hendrik I-lei"
     }, 
     {
@@ -407,18 +407,6 @@
       "street": "Hendrik I-lei"
     }, 
     {
-      "hnrlbls": [
-        "124B"
-      ], 
-      "housenumber": "124B", 
-      "lat": 50.93391204790194, 
-      "lon": 4.431477632692418, 
-      "municipality": "Vilvoorde", 
-      "pcode": "1800", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Hendrik I-lei"
-    }, 
-    {
       "apptnrs": [
         "2", 
         "3"
@@ -500,6 +488,10 @@
         "3/1", 
         "3/2"
       ], 
+      "busnrs": [
+        "O/02", 
+        "O000"
+      ], 
       "hnrlbls": [
         "132-134"
       ], 
@@ -508,22 +500,7 @@
       "lon": 4.431362818257736, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Hendrik I-lei"
-    }, 
-    {
-      "busnrs": [
-        "2"
-      ], 
-      "hnrlbls": [
-        "132O"
-      ], 
-      "housenumber": "132O", 
-      "lat": 50.93425925909441, 
-      "lon": 4.431394311790226, 
-      "municipality": "Vilvoorde", 
-      "pcode": "1800", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Hendrik I-lei"
     }, 
     {
@@ -553,7 +530,7 @@
       "lon": 4.431362818257736, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "afgeleidVanGebouw", 
       "street": "Hendrik I-lei"
     }, 
     {
@@ -568,6 +545,9 @@
         "3/1", 
         "3/2"
       ], 
+      "busnrs": [
+        "O/02"
+      ], 
       "hnrlbls": [
         "1-135"
       ], 
@@ -577,21 +557,6 @@
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
       "source": "manueleAanduidingVanPerceel", 
-      "street": "Hendrik I-lei"
-    }, 
-    {
-      "busnrs": [
-        "2"
-      ], 
-      "hnrlbls": [
-        "135O"
-      ], 
-      "housenumber": "135O", 
-      "lat": 50.93437005100837, 
-      "lon": 4.430472198090878, 
-      "municipality": "Vilvoorde", 
-      "pcode": "1800", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Hendrik I-lei"
     }, 
     {
@@ -626,31 +591,18 @@
       "apptnrs": [
         "1/2"
       ], 
+      "busnrs": [
+        "O/02"
+      ], 
       "hnrlbls": [
-        "140-140O"
+        "140"
       ], 
       "housenumber": "140", 
-      "lat": 50.93438308279845, 
-      "lon": 4.431484528720205, 
+      "lat": 50.93438310608772, 
+      "lon": 4.431484574075255, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Hendrik I-lei"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
-      "hnrlbls": [
-        "140-140O"
-      ], 
-      "housenumber": "140O", 
-      "lat": 50.93438308279845, 
-      "lon": 4.431484528720205, 
-      "municipality": "Vilvoorde", 
-      "pcode": "1800", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Hendrik I-lei"
     }, 
     {
@@ -771,8 +723,12 @@
         "7", 
         "8"
       ], 
+      "busnrs": [
+        "O/01", 
+        "O/02"
+      ], 
       "hnrlbls": [
-        "154-154O"
+        "154"
       ], 
       "housenumber": "154", 
       "lat": 50.93492877280869, 
@@ -780,22 +736,6 @@
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
       "source": "manueleAanduidingVanPerceel", 
-      "street": "Hendrik I-lei"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
-      "hnrlbls": [
-        "154-154O"
-      ], 
-      "housenumber": "154O", 
-      "lat": 50.93492877280869, 
-      "lon": 4.431907922032182, 
-      "municipality": "Vilvoorde", 
-      "pcode": "1800", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Hendrik I-lei"
     }, 
     {
@@ -871,6 +811,10 @@
         "6", 
         "O/02"
       ], 
+      "busnrs": [
+        "O/01", 
+        "O/02"
+      ], 
       "hnrlbls": [
         "2-161"
       ], 
@@ -883,52 +827,22 @@
       "street": "Hendrik I-lei"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
-      "hnrlbls": [
-        "161O"
-      ], 
-      "housenumber": "161O", 
-      "lat": 50.93458013486809, 
-      "lon": 4.430633230602526, 
-      "municipality": "Vilvoorde", 
-      "pcode": "1800", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Hendrik I-lei"
-    }, 
-    {
       "apptnrs": [
         "1"
       ], 
       "busnrs": [
-        "0/1"
+        "0/1", 
+        "O/01"
       ], 
       "hnrlbls": [
-        "162-162O"
+        "162"
       ], 
       "housenumber": "162", 
-      "lat": 50.935237701748136, 
-      "lon": 4.432133257605995, 
+      "lat": 50.93523768839594, 
+      "lon": 4.432133265411689, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Hendrik I-lei"
-    }, 
-    {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "162-162O"
-      ], 
-      "housenumber": "162O", 
-      "lat": 50.935237701748136, 
-      "lon": 4.432133257605995, 
-      "municipality": "Vilvoorde", 
-      "pcode": "1800", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Hendrik I-lei"
     }, 
     {
@@ -980,8 +894,8 @@
         "17"
       ], 
       "housenumber": "17", 
-      "lat": 50.930841544863874, 
-      "lon": 4.42793819305072, 
+      "lat": 50.93084154486387, 
+      "lon": 4.4279381930507205, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
       "source": "manueleAanduidingVanPerceel", 
@@ -1050,7 +964,7 @@
         "175"
       ], 
       "housenumber": "175", 
-      "lat": 50.93496247893159, 
+      "lat": 50.9349624789316, 
       "lon": 4.431082145627501, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
@@ -1149,7 +1063,7 @@
         "185"
       ], 
       "housenumber": "185", 
-      "lat": 50.9353945138885, 
+      "lat": 50.93539451388849, 
       "lon": 4.431397978125695, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
@@ -1539,31 +1453,19 @@
         "3/1", 
         "3/2"
       ], 
+      "busnrs": [
+        "O/01", 
+        "O/02"
+      ], 
       "hnrlbls": [
-        "249-249O"
+        "249"
       ], 
       "housenumber": "249", 
-      "lat": 50.93697766607472, 
-      "lon": 4.4326277340098175, 
+      "lat": 50.93697766237897, 
+      "lon": 4.432627689543004, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Hendrik I-lei"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
-      "hnrlbls": [
-        "249-249O"
-      ], 
-      "housenumber": "249O", 
-      "lat": 50.93697766607472, 
-      "lon": 4.4326277340098175, 
-      "municipality": "Vilvoorde", 
-      "pcode": "1800", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Hendrik I-lei"
     }, 
     {
@@ -1583,8 +1485,8 @@
         "250"
       ], 
       "housenumber": "250", 
-      "lat": 50.93708162158649, 
-      "lon": 4.433531272140294, 
+      "lat": 50.937081621586486, 
+      "lon": 4.433531272140293, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
       "source": "manueleAanduidingVanPerceel", 
@@ -1652,30 +1554,18 @@
       "street": "Hendrik I-lei"
     }, 
     {
+      "busnrs": [
+        "O/01"
+      ], 
       "hnrlbls": [
         "259"
       ], 
       "housenumber": "259", 
-      "lat": 50.93729510405731, 
-      "lon": 4.43290601945958, 
+      "lat": 50.93729511062633, 
+      "lon": 4.432906044372125, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Hendrik I-lei"
-    }, 
-    {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "259O"
-      ], 
-      "housenumber": "259O", 
-      "lat": 50.93729951664971, 
-      "lon": 4.432891798798235, 
-      "municipality": "Vilvoorde", 
-      "pcode": "1800", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Hendrik I-lei"
     }, 
     {
@@ -1724,7 +1614,7 @@
       ], 
       "housenumber": "262", 
       "lat": 50.9375488481775, 
-      "lon": 4.433917613649326, 
+      "lon": 4.433917613649327, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
       "source": "manueleAanduidingVanPerceel", 
@@ -1735,7 +1625,7 @@
         "263"
       ], 
       "housenumber": "263", 
-      "lat": 50.93739610041928, 
+      "lat": 50.93739610041927, 
       "lon": 4.432984121853979, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
@@ -1780,32 +1670,20 @@
         "2/3", 
         "2/4"
       ], 
+      "busnrs": [
+        "O/01", 
+        "O/02", 
+        "O/03"
+      ], 
       "hnrlbls": [
-        "267-267O"
+        "267"
       ], 
       "housenumber": "267", 
-      "lat": 50.93768633758219, 
-      "lon": 4.433194654460292, 
+      "lat": 50.937686335938515, 
+      "lon": 4.433194601725056, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Hendrik I-lei"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3"
-      ], 
-      "hnrlbls": [
-        "267-267O"
-      ], 
-      "housenumber": "267O", 
-      "lat": 50.93768633758219, 
-      "lon": 4.433194654460292, 
-      "municipality": "Vilvoorde", 
-      "pcode": "1800", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Hendrik I-lei"
     }, 
     {
@@ -1872,8 +1750,12 @@
         "2/1", 
         "2/2"
       ], 
+      "busnrs": [
+        "O/01", 
+        "O/02"
+      ], 
       "hnrlbls": [
-        "271-273O"
+        "271-273"
       ], 
       "housenumber": "271", 
       "lat": 50.93796418038196, 
@@ -1881,22 +1763,6 @@
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
       "source": "manueleAanduidingVanPerceel", 
-      "street": "Hendrik I-lei"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
-      "hnrlbls": [
-        "271-273O"
-      ], 
-      "housenumber": "271O", 
-      "lat": 50.93796418038196, 
-      "lon": 4.433384970123901, 
-      "municipality": "Vilvoorde", 
-      "pcode": "1800", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Hendrik I-lei"
     }, 
     {
@@ -1924,8 +1790,12 @@
         "2/1", 
         "2/2"
       ], 
+      "busnrs": [
+        "O/01", 
+        "O/02"
+      ], 
       "hnrlbls": [
-        "271-273O"
+        "271-273"
       ], 
       "housenumber": "273", 
       "lat": 50.93796418038196, 
@@ -1933,22 +1803,6 @@
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
       "source": "manueleAanduidingVanPerceel", 
-      "street": "Hendrik I-lei"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
-      "hnrlbls": [
-        "271-273O"
-      ], 
-      "housenumber": "273O", 
-      "lat": 50.93796418038196, 
-      "lon": 4.433384970123901, 
-      "municipality": "Vilvoorde", 
-      "pcode": "1800", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Hendrik I-lei"
     }, 
     {
@@ -1991,15 +1845,18 @@
         "4/2", 
         "4/3"
       ], 
+      "busnrs": [
+        "O/01"
+      ], 
       "hnrlbls": [
-        "28-28O"
+        "28"
       ], 
       "housenumber": "28", 
       "lat": 50.931074659095245, 
       "lon": 4.428945326956096, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "afgeleidVanGebouw", 
       "street": "Hendrik I-lei"
     }, 
     {
@@ -2029,21 +1886,6 @@
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
       "source": "manueleAanduidingVanPerceel", 
-      "street": "Hendrik I-lei"
-    }, 
-    {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "28-28O"
-      ], 
-      "housenumber": "28O", 
-      "lat": 50.931074659095245, 
-      "lon": 4.428945326956096, 
-      "municipality": "Vilvoorde", 
-      "pcode": "1800", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Hendrik I-lei"
     }, 
     {
@@ -2096,14 +1938,14 @@
     }, 
     {
       "hnrlbls": [
-        "1-3"
+        "3"
       ], 
       "housenumber": "3", 
-      "lat": 50.93054051118168, 
-      "lon": 4.427726429729917, 
+      "lat": 50.93057062473794, 
+      "lon": 4.427754873479714, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "afgeleidVanGebouw", 
       "street": "Hendrik I-lei"
     }, 
     {
@@ -2198,11 +2040,11 @@
         "307"
       ], 
       "housenumber": "307", 
-      "lat": 50.938673402372274, 
-      "lon": 4.4339251676199485, 
+      "lat": 50.938630421298136, 
+      "lon": 4.4339433157424235, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "afgeleidVanGebouw", 
       "street": "Hendrik I-lei"
     }, 
     {
@@ -2349,7 +2191,7 @@
       "lon": 4.434244469266241, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "afgeleidVanGebouw", 
       "street": "Hendrik I-lei"
     }, 
     {
@@ -2360,11 +2202,11 @@
         "329"
       ], 
       "housenumber": "329", 
-      "lat": 50.93933662446178, 
-      "lon": 4.434256742981484, 
+      "lat": 50.93933662454194, 
+      "lon": 4.434256600707816, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "afgeleidVanGebouw", 
       "street": "Hendrik I-lei"
     }, 
     {
@@ -2597,7 +2439,7 @@
         "41"
       ], 
       "housenumber": "41", 
-      "lat": 50.93158035501591, 
+      "lat": 50.9315803550159, 
       "lon": 4.428503869325205, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
@@ -2974,7 +2816,7 @@
       ], 
       "housenumber": "66", 
       "lat": 50.93211763915392, 
-      "lon": 4.429726220591205, 
+      "lon": 4.429726220591204, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
       "source": "manueleAanduidingVanPerceel", 
@@ -3154,11 +2996,11 @@
         "77"
       ], 
       "housenumber": "77", 
-      "lat": 50.93258095886073, 
-      "lon": 4.429187831778996, 
+      "lat": 50.932554440233865, 
+      "lon": 4.42927342072492, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "afgeleidVanGebouw", 
       "street": "Hendrik I-lei"
     }, 
     {
@@ -3190,11 +3032,11 @@
         "79"
       ], 
       "housenumber": "79", 
-      "lat": 50.93271139293371, 
-      "lon": 4.4293614089394415, 
+      "lat": 50.93268665042283, 
+      "lon": 4.429408354430776, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "afgeleidVanGebouw", 
       "street": "Hendrik I-lei"
     }, 
     {

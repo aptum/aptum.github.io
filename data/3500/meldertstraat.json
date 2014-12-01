@@ -1,31 +1,20 @@
 {
   "addresses": [
     {
-      "hnrlbls": [
-        "1-83"
-      ], 
-      "housenumber": "1", 
-      "lat": 50.93085154901834, 
-      "lon": 5.341496043591651, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "afgeleidVanStraat", 
-      "street": "Meldertstraat"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "10", 
+      "apptnrs": [
         "11", 
-        "14", 
-        "2", 
         "3", 
         "4", 
         "5", 
-        "6", 
         "7", 
-        "8", 
         "9"
+      ], 
+      "busnrs": [
+        "1", 
+        "10", 
+        "2", 
+        "6", 
+        "8"
       ], 
       "hnrlbls": [
         "10-14"
@@ -39,29 +28,18 @@
       "street": "Meldertstraat"
     }, 
     {
-      "hnrlbls": [
-        "12"
-      ], 
-      "housenumber": "12", 
-      "lat": 50.93152858951517, 
-      "lon": 5.341040340094223, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Meldertstraat"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "10", 
+      "apptnrs": [
         "2", 
         "3", 
         "4", 
-        "5", 
         "6", 
         "7", 
         "8", 
         "9"
+      ], 
+      "busnrs": [
+        "1", 
+        "5"
       ], 
       "hnrlbls": [
         "10-14"
@@ -75,30 +53,15 @@
       "street": "Meldertstraat"
     }, 
     {
-      "busnrs": [
-        "2"
-      ], 
       "hnrlbls": [
-        "16-18"
-      ], 
-      "housenumber": "16", 
-      "lat": 50.93152917589004, 
-      "lon": 5.341175785918208, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Meldertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "16-18"
+        "18-25"
       ], 
       "housenumber": "18", 
-      "lat": 50.93152917589004, 
-      "lon": 5.341175785918208, 
+      "lat": 50.930807904390726, 
+      "lon": 5.3418483698944375, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Meldertstraat"
     }, 
     {
@@ -127,24 +90,17 @@
     }, 
     {
       "hnrlbls": [
-        "24-26"
+        "18-25"
       ], 
       "housenumber": "25", 
-      "lat": 50.931522721744834, 
-      "lon": 5.3414340002826926, 
+      "lat": 50.930807904390726, 
+      "lon": 5.3418483698944375, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Meldertstraat"
     }, 
     {
-      "busnrs": [
-        "10", 
-        "13", 
-        "14", 
-        "7", 
-        "8"
-      ], 
       "hnrlbls": [
         "24-26"
       ], 
@@ -157,13 +113,15 @@
       "street": "Meldertstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
-        "2", 
         "3", 
         "4", 
-        "5", 
         "6"
+      ], 
+      "busnrs": [
+        "2", 
+        "5"
       ], 
       "hnrlbls": [
         "28-32"
@@ -180,21 +138,11 @@
       "apptnrs": [
         "0.01", 
         "0.02", 
+        "1.01", 
         "1.02", 
         "2.01", 
         "3.01", 
         "4.01"
-      ], 
-      "busnrs": [
-        "01", 
-        "11", 
-        "12", 
-        "2", 
-        "21", 
-        "22", 
-        "31", 
-        "41", 
-        "5"
       ], 
       "hnrlbls": [
         "3-5"
@@ -208,13 +156,15 @@
       "street": "Meldertstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
+      "apptnrs": [
         "3", 
         "4", 
         "5", 
         "6"
+      ], 
+      "busnrs": [
+        "1", 
+        "2"
       ], 
       "hnrlbls": [
         "28-32"
@@ -228,13 +178,14 @@
       "street": "Meldertstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
-        "2", 
-        "3", 
         "4", 
-        "5", 
-        "6"
+        "5"
+      ], 
+      "busnrs": [
+        "2", 
+        "3"
       ], 
       "hnrlbls": [
         "28-32"
@@ -272,9 +223,6 @@
       "street": "Meldertstraat"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
         "38"
       ], 
@@ -287,13 +235,13 @@
       "street": "Meldertstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3"
       ], 
       "hnrlbls": [
-        "4-4A"
+        "4"
       ], 
       "housenumber": "4", 
       "lat": 50.93149562150977, 
@@ -317,20 +265,17 @@
     }, 
     {
       "hnrlbls": [
-        "40-42"
+        "40A"
       ], 
       "housenumber": "40A", 
-      "lat": 50.93127542740742, 
-      "lon": 5.342472500449489, 
+      "lat": 50.93125807154556, 
+      "lon": 5.342483947712172, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Meldertstraat"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
         "40-42"
       ], 
@@ -343,7 +288,7 @@
       "street": "Meldertstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1"
       ], 
       "hnrlbls": [
@@ -382,34 +327,16 @@
       "street": "Meldertstraat"
     }, 
     {
-      "hnrlbls": [
-        "4-4A"
-      ], 
-      "housenumber": "4A", 
-      "lat": 50.93149562150977, 
-      "lon": 5.340537755592995, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Meldertstraat"
-    }, 
-    {
       "apptnrs": [
         "0.01", 
-        "1.01", 
+        "0.02", 
         "1.02", 
         "2.01", 
         "2.02", 
         "4.01"
       ], 
       "busnrs": [
-        "1", 
-        "11", 
-        "12", 
-        "21", 
-        "22", 
-        "3", 
-        "41"
+        "1.01"
       ], 
       "hnrlbls": [
         "3-5"
@@ -424,26 +351,14 @@
     }, 
     {
       "hnrlbls": [
-        "50"
-      ], 
-      "housenumber": "50", 
-      "lat": 50.93098529212213, 
-      "lon": 5.342811599400072, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Meldertstraat"
-    }, 
-    {
-      "hnrlbls": [
         "54"
       ], 
       "housenumber": "54", 
-      "lat": 50.93091820082319, 
-      "lon": 5.342858005111784, 
+      "lat": 50.93089702292919, 
+      "lon": 5.342896686732581, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Meldertstraat"
     }, 
     {
@@ -459,9 +374,6 @@
       "street": "Meldertstraat"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
         "58"
       ], 
@@ -474,17 +386,16 @@
       "street": "Meldertstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
+      "apptnrs": [
         "10", 
-        "2", 
-        "3", 
         "4", 
         "5", 
         "6", 
         "7", 
-        "8", 
         "9"
+      ], 
+      "busnrs": [
+        "8"
       ], 
       "hnrlbls": [
         "6"
@@ -498,9 +409,6 @@
       "street": "Meldertstraat"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
         "60"
       ], 
@@ -513,10 +421,12 @@
       "street": "Meldertstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
+      "apptnrs": [
         "2", 
         "3"
+      ], 
+      "busnrs": [
+        "1"
       ], 
       "hnrlbls": [
         "64"
@@ -527,21 +437,6 @@
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanGebouw", 
-      "street": "Meldertstraat"
-    }, 
-    {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "1-83"
-      ], 
-      "housenumber": "83", 
-      "lat": 50.93085154901834, 
-      "lon": 5.341496043591651, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "afgeleidVanStraat", 
       "street": "Meldertstraat"
     }
   ]

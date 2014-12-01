@@ -25,15 +25,17 @@
       "street": "Woutersstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3", 
         "4", 
         "5", 
-        "6", 
         "7", 
         "8"
+      ], 
+      "busnrs": [
+        "6"
       ], 
       "hnrlbls": [
         "1-13"
@@ -47,10 +49,6 @@
       "street": "Woutersstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
       "hnrlbls": [
         "12"
       ], 
@@ -63,7 +61,7 @@
       "street": "Woutersstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3", 
@@ -99,11 +97,11 @@
         "15"
       ], 
       "housenumber": "15", 
-      "lat": 50.928017891703384, 
-      "lon": 5.3313731078668845, 
+      "lat": 50.92814188085764, 
+      "lon": 5.3312176116318675, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Woutersstraat"
     }, 
     {
@@ -131,7 +129,7 @@
       "street": "Woutersstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3"
@@ -237,7 +235,7 @@
       ], 
       "housenumber": "25", 
       "lat": 50.928445451532696, 
-      "lon": 5.33077076815351, 
+      "lon": 5.330770768153509, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanGebouw", 
@@ -281,11 +279,7 @@
     }, 
     {
       "apptnrs": [
-        "0.2"
-      ], 
-      "busnrs": [
-        "1", 
-        "2"
+        "1"
       ], 
       "hnrlbls": [
         "2A"
@@ -299,9 +293,8 @@
       "street": "Woutersstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
-        "10", 
         "11", 
         "2", 
         "3", 
@@ -311,6 +304,9 @@
         "7", 
         "8", 
         "9"
+      ], 
+      "busnrs": [
+        "10"
       ], 
       "hnrlbls": [
         "1-13"
@@ -364,11 +360,11 @@
         "33"
       ], 
       "housenumber": "33", 
-      "lat": 50.928586854702, 
-      "lon": 5.330563561528054, 
+      "lat": 50.92859634310149, 
+      "lon": 5.330579546253061, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Woutersstraat"
     }, 
     {
@@ -528,10 +524,6 @@
       "street": "Woutersstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
       "hnrlbls": [
         "48"
       ], 

@@ -2,18 +2,6 @@
   "addresses": [
     {
       "hnrlbls": [
-        "1-2"
-      ], 
-      "housenumber": "1", 
-      "lat": 50.92973248555698, 
-      "lon": 5.3372963111518175, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "geinterpoleerdObvWegverbinding", 
-      "street": "Kapelstraat"
-    }, 
-    {
-      "hnrlbls": [
         "10"
       ], 
       "housenumber": "10", 
@@ -97,9 +85,6 @@
       "street": "Kapelstraat"
     }, 
     {
-      "busnrs": [
-        "3"
-      ], 
       "hnrlbls": [
         "17"
       ], 
@@ -112,8 +97,11 @@
       "street": "Kapelstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "2"
+      ], 
+      "busnrs": [
+        "1"
       ], 
       "hnrlbls": [
         "18"
@@ -140,14 +128,14 @@
     }, 
     {
       "hnrlbls": [
-        "1-2"
+        "2"
       ], 
       "housenumber": "2", 
-      "lat": 50.92973248555698, 
-      "lon": 5.3372963111518175, 
+      "lat": 50.929653387817034, 
+      "lon": 5.33706564435656, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "geinterpoleerdObvWegverbinding", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Kapelstraat"
     }, 
     {
@@ -187,13 +175,17 @@
       "street": "Kapelstraat"
     }, 
     {
-      "busnrs": [
-        "3", 
+      "apptnrs": [
         "4", 
         "5", 
-        "6", 
-        "7", 
         "8"
+      ], 
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "6", 
+        "7"
       ], 
       "hnrlbls": [
         "23-25"
@@ -220,11 +212,11 @@
     }, 
     {
       "apptnrs": [
+        "2", 
         "3.01"
       ], 
       "busnrs": [
-        "1", 
-        "2"
+        "1"
       ], 
       "hnrlbls": [
         "26"
@@ -250,7 +242,7 @@
       "street": "Kapelstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1"
       ], 
       "hnrlbls": [
@@ -269,11 +261,11 @@
         "29"
       ], 
       "housenumber": "29", 
-      "lat": 50.93003240774263, 
-      "lon": 5.33590966236892, 
+      "lat": 50.929987677303224, 
+      "lon": 5.335992102575104, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Kapelstraat"
     }, 
     {
@@ -361,10 +353,14 @@
       "street": "Kapelstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "2", 
         "3", 
         "5"
+      ], 
+      "busnrs": [
+        "1", 
+        "4"
       ], 
       "hnrlbls": [
         "36"
@@ -390,18 +386,20 @@
       "street": "Kapelstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "10", 
+      "apptnrs": [
         "11", 
-        "12", 
-        "2", 
         "3", 
         "4", 
         "5", 
         "7", 
         "8", 
         "9"
+      ], 
+      "busnrs": [
+        "1", 
+        "10", 
+        "2", 
+        "6"
       ], 
       "hnrlbls": [
         "38"
@@ -419,11 +417,11 @@
         "39"
       ], 
       "housenumber": "39", 
-      "lat": 50.93005038243612, 
-      "lon": 5.335375428953389, 
+      "lat": 50.93021851508516, 
+      "lon": 5.335362250943773, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Kapelstraat"
     }, 
     {
@@ -439,7 +437,7 @@
       "street": "Kapelstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1"
       ], 
       "hnrlbls": [
@@ -454,9 +452,6 @@
       "street": "Kapelstraat"
     }, 
     {
-      "busnrs": [
-        "4"
-      ], 
       "hnrlbls": [
         "41"
       ], 
@@ -469,9 +464,12 @@
       "street": "Kapelstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "2", 
         "3"
+      ], 
+      "busnrs": [
+        "1"
       ], 
       "hnrlbls": [
         "42"
@@ -485,10 +483,12 @@
       "street": "Kapelstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
-        "2", 
         "3"
+      ], 
+      "busnrs": [
+        "2"
       ], 
       "hnrlbls": [
         "43"
@@ -499,18 +499,6 @@
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanGebouw", 
-      "street": "Kapelstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "42-43A"
-      ], 
-      "housenumber": "43A", 
-      "lat": 50.930312358745226, 
-      "lon": 5.335134438242364, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Kapelstraat"
     }, 
     {
@@ -562,9 +550,6 @@
       "street": "Kapelstraat"
     }, 
     {
-      "busnrs": [
-        "2"
-      ], 
       "hnrlbls": [
         "45A-47"
       ], 
@@ -625,10 +610,6 @@
       "street": "Kapelstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "5"
-      ], 
       "hnrlbls": [
         "53"
       ], 
@@ -642,7 +623,7 @@
     }, 
     {
       "hnrlbls": [
-        "55-55A"
+        "55"
       ], 
       "housenumber": "55", 
       "lat": 50.93018429262651, 
@@ -650,18 +631,6 @@
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanGebouw", 
-      "street": "Kapelstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "55-55A"
-      ], 
-      "housenumber": "55A", 
-      "lat": 50.93018429262651, 
-      "lon": 5.334233297096149, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Kapelstraat"
     }, 
     {
@@ -674,30 +643,6 @@
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanGebouw", 
-      "street": "Kapelstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "6"
-      ], 
-      "housenumber": "6", 
-      "lat": 50.929681563085964, 
-      "lon": 5.336941324971901, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Kapelstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "63-81"
-      ], 
-      "housenumber": "63", 
-      "lat": 50.929843275853926, 
-      "lon": 5.335383393417857, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "afgeleidVanStraat", 
       "street": "Kapelstraat"
     }, 
     {
@@ -738,18 +683,6 @@
     }, 
     {
       "hnrlbls": [
-        "63-81"
-      ], 
-      "housenumber": "75", 
-      "lat": 50.929843275853926, 
-      "lon": 5.335383393417857, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "afgeleidVanStraat", 
-      "street": "Kapelstraat"
-    }, 
-    {
-      "hnrlbls": [
         "8"
       ], 
       "housenumber": "8", 
@@ -762,22 +695,10 @@
     }, 
     {
       "hnrlbls": [
-        "63-81"
-      ], 
-      "housenumber": "81", 
-      "lat": 50.929843275853926, 
-      "lon": 5.335383393417857, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "afgeleidVanStraat", 
-      "street": "Kapelstraat"
-    }, 
-    {
-      "hnrlbls": [
         "9"
       ], 
       "housenumber": "9", 
-      "lat": 50.92992660895422, 
+      "lat": 50.92992660895421, 
       "lon": 5.336889624281699, 
       "municipality": "Hasselt", 
       "pcode": "3500", 

@@ -1,7 +1,7 @@
 {
   "addresses": [
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "10", 
         "11", 
@@ -50,7 +50,7 @@
       "street": "Arnold Maesstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3", 
@@ -72,9 +72,8 @@
       "street": "Arnold Maesstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
-        "10", 
         "2", 
         "3", 
         "4", 
@@ -96,7 +95,7 @@
       "street": "Arnold Maesstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3", 
@@ -117,7 +116,7 @@
       "street": "Arnold Maesstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "10", 
         "11", 
@@ -129,10 +128,12 @@
         "3", 
         "4", 
         "5", 
-        "6", 
         "7", 
         "8", 
         "9"
+      ], 
+      "busnrs": [
+        "6"
       ], 
       "hnrlbls": [
         "16-18"
@@ -146,15 +147,17 @@
       "street": "Arnold Maesstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3", 
         "4", 
         "5", 
-        "6", 
         "7", 
         "8"
+      ], 
+      "busnrs": [
+        "6"
       ], 
       "hnrlbls": [
         "19-21"
@@ -168,7 +171,7 @@
       "street": "Arnold Maesstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3", 
@@ -187,15 +190,17 @@
       "street": "Arnold Maesstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3", 
         "4", 
         "5", 
-        "6", 
         "7", 
         "8"
+      ], 
+      "busnrs": [
+        "6"
       ], 
       "hnrlbls": [
         "19-21"
@@ -209,7 +214,7 @@
       "street": "Arnold Maesstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3", 
@@ -227,11 +232,10 @@
       "street": "Arnold Maesstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
-        "3", 
-        "4"
+        "3"
       ], 
       "hnrlbls": [
         "4"
@@ -245,13 +249,15 @@
       "street": "Arnold Maesstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3", 
         "4", 
-        "5", 
         "6"
+      ], 
+      "busnrs": [
+        "5"
       ], 
       "hnrlbls": [
         "7-9"
@@ -265,10 +271,6 @@
       "street": "Arnold Maesstraat"
     }, 
     {
-      "busnrs": [
-        "3", 
-        "4"
-      ], 
       "hnrlbls": [
         "7-9"
       ], 
@@ -278,21 +280,6 @@
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanGebouw", 
-      "street": "Arnold Maesstraat"
-    }, 
-    {
-      "busnrs": [
-        "6"
-      ], 
-      "hnrlbls": [
-        "91"
-      ], 
-      "housenumber": "91", 
-      "lat": 50.931694269436065, 
-      "lon": 5.3482553638223385, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "afgeleidVanStraat", 
       "street": "Arnold Maesstraat"
     }
   ]

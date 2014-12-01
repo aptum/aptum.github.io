@@ -1,19 +1,19 @@
 {
   "addresses": [
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
-        "3", 
         "4", 
         "5", 
-        "6", 
-        "7", 
-        "8", 
-        "9"
+        "7"
+      ], 
+      "busnrs": [
+        "3", 
+        "6"
       ], 
       "hnrlbls": [
-        "1"
+        "1-17"
       ], 
       "housenumber": "1", 
       "lat": 50.93046244819282, 
@@ -36,12 +36,8 @@
       "street": "Sint-Corneliusstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
       "hnrlbls": [
-        "13-13B"
+        "13"
       ], 
       "housenumber": "13", 
       "lat": 50.930180657442705, 
@@ -53,26 +49,26 @@
     }, 
     {
       "hnrlbls": [
-        "13-13B"
+        "13A-13B"
       ], 
       "housenumber": "13A", 
-      "lat": 50.930180657442705, 
-      "lon": 5.345703353448921, 
+      "lat": 50.93018560025293, 
+      "lon": 5.345649540543674, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Sint-Corneliusstraat"
     }, 
     {
       "hnrlbls": [
-        "13-13B"
+        "13A-13B"
       ], 
       "housenumber": "13B", 
-      "lat": 50.930180657442705, 
-      "lon": 5.345703353448921, 
+      "lat": 50.93018560025293, 
+      "lon": 5.345649540543674, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Sint-Corneliusstraat"
     }, 
     {
@@ -100,7 +96,7 @@
       "street": "Sint-Corneliusstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3"
@@ -141,7 +137,7 @@
       "street": "Sint-Corneliusstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "10", 
         "11", 
@@ -152,8 +148,7 @@
         "6", 
         "7", 
         "8", 
-        "9", 
-        "A4"
+        "9"
       ], 
       "hnrlbls": [
         "21-23"
@@ -167,7 +162,7 @@
       "street": "Sint-Corneliusstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3"
@@ -184,8 +179,7 @@
       "street": "Sint-Corneliusstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
+      "apptnrs": [
         "10", 
         "2", 
         "3", 
@@ -195,6 +189,9 @@
         "7", 
         "8", 
         "9"
+      ], 
+      "busnrs": [
+        "1"
       ], 
       "hnrlbls": [
         "21-23"
@@ -236,11 +233,11 @@
         "3"
       ], 
       "housenumber": "3", 
-      "lat": 50.930405591215646, 
-      "lon": 5.345746307839141, 
+      "lat": 50.93041811783967, 
+      "lon": 5.34563461102365, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Sint-Corneliusstraat"
     }, 
     {
@@ -320,7 +317,7 @@
         "40"
       ], 
       "housenumber": "40", 
-      "lat": 50.92940293224887, 
+      "lat": 50.92940293224886, 
       "lon": 5.34584306157528, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
@@ -328,16 +325,19 @@
       "street": "Sint-Corneliusstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "10", 
         "2", 
         "3", 
-        "4", 
         "5", 
         "6", 
         "7", 
         "8", 
         "9"
+      ], 
+      "busnrs": [
+        "1", 
+        "4"
       ], 
       "hnrlbls": [
         "30-43"
@@ -363,16 +363,19 @@
       "street": "Sint-Corneliusstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
+      "apptnrs": [
         "10", 
         "2", 
         "3", 
-        "4", 
         "5", 
-        "7", 
         "8", 
         "9"
+      ], 
+      "busnrs": [
+        "1", 
+        "4", 
+        "6", 
+        "7"
       ], 
       "hnrlbls": [
         "30-43"
@@ -410,15 +413,18 @@
       "street": "Sint-Corneliusstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "2", 
         "3"
+      ], 
+      "busnrs": [
+        "1"
       ], 
       "hnrlbls": [
         "46"
       ], 
       "housenumber": "46", 
-      "lat": 50.9292493805713, 
+      "lat": 50.929249380571285, 
       "lon": 5.345756784600888, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
@@ -462,10 +468,9 @@
       "street": "Sint-Corneliusstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
-        "2", 
-        "3"
+        "2"
       ], 
       "hnrlbls": [
         "52"
@@ -500,18 +505,6 @@
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanGebouw", 
-      "street": "Sint-Corneliusstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "62"
-      ], 
-      "housenumber": "62", 
-      "lat": 50.929686702510786, 
-      "lon": 5.345578544834174, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "afgeleidVanStraat", 
       "street": "Sint-Corneliusstraat"
     }, 
     {

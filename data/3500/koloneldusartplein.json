@@ -1,9 +1,8 @@
 {
   "addresses": [
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
-        "10", 
         "2", 
         "3", 
         "4", 
@@ -29,18 +28,6 @@
       "housenumber": "10", 
       "lat": 50.930908321326854, 
       "lon": 5.343430967096053, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Kolonel Dusartplein"
-    }, 
-    {
-      "hnrlbls": [
-        "27-101"
-      ], 
-      "housenumber": "101", 
-      "lat": 50.931704177035556, 
-      "lon": 5.344960903806485, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanGebouw", 
@@ -95,7 +82,7 @@
       "street": "Kolonel Dusartplein"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1"
       ], 
       "hnrlbls": [
@@ -126,7 +113,7 @@
       "street": "Kolonel Dusartplein"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1"
       ], 
       "hnrlbls": [
@@ -141,12 +128,6 @@
       "street": "Kolonel Dusartplein"
     }, 
     {
-      "apptnrs": [
-        "1.00"
-      ], 
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
         "18"
       ], 
@@ -171,10 +152,12 @@
       "street": "Kolonel Dusartplein"
     }, 
     {
-      "busnrs": [
-        "1", 
+      "apptnrs": [
         "2", 
         "3"
+      ], 
+      "busnrs": [
+        "1"
       ], 
       "hnrlbls": [
         "1A"
@@ -189,14 +172,11 @@
     }, 
     {
       "apptnrs": [
-        "0.2"
-      ], 
-      "busnrs": [
         "1", 
         "2"
       ], 
       "hnrlbls": [
-        "1B-6B"
+        "1B-6"
       ], 
       "housenumber": "1B", 
       "lat": 50.930701147321045, 
@@ -208,7 +188,7 @@
     }, 
     {
       "hnrlbls": [
-        "1B-6B"
+        "1B-6"
       ], 
       "housenumber": "1C", 
       "lat": 50.930701147321045, 
@@ -219,7 +199,7 @@
       "street": "Kolonel Dusartplein"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3", 
@@ -301,9 +281,6 @@
       "street": "Kolonel Dusartplein"
     }, 
     {
-      "busnrs": [
-        "2"
-      ], 
       "hnrlbls": [
         "26-28"
       ], 
@@ -319,18 +296,10 @@
       "apptnrs": [
         "0.01", 
         "0.02", 
-        "1.01", 
-        "3.01"
-      ], 
-      "busnrs": [
-        "002", 
-        "1", 
-        "101", 
-        "201", 
-        "302"
+        "1.01"
       ], 
       "hnrlbls": [
-        "27-101"
+        "27-31"
       ], 
       "housenumber": "27", 
       "lat": 50.931704177035556, 
@@ -354,7 +323,7 @@
     }, 
     {
       "hnrlbls": [
-        "27-101"
+        "27-31"
       ], 
       "housenumber": "29", 
       "lat": 50.931704177035556, 
@@ -365,7 +334,7 @@
       "street": "Kolonel Dusartplein"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3"
@@ -374,26 +343,11 @@
         "2B"
       ], 
       "housenumber": "2B", 
-      "lat": 50.930701528431776, 
+      "lat": 50.93070152843177, 
       "lon": 5.344440127254603, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanGebouw", 
-      "street": "Kolonel Dusartplein"
-    }, 
-    {
-      "busnrs": [
-        "A"
-      ], 
-      "hnrlbls": [
-        "2_1"
-      ], 
-      "housenumber": "2_1", 
-      "lat": 50.93059207783909, 
-      "lon": 5.343492677669852, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Kolonel Dusartplein"
     }, 
     {
@@ -409,21 +363,8 @@
       "street": "Kolonel Dusartplein"
     }, 
     {
-      "apptnrs": [
-        "0.01", 
-        "0.02", 
-        "1.01", 
-        "2.01"
-      ], 
-      "busnrs": [
-        "001", 
-        "2", 
-        "201", 
-        "301", 
-        "302"
-      ], 
       "hnrlbls": [
-        "27-101"
+        "27-31"
       ], 
       "housenumber": "31", 
       "lat": 50.931704177035556, 
@@ -446,11 +387,9 @@
       "street": "Kolonel Dusartplein"
     }, 
     {
-      "busnrs": [
-        "1", 
+      "apptnrs": [
         "10", 
         "11", 
-        "12", 
         "13", 
         "14", 
         "3", 
@@ -460,6 +399,11 @@
         "7", 
         "8", 
         "9"
+      ], 
+      "busnrs": [
+        "1", 
+        "12", 
+        "2"
       ], 
       "hnrlbls": [
         "34"
@@ -473,7 +417,7 @@
       "street": "Kolonel Dusartplein"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "10", 
         "11", 
@@ -523,7 +467,8 @@
         "51", 
         "6", 
         "7", 
-        "8"
+        "8", 
+        "9"
       ], 
       "hnrlbls": [
         "35"
@@ -538,53 +483,13 @@
     }, 
     {
       "apptnrs": [
-        "0.4"
-      ], 
-      "hnrlbls": [
-        "35E"
-      ], 
-      "housenumber": "35E", 
-      "lat": 50.931970816416964, 
-      "lon": 5.3451237991254805, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Kolonel Dusartplein"
-    }, 
-    {
-      "apptnrs": [
+        "2.01", 
         "2.02", 
-        "3.01", 
         "3.02", 
-        "4.01", 
-        "4.02", 
-        "5.01", 
-        "5.02", 
-        "6.01", 
-        "6.02", 
-        "7.01", 
-        "7.02", 
-        "8.01", 
-        "8.02"
+        "4.02"
       ], 
       "busnrs": [
-        "1", 
-        "201", 
-        "202", 
-        "301", 
-        "302", 
-        "4", 
-        "402", 
-        "501", 
-        "502", 
-        "6", 
-        "601", 
-        "602", 
-        "7", 
-        "701", 
-        "702", 
-        "801", 
-        "802"
+        "0.01"
       ], 
       "hnrlbls": [
         "36"
@@ -610,7 +515,7 @@
       "street": "Kolonel Dusartplein"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3"
@@ -723,9 +628,11 @@
       "street": "Kolonel Dusartplein"
     }, 
     {
-      "busnrs": [
-        "1", 
+      "apptnrs": [
         "2"
+      ], 
+      "busnrs": [
+        "1"
       ], 
       "hnrlbls": [
         "6"
@@ -751,7 +658,7 @@
       "street": "Kolonel Dusartplein"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1"
       ], 
       "hnrlbls": [

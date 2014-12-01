@@ -85,7 +85,7 @@
       "street": "Bergstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3", 
@@ -241,11 +241,11 @@
         "33"
       ], 
       "housenumber": "33", 
-      "lat": 50.919893699612985, 
-      "lon": 5.337345855923285, 
+      "lat": 50.920059857725164, 
+      "lon": 5.337168943301606, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Bergstraat"
     }, 
     {
@@ -369,7 +369,7 @@
       "street": "Bergstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3", 
@@ -399,7 +399,7 @@
       "street": "Bergstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3", 
@@ -489,11 +489,10 @@
       "street": "Bergstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
-        "3", 
-        "4"
+        "3"
       ], 
       "hnrlbls": [
         "53-57"
@@ -519,7 +518,7 @@
       "street": "Bergstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3", 
@@ -549,10 +548,13 @@
       "street": "Bergstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
-        "2", 
         "4"
+      ], 
+      "busnrs": [
+        "2", 
+        "3"
       ], 
       "hnrlbls": [
         "53-57"
@@ -578,8 +580,7 @@
       "street": "Bergstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
+      "apptnrs": [
         "2"
       ], 
       "hnrlbls": [
@@ -815,7 +816,7 @@
       ], 
       "housenumber": "91", 
       "lat": 50.91774739263715, 
-      "lon": 5.338980157292266, 
+      "lon": 5.338980157292267, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanGebouw", 

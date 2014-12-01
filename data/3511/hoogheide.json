@@ -30,7 +30,7 @@
       ], 
       "housenumber": "12", 
       "lat": 50.95722093245374, 
-      "lon": 5.326902007600845, 
+      "lon": 5.326902007600844, 
       "municipality": "Hasselt", 
       "pcode": "3511", 
       "source": "afgeleidVanGebouw", 
@@ -97,13 +97,15 @@
       "street": "Hoogheide"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
-        "2", 
         "3", 
-        "4", 
         "5", 
         "6"
+      ], 
+      "busnrs": [
+        "2", 
+        "4"
       ], 
       "hnrlbls": [
         "30"
@@ -229,11 +231,11 @@
         "48"
       ], 
       "housenumber": "48", 
-      "lat": 50.95867797052012, 
-      "lon": 5.325960443674287, 
+      "lat": 50.959664428093795, 
+      "lon": 5.326414042506999, 
       "municipality": "Hasselt", 
       "pcode": "3511", 
-      "source": "afgeleidVanStraat", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Hoogheide"
     }, 
     {
@@ -246,6 +248,18 @@
       "municipality": "Hasselt", 
       "pcode": "3511", 
       "source": "afgeleidVanGebouw", 
+      "street": "Hoogheide"
+    }, 
+    {
+      "hnrlbls": [
+        "5"
+      ], 
+      "housenumber": "5", 
+      "lat": 50.95633065783798, 
+      "lon": 5.3261409469197085, 
+      "municipality": "Hasselt", 
+      "pcode": "3511", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Hoogheide"
     }, 
     {
@@ -309,6 +323,9 @@
       "street": "Hoogheide"
     }, 
     {
+      "apptnrs": [
+        "1.01"
+      ], 
       "hnrlbls": [
         "8"
       ], 

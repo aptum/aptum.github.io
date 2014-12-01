@@ -45,7 +45,7 @@
         "103"
       ], 
       "housenumber": "103", 
-      "lat": 50.9057285833372, 
+      "lat": 50.90572858333718, 
       "lon": 4.372509597565084, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
@@ -81,7 +81,7 @@
         "106"
       ], 
       "housenumber": "106", 
-      "lat": 50.90620638018159, 
+      "lat": 50.90620638018158, 
       "lon": 4.37216927988366, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
@@ -229,15 +229,19 @@
         "8", 
         "9"
       ], 
+      "busnrs": [
+        "O/01", 
+        "O/02"
+      ], 
       "hnrlbls": [
-        "13-15O"
+        "13-15B"
       ], 
       "housenumber": "13", 
       "lat": 50.904080038856414, 
       "lon": 4.375715020362404, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "afgeleidVanGebouw", 
       "street": "Strombeeksesteenweg"
     }, 
     {
@@ -274,22 +278,6 @@
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
       "source": "manueleAanduidingVanPerceel", 
-      "street": "Strombeeksesteenweg"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
-      "hnrlbls": [
-        "13-15O"
-      ], 
-      "housenumber": "13O", 
-      "lat": 50.904080038856414, 
-      "lon": 4.375715020362404, 
-      "municipality": "Vilvoorde", 
-      "pcode": "1800", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Strombeeksesteenweg"
     }, 
     {
@@ -369,14 +357,14 @@
     }, 
     {
       "hnrlbls": [
-        "149A"
+        "149"
       ], 
-      "housenumber": "149A", 
-      "lat": 50.9058710361079, 
-      "lon": 4.370381149420342, 
+      "housenumber": "149", 
+      "lat": 50.90587104746696, 
+      "lon": 4.370381151053385, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "afgeleidVanGebouw", 
       "street": "Strombeeksesteenweg"
     }, 
     {
@@ -389,15 +377,18 @@
         "3/2", 
         "6"
       ], 
+      "busnrs": [
+        "O/01"
+      ], 
       "hnrlbls": [
-        "13-15O"
+        "13-15B"
       ], 
       "housenumber": "15", 
       "lat": 50.904080038856414, 
       "lon": 4.375715020362404, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "afgeleidVanGebouw", 
       "street": "Strombeeksesteenweg"
     }, 
     {
@@ -450,29 +441,14 @@
     }, 
     {
       "hnrlbls": [
-        "15B"
+        "13-15B"
       ], 
       "housenumber": "15B", 
-      "lat": 50.90413425130287, 
-      "lon": 4.375613379757551, 
-      "municipality": "Vilvoorde", 
-      "pcode": "1800", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Strombeeksesteenweg"
-    }, 
-    {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "13-15O"
-      ], 
-      "housenumber": "15O", 
       "lat": 50.904080038856414, 
       "lon": 4.375715020362404, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Strombeeksesteenweg"
     }, 
     {
@@ -596,8 +572,8 @@
         "19"
       ], 
       "housenumber": "19", 
-      "lat": 50.90423601979761, 
-      "lon": 4.375473787778563, 
+      "lat": 50.90423601979762, 
+      "lon": 4.375473787778564, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
       "source": "manueleAanduidingVanPerceel", 
@@ -725,6 +701,18 @@
     }, 
     {
       "hnrlbls": [
+        "208"
+      ], 
+      "housenumber": "208", 
+      "lat": 50.90782208850448, 
+      "lon": 4.3702589725101095, 
+      "municipality": "Vilvoorde", 
+      "pcode": "1800", 
+      "source": "afgeleidVanPerceelKadaster", 
+      "street": "Strombeeksesteenweg"
+    }, 
+    {
+      "hnrlbls": [
         "209"
       ], 
       "housenumber": "209", 
@@ -778,18 +766,6 @@
       "housenumber": "212", 
       "lat": 50.9073182421499, 
       "lon": 4.369845925648932, 
-      "municipality": "Vilvoorde", 
-      "pcode": "1800", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Strombeeksesteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "214"
-      ], 
-      "housenumber": "214", 
-      "lat": 50.90783647061451, 
-      "lon": 4.370304328048252, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
       "source": "manueleAanduidingVanPerceel", 
@@ -950,7 +926,7 @@
         "238"
       ], 
       "housenumber": "238", 
-      "lat": 50.908429692562926, 
+      "lat": 50.90842969256292, 
       "lon": 4.366790376250864, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
@@ -998,7 +974,7 @@
         "252"
       ], 
       "housenumber": "252", 
-      "lat": 50.90878053433491, 
+      "lat": 50.90878053433492, 
       "lon": 4.3659202182870445, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
@@ -1384,7 +1360,7 @@
         "76"
       ], 
       "housenumber": "76", 
-      "lat": 50.9056304641259, 
+      "lat": 50.90563046412589, 
       "lon": 4.373577439013285, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
@@ -1464,7 +1440,7 @@
         "85"
       ], 
       "housenumber": "85", 
-      "lat": 50.905468768960006, 
+      "lat": 50.90546876896003, 
       "lon": 4.373053661720531, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 

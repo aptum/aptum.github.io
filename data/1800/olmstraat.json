@@ -89,8 +89,8 @@
         "111"
       ], 
       "housenumber": "111", 
-      "lat": 50.93054342083434, 
-      "lon": 4.433731964294269, 
+      "lat": 50.93032458332, 
+      "lon": 4.4342533176185395, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
       "source": "manueleAanduidingVanPerceel", 
@@ -273,8 +273,8 @@
         "125"
       ], 
       "housenumber": "125", 
-      "lat": 50.93105134050096, 
-      "lon": 4.433365531357333, 
+      "lat": 50.930607684760155, 
+      "lon": 4.434363247619179, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
       "source": "manueleAanduidingVanPerceel", 
@@ -782,7 +782,7 @@
         "165"
       ], 
       "housenumber": "165", 
-      "lat": 50.93230208408553, 
+      "lat": 50.93230208408552, 
       "lon": 4.435481997018909, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
@@ -794,11 +794,11 @@
         "166"
       ], 
       "housenumber": "166", 
-      "lat": 50.931686787872636, 
-      "lon": 4.435758359328743, 
+      "lat": 50.93179251635265, 
+      "lon": 4.435555848763987, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Olmstraat"
     }, 
     {
@@ -1051,6 +1051,9 @@
         "2/1", 
         "2/2"
       ], 
+      "busnrs": [
+        "O/01"
+      ], 
       "hnrlbls": [
         "186"
       ], 
@@ -1060,21 +1063,6 @@
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
       "source": "manueleAanduidingVanPerceel", 
-      "street": "Olmstraat"
-    }, 
-    {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "186O"
-      ], 
-      "housenumber": "186O", 
-      "lat": 50.932516498532706, 
-      "lon": 4.436071517457248, 
-      "municipality": "Vilvoorde", 
-      "pcode": "1800", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Olmstraat"
     }, 
     {
@@ -1551,11 +1539,11 @@
         "230"
       ], 
       "housenumber": "230", 
-      "lat": 50.93379526057911, 
-      "lon": 4.436936444094947, 
+      "lat": 50.933691969283295, 
+      "lon": 4.436870792531516, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "afgeleidVanGebouw", 
       "street": "Olmstraat"
     }, 
     {
@@ -1578,11 +1566,11 @@
         "232"
       ], 
       "housenumber": "232", 
-      "lat": 50.933691922190334, 
-      "lon": 4.436870854336398, 
+      "lat": 50.93374619619239, 
+      "lon": 4.436893030850051, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Olmstraat"
     }, 
     {
@@ -1602,11 +1590,11 @@
         "234"
       ], 
       "housenumber": "234", 
-      "lat": 50.93374890481517, 
-      "lon": 4.436887012925014, 
+      "lat": 50.933796510589914, 
+      "lon": 4.436936919899683, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Olmstraat"
     }, 
     {
@@ -1722,8 +1710,8 @@
         "261"
       ], 
       "housenumber": "261", 
-      "lat": 50.93453639600505, 
-      "lon": 4.436528536748744, 
+      "lat": 50.93453639600503, 
+      "lon": 4.436528536748743, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
       "source": "manueleAanduidingVanPerceel", 
@@ -1869,7 +1857,7 @@
         "285"
       ], 
       "housenumber": "285", 
-      "lat": 50.93544374674109, 
+      "lat": 50.93544374674111, 
       "lon": 4.436730023421213, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
@@ -2040,7 +2028,7 @@
         "299"
       ], 
       "housenumber": "299", 
-      "lat": 50.935977606741375, 
+      "lat": 50.93597760674138, 
       "lon": 4.43675314015228, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
@@ -2058,8 +2046,12 @@
         "2/2", 
         "2/3"
       ], 
+      "busnrs": [
+        "O/01", 
+        "O/03"
+      ], 
       "hnrlbls": [
-        "30-30O"
+        "30"
       ], 
       "housenumber": "30", 
       "lat": 50.929053241972305, 
@@ -2098,8 +2090,8 @@
         "302"
       ], 
       "housenumber": "302", 
-      "lat": 50.93449241861593, 
-      "lon": 4.4370235342275945, 
+      "lat": 50.93449241861592, 
+      "lon": 4.437023534227595, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
       "source": "manueleAanduidingVanPerceel", 
@@ -2190,22 +2182,6 @@
       "street": "Olmstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "3"
-      ], 
-      "hnrlbls": [
-        "30-30O"
-      ], 
-      "housenumber": "30O", 
-      "lat": 50.929053241972305, 
-      "lon": 4.434093450925121, 
-      "municipality": "Vilvoorde", 
-      "pcode": "1800", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Olmstraat"
-    }, 
-    {
       "hnrlbls": [
         "31"
       ], 
@@ -2274,7 +2250,7 @@
         "314"
       ], 
       "housenumber": "314", 
-      "lat": 50.934705256411576, 
+      "lat": 50.93470525641157, 
       "lon": 4.437072073107572, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
@@ -2768,8 +2744,8 @@
         "55"
       ], 
       "housenumber": "55", 
-      "lat": 50.9292392871214, 
-      "lon": 4.433832412029436, 
+      "lat": 50.92923928712139, 
+      "lon": 4.433832412029435, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
       "source": "manueleAanduidingVanPerceel", 
@@ -2858,14 +2834,14 @@
         "3"
       ], 
       "hnrlbls": [
-        "66-70"
+        "66"
       ], 
       "housenumber": "66", 
-      "lat": 50.92959001413845, 
-      "lon": 4.4343752808595625, 
+      "lat": 50.92945612045833, 
+      "lon": 4.434329219376555, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Olmstraat"
     }, 
     {
@@ -2887,14 +2863,14 @@
         "3"
       ], 
       "hnrlbls": [
-        "66-70"
+        "68"
       ], 
       "housenumber": "68", 
-      "lat": 50.92959001413845, 
-      "lon": 4.4343752808595625, 
+      "lat": 50.92955095985495, 
+      "lon": 4.434340994674546, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Olmstraat"
     }, 
     {
@@ -2919,29 +2895,14 @@
         "O/01"
       ], 
       "hnrlbls": [
-        "66-70"
+        "70"
       ], 
       "housenumber": "70", 
-      "lat": 50.92959001413845, 
-      "lon": 4.4343752808595625, 
+      "lat": 50.929716604825096, 
+      "lon": 4.434375390093416, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Olmstraat"
-    }, 
-    {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "70O"
-      ], 
-      "housenumber": "70O", 
-      "lat": 50.929500311998304, 
-      "lon": 4.434355666671263, 
-      "municipality": "Vilvoorde", 
-      "pcode": "1800", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Olmstraat"
     }, 
     {
@@ -3105,8 +3066,8 @@
         "84"
       ], 
       "housenumber": "84", 
-      "lat": 50.92998646349011, 
-      "lon": 4.434496749739975, 
+      "lat": 50.929986463490096, 
+      "lon": 4.434496749739976, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
       "source": "manueleAanduidingVanPerceel", 
@@ -3168,8 +3129,8 @@
         "96"
       ], 
       "housenumber": "96", 
-      "lat": 50.930243141210106, 
-      "lon": 4.434596827737279, 
+      "lat": 50.9302431412101, 
+      "lon": 4.43459682773728, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
       "source": "manueleAanduidingVanPerceel", 

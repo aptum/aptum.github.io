@@ -1,14 +1,10 @@
 {
   "addresses": [
     {
-      "busnrs": [
-        "1", 
+      "apptnrs": [
         "10", 
         "11", 
         "12", 
-        "2", 
-        "3", 
-        "5", 
         "6", 
         "7", 
         "8", 
@@ -39,30 +35,6 @@
     }, 
     {
       "hnrlbls": [
-        "/zn-11"
-      ], 
-      "housenumber": "11", 
-      "lat": 50.930285854219456, 
-      "lon": 5.344177261410885, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "afgeleidVanStraat", 
-      "street": "Guldensporenplein"
-    }, 
-    {
-      "hnrlbls": [
-        "14"
-      ], 
-      "housenumber": "14", 
-      "lat": 50.92987452119023, 
-      "lon": 5.344809146794673, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Guldensporenplein"
-    }, 
-    {
-      "hnrlbls": [
         "16"
       ], 
       "housenumber": "16", 
@@ -80,21 +52,6 @@
       "housenumber": "18", 
       "lat": 50.92977303999546, 
       "lon": 5.344515122891425, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Guldensporenplein"
-    }, 
-    {
-      "busnrs": [
-        "4"
-      ], 
-      "hnrlbls": [
-        "2-4"
-      ], 
-      "housenumber": "2", 
-      "lat": 50.93031920682683, 
-      "lon": 5.3449128635521985, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanGebouw", 
@@ -126,14 +83,26 @@
     }, 
     {
       "hnrlbls": [
-        "2A"
+        "2A-2B"
       ], 
       "housenumber": "2A", 
-      "lat": 50.930277354378006, 
-      "lon": 5.344734880325033, 
+      "lat": 50.93025785055096, 
+      "lon": 5.344766767023509, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Guldensporenplein"
+    }, 
+    {
+      "hnrlbls": [
+        "2A-2B"
+      ], 
+      "housenumber": "2B", 
+      "lat": 50.93025785055096, 
+      "lon": 5.344766767023509, 
+      "municipality": "Hasselt", 
+      "pcode": "3500", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Guldensporenplein"
     }, 
     {
@@ -150,25 +119,21 @@
     }, 
     {
       "apptnrs": [
-        "2.01", 
-        "3.01", 
-        "3.02", 
-        "4.01", 
-        "5.01", 
-        "5.02"
+        "2.1", 
+        "2.2", 
+        "3.1", 
+        "3.2", 
+        "4.1", 
+        "4.2", 
+        "5.1", 
+        "5.2"
       ], 
       "busnrs": [
-        "21", 
-        "22", 
-        "31", 
-        "32", 
-        "41", 
-        "42", 
-        "51", 
-        "52"
+        "1.1", 
+        "1.2"
       ], 
       "hnrlbls": [
-        "2-4"
+        "4"
       ], 
       "housenumber": "4", 
       "lat": 50.93031920682683, 
@@ -191,7 +156,7 @@
       "street": "Guldensporenplein"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "10", 
         "11", 
         "12", 
@@ -201,9 +166,12 @@
         "4", 
         "5", 
         "6", 
-        "7", 
         "8", 
         "9"
+      ], 
+      "busnrs": [
+        "1", 
+        "7"
       ], 
       "hnrlbls": [
         "6"
@@ -217,7 +185,7 @@
       "street": "Guldensporenplein"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "10", 
         "11", 
@@ -225,10 +193,12 @@
         "3", 
         "4", 
         "5", 
-        "6", 
         "7", 
         "8", 
         "9"
+      ], 
+      "busnrs": [
+        "6"
       ], 
       "hnrlbls": [
         "8-10"

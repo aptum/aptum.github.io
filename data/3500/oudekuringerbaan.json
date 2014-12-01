@@ -49,7 +49,7 @@
       "street": "Oude Kuringerbaan"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1"
       ], 
       "hnrlbls": [
@@ -140,7 +140,7 @@
         "111"
       ], 
       "housenumber": "111", 
-      "lat": 50.935518089106615, 
+      "lat": 50.93551808910663, 
       "lon": 5.322252408878465, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
@@ -208,7 +208,7 @@
       "street": "Oude Kuringerbaan"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1"
       ], 
       "hnrlbls": [
@@ -247,7 +247,7 @@
       "street": "Oude Kuringerbaan"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3", 
@@ -279,7 +279,7 @@
       "street": "Oude Kuringerbaan"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2"
       ], 
@@ -311,11 +311,11 @@
         "123"
       ], 
       "housenumber": "123", 
-      "lat": 50.936245809428584, 
-      "lon": 5.320759368042153, 
+      "lat": 50.936399221478545, 
+      "lon": 5.321086731564298, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Oude Kuringerbaan"
     }, 
     {
@@ -343,7 +343,7 @@
       "street": "Oude Kuringerbaan"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1"
       ], 
       "hnrlbls": [
@@ -370,24 +370,23 @@
       "street": "Oude Kuringerbaan"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
-        "2", 
-        "3"
+        "2"
       ], 
       "hnrlbls": [
         "130"
       ], 
       "housenumber": "130", 
-      "lat": 50.93529297233285, 
-      "lon": 5.32193212616452, 
+      "lat": 50.93529297233284, 
+      "lon": 5.321932126164519, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanGebouw", 
       "street": "Oude Kuringerbaan"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2"
       ], 
@@ -424,18 +423,6 @@
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanGebouw", 
-      "street": "Oude Kuringerbaan"
-    }, 
-    {
-      "hnrlbls": [
-        "148B"
-      ], 
-      "housenumber": "148B", 
-      "lat": 50.93552143078604, 
-      "lon": 5.320954370027414, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Oude Kuringerbaan"
     }, 
     {
@@ -523,7 +510,7 @@
       "street": "Oude Kuringerbaan"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3", 
@@ -542,9 +529,6 @@
       "street": "Oude Kuringerbaan"
     }, 
     {
-      "busnrs": [
-        "2"
-      ], 
       "hnrlbls": [
         "160-201"
       ], 
@@ -557,7 +541,7 @@
       "street": "Oude Kuringerbaan"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2"
       ], 
@@ -570,6 +554,18 @@
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanGebouw", 
+      "street": "Oude Kuringerbaan"
+    }, 
+    {
+      "hnrlbls": [
+        "170"
+      ], 
+      "housenumber": "170", 
+      "lat": 50.935793017678336, 
+      "lon": 5.320233716273511, 
+      "municipality": "Hasselt", 
+      "pcode": "3500", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Oude Kuringerbaan"
     }, 
     {
@@ -646,14 +642,14 @@
     }, 
     {
       "hnrlbls": [
-        "/zn-200"
+        "200"
       ], 
       "housenumber": "200", 
-      "lat": 50.93507356768005, 
-      "lon": 5.322735061980624, 
+      "lat": 50.935914134281774, 
+      "lon": 5.31950971814685, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "afgeleidVanStraat", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Oude Kuringerbaan"
     }, 
     {
@@ -707,12 +703,11 @@
     {
       "apptnrs": [
         "0.01", 
-        "0.03"
+        "0.03", 
+        "2"
       ], 
       "busnrs": [
-        "01", 
-        "2", 
-        "3"
+        "0.02"
       ], 
       "hnrlbls": [
         "28"
@@ -750,10 +745,12 @@
       "street": "Oude Kuringerbaan"
     }, 
     {
-      "busnrs": [
-        "1", 
+      "apptnrs": [
         "2", 
         "3"
+      ], 
+      "busnrs": [
+        "1"
       ], 
       "hnrlbls": [
         "30"
@@ -803,14 +800,15 @@
       "street": "Oude Kuringerbaan"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3", 
-        "4", 
         "5", 
-        "6", 
-        "7"
+        "6"
+      ], 
+      "busnrs": [
+        "4"
       ], 
       "hnrlbls": [
         "37-39"
@@ -821,18 +819,6 @@
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanGebouw", 
-      "street": "Oude Kuringerbaan"
-    }, 
-    {
-      "hnrlbls": [
-        "37A"
-      ], 
-      "housenumber": "37A", 
-      "lat": 50.93434960768929, 
-      "lon": 5.325518504551401, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Oude Kuringerbaan"
     }, 
     {
@@ -848,7 +834,7 @@
       "street": "Oude Kuringerbaan"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "10", 
         "11", 
@@ -878,22 +864,24 @@
         "40"
       ], 
       "housenumber": "40", 
-      "lat": 50.9340919203473, 
-      "lon": 5.325412234375181, 
+      "lat": 50.93405918081483, 
+      "lon": 5.325347971839335, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Oude Kuringerbaan"
     }, 
     {
-      "busnrs": [
-        "1", 
+      "apptnrs": [
         "2", 
         "3", 
         "4", 
         "5", 
         "6", 
         "7"
+      ], 
+      "busnrs": [
+        "1"
       ], 
       "hnrlbls": [
         "27-41"
@@ -979,7 +967,7 @@
       "street": "Oude Kuringerbaan"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2"
       ], 
@@ -999,7 +987,7 @@
         "52"
       ], 
       "housenumber": "52", 
-      "lat": 50.93426095321919, 
+      "lat": 50.934260953219166, 
       "lon": 5.325056593697499, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
@@ -1011,8 +999,8 @@
         "53"
       ], 
       "housenumber": "53", 
-      "lat": 50.93465903012254, 
-      "lon": 5.324902239732141, 
+      "lat": 50.93465903012255, 
+      "lon": 5.324902239732139, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanGebouw", 
@@ -1083,8 +1071,8 @@
         "59"
       ], 
       "housenumber": "59", 
-      "lat": 50.93489429642163, 
-      "lon": 5.324781127140078, 
+      "lat": 50.93476837047774, 
+      "lon": 5.324722931035183, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanPerceelGrb", 
@@ -1103,7 +1091,8 @@
       "street": "Oude Kuringerbaan"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
+        "1", 
         "2", 
         "3", 
         "4"
@@ -1168,7 +1157,7 @@
       "street": "Oude Kuringerbaan"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2"
       ], 
@@ -1184,7 +1173,7 @@
       "street": "Oude Kuringerbaan"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3", 
@@ -1226,7 +1215,7 @@
       "street": "Oude Kuringerbaan"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3"
@@ -1255,15 +1244,17 @@
       "street": "Oude Kuringerbaan"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
-        "3", 
         "4", 
         "5", 
-        "6", 
         "7", 
         "8"
+      ], 
+      "busnrs": [
+        "3", 
+        "6"
       ], 
       "hnrlbls": [
         "74"
@@ -1389,8 +1380,8 @@
         "83A"
       ], 
       "housenumber": "83A", 
-      "lat": 50.93504267758295, 
-      "lon": 5.323637578989226, 
+      "lat": 50.93530876696446, 
+      "lon": 5.323893684184828, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanPerceelGrb", 
@@ -1409,7 +1400,7 @@
       "street": "Oude Kuringerbaan"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "10", 
         "2", 
@@ -1438,7 +1429,7 @@
       ], 
       "housenumber": "86", 
       "lat": 50.93474783177019, 
-      "lon": 5.323844269691681, 
+      "lon": 5.323844269691682, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanGebouw", 
@@ -1469,7 +1460,7 @@
       "street": "Oude Kuringerbaan"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1"
       ], 
       "hnrlbls": [

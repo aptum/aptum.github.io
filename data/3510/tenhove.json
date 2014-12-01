@@ -1,7 +1,7 @@
 {
   "addresses": [
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2"
       ], 
@@ -30,6 +30,30 @@
     }, 
     {
       "hnrlbls": [
+        "10A"
+      ], 
+      "housenumber": "10A", 
+      "lat": 50.94547871812162, 
+      "lon": 5.255379527124182, 
+      "municipality": "Hasselt", 
+      "pcode": "3510", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Ten Hove"
+    }, 
+    {
+      "hnrlbls": [
+        "10B"
+      ], 
+      "housenumber": "10B", 
+      "lat": 50.94521457850198, 
+      "lon": 5.255250727949828, 
+      "municipality": "Hasselt", 
+      "pcode": "3510", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Ten Hove"
+    }, 
+    {
+      "hnrlbls": [
         "11-13"
       ], 
       "housenumber": "11", 
@@ -42,7 +66,7 @@
     }, 
     {
       "hnrlbls": [
-        "12-12B"
+        "12"
       ], 
       "housenumber": "12", 
       "lat": 50.94413828573501, 
@@ -62,18 +86,6 @@
       "municipality": "Hasselt", 
       "pcode": "3510", 
       "source": "afgeleidVanGebouw", 
-      "street": "Ten Hove"
-    }, 
-    {
-      "hnrlbls": [
-        "12-12B"
-      ], 
-      "housenumber": "12B", 
-      "lat": 50.94413828573501, 
-      "lon": 5.255015500650933, 
-      "municipality": "Hasselt", 
-      "pcode": "3510", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Ten Hove"
     }, 
     {
@@ -209,9 +221,6 @@
       "street": "Ten Hove"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
         "23"
       ], 
@@ -344,9 +353,11 @@
       "street": "Ten Hove"
     }, 
     {
-      "busnrs": [
-        "1", 
+      "apptnrs": [
         "2"
+      ], 
+      "busnrs": [
+        "1"
       ], 
       "hnrlbls": [
         "34"

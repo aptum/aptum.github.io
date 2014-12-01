@@ -1,7 +1,7 @@
 {
   "addresses": [
     {
-      "busnrs": [
+      "apptnrs": [
         "10", 
         "11", 
         "12", 
@@ -13,6 +13,9 @@
         "7", 
         "8", 
         "9"
+      ], 
+      "busnrs": [
+        "1"
       ], 
       "hnrlbls": [
         "1-92A"
@@ -26,19 +29,7 @@
       "street": "Kempische Kaai"
     }, 
     {
-      "hnrlbls": [
-        "55A-502"
-      ], 
-      "housenumber": "102", 
-      "lat": 50.937526038211715, 
-      "lon": 5.33746116753913, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Kempische Kaai"
-    }, 
-    {
-      "busnrs": [
+      "apptnrs": [
         "1"
       ], 
       "hnrlbls": [
@@ -65,9 +56,6 @@
       "street": "Kempische Kaai"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
         "15"
       ], 
@@ -80,20 +68,26 @@
       "street": "Kempische Kaai"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "11", 
         "12", 
         "13", 
         "14", 
-        "15", 
+        "7"
+      ], 
+      "busnrs": [
+        "10", 
+        "2", 
+        "3", 
         "4", 
-        "7", 
+        "5", 
+        "6", 
         "8", 
         "9"
       ], 
       "hnrlbls": [
-        "160-160"
+        "160"
       ], 
       "housenumber": "160", 
       "lat": 50.94048575656561, 
@@ -104,12 +98,17 @@
       "street": "Kempische Kaai"
     }, 
     {
-      "busnrs": [
-        "11", 
+      "apptnrs": [
         "5"
       ], 
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4"
+      ], 
       "hnrlbls": [
-        "166-166"
+        "166"
       ], 
       "housenumber": "166", 
       "lat": 50.940812961578814, 
@@ -120,11 +119,8 @@
       "street": "Kempische Kaai"
     }, 
     {
-      "busnrs": [
-        "3"
-      ], 
       "hnrlbls": [
-        "168-168"
+        "168"
       ], 
       "housenumber": "168", 
       "lat": 50.94170987968713, 
@@ -136,7 +132,55 @@
     }, 
     {
       "hnrlbls": [
-        "170-170"
+        "168A-168D"
+      ], 
+      "housenumber": "168A", 
+      "lat": 50.941391372166485, 
+      "lon": 5.3404669982550415, 
+      "municipality": "Hasselt", 
+      "pcode": "3500", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Kempische Kaai"
+    }, 
+    {
+      "hnrlbls": [
+        "168B"
+      ], 
+      "housenumber": "168B", 
+      "lat": 50.94161409920381, 
+      "lon": 5.341221925350222, 
+      "municipality": "Hasselt", 
+      "pcode": "3500", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Kempische Kaai"
+    }, 
+    {
+      "hnrlbls": [
+        "168A-168D"
+      ], 
+      "housenumber": "168C", 
+      "lat": 50.941391372166485, 
+      "lon": 5.3404669982550415, 
+      "municipality": "Hasselt", 
+      "pcode": "3500", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Kempische Kaai"
+    }, 
+    {
+      "hnrlbls": [
+        "168A-168D"
+      ], 
+      "housenumber": "168D", 
+      "lat": 50.941391372166485, 
+      "lon": 5.3404669982550415, 
+      "municipality": "Hasselt", 
+      "pcode": "3500", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Kempische Kaai"
+    }, 
+    {
+      "hnrlbls": [
+        "170"
       ], 
       "housenumber": "170", 
       "lat": 50.941931210070784, 
@@ -147,72 +191,15 @@
       "street": "Kempische Kaai"
     }, 
     {
-      "apptnrs": [
-        "0.4"
-      ], 
       "hnrlbls": [
-        "1A"
-      ], 
-      "housenumber": "1A", 
-      "lat": 50.934527641975684, 
-      "lon": 5.338369646326844, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Kempische Kaai"
-    }, 
-    {
-      "hnrlbls": [
-        "/zn-567"
+        "2"
       ], 
       "housenumber": "2", 
-      "lat": 50.93998146291264, 
-      "lon": 5.338585896351194, 
+      "lat": 50.93498699166255, 
+      "lon": 5.337971819857314, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "afgeleidVanStraat", 
-      "street": "Kempische Kaai"
-    }, 
-    {
-      "hnrlbls": [
-        "55A-502"
-      ], 
-      "housenumber": "201", 
-      "lat": 50.937526038211715, 
-      "lon": 5.33746116753913, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Kempische Kaai"
-    }, 
-    {
-      "hnrlbls": [
-        "/zn-567"
-      ], 
-      "housenumber": "235", 
-      "lat": 50.93998146291264, 
-      "lon": 5.338585896351194, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "afgeleidVanStraat", 
-      "street": "Kempische Kaai"
-    }, 
-    {
-      "apptnrs": [
-        "0.5"
-      ], 
-      "busnrs": [
-        "5"
-      ], 
-      "hnrlbls": [
-        "/zn-567"
-      ], 
-      "housenumber": "2A", 
-      "lat": 50.93998146291264, 
-      "lon": 5.338585896351194, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "afgeleidVanStraat", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Kempische Kaai"
     }, 
     {
@@ -220,35 +207,11 @@
         "39"
       ], 
       "housenumber": "39", 
-      "lat": 50.93617268725733, 
-      "lon": 5.338091800081366, 
+      "lat": 50.93628812998297, 
+      "lon": 5.338166748095014, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Kempische Kaai"
-    }, 
-    {
-      "hnrlbls": [
-        "55A-502"
-      ], 
-      "housenumber": "401", 
-      "lat": 50.937526038211715, 
-      "lon": 5.33746116753913, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Kempische Kaai"
-    }, 
-    {
-      "hnrlbls": [
-        "55A-502"
-      ], 
-      "housenumber": "402", 
-      "lat": 50.937526038211715, 
-      "lon": 5.33746116753913, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Kempische Kaai"
     }, 
     {
@@ -264,7 +227,7 @@
       "street": "Kempische Kaai"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2"
       ], 
@@ -281,77 +244,14 @@
     }, 
     {
       "hnrlbls": [
-        "43A"
-      ], 
-      "housenumber": "43A", 
-      "lat": 50.936494979773215, 
-      "lon": 5.338200761302656, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Kempische Kaai"
-    }, 
-    {
-      "hnrlbls": [
-        "45-49"
-      ], 
-      "housenumber": "45", 
-      "lat": 50.93653960167905, 
-      "lon": 5.337783104019748, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
-      "street": "Kempische Kaai"
-    }, 
-    {
-      "hnrlbls": [
-        "/zn-567"
-      ], 
-      "housenumber": "46", 
-      "lat": 50.93998146291264, 
-      "lon": 5.338585896351194, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "afgeleidVanStraat", 
-      "street": "Kempische Kaai"
-    }, 
-    {
-      "busnrs": [
-        "5"
-      ], 
-      "hnrlbls": [
-        "45-49"
+        "49"
       ], 
       "housenumber": "49", 
-      "lat": 50.93653960167905, 
-      "lon": 5.337783104019748, 
+      "lat": 50.93663714435957, 
+      "lon": 5.338033537023135, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
-      "street": "Kempische Kaai"
-    }, 
-    {
-      "hnrlbls": [
-        "/zn-567"
-      ], 
-      "housenumber": "50", 
-      "lat": 50.93998146291264, 
-      "lon": 5.338585896351194, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "afgeleidVanStraat", 
-      "street": "Kempische Kaai"
-    }, 
-    {
-      "hnrlbls": [
-        "55A-502"
-      ], 
-      "housenumber": "502", 
-      "lat": 50.937526038211715, 
-      "lon": 5.33746116753913, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Kempische Kaai"
     }, 
     {
@@ -371,23 +271,14 @@
         "53"
       ], 
       "housenumber": "53", 
-      "lat": 50.93702907676454, 
-      "lon": 5.3376018565136505, 
+      "lat": 50.93672306606108, 
+      "lon": 5.337720452449554, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Kempische Kaai"
     }, 
     {
-      "apptnrs": [
-        "3.1"
-      ], 
-      "busnrs": [
-        "001A", 
-        "302", 
-        "4", 
-        "51A"
-      ], 
       "hnrlbls": [
         "55"
       ], 
@@ -401,18 +292,24 @@
     }, 
     {
       "apptnrs": [
-        "1.1", 
-        "1.2", 
-        "2.1", 
-        "2.2", 
-        "3.1", 
-        "3.2"
+        "1.01", 
+        "1.02", 
+        "2.01", 
+        "2.02", 
+        "3.01", 
+        "3.02", 
+        "4.01", 
+        "5.01", 
+        "5.02"
+      ], 
+      "busnrs": [
+        "4.02"
       ], 
       "hnrlbls": [
-        "55A-502"
+        "55A-75"
       ], 
       "housenumber": "55A", 
-      "lat": 50.937526038211715, 
+      "lat": 50.93752603821171, 
       "lon": 5.33746116753913, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
@@ -420,22 +317,11 @@
       "street": "Kempische Kaai"
     }, 
     {
-      "hnrlbls": [
-        "/zn-567"
-      ], 
-      "housenumber": "567", 
-      "lat": 50.93998146291264, 
-      "lon": 5.338585896351194, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "afgeleidVanStraat", 
-      "street": "Kempische Kaai"
-    }, 
-    {
       "apptnrs": [
         "0.01", 
         "0.02", 
         "1.01", 
+        "1.02", 
         "2.01", 
         "2.02", 
         "3.01", 
@@ -444,19 +330,11 @@
         "4.02", 
         "5.01"
       ], 
-      "busnrs": [
-        "0", 
-        "001", 
-        "002", 
-        "101", 
-        "401", 
-        "501"
-      ], 
       "hnrlbls": [
-        "55A-502"
+        "55A-75"
       ], 
       "housenumber": "57", 
-      "lat": 50.937526038211715, 
+      "lat": 50.93752603821171, 
       "lon": 5.33746116753913, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
@@ -476,31 +354,13 @@
         "5.02"
       ], 
       "busnrs": [
-        "1", 
-        "301", 
-        "401", 
-        "5", 
-        "501", 
-        "502", 
-        "601"
+        "4.01"
       ], 
       "hnrlbls": [
-        "55A-502"
+        "55A-75"
       ], 
       "housenumber": "59", 
-      "lat": 50.937526038211715, 
-      "lon": 5.33746116753913, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Kempische Kaai"
-    }, 
-    {
-      "hnrlbls": [
-        "55A-502"
-      ], 
-      "housenumber": "59A", 
-      "lat": 50.937526038211715, 
+      "lat": 50.93752603821171, 
       "lon": 5.33746116753913, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
@@ -527,21 +387,18 @@
         "3.04", 
         "4.01", 
         "4.02", 
+        "5.02"
+      ], 
+      "busnrs": [
         "4.03", 
         "4.04", 
-        "5.01", 
-        "5.02"
-      ], 
-      "busnrs": [
-        "003", 
-        "4", 
-        "5"
+        "5.01"
       ], 
       "hnrlbls": [
-        "55A-502"
+        "55A-75"
       ], 
       "housenumber": "61", 
-      "lat": 50.937526038211715, 
+      "lat": 50.93752603821171, 
       "lon": 5.33746116753913, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
@@ -551,7 +408,6 @@
     {
       "apptnrs": [
         "0.01", 
-        "0.02", 
         "0.03", 
         "0.04", 
         "1.01", 
@@ -566,40 +422,20 @@
         "3.02", 
         "3.03", 
         "3.04", 
-        "4.01", 
         "4.02", 
         "4.03", 
+        "5.01", 
         "5.02"
       ], 
       "busnrs": [
-        "0", 
-        "001", 
-        "003", 
-        "101", 
-        "2", 
-        "201", 
-        "301", 
-        "403", 
-        "5", 
-        "502"
+        "0.02", 
+        "4.01"
       ], 
       "hnrlbls": [
-        "55A-502"
+        "55A-75"
       ], 
       "housenumber": "63", 
-      "lat": 50.937526038211715, 
-      "lon": 5.33746116753913, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Kempische Kaai"
-    }, 
-    {
-      "hnrlbls": [
-        "55A-502"
-      ], 
-      "housenumber": "63A", 
-      "lat": 50.937526038211715, 
+      "lat": 50.93752603821171, 
       "lon": 5.33746116753913, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
@@ -616,19 +452,17 @@
         "3.02", 
         "4.01", 
         "4.02", 
-        "5.01", 
         "5.02", 
         "6.01"
       ], 
       "busnrs": [
-        "101", 
-        "501"
+        "5.01"
       ], 
       "hnrlbls": [
-        "55A-502"
+        "55A-75"
       ], 
       "housenumber": "65", 
-      "lat": 50.937526038211715, 
+      "lat": 50.93752603821171, 
       "lon": 5.33746116753913, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
@@ -638,6 +472,7 @@
     {
       "apptnrs": [
         "0.01", 
+        "0.02", 
         "1.01", 
         "1.02", 
         "2.01", 
@@ -648,17 +483,13 @@
         "5.01"
       ], 
       "busnrs": [
-        "0", 
-        "002", 
-        "201", 
-        "202", 
-        "302"
+        "3.02"
       ], 
       "hnrlbls": [
-        "55A-502"
+        "55A-75"
       ], 
       "housenumber": "67", 
-      "lat": 50.937526038211715, 
+      "lat": 50.93752603821171, 
       "lon": 5.33746116753913, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
@@ -666,54 +497,38 @@
       "street": "Kempische Kaai"
     }, 
     {
-      "apptnrs": [
-        "2.01"
-      ], 
       "hnrlbls": [
-        "67B"
-      ], 
-      "housenumber": "67B", 
-      "lat": 50.93808059874529, 
-      "lon": 5.3376288525286135, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Kempische Kaai"
-    }, 
-    {
-      "hnrlbls": [
-        "/zn-567"
+        "68-70"
       ], 
       "housenumber": "68", 
-      "lat": 50.93998146291264, 
-      "lon": 5.338585896351194, 
+      "lat": 50.937728030810334, 
+      "lon": 5.339454998700971, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "afgeleidVanStraat", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
       "street": "Kempische Kaai"
     }, 
     {
       "apptnrs": [
-        "1.01", 
+        "0.01", 
         "1.02", 
         "2.01", 
-        "2.02", 
-        "3.01", 
+        "3.02", 
         "4.01", 
         "4.02", 
         "5.01"
       ], 
       "busnrs": [
-        "0", 
-        "001", 
-        "301", 
-        "302"
+        "0.02", 
+        "1.01", 
+        "2.02", 
+        "3.01"
       ], 
       "hnrlbls": [
-        "55A-502"
+        "55A-75"
       ], 
       "housenumber": "69", 
-      "lat": 50.937526038211715, 
+      "lat": 50.93752603821171, 
       "lon": 5.33746116753913, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
@@ -721,19 +536,15 @@
       "street": "Kempische Kaai"
     }, 
     {
+      "apptnrs": [
+        "4", 
+        "5", 
+        "6"
+      ], 
       "busnrs": [
         "1", 
-        "1B", 
         "2", 
-        "2B", 
-        "3", 
-        "3B", 
-        "4", 
-        "4B", 
-        "5", 
-        "5B", 
-        "6", 
-        "6B"
+        "3"
       ], 
       "hnrlbls": [
         "7-7C"
@@ -748,40 +559,32 @@
     }, 
     {
       "hnrlbls": [
-        "/zn-567"
+        "68-70"
       ], 
       "housenumber": "70", 
-      "lat": 50.93998146291264, 
-      "lon": 5.338585896351194, 
+      "lat": 50.937728030810334, 
+      "lon": 5.339454998700971, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "afgeleidVanStraat", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
       "street": "Kempische Kaai"
     }, 
     {
       "apptnrs": [
         "1.01", 
         "1.02", 
+        "2.01", 
         "2.02", 
         "3.01", 
         "3.02", 
         "4.01", 
         "4.02"
       ], 
-      "busnrs": [
-        "0", 
-        "001", 
-        "002", 
-        "3", 
-        "301", 
-        "401", 
-        "402"
-      ], 
       "hnrlbls": [
-        "55A-502"
+        "55A-75"
       ], 
       "housenumber": "71", 
-      "lat": 50.937526038211715, 
+      "lat": 50.93752603821171, 
       "lon": 5.33746116753913, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
@@ -796,29 +599,15 @@
         "2.02", 
         "3.01", 
         "3.02", 
-        "4.02", 
+        "4.01", 
         "5.01", 
         "6.01"
       ], 
-      "busnrs": [
-        "001", 
-        "2", 
-        "201", 
-        "202", 
-        "301", 
-        "302", 
-        "402", 
-        "5", 
-        "501", 
-        "502", 
-        "6", 
-        "601"
-      ], 
       "hnrlbls": [
-        "55A-502"
+        "55A-75"
       ], 
       "housenumber": "73", 
-      "lat": 50.937526038211715, 
+      "lat": 50.93752603821171, 
       "lon": 5.33746116753913, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
@@ -829,43 +618,20 @@
       "apptnrs": [
         "1.01", 
         "1.02", 
-        "2.01", 
         "2.02", 
-        "3.01", 
         "3.02", 
-        "4.01", 
         "4.02"
       ], 
       "busnrs": [
-        "0", 
-        "001", 
-        "002", 
-        "101", 
-        "102", 
-        "201", 
-        "202", 
-        "301", 
-        "302", 
-        "401", 
-        "402"
+        "2.01", 
+        "3.01", 
+        "4.01"
       ], 
       "hnrlbls": [
-        "55A-502"
+        "55A-75"
       ], 
       "housenumber": "75", 
-      "lat": 50.937526038211715, 
-      "lon": 5.33746116753913, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Kempische Kaai"
-    }, 
-    {
-      "hnrlbls": [
-        "55A-502"
-      ], 
-      "housenumber": "75A", 
-      "lat": 50.937526038211715, 
+      "lat": 50.93752603821171, 
       "lon": 5.33746116753913, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
@@ -925,8 +691,8 @@
         "89"
       ], 
       "housenumber": "89", 
-      "lat": 50.94216646212976, 
-      "lon": 5.3361477809143025, 
+      "lat": 50.94215205263589, 
+      "lon": 5.337012633206225, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanPerceelGrb", 

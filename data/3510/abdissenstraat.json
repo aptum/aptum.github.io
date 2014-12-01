@@ -4,6 +4,7 @@
       "apptnrs": [
         "0.01", 
         "0.02", 
+        "0.03", 
         "1.01", 
         "1.02", 
         "1.03", 
@@ -13,20 +14,6 @@
         "3.01", 
         "3.02", 
         "4.01"
-      ], 
-      "busnrs": [
-        "001", 
-        "002", 
-        "003", 
-        "101", 
-        "102", 
-        "103", 
-        "201", 
-        "202", 
-        "203", 
-        "301", 
-        "302", 
-        "401"
       ], 
       "hnrlbls": [
         "1"
@@ -41,14 +28,14 @@
     }, 
     {
       "hnrlbls": [
-        "3-102"
+        "11"
       ], 
-      "housenumber": "102", 
-      "lat": 50.94923595094272, 
-      "lon": 5.251536834991165, 
+      "housenumber": "11", 
+      "lat": 50.94941349756678, 
+      "lon": 5.251034821135119, 
       "municipality": "Hasselt", 
       "pcode": "3510", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Abdissenstraat"
     }, 
     {
@@ -68,11 +55,23 @@
         "15"
       ], 
       "housenumber": "15", 
-      "lat": 50.94916702428172, 
-      "lon": 5.250863389537889, 
+      "lat": 50.94945392228637, 
+      "lon": 5.2508592545532, 
       "municipality": "Hasselt", 
       "pcode": "3510", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Abdissenstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "17"
+      ], 
+      "housenumber": "17", 
+      "lat": 50.94909415899805, 
+      "lon": 5.2507739260818305, 
+      "municipality": "Hasselt", 
+      "pcode": "3510", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Abdissenstraat"
     }, 
     {
@@ -124,20 +123,41 @@
       "street": "Abdissenstraat"
     }, 
     {
+      "hnrlbls": [
+        "27-29"
+      ], 
+      "housenumber": "27", 
+      "lat": 50.94856628455924, 
+      "lon": 5.250544973661007, 
+      "municipality": "Hasselt", 
+      "pcode": "3510", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Abdissenstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "27-29"
+      ], 
+      "housenumber": "29", 
+      "lat": 50.94856628455924, 
+      "lon": 5.250544973661007, 
+      "municipality": "Hasselt", 
+      "pcode": "3510", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Abdissenstraat"
+    }, 
+    {
       "apptnrs": [
         "0.01", 
+        "0.02", 
         "1.01", 
+        "1.02", 
+        "2.01", 
         "2.02", 
         "3.01"
       ], 
-      "busnrs": [
-        "01", 
-        "101", 
-        "202", 
-        "301"
-      ], 
       "hnrlbls": [
-        "3-102"
+        "3-7"
       ], 
       "housenumber": "3", 
       "lat": 50.94923595094272, 
@@ -149,7 +169,7 @@
     }, 
     {
       "hnrlbls": [
-        "/zn-35"
+        "/zn-45"
       ], 
       "housenumber": "31", 
       "lat": 50.94873941545274, 
@@ -161,7 +181,7 @@
     }, 
     {
       "hnrlbls": [
-        "/zn-35"
+        "/zn-45"
       ], 
       "housenumber": "33", 
       "lat": 50.94873941545274, 
@@ -173,9 +193,57 @@
     }, 
     {
       "hnrlbls": [
-        "/zn-35"
+        "/zn-45"
       ], 
       "housenumber": "35", 
+      "lat": 50.94873941545274, 
+      "lon": 5.251659690191424, 
+      "municipality": "Hasselt", 
+      "pcode": "3510", 
+      "source": "afgeleidVanStraat", 
+      "street": "Abdissenstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "/zn-45"
+      ], 
+      "housenumber": "37", 
+      "lat": 50.94873941545274, 
+      "lon": 5.251659690191424, 
+      "municipality": "Hasselt", 
+      "pcode": "3510", 
+      "source": "afgeleidVanStraat", 
+      "street": "Abdissenstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "/zn-45"
+      ], 
+      "housenumber": "39", 
+      "lat": 50.94873941545274, 
+      "lon": 5.251659690191424, 
+      "municipality": "Hasselt", 
+      "pcode": "3510", 
+      "source": "afgeleidVanStraat", 
+      "street": "Abdissenstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "/zn-45"
+      ], 
+      "housenumber": "41", 
+      "lat": 50.94873941545274, 
+      "lon": 5.251659690191424, 
+      "municipality": "Hasselt", 
+      "pcode": "3510", 
+      "source": "afgeleidVanStraat", 
+      "street": "Abdissenstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "/zn-45"
+      ], 
+      "housenumber": "45", 
       "lat": 50.94873941545274, 
       "lon": 5.251659690191424, 
       "municipality": "Hasselt", 
@@ -189,14 +257,9 @@
         "0.02", 
         "1.01", 
         "1.02", 
+        "2.01", 
         "2.02", 
         "3.01"
-      ], 
-      "busnrs": [
-        "002", 
-        "01", 
-        "101", 
-        "31"
       ], 
       "hnrlbls": [
         "5"
@@ -219,14 +282,8 @@
         "2.02", 
         "3.01"
       ], 
-      "busnrs": [
-        "001", 
-        "02", 
-        "101", 
-        "31"
-      ], 
       "hnrlbls": [
-        "3-102"
+        "3-7"
       ], 
       "housenumber": "7", 
       "lat": 50.94923595094272, 
@@ -241,11 +298,23 @@
         "9"
       ], 
       "housenumber": "9", 
-      "lat": 50.949255249794405, 
-      "lon": 5.251325435479256, 
+      "lat": 50.949395734972995, 
+      "lon": 5.251113613480922, 
       "municipality": "Hasselt", 
       "pcode": "3510", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Abdissenstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "/zn-45"
+      ], 
+      "housenumber": "zn", 
+      "lat": 50.94873941545274, 
+      "lon": 5.251659690191424, 
+      "municipality": "Hasselt", 
+      "pcode": "3510", 
+      "source": "afgeleidVanStraat", 
       "street": "Abdissenstraat"
     }
   ]

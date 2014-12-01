@@ -1,7 +1,7 @@
 {
   "addresses": [
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3"
@@ -18,7 +18,7 @@
       "street": "Peter Benoitstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "10", 
         "11", 
@@ -52,10 +52,9 @@
       "street": "Peter Benoitstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "10", 
-        "11", 
         "2", 
         "3", 
         "4", 
@@ -77,7 +76,7 @@
       "street": "Peter Benoitstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "10", 
         "11", 
@@ -188,15 +187,16 @@
       "street": "Peter Benoitstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
+      "apptnrs": [
         "2", 
         "3", 
         "4", 
         "5", 
         "6", 
-        "7", 
-        "8"
+        "7"
+      ], 
+      "busnrs": [
+        "1"
       ], 
       "hnrlbls": [
         "1-44"
@@ -234,10 +234,13 @@
       "street": "Peter Benoitstraat"
     }, 
     {
-      "busnrs": [
-        "2", 
+      "apptnrs": [
         "3", 
         "4"
+      ], 
+      "busnrs": [
+        "1", 
+        "2"
       ], 
       "hnrlbls": [
         "32"
@@ -263,7 +266,7 @@
       "street": "Peter Benoitstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3", 
@@ -461,7 +464,7 @@
       "street": "Peter Benoitstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3", 
@@ -800,7 +803,7 @@
       ], 
       "housenumber": "76", 
       "lat": 50.927904644546224, 
-      "lon": 5.352753569899587, 
+      "lon": 5.352753569899588, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanGebouw", 

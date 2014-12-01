@@ -49,7 +49,7 @@
       "street": "de Berlaymontstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3", 
@@ -115,10 +115,12 @@
       "street": "de Berlaymontstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
-        "2", 
         "3"
+      ], 
+      "busnrs": [
+        "2"
       ], 
       "hnrlbls": [
         "20"
@@ -132,11 +134,13 @@
       "street": "de Berlaymontstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
+      "apptnrs": [
         "3", 
         "4"
+      ], 
+      "busnrs": [
+        "1", 
+        "2"
       ], 
       "hnrlbls": [
         "22"
@@ -159,6 +163,18 @@
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanGebouw", 
+      "street": "de Berlaymontstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "4"
+      ], 
+      "housenumber": "4", 
+      "lat": 50.89888669500341, 
+      "lon": 5.309411912052108, 
+      "municipality": "Hasselt", 
+      "pcode": "3500", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "de Berlaymontstraat"
     }, 
     {

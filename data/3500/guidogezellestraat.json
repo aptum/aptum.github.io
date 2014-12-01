@@ -1,12 +1,12 @@
 {
   "addresses": [
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2"
       ], 
       "hnrlbls": [
-        "1-1A"
+        "1"
       ], 
       "housenumber": "1", 
       "lat": 50.92972953750094, 
@@ -17,8 +17,22 @@
       "street": "Guido Gezellestraat"
     }, 
     {
+      "apptnrs": [
+        "1", 
+        "10", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6", 
+        "7", 
+        "8"
+      ], 
+      "busnrs": [
+        "9"
+      ], 
       "hnrlbls": [
-        "10-14"
+        "10-12"
       ], 
       "housenumber": "10", 
       "lat": 50.929379261965835, 
@@ -29,9 +43,6 @@
       "street": "Guido Gezellestraat"
     }, 
     {
-      "busnrs": [
-        "2"
-      ], 
       "hnrlbls": [
         "11"
       ], 
@@ -44,7 +55,7 @@
       "street": "Guido Gezellestraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "10", 
         "2", 
@@ -57,7 +68,7 @@
         "9"
       ], 
       "hnrlbls": [
-        "10-14"
+        "10-12"
       ], 
       "housenumber": "12", 
       "lat": 50.929379261965835, 
@@ -74,18 +85,6 @@
       "housenumber": "13", 
       "lat": 50.92942261306013, 
       "lon": 5.3420667188141415, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Guido Gezellestraat"
-    }, 
-    {
-      "hnrlbls": [
-        "10-14"
-      ], 
-      "housenumber": "14", 
-      "lat": 50.929379261965835, 
-      "lon": 5.342806117944508, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanGebouw", 
@@ -129,26 +128,14 @@
     }, 
     {
       "hnrlbls": [
-        "1-1A"
-      ], 
-      "housenumber": "1A", 
-      "lat": 50.92972953750094, 
-      "lon": 5.341784308681776, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Guido Gezellestraat"
-    }, 
-    {
-      "hnrlbls": [
         "2"
       ], 
       "housenumber": "2", 
-      "lat": 50.929912342109176, 
-      "lon": 5.341638874318639, 
+      "lat": 50.92978911049609, 
+      "lon": 5.342319435477584, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "geinterpoleerdObvWegverbinding", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Guido Gezellestraat"
     }, 
     {
@@ -176,9 +163,6 @@
       "street": "Guido Gezellestraat"
     }, 
     {
-      "busnrs": [
-        "6"
-      ], 
       "hnrlbls": [
         "25"
       ], 
@@ -203,7 +187,7 @@
       "street": "Guido Gezellestraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3", 
@@ -247,7 +231,7 @@
       "street": "Guido Gezellestraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2"
       ], 
@@ -255,11 +239,11 @@
         "5"
       ], 
       "housenumber": "5", 
-      "lat": 50.92958755595853, 
-      "lon": 5.341885351677532, 
+      "lat": 50.92965115285544, 
+      "lon": 5.341870027568422, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Guido Gezellestraat"
     }, 
     {
@@ -287,10 +271,12 @@
       "street": "Guido Gezellestraat"
     }, 
     {
-      "busnrs": [
-        "1", 
+      "apptnrs": [
         "2", 
         "3"
+      ], 
+      "busnrs": [
+        "1"
       ], 
       "hnrlbls": [
         "8"

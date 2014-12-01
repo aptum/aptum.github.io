@@ -37,7 +37,7 @@
       "street": "Plantenstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1"
       ], 
       "hnrlbls": [
@@ -116,7 +116,7 @@
         "107"
       ], 
       "housenumber": "107", 
-      "lat": 50.936566891269194, 
+      "lat": 50.93656689126919, 
       "lon": 5.327361285694341, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
@@ -212,11 +212,11 @@
         "115"
       ], 
       "housenumber": "115", 
-      "lat": 50.93672343453466, 
-      "lon": 5.327633249177457, 
+      "lat": 50.93672102433248, 
+      "lon": 5.327642163372514, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Plantenstraat"
     }, 
     {
@@ -253,18 +253,6 @@
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanGebouw", 
-      "street": "Plantenstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "122"
-      ], 
-      "housenumber": "122", 
-      "lat": 50.93555698989465, 
-      "lon": 5.326078380000848, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "afgeleidVanStraat", 
       "street": "Plantenstraat"
     }, 
     {
@@ -320,15 +308,15 @@
         "16"
       ], 
       "housenumber": "16", 
-      "lat": 50.93457028711079, 
-      "lon": 5.324837403778759, 
+      "lat": 50.934459436391904, 
+      "lon": 5.32472744424865, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Plantenstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3", 
@@ -348,9 +336,11 @@
       "street": "Plantenstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
+      "apptnrs": [
         "2"
+      ], 
+      "busnrs": [
+        "1"
       ], 
       "hnrlbls": [
         "2-4"
@@ -364,10 +354,12 @@
       "street": "Plantenstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
+      "apptnrs": [
         "2", 
         "3"
+      ], 
+      "busnrs": [
+        "1"
       ], 
       "hnrlbls": [
         "20"
@@ -381,7 +373,7 @@
       "street": "Plantenstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3"
@@ -398,7 +390,7 @@
       "street": "Plantenstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1"
       ], 
       "hnrlbls": [
@@ -425,7 +417,7 @@
       "street": "Plantenstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3", 
@@ -459,7 +451,7 @@
       "street": "Plantenstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "10", 
         "11", 
@@ -497,6 +489,51 @@
       "street": "Plantenstraat"
     }, 
     {
+      "apptnrs": [
+        "0.01", 
+        "0.02", 
+        "1.01", 
+        "1.02", 
+        "2.01", 
+        "2.02", 
+        "3.01", 
+        "3.02"
+      ], 
+      "hnrlbls": [
+        "31-33"
+      ], 
+      "housenumber": "31", 
+      "lat": 50.93474086158087, 
+      "lon": 5.325616831617762, 
+      "municipality": "Hasselt", 
+      "pcode": "3500", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Plantenstraat"
+    }, 
+    {
+      "apptnrs": [
+        "0.01", 
+        "1.01", 
+        "1.02", 
+        "2.01", 
+        "2.02", 
+        "3.01"
+      ], 
+      "busnrs": [
+        "0.02"
+      ], 
+      "hnrlbls": [
+        "31-33"
+      ], 
+      "housenumber": "33", 
+      "lat": 50.93474086158087, 
+      "lon": 5.325616831617762, 
+      "municipality": "Hasselt", 
+      "pcode": "3500", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Plantenstraat"
+    }, 
+    {
       "hnrlbls": [
         "34"
       ], 
@@ -509,7 +546,7 @@
       "street": "Plantenstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2"
       ], 
@@ -537,7 +574,7 @@
       "street": "Plantenstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "10", 
         "2", 
@@ -597,12 +634,14 @@
       "street": "Plantenstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3", 
-        "4", 
         "5"
+      ], 
+      "busnrs": [
+        "4"
       ], 
       "hnrlbls": [
         "47"
@@ -629,18 +668,6 @@
     }, 
     {
       "hnrlbls": [
-        "4B"
-      ], 
-      "housenumber": "4B", 
-      "lat": 50.93412029985927, 
-      "lon": 5.324433286538627, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Plantenstraat"
-    }, 
-    {
-      "hnrlbls": [
         "5"
       ], 
       "housenumber": "5", 
@@ -652,9 +679,7 @@
       "street": "Plantenstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "10", 
+      "apptnrs": [
         "3", 
         "4", 
         "5", 
@@ -662,6 +687,10 @@
         "7", 
         "8", 
         "9"
+      ], 
+      "busnrs": [
+        "1", 
+        "2"
       ], 
       "hnrlbls": [
         "25-50"
@@ -723,7 +752,7 @@
       "street": "Plantenstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2"
       ], 
@@ -751,7 +780,7 @@
       "street": "Plantenstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3"
@@ -876,10 +905,12 @@
       "street": "Plantenstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
-        "2", 
         "3"
+      ], 
+      "busnrs": [
+        "2"
       ], 
       "hnrlbls": [
         "72"
@@ -893,7 +924,7 @@
       "street": "Plantenstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2"
       ], 
@@ -909,16 +940,15 @@
       "street": "Plantenstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2"
+      "apptnrs": [
+        "1"
       ], 
       "hnrlbls": [
         "75"
       ], 
       "housenumber": "75", 
-      "lat": 50.935404058607126, 
-      "lon": 5.327930363275592, 
+      "lat": 50.935464757390434, 
+      "lon": 5.326882335538925, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanPerceelGrb", 
@@ -941,11 +971,11 @@
         "78"
       ], 
       "housenumber": "78", 
-      "lat": 50.9366268994267, 
-      "lon": 5.326959298686717, 
+      "lat": 50.936633017761125, 
+      "lon": 5.3269917207053705, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Plantenstraat"
     }, 
     {
@@ -973,7 +1003,7 @@
       "street": "Plantenstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3", 

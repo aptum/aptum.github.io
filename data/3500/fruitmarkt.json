@@ -1,8 +1,16 @@
 {
   "addresses": [
     {
-      "busnrs": [
-        "2"
+      "apptnrs": [
+        "1.01", 
+        "1.02", 
+        "2.01", 
+        "2.02", 
+        "2.03", 
+        "3.01", 
+        "3.02", 
+        "3.03", 
+        "4.01"
       ], 
       "hnrlbls": [
         "11"
@@ -16,8 +24,11 @@
       "street": "Fruitmarkt"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "2"
+      ], 
+      "busnrs": [
+        "1"
       ], 
       "hnrlbls": [
         "12"
@@ -40,18 +51,6 @@
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanGebouw", 
-      "street": "Fruitmarkt"
-    }, 
-    {
-      "hnrlbls": [
-        "15"
-      ], 
-      "housenumber": "15", 
-      "lat": 50.930073925945216, 
-      "lon": 5.338657800334467, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Fruitmarkt"
     }, 
     {
@@ -103,9 +102,8 @@
       "street": "Fruitmarkt"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2"
+      "apptnrs": [
+        "1"
       ], 
       "hnrlbls": [
         "24"
@@ -123,18 +121,6 @@
         "26-28"
       ], 
       "housenumber": "26", 
-      "lat": 50.93016371845125, 
-      "lon": 5.339247468058527, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Fruitmarkt"
-    }, 
-    {
-      "hnrlbls": [
-        "26-28"
-      ], 
-      "housenumber": "27", 
       "lat": 50.93016371845125, 
       "lon": 5.339247468058527, 
       "municipality": "Hasselt", 
@@ -203,7 +189,7 @@
       "street": "Fruitmarkt"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3"
@@ -232,9 +218,6 @@
       "street": "Fruitmarkt"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
         "5-7"
       ], 
@@ -247,20 +230,15 @@
       "street": "Fruitmarkt"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3"
-      ], 
       "hnrlbls": [
-        "8"
+        "6-8"
       ], 
       "housenumber": "8", 
-      "lat": 50.93033416600295, 
-      "lon": 5.338072668331634, 
+      "lat": 50.93041964908026, 
+      "lon": 5.337932603523219, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Fruitmarkt"
     }
   ]

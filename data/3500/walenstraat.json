@@ -26,18 +26,6 @@
     }, 
     {
       "hnrlbls": [
-        "/zn-1000"
-      ], 
-      "housenumber": "1000", 
-      "lat": 50.95447383094217, 
-      "lon": 5.3580644895669, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "afgeleidVanStraat", 
-      "street": "Walenstraat"
-    }, 
-    {
-      "hnrlbls": [
         "104"
       ], 
       "housenumber": "104", 
@@ -49,7 +37,7 @@
       "street": "Walenstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1"
       ], 
       "hnrlbls": [
@@ -68,11 +56,11 @@
         "110"
       ], 
       "housenumber": "110", 
-      "lat": 50.952975147636934, 
-      "lon": 5.362511054188071, 
+      "lat": 50.95305927886, 
+      "lon": 5.362767890129897, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Walenstraat"
     }, 
     {
@@ -100,7 +88,7 @@
       "street": "Walenstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3"
@@ -174,6 +162,18 @@
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanGebouw", 
+      "street": "Walenstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "12B"
+      ], 
+      "housenumber": "12B", 
+      "lat": 50.956451029144354, 
+      "lon": 5.354018419347484, 
+      "municipality": "Hasselt", 
+      "pcode": "3500", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Walenstraat"
     }, 
     {
@@ -309,10 +309,6 @@
       "street": "Walenstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
       "hnrlbls": [
         "23"
       ], 
@@ -329,8 +325,8 @@
         "24"
       ], 
       "housenumber": "24", 
-      "lat": 50.9558358350645, 
-      "lon": 5.355165526045703, 
+      "lat": 50.955835835064505, 
+      "lon": 5.355165526045704, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanGebouw", 
@@ -361,9 +357,6 @@
       "street": "Walenstraat"
     }, 
     {
-      "busnrs": [
-        "2"
-      ], 
       "hnrlbls": [
         "26"
       ], 
@@ -425,7 +418,7 @@
     }, 
     {
       "hnrlbls": [
-        "32-32A"
+        "32"
       ], 
       "housenumber": "32", 
       "lat": 50.95493209049391, 
@@ -437,14 +430,14 @@
     }, 
     {
       "hnrlbls": [
-        "32-32A"
+        "32A"
       ], 
       "housenumber": "32A", 
-      "lat": 50.95493209049391, 
-      "lon": 5.359361429637111, 
+      "lat": 50.954828040648266, 
+      "lon": 5.358811104341216, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Walenstraat"
     }, 
     {
@@ -452,23 +445,11 @@
         "33"
       ], 
       "housenumber": "33", 
-      "lat": 50.95591706796752, 
-      "lon": 5.353820020305708, 
+      "lat": 50.95569629590179, 
+      "lon": 5.353731543720959, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Walenstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "33A"
-      ], 
-      "housenumber": "33A", 
-      "lat": 50.95593148335054, 
-      "lon": 5.353966360677022, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Walenstraat"
     }, 
     {
@@ -556,6 +537,9 @@
       "street": "Walenstraat"
     }, 
     {
+      "busnrs": [
+        "2"
+      ], 
       "hnrlbls": [
         "57"
       ], 
@@ -568,24 +552,6 @@
       "street": "Walenstraat"
     }, 
     {
-      "busnrs": [
-        "4"
-      ], 
-      "hnrlbls": [
-        "59"
-      ], 
-      "housenumber": "59", 
-      "lat": 50.95447625453782, 
-      "lon": 5.3557886478985255, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Walenstraat"
-    }, 
-    {
-      "busnrs": [
-        "2"
-      ], 
       "hnrlbls": [
         "59B-293"
       ], 
@@ -602,23 +568,23 @@
         "6"
       ], 
       "housenumber": "6", 
-      "lat": 50.95695512190814, 
-      "lon": 5.352546123180452, 
+      "lat": 50.95693824055076, 
+      "lon": 5.352704762132296, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Walenstraat"
     }, 
     {
       "hnrlbls": [
-        "63A"
+        "63"
       ], 
-      "housenumber": "63A", 
-      "lat": 50.95451719449272, 
-      "lon": 5.3567041379631295, 
+      "housenumber": "63", 
+      "lat": 50.953929379856795, 
+      "lon": 5.355629532971932, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Walenstraat"
     }, 
     {
@@ -634,9 +600,6 @@
       "street": "Walenstraat"
     }, 
     {
-      "busnrs": [
-        "6"
-      ], 
       "hnrlbls": [
         "67"
       ], 
@@ -653,11 +616,11 @@
         "69"
       ], 
       "housenumber": "69", 
-      "lat": 50.95393132185674, 
-      "lon": 5.358764120952152, 
+      "lat": 50.95406201888592, 
+      "lon": 5.358414185629171, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Walenstraat"
     }, 
     {
@@ -689,26 +652,14 @@
     }, 
     {
       "hnrlbls": [
-        "71A-71B"
-      ], 
-      "housenumber": "71A", 
-      "lat": 50.953875643928676, 
-      "lon": 5.359204880916791, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Walenstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "71A-71B"
+        "71B"
       ], 
       "housenumber": "71B", 
-      "lat": 50.953875643928676, 
-      "lon": 5.359204880916791, 
+      "lat": 50.95363535533995, 
+      "lon": 5.35923510033194, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Walenstraat"
     }, 
     {
@@ -776,18 +727,14 @@
         "86"
       ], 
       "housenumber": "86", 
-      "lat": 50.954528168845364, 
-      "lon": 5.359713134978453, 
+      "lat": 50.95436376968901, 
+      "lon": 5.359507262571019, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Walenstraat"
     }, 
     {
-      "busnrs": [
-        "2", 
-        "3"
-      ], 
       "hnrlbls": [
         "87"
       ], 
@@ -836,8 +783,11 @@
       "street": "Walenstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "2"
+      ], 
+      "busnrs": [
+        "1"
       ], 
       "hnrlbls": [
         "94"

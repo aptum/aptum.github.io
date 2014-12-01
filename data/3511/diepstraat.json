@@ -2,7 +2,7 @@
   "addresses": [
     {
       "hnrlbls": [
-        "1-103"
+        "1-1A"
       ], 
       "housenumber": "1", 
       "lat": 50.941520758939205, 
@@ -30,14 +30,14 @@
       ], 
       "housenumber": "11", 
       "lat": 50.94203809069058, 
-      "lon": 5.301771130946841, 
+      "lon": 5.301771130946843, 
       "municipality": "Hasselt", 
       "pcode": "3511", 
       "source": "afgeleidVanGebouw", 
       "street": "Diepstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3", 
@@ -79,7 +79,7 @@
       "street": "Diepstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3", 
@@ -109,10 +109,11 @@
       "street": "Diepstraat"
     }, 
     {
+      "apptnrs": [
+        "2"
+      ], 
       "busnrs": [
-        "1", 
-        "2", 
-        "3"
+        "1"
       ], 
       "hnrlbls": [
         "17"
@@ -127,7 +128,7 @@
     }, 
     {
       "hnrlbls": [
-        "1-103"
+        "1-1A"
       ], 
       "housenumber": "1A", 
       "lat": 50.941520758939205, 
@@ -138,7 +139,7 @@
       "street": "Diepstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2"
       ], 
@@ -154,8 +155,7 @@
       "street": "Diepstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
+      "apptnrs": [
         "10", 
         "2", 
         "3", 
@@ -164,6 +164,10 @@
         "7", 
         "8", 
         "9"
+      ], 
+      "busnrs": [
+        "1", 
+        "4"
       ], 
       "hnrlbls": [
         "20"
@@ -213,13 +217,12 @@
       "street": "Diepstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3", 
         "4", 
-        "5", 
-        "6"
+        "5"
       ], 
       "hnrlbls": [
         "24"
@@ -246,6 +249,18 @@
     }, 
     {
       "hnrlbls": [
+        "26-28B"
+      ], 
+      "housenumber": "26", 
+      "lat": 50.942719922706566, 
+      "lon": 5.3026152800383235, 
+      "municipality": "Hasselt", 
+      "pcode": "3511", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Diepstraat"
+    }, 
+    {
+      "hnrlbls": [
         "27"
       ], 
       "housenumber": "27", 
@@ -257,11 +272,8 @@
       "street": "Diepstraat"
     }, 
     {
-      "busnrs": [
-        "2"
-      ], 
       "hnrlbls": [
-        "28-28B"
+        "28"
       ], 
       "housenumber": "28", 
       "lat": 50.942809454629, 
@@ -285,19 +297,19 @@
     }, 
     {
       "hnrlbls": [
-        "28-28B"
+        "26-28B"
       ], 
       "housenumber": "28B", 
-      "lat": 50.942809454629, 
-      "lon": 5.3025484773428095, 
+      "lat": 50.942719922706566, 
+      "lon": 5.3026152800383235, 
       "municipality": "Hasselt", 
       "pcode": "3511", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Diepstraat"
     }, 
     {
       "hnrlbls": [
-        "1-29B"
+        "1-29"
       ], 
       "housenumber": "29", 
       "lat": 50.942855533823746, 
@@ -305,18 +317,6 @@
       "municipality": "Hasselt", 
       "pcode": "3511", 
       "source": "afgeleidVanGebouw", 
-      "street": "Diepstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "1-29B"
-      ], 
-      "housenumber": "29B", 
-      "lat": 50.942855533823746, 
-      "lon": 5.302021905353597, 
-      "municipality": "Hasselt", 
-      "pcode": "3511", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Diepstraat"
     }, 
     {
@@ -344,9 +344,6 @@
       "street": "Diepstraat"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
         "31"
       ], 
@@ -479,9 +476,8 @@
       "street": "Diepstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2"
+      "apptnrs": [
+        "1"
       ], 
       "hnrlbls": [
         "42"
@@ -579,7 +575,7 @@
       "street": "Diepstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1"
       ], 
       "hnrlbls": [
@@ -666,7 +662,7 @@
       "street": "Diepstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "10", 
         "11", 
@@ -727,9 +723,11 @@
       "street": "Diepstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
+      "apptnrs": [
         "2"
+      ], 
+      "busnrs": [
+        "1"
       ], 
       "hnrlbls": [
         "67"
@@ -779,14 +777,14 @@
       "street": "Diepstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3", 
         "4"
       ], 
       "hnrlbls": [
-        "73-73B"
+        "73"
       ], 
       "housenumber": "73", 
       "lat": 50.94402248682386, 
@@ -798,26 +796,26 @@
     }, 
     {
       "hnrlbls": [
-        "73-73B"
+        "73A-73B"
       ], 
       "housenumber": "73A", 
-      "lat": 50.94402248682386, 
-      "lon": 5.304647081443236, 
+      "lat": 50.94407833342125, 
+      "lon": 5.304543179558024, 
       "municipality": "Hasselt", 
       "pcode": "3511", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Diepstraat"
     }, 
     {
       "hnrlbls": [
-        "73-73B"
+        "73A-73B"
       ], 
       "housenumber": "73B", 
-      "lat": 50.94402248682386, 
-      "lon": 5.304647081443236, 
+      "lat": 50.94407833342125, 
+      "lon": 5.304543179558024, 
       "municipality": "Hasselt", 
       "pcode": "3511", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Diepstraat"
     }, 
     {
@@ -833,7 +831,7 @@
       "street": "Diepstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2"
       ], 
@@ -854,14 +852,14 @@
       ], 
       "housenumber": "76", 
       "lat": 50.94461037526374, 
-      "lon": 5.3055898955387955, 
+      "lon": 5.305589895538795, 
       "municipality": "Hasselt", 
       "pcode": "3511", 
       "source": "afgeleidVanGebouw", 
       "street": "Diepstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2"
       ], 
@@ -889,7 +887,7 @@
       "street": "Diepstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3", 
@@ -912,8 +910,8 @@
         "80"
       ], 
       "housenumber": "80", 
-      "lat": 50.9448352146329, 
-      "lon": 5.305634945456562, 
+      "lat": 50.944786758834255, 
+      "lon": 5.305713808101721, 
       "municipality": "Hasselt", 
       "pcode": "3511", 
       "source": "afgeleidVanPerceelGrb", 
@@ -944,12 +942,11 @@
       "street": "Diepstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3", 
-        "4", 
-        "5"
+        "4"
       ], 
       "hnrlbls": [
         "79-83"

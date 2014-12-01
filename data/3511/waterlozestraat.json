@@ -109,17 +109,19 @@
       "street": "Waterlozestraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
-        "3", 
         "4", 
-        "5", 
         "6", 
         "7"
       ], 
+      "busnrs": [
+        "3", 
+        "5"
+      ], 
       "hnrlbls": [
-        "113-113B"
+        "113"
       ], 
       "housenumber": "113", 
       "lat": 50.96990915508705, 
@@ -127,6 +129,18 @@
       "municipality": "Hasselt", 
       "pcode": "3511", 
       "source": "afgeleidVanGebouw", 
+      "street": "Waterlozestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "113B"
+      ], 
+      "housenumber": "113B", 
+      "lat": 50.969969025215036, 
+      "lon": 5.255671632027778, 
+      "municipality": "Hasselt", 
+      "pcode": "3511", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Waterlozestraat"
     }, 
     {
@@ -167,6 +181,18 @@
     }, 
     {
       "hnrlbls": [
+        "12-16"
+      ], 
+      "housenumber": "12", 
+      "lat": 50.96623383725181, 
+      "lon": 5.271488928470654, 
+      "municipality": "Hasselt", 
+      "pcode": "3511", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "street": "Waterlozestraat"
+    }, 
+    {
+      "hnrlbls": [
         "121"
       ], 
       "housenumber": "121", 
@@ -203,7 +229,7 @@
     }, 
     {
       "hnrlbls": [
-        "14"
+        "12-16"
       ], 
       "housenumber": "14", 
       "lat": 50.96623383725181, 
@@ -239,14 +265,14 @@
     }, 
     {
       "hnrlbls": [
-        "154"
+        "12-16"
       ], 
-      "housenumber": "154", 
-      "lat": 50.97723817232511, 
-      "lon": 5.256697709054097, 
+      "housenumber": "16", 
+      "lat": 50.96623383725181, 
+      "lon": 5.271488928470654, 
       "municipality": "Hasselt", 
       "pcode": "3511", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Waterlozestraat"
     }, 
     {
@@ -339,7 +365,7 @@
       ], 
       "housenumber": "22A", 
       "lat": 50.967185146800766, 
-      "lon": 5.2703646082243525, 
+      "lon": 5.270364608224353, 
       "municipality": "Hasselt", 
       "pcode": "3511", 
       "source": "afgeleidVanGebouw", 
@@ -395,7 +421,19 @@
     }, 
     {
       "hnrlbls": [
-        "28-28A"
+        "27"
+      ], 
+      "housenumber": "27", 
+      "lat": 50.967696129186955, 
+      "lon": 5.268969532702694, 
+      "municipality": "Hasselt", 
+      "pcode": "3511", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Waterlozestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "28"
       ], 
       "housenumber": "28", 
       "lat": 50.967792487729334, 
@@ -407,14 +445,14 @@
     }, 
     {
       "hnrlbls": [
-        "28-28A"
+        "28A"
       ], 
       "housenumber": "28A", 
-      "lat": 50.967792487729334, 
-      "lon": 5.2698624816012725, 
+      "lat": 50.967981468745236, 
+      "lon": 5.269813724102126, 
       "municipality": "Hasselt", 
       "pcode": "3511", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Waterlozestraat"
     }, 
     {
@@ -422,8 +460,8 @@
         "29"
       ], 
       "housenumber": "29", 
-      "lat": 50.96775560883863, 
-      "lon": 5.268715690234006, 
+      "lat": 50.96775560992898, 
+      "lon": 5.268715547884532, 
       "municipality": "Hasselt", 
       "pcode": "3511", 
       "source": "afgeleidVanGebouw", 
@@ -475,6 +513,18 @@
       "municipality": "Hasselt", 
       "pcode": "3511", 
       "source": "afgeleidVanGebouw", 
+      "street": "Waterlozestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "34"
+      ], 
+      "housenumber": "34", 
+      "lat": 50.96819588569397, 
+      "lon": 5.269179310822223, 
+      "municipality": "Hasselt", 
+      "pcode": "3511", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Waterlozestraat"
     }, 
     {
@@ -539,7 +589,7 @@
     }, 
     {
       "hnrlbls": [
-        "41-41A"
+        "41"
       ], 
       "housenumber": "41", 
       "lat": 50.9684692784066, 
@@ -547,18 +597,6 @@
       "municipality": "Hasselt", 
       "pcode": "3511", 
       "source": "afgeleidVanGebouw", 
-      "street": "Waterlozestraat"
-    }, 
-    {
-      "hnrlbls": [
-        "41-41A"
-      ], 
-      "housenumber": "41A", 
-      "lat": 50.9684692784066, 
-      "lon": 5.267604514737899, 
-      "municipality": "Hasselt", 
-      "pcode": "3511", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Waterlozestraat"
     }, 
     {
@@ -806,11 +844,11 @@
         "62"
       ], 
       "housenumber": "62", 
-      "lat": 50.96952932485766, 
-      "lon": 5.2656092408905, 
+      "lat": 50.96960375253385, 
+      "lon": 5.2661754712808415, 
       "municipality": "Hasselt", 
       "pcode": "3511", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Waterlozestraat"
     }, 
     {
@@ -891,7 +929,7 @@
       ], 
       "housenumber": "72", 
       "lat": 50.96994516067859, 
-      "lon": 5.264423371147309, 
+      "lon": 5.264423371147311, 
       "municipality": "Hasselt", 
       "pcode": "3511", 
       "source": "afgeleidVanGebouw", 
@@ -986,8 +1024,8 @@
         "82"
       ], 
       "housenumber": "82", 
-      "lat": 50.969843525676886, 
-      "lon": 5.260505928553048, 
+      "lat": 50.9699715967733, 
+      "lon": 5.260960413429904, 
       "municipality": "Hasselt", 
       "pcode": "3511", 
       "source": "afgeleidVanPerceelGrb", 
@@ -1054,12 +1092,12 @@
       "street": "Waterlozestraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2"
       ], 
       "hnrlbls": [
-        "88-88_2"
+        "88"
       ], 
       "housenumber": "88", 
       "lat": 50.970831154730355, 
@@ -1067,30 +1105,6 @@
       "municipality": "Hasselt", 
       "pcode": "3511", 
       "source": "afgeleidVanGebouw", 
-      "street": "Waterlozestraat"
-    }, 
-    {
-      "hnrlbls": [
-        "88-88_2"
-      ], 
-      "housenumber": "88_1", 
-      "lat": 50.970831154730355, 
-      "lon": 5.254085474621437, 
-      "municipality": "Hasselt", 
-      "pcode": "3511", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Waterlozestraat"
-    }, 
-    {
-      "hnrlbls": [
-        "88-88_2"
-      ], 
-      "housenumber": "88_2", 
-      "lat": 50.970831154730355, 
-      "lon": 5.254085474621437, 
-      "municipality": "Hasselt", 
-      "pcode": "3511", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Waterlozestraat"
     }, 
     {
@@ -1139,6 +1153,18 @@
       "municipality": "Hasselt", 
       "pcode": "3511", 
       "source": "afgeleidVanGebouw", 
+      "street": "Waterlozestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "91A"
+      ], 
+      "housenumber": "91A", 
+      "lat": 50.969008619303104, 
+      "lon": 5.259228459084424, 
+      "municipality": "Hasselt", 
+      "pcode": "3511", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Waterlozestraat"
     }, 
     {

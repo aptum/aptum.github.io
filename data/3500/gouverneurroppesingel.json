@@ -49,7 +49,7 @@
       "street": "Gouverneur Roppesingel"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3"
@@ -79,7 +79,14 @@
     }, 
     {
       "busnrs": [
-        "01"
+        "0.01", 
+        "0.02", 
+        "1.01", 
+        "1.02", 
+        "2.01", 
+        "2.02", 
+        "3.01", 
+        "3.02"
       ], 
       "hnrlbls": [
         "15"
@@ -106,7 +113,7 @@
     }, 
     {
       "hnrlbls": [
-        "2-2A"
+        "2"
       ], 
       "housenumber": "2", 
       "lat": 50.926233101591365, 
@@ -114,18 +121,6 @@
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanGebouw", 
-      "street": "Gouverneur Roppesingel"
-    }, 
-    {
-      "hnrlbls": [
-        "202"
-      ], 
-      "housenumber": "202", 
-      "lat": 50.926046190013494, 
-      "lon": 5.357581660085106, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "afgeleidVanPerceelGrb", 
       "street": "Gouverneur Roppesingel"
     }, 
     {
@@ -138,18 +133,6 @@
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanGebouw", 
-      "street": "Gouverneur Roppesingel"
-    }, 
-    {
-      "hnrlbls": [
-        "2-2A"
-      ], 
-      "housenumber": "2A", 
-      "lat": 50.926233101591365, 
-      "lon": 5.359414893308071, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Gouverneur Roppesingel"
     }, 
     {
@@ -214,21 +197,6 @@
     }, 
     {
       "hnrlbls": [
-        "71"
-      ], 
-      "housenumber": "71", 
-      "lat": 50.92107657699756, 
-      "lon": 5.354681753265432, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Gouverneur Roppesingel"
-    }, 
-    {
-      "busnrs": [
-        "7"
-      ], 
-      "hnrlbls": [
         "75-77"
       ], 
       "housenumber": "75", 
@@ -256,24 +224,27 @@
         "77A"
       ], 
       "housenumber": "77A", 
-      "lat": 50.92082679449489, 
-      "lon": 5.354439973330416, 
+      "lat": 50.920819402187085, 
+      "lon": 5.354474522110411, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Gouverneur Roppesingel"
     }, 
     {
-      "busnrs": [
-        "2", 
+      "apptnrs": [
         "3", 
         "4"
+      ], 
+      "busnrs": [
+        "1", 
+        "2"
       ], 
       "hnrlbls": [
         "79"
       ], 
       "housenumber": "79", 
-      "lat": 50.920378434623814, 
+      "lat": 50.92037843462379, 
       "lon": 5.3541964412513385, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
@@ -296,26 +267,23 @@
       "street": "Gouverneur Roppesingel"
     }, 
     {
+      "apptnrs": [
+        "11", 
+        "13", 
+        "14", 
+        "4", 
+        "5", 
+        "6", 
+        "8"
+      ], 
       "busnrs": [
         "1", 
         "10", 
-        "11", 
         "12", 
-        "13", 
-        "14", 
         "2", 
-        "2A", 
         "3", 
-        "4", 
-        "43", 
-        "4A", 
-        "4B", 
-        "5", 
-        "6", 
-        "8", 
-        "9", 
-        "A", 
-        "b"
+        "7", 
+        "9"
       ], 
       "hnrlbls": [
         "81-83"
@@ -326,64 +294,6 @@
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanGebouw", 
-      "street": "Gouverneur Roppesingel"
-    }, 
-    {
-      "hnrlbls": [
-        "81B-81_4"
-      ], 
-      "housenumber": "81B", 
-      "lat": 50.91983119553448, 
-      "lon": 5.353522875289513, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Gouverneur Roppesingel"
-    }, 
-    {
-      "busnrs": [
-        "a"
-      ], 
-      "hnrlbls": [
-        "81B-81_4"
-      ], 
-      "housenumber": "81_1", 
-      "lat": 50.91983119553448, 
-      "lon": 5.353522875289513, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Gouverneur Roppesingel"
-    }, 
-    {
-      "busnrs": [
-        "A", 
-        "b"
-      ], 
-      "hnrlbls": [
-        "81B-81_4"
-      ], 
-      "housenumber": "81_2", 
-      "lat": 50.91983119553448, 
-      "lon": 5.353522875289513, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Gouverneur Roppesingel"
-    }, 
-    {
-      "busnrs": [
-        "B"
-      ], 
-      "hnrlbls": [
-        "81B-81_4"
-      ], 
-      "housenumber": "81_4", 
-      "lat": 50.91983119553448, 
-      "lon": 5.353522875289513, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Gouverneur Roppesingel"
     }, 
     {

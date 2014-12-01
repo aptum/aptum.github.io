@@ -256,7 +256,7 @@
       ], 
       "housenumber": "120", 
       "lat": 50.92845464385165, 
-      "lon": 4.459685286548549, 
+      "lon": 4.459685286548548, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
       "source": "manueleAanduidingVanPerceel", 
@@ -339,11 +339,11 @@
         "125"
       ], 
       "housenumber": "125", 
-      "lat": 50.92878918797944, 
-      "lon": 4.460193458691094, 
+      "lat": 50.92879747800014, 
+      "lon": 4.460156584560975, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Lindenstraat"
     }, 
     {
@@ -363,11 +363,11 @@
         "127"
       ], 
       "housenumber": "127", 
-      "lat": 50.92885247046818, 
-      "lon": 4.460196285537057, 
+      "lat": 50.928852853703766, 
+      "lon": 4.46015470184796, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Lindenstraat"
     }, 
     {
@@ -387,11 +387,11 @@
         "129"
       ], 
       "housenumber": "129", 
-      "lat": 50.92889319407464, 
-      "lon": 4.460193662893982, 
+      "lat": 50.92891578042571, 
+      "lon": 4.460152833949446, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Lindenstraat"
     }, 
     {
@@ -483,11 +483,11 @@
         "135"
       ], 
       "housenumber": "135", 
-      "lat": 50.928937122203905, 
-      "lon": 4.461370235233638, 
+      "lat": 50.92890513156416, 
+      "lon": 4.460908446358357, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "afgeleidVanGebouw", 
       "street": "Lindenstraat"
     }, 
     {
@@ -555,11 +555,11 @@
         "141"
       ], 
       "housenumber": "141", 
-      "lat": 50.92890512653038, 
-      "lon": 4.460908453406747, 
+      "lat": 50.92893711454776, 
+      "lon": 4.461370197346236, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "afgeleidVanGebouw", 
       "street": "Lindenstraat"
     }, 
     {
@@ -1092,8 +1092,12 @@
         "2/1", 
         "2/2"
       ], 
+      "busnrs": [
+        "O/01", 
+        "O/02"
+      ], 
       "hnrlbls": [
-        "31-31O"
+        "31"
       ], 
       "housenumber": "31", 
       "lat": 50.928497306190515, 
@@ -1101,22 +1105,6 @@
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
       "source": "manueleAanduidingVanPerceel", 
-      "street": "Lindenstraat"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
-      "hnrlbls": [
-        "31-31O"
-      ], 
-      "housenumber": "31O", 
-      "lat": 50.928497306190515, 
-      "lon": 4.453531741409438, 
-      "municipality": "Vilvoorde", 
-      "pcode": "1800", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Lindenstraat"
     }, 
     {
@@ -1412,8 +1400,8 @@
         "61"
       ], 
       "housenumber": "61", 
-      "lat": 50.92833330820974, 
-      "lon": 4.45492511471463, 
+      "lat": 50.928333308209716, 
+      "lon": 4.454925114714631, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
       "source": "manueleAanduidingVanPerceel", 
@@ -1724,7 +1712,7 @@
         "85"
       ], 
       "housenumber": "85", 
-      "lat": 50.928193171657625, 
+      "lat": 50.92819317165762, 
       "lon": 4.456363186560728, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 

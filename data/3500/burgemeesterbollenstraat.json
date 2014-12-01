@@ -1,15 +1,18 @@
 {
   "addresses": [
     {
-      "busnrs": [
-        "1", 
+      "apptnrs": [
         "3", 
         "4", 
         "5", 
-        "6", 
         "7", 
-        "8", 
         "9"
+      ], 
+      "busnrs": [
+        "1", 
+        "2", 
+        "6", 
+        "8"
       ], 
       "hnrlbls": [
         "1"
@@ -23,11 +26,11 @@
       "street": "Burgemeester Bollenstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
+        "1", 
         "2", 
         "3", 
-        "4", 
-        "5"
+        "4"
       ], 
       "hnrlbls": [
         "10"
@@ -41,7 +44,7 @@
       "street": "Burgemeester Bollenstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2"
       ], 
@@ -69,19 +72,15 @@
       "street": "Burgemeester Bollenstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "3"
-      ], 
       "hnrlbls": [
         "13-15"
       ], 
       "housenumber": "13", 
-      "lat": 50.931697898005154, 
-      "lon": 5.332817086017558, 
+      "lat": 50.931715911502685, 
+      "lon": 5.332999125767857, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Burgemeester Bollenstraat"
     }, 
     {
@@ -109,18 +108,15 @@
       "street": "Burgemeester Bollenstraat"
     }, 
     {
-      "busnrs": [
-        "6"
-      ], 
       "hnrlbls": [
         "13-15"
       ], 
       "housenumber": "15", 
-      "lat": 50.931697898005154, 
-      "lon": 5.332817086017558, 
+      "lat": 50.931715911502685, 
+      "lon": 5.332999125767857, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Burgemeester Bollenstraat"
     }, 
     {
@@ -136,11 +132,14 @@
       "street": "Burgemeester Bollenstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "2", 
         "3", 
         "4", 
         "5"
+      ], 
+      "busnrs": [
+        "1"
       ], 
       "hnrlbls": [
         "17-32"
@@ -182,11 +181,11 @@
         "2"
       ], 
       "housenumber": "2", 
-      "lat": 50.93121558177024, 
-      "lon": 5.331864120044226, 
+      "lat": 50.93276861283668, 
+      "lon": 5.333878496560552, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "geinterpoleerdObvWegverbinding", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Burgemeester Bollenstraat"
     }, 
     {
@@ -218,8 +217,8 @@
         "23"
       ], 
       "housenumber": "23", 
-      "lat": 50.93222768665243, 
-      "lon": 5.333210527975075, 
+      "lat": 50.932261553284675, 
+      "lon": 5.333246506171893, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanPerceelGrb", 
@@ -242,8 +241,8 @@
         "26"
       ], 
       "housenumber": "26", 
-      "lat": 50.931779142391484, 
-      "lon": 5.332513602858687, 
+      "lat": 50.93181764031943, 
+      "lon": 5.332335854251936, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanPerceelGrb", 
@@ -322,11 +321,10 @@
       "street": "Burgemeester Bollenstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "10", 
         "11", 
-        "12", 
         "13", 
         "14", 
         "15", 
@@ -334,11 +332,13 @@
         "3", 
         "4", 
         "5", 
-        "6", 
         "7", 
         "8", 
-        "9", 
-        "a"
+        "9"
+      ], 
+      "busnrs": [
+        "12", 
+        "6"
       ], 
       "hnrlbls": [
         "38"
@@ -356,11 +356,11 @@
         "40"
       ], 
       "housenumber": "40", 
-      "lat": 50.932133874787056, 
-      "lon": 5.3327234783769795, 
+      "lat": 50.93207295835847, 
+      "lon": 5.332686233214176, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Burgemeester Bollenstraat"
     }, 
     {
@@ -412,7 +412,7 @@
       "street": "Burgemeester Bollenstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3", 
@@ -468,9 +468,6 @@
       "street": "Burgemeester Bollenstraat"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
         "56"
       ], 
@@ -519,15 +516,17 @@
       "street": "Burgemeester Bollenstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
-        "10", 
         "3", 
         "4", 
         "5", 
         "6", 
-        "7", 
         "8"
+      ], 
+      "busnrs": [
+        "2", 
+        "7"
       ], 
       "hnrlbls": [
         "64"
@@ -541,7 +540,7 @@
       "street": "Burgemeester Bollenstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3"
@@ -570,7 +569,7 @@
       "street": "Burgemeester Bollenstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3", 
@@ -588,8 +587,11 @@
       "street": "Burgemeester Bollenstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "2"
+      ], 
+      "busnrs": [
+        "1"
       ], 
       "hnrlbls": [
         "70"
@@ -615,22 +617,23 @@
       "street": "Burgemeester Bollenstraat"
     }, 
     {
-      "busnrs": [
-        "1"
+      "apptnrs": [
+        "1.1", 
+        "1.2"
       ], 
       "hnrlbls": [
         "74"
       ], 
       "housenumber": "74", 
-      "lat": 50.932895598997476, 
-      "lon": 5.333654053709837, 
+      "lat": 50.932869955545144, 
+      "lon": 5.333591071128426, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "geinterpoleerdObvWegverbinding", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Burgemeester Bollenstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3", 

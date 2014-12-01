@@ -13,16 +13,17 @@
       "street": "Molenpoort"
     }, 
     {
+      "apptnrs": [
+        "7", 
+        "8"
+      ], 
       "busnrs": [
         "1", 
         "2", 
         "3", 
         "4", 
         "5", 
-        "6", 
-        "7", 
-        "8", 
-        "9"
+        "6"
       ], 
       "hnrlbls": [
         "6-12"
@@ -36,12 +37,6 @@
       "street": "Molenpoort"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4"
-      ], 
       "hnrlbls": [
         "6-12"
       ], 
@@ -54,13 +49,6 @@
       "street": "Molenpoort"
     }, 
     {
-      "busnrs": [
-        "2", 
-        "3", 
-        "4", 
-        "6", 
-        "7"
-      ], 
       "hnrlbls": [
         "2-52"
       ], 
@@ -74,46 +62,31 @@
     }, 
     {
       "hnrlbls": [
-        "4"
-      ], 
-      "housenumber": "4", 
-      "lat": 50.93252201437631, 
-      "lon": 5.337927692085628, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Molenpoort"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
-      "hnrlbls": [
         "5"
       ], 
       "housenumber": "5", 
-      "lat": 50.93343233264999, 
-      "lon": 5.337471904030493, 
+      "lat": 50.93316164555647, 
+      "lon": 5.338037940421824, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "geinterpoleerdObvWegverbinding", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Molenpoort"
     }, 
     {
-      "busnrs": [
-        "1", 
+      "apptnrs": [
         "10", 
         "11", 
-        "12", 
-        "2", 
         "3", 
         "4", 
-        "5", 
         "6", 
         "7", 
-        "8", 
         "9"
+      ], 
+      "busnrs": [
+        "1", 
+        "2", 
+        "5", 
+        "8"
       ], 
       "hnrlbls": [
         "6-12"
@@ -127,14 +100,16 @@
       "street": "Molenpoort"
     }, 
     {
+      "apptnrs": [
+        "4", 
+        "6", 
+        "7"
+      ], 
       "busnrs": [
         "1", 
         "2", 
         "3", 
-        "4", 
-        "5", 
-        "6", 
-        "7"
+        "5"
       ], 
       "hnrlbls": [
         "6-12"
@@ -145,18 +120,6 @@
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanGebouw", 
-      "street": "Molenpoort"
-    }, 
-    {
-      "hnrlbls": [
-        "9"
-      ], 
-      "housenumber": "9", 
-      "lat": 50.93296324603784, 
-      "lon": 5.337600921736055, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "afgeleidVanStraat", 
       "street": "Molenpoort"
     }
   ]

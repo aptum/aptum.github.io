@@ -6,7 +6,7 @@
       ], 
       "housenumber": "10", 
       "lat": 50.92965893112502, 
-      "lon": 4.430493954368475, 
+      "lon": 4.430493954368476, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
       "source": "manueleAanduidingVanPerceel", 
@@ -51,7 +51,7 @@
         "102"
       ], 
       "housenumber": "102", 
-      "lat": 50.931071550854305, 
+      "lat": 50.9310715508543, 
       "lon": 4.425107879519819, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
@@ -66,7 +66,7 @@
         "103"
       ], 
       "housenumber": "103", 
-      "lat": 50.9300088280135, 
+      "lat": 50.93000882801351, 
       "lon": 4.42676716135199, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
@@ -193,7 +193,7 @@
         "112"
       ], 
       "housenumber": "112", 
-      "lat": 50.93120200778658, 
+      "lat": 50.931202007786574, 
       "lon": 4.424503337195238, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
@@ -325,7 +325,7 @@
       ], 
       "housenumber": "121", 
       "lat": 50.93014702537076, 
-      "lon": 4.426160513217248, 
+      "lon": 4.4261605132172495, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
       "source": "manueleAanduidingVanPerceel", 
@@ -561,11 +561,11 @@
         "147"
       ], 
       "housenumber": "147", 
-      "lat": 50.93033656688819, 
-      "lon": 4.4249620368278855, 
+      "lat": 50.93044263026839, 
+      "lon": 4.4250304977949995, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rooseveltlaan (Franklin)"
     }, 
     {
@@ -728,7 +728,7 @@
         "169"
       ], 
       "housenumber": "169", 
-      "lat": 50.93060364114278, 
+      "lat": 50.93060364114276, 
       "lon": 4.424209872542076, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
@@ -798,11 +798,11 @@
         "181"
       ], 
       "housenumber": "181", 
-      "lat": 50.93070767767906, 
-      "lon": 4.42376831823068, 
+      "lat": 50.93069742117661, 
+      "lon": 4.423835925150572, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rooseveltlaan (Franklin)"
     }, 
     {
@@ -813,11 +813,11 @@
         "183"
       ], 
       "housenumber": "183", 
-      "lat": 50.93065747984826, 
-      "lon": 4.423847490465705, 
+      "lat": 50.93070770885794, 
+      "lon": 4.423768270211681, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "afgeleidVanGebouw", 
       "street": "Rooseveltlaan (Franklin)"
     }, 
     {
@@ -1017,8 +1017,11 @@
         "6", 
         "9"
       ], 
+      "busnrs": [
+        "O/01"
+      ], 
       "hnrlbls": [
-        "24-24O"
+        "24-24A"
       ], 
       "housenumber": "24", 
       "lat": 50.93014921124036, 
@@ -1035,7 +1038,7 @@
         "2"
       ], 
       "hnrlbls": [
-        "24-24O"
+        "24-24A"
       ], 
       "housenumber": "24A", 
       "lat": 50.93014921124036, 
@@ -1043,21 +1046,6 @@
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
       "source": "manueleAanduidingVanPerceel", 
-      "street": "Rooseveltlaan (Franklin)"
-    }, 
-    {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "24-24O"
-      ], 
-      "housenumber": "24O", 
-      "lat": 50.93014921124036, 
-      "lon": 4.429635014607621, 
-      "municipality": "Vilvoorde", 
-      "pcode": "1800", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Rooseveltlaan (Franklin)"
     }, 
     {
@@ -1232,7 +1220,7 @@
         "36-38"
       ], 
       "housenumber": "36", 
-      "lat": 50.93021555067205, 
+      "lat": 50.93021555067204, 
       "lon": 4.428948052913601, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
@@ -1259,7 +1247,7 @@
         "36-38"
       ], 
       "housenumber": "38", 
-      "lat": 50.93021555067205, 
+      "lat": 50.93021555067204, 
       "lon": 4.428948052913601, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
@@ -1436,7 +1424,7 @@
         "7"
       ], 
       "hnrlbls": [
-        "51-51_3"
+        "51"
       ], 
       "housenumber": "51", 
       "lat": 50.92928277186209, 
@@ -1448,29 +1436,14 @@
     }, 
     {
       "hnrlbls": [
-        "51A"
+        "54"
       ], 
-      "housenumber": "51A", 
-      "lat": 50.92929799382307, 
-      "lon": 4.429330777121392, 
+      "housenumber": "54", 
+      "lat": 50.930498572738465, 
+      "lon": 4.427627110494948, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Rooseveltlaan (Franklin)"
-    }, 
-    {
-      "busnrs": [
-        "A"
-      ], 
-      "hnrlbls": [
-        "51-51_3"
-      ], 
-      "housenumber": "51_3", 
-      "lat": 50.92928277186209, 
-      "lon": 4.4293883657785225, 
-      "municipality": "Vilvoorde", 
-      "pcode": "1800", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Rooseveltlaan (Franklin)"
     }, 
     {
@@ -1574,7 +1547,7 @@
       ], 
       "housenumber": "61", 
       "lat": 50.92965725117447, 
-      "lon": 4.428550039825214, 
+      "lon": 4.428550039825213, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
       "source": "manueleAanduidingVanPerceel", 
@@ -1842,11 +1815,11 @@
         "98"
       ], 
       "housenumber": "98", 
-      "lat": 50.93133357641535, 
-      "lon": 4.425685873295584, 
+      "lat": 50.931333486522476, 
+      "lon": 4.425685873185189, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "afgeleidVanGebouw", 
       "street": "Rooseveltlaan (Franklin)"
     }, 
     {

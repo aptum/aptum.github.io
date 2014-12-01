@@ -13,12 +13,11 @@
       "street": "Vismarkt"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3", 
-        "4", 
-        "5"
+        "4"
       ], 
       "hnrlbls": [
         "11"
@@ -32,15 +31,17 @@
       "street": "Vismarkt"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3", 
+        "7", 
+        "8"
+      ], 
+      "busnrs": [
         "4", 
         "5", 
-        "7", 
-        "8", 
-        "9"
+        "6"
       ], 
       "hnrlbls": [
         "15"
@@ -54,15 +55,25 @@
       "street": "Vismarkt"
     }, 
     {
+      "apptnrs": [
+        "1.01", 
+        "1.02", 
+        "1.03", 
+        "2.01", 
+        "2.02", 
+        "2.03", 
+        "3.01", 
+        "3.02"
+      ], 
       "hnrlbls": [
         "3"
       ], 
       "housenumber": "3", 
-      "lat": 50.929709400244754, 
-      "lon": 5.338296040811363, 
+      "lat": 50.929592041475715, 
+      "lon": 5.338409552984123, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "geinterpoleerdObvWegverbinding", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Vismarkt"
     }, 
     {
@@ -78,9 +89,12 @@
       "street": "Vismarkt"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "2", 
         "3"
+      ], 
+      "busnrs": [
+        "1"
       ], 
       "hnrlbls": [
         "7"
@@ -91,18 +105,6 @@
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanGebouw", 
-      "street": "Vismarkt"
-    }, 
-    {
-      "hnrlbls": [
-        "8"
-      ], 
-      "housenumber": "8", 
-      "lat": 50.929694245218464, 
-      "lon": 5.338770295538411, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "afgeleidVanStraat", 
       "street": "Vismarkt"
     }, 
     {

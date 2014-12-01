@@ -1,7 +1,7 @@
 {
   "addresses": [
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3", 
@@ -12,11 +12,11 @@
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 50.92256763805887, 
-      "lon": 5.329609883522687, 
+      "lat": 50.922668470493754, 
+      "lon": 5.329394614298927, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "geinterpoleerdObvWegverbinding", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Notelarenstraat"
     }, 
     {
@@ -44,7 +44,7 @@
       "street": "Notelarenstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3"
@@ -121,11 +121,13 @@
       "street": "Notelarenstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
+      "apptnrs": [
         "2", 
         "3", 
         "4"
+      ], 
+      "busnrs": [
+        "1"
       ], 
       "hnrlbls": [
         "11-13"
@@ -151,10 +153,12 @@
       "street": "Notelarenstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
-        "2", 
         "3"
+      ], 
+      "busnrs": [
+        "2"
       ], 
       "hnrlbls": [
         "113"
@@ -180,7 +184,7 @@
       "street": "Notelarenstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3", 
@@ -211,9 +215,6 @@
       "street": "Notelarenstraat"
     }, 
     {
-      "busnrs": [
-        "2"
-      ], 
       "hnrlbls": [
         "15-23"
       ], 
@@ -274,24 +275,24 @@
       "street": "Notelarenstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3"
       ], 
       "hnrlbls": [
-        "2-2B"
+        "2"
       ], 
       "housenumber": "2", 
-      "lat": 50.922487728614826, 
-      "lon": 5.329366731942994, 
+      "lat": 50.922485509405234, 
+      "lon": 5.329363272854902, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Notelarenstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3", 
@@ -333,10 +334,12 @@
       "street": "Notelarenstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
-        "2", 
         "3"
+      ], 
+      "busnrs": [
+        "2"
       ], 
       "hnrlbls": [
         "15-23"
@@ -375,7 +378,7 @@
     }, 
     {
       "hnrlbls": [
-        "2-2B"
+        "2B"
       ], 
       "housenumber": "2B", 
       "lat": 50.922487728614826, 
@@ -383,18 +386,6 @@
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanGebouw", 
-      "street": "Notelarenstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "3"
-      ], 
-      "housenumber": "3", 
-      "lat": 50.9226176826745, 
-      "lon": 5.32916315330258, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "geinterpoleerdObvWegverbinding", 
       "street": "Notelarenstraat"
     }, 
     {
@@ -422,10 +413,9 @@
       "street": "Notelarenstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
-        "2", 
-        "3"
+        "2"
       ], 
       "hnrlbls": [
         "34"
@@ -491,7 +481,7 @@
         "44"
       ], 
       "housenumber": "44", 
-      "lat": 50.92267482877818, 
+      "lat": 50.922674828778185, 
       "lon": 5.327506289169488, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
@@ -523,7 +513,7 @@
       "street": "Notelarenstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "10", 
         "11", 
@@ -692,14 +682,16 @@
       "street": "Notelarenstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
+      "apptnrs": [
         "2", 
         "3", 
         "4", 
-        "5", 
         "6", 
         "7"
+      ], 
+      "busnrs": [
+        "1", 
+        "5"
       ], 
       "hnrlbls": [
         "1-7"
@@ -770,22 +762,6 @@
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanGebouw", 
-      "street": "Notelarenstraat"
-    }, 
-    {
-      "busnrs": [
-        "2", 
-        "3"
-      ], 
-      "hnrlbls": [
-        "7A"
-      ], 
-      "housenumber": "7A", 
-      "lat": 50.92280281293883, 
-      "lon": 5.328599567401938, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Notelarenstraat"
     }, 
     {
@@ -929,11 +905,11 @@
         "95-97"
       ], 
       "housenumber": "95", 
-      "lat": 50.92335186335376, 
-      "lon": 5.32592081715834, 
+      "lat": 50.92315382163951, 
+      "lon": 5.3260629940028945, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Notelarenstraat"
     }, 
     {
@@ -965,6 +941,7 @@
         "1.05", 
         "1.06", 
         "1.07", 
+        "1.08", 
         "2.01", 
         "2.02", 
         "2.03", 
@@ -978,11 +955,11 @@
         "95-97"
       ], 
       "housenumber": "97", 
-      "lat": 50.92335186335376, 
-      "lon": 5.32592081715834, 
+      "lat": 50.92315382163951, 
+      "lon": 5.3260629940028945, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Notelarenstraat"
     }, 
     {

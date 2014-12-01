@@ -1,7 +1,7 @@
 {
   "addresses": [
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3"
@@ -90,13 +90,15 @@
       "street": "Oude Luikerbaan"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3", 
         "4", 
-        "5", 
         "6"
+      ], 
+      "busnrs": [
+        "5"
       ], 
       "hnrlbls": [
         "31-105"
@@ -110,9 +112,6 @@
       "street": "Oude Luikerbaan"
     }, 
     {
-      "busnrs": [
-        "6"
-      ], 
       "hnrlbls": [
         "106"
       ], 
@@ -125,7 +124,7 @@
       "street": "Oude Luikerbaan"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1"
       ], 
       "hnrlbls": [
@@ -156,7 +155,7 @@
         "11"
       ], 
       "housenumber": "11", 
-      "lat": 50.92322470031072, 
+      "lat": 50.92322470031073, 
       "lon": 5.3416188990841, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
@@ -217,7 +216,7 @@
       ], 
       "housenumber": "121", 
       "lat": 50.91798369151478, 
-      "lon": 5.348908676812522, 
+      "lon": 5.348908676812523, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanGebouw", 
@@ -284,7 +283,7 @@
       "street": "Oude Luikerbaan"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3", 
@@ -376,7 +375,7 @@
       "street": "Oude Luikerbaan"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3", 
@@ -386,8 +385,8 @@
         "15"
       ], 
       "housenumber": "15", 
-      "lat": 50.92315365149055, 
-      "lon": 5.343215456653839, 
+      "lat": 50.923153651490544, 
+      "lon": 5.343215456653837, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanGebouw", 
@@ -418,9 +417,11 @@
       "street": "Oude Luikerbaan"
     }, 
     {
-      "busnrs": [
-        "1", 
+      "apptnrs": [
         "2"
+      ], 
+      "busnrs": [
+        "1"
       ], 
       "hnrlbls": [
         "156"
@@ -434,10 +435,14 @@
       "street": "Oude Luikerbaan"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
-        "5", 
-        "7"
+        "5"
+      ], 
+      "busnrs": [
+        "2", 
+        "3", 
+        "4"
       ], 
       "hnrlbls": [
         "16"
@@ -451,11 +456,13 @@
       "street": "Oude Luikerbaan"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
-        "2", 
         "3", 
         "4"
+      ], 
+      "busnrs": [
+        "2"
       ], 
       "hnrlbls": [
         "160"
@@ -469,25 +476,28 @@
       "street": "Oude Luikerbaan"
     }, 
     {
-      "apptnrs": [
-        "2.2"
-      ], 
       "hnrlbls": [
         "17"
       ], 
       "housenumber": "17", 
-      "lat": 50.92310870480173, 
-      "lon": 5.343344953802447, 
+      "lat": 50.923136001586734, 
+      "lon": 5.343186500283968, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Oude Luikerbaan"
     }, 
     {
       "apptnrs": [
         "0.1", 
+        "0.2", 
+        "0.3", 
+        "1.1", 
         "1.2", 
-        "2.1"
+        "1.3", 
+        "2.1", 
+        "2.2", 
+        "3.1"
       ], 
       "hnrlbls": [
         "17A"
@@ -501,11 +511,10 @@
       "street": "Oude Luikerbaan"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "10", 
         "11", 
-        "12", 
         "2", 
         "3", 
         "4", 
@@ -543,11 +552,11 @@
         "2"
       ], 
       "housenumber": "2", 
-      "lat": 50.921747444322406, 
-      "lon": 5.345462670979799, 
+      "lat": 50.923951984896334, 
+      "lon": 5.34022012896335, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "afgeleidVanStraat", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Oude Luikerbaan"
     }, 
     {
@@ -575,11 +584,10 @@
       "street": "Oude Luikerbaan"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
-        "3", 
-        "4"
+        "3"
       ], 
       "hnrlbls": [
         "24"
@@ -593,7 +601,7 @@
       "street": "Oude Luikerbaan"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1"
       ], 
       "hnrlbls": [
@@ -620,10 +628,15 @@
       "street": "Oude Luikerbaan"
     }, 
     {
-      "busnrs": [
-        "2", 
-        "5", 
+      "apptnrs": [
         "6"
+      ], 
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5"
       ], 
       "hnrlbls": [
         "27"
@@ -649,9 +662,6 @@
       "street": "Oude Luikerbaan"
     }, 
     {
-      "busnrs": [
-        "2"
-      ], 
       "hnrlbls": [
         "29"
       ], 
@@ -664,7 +674,7 @@
       "street": "Oude Luikerbaan"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3"
@@ -681,7 +691,7 @@
       "street": "Oude Luikerbaan"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1"
       ], 
       "hnrlbls": [
@@ -749,7 +759,7 @@
       ], 
       "housenumber": "35", 
       "lat": 50.92284751579332, 
-      "lon": 5.344527765272889, 
+      "lon": 5.34452776527289, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanGebouw", 
@@ -796,18 +806,20 @@
         "39"
       ], 
       "housenumber": "39", 
-      "lat": 50.9227966766918, 
-      "lon": 5.344684589250225, 
+      "lat": 50.92279667669182, 
+      "lon": 5.344684589250224, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanGebouw", 
       "street": "Oude Luikerbaan"
     }, 
     {
+      "apptnrs": [
+        "3"
+      ], 
       "busnrs": [
         "1", 
-        "2", 
-        "3"
+        "2"
       ], 
       "hnrlbls": [
         "4"
@@ -857,7 +869,7 @@
       "street": "Oude Luikerbaan"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "45"
       ], 
       "hnrlbls": [
@@ -932,12 +944,15 @@
       "street": "Oude Luikerbaan"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "2", 
         "3", 
         "4", 
         "5", 
         "6"
+      ], 
+      "busnrs": [
+        "1"
       ], 
       "hnrlbls": [
         "5"
@@ -999,13 +1014,12 @@
       "street": "Oude Luikerbaan"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3", 
         "4", 
-        "5", 
-        "6"
+        "5"
       ], 
       "hnrlbls": [
         "54"
@@ -1031,13 +1045,13 @@
       "street": "Oude Luikerbaan"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3"
       ], 
       "hnrlbls": [
-        "56-56A"
+        "56"
       ], 
       "housenumber": "56", 
       "lat": 50.92322150729298, 
@@ -1049,14 +1063,14 @@
     }, 
     {
       "hnrlbls": [
-        "56-56A"
+        "56A"
       ], 
       "housenumber": "56A", 
-      "lat": 50.92322150729298, 
-      "lon": 5.344494867368473, 
+      "lat": 50.923346889490375, 
+      "lon": 5.344606572399041, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Oude Luikerbaan"
     }, 
     {
@@ -1132,7 +1146,7 @@
       "street": "Oude Luikerbaan"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3"
@@ -1149,15 +1163,17 @@
       "street": "Oude Luikerbaan"
     }, 
     {
-      "busnrs": [
-        "1", 
+      "apptnrs": [
         "2"
+      ], 
+      "busnrs": [
+        "1"
       ], 
       "hnrlbls": [
         "63"
       ], 
       "housenumber": "63", 
-      "lat": 50.922388839197765, 
+      "lat": 50.92238883919776, 
       "lon": 5.345446871398482, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
@@ -1165,9 +1181,8 @@
       "street": "Oude Luikerbaan"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2"
+      "apptnrs": [
+        "1"
       ], 
       "hnrlbls": [
         "63A"
@@ -1193,9 +1208,11 @@
       "street": "Oude Luikerbaan"
     }, 
     {
-      "busnrs": [
-        "1", 
+      "apptnrs": [
         "2"
+      ], 
+      "busnrs": [
+        "1"
       ], 
       "hnrlbls": [
         "65"
@@ -1209,7 +1226,7 @@
       "street": "Oude Luikerbaan"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3", 
@@ -1231,9 +1248,6 @@
       "street": "Oude Luikerbaan"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
         "79-83"
       ], 
@@ -1294,12 +1308,15 @@
       "street": "Oude Luikerbaan"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "3", 
         "4", 
         "5", 
         "6"
+      ], 
+      "busnrs": [
+        "2"
       ], 
       "hnrlbls": [
         "9"
@@ -1338,6 +1355,18 @@
     }, 
     {
       "hnrlbls": [
+        "94"
+      ], 
+      "housenumber": "94", 
+      "lat": 50.92097036378638, 
+      "lon": 5.3477800609128545, 
+      "municipality": "Hasselt", 
+      "pcode": "3500", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Oude Luikerbaan"
+    }, 
+    {
+      "hnrlbls": [
         "95"
       ], 
       "housenumber": "95", 
@@ -1349,11 +1378,13 @@
       "street": "Oude Luikerbaan"
     }, 
     {
-      "busnrs": [
-        "1", 
+      "apptnrs": [
         "2", 
         "3", 
         "4"
+      ], 
+      "busnrs": [
+        "1"
       ], 
       "hnrlbls": [
         "96"

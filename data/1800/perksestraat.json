@@ -334,7 +334,7 @@
         "135"
       ], 
       "housenumber": "135", 
-      "lat": 50.928221475392355, 
+      "lat": 50.92822147539234, 
       "lon": 4.4420654063412695, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
@@ -502,7 +502,7 @@
         "148"
       ], 
       "housenumber": "148", 
-      "lat": 50.92802212765041, 
+      "lat": 50.9280221276504, 
       "lon": 4.441723574950599, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
@@ -578,7 +578,7 @@
         "152"
       ], 
       "housenumber": "152", 
-      "lat": 50.92799956148351, 
+      "lat": 50.9279995614835, 
       "lon": 4.441871610764932, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
@@ -1033,7 +1033,7 @@
         "22"
       ], 
       "housenumber": "22", 
-      "lat": 50.92817160209365, 
+      "lat": 50.92817160209366, 
       "lon": 4.43716601524815, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
@@ -1147,7 +1147,7 @@
       ], 
       "housenumber": "241", 
       "lat": 50.92796184710518, 
-      "lon": 4.4454409046967225, 
+      "lon": 4.445440904696721, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
       "source": "manueleAanduidingVanPerceel", 
@@ -1182,11 +1182,11 @@
         "247"
       ], 
       "housenumber": "247", 
-      "lat": 50.9279434048341, 
-      "lon": 4.4457348828328955, 
+      "lat": 50.927962587189974, 
+      "lon": 4.445681717079503, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "afgeleidVanGebouw", 
       "street": "Perksestraat"
     }, 
     {
@@ -1194,11 +1194,11 @@
         "249"
       ], 
       "housenumber": "249", 
-      "lat": 50.927962587189974, 
-      "lon": 4.445681717079503, 
+      "lat": 50.92794338299112, 
+      "lon": 4.445734918904196, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "afgeleidVanGebouw", 
       "street": "Perksestraat"
     }, 
     {
@@ -1414,7 +1414,7 @@
         "29"
       ], 
       "housenumber": "29", 
-      "lat": 50.92838071649864, 
+      "lat": 50.928380716498644, 
       "lon": 4.436973444985913, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
@@ -1827,18 +1827,6 @@
     }, 
     {
       "hnrlbls": [
-        "4A"
-      ], 
-      "housenumber": "4A", 
-      "lat": 50.92790928106705, 
-      "lon": 4.4364201536272425, 
-      "municipality": "Vilvoorde", 
-      "pcode": "1800", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Perksestraat"
-    }, 
-    {
-      "hnrlbls": [
         "5"
       ], 
       "housenumber": "5", 
@@ -1975,15 +1963,32 @@
       "street": "Perksestraat"
     }, 
     {
+      "busnrs": [
+        "00/1", 
+        "00/2", 
+        "00/3", 
+        "01/1", 
+        "01/2", 
+        "01/3", 
+        "02/1", 
+        "02/2", 
+        "02/3", 
+        "03/1", 
+        "03/2", 
+        "03/3", 
+        "O/01", 
+        "O/02", 
+        "O/03"
+      ], 
       "hnrlbls": [
-        "6-9"
+        "6"
       ], 
       "housenumber": "6", 
-      "lat": 50.92798547072279, 
-      "lon": 4.43648825503247, 
+      "lat": 50.928156475087285, 
+      "lon": 4.436308596614785, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Perksestraat"
     }, 
     {
@@ -2104,23 +2109,6 @@
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
       "source": "manueleAanduidingVanPerceel", 
-      "street": "Perksestraat"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3"
-      ], 
-      "hnrlbls": [
-        "6O"
-      ], 
-      "housenumber": "6O", 
-      "lat": 50.92794550296606, 
-      "lon": 4.436428740747222, 
-      "municipality": "Vilvoorde", 
-      "pcode": "1800", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Perksestraat"
     }, 
     {
@@ -2256,15 +2244,24 @@
       "street": "Perksestraat"
     }, 
     {
+      "busnrs": [
+        "00/1", 
+        "01/1", 
+        "01/2", 
+        "02/1", 
+        "02/2", 
+        "03/1", 
+        "03/2"
+      ], 
       "hnrlbls": [
-        "6-9"
+        "8"
       ], 
       "housenumber": "8", 
-      "lat": 50.92798547072279, 
-      "lon": 4.43648825503247, 
+      "lat": 50.92819092100978, 
+      "lon": 4.436543997446333, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Perksestraat"
     }, 
     {

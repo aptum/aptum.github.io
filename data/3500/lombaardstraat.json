@@ -2,18 +2,6 @@
   "addresses": [
     {
       "hnrlbls": [
-        "1"
-      ], 
-      "housenumber": "1", 
-      "lat": 50.93078721609474, 
-      "lon": 5.336160245461459, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "afgeleidVanStraat", 
-      "street": "Lombaardstraat"
-    }, 
-    {
-      "hnrlbls": [
         "10"
       ], 
       "housenumber": "10", 
@@ -37,22 +25,23 @@
       "street": "Lombaardstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
+      "apptnrs": [
         "10", 
-        "11", 
         "12", 
         "13", 
         "14", 
-        "15", 
-        "2", 
-        "3", 
         "4", 
         "5", 
         "6", 
         "7", 
-        "8", 
         "9"
+      ], 
+      "busnrs": [
+        "1", 
+        "11", 
+        "2", 
+        "3", 
+        "8"
       ], 
       "hnrlbls": [
         "13"
@@ -66,8 +55,7 @@
       "street": "Lombaardstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
+      "apptnrs": [
         "10", 
         "2", 
         "3", 
@@ -77,6 +65,9 @@
         "7", 
         "8", 
         "9"
+      ], 
+      "busnrs": [
+        "1"
       ], 
       "hnrlbls": [
         "14"
@@ -90,26 +81,6 @@
       "street": "Lombaardstraat"
     }, 
     {
-      "busnrs": [
-        "5"
-      ], 
-      "hnrlbls": [
-        "15"
-      ], 
-      "housenumber": "15", 
-      "lat": 50.93095353542907, 
-      "lon": 5.3358652148310295, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Lombaardstraat"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2", 
-        "5"
-      ], 
       "hnrlbls": [
         "16"
       ], 
@@ -159,22 +130,25 @@
     }, 
     {
       "hnrlbls": [
-        "21"
+        "21-25"
       ], 
       "housenumber": "21", 
-      "lat": 50.93088363827782, 
-      "lon": 5.335237401626088, 
+      "lat": 50.93143687054747, 
+      "lon": 5.335053622412598, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "geinterpoleerdObvWegverbinding", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Lombaardstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "2", 
-        "3", 
         "4", 
         "5"
+      ], 
+      "busnrs": [
+        "1", 
+        "3"
       ], 
       "hnrlbls": [
         "22"
@@ -189,14 +163,14 @@
     }, 
     {
       "hnrlbls": [
-        "23"
+        "21-25"
       ], 
       "housenumber": "23", 
-      "lat": 50.93091370073998, 
-      "lon": 5.335047392591527, 
+      "lat": 50.93143687054747, 
+      "lon": 5.335053622412598, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "geinterpoleerdObvWegverbinding", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Lombaardstraat"
     }, 
     {
@@ -213,14 +187,14 @@
     }, 
     {
       "hnrlbls": [
-        "25"
+        "21-25"
       ], 
       "housenumber": "25", 
-      "lat": 50.930943673009295, 
-      "lon": 5.334857381461397, 
+      "lat": 50.93143687054747, 
+      "lon": 5.335053622412598, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "geinterpoleerdObvWegverbinding", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Lombaardstraat"
     }, 
     {
@@ -257,11 +231,11 @@
         "3"
       ], 
       "housenumber": "3", 
-      "lat": 50.930664215406665, 
-      "lon": 5.337285398835459, 
+      "lat": 50.93093628331041, 
+      "lon": 5.33733639995603, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "geinterpoleerdObvWegverbinding", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Lombaardstraat"
     }, 
     {
@@ -302,33 +276,19 @@
     }, 
     {
       "hnrlbls": [
-        "36"
+        "38"
       ], 
-      "housenumber": "36", 
-      "lat": 50.93083100367559, 
-      "lon": 5.3350569268181705, 
+      "housenumber": "38", 
+      "lat": 50.93077193354623, 
+      "lon": 5.334915583519175, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanPerceelGrb", 
       "street": "Lombaardstraat"
     }, 
     {
-      "hnrlbls": [
-        "38"
-      ], 
-      "housenumber": "38", 
-      "lat": 50.93085535363564, 
-      "lon": 5.334938356986776, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
-      "street": "Lombaardstraat"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3"
+      "apptnrs": [
+        "1"
       ], 
       "hnrlbls": [
         "4"
@@ -342,11 +302,10 @@
       "street": "Lombaardstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
-        "3", 
-        "4"
+        "3"
       ], 
       "hnrlbls": [
         "40"
@@ -372,7 +331,7 @@
       "street": "Lombaardstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3", 
@@ -391,7 +350,9 @@
     }, 
     {
       "busnrs": [
+        "1", 
         "2", 
+        "3", 
         "4", 
         "5"
       ], 
@@ -407,8 +368,11 @@
       "street": "Lombaardstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "2"
+      ], 
+      "busnrs": [
+        "1"
       ], 
       "hnrlbls": [
         "8"

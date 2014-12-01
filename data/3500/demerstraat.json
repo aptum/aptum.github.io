@@ -5,11 +5,11 @@
         "10"
       ], 
       "housenumber": "10", 
-      "lat": 50.93107096174934, 
-      "lon": 5.337553426864612, 
+      "lat": 50.93110524812875, 
+      "lon": 5.337571064356208, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Demerstraat"
     }, 
     {
@@ -17,19 +17,19 @@
         "101"
       ], 
       "housenumber": "101", 
-      "lat": 50.93353417715002, 
-      "lon": 5.339498058957943, 
+      "lat": 50.93356938519784, 
+      "lon": 5.339632520242994, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Demerstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
+        "2", 
         "3", 
-        "4", 
-        "5"
+        "4"
       ], 
       "hnrlbls": [
         "103"
@@ -79,42 +79,15 @@
       "street": "Demerstraat"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
-        "11"
+        "11-15"
       ], 
       "housenumber": "11", 
-      "lat": 50.93098219167602, 
-      "lon": 5.338091755808231, 
+      "lat": 50.93105308157077, 
+      "lon": 5.338053246126377, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Demerstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "/zn-4013"
-      ], 
-      "housenumber": "111", 
-      "lat": 50.93233823490827, 
-      "lon": 5.338333330756427, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "afgeleidVanStraat", 
-      "street": "Demerstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "12"
-      ], 
-      "housenumber": "12", 
-      "lat": 50.931098670073965, 
-      "lon": 5.337572920085803, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Demerstraat"
     }, 
     {
@@ -131,18 +104,6 @@
     }, 
     {
       "hnrlbls": [
-        "/zn-4013"
-      ], 
-      "housenumber": "135", 
-      "lat": 50.93233823490827, 
-      "lon": 5.338333330756427, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "afgeleidVanStraat", 
-      "street": "Demerstraat"
-    }, 
-    {
-      "hnrlbls": [
         "14"
       ], 
       "housenumber": "14", 
@@ -155,14 +116,14 @@
     }, 
     {
       "hnrlbls": [
-        "15"
+        "11-15"
       ], 
       "housenumber": "15", 
-      "lat": 50.93110768502168, 
-      "lon": 5.33810359723047, 
+      "lat": 50.93105308157077, 
+      "lon": 5.338053246126377, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Demerstraat"
     }, 
     {
@@ -178,24 +139,6 @@
       "street": "Demerstraat"
     }, 
     {
-      "busnrs": [
-        "2"
-      ], 
-      "hnrlbls": [
-        "/zn-4013"
-      ], 
-      "housenumber": "167", 
-      "lat": 50.93233823490827, 
-      "lon": 5.338333330756427, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "afgeleidVanStraat", 
-      "street": "Demerstraat"
-    }, 
-    {
-      "busnrs": [
-        "2"
-      ], 
       "hnrlbls": [
         "17"
       ], 
@@ -208,7 +151,7 @@
       "street": "Demerstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3", 
@@ -226,10 +169,12 @@
       "street": "Demerstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
+      "apptnrs": [
         "2", 
         "3"
+      ], 
+      "busnrs": [
+        "1"
       ], 
       "hnrlbls": [
         "19"
@@ -279,10 +224,16 @@
       "street": "Demerstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "4", 
         "5", 
         "7"
+      ], 
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "6"
       ], 
       "hnrlbls": [
         "22"
@@ -300,11 +251,11 @@
         "22A-22B"
       ], 
       "housenumber": "22A", 
-      "lat": 50.93158780568508, 
-      "lon": 5.337530959209533, 
+      "lat": 50.93158472728766, 
+      "lon": 5.337533598586827, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Demerstraat"
     }, 
     {
@@ -312,11 +263,11 @@
         "22A-22B"
       ], 
       "housenumber": "22B", 
-      "lat": 50.93158780568508, 
-      "lon": 5.337530959209533, 
+      "lat": 50.93158472728766, 
+      "lon": 5.337533598586827, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Demerstraat"
     }, 
     {
@@ -332,10 +283,13 @@
       "street": "Demerstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "2", 
-        "3", 
         "4"
+      ], 
+      "busnrs": [
+        "1", 
+        "3"
       ], 
       "hnrlbls": [
         "24"
@@ -349,10 +303,6 @@
       "street": "Demerstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
       "hnrlbls": [
         "14-25"
       ], 
@@ -377,12 +327,6 @@
       "street": "Demerstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4"
-      ], 
       "hnrlbls": [
         "27"
       ], 
@@ -395,12 +339,13 @@
       "street": "Demerstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
-        "11", 
-        "2", 
         "3", 
         "4"
+      ], 
+      "busnrs": [
+        "2"
       ], 
       "hnrlbls": [
         "8-28"
@@ -438,14 +383,18 @@
       "street": "Demerstraat"
     }, 
     {
-      "busnrs": [
-        "3", 
+      "apptnrs": [
         "4", 
         "5", 
         "6", 
         "7", 
         "8", 
         "9"
+      ], 
+      "busnrs": [
+        "1", 
+        "2", 
+        "3"
       ], 
       "hnrlbls": [
         "30-32"
@@ -535,15 +484,15 @@
         "37"
       ], 
       "housenumber": "37", 
-      "lat": 50.931742372273334, 
-      "lon": 5.338289995288684, 
+      "lat": 50.93174237227334, 
+      "lon": 5.338289995288683, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanGebouw", 
       "street": "Demerstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3", 
@@ -561,36 +510,21 @@
       "street": "Demerstraat"
     }, 
     {
+      "apptnrs": [
+        "2"
+      ], 
       "busnrs": [
-        "1", 
-        "11"
+        "1"
       ], 
       "hnrlbls": [
-        "38A-38B"
-      ], 
-      "housenumber": "38A", 
-      "lat": 50.932147709940075, 
-      "lon": 5.337900891424796, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Demerstraat"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3"
-      ], 
-      "hnrlbls": [
-        "38A-38B"
+        "38B"
       ], 
       "housenumber": "38B", 
-      "lat": 50.932147709940075, 
-      "lon": 5.337900891424796, 
+      "lat": 50.93215573278886, 
+      "lon": 5.337832912771291, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Demerstraat"
     }, 
     {
@@ -606,10 +540,6 @@
       "street": "Demerstraat"
     }, 
     {
-      "busnrs": [
-        "6", 
-        "8"
-      ], 
       "hnrlbls": [
         "4"
       ], 
@@ -622,33 +552,6 @@
       "street": "Demerstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "10A", 
-        "11A", 
-        "1A", 
-        "1B", 
-        "1C", 
-        "2A", 
-        "2B", 
-        "2C", 
-        "3A", 
-        "3B", 
-        "3C", 
-        "4", 
-        "4A", 
-        "4B", 
-        "4C", 
-        "5A", 
-        "5B", 
-        "6", 
-        "6A", 
-        "6B", 
-        "7A", 
-        "8", 
-        "8A", 
-        "9A"
-      ], 
       "hnrlbls": [
         "40-40C"
       ], 
@@ -661,50 +564,33 @@
       "street": "Demerstraat"
     }, 
     {
-      "hnrlbls": [
-        "/zn-4013"
-      ], 
-      "housenumber": "4013", 
-      "lat": 50.93233823490827, 
-      "lon": 5.338333330756427, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "afgeleidVanStraat", 
-      "street": "Demerstraat"
-    }, 
-    {
-      "busnrs": [
+      "apptnrs": [
+        "04", 
+        "05", 
         "10", 
-        "11", 
-        "4", 
-        "5", 
-        "7", 
-        "8", 
-        "9"
+        "11"
+      ], 
+      "busnrs": [
+        "01", 
+        "02", 
+        "03", 
+        "06", 
+        "07", 
+        "08", 
+        "09"
       ], 
       "hnrlbls": [
         "40A"
       ], 
       "housenumber": "40A", 
-      "lat": 50.932446432499404, 
-      "lon": 5.338000961082414, 
+      "lat": 50.93231044188401, 
+      "lon": 5.33777963145268, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Demerstraat"
     }, 
     {
-      "apptnrs": [
-        "1.0"
-      ], 
-      "busnrs": [
-        "3", 
-        "4", 
-        "5", 
-        "6", 
-        "7", 
-        "8"
-      ], 
       "hnrlbls": [
         "40-40C"
       ], 
@@ -717,12 +603,6 @@
       "street": "Demerstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4"
-      ], 
       "hnrlbls": [
         "40-40C"
       ], 
@@ -747,10 +627,12 @@
       "street": "Demerstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
-        "2", 
         "3"
+      ], 
+      "busnrs": [
+        "2"
       ], 
       "hnrlbls": [
         "42"
@@ -824,9 +706,6 @@
       "street": "Demerstraat"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
         "48"
       ], 
@@ -911,9 +790,6 @@
       "street": "Demerstraat"
     }, 
     {
-      "busnrs": [
-        "5"
-      ], 
       "hnrlbls": [
         "54-56"
       ], 
@@ -926,9 +802,6 @@
       "street": "Demerstraat"
     }, 
     {
-      "busnrs": [
-        "6"
-      ], 
       "hnrlbls": [
         "55"
       ], 
@@ -941,7 +814,7 @@
       "street": "Demerstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3", 
@@ -1007,9 +880,6 @@
       "street": "Demerstraat"
     }, 
     {
-      "busnrs": [
-        "6"
-      ], 
       "hnrlbls": [
         "60-62"
       ], 
@@ -1058,11 +928,8 @@
       "street": "Demerstraat"
     }, 
     {
-      "busnrs": [
-        "2", 
-        "3", 
-        "4", 
-        "5"
+      "apptnrs": [
+        "2.01"
       ], 
       "hnrlbls": [
         "64"
@@ -1092,11 +959,11 @@
         "66"
       ], 
       "housenumber": "66", 
-      "lat": 50.93306467436732, 
-      "lon": 5.338545819999717, 
+      "lat": 50.933073026132014, 
+      "lon": 5.338263877558901, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Demerstraat"
     }, 
     {
@@ -1136,9 +1003,8 @@
       "street": "Demerstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "5"
+      "apptnrs": [
+        "7/5"
       ], 
       "hnrlbls": [
         "5-7"
@@ -1176,10 +1042,6 @@
       "street": "Demerstraat"
     }, 
     {
-      "busnrs": [
-        "2", 
-        "4"
-      ], 
       "hnrlbls": [
         "71-73"
       ], 
@@ -1265,16 +1127,12 @@
     }, 
     {
       "busnrs": [
-        "1", 
         "10", 
         "103", 
         "104", 
-        "105", 
         "106", 
-        "107", 
         "109", 
         "11", 
-        "110", 
         "111", 
         "112", 
         "114", 
@@ -1286,45 +1144,28 @@
         "122", 
         "123", 
         "124", 
-        "125", 
         "13", 
         "130", 
         "131", 
-        "132", 
-        "134", 
         "135", 
-        "137", 
-        "14", 
-        "146", 
         "15", 
         "151", 
         "152", 
         "153", 
         "154", 
         "155", 
-        "16", 
-        "17", 
-        "18", 
         "19", 
         "2", 
         "20", 
-        "203", 
-        "204", 
         "205", 
-        "206", 
-        "207", 
         "208", 
         "209", 
-        "21", 
-        "210", 
         "212", 
         "213", 
         "214", 
-        "217", 
         "219", 
         "220", 
         "221", 
-        "222", 
         "230", 
         "231", 
         "232", 
@@ -1341,45 +1182,30 @@
         "305", 
         "309", 
         "310", 
-        "311", 
         "312", 
         "313", 
-        "314", 
         "315", 
-        "318", 
         "319", 
-        "320", 
         "321", 
-        "330", 
         "331", 
         "332", 
         "333", 
-        "334", 
         "351", 
         "353", 
         "354", 
         "355", 
         "4", 
-        "40", 
         "401", 
         "402", 
         "403", 
         "404", 
         "405", 
-        "406", 
-        "407", 
-        "408", 
-        "409", 
-        "410", 
         "411", 
         "412", 
         "413", 
         "414", 
         "415", 
-        "417", 
-        "419", 
         "430", 
-        "431", 
         "432", 
         "433", 
         "434", 
@@ -1389,25 +1215,21 @@
         "454", 
         "455", 
         "502", 
-        "503", 
         "530", 
         "531", 
         "532", 
         "533", 
-        "6", 
-        "8", 
-        "9", 
-        "92"
+        "9"
       ], 
       "hnrlbls": [
         "80"
       ], 
       "housenumber": "80", 
-      "lat": 50.933372142011635, 
-      "lon": 5.338816940245732, 
+      "lat": 50.93348035542513, 
+      "lon": 5.338363067704431, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Demerstraat"
     }, 
     {
@@ -1423,22 +1245,8 @@
       "street": "Demerstraat"
     }, 
     {
-      "hnrlbls": [
-        "80B"
-      ], 
-      "housenumber": "80B", 
-      "lat": 50.93348510548621, 
-      "lon": 5.338539009331814, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Demerstraat"
-    }, 
-    {
-      "busnrs": [
-        "1", 
+      "apptnrs": [
         "10", 
-        "2", 
         "3", 
         "4", 
         "5", 
@@ -1446,6 +1254,10 @@
         "7", 
         "8", 
         "9"
+      ], 
+      "busnrs": [
+        "1", 
+        "2"
       ], 
       "hnrlbls": [
         "81"
@@ -1471,12 +1283,14 @@
       "street": "Demerstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "2", 
         "3", 
         "4", 
-        "5", 
-        "6"
+        "5"
+      ], 
+      "busnrs": [
+        "1"
       ], 
       "hnrlbls": [
         "83"
@@ -1490,27 +1304,6 @@
       "street": "Demerstraat"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "83B"
-      ], 
-      "housenumber": "83B", 
-      "lat": 50.93395101982569, 
-      "lon": 5.33909880303631, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Demerstraat"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2", 
-        "4", 
-        "5"
-      ], 
       "hnrlbls": [
         "85"
       ], 
@@ -1535,18 +1328,20 @@
       "street": "Demerstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "10", 
         "11", 
         "12", 
-        "2", 
         "3", 
         "4", 
         "5", 
         "6", 
+        "8"
+      ], 
+      "busnrs": [
+        "2", 
         "7", 
-        "8", 
         "9"
       ], 
       "hnrlbls": [
@@ -1597,11 +1392,15 @@
       "street": "Demerstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "3", 
         "4", 
         "5", 
         "6"
+      ], 
+      "busnrs": [
+        "1", 
+        "2"
       ], 
       "hnrlbls": [
         "89-91"
@@ -1632,7 +1431,7 @@
       ], 
       "housenumber": "93", 
       "lat": 50.93322341537776, 
-      "lon": 5.3392123538245935, 
+      "lon": 5.339212353824593, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanGebouw", 

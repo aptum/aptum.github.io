@@ -17,7 +17,7 @@
         "10"
       ], 
       "housenumber": "10", 
-      "lat": 50.96260100313148, 
+      "lat": 50.96260100313147, 
       "lon": 5.27077890513792, 
       "municipality": "Hasselt", 
       "pcode": "3511", 
@@ -25,7 +25,7 @@
       "street": "Stokrooieweg"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2"
       ], 
@@ -33,11 +33,11 @@
         "13"
       ], 
       "housenumber": "13", 
-      "lat": 50.963361698381355, 
-      "lon": 5.270922953259736, 
+      "lat": 50.964087767597604, 
+      "lon": 5.271010391971917, 
       "municipality": "Hasselt", 
       "pcode": "3511", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Stokrooieweg"
     }, 
     {
@@ -77,7 +77,7 @@
       "street": "Stokrooieweg"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2"
       ], 
@@ -93,7 +93,31 @@
       "street": "Stokrooieweg"
     }, 
     {
-      "busnrs": [
+      "hnrlbls": [
+        "16-33"
+      ], 
+      "housenumber": "16", 
+      "lat": 50.963280418751346, 
+      "lon": 5.271170227994405, 
+      "municipality": "Hasselt", 
+      "pcode": "3511", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Stokrooieweg"
+    }, 
+    {
+      "hnrlbls": [
+        "16-33"
+      ], 
+      "housenumber": "16A", 
+      "lat": 50.963280418751346, 
+      "lon": 5.271170227994405, 
+      "municipality": "Hasselt", 
+      "pcode": "3511", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Stokrooieweg"
+    }, 
+    {
+      "apptnrs": [
         "1", 
         "2"
       ], 
@@ -118,6 +142,18 @@
       "municipality": "Hasselt", 
       "pcode": "3511", 
       "source": "afgeleidVanGebouw", 
+      "street": "Stokrooieweg"
+    }, 
+    {
+      "hnrlbls": [
+        "18A"
+      ], 
+      "housenumber": "18A", 
+      "lat": 50.96358256528192, 
+      "lon": 5.271416347687074, 
+      "municipality": "Hasselt", 
+      "pcode": "3511", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Stokrooieweg"
     }, 
     {
@@ -193,7 +229,7 @@
       "street": "Stokrooieweg"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2"
       ], 
@@ -221,13 +257,6 @@
       "street": "Stokrooieweg"
     }, 
     {
-      "busnrs": [
-        "01A", 
-        "02A", 
-        "1", 
-        "11A", 
-        "12A"
-      ], 
       "hnrlbls": [
         "28"
       ], 
@@ -237,6 +266,24 @@
       "municipality": "Hasselt", 
       "pcode": "3511", 
       "source": "afgeleidVanGebouw", 
+      "street": "Stokrooieweg"
+    }, 
+    {
+      "apptnrs": [
+        "0.01", 
+        "0.02", 
+        "1.01", 
+        "1.02"
+      ], 
+      "hnrlbls": [
+        "28A"
+      ], 
+      "housenumber": "28A", 
+      "lat": 50.96439326943846, 
+      "lon": 5.272363857793264, 
+      "municipality": "Hasselt", 
+      "pcode": "3511", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Stokrooieweg"
     }, 
     {
@@ -252,7 +299,7 @@
       "street": "Stokrooieweg"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3"
@@ -306,13 +353,8 @@
     }, 
     {
       "apptnrs": [
-        "1.01"
-      ], 
-      "busnrs": [
-        "01", 
-        "01A", 
-        "11", 
-        "12"
+        "1.01", 
+        "1.02"
       ], 
       "hnrlbls": [
         "30-32A"
@@ -326,7 +368,7 @@
       "street": "Stokrooieweg"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1"
       ], 
       "hnrlbls": [
@@ -345,8 +387,8 @@
         "33"
       ], 
       "housenumber": "33", 
-      "lat": 50.97315122288666, 
-      "lon": 5.280853188305531, 
+      "lat": 50.973534542541465, 
+      "lon": 5.281421519649653, 
       "municipality": "Hasselt", 
       "pcode": "3511", 
       "source": "afgeleidVanPerceelGrb", 
@@ -434,18 +476,6 @@
       "municipality": "Hasselt", 
       "pcode": "3511", 
       "source": "afgeleidVanGebouw", 
-      "street": "Stokrooieweg"
-    }, 
-    {
-      "hnrlbls": [
-        "4"
-      ], 
-      "housenumber": "4", 
-      "lat": 50.95406884268663, 
-      "lon": 5.265937032141357, 
-      "municipality": "Hasselt", 
-      "pcode": "3511", 
-      "source": "geinterpoleerdObvWegverbinding", 
       "street": "Stokrooieweg"
     }, 
     {
@@ -582,14 +612,14 @@
     }, 
     {
       "hnrlbls": [
-        "54-54C"
+        "54A"
       ], 
       "housenumber": "54A", 
-      "lat": 50.97402228471263, 
-      "lon": 5.282931099161967, 
+      "lat": 50.97406430381673, 
+      "lon": 5.282764611081316, 
       "municipality": "Hasselt", 
       "pcode": "3511", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Stokrooieweg"
     }, 
     {
@@ -654,7 +684,7 @@
     }, 
     {
       "hnrlbls": [
-        "59-59C"
+        "59"
       ], 
       "housenumber": "59", 
       "lat": 50.97579287103726, 
@@ -678,14 +708,14 @@
     }, 
     {
       "hnrlbls": [
-        "59-59C"
+        "59C"
       ], 
       "housenumber": "59C", 
-      "lat": 50.97579287103726, 
-      "lon": 5.2808556449027915, 
+      "lat": 50.97569572732401, 
+      "lon": 5.2806771836577155, 
       "municipality": "Hasselt", 
       "pcode": "3511", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Stokrooieweg"
     }, 
     {
@@ -701,10 +731,6 @@
       "street": "Stokrooieweg"
     }, 
     {
-      "busnrs": [
-        "60", 
-        "B"
-      ], 
       "hnrlbls": [
         "60"
       ], 
@@ -718,33 +744,9 @@
     }, 
     {
       "hnrlbls": [
-        "60A"
+        "60A-60B"
       ], 
       "housenumber": "60A", 
-      "lat": 50.975425343253065, 
-      "lon": 5.282501825056215, 
-      "municipality": "Hasselt", 
-      "pcode": "3511", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Stokrooieweg"
-    }, 
-    {
-      "hnrlbls": [
-        "60B"
-      ], 
-      "housenumber": "60B", 
-      "lat": 50.97547891574861, 
-      "lon": 5.2824449157057645, 
-      "municipality": "Hasselt", 
-      "pcode": "3511", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Stokrooieweg"
-    }, 
-    {
-      "hnrlbls": [
-        "60C-60_60"
-      ], 
-      "housenumber": "60C", 
       "lat": 50.96515892428617, 
       "lon": 5.272937967996828, 
       "municipality": "Hasselt", 
@@ -753,13 +755,10 @@
       "street": "Stokrooieweg"
     }, 
     {
-      "busnrs": [
-        "B"
-      ], 
       "hnrlbls": [
-        "60C-60_60"
+        "60A-60B"
       ], 
-      "housenumber": "60_60", 
+      "housenumber": "60B", 
       "lat": 50.96515892428617, 
       "lon": 5.272937967996828, 
       "municipality": "Hasselt", 
@@ -828,7 +827,7 @@
       "street": "Stokrooieweg"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3", 
@@ -900,8 +899,8 @@
         "71A"
       ], 
       "housenumber": "71A", 
-      "lat": 50.97630671106927, 
-      "lon": 5.279223532743599, 
+      "lat": 50.97663208089868, 
+      "lon": 5.279649218462202, 
       "municipality": "Hasselt", 
       "pcode": "3511", 
       "source": "afgeleidVanPerceelGrb", 
@@ -920,7 +919,7 @@
       "street": "Stokrooieweg"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3", 
@@ -962,9 +961,6 @@
       "street": "Stokrooieweg"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
         "75"
       ], 
@@ -981,11 +977,11 @@
         "75A"
       ], 
       "housenumber": "75A", 
-      "lat": 50.97673691693924, 
-      "lon": 5.279357347900814, 
+      "lat": 50.97667704767348, 
+      "lon": 5.279298940059602, 
       "municipality": "Hasselt", 
       "pcode": "3511", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Stokrooieweg"
     }, 
     {
@@ -1025,7 +1021,7 @@
       "street": "Stokrooieweg"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2"
       ], 
@@ -1118,7 +1114,7 @@
       ], 
       "housenumber": "85", 
       "lat": 50.97713931740471, 
-      "lon": 5.2785544927657355, 
+      "lon": 5.278554492765736, 
       "municipality": "Hasselt", 
       "pcode": "3511", 
       "source": "afgeleidVanGebouw", 

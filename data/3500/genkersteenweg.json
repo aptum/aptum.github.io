@@ -2,7 +2,7 @@
   "addresses": [
     {
       "hnrlbls": [
-        "1-1C"
+        "1"
       ], 
       "housenumber": "1", 
       "lat": 50.94278565032975, 
@@ -61,8 +61,11 @@
       "street": "Genkersteenweg"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "2"
+      ], 
+      "busnrs": [
+        "1"
       ], 
       "hnrlbls": [
         "11"
@@ -78,6 +81,9 @@
     {
       "apptnrs": [
         "1.01"
+      ], 
+      "busnrs": [
+        "0.01"
       ], 
       "hnrlbls": [
         "110"
@@ -182,11 +188,11 @@
         "120"
       ], 
       "housenumber": "120", 
-      "lat": 50.943789105042804, 
-      "lon": 5.355004368892846, 
+      "lat": 50.9438340637813, 
+      "lon": 5.354767816280832, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Genkersteenweg"
     }, 
     {
@@ -202,7 +208,7 @@
       "street": "Genkersteenweg"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3"
@@ -267,7 +273,7 @@
       "street": "Genkersteenweg"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "10", 
         "11", 
@@ -280,9 +286,12 @@
         "4", 
         "5", 
         "6", 
-        "7", 
         "8", 
         "9"
+      ], 
+      "busnrs": [
+        "12", 
+        "7"
       ], 
       "hnrlbls": [
         "124-132"
@@ -308,10 +317,12 @@
       "street": "Genkersteenweg"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
-        "2", 
         "3"
+      ], 
+      "busnrs": [
+        "2"
       ], 
       "hnrlbls": [
         "13"
@@ -361,11 +372,13 @@
       "street": "Genkersteenweg"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
-        "2", 
         "3", 
         "4"
+      ], 
+      "busnrs": [
+        "2"
       ], 
       "hnrlbls": [
         "135"
@@ -379,7 +392,7 @@
       "street": "Genkersteenweg"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2"
       ], 
@@ -423,11 +436,11 @@
         "141"
       ], 
       "housenumber": "141", 
-      "lat": 50.94329751375498, 
-      "lon": 5.352616079471676, 
+      "lat": 50.943210198209904, 
+      "lon": 5.3525543393443344, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Genkersteenweg"
     }, 
     {
@@ -483,11 +496,11 @@
         "148A"
       ], 
       "housenumber": "148A", 
-      "lat": 50.943743715796494, 
-      "lon": 5.356318974271234, 
+      "lat": 50.943731649569884, 
+      "lon": 5.356310608975643, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Genkersteenweg"
     }, 
     {
@@ -495,11 +508,11 @@
         "149"
       ], 
       "housenumber": "149", 
-      "lat": 50.9432526907398, 
-      "lon": 5.353008592920939, 
+      "lat": 50.943132366499164, 
+      "lon": 5.353152490785965, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Genkersteenweg"
     }, 
     {
@@ -548,18 +561,6 @@
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanGebouw", 
-      "street": "Genkersteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "156"
-      ], 
-      "housenumber": "156", 
-      "lat": 50.9436915818783, 
-      "lon": 5.358144432853026, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Genkersteenweg"
     }, 
     {
@@ -672,7 +673,7 @@
     }, 
     {
       "hnrlbls": [
-        "167-167A"
+        "167"
       ], 
       "housenumber": "167", 
       "lat": 50.94326102377956, 
@@ -680,18 +681,6 @@
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanGebouw", 
-      "street": "Genkersteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "167-167A"
-      ], 
-      "housenumber": "167A", 
-      "lat": 50.94326102377956, 
-      "lon": 5.354576751223363, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Genkersteenweg"
     }, 
     {
@@ -732,7 +721,7 @@
     }, 
     {
       "hnrlbls": [
-        "171-171A"
+        "171"
       ], 
       "housenumber": "171", 
       "lat": 50.94316173213148, 
@@ -740,18 +729,6 @@
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanGebouw", 
-      "street": "Genkersteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "171-171A"
-      ], 
-      "housenumber": "171A", 
-      "lat": 50.94316173213148, 
-      "lon": 5.3551919512164, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Genkersteenweg"
     }, 
     {
@@ -807,11 +784,11 @@
         "182"
       ], 
       "housenumber": "182", 
-      "lat": 50.94357592957331, 
-      "lon": 5.362674081371165, 
+      "lat": 50.94355275298603, 
+      "lon": 5.361268811792538, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Genkersteenweg"
     }, 
     {
@@ -839,9 +816,6 @@
       "street": "Genkersteenweg"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
         "187-189"
       ], 
@@ -854,9 +828,6 @@
       "street": "Genkersteenweg"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
         "187-189"
       ], 
@@ -881,9 +852,8 @@
       "street": "Genkersteenweg"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2"
+      "apptnrs": [
+        "1"
       ], 
       "hnrlbls": [
         "1B"
@@ -894,18 +864,6 @@
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanGebouw", 
-      "street": "Genkersteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "1-1C"
-      ], 
-      "housenumber": "1C", 
-      "lat": 50.94278565032975, 
-      "lon": 5.343968361072408, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Genkersteenweg"
     }, 
     {
@@ -949,11 +907,11 @@
         "201A"
       ], 
       "housenumber": "201A", 
-      "lat": 50.94341729753067, 
-      "lon": 5.346918541704326, 
+      "lat": 50.943195499322634, 
+      "lon": 5.358113755681142, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Genkersteenweg"
     }, 
     {
@@ -969,10 +927,6 @@
       "street": "Genkersteenweg"
     }, 
     {
-      "busnrs": [
-        "2", 
-        "21"
-      ], 
       "hnrlbls": [
         "204"
       ], 
@@ -1153,9 +1107,6 @@
       "street": "Genkersteenweg"
     }, 
     {
-      "busnrs": [
-        "2"
-      ], 
       "hnrlbls": [
         "235"
       ], 
@@ -1217,19 +1168,7 @@
     }, 
     {
       "hnrlbls": [
-        "246"
-      ], 
-      "housenumber": "246", 
-      "lat": 50.9431639081647, 
-      "lon": 5.367306114357515, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "geinterpoleerdObvWegverbinding", 
-      "street": "Genkersteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "247-247A"
+        "247"
       ], 
       "housenumber": "247", 
       "lat": 50.94278958142635, 
@@ -1241,14 +1180,14 @@
     }, 
     {
       "hnrlbls": [
-        "247-247A"
+        "247A"
       ], 
       "housenumber": "247A", 
-      "lat": 50.94278958142635, 
-      "lon": 5.368603431518514, 
+      "lat": 50.942789227944964, 
+      "lon": 5.368602712493303, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Genkersteenweg"
     }, 
     {
@@ -1264,11 +1203,12 @@
       "street": "Genkersteenweg"
     }, 
     {
+      "apptnrs": [
+        "3"
+      ], 
       "busnrs": [
         "1", 
-        "2", 
-        "3", 
-        "4"
+        "2"
       ], 
       "hnrlbls": [
         "23-25"
@@ -1342,9 +1282,12 @@
       "street": "Genkersteenweg"
     }, 
     {
-      "busnrs": [
-        "2", 
+      "apptnrs": [
         "3"
+      ], 
+      "busnrs": [
+        "1", 
+        "2"
       ], 
       "hnrlbls": [
         "282"
@@ -1358,19 +1301,7 @@
       "street": "Genkersteenweg"
     }, 
     {
-      "hnrlbls": [
-        "282A"
-      ], 
-      "housenumber": "282A", 
-      "lat": 50.94350199790026, 
-      "lon": 5.3701810736231215, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Genkersteenweg"
-    }, 
-    {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "10", 
         "11", 
@@ -1392,8 +1323,8 @@
         "284"
       ], 
       "housenumber": "284", 
-      "lat": 50.943723613959946, 
-      "lon": 5.371591589846244, 
+      "lat": 50.94372387875345, 
+      "lon": 5.3715921647112905, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanGebouw", 
@@ -1409,18 +1340,6 @@
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanGebouw", 
-      "street": "Genkersteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "284B"
-      ], 
-      "housenumber": "284B", 
-      "lat": 50.94372387875345, 
-      "lon": 5.3715921647112905, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Genkersteenweg"
     }, 
     {
@@ -1464,11 +1383,11 @@
         "295"
       ], 
       "housenumber": "295", 
-      "lat": 50.94277792755301, 
-      "lon": 5.370919921949611, 
+      "lat": 50.94263574964217, 
+      "lon": 5.371472835511371, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Genkersteenweg"
     }, 
     {
@@ -1592,16 +1511,17 @@
       "street": "Genkersteenweg"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "16", 
         "17", 
         "18", 
-        "19", 
         "20", 
         "21", 
         "22", 
-        "23", 
-        "9"
+        "23"
+      ], 
+      "busnrs": [
+        "19"
       ], 
       "hnrlbls": [
         "303"
@@ -1616,26 +1536,26 @@
     }, 
     {
       "hnrlbls": [
-        "303A-303B"
+        "303A"
       ], 
       "housenumber": "303A", 
-      "lat": 50.94261405444289, 
-      "lon": 5.374031577138665, 
+      "lat": 50.942488072285286, 
+      "lon": 5.373236711800305, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Genkersteenweg"
     }, 
     {
       "hnrlbls": [
-        "303A-303B"
+        "303B"
       ], 
       "housenumber": "303B", 
-      "lat": 50.94261405444289, 
-      "lon": 5.374031577138665, 
+      "lat": 50.94266939279897, 
+      "lon": 5.373490043639843, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Genkersteenweg"
     }, 
     {
@@ -1655,11 +1575,11 @@
         "305"
       ], 
       "housenumber": "305", 
-      "lat": 50.94276403974726, 
-      "lon": 5.37471042063755, 
+      "lat": 50.94292289201453, 
+      "lon": 5.375308776191786, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Genkersteenweg"
     }, 
     {
@@ -1747,9 +1667,42 @@
       "street": "Genkersteenweg"
     }, 
     {
-      "busnrs": [
-        "2"
+      "hnrlbls": [
+        "314-320"
       ], 
+      "housenumber": "314", 
+      "lat": 50.9440040511315, 
+      "lon": 5.3769738610619475, 
+      "municipality": "Hasselt", 
+      "pcode": "3500", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Genkersteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "314-320"
+      ], 
+      "housenumber": "316", 
+      "lat": 50.9440040511315, 
+      "lon": 5.3769738610619475, 
+      "municipality": "Hasselt", 
+      "pcode": "3500", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Genkersteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "314-320"
+      ], 
+      "housenumber": "318", 
+      "lat": 50.9440040511315, 
+      "lon": 5.3769738610619475, 
+      "municipality": "Hasselt", 
+      "pcode": "3500", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Genkersteenweg"
+    }, 
+    {
       "hnrlbls": [
         "32"
       ], 
@@ -1759,6 +1712,66 @@
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanGebouw", 
+      "street": "Genkersteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "314-320"
+      ], 
+      "housenumber": "320", 
+      "lat": 50.9440040511315, 
+      "lon": 5.3769738610619475, 
+      "municipality": "Hasselt", 
+      "pcode": "3500", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Genkersteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "322-328"
+      ], 
+      "housenumber": "322", 
+      "lat": 50.94419646627567, 
+      "lon": 5.377682534912589, 
+      "municipality": "Hasselt", 
+      "pcode": "3500", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Genkersteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "322-328"
+      ], 
+      "housenumber": "324", 
+      "lat": 50.94419646627567, 
+      "lon": 5.377682534912589, 
+      "municipality": "Hasselt", 
+      "pcode": "3500", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Genkersteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "322-328"
+      ], 
+      "housenumber": "326", 
+      "lat": 50.94419646627567, 
+      "lon": 5.377682534912589, 
+      "municipality": "Hasselt", 
+      "pcode": "3500", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Genkersteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "322-328"
+      ], 
+      "housenumber": "328", 
+      "lat": 50.94419646627567, 
+      "lon": 5.377682534912589, 
+      "municipality": "Hasselt", 
+      "pcode": "3500", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Genkersteenweg"
     }, 
     {
@@ -1778,11 +1791,11 @@
         "33"
       ], 
       "housenumber": "33", 
-      "lat": 50.943448567965845, 
-      "lon": 5.346207701565487, 
+      "lat": 50.94311310268243, 
+      "lon": 5.345932475466876, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Genkersteenweg"
     }, 
     {
@@ -1861,7 +1874,7 @@
       "street": "Genkersteenweg"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2"
       ], 
@@ -1898,18 +1911,6 @@
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanGebouw", 
-      "street": "Genkersteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "352"
-      ], 
-      "housenumber": "352", 
-      "lat": 50.946127958692166, 
-      "lon": 5.385005703479002, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Genkersteenweg"
     }, 
     {
@@ -1958,18 +1959,6 @@
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanGebouw", 
-      "street": "Genkersteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "36-48"
-      ], 
-      "housenumber": "36", 
-      "lat": 50.943847166162996, 
-      "lon": 5.347570137938737, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Genkersteenweg"
     }, 
     {
@@ -2036,12 +2025,8 @@
       "apptnrs": [
         "0.01", 
         "1.01", 
-        "1.02"
-      ], 
-      "busnrs": [
-        "101", 
-        "102", 
-        "2"
+        "1.02", 
+        "2.01"
       ], 
       "hnrlbls": [
         "377-381"
@@ -2055,18 +2040,11 @@
       "street": "Genkersteenweg"
     }, 
     {
-      "hnrlbls": [
-        "378"
+      "apptnrs": [
+        "1.01", 
+        "1.02", 
+        "2.01"
       ], 
-      "housenumber": "378", 
-      "lat": 50.9469747835614, 
-      "lon": 5.3882781305175325, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Genkersteenweg"
-    }, 
-    {
       "hnrlbls": [
         "377-381"
       ], 
@@ -2076,6 +2054,18 @@
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanGebouw", 
+      "street": "Genkersteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "379A"
+      ], 
+      "housenumber": "379A", 
+      "lat": 50.945944724389534, 
+      "lon": 5.386678962488291, 
+      "municipality": "Hasselt", 
+      "pcode": "3500", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Genkersteenweg"
     }, 
     {
@@ -2091,6 +2081,9 @@
       "street": "Genkersteenweg"
     }, 
     {
+      "apptnrs": [
+        "0.01"
+      ], 
       "hnrlbls": [
         "377-381"
       ], 
@@ -2107,7 +2100,7 @@
         "382"
       ], 
       "housenumber": "382", 
-      "lat": 50.94712419051683, 
+      "lat": 50.947124190516824, 
       "lon": 5.388869266122202, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
@@ -2129,9 +2122,6 @@
     {
       "apptnrs": [
         "1.01"
-      ], 
-      "busnrs": [
-        "2"
       ], 
       "hnrlbls": [
         "388"
@@ -2157,7 +2147,7 @@
       "street": "Genkersteenweg"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3", 
@@ -2175,7 +2165,7 @@
       "street": "Genkersteenweg"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3", 
@@ -2194,11 +2184,12 @@
       "street": "Genkersteenweg"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
-        "2", 
-        "3", 
-        "4"
+        "3"
+      ], 
+      "busnrs": [
+        "2"
       ], 
       "hnrlbls": [
         "393-395"
@@ -2284,12 +2275,11 @@
       "street": "Genkersteenweg"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2"
+      "apptnrs": [
+        "1"
       ], 
       "hnrlbls": [
-        "402-402A"
+        "402"
       ], 
       "housenumber": "402", 
       "lat": 50.94781208185406, 
@@ -2297,18 +2287,6 @@
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanGebouw", 
-      "street": "Genkersteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "402-402A"
-      ], 
-      "housenumber": "402A", 
-      "lat": 50.94781208185406, 
-      "lon": 5.391271394155731, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Genkersteenweg"
     }, 
     {
@@ -2364,11 +2342,11 @@
         "405"
       ], 
       "housenumber": "405", 
-      "lat": 50.9468494526617, 
-      "lon": 5.3899969279027635, 
+      "lat": 50.94690517576827, 
+      "lon": 5.389998711235271, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Genkersteenweg"
     }, 
     {
@@ -2468,7 +2446,7 @@
       "street": "Genkersteenweg"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2"
       ], 
@@ -2484,7 +2462,7 @@
       "street": "Genkersteenweg"
     }, 
     {
-      "apptnrs": [
+      "busnrs": [
         "1.01"
       ], 
       "hnrlbls": [
@@ -2523,10 +2501,12 @@
       "street": "Genkersteenweg"
     }, 
     {
-      "busnrs": [
-        "1", 
+      "apptnrs": [
         "2", 
         "3"
+      ], 
+      "busnrs": [
+        "1"
       ], 
       "hnrlbls": [
         "422"
@@ -2637,34 +2617,6 @@
     }, 
     {
       "hnrlbls": [
-        "431"
-      ], 
-      "housenumber": "431", 
-      "lat": 50.94753905599573, 
-      "lon": 5.392437235945088, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Genkersteenweg"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
-      "hnrlbls": [
-        "433-433B"
-      ], 
-      "housenumber": "433", 
-      "lat": 50.947572443263454, 
-      "lon": 5.392618986295987, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Genkersteenweg"
-    }, 
-    {
-      "hnrlbls": [
         "433A"
       ], 
       "housenumber": "433A", 
@@ -2677,7 +2629,7 @@
     }, 
     {
       "hnrlbls": [
-        "433-433B"
+        "433B"
       ], 
       "housenumber": "433B", 
       "lat": 50.947572443263454, 
@@ -2757,18 +2709,6 @@
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanGebouw", 
-      "street": "Genkersteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "443"
-      ], 
-      "housenumber": "443", 
-      "lat": 50.94787179166432, 
-      "lon": 5.393683196760137, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Genkersteenweg"
     }, 
     {
@@ -2908,8 +2848,8 @@
         "458"
       ], 
       "housenumber": "458", 
-      "lat": 50.951047342266165, 
-      "lon": 5.402722828596472, 
+      "lat": 50.95104734226616, 
+      "lon": 5.402722828596471, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanGebouw", 
@@ -2965,18 +2905,6 @@
     }, 
     {
       "hnrlbls": [
-        "469"
-      ], 
-      "housenumber": "469", 
-      "lat": 50.949131427990096, 
-      "lon": 5.399197064998381, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
-      "street": "Genkersteenweg"
-    }, 
-    {
-      "hnrlbls": [
         "47"
       ], 
       "housenumber": "47", 
@@ -2988,9 +2916,6 @@
       "street": "Genkersteenweg"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
         "470"
       ], 
@@ -3007,7 +2932,7 @@
         "471"
       ], 
       "housenumber": "471", 
-      "lat": 50.94944979370398, 
+      "lat": 50.94944979370397, 
       "lon": 5.399317064952361, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
@@ -3019,7 +2944,7 @@
         "472"
       ], 
       "housenumber": "472", 
-      "lat": 50.951342696677074, 
+      "lat": 50.95134269667707, 
       "lon": 5.404331912406087, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
@@ -3052,14 +2977,14 @@
     }, 
     {
       "hnrlbls": [
-        "36-48"
+        "48"
       ], 
       "housenumber": "48", 
-      "lat": 50.943847166162996, 
-      "lon": 5.347570137938737, 
+      "lat": 50.94379601547411, 
+      "lon": 5.347418801423272, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Genkersteenweg"
     }, 
     {
@@ -3076,35 +3001,11 @@
     }, 
     {
       "hnrlbls": [
-        "485"
-      ], 
-      "housenumber": "485", 
-      "lat": 50.94988305329639, 
-      "lon": 5.4016271855239575, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Genkersteenweg"
-    }, 
-    {
-      "hnrlbls": [
         "489"
       ], 
       "housenumber": "489", 
       "lat": 50.950065933791755, 
       "lon": 5.401992708662652, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Genkersteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "49-51"
-      ], 
-      "housenumber": "49", 
-      "lat": 50.94347022780297, 
-      "lon": 5.3469210692309295, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanGebouw", 
@@ -3151,7 +3052,7 @@
         "507"
       ], 
       "housenumber": "507", 
-      "lat": 50.94983844114227, 
+      "lat": 50.94983844114226, 
       "lon": 5.40324366207243, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
@@ -3172,16 +3073,13 @@
     }, 
     {
       "apptnrs": [
+        "0.01", 
         "1.01", 
         "1.02", 
         "2.01"
       ], 
-      "busnrs": [
-        "0", 
-        "001"
-      ], 
       "hnrlbls": [
-        "49-51"
+        "51"
       ], 
       "housenumber": "51", 
       "lat": 50.94347022780297, 
@@ -3216,13 +3114,15 @@
       "street": "Genkersteenweg"
     }, 
     {
-      "busnrs": [
-        "1", 
+      "apptnrs": [
         "2", 
         "3", 
         "4", 
         "5", 
         "6"
+      ], 
+      "busnrs": [
+        "1"
       ], 
       "hnrlbls": [
         "55"
@@ -3272,30 +3172,27 @@
       "street": "Genkersteenweg"
     }, 
     {
-      "busnrs": [
-        "2"
-      ], 
       "hnrlbls": [
         "61-63"
       ], 
       "housenumber": "61", 
-      "lat": 50.94340119786491, 
-      "lon": 5.3486125530701365, 
+      "lat": 50.943401107980186, 
+      "lon": 5.348612551191193, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanGebouw", 
       "street": "Genkersteenweg"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1"
       ], 
       "hnrlbls": [
         "61-63"
       ], 
       "housenumber": "63", 
-      "lat": 50.94340119786491, 
-      "lon": 5.3486125530701365, 
+      "lat": 50.943401107980186, 
+      "lon": 5.348612551191193, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanGebouw", 
@@ -3342,11 +3239,11 @@
         "68"
       ], 
       "housenumber": "68", 
-      "lat": 50.943869072302796, 
-      "lon": 5.34945948374763, 
+      "lat": 50.94386128841999, 
+      "lon": 5.349627234731597, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Genkersteenweg"
     }, 
     {
@@ -3362,9 +3259,11 @@
       "street": "Genkersteenweg"
     }, 
     {
-      "busnrs": [
-        "1", 
+      "apptnrs": [
         "2"
+      ], 
+      "busnrs": [
+        "1"
       ], 
       "hnrlbls": [
         "7"
@@ -3375,18 +3274,6 @@
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanGebouw", 
-      "street": "Genkersteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "70"
-      ], 
-      "housenumber": "70", 
-      "lat": 50.94386128841999, 
-      "lon": 5.349627234731597, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "afgeleidVanPerceelGrb", 
       "street": "Genkersteenweg"
     }, 
     {
@@ -3406,11 +3293,11 @@
         "72A"
       ], 
       "housenumber": "72A", 
-      "lat": 50.943906613877914, 
-      "lon": 5.350088096834194, 
+      "lat": 50.94388335654041, 
+      "lon": 5.350052604141364, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Genkersteenweg"
     }, 
     {
@@ -3426,10 +3313,13 @@
       "street": "Genkersteenweg"
     }, 
     {
-      "busnrs": [
-        "1", 
+      "apptnrs": [
         "3", 
         "4"
+      ], 
+      "busnrs": [
+        "1", 
+        "2"
       ], 
       "hnrlbls": [
         "76-78"
@@ -3492,7 +3382,7 @@
     }, 
     {
       "hnrlbls": [
-        "80b"
+        "3-80b"
       ], 
       "housenumber": "80b", 
       "lat": 50.9438195637174, 
@@ -3539,9 +3429,11 @@
       "street": "Genkersteenweg"
     }, 
     {
-      "busnrs": [
-        "1", 
+      "apptnrs": [
         "2"
+      ], 
+      "busnrs": [
+        "1"
       ], 
       "hnrlbls": [
         "9"

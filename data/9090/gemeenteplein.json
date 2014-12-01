@@ -293,7 +293,7 @@
     }, 
     {
       "hnrlbls": [
-        "/zn-24"
+        "/ZN-24"
       ], 
       "housenumber": "24", 
       "lat": 51.00266453302244, 
@@ -308,11 +308,11 @@
         "3"
       ], 
       "housenumber": "3", 
-      "lat": 51.00284570927114, 
-      "lon": 3.7987153641978937, 
+      "lat": 51.00280183236074, 
+      "lon": 3.7986020633743935, 
       "municipality": "Melle", 
       "pcode": "9090", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Gemeenteplein"
     }, 
     {
@@ -409,6 +409,18 @@
       "municipality": "Melle", 
       "pcode": "9090", 
       "source": "afgeleidVanGebouw", 
+      "street": "Gemeenteplein"
+    }, 
+    {
+      "hnrlbls": [
+        "/ZN-24"
+      ], 
+      "housenumber": "ZN", 
+      "lat": 51.00266453302244, 
+      "lon": 3.7986883595905665, 
+      "municipality": "Melle", 
+      "pcode": "9090", 
+      "source": "afgeleidVanStraat", 
       "street": "Gemeenteplein"
     }
   ]

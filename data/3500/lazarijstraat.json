@@ -1,8 +1,7 @@
 {
   "addresses": [
     {
-      "busnrs": [
-        "1", 
+      "apptnrs": [
         "2", 
         "3", 
         "4", 
@@ -10,6 +9,9 @@
         "6", 
         "7", 
         "8"
+      ], 
+      "busnrs": [
+        "1"
       ], 
       "hnrlbls": [
         "1"
@@ -39,8 +41,8 @@
         "101"
       ], 
       "housenumber": "101", 
-      "lat": 50.93488720254904, 
-      "lon": 5.32981271949125, 
+      "lat": 50.934887202549035, 
+      "lon": 5.329812719491251, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanGebouw", 
@@ -59,7 +61,7 @@
       "street": "Lazarijstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3", 
@@ -81,9 +83,6 @@
       "street": "Lazarijstraat"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
         "109"
       ], 
@@ -109,7 +108,6 @@
     }, 
     {
       "busnrs": [
-        "1", 
         "7"
       ], 
       "hnrlbls": [
@@ -124,7 +122,7 @@
       "street": "Lazarijstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3", 
@@ -146,11 +144,11 @@
         "113"
       ], 
       "housenumber": "113", 
-      "lat": 50.93554417313509, 
-      "lon": 5.33081428115331, 
+      "lat": 50.93480622325693, 
+      "lon": 5.330457969870272, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Lazarijstraat"
     }, 
     {
@@ -254,7 +252,7 @@
         "121"
       ], 
       "housenumber": "121", 
-      "lat": 50.935329234691345, 
+      "lat": 50.93532923469133, 
       "lon": 5.331163704678865, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
@@ -334,8 +332,11 @@
       "street": "Lazarijstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "2"
+      ], 
+      "busnrs": [
+        "1"
       ], 
       "hnrlbls": [
         "128"
@@ -449,7 +450,7 @@
         "136"
       ], 
       "housenumber": "136", 
-      "lat": 50.93633260792396, 
+      "lat": 50.93633260792397, 
       "lon": 5.331822128581902, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
@@ -481,14 +482,16 @@
       "street": "Lazarijstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3", 
         "4", 
         "5", 
-        "6", 
         "7"
+      ], 
+      "busnrs": [
+        "6"
       ], 
       "hnrlbls": [
         "139-141"
@@ -526,15 +529,14 @@
       "street": "Lazarijstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3", 
         "4", 
         "5", 
         "6", 
-        "7", 
-        "8"
+        "7"
       ], 
       "hnrlbls": [
         "139-141"
@@ -561,18 +563,6 @@
     }, 
     {
       "hnrlbls": [
-        "143-145"
-      ], 
-      "housenumber": "143", 
-      "lat": 50.93597144848293, 
-      "lon": 5.331935359030871, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Lazarijstraat"
-    }, 
-    {
-      "hnrlbls": [
         "144"
       ], 
       "housenumber": "144", 
@@ -581,18 +571,6 @@
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanGebouw", 
-      "street": "Lazarijstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "143-145"
-      ], 
-      "housenumber": "145", 
-      "lat": 50.93597144848293, 
-      "lon": 5.331935359030871, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Lazarijstraat"
     }, 
     {
@@ -632,7 +610,7 @@
       "street": "Lazarijstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3", 
@@ -650,14 +628,16 @@
       "street": "Lazarijstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
+      "apptnrs": [
         "2", 
         "3", 
         "4", 
-        "5", 
-        "6", 
         "7"
+      ], 
+      "busnrs": [
+        "1", 
+        "5", 
+        "6"
       ], 
       "hnrlbls": [
         "153"
@@ -692,60 +672,34 @@
         "0.09", 
         "0.10", 
         "1.01", 
-        "1.02", 
         "1.03", 
         "1.04", 
         "1.05", 
-        "1.06", 
         "1.07", 
         "1.08", 
         "1.09", 
         "1.10", 
         "1.11", 
         "1.12", 
-        "2.01", 
+        "2.02", 
         "2.03", 
-        "2.04", 
         "2.05", 
         "2.06", 
         "2.07", 
         "2.08", 
-        "2.09", 
-        "2.10"
+        "2.09"
       ], 
       "busnrs": [
-        "0", 
-        "007", 
-        "04", 
-        "06", 
-        "08", 
-        "10", 
-        "103", 
-        "109", 
-        "11", 
-        "110", 
-        "12", 
-        "13", 
-        "14", 
-        "17", 
-        "18", 
-        "2", 
-        "201", 
-        "202", 
-        "204", 
-        "205", 
-        "21", 
-        "210", 
-        "23", 
-        "24", 
-        "27", 
-        "28", 
-        "29", 
-        "5", 
-        "9"
+        "0.01", 
+        "0.03", 
+        "0.05", 
+        "1.02", 
+        "1.06", 
+        "2.01", 
+        "2.04"
       ], 
       "hnrlbls": [
-        "156-202"
+        "156"
       ], 
       "housenumber": "156", 
       "lat": 50.9389486204264, 
@@ -765,18 +719,6 @@
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanGebouw", 
-      "street": "Lazarijstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "158"
-      ], 
-      "housenumber": "158", 
-      "lat": 50.939166665380355, 
-      "lon": 5.3322007778319955, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Lazarijstraat"
     }, 
     {
@@ -829,9 +771,6 @@
     }, 
     {
       "apptnrs": [
-        "0.01"
-      ], 
-      "busnrs": [
         "01"
       ], 
       "hnrlbls": [
@@ -870,8 +809,8 @@
       "street": "Lazarijstraat"
     }, 
     {
-      "busnrs": [
-        "1"
+      "apptnrs": [
+        "01"
       ], 
       "hnrlbls": [
         "168-182"
@@ -897,7 +836,7 @@
       "street": "Lazarijstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "01"
       ], 
       "hnrlbls": [
@@ -912,9 +851,9 @@
       "street": "Lazarijstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "01", 
-        "2"
+        "02"
       ], 
       "hnrlbls": [
         "168-182"
@@ -928,9 +867,21 @@
       "street": "Lazarijstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2"
+      "hnrlbls": [
+        "175"
+      ], 
+      "housenumber": "175", 
+      "lat": 50.93763852128093, 
+      "lon": 5.333232492647259, 
+      "municipality": "Hasselt", 
+      "pcode": "3500", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Lazarijstraat"
+    }, 
+    {
+      "apptnrs": [
+        "01", 
+        "02"
       ], 
       "hnrlbls": [
         "168-182"
@@ -956,10 +907,10 @@
       "street": "Lazarijstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
+        "01", 
         "02", 
-        "1", 
-        "3"
+        "03"
       ], 
       "hnrlbls": [
         "168-182"
@@ -997,10 +948,10 @@
       "street": "Lazarijstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3"
+      "apptnrs": [
+        "01", 
+        "02", 
+        "03"
       ], 
       "hnrlbls": [
         "168-182"
@@ -1014,7 +965,7 @@
       "street": "Lazarijstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2"
       ], 
@@ -1030,9 +981,10 @@
       "street": "Lazarijstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "3"
+      "apptnrs": [
+        "01", 
+        "02", 
+        "03"
       ], 
       "hnrlbls": [
         "168-182"
@@ -1215,21 +1167,6 @@
     }, 
     {
       "hnrlbls": [
-        "156-202"
-      ], 
-      "housenumber": "202", 
-      "lat": 50.9389486204264, 
-      "lon": 5.332446290486185, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Lazarijstraat"
-    }, 
-    {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
         "21"
       ], 
       "housenumber": "21", 
@@ -1317,11 +1254,11 @@
         "31"
       ], 
       "housenumber": "31", 
-      "lat": 50.93356346819518, 
-      "lon": 5.327629653651293, 
+      "lat": 50.933539161954315, 
+      "lon": 5.32772177301121, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Lazarijstraat"
     }, 
     {
@@ -1374,7 +1311,6 @@
     }, 
     {
       "apptnrs": [
-        "0.01", 
         "0.02", 
         "1.01", 
         "1.02", 
@@ -1382,17 +1318,8 @@
         "2.02", 
         "3.01"
       ], 
-      "busnrs": [
-        "01", 
-        "02", 
-        "101", 
-        "102", 
-        "201", 
-        "202", 
-        "301"
-      ], 
       "hnrlbls": [
-        "2-46"
+        "36-40"
       ], 
       "housenumber": "36", 
       "lat": 50.93444182634912, 
@@ -1421,19 +1348,11 @@
         "1.01", 
         "1.02", 
         "2.01", 
+        "2.02", 
         "3.01"
       ], 
-      "busnrs": [
-        "001", 
-        "02", 
-        "101", 
-        "102", 
-        "201", 
-        "202", 
-        "301"
-      ], 
       "hnrlbls": [
-        "2-46"
+        "36-40"
       ], 
       "housenumber": "38", 
       "lat": 50.93444182634912, 
@@ -1456,9 +1375,6 @@
       "street": "Lazarijstraat"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
         "2-4"
       ], 
@@ -1475,30 +1391,19 @@
         "0.01", 
         "0.02", 
         "0.03", 
+        "1.01", 
         "1.02", 
         "1.03", 
         "1.04", 
         "2.01", 
         "2.02", 
         "2.03", 
+        "2.04", 
         "3.01", 
         "3.02"
       ], 
-      "busnrs": [
-        "001", 
-        "003", 
-        "02", 
-        "101", 
-        "102", 
-        "103", 
-        "104", 
-        "201", 
-        "202", 
-        "203", 
-        "301"
-      ], 
       "hnrlbls": [
-        "2-46"
+        "36-40"
       ], 
       "housenumber": "40", 
       "lat": 50.93444182634912, 
@@ -1522,18 +1427,6 @@
     }, 
     {
       "hnrlbls": [
-        "2-46"
-      ], 
-      "housenumber": "42", 
-      "lat": 50.93444182634912, 
-      "lon": 5.328176011928932, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Lazarijstraat"
-    }, 
-    {
-      "hnrlbls": [
         "43"
       ], 
       "housenumber": "43", 
@@ -1546,35 +1439,11 @@
     }, 
     {
       "hnrlbls": [
-        "2-46"
-      ], 
-      "housenumber": "44", 
-      "lat": 50.93444182634912, 
-      "lon": 5.328176011928932, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Lazarijstraat"
-    }, 
-    {
-      "hnrlbls": [
         "45"
       ], 
       "housenumber": "45", 
-      "lat": 50.93382660080279, 
+      "lat": 50.933826600802774, 
       "lon": 5.327993552917006, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Lazarijstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "2-46"
-      ], 
-      "housenumber": "46", 
-      "lat": 50.93444182634912, 
-      "lon": 5.328176011928932, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanGebouw", 
@@ -1593,7 +1462,7 @@
       "street": "Lazarijstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3", 
@@ -1687,11 +1556,11 @@
         "54"
       ], 
       "housenumber": "54", 
-      "lat": 50.93478231684218, 
-      "lon": 5.328842267387953, 
+      "lat": 50.93485591075011, 
+      "lon": 5.328615570152451, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Lazarijstraat"
     }, 
     {
@@ -1815,6 +1684,9 @@
       "street": "Lazarijstraat"
     }, 
     {
+      "apptnrs": [
+        "1.01"
+      ], 
       "hnrlbls": [
         "64"
       ], 
@@ -1839,7 +1711,7 @@
       "street": "Lazarijstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3"
@@ -1868,7 +1740,7 @@
       "street": "Lazarijstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2"
       ], 
@@ -1896,7 +1768,7 @@
       "street": "Lazarijstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3"
@@ -1961,7 +1833,7 @@
       "street": "Lazarijstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1"
       ], 
       "hnrlbls": [
@@ -1980,15 +1852,15 @@
         "75"
       ], 
       "housenumber": "75", 
-      "lat": 50.93435402909111, 
-      "lon": 5.328732626948875, 
+      "lat": 50.9342150359891, 
+      "lon": 5.328964384305055, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Lazarijstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3", 
@@ -2102,7 +1974,7 @@
       "street": "Lazarijstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2"
       ], 
@@ -2170,7 +2042,7 @@
         "9"
       ], 
       "housenumber": "9", 
-      "lat": 50.93330748835278, 
+      "lat": 50.93330748835277, 
       "lon": 5.327303463291217, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
@@ -2226,12 +2098,13 @@
       "street": "Lazarijstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
+      "apptnrs": [
         "2", 
         "3", 
-        "4", 
-        "5"
+        "4"
+      ], 
+      "busnrs": [
+        "1"
       ], 
       "hnrlbls": [
         "94"
@@ -2281,7 +2154,7 @@
       "street": "Lazarijstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2"
       ], 
@@ -2297,7 +2170,7 @@
       "street": "Lazarijstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3"

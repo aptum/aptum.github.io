@@ -2,14 +2,14 @@
   "addresses": [
     {
       "hnrlbls": [
-        "/zn-1357"
+        "275A"
       ], 
-      "housenumber": "1357", 
-      "lat": 50.93998502667257, 
-      "lon": 5.29998469149946, 
+      "housenumber": "275A", 
+      "lat": 50.93780891651237, 
+      "lon": 5.31455010980629, 
       "municipality": "Hasselt", 
       "pcode": "3511", 
-      "source": "afgeleidVanStraat", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Kuringersteenweg"
     }, 
     {
@@ -26,7 +26,6 @@
     }, 
     {
       "busnrs": [
-        "1", 
         "2", 
         "3"
       ], 
@@ -34,8 +33,8 @@
         "304"
       ], 
       "housenumber": "304", 
-      "lat": 50.937899655193156, 
-      "lon": 5.311852729926113, 
+      "lat": 50.93786317412807, 
+      "lon": 5.31153698646843, 
       "municipality": "Hasselt", 
       "pcode": "3511", 
       "source": "afgeleidVanPerceelGrb", 
@@ -70,7 +69,7 @@
         "312"
       ], 
       "housenumber": "312", 
-      "lat": 50.93823409445198, 
+      "lat": 50.938234094451964, 
       "lon": 5.311336287771528, 
       "municipality": "Hasselt", 
       "pcode": "3511", 
@@ -90,7 +89,7 @@
       "street": "Kuringersteenweg"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3"
@@ -184,7 +183,7 @@
       ], 
       "housenumber": "321", 
       "lat": 50.93912694978819, 
-      "lon": 5.310443761878457, 
+      "lon": 5.310443761878456, 
       "municipality": "Hasselt", 
       "pcode": "3511", 
       "source": "afgeleidVanGebouw", 
@@ -192,7 +191,7 @@
     }, 
     {
       "hnrlbls": [
-        "323-323A"
+        "323"
       ], 
       "housenumber": "323", 
       "lat": 50.93923937238608, 
@@ -207,11 +206,11 @@
         "324"
       ], 
       "housenumber": "324", 
-      "lat": 50.93868385973332, 
-      "lon": 5.310047993066391, 
+      "lat": 50.93848731922278, 
+      "lon": 5.310375565050288, 
       "municipality": "Hasselt", 
       "pcode": "3511", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Kuringersteenweg"
     }, 
     {
@@ -287,15 +286,17 @@
       "street": "Kuringersteenweg"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
+      "apptnrs": [
         "3", 
         "4", 
         "5", 
         "6", 
         "7", 
         "8"
+      ], 
+      "busnrs": [
+        "1", 
+        "2"
       ], 
       "hnrlbls": [
         "333-345"
@@ -321,14 +322,16 @@
       "street": "Kuringersteenweg"
     }, 
     {
-      "busnrs": [
-        "1", 
+      "apptnrs": [
         "3", 
         "4", 
         "5", 
-        "6", 
-        "7", 
-        "8"
+        "7"
+      ], 
+      "busnrs": [
+        "1", 
+        "2", 
+        "6"
       ], 
       "hnrlbls": [
         "333-345"
@@ -342,14 +345,16 @@
       "street": "Kuringersteenweg"
     }, 
     {
-      "busnrs": [
-        "2", 
+      "apptnrs": [
         "3", 
         "4", 
         "5", 
         "6", 
-        "7", 
-        "8"
+        "7"
+      ], 
+      "busnrs": [
+        "1", 
+        "2"
       ], 
       "hnrlbls": [
         "333-345"
@@ -363,13 +368,17 @@
       "street": "Kuringersteenweg"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "3", 
         "4", 
         "5", 
-        "6", 
         "7", 
         "8"
+      ], 
+      "busnrs": [
+        "1", 
+        "2", 
+        "6"
       ], 
       "hnrlbls": [
         "333-345"
@@ -383,13 +392,15 @@
       "street": "Kuringersteenweg"
     }, 
     {
+      "apptnrs": [
+        "6"
+      ], 
       "busnrs": [
+        "1", 
+        "2", 
         "3", 
         "4", 
-        "5", 
-        "6", 
-        "7", 
-        "8"
+        "5"
       ], 
       "hnrlbls": [
         "333-345"
@@ -415,13 +426,16 @@
       "street": "Kuringersteenweg"
     }, 
     {
-      "busnrs": [
-        "2", 
+      "apptnrs": [
         "3", 
         "4", 
         "5", 
-        "6", 
         "7"
+      ], 
+      "busnrs": [
+        "1", 
+        "2", 
+        "6"
       ], 
       "hnrlbls": [
         "333-345"
@@ -435,15 +449,17 @@
       "street": "Kuringersteenweg"
     }, 
     {
-      "busnrs": [
-        "1", 
+      "apptnrs": [
         "2", 
         "3", 
         "4", 
-        "5", 
         "6", 
         "7", 
         "8"
+      ], 
+      "busnrs": [
+        "1", 
+        "5"
       ], 
       "hnrlbls": [
         "333-345"
@@ -473,15 +489,15 @@
         "353"
       ], 
       "housenumber": "353", 
-      "lat": 50.9395533661718, 
-      "lon": 5.302854838794469, 
+      "lat": 50.93949265019265, 
+      "lon": 5.302960769880474, 
       "municipality": "Hasselt", 
       "pcode": "3511", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Kuringersteenweg"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1"
       ], 
       "hnrlbls": [
@@ -533,54 +549,6 @@
     }, 
     {
       "hnrlbls": [
-        "/zn-1357"
-      ], 
-      "housenumber": "360", 
-      "lat": 50.93998502667257, 
-      "lon": 5.29998469149946, 
-      "municipality": "Hasselt", 
-      "pcode": "3511", 
-      "source": "afgeleidVanStraat", 
-      "street": "Kuringersteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "381"
-      ], 
-      "housenumber": "381", 
-      "lat": 50.94086181019961, 
-      "lon": 5.296817528304081, 
-      "municipality": "Hasselt", 
-      "pcode": "3511", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Kuringersteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "383"
-      ], 
-      "housenumber": "383", 
-      "lat": 50.941101938513484, 
-      "lon": 5.296566444749242, 
-      "municipality": "Hasselt", 
-      "pcode": "3511", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Kuringersteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "384"
-      ], 
-      "housenumber": "384", 
-      "lat": 50.93882210315668, 
-      "lon": 5.301862068914148, 
-      "municipality": "Hasselt", 
-      "pcode": "3511", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Kuringersteenweg"
-    }, 
-    {
-      "hnrlbls": [
         "388"
       ], 
       "housenumber": "388", 
@@ -596,8 +564,8 @@
         "390"
       ], 
       "housenumber": "390", 
-      "lat": 50.93906323460825, 
-      "lon": 5.299219815283088, 
+      "lat": 50.93893218415619, 
+      "lon": 5.299239552610621, 
       "municipality": "Hasselt", 
       "pcode": "3511", 
       "source": "afgeleidVanPerceelGrb", 
@@ -677,18 +645,6 @@
     }, 
     {
       "hnrlbls": [
-        "400-402"
-      ], 
-      "housenumber": "400", 
-      "lat": 50.94075411951454, 
-      "lon": 5.294492953296769, 
-      "municipality": "Hasselt", 
-      "pcode": "3511", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Kuringersteenweg"
-    }, 
-    {
-      "hnrlbls": [
         "401"
       ], 
       "housenumber": "401", 
@@ -697,18 +653,6 @@
       "municipality": "Hasselt", 
       "pcode": "3511", 
       "source": "afgeleidVanGebouw", 
-      "street": "Kuringersteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "400-402"
-      ], 
-      "housenumber": "402", 
-      "lat": 50.94075411951454, 
-      "lon": 5.294492953296769, 
-      "municipality": "Hasselt", 
-      "pcode": "3511", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Kuringersteenweg"
     }, 
     {
@@ -785,26 +729,14 @@
     }, 
     {
       "hnrlbls": [
-        "420"
-      ], 
-      "housenumber": "420", 
-      "lat": 50.94233222851559, 
-      "lon": 5.289872820022715, 
-      "municipality": "Hasselt", 
-      "pcode": "3511", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Kuringersteenweg"
-    }, 
-    {
-      "hnrlbls": [
         "422"
       ], 
       "housenumber": "422", 
-      "lat": 50.94239559300941, 
-      "lon": 5.289782997076429, 
+      "lat": 50.94225398546924, 
+      "lon": 5.289853780360454, 
       "municipality": "Hasselt", 
       "pcode": "3511", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Kuringersteenweg"
     }, 
     {
@@ -833,18 +765,6 @@
     }, 
     {
       "hnrlbls": [
-        "42-42A"
-      ], 
-      "housenumber": "42A", 
-      "lat": 50.93327005951221, 
-      "lon": 5.325609861048685, 
-      "municipality": "Hasselt", 
-      "pcode": "3511", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
-      "street": "Kuringersteenweg"
-    }, 
-    {
-      "hnrlbls": [
         "430"
       ], 
       "housenumber": "430", 
@@ -860,8 +780,8 @@
         "432"
       ], 
       "housenumber": "432", 
-      "lat": 50.942412510116654, 
-      "lon": 5.289219133790124, 
+      "lat": 50.94231072547391, 
+      "lon": 5.289060896570859, 
       "municipality": "Hasselt", 
       "pcode": "3511", 
       "source": "afgeleidVanPerceelGrb", 
@@ -928,7 +848,7 @@
       "street": "Kuringersteenweg"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2"
       ], 
@@ -945,8 +865,7 @@
     }, 
     {
       "busnrs": [
-        "3", 
-        "A"
+        "3"
       ], 
       "hnrlbls": [
         "439-441"
@@ -960,29 +879,14 @@
       "street": "Kuringersteenweg"
     }, 
     {
-      "busnrs": [
-        "A"
-      ], 
-      "hnrlbls": [
-        "439-441"
-      ], 
-      "housenumber": "439_3", 
-      "lat": 50.94349538666932, 
-      "lon": 5.287423405315461, 
-      "municipality": "Hasselt", 
-      "pcode": "3511", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Kuringersteenweg"
-    }, 
-    {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3", 
         "4"
       ], 
       "hnrlbls": [
-        "440-440A"
+        "440"
       ], 
       "housenumber": "440", 
       "lat": 50.94258696153472, 
@@ -1066,18 +970,6 @@
     }, 
     {
       "hnrlbls": [
-        "459-487A"
-      ], 
-      "housenumber": "459", 
-      "lat": 50.9442260486838, 
-      "lon": 5.2860945617108195, 
-      "municipality": "Hasselt", 
-      "pcode": "3511", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Kuringersteenweg"
-    }, 
-    {
-      "hnrlbls": [
         "460"
       ], 
       "housenumber": "460", 
@@ -1118,7 +1010,7 @@
       ], 
       "housenumber": "468", 
       "lat": 50.94274808800685, 
-      "lon": 5.2866945805883105, 
+      "lon": 5.28669458058831, 
       "municipality": "Hasselt", 
       "pcode": "3511", 
       "source": "afgeleidVanGebouw", 
@@ -1137,11 +1029,10 @@
       "street": "Kuringersteenweg"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
-        "3", 
-        "4"
+        "3"
       ], 
       "hnrlbls": [
         "474"
@@ -1168,7 +1059,7 @@
     }, 
     {
       "hnrlbls": [
-        "478-478b"
+        "478"
       ], 
       "housenumber": "478", 
       "lat": 50.94282265196188, 
@@ -1180,26 +1071,14 @@
     }, 
     {
       "hnrlbls": [
-        "478-478b"
-      ], 
-      "housenumber": "478A", 
-      "lat": 50.94282265196188, 
-      "lon": 5.286264174978492, 
-      "municipality": "Hasselt", 
-      "pcode": "3511", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Kuringersteenweg"
-    }, 
-    {
-      "hnrlbls": [
         "480"
       ], 
       "housenumber": "480", 
-      "lat": 50.942856511068626, 
-      "lon": 5.285646849441024, 
+      "lat": 50.942889320770185, 
+      "lon": 5.285451550544176, 
       "municipality": "Hasselt", 
       "pcode": "3511", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Kuringersteenweg"
     }, 
     {
@@ -1228,7 +1107,7 @@
     }, 
     {
       "hnrlbls": [
-        "488"
+        "488-490"
       ], 
       "housenumber": "488", 
       "lat": 50.94296781226955, 
@@ -1240,11 +1119,11 @@
     }, 
     {
       "hnrlbls": [
-        "490"
+        "488-490"
       ], 
       "housenumber": "490", 
-      "lat": 50.942782920592855, 
-      "lon": 5.284593707463207, 
+      "lat": 50.94296781226955, 
+      "lon": 5.284678428498753, 
       "municipality": "Hasselt", 
       "pcode": "3511", 
       "source": "afgeleidVanPerceelGrb", 
@@ -1257,6 +1136,18 @@
       "housenumber": "491", 
       "lat": 50.94495660562394, 
       "lon": 5.2847656749530145, 
+      "municipality": "Hasselt", 
+      "pcode": "3511", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Kuringersteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "492"
+      ], 
+      "housenumber": "492", 
+      "lat": 50.942979067543796, 
+      "lon": 5.28438793852959, 
       "municipality": "Hasselt", 
       "pcode": "3511", 
       "source": "afgeleidVanGebouw", 
@@ -1323,13 +1214,13 @@
       "street": "Kuringersteenweg"
     }, 
     {
+      "apptnrs": [
+        "3", 
+        "4"
+      ], 
       "busnrs": [
         "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6"
+        "2"
       ], 
       "hnrlbls": [
         "504"
@@ -1355,22 +1246,9 @@
       "street": "Kuringersteenweg"
     }, 
     {
-      "hnrlbls": [
-        "506-508"
-      ], 
-      "housenumber": "506A", 
-      "lat": 50.94281865138326, 
-      "lon": 5.2820258370856195, 
-      "municipality": "Hasselt", 
-      "pcode": "3511", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Kuringersteenweg"
-    }, 
-    {
-      "busnrs": [
+      "apptnrs": [
         "1", 
-        "2", 
-        "4"
+        "2"
       ], 
       "hnrlbls": [
         "506-508"
@@ -1381,6 +1259,18 @@
       "municipality": "Hasselt", 
       "pcode": "3511", 
       "source": "afgeleidVanGebouw", 
+      "street": "Kuringersteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "508A"
+      ], 
+      "housenumber": "508A", 
+      "lat": 50.94278949714769, 
+      "lon": 5.282017727411834, 
+      "municipality": "Hasselt", 
+      "pcode": "3511", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Kuringersteenweg"
     }, 
     {
@@ -1421,19 +1311,7 @@
     }, 
     {
       "hnrlbls": [
-        "512"
-      ], 
-      "housenumber": "512", 
-      "lat": 50.942929597260104, 
-      "lon": 5.281191871120754, 
-      "municipality": "Hasselt", 
-      "pcode": "3511", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Kuringersteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "514-514D"
+        "514"
       ], 
       "housenumber": "514", 
       "lat": 50.94287973521222, 
@@ -1441,18 +1319,6 @@
       "municipality": "Hasselt", 
       "pcode": "3511", 
       "source": "afgeleidVanGebouw", 
-      "street": "Kuringersteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "514-514D"
-      ], 
-      "housenumber": "514D", 
-      "lat": 50.94287973521222, 
-      "lon": 5.28091000974283, 
-      "municipality": "Hasselt", 
-      "pcode": "3511", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Kuringersteenweg"
     }, 
     {
@@ -1468,7 +1334,7 @@
       "street": "Kuringersteenweg"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3", 
@@ -1498,10 +1364,12 @@
       "street": "Kuringersteenweg"
     }, 
     {
-      "busnrs": [
-        "1", 
+      "apptnrs": [
         "2", 
         "3"
+      ], 
+      "busnrs": [
+        "1"
       ], 
       "hnrlbls": [
         "519"
@@ -1515,10 +1383,6 @@
       "street": "Kuringersteenweg"
     }, 
     {
-      "busnrs": [
-        "2", 
-        "4"
-      ], 
       "hnrlbls": [
         "520"
       ], 
@@ -1535,11 +1399,11 @@
         "520A"
       ], 
       "housenumber": "520A", 
-      "lat": 50.94334076560463, 
-      "lon": 5.280420374295806, 
+      "lat": 50.94300703399373, 
+      "lon": 5.280203570395333, 
       "municipality": "Hasselt", 
       "pcode": "3511", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Kuringersteenweg"
     }, 
     {
@@ -1603,25 +1467,14 @@
       "street": "Kuringersteenweg"
     }, 
     {
-      "busnrs": [
-        "11A", 
-        "21A", 
-        "31A"
+      "apptnrs": [
+        "0.5", 
+        "1.5", 
+        "2.5", 
+        "3.3"
       ], 
       "hnrlbls": [
-        "526-530"
-      ], 
-      "housenumber": "526", 
-      "lat": 50.943512319513175, 
-      "lon": 5.279582877421833, 
-      "municipality": "Hasselt", 
-      "pcode": "3511", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Kuringersteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "526-530"
+        "526A-528A"
       ], 
       "housenumber": "526A", 
       "lat": 50.943512319513175, 
@@ -1632,6 +1485,9 @@
       "street": "Kuringersteenweg"
     }, 
     {
+      "apptnrs": [
+        "0.6"
+      ], 
       "hnrlbls": [
         "526B-530B"
       ], 
@@ -1648,34 +1504,21 @@
         "527"
       ], 
       "housenumber": "527", 
-      "lat": 50.94375223979004, 
-      "lon": 5.278797075257333, 
+      "lat": 50.94422362775053, 
+      "lon": 5.278744754338467, 
       "municipality": "Hasselt", 
       "pcode": "3511", 
-      "source": "geinterpoleerdObvWegverbinding", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Kuringersteenweg"
     }, 
     {
-      "busnrs": [
-        "11A", 
-        "11B", 
-        "21A", 
-        "21B"
+      "apptnrs": [
+        "0.3", 
+        "1.3", 
+        "2.3"
       ], 
       "hnrlbls": [
-        "526-530"
-      ], 
-      "housenumber": "528", 
-      "lat": 50.943512319513175, 
-      "lon": 5.279582877421833, 
-      "municipality": "Hasselt", 
-      "pcode": "3511", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Kuringersteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "526-530"
+        "526A-528A"
       ], 
       "housenumber": "528A", 
       "lat": 50.943512319513175, 
@@ -1686,6 +1529,11 @@
       "street": "Kuringersteenweg"
     }, 
     {
+      "apptnrs": [
+        "0.4", 
+        "1.4", 
+        "2.4"
+      ], 
       "hnrlbls": [
         "526B-530B"
       ], 
@@ -1698,25 +1546,12 @@
       "street": "Kuringersteenweg"
     }, 
     {
-      "busnrs": [
-        "11A", 
-        "11B", 
-        "21A", 
-        "22B", 
-        "31A"
+      "apptnrs": [
+        "0.1", 
+        "1.1", 
+        "2.1", 
+        "3.1"
       ], 
-      "hnrlbls": [
-        "526-530"
-      ], 
-      "housenumber": "530", 
-      "lat": 50.943512319513175, 
-      "lon": 5.279582877421833, 
-      "municipality": "Hasselt", 
-      "pcode": "3511", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Kuringersteenweg"
-    }, 
-    {
       "hnrlbls": [
         "526B-530B"
       ], 
@@ -1729,8 +1564,11 @@
       "street": "Kuringersteenweg"
     }, 
     {
-      "busnrs": [
-        "3"
+      "apptnrs": [
+        "0.2", 
+        "1.2", 
+        "2.2", 
+        "3.2"
       ], 
       "hnrlbls": [
         "526B-530B"
@@ -1744,7 +1582,7 @@
       "street": "Kuringersteenweg"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "10", 
         "2", 
@@ -1813,30 +1651,6 @@
       "municipality": "Hasselt", 
       "pcode": "3511", 
       "source": "afgeleidVanGebouw", 
-      "street": "Kuringersteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "/zn-1357"
-      ], 
-      "housenumber": "566", 
-      "lat": 50.93998502667257, 
-      "lon": 5.29998469149946, 
-      "municipality": "Hasselt", 
-      "pcode": "3511", 
-      "source": "afgeleidVanStraat", 
-      "street": "Kuringersteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "/zn-1357"
-      ], 
-      "housenumber": "579", 
-      "lat": 50.93998502667257, 
-      "lon": 5.29998469149946, 
-      "municipality": "Hasselt", 
-      "pcode": "3511", 
-      "source": "afgeleidVanStraat", 
       "street": "Kuringersteenweg"
     }
   ]

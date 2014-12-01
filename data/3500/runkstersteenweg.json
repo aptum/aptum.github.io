@@ -1,23 +1,13 @@
 {
   "addresses": [
     {
-      "hnrlbls": [
-        "1-1A"
+      "apptnrs": [
+        "2", 
+        "4"
       ], 
-      "housenumber": "1", 
-      "lat": 50.925537908236876, 
-      "lon": 5.319190659608422, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Runkstersteenweg"
-    }, 
-    {
       "busnrs": [
         "1", 
-        "2", 
-        "3", 
-        "4"
+        "3"
       ], 
       "hnrlbls": [
         "100"
@@ -43,7 +33,7 @@
       "street": "Runkstersteenweg"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3", 
@@ -77,7 +67,7 @@
         "104"
       ], 
       "housenumber": "104", 
-      "lat": 50.92730221758649, 
+      "lat": 50.927302217586494, 
       "lon": 5.327668188220727, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
@@ -97,7 +87,7 @@
       "street": "Runkstersteenweg"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "10", 
         "11", 
@@ -207,7 +197,7 @@
       "street": "Runkstersteenweg"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "10", 
         "2", 
@@ -291,7 +281,7 @@
       "street": "Runkstersteenweg"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3"
@@ -428,7 +418,7 @@
       "street": "Runkstersteenweg"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2"
       ], 
@@ -456,19 +446,7 @@
       "street": "Runkstersteenweg"
     }, 
     {
-      "hnrlbls": [
-        "135"
-      ], 
-      "housenumber": "135", 
-      "lat": 50.926518151308194, 
-      "lon": 5.32571247811121, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Runkstersteenweg"
-    }, 
-    {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3", 
@@ -501,9 +479,6 @@
       "street": "Runkstersteenweg"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
         "138"
       ], 
@@ -660,7 +635,7 @@
       "street": "Runkstersteenweg"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2"
       ], 
@@ -676,7 +651,7 @@
       "street": "Runkstersteenweg"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3"
@@ -717,8 +692,11 @@
       "street": "Runkstersteenweg"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "2"
+      ], 
+      "busnrs": [
+        "1"
       ], 
       "hnrlbls": [
         "154"
@@ -816,7 +794,7 @@
       "street": "Runkstersteenweg"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3", 
@@ -848,13 +826,15 @@
       "street": "Runkstersteenweg"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3", 
-        "4", 
         "5", 
         "6"
+      ], 
+      "busnrs": [
+        "4"
       ], 
       "hnrlbls": [
         "163"
@@ -896,11 +876,11 @@
         "166"
       ], 
       "housenumber": "166", 
-      "lat": 50.92612061699351, 
-      "lon": 5.32554633049393, 
+      "lat": 50.92613117248791, 
+      "lon": 5.325552804675661, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Runkstersteenweg"
     }, 
     {
@@ -916,12 +896,14 @@
       "street": "Runkstersteenweg"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
-        "2", 
         "3", 
         "4", 
         "5"
+      ], 
+      "busnrs": [
+        "2"
       ], 
       "hnrlbls": [
         "17-21"
@@ -959,8 +941,12 @@
       "street": "Runkstersteenweg"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "3"
+      ], 
+      "busnrs": [
+        "1", 
+        "2"
       ], 
       "hnrlbls": [
         "172"
@@ -1046,7 +1032,7 @@
       "street": "Runkstersteenweg"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2"
       ], 
@@ -1062,9 +1048,6 @@
       "street": "Runkstersteenweg"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
         "18"
       ], 
@@ -1098,18 +1081,6 @@
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanGebouw", 
-      "street": "Runkstersteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "183"
-      ], 
-      "housenumber": "183", 
-      "lat": 50.92551911540526, 
-      "lon": 5.323777064070765, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "afgeleidVanPerceelGrb", 
       "street": "Runkstersteenweg"
     }, 
     {
@@ -1173,12 +1144,14 @@
       "street": "Runkstersteenweg"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3", 
-        "4", 
         "5"
+      ], 
+      "busnrs": [
+        "4"
       ], 
       "hnrlbls": [
         "189"
@@ -1325,18 +1298,6 @@
     }, 
     {
       "hnrlbls": [
-        "2-2h"
-      ], 
-      "housenumber": "2", 
-      "lat": 50.92882528794535, 
-      "lon": 5.331120966176978, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Runkstersteenweg"
-    }, 
-    {
-      "hnrlbls": [
         "20"
       ], 
       "housenumber": "20", 
@@ -1420,7 +1381,7 @@
       "street": "Runkstersteenweg"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3", 
@@ -1462,7 +1423,7 @@
       "street": "Runkstersteenweg"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3", 
@@ -1494,7 +1455,7 @@
       "street": "Runkstersteenweg"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3"
@@ -1547,8 +1508,11 @@
       "street": "Runkstersteenweg"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "2"
+      ], 
+      "busnrs": [
+        "1"
       ], 
       "hnrlbls": [
         "215"
@@ -1574,7 +1538,7 @@
       "street": "Runkstersteenweg"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1"
       ], 
       "hnrlbls": [
@@ -1617,11 +1581,11 @@
         "222"
       ], 
       "housenumber": "222", 
-      "lat": 50.9243399301744, 
-      "lon": 5.3180641616715585, 
+      "lat": 50.92434375721931, 
+      "lon": 5.3170011382385685, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Runkstersteenweg"
     }, 
     {
@@ -1701,20 +1665,8 @@
         "230"
       ], 
       "housenumber": "230", 
-      "lat": 50.92426999168253, 
+      "lat": 50.92426999168252, 
       "lon": 5.315770838381366, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Runkstersteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "17-231"
-      ], 
-      "housenumber": "231", 
-      "lat": 50.92545085473144, 
-      "lon": 5.320315177560869, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanGebouw", 
@@ -1758,43 +1710,14 @@
     }, 
     {
       "hnrlbls": [
-        "235"
-      ], 
-      "housenumber": "235", 
-      "lat": 50.924977742719335, 
-      "lon": 5.3210426743752475, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Runkstersteenweg"
-    }, 
-    {
-      "hnrlbls": [
         "236"
       ], 
       "housenumber": "236", 
       "lat": 50.924246408159284, 
-      "lon": 5.315518171391003, 
+      "lon": 5.315518171391002, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanGebouw", 
-      "street": "Runkstersteenweg"
-    }, 
-    {
-      "busnrs": [
-        "3", 
-        "5", 
-        "7"
-      ], 
-      "hnrlbls": [
-        "237"
-      ], 
-      "housenumber": "237", 
-      "lat": 50.92498293726645, 
-      "lon": 5.320956439027776, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
       "street": "Runkstersteenweg"
     }, 
     {
@@ -1810,9 +1733,8 @@
       "street": "Runkstersteenweg"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2"
+      "apptnrs": [
+        "1"
       ], 
       "hnrlbls": [
         "239"
@@ -1826,16 +1748,18 @@
       "street": "Runkstersteenweg"
     }, 
     {
-      "busnrs": [
-        "1", 
+      "apptnrs": [
         "2"
+      ], 
+      "busnrs": [
+        "1"
       ], 
       "hnrlbls": [
         "24"
       ], 
       "housenumber": "24", 
-      "lat": 50.92880295525866, 
-      "lon": 5.33019287125947, 
+      "lat": 50.92880295525865, 
+      "lon": 5.330192871259469, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanGebouw", 
@@ -1858,7 +1782,7 @@
         "241"
       ], 
       "housenumber": "241", 
-      "lat": 50.92496518641815, 
+      "lat": 50.92496518641814, 
       "lon": 5.320750823584871, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
@@ -1903,18 +1827,6 @@
     }, 
     {
       "hnrlbls": [
-        "245"
-      ], 
-      "housenumber": "245", 
-      "lat": 50.925142583298204, 
-      "lon": 5.3194722523446565, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Runkstersteenweg"
-    }, 
-    {
-      "hnrlbls": [
         "246"
       ], 
       "housenumber": "246", 
@@ -1926,15 +1838,46 @@
       "street": "Runkstersteenweg"
     }, 
     {
-      "hnrlbls": [
-        "247"
+      "busnrs": [
+        "1.01"
       ], 
-      "housenumber": "247", 
-      "lat": 50.92486750398023, 
-      "lon": 5.316657690372952, 
+      "hnrlbls": [
+        "247A-247C"
+      ], 
+      "housenumber": "247A", 
+      "lat": 50.92495394252692, 
+      "lon": 5.316685610164962, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Runkstersteenweg"
+    }, 
+    {
+      "busnrs": [
+        "1.01", 
+        "2.01"
+      ], 
+      "hnrlbls": [
+        "247A-247C"
+      ], 
+      "housenumber": "247B", 
+      "lat": 50.92495394252692, 
+      "lon": 5.316685610164962, 
+      "municipality": "Hasselt", 
+      "pcode": "3500", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Runkstersteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "247A-247C"
+      ], 
+      "housenumber": "247C", 
+      "lat": 50.92495394252692, 
+      "lon": 5.316685610164962, 
+      "municipality": "Hasselt", 
+      "pcode": "3500", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Runkstersteenweg"
     }, 
     {
@@ -2050,7 +1993,7 @@
         "257"
       ], 
       "housenumber": "257", 
-      "lat": 50.92444176052284, 
+      "lat": 50.924441760522825, 
       "lon": 5.315328811224728, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
@@ -2190,7 +2133,7 @@
       "street": "Runkstersteenweg"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2"
       ], 
@@ -2290,7 +2233,7 @@
       "street": "Runkstersteenweg"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1"
       ], 
       "hnrlbls": [
@@ -2450,18 +2393,6 @@
     }, 
     {
       "hnrlbls": [
-        "290"
-      ], 
-      "housenumber": "290", 
-      "lat": 50.92330347328502, 
-      "lon": 5.301092566977324, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Runkstersteenweg"
-    }, 
-    {
-      "hnrlbls": [
         "291"
       ], 
       "housenumber": "291", 
@@ -2497,7 +2428,7 @@
       "street": "Runkstersteenweg"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1"
       ], 
       "hnrlbls": [
@@ -2525,11 +2456,11 @@
     }, 
     {
       "hnrlbls": [
-        "2A"
+        "2A-2E"
       ], 
       "housenumber": "2A", 
-      "lat": 50.928828416446166, 
-      "lon": 5.331123164195181, 
+      "lat": 50.9290312166163, 
+      "lon": 5.3309166477916134, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanPerceelGrb", 
@@ -2537,11 +2468,11 @@
     }, 
     {
       "hnrlbls": [
-        "2B"
+        "2A-2E"
       ], 
       "housenumber": "2B", 
-      "lat": 50.92887798808868, 
-      "lon": 5.331052912396422, 
+      "lat": 50.9290312166163, 
+      "lon": 5.3309166477916134, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanPerceelGrb", 
@@ -2549,11 +2480,11 @@
     }, 
     {
       "hnrlbls": [
-        "2C"
+        "2A-2E"
       ], 
       "housenumber": "2C", 
-      "lat": 50.92892667948601, 
-      "lon": 5.330980366320305, 
+      "lat": 50.9290312166163, 
+      "lon": 5.3309166477916134, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanPerceelGrb", 
@@ -2561,11 +2492,11 @@
     }, 
     {
       "hnrlbls": [
-        "2D"
+        "2A-2E"
       ], 
       "housenumber": "2D", 
-      "lat": 50.92897554827741, 
-      "lon": 5.3309081082432135, 
+      "lat": 50.9290312166163, 
+      "lon": 5.3309166477916134, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanPerceelGrb", 
@@ -2573,50 +2504,14 @@
     }, 
     {
       "hnrlbls": [
-        "2E"
+        "2A-2E"
       ], 
       "housenumber": "2E", 
-      "lat": 50.92902541508751, 
-      "lon": 5.3308347324591825, 
+      "lat": 50.9290312166163, 
+      "lon": 5.3309166477916134, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanPerceelGrb", 
-      "street": "Runkstersteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "2-2h"
-      ], 
-      "housenumber": "2f", 
-      "lat": 50.92882528794535, 
-      "lon": 5.331120966176978, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Runkstersteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "2-2h"
-      ], 
-      "housenumber": "2g", 
-      "lat": 50.92882528794535, 
-      "lon": 5.331120966176978, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Runkstersteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "2-2h"
-      ], 
-      "housenumber": "2h", 
-      "lat": 50.92882528794535, 
-      "lon": 5.331120966176978, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Runkstersteenweg"
     }, 
     {
@@ -2980,9 +2875,6 @@
       "street": "Runkstersteenweg"
     }, 
     {
-      "busnrs": [
-        "3"
-      ], 
       "hnrlbls": [
         "34"
       ], 
@@ -3115,9 +3007,6 @@
       "street": "Runkstersteenweg"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
         "35"
       ], 
@@ -3158,11 +3047,11 @@
         "352"
       ], 
       "housenumber": "352", 
-      "lat": 50.923298259895695, 
-      "lon": 5.301092463324127, 
+      "lat": 50.923251540624726, 
+      "lon": 5.30108883195997, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Runkstersteenweg"
     }, 
     {
@@ -3254,11 +3143,11 @@
         "36"
       ], 
       "housenumber": "36", 
-      "lat": 50.92856965239103, 
-      "lon": 5.329776976294972, 
+      "lat": 50.92858335153904, 
+      "lon": 5.32984966386673, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Runkstersteenweg"
     }, 
     {
@@ -3362,11 +3251,11 @@
         "368"
       ], 
       "housenumber": "368", 
-      "lat": 50.92243877017502, 
-      "lon": 5.2983434928730935, 
+      "lat": 50.923152849840925, 
+      "lon": 5.2987971570794326, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Runkstersteenweg"
     }, 
     {
@@ -3446,11 +3335,11 @@
         "375A"
       ], 
       "housenumber": "375A", 
-      "lat": 50.923953755978545, 
-      "lon": 5.30071462530318, 
+      "lat": 50.92383355146324, 
+      "lon": 5.301179772423464, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Runkstersteenweg"
     }, 
     {
@@ -3658,7 +3547,7 @@
       "street": "Runkstersteenweg"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3", 
@@ -3766,11 +3655,11 @@
         "408"
       ], 
       "housenumber": "408", 
-      "lat": 50.92303772582267, 
-      "lon": 5.292770493388856, 
+      "lat": 50.922982163374456, 
+      "lon": 5.2929537353232385, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Runkstersteenweg"
     }, 
     {
@@ -4039,18 +3928,6 @@
     }, 
     {
       "hnrlbls": [
-        "441"
-      ], 
-      "housenumber": "441", 
-      "lat": 50.92260891775186, 
-      "lon": 5.285257639024692, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Runkstersteenweg"
-    }, 
-    {
-      "hnrlbls": [
         "45"
       ], 
       "housenumber": "45", 
@@ -4122,7 +3999,7 @@
       "street": "Runkstersteenweg"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1"
       ], 
       "hnrlbls": [
@@ -4154,7 +4031,7 @@
       ], 
       "housenumber": "502", 
       "lat": 50.92176244653381, 
-      "lon": 5.2827291493760695, 
+      "lon": 5.282729149376069, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanGebouw", 
@@ -4185,9 +4062,6 @@
       "street": "Runkstersteenweg"
     }, 
     {
-      "apptnrs": [
-        "1.01"
-      ], 
       "hnrlbls": [
         "505"
       ], 
@@ -4212,9 +4086,8 @@
       "street": "Runkstersteenweg"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2"
+      "apptnrs": [
+        "1"
       ], 
       "hnrlbls": [
         "51"
@@ -4244,11 +4117,11 @@
         "511A"
       ], 
       "housenumber": "511A", 
-      "lat": 50.92233415595782, 
-      "lon": 5.282620674278519, 
+      "lat": 50.9249099080794, 
+      "lon": 5.313047177179902, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanStraat", 
       "street": "Runkstersteenweg"
     }, 
     {
@@ -4324,7 +4197,7 @@
       "street": "Runkstersteenweg"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1"
       ], 
       "hnrlbls": [
@@ -4363,7 +4236,7 @@
       "street": "Runkstersteenweg"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3", 
@@ -4515,7 +4388,7 @@
       "street": "Runkstersteenweg"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3", 
@@ -4527,15 +4400,15 @@
         "71"
       ], 
       "housenumber": "71", 
-      "lat": 50.92827030463742, 
-      "lon": 5.3281366492009665, 
+      "lat": 50.92831087880614, 
+      "lon": 5.328726972408227, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Runkstersteenweg"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3"
@@ -4553,102 +4426,90 @@
     }, 
     {
       "hnrlbls": [
-        "73"
-      ], 
-      "housenumber": "73", 
-      "lat": 50.928103408634975, 
-      "lon": 5.327734503348396, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Runkstersteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "73A-73G"
+        "16-73G"
       ], 
       "housenumber": "73A", 
-      "lat": 50.92822481671919, 
-      "lon": 5.32741009153499, 
+      "lat": 50.92813189102061, 
+      "lon": 5.32771445938621, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Runkstersteenweg"
     }, 
     {
       "hnrlbls": [
-        "73A-73G"
+        "16-73G"
       ], 
       "housenumber": "73B", 
-      "lat": 50.92822481671919, 
-      "lon": 5.32741009153499, 
+      "lat": 50.92813189102061, 
+      "lon": 5.32771445938621, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Runkstersteenweg"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2"
       ], 
       "hnrlbls": [
-        "73A-73G"
+        "16-73G"
       ], 
       "housenumber": "73C", 
-      "lat": 50.92822481671919, 
-      "lon": 5.32741009153499, 
+      "lat": 50.92813189102061, 
+      "lon": 5.32771445938621, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Runkstersteenweg"
     }, 
     {
       "hnrlbls": [
-        "73A-73G"
+        "16-73G"
       ], 
       "housenumber": "73D", 
-      "lat": 50.92822481671919, 
-      "lon": 5.32741009153499, 
+      "lat": 50.92813189102061, 
+      "lon": 5.32771445938621, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Runkstersteenweg"
     }, 
     {
       "hnrlbls": [
-        "73A-73G"
+        "16-73G"
       ], 
       "housenumber": "73F", 
-      "lat": 50.92822481671919, 
-      "lon": 5.32741009153499, 
+      "lat": 50.92813189102061, 
+      "lon": 5.32771445938621, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Runkstersteenweg"
     }, 
     {
       "hnrlbls": [
-        "73A-73G"
+        "16-73G"
       ], 
       "housenumber": "73G", 
-      "lat": 50.92822481671919, 
-      "lon": 5.32741009153499, 
+      "lat": 50.92813189102061, 
+      "lon": 5.32771445938621, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Runkstersteenweg"
     }, 
     {
       "hnrlbls": [
-        "73A-73G"
+        "16-73G"
       ], 
       "housenumber": "73e", 
-      "lat": 50.92822481671919, 
-      "lon": 5.32741009153499, 
+      "lat": 50.92813189102061, 
+      "lon": 5.32771445938621, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Runkstersteenweg"
     }, 
     {
@@ -4664,7 +4525,7 @@
       "street": "Runkstersteenweg"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3"
@@ -4681,7 +4542,7 @@
       "street": "Runkstersteenweg"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3", 
@@ -4725,7 +4586,7 @@
       "street": "Runkstersteenweg"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3", 
@@ -4744,7 +4605,7 @@
       "street": "Runkstersteenweg"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2"
       ], 
@@ -4844,10 +4705,6 @@
       "street": "Runkstersteenweg"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
       "hnrlbls": [
         "9"
       ], 
@@ -4884,7 +4741,7 @@
       "street": "Runkstersteenweg"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3", 

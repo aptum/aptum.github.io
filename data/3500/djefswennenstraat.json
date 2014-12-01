@@ -1,7 +1,7 @@
 {
   "addresses": [
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3", 
@@ -59,13 +59,15 @@
       "street": "Djef Swennenstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
+      "apptnrs": [
         "2", 
         "3", 
         "4", 
         "5", 
         "6"
+      ], 
+      "busnrs": [
+        "1"
       ], 
       "hnrlbls": [
         "15"
@@ -83,15 +85,15 @@
         "17"
       ], 
       "housenumber": "17", 
-      "lat": 50.9269034926115, 
-      "lon": 5.320134414337237, 
+      "lat": 50.92670370111141, 
+      "lon": 5.318673039297327, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Djef Swennenstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3", 
@@ -122,16 +124,18 @@
       "street": "Djef Swennenstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3", 
         "4", 
         "5", 
-        "6", 
         "7", 
         "8", 
         "9"
+      ], 
+      "busnrs": [
+        "6"
       ], 
       "hnrlbls": [
         "21"
@@ -181,7 +185,7 @@
       "street": "Djef Swennenstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2"
       ], 
@@ -194,42 +198,6 @@
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanGebouw", 
-      "street": "Djef Swennenstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "29_1-29_2"
-      ], 
-      "housenumber": "29_1", 
-      "lat": 50.92661152285581, 
-      "lon": 5.320929482371004, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Djef Swennenstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "29_1-29_2"
-      ], 
-      "housenumber": "29_2", 
-      "lat": 50.92661152285581, 
-      "lon": 5.320929482371004, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Djef Swennenstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "3"
-      ], 
-      "housenumber": "3", 
-      "lat": 50.927259739277645, 
-      "lon": 5.320515045543559, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Djef Swennenstraat"
     }, 
     {
@@ -254,6 +222,18 @@
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanGebouw", 
+      "street": "Djef Swennenstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "35"
+      ], 
+      "housenumber": "35", 
+      "lat": 50.926586836968674, 
+      "lon": 5.321246333640531, 
+      "municipality": "Hasselt", 
+      "pcode": "3500", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Djef Swennenstraat"
     }, 
     {

@@ -2,20 +2,13 @@
   "addresses": [
     {
       "apptnrs": [
-        "0.02", 
-        "1.01", 
-        "1.02", 
-        "2.01", 
-        "2.02"
-      ], 
-      "busnrs": [
-        "01", 
-        "02", 
-        "11", 
-        "12", 
-        "21", 
-        "22", 
-        "31"
+        "0.1", 
+        "0.2", 
+        "1.1", 
+        "1.2", 
+        "2.1", 
+        "2.2", 
+        "3.1"
       ], 
       "hnrlbls": [
         "1-301"
@@ -29,12 +22,8 @@
       "street": "Hassaluthdreef"
     }, 
     {
-      "busnrs": [
-        "1A", 
-        "8"
-      ], 
       "hnrlbls": [
-        "4-12B"
+        "6-12B"
       ], 
       "housenumber": "10", 
       "lat": 50.90876595554725, 
@@ -45,7 +34,7 @@
       "street": "Hassaluthdreef"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "2", 
         "4", 
         "5", 
@@ -53,8 +42,12 @@
         "7", 
         "8"
       ], 
+      "busnrs": [
+        "1", 
+        "3"
+      ], 
       "hnrlbls": [
-        "4-12B"
+        "6-12B"
       ], 
       "housenumber": "10A", 
       "lat": 50.90876595554725, 
@@ -65,20 +58,23 @@
       "street": "Hassaluthdreef"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "10", 
         "11", 
+        "2", 
         "3", 
-        "4", 
         "5", 
         "6", 
         "7", 
         "8", 
         "9"
       ], 
+      "busnrs": [
+        "4"
+      ], 
       "hnrlbls": [
-        "4-12B"
+        "6-12B"
       ], 
       "housenumber": "10B", 
       "lat": 50.90876595554725, 
@@ -101,14 +97,8 @@
       "street": "Hassaluthdreef"
     }, 
     {
-      "apptnrs": [
-        "1"
-      ], 
-      "busnrs": [
-        "10"
-      ], 
       "hnrlbls": [
-        "4-12B"
+        "6-12B"
       ], 
       "housenumber": "12", 
       "lat": 50.90876595554725, 
@@ -120,9 +110,6 @@
     }, 
     {
       "apptnrs": [
-        "0.1"
-      ], 
-      "busnrs": [
         "1", 
         "3", 
         "4", 
@@ -131,8 +118,11 @@
         "7", 
         "8"
       ], 
+      "busnrs": [
+        "2"
+      ], 
       "hnrlbls": [
-        "4-12B"
+        "6-12B"
       ], 
       "housenumber": "12A", 
       "lat": 50.90876595554725, 
@@ -143,7 +133,7 @@
       "street": "Hassaluthdreef"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "10", 
         "11", 
@@ -155,8 +145,11 @@
         "8", 
         "9"
       ], 
+      "busnrs": [
+        "2"
+      ], 
       "hnrlbls": [
-        "4-12B"
+        "6-12B"
       ], 
       "housenumber": "12B", 
       "lat": 50.90876595554725, 
@@ -171,7 +164,7 @@
         "13"
       ], 
       "housenumber": "13", 
-      "lat": 50.90790084601616, 
+      "lat": 50.90790084601617, 
       "lon": 5.354657651449162, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
@@ -239,11 +232,20 @@
       "street": "Hassaluthdreef"
     }, 
     {
-      "busnrs": [
-        "5"
-      ], 
       "hnrlbls": [
-        "2-2E"
+        "19-37"
+      ], 
+      "housenumber": "19", 
+      "lat": 50.9073131232377, 
+      "lon": 5.354982999015265, 
+      "municipality": "Hasselt", 
+      "pcode": "3500", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Hassaluthdreef"
+    }, 
+    {
+      "hnrlbls": [
+        "2-2B"
       ], 
       "housenumber": "2", 
       "lat": 50.908470682353126, 
@@ -267,6 +269,18 @@
     }, 
     {
       "hnrlbls": [
+        "19-37"
+      ], 
+      "housenumber": "21", 
+      "lat": 50.9073131232377, 
+      "lon": 5.354982999015265, 
+      "municipality": "Hasselt", 
+      "pcode": "3500", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Hassaluthdreef"
+    }, 
+    {
+      "hnrlbls": [
         "22"
       ], 
       "housenumber": "22", 
@@ -279,11 +293,35 @@
     }, 
     {
       "hnrlbls": [
+        "19-37"
+      ], 
+      "housenumber": "23", 
+      "lat": 50.9073131232377, 
+      "lon": 5.354982999015265, 
+      "municipality": "Hasselt", 
+      "pcode": "3500", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Hassaluthdreef"
+    }, 
+    {
+      "hnrlbls": [
         "24"
       ], 
       "housenumber": "24", 
       "lat": 50.909738164584, 
       "lon": 5.35300796781218, 
+      "municipality": "Hasselt", 
+      "pcode": "3500", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Hassaluthdreef"
+    }, 
+    {
+      "hnrlbls": [
+        "19-37"
+      ], 
+      "housenumber": "25", 
+      "lat": 50.9073131232377, 
+      "lon": 5.354982999015265, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanPerceelGrb", 
@@ -303,6 +341,18 @@
     }, 
     {
       "hnrlbls": [
+        "19-37"
+      ], 
+      "housenumber": "27", 
+      "lat": 50.9073131232377, 
+      "lon": 5.354982999015265, 
+      "municipality": "Hasselt", 
+      "pcode": "3500", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Hassaluthdreef"
+    }, 
+    {
+      "hnrlbls": [
         "28"
       ], 
       "housenumber": "28", 
@@ -314,10 +364,20 @@
       "street": "Hassaluthdreef"
     }, 
     {
-      "busnrs": [
+      "hnrlbls": [
+        "19-37"
+      ], 
+      "housenumber": "29", 
+      "lat": 50.9073131232377, 
+      "lon": 5.354982999015265, 
+      "municipality": "Hasselt", 
+      "pcode": "3500", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Hassaluthdreef"
+    }, 
+    {
+      "apptnrs": [
         "1", 
-        "10", 
-        "11", 
         "12", 
         "13", 
         "14", 
@@ -332,8 +392,12 @@
         "8", 
         "9"
       ], 
+      "busnrs": [
+        "10", 
+        "11"
+      ], 
       "hnrlbls": [
-        "2-2E"
+        "2-2B"
       ], 
       "housenumber": "2B", 
       "lat": 50.908470682353126, 
@@ -344,41 +408,19 @@
       "street": "Hassaluthdreef"
     }, 
     {
-      "hnrlbls": [
-        "2-2E"
-      ], 
-      "housenumber": "2C", 
-      "lat": 50.908470682353126, 
-      "lon": 5.3548881778747655, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Hassaluthdreef"
-    }, 
-    {
-      "hnrlbls": [
-        "2-2E"
-      ], 
-      "housenumber": "2E", 
-      "lat": 50.908470682353126, 
-      "lon": 5.3548881778747655, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Hassaluthdreef"
-    }, 
-    {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
-        "3", 
         "4", 
         "5", 
         "6", 
         "7"
       ], 
+      "busnrs": [
+        "3"
+      ], 
       "hnrlbls": [
-        "2-2E"
+        "2-2B"
       ], 
       "housenumber": "2a", 
       "lat": 50.908470682353126, 
@@ -414,11 +456,35 @@
     }, 
     {
       "hnrlbls": [
+        "19-37"
+      ], 
+      "housenumber": "31", 
+      "lat": 50.9073131232377, 
+      "lon": 5.354982999015265, 
+      "municipality": "Hasselt", 
+      "pcode": "3500", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Hassaluthdreef"
+    }, 
+    {
+      "hnrlbls": [
         "32"
       ], 
       "housenumber": "32", 
       "lat": 50.910055418176135, 
       "lon": 5.353030408507566, 
+      "municipality": "Hasselt", 
+      "pcode": "3500", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Hassaluthdreef"
+    }, 
+    {
+      "hnrlbls": [
+        "19-37"
+      ], 
+      "housenumber": "33", 
+      "lat": 50.9073131232377, 
+      "lon": 5.354982999015265, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanPerceelGrb", 
@@ -438,6 +504,18 @@
     }, 
     {
       "hnrlbls": [
+        "19-37"
+      ], 
+      "housenumber": "35", 
+      "lat": 50.9073131232377, 
+      "lon": 5.354982999015265, 
+      "municipality": "Hasselt", 
+      "pcode": "3500", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Hassaluthdreef"
+    }, 
+    {
+      "hnrlbls": [
         "36"
       ], 
       "housenumber": "36", 
@@ -446,6 +524,18 @@
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanGebouw", 
+      "street": "Hassaluthdreef"
+    }, 
+    {
+      "hnrlbls": [
+        "19-37"
+      ], 
+      "housenumber": "37", 
+      "lat": 50.9073131232377, 
+      "lon": 5.354982999015265, 
+      "municipality": "Hasselt", 
+      "pcode": "3500", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Hassaluthdreef"
     }, 
     {
@@ -467,18 +557,6 @@
       "housenumber": "39", 
       "lat": 50.90879595078478, 
       "lon": 5.353377951179538, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Hassaluthdreef"
-    }, 
-    {
-      "hnrlbls": [
-        "4-12B"
-      ], 
-      "housenumber": "4", 
-      "lat": 50.90876595554725, 
-      "lon": 5.354562789591886, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanGebouw", 
@@ -561,7 +639,7 @@
         "46"
       ], 
       "housenumber": "46", 
-      "lat": 50.91045600084355, 
+      "lat": 50.910456000843546, 
       "lon": 5.352324834417262, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
@@ -599,30 +677,6 @@
       "housenumber": "49", 
       "lat": 50.90907431542763, 
       "lon": 5.352999300083193, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Hassaluthdreef"
-    }, 
-    {
-      "hnrlbls": [
-        "4-12B"
-      ], 
-      "housenumber": "4A", 
-      "lat": 50.90876595554725, 
-      "lon": 5.354562789591886, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Hassaluthdreef"
-    }, 
-    {
-      "hnrlbls": [
-        "4-12B"
-      ], 
-      "housenumber": "4B", 
-      "lat": 50.90876595554725, 
-      "lon": 5.354562789591886, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanGebouw", 
@@ -762,7 +816,7 @@
     }, 
     {
       "hnrlbls": [
-        "4-12B"
+        "6-12B"
       ], 
       "housenumber": "6", 
       "lat": 50.90876595554725, 
@@ -885,20 +939,8 @@
         "69"
       ], 
       "housenumber": "69", 
-      "lat": 50.910330218440194, 
+      "lat": 50.9103302184402, 
       "lon": 5.351800329294971, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Hassaluthdreef"
-    }, 
-    {
-      "hnrlbls": [
-        "4-12B"
-      ], 
-      "housenumber": "6B", 
-      "lat": 50.90876595554725, 
-      "lon": 5.354562789591886, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanGebouw", 
@@ -990,7 +1032,7 @@
     }, 
     {
       "hnrlbls": [
-        "4-12B"
+        "6-12B"
       ], 
       "housenumber": "8", 
       "lat": 50.90876595554725, 
@@ -1007,30 +1049,6 @@
       "housenumber": "81", 
       "lat": 50.910746503357935, 
       "lon": 5.351344487537429, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Hassaluthdreef"
-    }, 
-    {
-      "hnrlbls": [
-        "4-12B"
-      ], 
-      "housenumber": "8A", 
-      "lat": 50.90876595554725, 
-      "lon": 5.354562789591886, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Hassaluthdreef"
-    }, 
-    {
-      "hnrlbls": [
-        "4-12B"
-      ], 
-      "housenumber": "8B", 
-      "lat": 50.90876595554725, 
-      "lon": 5.354562789591886, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanGebouw", 

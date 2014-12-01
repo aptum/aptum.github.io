@@ -1,9 +1,6 @@
 {
   "addresses": [
     {
-      "busnrs": [
-        "2"
-      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -76,9 +73,12 @@
       "street": "Isabellastraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "2", 
         "3"
+      ], 
+      "busnrs": [
+        "1"
       ], 
       "hnrlbls": [
         "16-41"
@@ -104,9 +104,12 @@
       "street": "Isabellastraat"
     }, 
     {
+      "apptnrs": [
+        "3"
+      ], 
       "busnrs": [
         "1", 
-        "3"
+        "2"
       ], 
       "hnrlbls": [
         "19"
@@ -133,14 +136,14 @@
     }, 
     {
       "hnrlbls": [
-        "21"
+        "15-21"
       ], 
       "housenumber": "21", 
-      "lat": 50.933099249515664, 
-      "lon": 5.3369053438937355, 
+      "lat": 50.932438860245774, 
+      "lon": 5.3366848540685226, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "afgeleidVanStraat", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Isabellastraat"
     }, 
     {
@@ -180,7 +183,7 @@
       "street": "Isabellastraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1"
       ], 
       "hnrlbls": [
@@ -195,7 +198,7 @@
       "street": "Isabellastraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3", 
@@ -221,11 +224,11 @@
         "46"
       ], 
       "housenumber": "46", 
-      "lat": 50.933120653032105, 
-      "lon": 5.336490081792156, 
+      "lat": 50.93308746112705, 
+      "lon": 5.336415986982724, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Isabellastraat"
     }, 
     {
@@ -253,10 +256,9 @@
       "street": "Isabellastraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
-        "2", 
-        "3"
+        "2"
       ], 
       "hnrlbls": [
         "50"
@@ -270,21 +272,22 @@
       "street": "Isabellastraat"
     }, 
     {
+      "apptnrs": [
+        "3", 
+        "6", 
+        "7"
+      ], 
       "busnrs": [
         "1", 
-        "3", 
+        "2", 
         "4", 
-        "5", 
-        "6", 
-        "7", 
-        "8", 
-        "9"
+        "5"
       ], 
       "hnrlbls": [
         "52"
       ], 
       "housenumber": "52", 
-      "lat": 50.93319176575446, 
+      "lat": 50.933191765754444, 
       "lon": 5.336697125698609, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
@@ -316,7 +319,7 @@
       "street": "Isabellastraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3", 
@@ -358,28 +361,31 @@
       "street": "Isabellastraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
-        "2", 
-        "3", 
-        "4"
+        "3"
+      ], 
+      "busnrs": [
+        "2"
       ], 
       "hnrlbls": [
         "66"
       ], 
       "housenumber": "66", 
-      "lat": 50.93335209830723, 
-      "lon": 5.337270075602116, 
+      "lat": 50.93333773055147, 
+      "lon": 5.337017396011503, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "geinterpoleerdObvWegverbinding", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Isabellastraat"
     }, 
     {
-      "busnrs": [
-        "1", 
+      "apptnrs": [
         "2", 
         "3"
+      ], 
+      "busnrs": [
+        "1"
       ], 
       "hnrlbls": [
         "68"

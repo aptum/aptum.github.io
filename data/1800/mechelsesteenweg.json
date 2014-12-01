@@ -110,7 +110,7 @@
         "113"
       ], 
       "housenumber": "113", 
-      "lat": 50.93483430664197, 
+      "lat": 50.93483430664196, 
       "lon": 4.4272503394126215, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
@@ -142,8 +142,12 @@
         "3/1", 
         "3/2"
       ], 
+      "busnrs": [
+        "O/01", 
+        "O/02"
+      ], 
       "hnrlbls": [
-        "115-115O"
+        "115"
       ], 
       "housenumber": "115", 
       "lat": 50.93491570432745, 
@@ -151,22 +155,6 @@
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
       "source": "manueleAanduidingVanPerceel", 
-      "street": "Mechelsesteenweg"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
-      "hnrlbls": [
-        "115-115O"
-      ], 
-      "housenumber": "115O", 
-      "lat": 50.93491570432745, 
-      "lon": 4.427340066124761, 
-      "municipality": "Vilvoorde", 
-      "pcode": "1800", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Mechelsesteenweg"
     }, 
     {
@@ -247,31 +235,19 @@
         "3/1", 
         "3/2"
       ], 
+      "busnrs": [
+        "O/01", 
+        "O/02"
+      ], 
       "hnrlbls": [
-        "125-127"
+        "125"
       ], 
       "housenumber": "125", 
-      "lat": 50.93554981787969, 
-      "lon": 4.428029985799503, 
+      "lat": 50.93549810896973, 
+      "lon": 4.427967030487959, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Mechelsesteenweg"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
-      "hnrlbls": [
-        "125O"
-      ], 
-      "housenumber": "125O", 
-      "lat": 50.935601564006234, 
-      "lon": 4.428092931938426, 
-      "municipality": "Vilvoorde", 
-      "pcode": "1800", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Mechelsesteenweg"
     }, 
     {
@@ -285,31 +261,19 @@
         "3/1", 
         "3/2"
       ], 
+      "busnrs": [
+        "O/01", 
+        "O/02"
+      ], 
       "hnrlbls": [
-        "125-127"
+        "127"
       ], 
       "housenumber": "127", 
-      "lat": 50.93554981787969, 
-      "lon": 4.428029985799503, 
+      "lat": 50.935601551802364, 
+      "lon": 4.428092879771329, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Mechelsesteenweg"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
-      "hnrlbls": [
-        "127O"
-      ], 
-      "housenumber": "127O", 
-      "lat": 50.93549807171861, 
-      "lon": 4.4279670397994275, 
-      "municipality": "Vilvoorde", 
-      "pcode": "1800", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Mechelsesteenweg"
     }, 
     {
@@ -329,11 +293,11 @@
         "129"
       ], 
       "housenumber": "129", 
-      "lat": 50.93577413594862, 
-      "lon": 4.428312095448442, 
+      "lat": 50.93572829131722, 
+      "lon": 4.428264029773529, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "afgeleidVanGebouw", 
       "street": "Mechelsesteenweg"
     }, 
     {
@@ -353,11 +317,11 @@
         "131"
       ], 
       "housenumber": "131", 
-      "lat": 50.93583216302068, 
-      "lon": 4.428397243324237, 
+      "lat": 50.935819842516786, 
+      "lon": 4.428360130113097, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "afgeleidVanGebouw", 
       "street": "Mechelsesteenweg"
     }, 
     {
@@ -365,8 +329,8 @@
         "132"
       ], 
       "housenumber": "132", 
-      "lat": 50.93378106137058, 
-      "lon": 4.426473141520474, 
+      "lat": 50.93378106137057, 
+      "lon": 4.426473141520475, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
       "source": "manueleAanduidingVanPerceel", 
@@ -545,7 +509,7 @@
       ], 
       "housenumber": "155", 
       "lat": 50.936552456277724, 
-      "lon": 4.429300558594263, 
+      "lon": 4.429300558594262, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
       "source": "manueleAanduidingVanPerceel", 
@@ -587,11 +551,11 @@
         "159"
       ], 
       "housenumber": "159", 
-      "lat": 50.93677644302065, 
-      "lon": 4.429004937655727, 
+      "lat": 50.936591522455615, 
+      "lon": 4.429445585555271, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Mechelsesteenweg"
     }, 
     {
@@ -719,11 +683,11 @@
         "175"
       ], 
       "housenumber": "175", 
-      "lat": 50.937042505897296, 
-      "lon": 4.429903129133169, 
+      "lat": 50.93700855802248, 
+      "lon": 4.4298724483232945, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "afgeleidVanGebouw", 
       "street": "Mechelsesteenweg"
     }, 
     {
@@ -731,11 +695,11 @@
         "177"
       ], 
       "housenumber": "177", 
-      "lat": 50.93700854254044, 
-      "lon": 4.429872497022693, 
+      "lat": 50.93704251133375, 
+      "lon": 4.429903068014543, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "afgeleidVanGebouw", 
       "street": "Mechelsesteenweg"
     }, 
     {
@@ -927,8 +891,8 @@
         "195"
       ], 
       "housenumber": "195", 
-      "lat": 50.937673206815546, 
-      "lon": 4.42970691828313, 
+      "lat": 50.937354953368924, 
+      "lon": 4.430356815369076, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
       "source": "manueleAanduidingVanPerceel", 
@@ -1294,7 +1258,7 @@
         "231"
       ], 
       "housenumber": "231", 
-      "lat": 50.93809733401532, 
+      "lat": 50.93809733401531, 
       "lon": 4.43153962883229, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
@@ -1503,7 +1467,7 @@
         "257"
       ], 
       "housenumber": "257", 
-      "lat": 50.939596754901316, 
+      "lat": 50.9395967549013, 
       "lon": 4.433970853586266, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
@@ -1515,11 +1479,11 @@
         "257A"
       ], 
       "housenumber": "257A", 
-      "lat": 50.939975874741044, 
-      "lon": 4.43357372557673, 
+      "lat": 50.93968801753417, 
+      "lon": 4.434079402953546, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "afgeleidVanGebouw", 
       "street": "Mechelsesteenweg"
     }, 
     {
@@ -1539,11 +1503,11 @@
         "259"
       ], 
       "housenumber": "259", 
-      "lat": 50.93969636324948, 
-      "lon": 4.434118105740948, 
+      "lat": 50.93970467199281, 
+      "lon": 4.434156818533216, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "afgeleidVanGebouw", 
       "street": "Mechelsesteenweg"
     }, 
     {
@@ -1708,11 +1672,11 @@
         "285"
       ], 
       "housenumber": "285", 
-      "lat": 50.94422563622843, 
-      "lon": 4.440764951009704, 
+      "lat": 50.94385781605453, 
+      "lon": 4.440193431777381, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "afgeleidVanGebouw", 
       "street": "Mechelsesteenweg"
     }, 
     {
@@ -1720,11 +1684,11 @@
         "287"
       ], 
       "housenumber": "287", 
-      "lat": 50.94417067391021, 
-      "lon": 4.440680915638665, 
+      "lat": 50.94417065132528, 
+      "lon": 4.440680961138295, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "afgeleidVanGebouw", 
       "street": "Mechelsesteenweg"
     }, 
     {
@@ -1881,7 +1845,7 @@
         "309"
       ], 
       "housenumber": "309", 
-      "lat": 50.94648115905897, 
+      "lat": 50.94648115905898, 
       "lon": 4.4439900162454675, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
@@ -2436,11 +2400,11 @@
         "400"
       ], 
       "housenumber": "400", 
-      "lat": 50.93852316027114, 
-      "lon": 4.432849527851967, 
+      "lat": 50.9383439793964, 
+      "lon": 4.432564264456241, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "afgeleidVanGebouw", 
       "street": "Mechelsesteenweg"
     }, 
     {
@@ -2484,11 +2448,11 @@
         "406"
       ], 
       "housenumber": "406", 
-      "lat": 50.938343981129975, 
-      "lon": 4.432564312068852, 
+      "lat": 50.93852317011584, 
+      "lon": 4.432849477105334, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "afgeleidVanGebouw", 
       "street": "Mechelsesteenweg"
     }, 
     {
@@ -2508,7 +2472,7 @@
         "408"
       ], 
       "housenumber": "408", 
-      "lat": 50.938634065704676, 
+      "lat": 50.93863406570468, 
       "lon": 4.433052560376235, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
@@ -2559,14 +2523,14 @@
         "5"
       ], 
       "hnrlbls": [
-        "41-41O"
+        "41"
       ], 
       "housenumber": "41", 
-      "lat": 50.93341494208739, 
-      "lon": 4.425163647768181, 
+      "lat": 50.93341496864655, 
+      "lon": 4.425163643125685, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "afgeleidVanGebouw", 
       "street": "Mechelsesteenweg"
     }, 
     {
@@ -2649,24 +2613,6 @@
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
       "source": "manueleAanduidingVanPerceel", 
-      "street": "Mechelsesteenweg"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4"
-      ], 
-      "hnrlbls": [
-        "41-41O"
-      ], 
-      "housenumber": "41O", 
-      "lat": 50.93341494208739, 
-      "lon": 4.425163647768181, 
-      "municipality": "Vilvoorde", 
-      "pcode": "1800", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Mechelsesteenweg"
     }, 
     {
@@ -2756,11 +2702,11 @@
         "49"
       ], 
       "housenumber": "49", 
-      "lat": 50.93378548143905, 
-      "lon": 4.424976461817964, 
+      "lat": 50.93348930862956, 
+      "lon": 4.425462926965744, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Mechelsesteenweg"
     }, 
     {
@@ -2857,11 +2803,11 @@
         "51"
       ], 
       "housenumber": "51", 
-      "lat": 50.93354135631877, 
-      "lon": 4.425481601949172, 
+      "lat": 50.93355596444922, 
+      "lon": 4.425554621710873, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Mechelsesteenweg"
     }, 
     {
@@ -3161,11 +3107,11 @@
         "63"
       ], 
       "housenumber": "63", 
-      "lat": 50.933839257848156, 
-      "lon": 4.425672306509069, 
+      "lat": 50.93376096156186, 
+      "lon": 4.425837680102529, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Mechelsesteenweg"
     }, 
     {
@@ -3350,11 +3296,11 @@
         "71"
       ], 
       "housenumber": "71", 
-      "lat": 50.93406999623064, 
-      "lon": 4.425706162659923, 
+      "lat": 50.93396031040079, 
+      "lon": 4.426036148293302, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "afgeleidVanGebouw", 
       "street": "Mechelsesteenweg"
     }, 
     {

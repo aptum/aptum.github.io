@@ -1,13 +1,12 @@
 {
   "addresses": [
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3", 
         "4", 
-        "5", 
-        "6"
+        "5"
       ], 
       "hnrlbls": [
         "1-23"
@@ -21,10 +20,8 @@
       "street": "Villerspark"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
-        "10", 
-        "2", 
         "3", 
         "4", 
         "5", 
@@ -32,6 +29,9 @@
         "7", 
         "8", 
         "9"
+      ], 
+      "busnrs": [
+        "2"
       ], 
       "hnrlbls": [
         "1-23"
@@ -45,17 +45,14 @@
       "street": "Villerspark"
     }, 
     {
-      "busnrs": [
-        "1", 
+      "apptnrs": [
         "10", 
         "11", 
         "12", 
         "13", 
-        "14", 
         "15", 
         "16", 
         "17", 
-        "2", 
         "3", 
         "4", 
         "5", 
@@ -63,6 +60,11 @@
         "7", 
         "8", 
         "9"
+      ], 
+      "busnrs": [
+        "1", 
+        "14", 
+        "2"
       ], 
       "hnrlbls": [
         "1-23"
@@ -76,10 +78,8 @@
       "street": "Villerspark"
     }, 
     {
-      "busnrs": [
-        "1", 
+      "apptnrs": [
         "10", 
-        "2", 
         "3", 
         "4", 
         "5", 
@@ -87,6 +87,10 @@
         "7", 
         "8", 
         "9"
+      ], 
+      "busnrs": [
+        "1", 
+        "2"
       ], 
       "hnrlbls": [
         "1-23"
@@ -100,13 +104,9 @@
       "street": "Villerspark"
     }, 
     {
-      "busnrs": [
-        "1", 
+      "apptnrs": [
         "10", 
         "11", 
-        "12", 
-        "13", 
-        "2", 
         "3", 
         "4", 
         "5", 
@@ -114,6 +114,10 @@
         "7", 
         "8", 
         "9"
+      ], 
+      "busnrs": [
+        "1", 
+        "2"
       ], 
       "hnrlbls": [
         "1-23"
@@ -124,30 +128,6 @@
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanGebouw", 
-      "street": "Villerspark"
-    }, 
-    {
-      "hnrlbls": [
-        "6-7"
-      ], 
-      "housenumber": "6", 
-      "lat": 50.92609424871263, 
-      "lon": 5.3375853125671355, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "afgeleidVanStraat", 
-      "street": "Villerspark"
-    }, 
-    {
-      "hnrlbls": [
-        "6-7"
-      ], 
-      "housenumber": "7", 
-      "lat": 50.92609424871263, 
-      "lon": 5.3375853125671355, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "afgeleidVanStraat", 
       "street": "Villerspark"
     }
   ]

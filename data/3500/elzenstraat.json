@@ -1,7 +1,7 @@
 {
   "addresses": [
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2"
       ], 
@@ -13,11 +13,11 @@
       "lon": 5.330910542267855, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Elzenstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3", 
@@ -39,16 +39,6 @@
       "street": "Elzenstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6", 
-        "7", 
-        "8"
-      ], 
       "hnrlbls": [
         "9-11"
       ], 
@@ -61,7 +51,7 @@
       "street": "Elzenstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3"
@@ -78,7 +68,7 @@
       "street": "Elzenstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "10", 
         "11", 
@@ -103,7 +93,7 @@
       "street": "Elzenstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3", 
@@ -124,14 +114,17 @@
       "street": "Elzenstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
-        "2", 
         "3", 
         "5", 
         "6", 
         "7", 
         "8"
+      ], 
+      "busnrs": [
+        "2", 
+        "4"
       ], 
       "hnrlbls": [
         "13-15"
@@ -145,11 +138,14 @@
       "street": "Elzenstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "3", 
-        "4", 
         "5"
+      ], 
+      "busnrs": [
+        "2", 
+        "4"
       ], 
       "hnrlbls": [
         "8-16"
@@ -163,14 +159,16 @@
       "street": "Elzenstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3", 
-        "4", 
         "5", 
-        "6", 
         "7"
+      ], 
+      "busnrs": [
+        "4", 
+        "6"
       ], 
       "hnrlbls": [
         "17"
@@ -184,7 +182,7 @@
       "street": "Elzenstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3", 
@@ -230,18 +228,17 @@
       "street": "Elzenstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3", 
         "4", 
         "5", 
         "6", 
-        "7", 
-        "8"
+        "7"
       ], 
       "hnrlbls": [
-        "21-21B"
+        "21"
       ], 
       "housenumber": "21", 
       "lat": 50.9261777862247, 
@@ -252,34 +249,19 @@
       "street": "Elzenstraat"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "21-21B"
-      ], 
-      "housenumber": "21B", 
-      "lat": 50.9261777862247, 
-      "lon": 5.32953194106784, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Elzenstraat"
-    }, 
-    {
       "hnrlbls": [
         "23"
       ], 
       "housenumber": "23", 
-      "lat": 50.92602359547706, 
-      "lon": 5.32908284287628, 
+      "lat": 50.92620119295789, 
+      "lon": 5.329308241264887, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "geinterpoleerdObvWegverbinding", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Elzenstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3", 
@@ -297,7 +279,7 @@
       "street": "Elzenstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3"
@@ -314,7 +296,7 @@
       "street": "Elzenstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3", 
@@ -335,15 +317,14 @@
       "street": "Elzenstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3", 
         "4", 
         "5", 
         "6", 
-        "7", 
-        "8"
+        "7"
       ], 
       "hnrlbls": [
         "8-12"
@@ -357,14 +338,16 @@
       "street": "Elzenstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3", 
         "4", 
         "5", 
-        "6", 
         "7"
+      ], 
+      "busnrs": [
+        "6"
       ], 
       "hnrlbls": [
         "9-11"

@@ -40,6 +40,9 @@
       "street": "Landegemdorp"
     }, 
     {
+      "busnrs": [
+        "0101"
+      ], 
       "hnrlbls": [
         "13"
       ], 
@@ -76,19 +79,15 @@
       "street": "Landegemdorp"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "101"
-      ], 
       "hnrlbls": [
         "16"
       ], 
       "housenumber": "16", 
-      "lat": 51.056883303628744, 
-      "lon": 3.5739014169368026, 
+      "lat": 51.0569485458314, 
+      "lon": 3.573622203842836, 
       "municipality": "Nevele", 
       "pcode": "9850", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Landegemdorp"
     }, 
     {
@@ -143,8 +142,8 @@
         "2"
       ], 
       "housenumber": "2", 
-      "lat": 51.05658662601363, 
-      "lon": 3.5720444223954173, 
+      "lat": 51.05658661518198, 
+      "lon": 3.572044450699867, 
       "municipality": "Nevele", 
       "pcode": "9850", 
       "source": "afgeleidVanGebouw", 
@@ -179,8 +178,8 @@
         "22"
       ], 
       "housenumber": "22", 
-      "lat": 51.0573375884739, 
-      "lon": 3.5721301596807526, 
+      "lat": 51.0573376326183, 
+      "lon": 3.572130096821013, 
       "municipality": "Nevele", 
       "pcode": "9850", 
       "source": "afgeleidVanGebouw", 
@@ -409,10 +408,11 @@
     }, 
     {
       "busnrs": [
+        "0001", 
+        "0101", 
+        "0102", 
         "0201", 
-        "1", 
-        "101", 
-        "202"
+        "0202"
       ], 
       "hnrlbls": [
         "6"

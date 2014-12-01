@@ -381,7 +381,7 @@
       ], 
       "housenumber": "150", 
       "lat": 50.90366123884198, 
-      "lon": 4.371658398368191, 
+      "lon": 4.37165839836819, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
       "source": "manueleAanduidingVanPerceel", 
@@ -488,7 +488,7 @@
         "160"
       ], 
       "housenumber": "160", 
-      "lat": 50.90316180132511, 
+      "lat": 50.9031618013251, 
       "lon": 4.371254756224173, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
@@ -587,11 +587,11 @@
         "168"
       ], 
       "housenumber": "168", 
-      "lat": 50.9030381167971, 
-      "lon": 4.370897774687539, 
+      "lat": 50.90295745976216, 
+      "lon": 4.3710657038654, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Steenstraat"
     }, 
     {
@@ -634,7 +634,7 @@
         "170"
       ], 
       "housenumber": "170", 
-      "lat": 50.90292224118396, 
+      "lat": 50.902922241183965, 
       "lon": 4.371006238349224, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
@@ -702,6 +702,18 @@
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
       "source": "manueleAanduidingVanPerceel", 
+      "street": "Steenstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "181"
+      ], 
+      "housenumber": "181", 
+      "lat": 50.90317943138849, 
+      "lon": 4.3717532832530255, 
+      "municipality": "Vilvoorde", 
+      "pcode": "1800", 
+      "source": "afgeleidVanGebouw", 
       "street": "Steenstraat"
     }, 
     {
@@ -942,31 +954,19 @@
         "2", 
         "3"
       ], 
+      "busnrs": [
+        "O/01", 
+        "O/02"
+      ], 
       "hnrlbls": [
-        "33-33O"
+        "33"
       ], 
       "housenumber": "33", 
-      "lat": 50.90633164258718, 
-      "lon": 4.378687386492065, 
+      "lat": 50.90633168150677, 
+      "lon": 4.378687416289888, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Steenstraat"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
-      "hnrlbls": [
-        "33-33O"
-      ], 
-      "housenumber": "33O", 
-      "lat": 50.90633164258718, 
-      "lon": 4.378687386492065, 
-      "municipality": "Vilvoorde", 
-      "pcode": "1800", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Steenstraat"
     }, 
     {
@@ -1010,7 +1010,7 @@
         "37"
       ], 
       "housenumber": "37", 
-      "lat": 50.906276828918394, 
+      "lat": 50.9062768289184, 
       "lon": 4.378447953847464, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
@@ -1022,7 +1022,7 @@
         "38"
       ], 
       "housenumber": "38", 
-      "lat": 50.90588959892628, 
+      "lat": 50.90588959892627, 
       "lon": 4.37569199904593, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
@@ -1396,8 +1396,8 @@
         "70"
       ], 
       "housenumber": "70", 
-      "lat": 50.905467816976795, 
-      "lon": 4.374175675847099, 
+      "lat": 50.90546781697678, 
+      "lon": 4.374175675847098, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
       "source": "manueleAanduidingVanPerceel", 

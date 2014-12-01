@@ -2,8 +2,8 @@
   "addresses": [
     {
       "apptnrs": [
-        "2.01", 
-        "3.01"
+        "3.01", 
+        "3.02"
       ], 
       "hnrlbls": [
         "1"
@@ -65,12 +65,15 @@
       "street": "Capucienenstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "2", 
         "3", 
         "4", 
-        "5", 
         "6"
+      ], 
+      "busnrs": [
+        "1", 
+        "5"
       ], 
       "hnrlbls": [
         "18-26"
@@ -108,11 +111,16 @@
       "street": "Capucienenstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "3", 
         "5", 
         "6", 
         "7"
+      ], 
+      "busnrs": [
+        "1", 
+        "2", 
+        "4"
       ], 
       "hnrlbls": [
         "18-26"
@@ -150,12 +158,16 @@
       "street": "Capucienenstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "3", 
         "4", 
-        "5", 
         "6", 
         "7"
+      ], 
+      "busnrs": [
+        "1", 
+        "2", 
+        "5"
       ], 
       "hnrlbls": [
         "18-26"
@@ -182,7 +194,7 @@
     }, 
     {
       "hnrlbls": [
-        "4-28"
+        "28"
       ], 
       "housenumber": "28", 
       "lat": 50.92884841237922, 
@@ -190,61 +202,6 @@
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanGebouw", 
-      "street": "Capucienenstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "28A"
-      ], 
-      "housenumber": "28A", 
-      "lat": 50.928848145079854, 
-      "lon": 5.3412750991737195, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Capucienenstraat"
-    }, 
-    {
-      "apptnrs": [
-        "1.01", 
-        "1.02"
-      ], 
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "3"
-      ], 
-      "housenumber": "3", 
-      "lat": 50.928770753680816, 
-      "lon": 5.340980450991159, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Capucienenstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "4-28"
-      ], 
-      "housenumber": "4", 
-      "lat": 50.92884841237922, 
-      "lon": 5.3412753892260225, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Capucienenstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "/zn-40"
-      ], 
-      "housenumber": "40", 
-      "lat": 50.92837675712637, 
-      "lon": 5.340487200024906, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "afgeleidVanStraat", 
       "street": "Capucienenstraat"
     }
   ]

@@ -118,6 +118,10 @@
       "street": "Luikersteenweg"
     }, 
     {
+      "busnrs": [
+        "001", 
+        "101"
+      ], 
       "hnrlbls": [
         "11"
       ], 
@@ -340,7 +344,10 @@
     }, 
     {
       "busnrs": [
-        "101"
+        "001", 
+        "101", 
+        "201", 
+        "301"
       ], 
       "hnrlbls": [
         "13"
@@ -485,18 +492,6 @@
       "housenumber": "139", 
       "lat": 50.80646584598446, 
       "lon": 5.197240607497685, 
-      "municipality": "Sint-Truiden", 
-      "pcode": "3800", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Luikersteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "14-18"
-      ], 
-      "housenumber": "14", 
-      "lat": 50.812279843991234, 
-      "lon": 5.189546237714518, 
       "municipality": "Sint-Truiden", 
       "pcode": "3800", 
       "source": "afgeleidVanGebouw", 
@@ -669,6 +664,18 @@
     }, 
     {
       "hnrlbls": [
+        "151-177B"
+      ], 
+      "housenumber": "153A", 
+      "lat": 50.80513798575746, 
+      "lon": 5.197585233692881, 
+      "municipality": "Sint-Truiden", 
+      "pcode": "3800", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Luikersteenweg"
+    }, 
+    {
+      "hnrlbls": [
         "154"
       ], 
       "housenumber": "154", 
@@ -734,18 +741,6 @@
       "housenumber": "159", 
       "lat": 50.805579209294706, 
       "lon": 5.199249156246518, 
-      "municipality": "Sint-Truiden", 
-      "pcode": "3800", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Luikersteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "14-18"
-      ], 
-      "housenumber": "16", 
-      "lat": 50.812279843991234, 
-      "lon": 5.189546237714518, 
       "municipality": "Sint-Truiden", 
       "pcode": "3800", 
       "source": "afgeleidVanGebouw", 
@@ -933,17 +928,18 @@
     }, 
     {
       "busnrs": [
+        "001", 
         "101"
       ], 
       "hnrlbls": [
         "175"
       ], 
       "housenumber": "175", 
-      "lat": 50.805079705254954, 
-      "lon": 5.200152776055062, 
+      "lat": 50.80507968501868, 
+      "lon": 5.200152739955804, 
       "municipality": "Sint-Truiden", 
       "pcode": "3800", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Luikersteenweg"
     }, 
     {
@@ -976,18 +972,6 @@
     }, 
     {
       "hnrlbls": [
-        "14-18"
-      ], 
-      "housenumber": "18", 
-      "lat": 50.812279843991234, 
-      "lon": 5.189546237714518, 
-      "municipality": "Sint-Truiden", 
-      "pcode": "3800", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Luikersteenweg"
-    }, 
-    {
-      "hnrlbls": [
         "180"
       ], 
       "housenumber": "180", 
@@ -1003,8 +987,8 @@
         "181"
       ], 
       "housenumber": "181", 
-      "lat": 50.80456937962785, 
-      "lon": 5.200851955431713, 
+      "lat": 50.80456937962784, 
+      "lon": 5.2008519554317125, 
       "municipality": "Sint-Truiden", 
       "pcode": "3800", 
       "source": "afgeleidVanGebouw", 
@@ -1109,7 +1093,7 @@
         "190"
       ], 
       "housenumber": "190", 
-      "lat": 50.80413584045775, 
+      "lat": 50.804135840457725, 
       "lon": 5.202915781447866, 
       "municipality": "Sint-Truiden", 
       "pcode": "3800", 
@@ -1172,11 +1156,11 @@
         "196"
       ], 
       "housenumber": "196", 
-      "lat": 50.803883478816815, 
-      "lon": 5.203403798782277, 
+      "lat": 50.80388351437308, 
+      "lon": 5.203403745672392, 
       "municipality": "Sint-Truiden", 
       "pcode": "3800", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Luikersteenweg"
     }, 
     {
@@ -1338,11 +1322,11 @@
     }, 
     {
       "hnrlbls": [
-        "214-220"
+        "214"
       ], 
       "housenumber": "214", 
-      "lat": 50.80261757494874, 
-      "lon": 5.205448447889504, 
+      "lat": 50.802918424315656, 
+      "lon": 5.204818721733313, 
       "municipality": "Sint-Truiden", 
       "pcode": "3800", 
       "source": "afgeleidVanGebouw", 
@@ -1401,7 +1385,7 @@
     }, 
     {
       "hnrlbls": [
-        "214-220"
+        "220"
       ], 
       "housenumber": "220", 
       "lat": 50.80261757494874, 
@@ -1416,7 +1400,7 @@
         "221"
       ], 
       "housenumber": "221", 
-      "lat": 50.800196717449936, 
+      "lat": 50.80019671744993, 
       "lon": 5.208559100612334, 
       "municipality": "Sint-Truiden", 
       "pcode": "3800", 
@@ -1560,7 +1544,7 @@
         "235"
       ], 
       "housenumber": "235", 
-      "lat": 50.79934821597192, 
+      "lat": 50.7993482159719, 
       "lon": 5.209461775713644, 
       "municipality": "Sint-Truiden", 
       "pcode": "3800", 
@@ -1610,6 +1594,10 @@
       "street": "Luikersteenweg"
     }, 
     {
+      "busnrs": [
+        "001", 
+        "002"
+      ], 
       "hnrlbls": [
         "242"
       ], 
@@ -1724,18 +1712,6 @@
     }, 
     {
       "hnrlbls": [
-        "251B"
-      ], 
-      "housenumber": "251B", 
-      "lat": 50.79870245710129, 
-      "lon": 5.211136490400585, 
-      "municipality": "Sint-Truiden", 
-      "pcode": "3800", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Luikersteenweg"
-    }, 
-    {
-      "hnrlbls": [
         "252"
       ], 
       "housenumber": "252", 
@@ -1747,6 +1723,11 @@
       "street": "Luikersteenweg"
     }, 
     {
+      "busnrs": [
+        "001", 
+        "101", 
+        "102"
+      ], 
       "hnrlbls": [
         "253"
       ], 
@@ -1763,8 +1744,8 @@
         "255"
       ], 
       "housenumber": "255", 
-      "lat": 50.79841654696122, 
-      "lon": 5.211438997304275, 
+      "lat": 50.79841654696121, 
+      "lon": 5.211438997304276, 
       "municipality": "Sint-Truiden", 
       "pcode": "3800", 
       "source": "afgeleidVanGebouw", 
@@ -1823,11 +1804,11 @@
         "259A"
       ], 
       "housenumber": "259A", 
-      "lat": 50.798130888264794, 
-      "lon": 5.2117194913360185, 
+      "lat": 50.798050005690854, 
+      "lon": 5.211860487366067, 
       "municipality": "Sint-Truiden", 
       "pcode": "3800", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Luikersteenweg"
     }, 
     {
@@ -1861,9 +1842,6 @@
       "street": "Luikersteenweg"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
         "261"
       ], 
@@ -1987,7 +1965,7 @@
         "2"
       ], 
       "hnrlbls": [
-        "270-270B"
+        "270"
       ], 
       "housenumber": "270", 
       "lat": 50.80006054296028, 
@@ -1995,18 +1973,6 @@
       "municipality": "Sint-Truiden", 
       "pcode": "3800", 
       "source": "afgeleidVanGebouw", 
-      "street": "Luikersteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "270-270B"
-      ], 
-      "housenumber": "270B", 
-      "lat": 50.80006054296028, 
-      "lon": 5.209694966458938, 
-      "municipality": "Sint-Truiden", 
-      "pcode": "3800", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Luikersteenweg"
     }, 
     {
@@ -2192,7 +2158,7 @@
         "287"
       ], 
       "housenumber": "287", 
-      "lat": 50.79560918276436, 
+      "lat": 50.79560918276434, 
       "lon": 5.2161080370744255, 
       "municipality": "Sint-Truiden", 
       "pcode": "3800", 
@@ -2419,18 +2385,6 @@
     }, 
     {
       "hnrlbls": [
-        "305"
-      ], 
-      "housenumber": "305", 
-      "lat": 50.79441639079377, 
-      "lon": 5.218361024329728, 
-      "municipality": "Sint-Truiden", 
-      "pcode": "3800", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Luikersteenweg"
-    }, 
-    {
-      "hnrlbls": [
         "306"
       ], 
       "housenumber": "306", 
@@ -2497,42 +2451,6 @@
       "street": "Luikersteenweg"
     }, 
     {
-      "hnrlbls": [
-        "30A-30D"
-      ], 
-      "housenumber": "30A", 
-      "lat": 50.81200646295856, 
-      "lon": 5.190417649495469, 
-      "municipality": "Sint-Truiden", 
-      "pcode": "3800", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Luikersteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "30A-30D"
-      ], 
-      "housenumber": "30B", 
-      "lat": 50.81200646295856, 
-      "lon": 5.190417649495469, 
-      "municipality": "Sint-Truiden", 
-      "pcode": "3800", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Luikersteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "30A-30D"
-      ], 
-      "housenumber": "30D", 
-      "lat": 50.81200646295856, 
-      "lon": 5.190417649495469, 
-      "municipality": "Sint-Truiden", 
-      "pcode": "3800", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Luikersteenweg"
-    }, 
-    {
       "busnrs": [
         "1", 
         "101"
@@ -2565,8 +2483,8 @@
         "312"
       ], 
       "housenumber": "312", 
-      "lat": 50.796555658411506, 
-      "lon": 5.215613152855566, 
+      "lat": 50.7961766765864, 
+      "lon": 5.216399130066219, 
       "municipality": "Sint-Truiden", 
       "pcode": "3800", 
       "source": "afgeleidVanGebouw", 
@@ -2601,11 +2519,11 @@
         "318"
       ], 
       "housenumber": "318", 
-      "lat": 50.79666623289613, 
-      "lon": 5.215738129776596, 
+      "lat": 50.79664450855684, 
+      "lon": 5.21572128365907, 
       "municipality": "Sint-Truiden", 
       "pcode": "3800", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Luikersteenweg"
     }, 
     {
@@ -2630,18 +2548,6 @@
       "municipality": "Sint-Truiden", 
       "pcode": "3800", 
       "source": "afgeleidVanGebouw", 
-      "street": "Luikersteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "320"
-      ], 
-      "housenumber": "320", 
-      "lat": 50.796231147929575, 
-      "lon": 5.216291310257421, 
-      "municipality": "Sint-Truiden", 
-      "pcode": "3800", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Luikersteenweg"
     }, 
     {
@@ -2897,18 +2803,6 @@
     }, 
     {
       "hnrlbls": [
-        "347"
-      ], 
-      "housenumber": "347", 
-      "lat": 50.79172878815097, 
-      "lon": 5.222792098359261, 
-      "municipality": "Sint-Truiden", 
-      "pcode": "3800", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Luikersteenweg"
-    }, 
-    {
-      "hnrlbls": [
         "348"
       ], 
       "housenumber": "348", 
@@ -2917,18 +2811,6 @@
       "municipality": "Sint-Truiden", 
       "pcode": "3800", 
       "source": "afgeleidVanGebouw", 
-      "street": "Luikersteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "35"
-      ], 
-      "housenumber": "35", 
-      "lat": 50.811365018252914, 
-      "lon": 5.189904694178752, 
-      "municipality": "Sint-Truiden", 
-      "pcode": "3800", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Luikersteenweg"
     }, 
     {
@@ -2965,7 +2847,7 @@
       ], 
       "housenumber": "352", 
       "lat": 50.793415783716796, 
-      "lon": 5.2208338306007125, 
+      "lon": 5.220833830600713, 
       "municipality": "Sint-Truiden", 
       "pcode": "3800", 
       "source": "afgeleidVanGebouw", 
@@ -3132,11 +3014,11 @@
         "371"
       ], 
       "housenumber": "371", 
-      "lat": 50.782531542291764, 
-      "lon": 5.237320935113212, 
+      "lat": 50.784457816672926, 
+      "lon": 5.234636792902816, 
       "municipality": "Sint-Truiden", 
       "pcode": "3800", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
+      "source": "manueleAanduidingVanLigplaats", 
       "street": "Luikersteenweg"
     }, 
     {
@@ -3213,18 +3095,6 @@
     }, 
     {
       "hnrlbls": [
-        "38"
-      ], 
-      "housenumber": "38", 
-      "lat": 50.81190807445168, 
-      "lon": 5.190883905928713, 
-      "municipality": "Sint-Truiden", 
-      "pcode": "3800", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Luikersteenweg"
-    }, 
-    {
-      "hnrlbls": [
         "380"
       ], 
       "housenumber": "380", 
@@ -3233,18 +3103,6 @@
       "municipality": "Sint-Truiden", 
       "pcode": "3800", 
       "source": "afgeleidVanGebouw", 
-      "street": "Luikersteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "6-8181"
-      ], 
-      "housenumber": "3800", 
-      "lat": 50.78731291629916, 
-      "lon": 5.230793159838128, 
-      "municipality": "Sint-Truiden", 
-      "pcode": "3800", 
-      "source": "afgeleidVanStraat", 
       "street": "Luikersteenweg"
     }, 
     {
@@ -3268,11 +3126,11 @@
         "382A"
       ], 
       "housenumber": "382A", 
-      "lat": 50.79106355698913, 
-      "lon": 5.224902292351432, 
+      "lat": 50.791065972621006, 
+      "lon": 5.224903896515638, 
       "municipality": "Sint-Truiden", 
       "pcode": "3800", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Luikersteenweg"
     }, 
     {
@@ -3321,18 +3179,6 @@
       "municipality": "Sint-Truiden", 
       "pcode": "3800", 
       "source": "afgeleidVanGebouw", 
-      "street": "Luikersteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "39"
-      ], 
-      "housenumber": "39", 
-      "lat": 50.811240977735004, 
-      "lon": 5.190029523184092, 
-      "municipality": "Sint-Truiden", 
-      "pcode": "3800", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Luikersteenweg"
     }, 
     {
@@ -3453,18 +3299,6 @@
       "municipality": "Sint-Truiden", 
       "pcode": "3800", 
       "source": "afgeleidVanGebouw", 
-      "street": "Luikersteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "401-405"
-      ], 
-      "housenumber": "403", 
-      "lat": 50.777658323508994, 
-      "lon": 5.246505898409733, 
-      "municipality": "Sint-Truiden", 
-      "pcode": "3800", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Luikersteenweg"
     }, 
     {
@@ -3595,8 +3429,8 @@
         "415"
       ], 
       "housenumber": "415", 
-      "lat": 50.7845677623705, 
-      "lon": 5.234881162719299, 
+      "lat": 50.77711171849552, 
+      "lon": 5.247528358450775, 
       "municipality": "Sint-Truiden", 
       "pcode": "3800", 
       "source": "afgeleidVanGebouw", 
@@ -3996,7 +3830,7 @@
         "456"
       ], 
       "housenumber": "456", 
-      "lat": 50.77725815737839, 
+      "lat": 50.777258157378384, 
       "lon": 5.248506090269436, 
       "municipality": "Sint-Truiden", 
       "pcode": "3800", 
@@ -4057,7 +3891,7 @@
       ], 
       "housenumber": "464", 
       "lat": 50.77679290733478, 
-      "lon": 5.24919954534127, 
+      "lon": 5.249199545341271, 
       "municipality": "Sint-Truiden", 
       "pcode": "3800", 
       "source": "afgeleidVanGebouw", 
@@ -4094,30 +3928,6 @@
     }, 
     {
       "hnrlbls": [
-        "471-471a"
-      ], 
-      "housenumber": "471", 
-      "lat": 50.772906191575395, 
-      "lon": 5.254776061051581, 
-      "municipality": "Sint-Truiden", 
-      "pcode": "3800", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Luikersteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "471-471a"
-      ], 
-      "housenumber": "471a", 
-      "lat": 50.772906191575395, 
-      "lon": 5.254776061051581, 
-      "municipality": "Sint-Truiden", 
-      "pcode": "3800", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Luikersteenweg"
-    }, 
-    {
-      "hnrlbls": [
         "473"
       ], 
       "housenumber": "473", 
@@ -4130,11 +3940,23 @@
     }, 
     {
       "hnrlbls": [
+        "473A"
+      ], 
+      "housenumber": "473A", 
+      "lat": 50.772271175513396, 
+      "lon": 5.255579175306655, 
+      "municipality": "Sint-Truiden", 
+      "pcode": "3800", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Luikersteenweg"
+    }, 
+    {
+      "hnrlbls": [
         "475"
       ], 
       "housenumber": "475", 
-      "lat": 50.772271143377395, 
-      "lon": 5.2555791882276806, 
+      "lat": 50.77205929354869, 
+      "lon": 5.256101225251327, 
       "municipality": "Sint-Truiden", 
       "pcode": "3800", 
       "source": "afgeleidVanGebouw", 
@@ -4142,50 +3964,26 @@
     }, 
     {
       "hnrlbls": [
-        "477"
-      ], 
-      "housenumber": "477", 
-      "lat": 50.77202080791584, 
-      "lon": 5.256035673918769, 
-      "municipality": "Sint-Truiden", 
-      "pcode": "3800", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Luikersteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "479-479B"
-      ], 
-      "housenumber": "479", 
-      "lat": 50.77185617467398, 
-      "lon": 5.256441314205668, 
-      "municipality": "Sint-Truiden", 
-      "pcode": "3800", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Luikersteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "479-479B"
+        "479A-479B"
       ], 
       "housenumber": "479A", 
-      "lat": 50.77185617467398, 
-      "lon": 5.256441314205668, 
+      "lat": 50.77185621824697, 
+      "lon": 5.2564413287968215, 
       "municipality": "Sint-Truiden", 
       "pcode": "3800", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Luikersteenweg"
     }, 
     {
       "hnrlbls": [
-        "479-479B"
+        "479A-479B"
       ], 
       "housenumber": "479B", 
-      "lat": 50.77185617467398, 
-      "lon": 5.256441314205668, 
+      "lat": 50.77185621824697, 
+      "lon": 5.2564413287968215, 
       "municipality": "Sint-Truiden", 
       "pcode": "3800", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Luikersteenweg"
     }, 
     {
@@ -4358,7 +4156,7 @@
     }, 
     {
       "hnrlbls": [
-        "497-497B"
+        "497"
       ], 
       "housenumber": "497", 
       "lat": 50.770602021199814, 
@@ -4366,18 +4164,6 @@
       "municipality": "Sint-Truiden", 
       "pcode": "3800", 
       "source": "afgeleidVanGebouw", 
-      "street": "Luikersteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "497-497B"
-      ], 
-      "housenumber": "497B", 
-      "lat": 50.770602021199814, 
-      "lon": 5.258784567746376, 
-      "municipality": "Sint-Truiden", 
-      "pcode": "3800", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Luikersteenweg"
     }, 
     {
@@ -4393,6 +4179,9 @@
       "street": "Luikersteenweg"
     }, 
     {
+      "busnrs": [
+        "101"
+      ], 
       "hnrlbls": [
         "5"
       ], 
@@ -4433,8 +4222,8 @@
         "501"
       ], 
       "housenumber": "501", 
-      "lat": 50.77044432681896, 
-      "lon": 5.258832339421493, 
+      "lat": 50.77044432681895, 
+      "lon": 5.2588323394214935, 
       "municipality": "Sint-Truiden", 
       "pcode": "3800", 
       "source": "afgeleidVanGebouw", 
@@ -4570,8 +4359,8 @@
         "520"
       ], 
       "housenumber": "520", 
-      "lat": 50.77054984096803, 
-      "lon": 5.259934926480046, 
+      "lat": 50.770437400117444, 
+      "lon": 5.260037425477849, 
       "municipality": "Sint-Truiden", 
       "pcode": "3800", 
       "source": "afgeleidVanPerceelGrb", 
@@ -4766,18 +4555,6 @@
     }, 
     {
       "hnrlbls": [
-        "54"
-      ], 
-      "housenumber": "54", 
-      "lat": 50.81113073243086, 
-      "lon": 5.190648244205607, 
-      "municipality": "Sint-Truiden", 
-      "pcode": "3800", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
-      "street": "Luikersteenweg"
-    }, 
-    {
-      "hnrlbls": [
         "541"
       ], 
       "housenumber": "541", 
@@ -4798,18 +4575,6 @@
       "municipality": "Sint-Truiden", 
       "pcode": "3800", 
       "source": "afgeleidVanGebouw", 
-      "street": "Luikersteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "543"
-      ], 
-      "housenumber": "543", 
-      "lat": 50.76711534877231, 
-      "lon": 5.264608039238783, 
-      "municipality": "Sint-Truiden", 
-      "pcode": "3800", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Luikersteenweg"
     }, 
     {
@@ -5107,18 +4872,6 @@
     }, 
     {
       "hnrlbls": [
-        "566"
-      ], 
-      "housenumber": "566", 
-      "lat": 50.76633022967404, 
-      "lon": 5.266799605907691, 
-      "municipality": "Sint-Truiden", 
-      "pcode": "3800", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Luikersteenweg"
-    }, 
-    {
-      "hnrlbls": [
         "567"
       ], 
       "housenumber": "567", 
@@ -5279,18 +5032,6 @@
     }, 
     {
       "hnrlbls": [
-        "6-8181"
-      ], 
-      "housenumber": "6", 
-      "lat": 50.78731291629916, 
-      "lon": 5.230793159838128, 
-      "municipality": "Sint-Truiden", 
-      "pcode": "3800", 
-      "source": "afgeleidVanStraat", 
-      "street": "Luikersteenweg"
-    }, 
-    {
-      "hnrlbls": [
         "60"
       ], 
       "housenumber": "60", 
@@ -5326,18 +5067,6 @@
       "municipality": "Sint-Truiden", 
       "pcode": "3800", 
       "source": "afgeleidVanGebouw", 
-      "street": "Luikersteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "6-8181"
-      ], 
-      "housenumber": "637", 
-      "lat": 50.78731291629916, 
-      "lon": 5.230793159838128, 
-      "municipality": "Sint-Truiden", 
-      "pcode": "3800", 
-      "source": "afgeleidVanStraat", 
       "street": "Luikersteenweg"
     }, 
     {
@@ -5393,7 +5122,7 @@
       ], 
       "housenumber": "66", 
       "lat": 50.810156975368486, 
-      "lon": 5.192469709031542, 
+      "lon": 5.192469709031541, 
       "municipality": "Sint-Truiden", 
       "pcode": "3800", 
       "source": "afgeleidVanGebouw", 
@@ -5404,7 +5133,7 @@
         "67"
       ], 
       "housenumber": "67", 
-      "lat": 50.809767521222454, 
+      "lat": 50.80976752122245, 
       "lon": 5.192188609588315, 
       "municipality": "Sint-Truiden", 
       "pcode": "3800", 
@@ -5551,18 +5280,6 @@
     }, 
     {
       "hnrlbls": [
-        "78"
-      ], 
-      "housenumber": "78", 
-      "lat": 50.80970500045293, 
-      "lon": 5.193203449803778, 
-      "municipality": "Sint-Truiden", 
-      "pcode": "3800", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Luikersteenweg"
-    }, 
-    {
-      "hnrlbls": [
         "79"
       ], 
       "housenumber": "79", 
@@ -5574,6 +5291,10 @@
       "street": "Luikersteenweg"
     }, 
     {
+      "busnrs": [
+        "001", 
+        "101"
+      ], 
       "hnrlbls": [
         "8"
       ], 
@@ -5602,38 +5323,14 @@
     }, 
     {
       "hnrlbls": [
-        "6-8181"
-      ], 
-      "housenumber": "804", 
-      "lat": 50.78731291629916, 
-      "lon": 5.230793159838128, 
-      "municipality": "Sint-Truiden", 
-      "pcode": "3800", 
-      "source": "afgeleidVanStraat", 
-      "street": "Luikersteenweg"
-    }, 
-    {
-      "hnrlbls": [
         "81"
       ], 
       "housenumber": "81", 
-      "lat": 50.809534069853605, 
-      "lon": 5.192568757808901, 
+      "lat": 50.80953406985359, 
+      "lon": 5.192568757808899, 
       "municipality": "Sint-Truiden", 
       "pcode": "3800", 
       "source": "afgeleidVanGebouw", 
-      "street": "Luikersteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "6-8181"
-      ], 
-      "housenumber": "8181", 
-      "lat": 50.78731291629916, 
-      "lon": 5.230793159838128, 
-      "municipality": "Sint-Truiden", 
-      "pcode": "3800", 
-      "source": "afgeleidVanStraat", 
       "street": "Luikersteenweg"
     }, 
     {
@@ -5641,7 +5338,7 @@
         "2"
       ], 
       "hnrlbls": [
-        "82-82A"
+        "82"
       ], 
       "housenumber": "82", 
       "lat": 50.809502434506555, 
@@ -5649,18 +5346,6 @@
       "municipality": "Sint-Truiden", 
       "pcode": "3800", 
       "source": "afgeleidVanGebouw", 
-      "street": "Luikersteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "82-82A"
-      ], 
-      "housenumber": "82A", 
-      "lat": 50.809502434506555, 
-      "lon": 5.193499568171257, 
-      "municipality": "Sint-Truiden", 
-      "pcode": "3800", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Luikersteenweg"
     }, 
     {
@@ -5749,6 +5434,7 @@
     }, 
     {
       "busnrs": [
+        "001", 
         "101"
       ], 
       "hnrlbls": [
@@ -5793,18 +5479,6 @@
     }, 
     {
       "hnrlbls": [
-        "92"
-      ], 
-      "housenumber": "92", 
-      "lat": 50.80914008864443, 
-      "lon": 5.194347522652004, 
-      "municipality": "Sint-Truiden", 
-      "pcode": "3800", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Luikersteenweg"
-    }, 
-    {
-      "hnrlbls": [
         "93"
       ], 
       "housenumber": "93", 
@@ -5829,7 +5503,7 @@
     }, 
     {
       "hnrlbls": [
-        "96-96A"
+        "96"
       ], 
       "housenumber": "96", 
       "lat": 50.80886292721611, 
@@ -5841,14 +5515,14 @@
     }, 
     {
       "hnrlbls": [
-        "96-96A"
+        "96A"
       ], 
       "housenumber": "96A", 
-      "lat": 50.80886292721611, 
-      "lon": 5.1946017419888415, 
+      "lat": 50.80914302054676, 
+      "lon": 5.194733392689454, 
       "municipality": "Sint-Truiden", 
       "pcode": "3800", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Luikersteenweg"
     }, 
     {

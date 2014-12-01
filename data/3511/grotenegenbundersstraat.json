@@ -1,9 +1,11 @@
 {
   "addresses": [
     {
-      "busnrs": [
-        "1", 
+      "apptnrs": [
         "2"
+      ], 
+      "busnrs": [
+        "1"
       ], 
       "hnrlbls": [
         "1"
@@ -17,12 +19,11 @@
       "street": "Grote Negenbundersstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3", 
-        "4", 
-        "5"
+        "4"
       ], 
       "hnrlbls": [
         "12"
@@ -40,11 +41,11 @@
         "12B"
       ], 
       "housenumber": "12B", 
-      "lat": 50.937913119092585, 
-      "lon": 5.2835026061297565, 
+      "lat": 50.93790185073895, 
+      "lon": 5.283460413594805, 
       "municipality": "Hasselt", 
       "pcode": "3511", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Grote Negenbundersstraat"
     }, 
     {
@@ -144,18 +145,21 @@
       "street": "Grote Negenbundersstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "2"
       ], 
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
-        "33"
+        "33-33B"
       ], 
       "housenumber": "33", 
-      "lat": 50.93766303554174, 
-      "lon": 5.2855061432070025, 
+      "lat": 50.93794499302978, 
+      "lon": 5.285904920111156, 
       "municipality": "Hasselt", 
       "pcode": "3511", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Grote Negenbundersstraat"
     }, 
     {
@@ -172,11 +176,11 @@
     }, 
     {
       "hnrlbls": [
-        "33B"
+        "33-33B"
       ], 
       "housenumber": "33B", 
-      "lat": 50.937725326801186, 
-      "lon": 5.285610940989505, 
+      "lat": 50.93794499302978, 
+      "lon": 5.285904920111156, 
       "municipality": "Hasselt", 
       "pcode": "3511", 
       "source": "afgeleidVanPerceelGrb", 
@@ -223,8 +227,8 @@
         "39"
       ], 
       "housenumber": "39", 
-      "lat": 50.93737609033074, 
-      "lon": 5.286056841188708, 
+      "lat": 50.93737609033072, 
+      "lon": 5.286056841188709, 
       "municipality": "Hasselt", 
       "pcode": "3511", 
       "source": "afgeleidVanGebouw", 
@@ -487,8 +491,8 @@
         "63"
       ], 
       "housenumber": "63", 
-      "lat": 50.93664873169761, 
-      "lon": 5.2880430157026, 
+      "lat": 50.93668714941661, 
+      "lon": 5.2878898257860545, 
       "municipality": "Hasselt", 
       "pcode": "3511", 
       "source": "afgeleidVanPerceelGrb", 

@@ -13,10 +13,9 @@
       "street": "Sint-Hubertusplein"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
-        "2", 
-        "3"
+        "2"
       ], 
       "hnrlbls": [
         "10"
@@ -42,8 +41,11 @@
       "street": "Sint-Hubertusplein"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "2"
+      ], 
+      "busnrs": [
+        "1"
       ], 
       "hnrlbls": [
         "14"
@@ -81,7 +83,7 @@
       "street": "Sint-Hubertusplein"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3", 
@@ -104,9 +106,6 @@
       "apptnrs": [
         "1.01"
       ], 
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
         "18"
       ], 
@@ -119,13 +118,15 @@
       "street": "Sint-Hubertusplein"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
-        "3", 
-        "4", 
         "5", 
         "6"
+      ], 
+      "busnrs": [
+        "3", 
+        "4"
       ], 
       "hnrlbls": [
         "17-19"
@@ -139,10 +140,12 @@
       "street": "Sint-Hubertusplein"
     }, 
     {
+      "apptnrs": [
+        "3"
+      ], 
       "busnrs": [
         "1", 
-        "2", 
-        "3"
+        "2"
       ], 
       "hnrlbls": [
         "2-2A"
@@ -152,7 +155,7 @@
       "lon": 5.327448070440737, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Sint-Hubertusplein"
     }, 
     {
@@ -192,9 +195,12 @@
       "street": "Sint-Hubertusplein"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "2", 
         "3"
+      ], 
+      "busnrs": [
+        "1"
       ], 
       "hnrlbls": [
         "24"
@@ -208,7 +214,7 @@
       "street": "Sint-Hubertusplein"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1"
       ], 
       "hnrlbls": [
@@ -223,7 +229,7 @@
       "street": "Sint-Hubertusplein"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2"
       ], 
@@ -251,11 +257,15 @@
       "street": "Sint-Hubertusplein"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "3", 
         "4", 
         "5", 
         "6"
+      ], 
+      "busnrs": [
+        "1", 
+        "2"
       ], 
       "hnrlbls": [
         "3"
@@ -270,27 +280,10 @@
     }, 
     {
       "hnrlbls": [
-        "30"
-      ], 
-      "housenumber": "30", 
-      "lat": 50.92464803237918, 
-      "lon": 5.327289176237779, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Sint-Hubertusplein"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3"
-      ], 
-      "hnrlbls": [
         "32"
       ], 
       "housenumber": "32", 
-      "lat": 50.92454769692166, 
+      "lat": 50.924547696921664, 
       "lon": 5.326948592323791, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
@@ -310,16 +303,21 @@
       "street": "Sint-Hubertusplein"
     }, 
     {
-      "busnrs": [
-        "1", 
+      "apptnrs": [
         "11", 
         "12", 
-        "2", 
         "4", 
         "5", 
-        "6", 
         "7", 
         "8"
+      ], 
+      "busnrs": [
+        "1", 
+        "10", 
+        "2", 
+        "3", 
+        "6", 
+        "9"
       ], 
       "hnrlbls": [
         "36"
@@ -357,7 +355,7 @@
       "street": "Sint-Hubertusplein"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1"
       ], 
       "hnrlbls": [
@@ -372,9 +370,6 @@
       "street": "Sint-Hubertusplein"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
         "46-48"
       ], 
@@ -387,7 +382,7 @@
       "street": "Sint-Hubertusplein"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1"
       ], 
       "hnrlbls": [
@@ -402,27 +397,27 @@
       "street": "Sint-Hubertusplein"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
         "48B"
       ], 
       "housenumber": "48B", 
-      "lat": 50.924460625810724, 
-      "lon": 5.3261169822890215, 
+      "lat": 50.924447105274695, 
+      "lon": 5.326066210909237, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Sint-Hubertusplein"
     }, 
     {
-      "busnrs": [
-        "2", 
+      "apptnrs": [
         "3", 
         "4", 
         "5", 
         "6"
+      ], 
+      "busnrs": [
+        "1", 
+        "2"
       ], 
       "hnrlbls": [
         "5-7"
@@ -436,7 +431,7 @@
       "street": "Sint-Hubertusplein"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3", 
@@ -456,21 +451,6 @@
       "street": "Sint-Hubertusplein"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "50A"
-      ], 
-      "housenumber": "50A", 
-      "lat": 50.92459416965641, 
-      "lon": 5.325703938711428, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Sint-Hubertusplein"
-    }, 
-    {
       "hnrlbls": [
         "50-54"
       ], 
@@ -484,9 +464,6 @@
     }, 
     {
       "apptnrs": [
-        "B3"
-      ], 
-      "busnrs": [
         "1", 
         "2", 
         "3", 
@@ -530,7 +507,7 @@
       "street": "Sint-Hubertusplein"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2"
       ], 
@@ -538,7 +515,7 @@
         "8"
       ], 
       "housenumber": "8", 
-      "lat": 50.92536218730292, 
+      "lat": 50.92536218730294, 
       "lon": 5.3275002123830575, 
       "municipality": "Hasselt", 
       "pcode": "3500", 

@@ -1,11 +1,13 @@
 {
   "addresses": [
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
-        "2", 
         "3", 
         "4"
+      ], 
+      "busnrs": [
+        "2"
       ], 
       "hnrlbls": [
         "1-3"
@@ -19,9 +21,6 @@
       "street": "Onze-Lieve-Vrouwstraat"
     }, 
     {
-      "busnrs": [
-        "10"
-      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -34,21 +33,11 @@
       "street": "Onze-Lieve-Vrouwstraat"
     }, 
     {
-      "hnrlbls": [
-        "11"
-      ], 
-      "housenumber": "11", 
-      "lat": 50.93015927369749, 
-      "lon": 5.3358203806084585, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "afgeleidVanStraat", 
-      "street": "Onze-Lieve-Vrouwstraat"
-    }, 
-    {
-      "busnrs": [
-        "1", 
+      "apptnrs": [
         "2"
+      ], 
+      "busnrs": [
+        "1"
       ], 
       "hnrlbls": [
         "2-4"
@@ -86,11 +75,12 @@
       "street": "Onze-Lieve-Vrouwstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
+      "apptnrs": [
         "2", 
-        "3", 
-        "4"
+        "3"
+      ], 
+      "busnrs": [
+        "1"
       ], 
       "hnrlbls": [
         "5"
@@ -104,9 +94,12 @@
       "street": "Onze-Lieve-Vrouwstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "2", 
         "3"
+      ], 
+      "busnrs": [
+        "1"
       ], 
       "hnrlbls": [
         "6"
@@ -121,21 +114,23 @@
     }, 
     {
       "hnrlbls": [
-        "7"
+        "7-9"
       ], 
       "housenumber": "7", 
-      "lat": 50.93029109760864, 
-      "lon": 5.335838605682782, 
+      "lat": 50.93016690346521, 
+      "lon": 5.336083715261973, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "geinterpoleerdObvWegverbinding", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Onze-Lieve-Vrouwstraat"
     }, 
     {
+      "apptnrs": [
+        "3"
+      ], 
       "busnrs": [
         "1", 
-        "2", 
-        "3"
+        "2"
       ], 
       "hnrlbls": [
         "8"
@@ -161,18 +156,21 @@
       "street": "Onze-Lieve-Vrouwstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "2"
       ], 
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
-        "9"
+        "7-9"
       ], 
       "housenumber": "9", 
-      "lat": 50.93043109605581, 
-      "lon": 5.335868522431236, 
+      "lat": 50.93016690346521, 
+      "lon": 5.336083715261973, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "geinterpoleerdObvWegverbinding", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Onze-Lieve-Vrouwstraat"
     }
   ]

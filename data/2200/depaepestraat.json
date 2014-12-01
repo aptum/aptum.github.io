@@ -53,11 +53,11 @@
         "13"
       ], 
       "housenumber": "13", 
-      "lat": 51.17409242508821, 
-      "lon": 4.837559240402056, 
+      "lat": 51.17415055739408, 
+      "lon": 4.837497623502612, 
       "municipality": "Herentals", 
       "pcode": "2200", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "de Paepestraat"
     }, 
     {
@@ -65,7 +65,7 @@
         "14"
       ], 
       "housenumber": "14", 
-      "lat": 51.17420952502326, 
+      "lat": 51.17420952502325, 
       "lon": 4.837271001542365, 
       "municipality": "Herentals", 
       "pcode": "2200", 
@@ -73,15 +73,32 @@
       "street": "de Paepestraat"
     }, 
     {
-      "hnrlbls": [
-        "15"
+      "busnrs": [
+        "101", 
+        "201", 
+        "301"
       ], 
-      "housenumber": "15", 
-      "lat": 51.17393050990822, 
-      "lon": 4.837769811282388, 
+      "hnrlbls": [
+        "15A"
+      ], 
+      "housenumber": "15A", 
+      "lat": 51.1741247850107, 
+      "lon": 4.837446030091958, 
       "municipality": "Herentals", 
       "pcode": "2200", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "de Paepestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "15B"
+      ], 
+      "housenumber": "15B", 
+      "lat": 51.173930326160594, 
+      "lon": 4.837770810374593, 
+      "municipality": "Herentals", 
+      "pcode": "2200", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "de Paepestraat"
     }, 
     {
@@ -559,7 +576,7 @@
     }, 
     {
       "busnrs": [
-        "1", 
+        "001", 
         "101", 
         "201", 
         "301"
@@ -568,11 +585,11 @@
         "47"
       ], 
       "housenumber": "47", 
-      "lat": 51.17347987117784, 
-      "lon": 4.836760055063136, 
+      "lat": 51.17362594744973, 
+      "lon": 4.836599084506835, 
       "municipality": "Herentals", 
       "pcode": "2200", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "de Paepestraat"
     }, 
     {
@@ -595,11 +612,11 @@
         "49"
       ], 
       "housenumber": "49", 
-      "lat": 51.17356392828325, 
-      "lon": 4.836552990973876, 
+      "lat": 51.173612295348846, 
+      "lon": 4.836460389545567, 
       "municipality": "Herentals", 
       "pcode": "2200", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "de Paepestraat"
     }, 
     {
@@ -627,87 +644,22 @@
       "street": "de Paepestraat"
     }, 
     {
+      "busnrs": [
+        "A", 
+        "B", 
+        "C", 
+        "D", 
+        "E"
+      ], 
       "hnrlbls": [
-        "51-51F"
+        "51"
       ], 
       "housenumber": "51", 
-      "lat": 51.17351023108295, 
-      "lon": 4.836403027125787, 
+      "lat": 51.17355910565856, 
+      "lon": 4.836363766183801, 
       "municipality": "Herentals", 
       "pcode": "2200", 
-      "source": "afgeleidVanGebouw", 
-      "street": "de Paepestraat"
-    }, 
-    {
-      "hnrlbls": [
-        "51-51F"
-      ], 
-      "housenumber": "51A", 
-      "lat": 51.17351023108295, 
-      "lon": 4.836403027125787, 
-      "municipality": "Herentals", 
-      "pcode": "2200", 
-      "source": "afgeleidVanGebouw", 
-      "street": "de Paepestraat"
-    }, 
-    {
-      "hnrlbls": [
-        "51-51F"
-      ], 
-      "housenumber": "51B", 
-      "lat": 51.17351023108295, 
-      "lon": 4.836403027125787, 
-      "municipality": "Herentals", 
-      "pcode": "2200", 
-      "source": "afgeleidVanGebouw", 
-      "street": "de Paepestraat"
-    }, 
-    {
-      "hnrlbls": [
-        "51-51F"
-      ], 
-      "housenumber": "51C", 
-      "lat": 51.17351023108295, 
-      "lon": 4.836403027125787, 
-      "municipality": "Herentals", 
-      "pcode": "2200", 
-      "source": "afgeleidVanGebouw", 
-      "street": "de Paepestraat"
-    }, 
-    {
-      "hnrlbls": [
-        "51-51F"
-      ], 
-      "housenumber": "51D", 
-      "lat": 51.17351023108295, 
-      "lon": 4.836403027125787, 
-      "municipality": "Herentals", 
-      "pcode": "2200", 
-      "source": "afgeleidVanGebouw", 
-      "street": "de Paepestraat"
-    }, 
-    {
-      "hnrlbls": [
-        "51-51F"
-      ], 
-      "housenumber": "51E", 
-      "lat": 51.17351023108295, 
-      "lon": 4.836403027125787, 
-      "municipality": "Herentals", 
-      "pcode": "2200", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "de Paepestraat"
-    }, 
-    {
-      "hnrlbls": [
-        "51-51F"
-      ], 
-      "housenumber": "51F", 
-      "lat": 51.17351023108295, 
-      "lon": 4.836403027125787, 
-      "municipality": "Herentals", 
-      "pcode": "2200", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "de Paepestraat"
     }, 
     {
@@ -915,39 +867,19 @@
       "street": "de Paepestraat"
     }, 
     {
+      "busnrs": [
+        "A", 
+        "B"
+      ], 
       "hnrlbls": [
-        "77-77B"
+        "77"
       ], 
       "housenumber": "77", 
-      "lat": 51.173903197130656, 
-      "lon": 4.835636960872669, 
+      "lat": 51.17391892698241, 
+      "lon": 4.8357051824300825, 
       "municipality": "Herentals", 
       "pcode": "2200", 
-      "source": "afgeleidVanGebouw", 
-      "street": "de Paepestraat"
-    }, 
-    {
-      "hnrlbls": [
-        "77-77B"
-      ], 
-      "housenumber": "77A", 
-      "lat": 51.173903197130656, 
-      "lon": 4.835636960872669, 
-      "municipality": "Herentals", 
-      "pcode": "2200", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "de Paepestraat"
-    }, 
-    {
-      "hnrlbls": [
-        "77-77B"
-      ], 
-      "housenumber": "77B", 
-      "lat": 51.173903197130656, 
-      "lon": 4.835636960872669, 
-      "municipality": "Herentals", 
-      "pcode": "2200", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "de Paepestraat"
     }, 
     {

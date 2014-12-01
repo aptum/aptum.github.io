@@ -105,7 +105,7 @@
       ], 
       "housenumber": "105", 
       "lat": 50.95982319275678, 
-      "lon": 3.9760989327220364, 
+      "lon": 3.9760989327220355, 
       "municipality": "Lede", 
       "pcode": "9340", 
       "source": "afgeleidVanGebouw", 
@@ -150,18 +150,6 @@
       "municipality": "Lede", 
       "pcode": "9340", 
       "source": "afgeleidVanGebouw", 
-      "street": "Hoogstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "112"
-      ], 
-      "housenumber": "112", 
-      "lat": 50.9581642206769, 
-      "lon": 3.977128059061219, 
-      "municipality": "Lede", 
-      "pcode": "9340", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Hoogstraat"
     }, 
     {
@@ -548,7 +536,7 @@
         "15"
       ], 
       "housenumber": "15", 
-      "lat": 50.96436853491398, 
+      "lat": 50.96436853491396, 
       "lon": 3.976955758645976, 
       "municipality": "Lede", 
       "pcode": "9340", 
@@ -756,7 +744,7 @@
         "168"
       ], 
       "housenumber": "168", 
-      "lat": 50.95521213274668, 
+      "lat": 50.955212132746674, 
       "lon": 3.9798719067809767, 
       "municipality": "Lede", 
       "pcode": "9340", 
@@ -844,7 +832,7 @@
       ], 
       "housenumber": "19", 
       "lat": 50.964253222663544, 
-      "lon": 3.976989034232747, 
+      "lon": 3.9769890342327483, 
       "municipality": "Lede", 
       "pcode": "9340", 
       "source": "afgeleidVanGebouw", 
@@ -964,12 +952,22 @@
       "street": "Hoogstraat"
     }, 
     {
-      "hnrlbls": [
-        "29"
+      "busnrs": [
+        "01", 
+        "02", 
+        "11", 
+        "12", 
+        "21", 
+        "22", 
+        "31", 
+        "32"
       ], 
-      "housenumber": "29", 
-      "lat": 50.96367071814056, 
-      "lon": 3.9769631450306773, 
+      "hnrlbls": [
+        "27A"
+      ], 
+      "housenumber": "27A", 
+      "lat": 50.9637615501596, 
+      "lon": 3.9770294917380817, 
       "municipality": "Lede", 
       "pcode": "9340", 
       "source": "afgeleidVanGebouw", 
@@ -977,41 +975,61 @@
     }, 
     {
       "busnrs": [
-        "1"
+        "01", 
+        "11", 
+        "21", 
+        "31"
+      ], 
+      "hnrlbls": [
+        "29"
+      ], 
+      "housenumber": "29", 
+      "lat": 50.963693724898924, 
+      "lon": 3.97704700740987, 
+      "municipality": "Lede", 
+      "pcode": "9340", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Hoogstraat"
+    }, 
+    {
+      "busnrs": [
+        "01", 
+        "11", 
+        "12", 
+        "21", 
+        "22", 
+        "31", 
+        "32"
       ], 
       "hnrlbls": [
         "29A"
       ], 
       "housenumber": "29A", 
-      "lat": 50.96357345206316, 
-      "lon": 3.9769626751737053, 
+      "lat": 50.9636445980475, 
+      "lon": 3.977033466809614, 
       "municipality": "Lede", 
       "pcode": "9340", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Hoogstraat"
     }, 
     {
+      "busnrs": [
+        "01", 
+        "11", 
+        "12", 
+        "21", 
+        "31", 
+        "32"
+      ], 
       "hnrlbls": [
-        "29B-29E"
+        "29B"
       ], 
       "housenumber": "29B", 
-      "lat": 50.96300867789896, 
-      "lon": 3.976862191019556, 
+      "lat": 50.963569036625536, 
+      "lon": 3.9770181538004614, 
       "municipality": "Lede", 
       "pcode": "9340", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Hoogstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "29C"
-      ], 
-      "housenumber": "29C", 
-      "lat": 50.9635807226189, 
-      "lon": 3.976581260839727, 
-      "municipality": "Lede", 
-      "pcode": "9340", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelKadaster", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Hoogstraat"
     }, 
     {
@@ -1028,7 +1046,7 @@
     }, 
     {
       "hnrlbls": [
-        "29B-29E"
+        "29E"
       ], 
       "housenumber": "29E", 
       "lat": 50.96300867789896, 
@@ -1271,7 +1289,7 @@
         "49"
       ], 
       "housenumber": "49", 
-      "lat": 50.96223903608805, 
+      "lat": 50.96223903608804, 
       "lon": 3.976842562823718, 
       "municipality": "Lede", 
       "pcode": "9340", 
@@ -1668,14 +1686,14 @@
     }, 
     {
       "hnrlbls": [
-        "79-79B"
+        "79A"
       ], 
       "housenumber": "79A", 
-      "lat": 50.96117853649554, 
-      "lon": 3.9767800972810803, 
+      "lat": 50.96121109441664, 
+      "lon": 3.9767828564342205, 
       "municipality": "Lede", 
       "pcode": "9340", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Hoogstraat"
     }, 
     {
@@ -1872,42 +1890,6 @@
       "municipality": "Lede", 
       "pcode": "9340", 
       "source": "afgeleidVanGebouw", 
-      "street": "Hoogstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "96-96B"
-      ], 
-      "housenumber": "96", 
-      "lat": 50.960443759212275, 
-      "lon": 3.9771617206811647, 
-      "municipality": "Lede", 
-      "pcode": "9340", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Hoogstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "96-96B"
-      ], 
-      "housenumber": "96A", 
-      "lat": 50.960443759212275, 
-      "lon": 3.9771617206811647, 
-      "municipality": "Lede", 
-      "pcode": "9340", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Hoogstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "96-96B"
-      ], 
-      "housenumber": "96B", 
-      "lat": 50.960443759212275, 
-      "lon": 3.9771617206811647, 
-      "municipality": "Lede", 
-      "pcode": "9340", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Hoogstraat"
     }, 
     {

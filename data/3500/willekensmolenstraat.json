@@ -5,11 +5,11 @@
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 50.93088514317552, 
-      "lon": 5.346348530491682, 
+      "lat": 50.930858721112905, 
+      "lon": 5.346293493877353, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Willekensmolenstraat"
     }, 
     {
@@ -89,8 +89,8 @@
         "106"
       ], 
       "housenumber": "106", 
-      "lat": 50.93256004315944, 
-      "lon": 5.350598213024975, 
+      "lat": 50.932560043159434, 
+      "lon": 5.350598213024974, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanGebouw", 
@@ -197,7 +197,7 @@
         "115"
       ], 
       "housenumber": "115", 
-      "lat": 50.932274229770194, 
+      "lat": 50.93227422977021, 
       "lon": 5.350052048511356, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
@@ -257,11 +257,11 @@
         "120"
       ], 
       "housenumber": "120", 
-      "lat": 50.93273666551733, 
-      "lon": 5.352020163206591, 
+      "lat": 50.93331873285104, 
+      "lon": 5.350972331900772, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Willekensmolenstraat"
     }, 
     {
@@ -317,15 +317,15 @@
         "126"
       ], 
       "housenumber": "126", 
-      "lat": 50.93277005705935, 
-      "lon": 5.353581667171298, 
+      "lat": 50.932925152392926, 
+      "lon": 5.352786239207998, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Willekensmolenstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2"
       ], 
@@ -357,7 +357,7 @@
         "13"
       ], 
       "housenumber": "13", 
-      "lat": 50.93108505963665, 
+      "lat": 50.931085059636644, 
       "lon": 5.346621145354641, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
@@ -449,7 +449,8 @@
       "street": "Willekensmolenstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
+        "1", 
         "2"
       ], 
       "hnrlbls": [
@@ -548,7 +549,7 @@
       "street": "Willekensmolenstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "10", 
         "2", 
@@ -572,7 +573,7 @@
       "street": "Willekensmolenstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "10", 
         "2", 
@@ -596,21 +597,6 @@
       "street": "Willekensmolenstraat"
     }, 
     {
-      "busnrs": [
-        "8"
-      ], 
-      "hnrlbls": [
-        "168"
-      ], 
-      "housenumber": "168", 
-      "lat": 50.9320190283331, 
-      "lon": 5.349618492769601, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "afgeleidVanStraat", 
-      "street": "Willekensmolenstraat"
-    }, 
-    {
       "hnrlbls": [
         "17"
       ], 
@@ -627,19 +613,19 @@
         "18"
       ], 
       "housenumber": "18", 
-      "lat": 50.93109862841384, 
-      "lon": 5.346146845381876, 
+      "lat": 50.93110293962131, 
+      "lon": 5.345834103131197, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Willekensmolenstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1"
       ], 
       "hnrlbls": [
-        "19-19A"
+        "19"
       ], 
       "housenumber": "19", 
       "lat": 50.931178856024054, 
@@ -651,18 +637,18 @@
     }, 
     {
       "hnrlbls": [
-        "19-19A"
+        "19A"
       ], 
       "housenumber": "19A", 
-      "lat": 50.931178856024054, 
-      "lon": 5.346779446770494, 
+      "lat": 50.931153642339275, 
+      "lon": 5.346838386035793, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Willekensmolenstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2"
       ], 
@@ -690,16 +676,18 @@
       "street": "Willekensmolenstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
-        "3", 
         "4", 
         "5", 
         "6", 
         "7", 
         "8", 
         "9"
+      ], 
+      "busnrs": [
+        "3"
       ], 
       "hnrlbls": [
         "20-24"
@@ -717,7 +705,7 @@
         "21"
       ], 
       "housenumber": "21", 
-      "lat": 50.93122245233586, 
+      "lat": 50.931222452335845, 
       "lon": 5.346801695380931, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
@@ -725,14 +713,14 @@
       "street": "Willekensmolenstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
+      "apptnrs": [
         "2", 
         "3", 
         "4", 
-        "5", 
-        "6", 
-        "7"
+        "5"
+      ], 
+      "busnrs": [
+        "1"
       ], 
       "hnrlbls": [
         "20-24"
@@ -746,7 +734,7 @@
       "street": "Willekensmolenstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "10", 
         "11", 
@@ -771,7 +759,7 @@
       "street": "Willekensmolenstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "10", 
         "11", 
@@ -798,7 +786,7 @@
       "street": "Willekensmolenstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "10", 
         "11", 
@@ -825,7 +813,7 @@
       "street": "Willekensmolenstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "10", 
         "11", 
@@ -836,13 +824,15 @@
         "16", 
         "17", 
         "2", 
-        "3", 
         "4", 
         "5", 
         "6", 
         "7", 
         "8", 
         "9"
+      ], 
+      "busnrs": [
+        "3"
       ], 
       "hnrlbls": [
         "229"
@@ -868,7 +858,7 @@
       "street": "Willekensmolenstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "10", 
         "11", 
@@ -877,9 +867,11 @@
         "4", 
         "5", 
         "6", 
-        "7", 
-        "8", 
         "9"
+      ], 
+      "busnrs": [
+        "7", 
+        "8"
       ], 
       "hnrlbls": [
         "231"
@@ -893,7 +885,7 @@
       "street": "Willekensmolenstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3", 
@@ -915,18 +907,18 @@
       "street": "Willekensmolenstraat"
     }, 
     {
-      "busnrs": [
-        "A"
+      "apptnrs": [
+        "1"
       ], 
       "hnrlbls": [
-        "24_1"
+        "24A"
       ], 
-      "housenumber": "24_1", 
-      "lat": 50.931081663914576, 
-      "lon": 5.3461328346851875, 
+      "housenumber": "24A", 
+      "lat": 50.93120941323666, 
+      "lon": 5.345992382715166, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Willekensmolenstraat"
     }, 
     {
@@ -1050,7 +1042,7 @@
       "street": "Willekensmolenstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2"
       ], 
@@ -1234,7 +1226,7 @@
       "street": "Willekensmolenstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3"
@@ -1251,7 +1243,7 @@
       "street": "Willekensmolenstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3"
@@ -1268,7 +1260,7 @@
       "street": "Willekensmolenstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2"
       ], 
@@ -1284,7 +1276,7 @@
       "street": "Willekensmolenstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3", 
@@ -1304,7 +1296,7 @@
       "street": "Willekensmolenstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3"
@@ -1333,7 +1325,7 @@
       "street": "Willekensmolenstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2"
       ], 
@@ -1349,7 +1341,7 @@
       "street": "Willekensmolenstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3"
@@ -1370,11 +1362,11 @@
         "61"
       ], 
       "housenumber": "61", 
-      "lat": 50.932022880599945, 
-      "lon": 5.34776743496867, 
+      "lat": 50.932033928856214, 
+      "lon": 5.347887167384417, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Willekensmolenstraat"
     }, 
     {
@@ -1486,14 +1478,16 @@
       "street": "Willekensmolenstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3", 
         "4", 
         "5", 
-        "6", 
         "7"
+      ], 
+      "busnrs": [
+        "6"
       ], 
       "hnrlbls": [
         "70-72"
@@ -1511,7 +1505,7 @@
         "71"
       ], 
       "housenumber": "71", 
-      "lat": 50.93219379835258, 
+      "lat": 50.93219379835257, 
       "lon": 5.348228953111364, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
@@ -1519,15 +1513,16 @@
       "street": "Willekensmolenstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "102", 
-        "2", 
+      "apptnrs": [
         "3", 
         "4", 
         "5", 
         "6", 
         "7"
+      ], 
+      "busnrs": [
+        "1", 
+        "2"
       ], 
       "hnrlbls": [
         "70-72"
@@ -1589,15 +1584,17 @@
       "street": "Willekensmolenstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
+      "apptnrs": [
         "2", 
         "3", 
         "4", 
         "5"
       ], 
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
-        "81-81B"
+        "81"
       ], 
       "housenumber": "81", 
       "lat": 50.9322924906405, 
@@ -1608,22 +1605,7 @@
       "street": "Willekensmolenstraat"
     }, 
     {
-      "busnrs": [
-        "3"
-      ], 
-      "hnrlbls": [
-        "81-81B"
-      ], 
-      "housenumber": "81B", 
-      "lat": 50.9322924906405, 
-      "lon": 5.348683701305264, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Willekensmolenstraat"
-    }, 
-    {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3", 
@@ -1644,19 +1626,7 @@
       "street": "Willekensmolenstraat"
     }, 
     {
-      "hnrlbls": [
-        "87-93"
-      ], 
-      "housenumber": "87", 
-      "lat": 50.93238560967648, 
-      "lon": 5.349030498003525, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Willekensmolenstraat"
-    }, 
-    {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2"
       ], 
@@ -1666,18 +1636,6 @@
       "housenumber": "88", 
       "lat": 50.932572711341685, 
       "lon": 5.349846319843071, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Willekensmolenstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "87-93"
-      ], 
-      "housenumber": "89", 
-      "lat": 50.93238560967648, 
-      "lon": 5.349030498003525, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanGebouw", 
@@ -1708,10 +1666,9 @@
       "street": "Willekensmolenstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "10", 
-        "11", 
         "2", 
         "3", 
         "4", 
@@ -1722,7 +1679,7 @@
         "9"
       ], 
       "hnrlbls": [
-        "87-93"
+        "91"
       ], 
       "housenumber": "91", 
       "lat": 50.93238560967648, 
@@ -1739,18 +1696,6 @@
       "housenumber": "92", 
       "lat": 50.93255983771039, 
       "lon": 5.350042092454957, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Willekensmolenstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "87-93"
-      ], 
-      "housenumber": "93", 
-      "lat": 50.93238560967648, 
-      "lon": 5.349030498003525, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanGebouw", 
