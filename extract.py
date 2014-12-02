@@ -4,12 +4,28 @@ import os
 import io
 import sys
 import string
+import parser
+import argparse
 import time
 import json
 import shapefile
 from collections import namedtuple
 
 from lambert import Belgium1972LambertProjection
+
+parser = argparse.ArgumentParser(description='Reads the AGIV CRAB database in Shapefile format and converts this to a number of json files.')
+parser.add_argument('path', help='Path to the CrabAdr.shp file.')
+parser.add_argument('--output-dir', default='data/', help='The path to the output files.')
+args = parser.parse_args()
+
+# Check the output directory first, before all calculations
+outputDir = args.output_dir
+
+if (outputDir[-1] != '/'):
+    outputDir += '/'
+
+if os.path.exists(outputDir):
+    sys.exit("The directory " + outputDir + " already exists. Please delete the directory before proceeding.")
 
 # Statistical variables
 stats = {
@@ -19,7 +35,7 @@ stats = {
     'streets'        : 0, # the amount of streets in the source-file
     'housenumbers'   : 0, # the amount of unique addresses written to output-files
     'busnrs'         : 0, # the amount of recoords with a BUSNR
-    'apptnrs'         : 0 # the amount of reccords with a APTNR
+    'apptnrs'        : 0  # the amount of reccords with a APTNR
 }
 # Faulty stats (logging the mistakes in CRAB)
 f_stats = {
@@ -29,7 +45,7 @@ f_stats = {
     'PSH_not_unique' : 0, # the amount of Postcode-Streetname-Housenumber addresses with a deviant NIS-code
     'niscodes'       : 0, # the amount of mismatches between niscodes and their minicipality-name
     'postcodes'      : 0, # the amount of mismatches between postcodes an ther municipality (1 postcode belonging to multiple municiplaities)
-    'busnrs_apptnrs' : 0 # the amount of addresses with one or more busnrs as well as one or more apptnr
+    'busnrs_apptnrs' : 0  # the amount of addresses with one or more busnrs as well as one or more apptnr
 }
 
 error_log = ""
@@ -99,9 +115,7 @@ Street  = namedtuple('Street',  ['original', 'sanitized', 'housenumbers'])
 
 time_at_start = time.time()
 dispProgress("m1", "Initialize")
-#sf = shapefile.Reader("./Export_Output_kastanjelaan.shp")
-sf = shapefile.Reader("../Shapefile/CrabAdr.shp")
-#sf = shapefile.Reader("../CRAB_Adressenlijst/Shapefile/CrabAdr.shp")
+sf = shapefile.Reader(args.path)
 
 rec_count = len(sf.shapes())
 dispProgress("m1")
@@ -291,7 +305,7 @@ for pcode in sorted(hier_addr_dic.keys()):
 
         if streetInfo['numOfAddr'] == 0: continue
 
-        directory = "./data/" + str(pcode) + "/"
+        directory = outputDir + str(pcode) + "/"
         if not os.path.exists(directory): os.makedirs(directory)
 
         with io.open(directory + streetInfo['sanName'] + ".json", 'wb') as json_file:
@@ -299,7 +313,7 @@ for pcode in sorted(hier_addr_dic.keys()):
 
         pcodeJson["streets"].append(streetInfo)
 
-    with io.open("./data/" + str(pcode) + ".json", 'wb') as json_file:
+    with io.open(outputDir + str(pcode) + ".json", 'wb') as json_file:
         json.dump(pcodeJson, json_file, indent = 2, encoding='latin-1', sort_keys=True)
 
     i += 1
