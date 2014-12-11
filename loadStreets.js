@@ -484,11 +484,9 @@ function getOsmXml(type, streetData)
 {
 	var timeStr = (new Date()).toISOString();
 
-	var uploadStr = " ";
-	// certainly prohibit uploading the wrong or full data
-	if (type == "wrong" || type == "full")
-		uploadStr = " upload='no' ";
-	var str = "<osm version='0.6'" + uploadStr + "generator='flanders-addr-import'>";
+	// Never upload the layer.
+	// Specific changes from the layer should be copied to the data layer, as documented in the best workflow.
+	var str = "<osm version='0.6' upload='no' generator='flanders-addr-import'>";
 	for (var i = 0; i < streetData[type].length; i++)
 	{
 		var addr = streetData[type][i];
