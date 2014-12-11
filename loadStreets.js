@@ -567,7 +567,7 @@ function getGpxXml(type) {
 			gpx += "<wpt lat='" + addr.lat + "' ";
 			gpx += "lon='" + addr.lon + "'>";
 			gpx += "<name>"
-			gpx += type + ": " + escapeXML(addr.street) + " " + escapeXML(addr.housenumber);
+			gpx += escapeXML(addr.housenumber) + escapeXML(addr.street) + " (" + type + ")";
 			gpx += "</name>";
 			gpx += "</wpt>";
 			
