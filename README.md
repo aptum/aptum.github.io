@@ -12,13 +12,13 @@ Updating the data is rather simple, but you have to make sure that all the remov
 
 1. Make sure this git repo is updated (`git pull`)
 2. First download the shapefile from https://download.agiv.be/Producten/Detail?id=447
-3. Extract the on your computer, you need the entire Shapefile directory together (so not only the .shp file).
+3. Extract the zip on your computer, you need the entire Shapefile directory together (so not only the .shp file).
 4. Delete the `data` directory (`rm -r data`) to remove the old streets
 5. Run the extract script with Python 2 (either called python or python2 depending on your system).
-  ```sh
+  ```
   python2 extract.py ../path/to/Shapefile/CrabAdr.shp
   ```
-6. Add the new streets to git (`git add data/*`). If you forget this step, places where new streets are created won't work anymore.
+6. Add the new streets to git (`git add data/*`). If you forget this step, places where new streets are created won't load anymore.
 7. Update the extraction date in the `import.html` file
-8. Commit the changes (`git commit -a -m "Updated data to version yyyy-mm-dd`)
+8. Commit the changes (`git commit -a -m "Updated data to yyyy-mm-dd`)
 9. Push the changes to the online repo (`git push origin master`)
