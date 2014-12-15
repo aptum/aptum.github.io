@@ -15,9 +15,9 @@ Updating the data is rather simple, but you have to make sure that all the remov
 3. Extract the on your computer, you need the entire Shapefile directory together (so not only the .shp file).
 4. Delete the `data` directory (`rm -r data`) to remove the old streets
 5. Run the extract script with Python 2 (either called python or python2 depending on your system).
-```sh
-python2 extract.py ../path/to/Shapefile/CrabAdr.shp
-```
+  ```sh
+  python2 extract.py ../path/to/Shapefile/CrabAdr.shp
+  ```
 6. Add the new streets to git (`git add data/*`). If you forget this step, places where new streets are created won't work anymore.
 7. Update the extraction date in the `import.html` file
 8. Commit the changes (`git commit -a -m "Updated data to version yyyy-mm-dd`)
