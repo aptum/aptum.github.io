@@ -850,18 +850,6 @@
     }, 
     {
       "hnrlbls": [
-        "172"
-      ], 
-      "housenumber": "172", 
-      "lat": 50.78328394178415, 
-      "lon": 4.291186167347378, 
-      "municipality": "Sint-Pieters-Leeuw", 
-      "pcode": "1601", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Fabriekstraat"
-    }, 
-    {
-      "hnrlbls": [
         "173-183"
       ], 
       "housenumber": "173", 
@@ -1801,14 +1789,11 @@
       "street": "Fabriekstraat"
     }, 
     {
-      "apptnrs": [
-        "2.0"
-      ], 
       "busnrs": [
-        "1"
+        "1+2R"
       ], 
       "hnrlbls": [
-        "274-274_1"
+        "274"
       ], 
       "housenumber": "274", 
       "lat": 50.78105040931214, 
@@ -1816,21 +1801,6 @@
       "municipality": "Sint-Pieters-Leeuw", 
       "pcode": "1601", 
       "source": "afgeleidVanGebouw", 
-      "street": "Fabriekstraat"
-    }, 
-    {
-      "busnrs": [
-        "eL"
-      ], 
-      "hnrlbls": [
-        "274-274_1"
-      ], 
-      "housenumber": "274_1", 
-      "lat": 50.78105040931214, 
-      "lon": 4.2881590799224085, 
-      "municipality": "Sint-Pieters-Leeuw", 
-      "pcode": "1601", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Fabriekstraat"
     }, 
     {
@@ -2718,16 +2688,15 @@
       "street": "Fabriekstraat"
     }, 
     {
-      "apptnrs": [
-        "0.0", 
-        "2.0", 
-        "3.0"
-      ], 
       "busnrs": [
-        "3"
+        "1eL", 
+        "1eR", 
+        "2eV", 
+        "3eV", 
+        "GV"
       ], 
       "hnrlbls": [
-        "37-37_1"
+        "37"
       ], 
       "housenumber": "37", 
       "lat": 50.78464557607692, 
@@ -2735,22 +2704,6 @@
       "municipality": "Sint-Pieters-Leeuw", 
       "pcode": "1601", 
       "source": "afgeleidVanGebouw", 
-      "street": "Fabriekstraat"
-    }, 
-    {
-      "busnrs": [
-        "eL", 
-        "eR"
-      ], 
-      "hnrlbls": [
-        "37-37_1"
-      ], 
-      "housenumber": "37_1", 
-      "lat": 50.78464557607692, 
-      "lon": 4.29392746863178, 
-      "municipality": "Sint-Pieters-Leeuw", 
-      "pcode": "1601", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Fabriekstraat"
     }, 
     {
@@ -2861,14 +2814,14 @@
     }, 
     {
       "hnrlbls": [
-        "45-47"
+        "45"
       ], 
       "housenumber": "45", 
-      "lat": 50.78445082605397, 
-      "lon": 4.293590703350057, 
+      "lat": 50.784498713727295, 
+      "lon": 4.2935801758438314, 
       "municipality": "Sint-Pieters-Leeuw", 
       "pcode": "1601", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Fabriekstraat"
     }, 
     {
@@ -2884,46 +2837,21 @@
       "street": "Fabriekstraat"
     }, 
     {
+      "busnrs": [
+        "1eL", 
+        "1eR", 
+        "2eL", 
+        "2eR"
+      ], 
       "hnrlbls": [
-        "45-47"
+        "47"
       ], 
       "housenumber": "47", 
-      "lat": 50.78445082605397, 
-      "lon": 4.293590703350057, 
+      "lat": 50.78445840461826, 
+      "lon": 4.293524651695718, 
       "municipality": "Sint-Pieters-Leeuw", 
       "pcode": "1601", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Fabriekstraat"
-    }, 
-    {
-      "busnrs": [
-        "eR"
-      ], 
-      "hnrlbls": [
-        "47_1-47_2"
-      ], 
-      "housenumber": "47_1", 
-      "lat": 50.7844716081194, 
-      "lon": 4.293615770079598, 
-      "municipality": "Sint-Pieters-Leeuw", 
-      "pcode": "1601", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Fabriekstraat"
-    }, 
-    {
-      "busnrs": [
-        "eL", 
-        "eR"
-      ], 
-      "hnrlbls": [
-        "47_1-47_2"
-      ], 
-      "housenumber": "47_2", 
-      "lat": 50.7844716081194, 
-      "lon": 4.293615770079598, 
-      "municipality": "Sint-Pieters-Leeuw", 
-      "pcode": "1601", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Fabriekstraat"
     }, 
     {
@@ -3156,7 +3084,7 @@
         "1"
       ], 
       "hnrlbls": [
-        "65-65A"
+        "65"
       ], 
       "housenumber": "65", 
       "lat": 50.78400111750939, 
@@ -3164,18 +3092,6 @@
       "municipality": "Sint-Pieters-Leeuw", 
       "pcode": "1601", 
       "source": "afgeleidVanGebouw", 
-      "street": "Fabriekstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "65-65A"
-      ], 
-      "housenumber": "65A", 
-      "lat": 50.78400111750939, 
-      "lon": 4.293096801490031, 
-      "municipality": "Sint-Pieters-Leeuw", 
-      "pcode": "1601", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Fabriekstraat"
     }, 
     {
@@ -3645,7 +3561,7 @@
         "2e R"
       ], 
       "hnrlbls": [
-        "97-97_2"
+        "97"
       ], 
       "housenumber": "97", 
       "lat": 50.78319745770847, 
@@ -3653,39 +3569,6 @@
       "municipality": "Sint-Pieters-Leeuw", 
       "pcode": "1601", 
       "source": "afgeleidVanGebouw", 
-      "street": "Fabriekstraat"
-    }, 
-    {
-      "busnrs": [
-        "eL", 
-        "eR", 
-        "eVl"
-      ], 
-      "hnrlbls": [
-        "97-97_2"
-      ], 
-      "housenumber": "97_1", 
-      "lat": 50.78319745770847, 
-      "lon": 4.291592854554903, 
-      "municipality": "Sint-Pieters-Leeuw", 
-      "pcode": "1601", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Fabriekstraat"
-    }, 
-    {
-      "busnrs": [
-        "eL", 
-        "eR"
-      ], 
-      "hnrlbls": [
-        "97-97_2"
-      ], 
-      "housenumber": "97_2", 
-      "lat": 50.78319745770847, 
-      "lon": 4.291592854554903, 
-      "municipality": "Sint-Pieters-Leeuw", 
-      "pcode": "1601", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Fabriekstraat"
     }, 
     {

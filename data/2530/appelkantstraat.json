@@ -17,11 +17,11 @@
         "10"
       ], 
       "housenumber": "10", 
-      "lat": 51.16049912542317, 
-      "lon": 4.489654491256113, 
+      "lat": 51.16044150761544, 
+      "lon": 4.489646787831879, 
       "municipality": "Boechout", 
       "pcode": "2530", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Appelkantstraat"
     }, 
     {
@@ -149,11 +149,11 @@
         "10B"
       ], 
       "housenumber": "10B", 
-      "lat": 51.160460247984894, 
-      "lon": 4.489612506330309, 
+      "lat": 51.1604602589831, 
+      "lon": 4.489612439524011, 
       "municipality": "Boechout", 
       "pcode": "2530", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Appelkantstraat"
     }, 
     {
@@ -315,6 +315,7 @@
     {
       "busnrs": [
         "1", 
+        "2", 
         "3"
       ], 
       "hnrlbls": [
@@ -386,21 +387,6 @@
       "municipality": "Boechout", 
       "pcode": "2530", 
       "source": "afgeleidVanGebouw", 
-      "street": "Appelkantstraat"
-    }, 
-    {
-      "busnrs": [
-        "3"
-      ], 
-      "hnrlbls": [
-        "13-15"
-      ], 
-      "housenumber": "13_1", 
-      "lat": 51.16012904978331, 
-      "lon": 4.489756020240112, 
-      "municipality": "Boechout", 
-      "pcode": "2530", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Appelkantstraat"
     }, 
     {
@@ -477,8 +463,9 @@
     }, 
     {
       "busnrs": [
-        "4", 
-        "7"
+        "1", 
+        "2", 
+        "3"
       ], 
       "hnrlbls": [
         "13-15"
