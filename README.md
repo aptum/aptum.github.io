@@ -19,5 +19,6 @@ Updating the data is rather simple, but you have to make sure that all the remov
 python2 extract.py ../path/to/Shapefile/CrabAdr.shp
 ```
 6. Add the new streets to git (`git add data/*`). If you forget this step, places where new streets are created won't work anymore.
-7. Commit the changes (`git commit -a -m "Updated data to version yyyy-mm-dd`)
-8. Push the changes to the online repo (`git push origin master`)
+7. Update the extraction date in the `import.html` file
+8. Commit the changes (`git commit -a -m "Updated data to version yyyy-mm-dd`)
+9. Push the changes to the online repo (`git push origin master`)
