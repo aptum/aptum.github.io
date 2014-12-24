@@ -340,6 +340,9 @@ function compareData() {
 			if (doc)
 				doc.innerHTML = getCellHtml(type, i);
 		}
+		var doc = document.getElementById(street.sanName);
+		if (doc)
+			doc.style.backgroundColor = hslToRgb(street.completeness / 3, 1, 0.8);
 	}
 	for (var t = 0; t < 3; t++)
 	{
