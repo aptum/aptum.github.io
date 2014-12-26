@@ -503,13 +503,21 @@ function getOsmXml(type, streetData)
 			"uid='1' user=''>";
 		// tags
 		if (addr.housenumber)
-			str += getOsmTag("addr:housenumber", addr.housenumber.toUpperCase());
+			str += getOsmTag("addr:housenumber", addr.housenumber);
 		if (addr.official_housenumber)
 			str += getOsmTag("addr:official_housenumber", addr.official_housenumber);
 		
 		str += getOsmTag("addr:street", addr.street.replace(/_[0-9]+/g,""));
+		// Usual fixme notes
 		if (addr.street.indexOf(".") > -1)
 			fixme += "This street contains abbreviations, please try to expand them"
+		if (addr.housenumber.toUpperCase() != addr.housenumber)
+			fixme += "Alphabetic bis-numbers should be capitalised (" +
+				addr.housenumber.toUpperCase() +
+				" instead of " +
+				addr.housenumber + ")."
+		if (addr.housenumber.indexOf("_"))
+			fixme += "This housenumber has a numeric bis-number with an underscore. Bis-numbers should be noted as 10/1, 10/2, 10/2, ... or 10 bis, 10 ter, ... Please check locally which format fits best. "
 		if (type == "wrong")
 		{
 			// odbl:note is discarded by JOSM, so never uploaded
