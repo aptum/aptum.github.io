@@ -772,7 +772,7 @@ function escapeRegExp(str, flag) {
 		// _num suffixes are added by AGIV to differ streets with the same name, but these suffixes shouldnt' appear in OSM in most cases, so make them optional
 		str = str.replace(/_[0-9]+/g, "($&)?");
 		// Treat hyphen and space as equal
-		str = str.replace(/[\-]/g, "[\\- ]");
+		str = str.replace(/[\- ]/g, "[\\- ]");
 	}
 	else
 		str = str.replace(/[\.\*\-]/g, "\\.");
