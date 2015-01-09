@@ -139,6 +139,15 @@
 					<th title="Number of regular housenumbers not present in OSM">Missing</th>
 					<th title="Housenumbers where different ones are merged under the same hnrlabel, since they're overlapping. Map these with care, and decide if they belong to the same building or not.">Missing overlapping</th>
 					<th title="Housenumbers in OSM but without match in CRAB, please survey in case of doubt">Wrong</th>
+					<th title="Completeness of the streets, expressed as a percentage.">Completeness</th>
+				</tr>
+				<tr>
+					<th title="Totals per column">Total:</th>
+					<th title="All addresses in CRAB for this query" id="full-total"></th>
+					<th title="Total number of single addresses in CRAB but not in OSM." id="missing-total"></th>
+					<th title="Total number of overlapping addresses in CRAB but not in OSM" id="missing_overlapping-total"></th>
+					<th title="Total number of addresses in OSM without a match in CRAB" id="wrong-total"></th>
+					<th title="Overall completeness of this query" id="completeness-total"></th>
 				</tr>
 			</thead>
 			<tbody id="streetsTableBody">

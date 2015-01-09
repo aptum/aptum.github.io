@@ -28,11 +28,11 @@ if (!Array.prototype.find) {
 // GLOBAL VARIABLES
 var overpassapi = "http://overpass-api.de/api/interpreter?data=";
 
-var crabInfo = {};
-var osmInfo = [];
-var streets = [];
-var bbox = {};
-var finished = [];
+var osmInfo = []; // list of all addresses returned by overpass
+var streets = []; // list of streets with the addresses divided in several categories + extra info
+var finished = []; // list of boolean flags per street to check if the loading is finished and comparison may start
+var totals = {}; // object keeping the total number of addresses per category
+	
 var mapObj;
 
 var tableBodyId = "streetsTableBody";
@@ -83,6 +83,7 @@ function getTableRow(streetIdx)
 		'<td id="%n-missing" name="%n-missing"></td>\n' +
 		'<td id="%n-missing_overlapping" name="%n-missing_overlapping"></td>\n' +
 		'<td id="%n-wrong" name="%n-wrong"></td>\n' +
+		'<td id="%n-completeness" name="%n-completeness"></td>\n' +
 		'</tr>\n').replace(/%n/g, street.sanName);
 }
 
@@ -188,6 +189,8 @@ function getCrabInfo(num) {
 
 		streets[num].full = data.addresses;
 		streets[num].completeness = 0;
+		totals.full += data.addresses.length;
+
 		var doc = document.getElementById(sanName + '-full');
 		doc.innerHTML = getCellHtml("full", num);
 
@@ -201,8 +204,13 @@ function getCrabInfo(num) {
 
 function updateData()
 {
-	crabInfo = {};
 	osmInfo = [];
+	totals = {
+		"full": 0,
+		"missing": 0,
+		"missing_overlapping": 0,
+		"wrong": 0
+	};
 	for (var i = 0; i < streets.length; i++)
 	{
 		var sanName = streets[i].sanName;
@@ -210,8 +218,9 @@ function updateData()
 		if (loadOsmData())
 		{
 			document.getElementById(sanName + "-missing").innerHTML = "Loading...";
-			document.getElementById(sanName + "-missing_overlapping").innerHTML = "Loading...";
-			document.getElementById(sanName + "-wrong").innerHTML = "Loading...";
+			document.getElementById(sanName + "-missing_overlapping").innerHTML = "...";
+			document.getElementById(sanName + "-wrong").innerHTML = "...";
+			document.getElementById(sanName + "-completeness").innerHTML = "...";
 		}
 		// Also import the actual CRAB data
 		getCrabInfo(i);
@@ -228,6 +237,9 @@ function finishLoading()
 {
 	if (!finished.every(function(d) { return d; }))
 		return;
+
+	document.getElementById("full-total").innerHTML = totals.full;
+
 	if (loadOsmData())
 		compareData();
 	renderMap();
@@ -339,10 +351,14 @@ function compareData() {
 			var doc = document.getElementById(street.sanName + '-' + type);
 			if (doc)
 				doc.innerHTML = getCellHtml(type, i);
+
+			totals[type] += street[type].length; // sum towards the total
 		}
 		var doc = document.getElementById(street.sanName);
 		if (doc)
 			doc.style.backgroundColor = hslToRgb(street.completeness / 3, 1, 0.8);
+		doc = document.getElementById(street.sanName + '-completeness');
+			doc.innerHTML = Math.round(street.completeness * 1000) / 10;
 	}
 	for (var t = 0; t < 3; t++)
 	{
@@ -355,6 +371,11 @@ function compareData() {
 			doc.title = "Click to download the results as a GPX file"
 		}
 	}
+	document.getElementById("missing-total").innerHTML = totals.missing;
+	document.getElementById("missing_overlapping-total").innerHTML = totals.missing_overlapping;
+	document.getElementById("wrong-total").innerHTML = totals.wrong;
+	var completeness = (totals.full - totals.missing - totals.missing_overlapping - totals.wrong) / totals.full;
+	document.getElementById("completeness-total").innerHTML = Math.round(completeness * 1000) / 10;
 }
 
 /**
@@ -671,7 +692,7 @@ function sortTable(col, reverse) {
 }
 
 function renderMap() {
-	bbox = {t: -90, b: 90, l: 180, r: -180};
+	var bbox = {t: -90, b: 90, l: 180, r: -180};
 	mapObj = L.map('map');
 	var icons = [];
 	for (var i = 0; i <= 10; i++)
