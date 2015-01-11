@@ -480,25 +480,25 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "101", 
-        "102", 
-        "103", 
-        "104", 
-        "105", 
-        "106", 
-        "2", 
-        "201", 
-        "202", 
-        "203", 
-        "204", 
-        "205", 
-        "206", 
-        "3", 
-        "301", 
-        "302", 
-        "303", 
-        "4"
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0104", 
+        "0105", 
+        "0106", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0204", 
+        "0205", 
+        "0206", 
+        "0301", 
+        "0302", 
+        "0303"
       ], 
       "hnrlbls": [
         "139"
@@ -537,18 +537,6 @@
     }, 
     {
       "hnrlbls": [
-        "141-145"
-      ], 
-      "housenumber": "141", 
-      "lat": 50.85279824938833, 
-      "lon": 3.349544614870353, 
-      "municipality": "Deerlijk", 
-      "pcode": "8540", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Hoogstraat"
-    }, 
-    {
-      "hnrlbls": [
         "140-148"
       ], 
       "housenumber": "142", 
@@ -561,18 +549,6 @@
     }, 
     {
       "hnrlbls": [
-        "141-145"
-      ], 
-      "housenumber": "143", 
-      "lat": 50.85279824938833, 
-      "lon": 3.349544614870353, 
-      "municipality": "Deerlijk", 
-      "pcode": "8540", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Hoogstraat"
-    }, 
-    {
-      "hnrlbls": [
         "140-148"
       ], 
       "housenumber": "144", 
@@ -581,18 +557,6 @@
       "municipality": "Deerlijk", 
       "pcode": "8540", 
       "source": "afgeleidVanGebouw", 
-      "street": "Hoogstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "141-145"
-      ], 
-      "housenumber": "145", 
-      "lat": 50.85279824938833, 
-      "lon": 3.349544614870353, 
-      "municipality": "Deerlijk", 
-      "pcode": "8540", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Hoogstraat"
     }, 
     {
@@ -1435,18 +1399,6 @@
     }, 
     {
       "hnrlbls": [
-        "52-54"
-      ], 
-      "housenumber": "52", 
-      "lat": 50.85453910443653, 
-      "lon": 3.3579409306294523, 
-      "municipality": "Deerlijk", 
-      "pcode": "8540", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Hoogstraat"
-    }, 
-    {
-      "hnrlbls": [
         "53"
       ], 
       "housenumber": "53", 
@@ -1459,14 +1411,14 @@
     }, 
     {
       "hnrlbls": [
-        "52-54"
+        "54"
       ], 
       "housenumber": "54", 
-      "lat": 50.85453910443653, 
-      "lon": 3.3579409306294523, 
+      "lat": 50.85450584970693, 
+      "lon": 3.3578973795976457, 
       "municipality": "Deerlijk", 
       "pcode": "8540", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hoogstraat"
     }, 
     {
@@ -1897,39 +1849,19 @@
       "street": "Hoogstraat"
     }, 
     {
+      "busnrs": [
+        "A", 
+        "B"
+      ], 
       "hnrlbls": [
-        "91-91B"
+        "91"
       ], 
       "housenumber": "91", 
-      "lat": 50.85368639274311, 
-      "lon": 3.3537137667103067, 
+      "lat": 50.853686382967815, 
+      "lon": 3.353713708851565, 
       "municipality": "Deerlijk", 
       "pcode": "8540", 
       "source": "afgeleidVanGebouw", 
-      "street": "Hoogstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "91-91B"
-      ], 
-      "housenumber": "91A", 
-      "lat": 50.85368639274311, 
-      "lon": 3.3537137667103067, 
-      "municipality": "Deerlijk", 
-      "pcode": "8540", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Hoogstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "91-91B"
-      ], 
-      "housenumber": "91B", 
-      "lat": 50.85368639274311, 
-      "lon": 3.3537137667103067, 
-      "municipality": "Deerlijk", 
-      "pcode": "8540", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Hoogstraat"
     }, 
     {
@@ -1937,11 +1869,11 @@
         "93"
       ], 
       "housenumber": "93", 
-      "lat": 50.853664401382936, 
-      "lon": 3.35360345976984, 
+      "lat": 50.853681895840175, 
+      "lon": 3.3536812238834885, 
       "municipality": "Deerlijk", 
       "pcode": "8540", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelKadaster", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hoogstraat"
     }, 
     {

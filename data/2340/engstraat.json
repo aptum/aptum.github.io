@@ -125,8 +125,8 @@
         "22"
       ], 
       "housenumber": "22", 
-      "lat": 51.29831089471512, 
-      "lon": 4.7849401312749364, 
+      "lat": 51.298008767432094, 
+      "lon": 4.7846814612965405, 
       "municipality": "Beerse", 
       "pcode": "2340", 
       "source": "afgeleidVanGebouw", 
@@ -221,11 +221,23 @@
         "33"
       ], 
       "housenumber": "33", 
-      "lat": 51.29855488125737, 
-      "lon": 4.785080385380988, 
+      "lat": 51.29861292942413, 
+      "lon": 4.785198587298633, 
       "municipality": "Beerse", 
       "pcode": "2340", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Engstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "34"
+      ], 
+      "housenumber": "34", 
+      "lat": 51.298611590033616, 
+      "lon": 4.786560369855533, 
+      "municipality": "Beerse", 
+      "pcode": "2340", 
+      "source": "afgeleidVanGebouw", 
       "street": "Engstraat"
     }, 
     {
@@ -250,18 +262,6 @@
       "municipality": "Beerse", 
       "pcode": "2340", 
       "source": "afgeleidVanGebouw", 
-      "street": "Engstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "37"
-      ], 
-      "housenumber": "37", 
-      "lat": 51.29883823267653, 
-      "lon": 4.7897900595816445, 
-      "municipality": "Beerse", 
-      "pcode": "2340", 
-      "source": "afgeleidVanPerceelGrb", 
       "street": "Engstraat"
     }, 
     {
@@ -365,11 +365,11 @@
         "48"
       ], 
       "housenumber": "48", 
-      "lat": 51.299240319290675, 
-      "lon": 4.7888431197726, 
+      "lat": 51.299353209105504, 
+      "lon": 4.788745855430619, 
       "municipality": "Beerse", 
       "pcode": "2340", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Engstraat"
     }, 
     {
@@ -521,8 +521,8 @@
         "62"
       ], 
       "housenumber": "62", 
-      "lat": 51.29885651828018, 
-      "lon": 4.790611189435719, 
+      "lat": 51.29884737618996, 
+      "lon": 4.79020062442805, 
       "municipality": "Beerse", 
       "pcode": "2340", 
       "source": "afgeleidVanPerceelGrb", 
@@ -541,15 +541,24 @@
       "street": "Engstraat"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
         "64"
       ], 
       "housenumber": "64", 
-      "lat": 51.299589638451806, 
-      "lon": 4.791657185096233, 
+      "lat": 51.299165105606065, 
+      "lon": 4.792405605509692, 
+      "municipality": "Beerse", 
+      "pcode": "2340", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Engstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "64_1"
+      ], 
+      "housenumber": "64_1", 
+      "lat": 51.3000140412972, 
+      "lon": 4.790908740937259, 
       "municipality": "Beerse", 
       "pcode": "2340", 
       "source": "afgeleidVanGebouw", 
@@ -574,18 +583,6 @@
       "housenumber": "66", 
       "lat": 51.300085442987104, 
       "lon": 4.791175787032691, 
-      "municipality": "Beerse", 
-      "pcode": "2340", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Engstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "67"
-      ], 
-      "housenumber": "67", 
-      "lat": 51.30018134625255, 
-      "lon": 4.790067623021857, 
       "municipality": "Beerse", 
       "pcode": "2340", 
       "source": "afgeleidVanGebouw", 
@@ -641,6 +638,30 @@
     }, 
     {
       "hnrlbls": [
+        "71"
+      ], 
+      "housenumber": "71", 
+      "lat": 51.30036753650984, 
+      "lon": 4.7905164252551256, 
+      "municipality": "Beerse", 
+      "pcode": "2340", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Engstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "71_1"
+      ], 
+      "housenumber": "71_1", 
+      "lat": 51.30039532099099, 
+      "lon": 4.790592550203161, 
+      "municipality": "Beerse", 
+      "pcode": "2340", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Engstraat"
+    }, 
+    {
+      "hnrlbls": [
         "72"
       ], 
       "housenumber": "72", 
@@ -652,35 +673,23 @@
       "street": "Engstraat"
     }, 
     {
+      "busnrs": [
+        "B1", 
+        "B2", 
+        "B3", 
+        "B4", 
+        "B5", 
+        "B6"
+      ], 
       "hnrlbls": [
-        "73-73B"
+        "73"
       ], 
       "housenumber": "73", 
-      "lat": 51.300479168207495, 
-      "lon": 4.790862496671916, 
+      "lat": 51.300479200536714, 
+      "lon": 4.790862440412029, 
       "municipality": "Beerse", 
       "pcode": "2340", 
       "source": "afgeleidVanGebouw", 
-      "street": "Engstraat"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6"
-      ], 
-      "hnrlbls": [
-        "73-73B"
-      ], 
-      "housenumber": "73B", 
-      "lat": 51.300479168207495, 
-      "lon": 4.790862496671916, 
-      "municipality": "Beerse", 
-      "pcode": "2340", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Engstraat"
     }, 
     {
@@ -696,8 +705,15 @@
       "street": "Engstraat"
     }, 
     {
+      "busnrs": [
+        "B1", 
+        "B2", 
+        "B3", 
+        "B4", 
+        "B5"
+      ], 
       "hnrlbls": [
-        "75-75D"
+        "75"
       ], 
       "housenumber": "75", 
       "lat": 51.300586273901814, 
@@ -705,37 +721,6 @@
       "municipality": "Beerse", 
       "pcode": "2340", 
       "source": "afgeleidVanGebouw", 
-      "street": "Engstraat"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5"
-      ], 
-      "hnrlbls": [
-        "75-75D"
-      ], 
-      "housenumber": "75B", 
-      "lat": 51.300586273901814, 
-      "lon": 4.791199265880002, 
-      "municipality": "Beerse", 
-      "pcode": "2340", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Engstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "75-75D"
-      ], 
-      "housenumber": "75D", 
-      "lat": 51.300586273901814, 
-      "lon": 4.791199265880002, 
-      "municipality": "Beerse", 
-      "pcode": "2340", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Engstraat"
     }, 
     {
@@ -799,9 +784,6 @@
       "street": "Engstraat"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
         "81"
       ], 
@@ -815,13 +797,17 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "4", 
-        "5", 
-        "7"
+        "B1", 
+        "B2", 
+        "B3", 
+        "B4", 
+        "B5", 
+        "B6", 
+        "B7", 
+        "B8"
       ], 
       "hnrlbls": [
-        "82-82B"
+        "82"
       ], 
       "housenumber": "82", 
       "lat": 51.30077618161735, 
@@ -829,28 +815,6 @@
       "municipality": "Beerse", 
       "pcode": "2340", 
       "source": "afgeleidVanGebouw", 
-      "street": "Engstraat"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6", 
-        "7", 
-        "8"
-      ], 
-      "hnrlbls": [
-        "82-82B"
-      ], 
-      "housenumber": "82B", 
-      "lat": 51.30077618161735, 
-      "lon": 4.793436441563784, 
-      "municipality": "Beerse", 
-      "pcode": "2340", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Engstraat"
     }, 
     {
@@ -866,9 +830,6 @@
       "street": "Engstraat"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
         "84"
       ], 
@@ -878,6 +839,18 @@
       "municipality": "Beerse", 
       "pcode": "2340", 
       "source": "afgeleidVanGebouw", 
+      "street": "Engstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "84_1"
+      ], 
+      "housenumber": "84_1", 
+      "lat": 51.29890243264595, 
+      "lon": 4.794327885724432, 
+      "municipality": "Beerse", 
+      "pcode": "2340", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Engstraat"
     }, 
     {
@@ -917,15 +890,36 @@
       "street": "Engstraat"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
         "90"
       ], 
       "housenumber": "90", 
-      "lat": 51.30112261845638, 
-      "lon": 4.79420325926448, 
+      "lat": 51.301056333453204, 
+      "lon": 4.794082967147179, 
+      "municipality": "Beerse", 
+      "pcode": "2340", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Engstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "90_1"
+      ], 
+      "housenumber": "90_1", 
+      "lat": 51.301188815862446, 
+      "lon": 4.794323590141515, 
+      "municipality": "Beerse", 
+      "pcode": "2340", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Engstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "91"
+      ], 
+      "housenumber": "91", 
+      "lat": 51.3012822096464, 
+      "lon": 4.793537658745203, 
       "municipality": "Beerse", 
       "pcode": "2340", 
       "source": "afgeleidVanGebouw", 
@@ -938,6 +932,18 @@
       "housenumber": "92", 
       "lat": 51.301373086554406, 
       "lon": 4.794437545472166, 
+      "municipality": "Beerse", 
+      "pcode": "2340", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Engstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "93"
+      ], 
+      "housenumber": "93", 
+      "lat": 51.30130513101763, 
+      "lon": 4.793625449595565, 
       "municipality": "Beerse", 
       "pcode": "2340", 
       "source": "afgeleidVanGebouw", 

@@ -2,16 +2,19 @@
   "addresses": [
     {
       "busnrs": [
+        "01", 
         "11", 
+        "12", 
         "21", 
-        "22"
+        "22", 
+        "31"
       ], 
       "hnrlbls": [
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 50.96728904126613, 
-      "lon": 3.9775135087787565, 
+      "lat": 50.96736489395763, 
+      "lon": 3.9775257752517046, 
       "municipality": "Lede", 
       "pcode": "9340", 
       "source": "afgeleidVanGebouw", 
@@ -19,14 +22,14 @@
     }, 
     {
       "hnrlbls": [
-        "10-10A"
+        "10"
       ], 
       "housenumber": "10", 
-      "lat": 50.96835934055309, 
-      "lon": 3.9783900957870117, 
+      "lat": 50.9683656040862, 
+      "lon": 3.9782003395749643, 
       "municipality": "Lede", 
       "pcode": "9340", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Vijverstraat"
     }, 
     {
@@ -43,14 +46,14 @@
     }, 
     {
       "hnrlbls": [
-        "10-10A"
+        "10A"
       ], 
       "housenumber": "10A", 
-      "lat": 50.96835934055309, 
-      "lon": 3.9783900957870117, 
+      "lat": 50.968381207834774, 
+      "lon": 3.9783516852404506, 
       "municipality": "Lede", 
       "pcode": "9340", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Vijverstraat"
     }, 
     {
@@ -82,11 +85,11 @@
         "12A"
       ], 
       "housenumber": "12A", 
-      "lat": 50.96838899230133, 
-      "lon": 3.9786032527526527, 
+      "lat": 50.96842753429942, 
+      "lon": 3.9785422855428396, 
       "municipality": "Lede", 
       "pcode": "9340", 
-      "source": "geinterpoleerdObvWegverbinding", 
+      "source": "afgeleidVanGebouw", 
       "street": "Vijverstraat"
     }, 
     {
@@ -106,11 +109,11 @@
         "14"
       ], 
       "housenumber": "14", 
-      "lat": 50.96854848608124, 
-      "lon": 3.9785288949650637, 
+      "lat": 50.968502854703196, 
+      "lon": 3.978540609849419, 
       "municipality": "Lede", 
       "pcode": "9340", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Vijverstraat"
     }, 
     {
@@ -167,18 +170,6 @@
     }, 
     {
       "hnrlbls": [
-        "18-20"
-      ], 
-      "housenumber": "18", 
-      "lat": 50.9678438459847, 
-      "lon": 3.978050433112297, 
-      "municipality": "Lede", 
-      "pcode": "9340", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Vijverstraat"
-    }, 
-    {
-      "hnrlbls": [
         "19"
       ], 
       "housenumber": "19", 
@@ -215,35 +206,11 @@
     }, 
     {
       "hnrlbls": [
-        "18-20"
-      ], 
-      "housenumber": "20", 
-      "lat": 50.9678438459847, 
-      "lon": 3.978050433112297, 
-      "municipality": "Lede", 
-      "pcode": "9340", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Vijverstraat"
-    }, 
-    {
-      "hnrlbls": [
         "2-21"
       ], 
       "housenumber": "21", 
       "lat": 50.96907974003204, 
       "lon": 3.9792851422814395, 
-      "municipality": "Lede", 
-      "pcode": "9340", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Vijverstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "22-24"
-      ], 
-      "housenumber": "22", 
-      "lat": 50.9687303254553, 
-      "lon": 3.978687402296676, 
       "municipality": "Lede", 
       "pcode": "9340", 
       "source": "afgeleidVanGebouw", 
@@ -263,11 +230,11 @@
     }, 
     {
       "hnrlbls": [
-        "22-24"
+        "24"
       ], 
       "housenumber": "24", 
-      "lat": 50.9687303254553, 
-      "lon": 3.978687402296676, 
+      "lat": 50.96873023556464, 
+      "lon": 3.9786874030432227, 
       "municipality": "Lede", 
       "pcode": "9340", 
       "source": "afgeleidVanGebouw", 
@@ -328,18 +295,6 @@
       "housenumber": "29", 
       "lat": 50.9693704820757, 
       "lon": 3.9792391670807663, 
-      "municipality": "Lede", 
-      "pcode": "9340", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Vijverstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "1-2A"
-      ], 
-      "housenumber": "2A", 
-      "lat": 50.96756286394828, 
-      "lon": 3.97746182848077, 
       "municipality": "Lede", 
       "pcode": "9340", 
       "source": "afgeleidVanGebouw", 
@@ -459,14 +414,14 @@
     }, 
     {
       "hnrlbls": [
-        "46-50"
+        "46"
       ], 
       "housenumber": "46", 
-      "lat": 50.969246554949954, 
-      "lon": 3.97865222141844, 
+      "lat": 50.969265315119436, 
+      "lon": 3.9785436497869915, 
       "municipality": "Lede", 
       "pcode": "9340", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Vijverstraat"
     }, 
     {
@@ -519,14 +474,14 @@
     }, 
     {
       "hnrlbls": [
-        "46-50"
+        "50"
       ], 
       "housenumber": "50", 
-      "lat": 50.969246554949954, 
-      "lon": 3.97865222141844, 
+      "lat": 50.96924869962091, 
+      "lon": 3.9788467442614572, 
       "municipality": "Lede", 
       "pcode": "9340", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Vijverstraat"
     }, 
     {
@@ -714,8 +669,8 @@
         "74"
       ], 
       "housenumber": "74", 
-      "lat": 50.97006620392647, 
-      "lon": 3.9789792685473686, 
+      "lat": 50.970048305034595, 
+      "lon": 3.9789801383126107, 
       "municipality": "Lede", 
       "pcode": "9340", 
       "source": "afgeleidVanGebouw", 
@@ -726,8 +681,8 @@
         "76"
       ], 
       "housenumber": "76", 
-      "lat": 50.97012238790839, 
-      "lon": 3.9789795141180035, 
+      "lat": 50.97008398056398, 
+      "lon": 3.9789783707004434, 
       "municipality": "Lede", 
       "pcode": "9340", 
       "source": "afgeleidVanGebouw", 
@@ -735,11 +690,11 @@
     }, 
     {
       "hnrlbls": [
-        "78-80"
+        "78"
       ], 
       "housenumber": "78", 
-      "lat": 50.970191271821015, 
-      "lon": 3.9789601496950016, 
+      "lat": 50.97012236511208, 
+      "lon": 3.9789795205685294, 
       "municipality": "Lede", 
       "pcode": "9340", 
       "source": "afgeleidVanGebouw", 
@@ -764,11 +719,11 @@
     }, 
     {
       "hnrlbls": [
-        "78-80"
+        "80"
       ], 
       "housenumber": "80", 
-      "lat": 50.970191271821015, 
-      "lon": 3.9789601496950016, 
+      "lat": 50.97019124545341, 
+      "lon": 3.978960171187528, 
       "municipality": "Lede", 
       "pcode": "9340", 
       "source": "afgeleidVanGebouw", 
@@ -836,26 +791,14 @@
     }, 
     {
       "hnrlbls": [
-        "92"
-      ], 
-      "housenumber": "92", 
-      "lat": 50.97170120396669, 
-      "lon": 3.9793402848390342, 
-      "municipality": "Lede", 
-      "pcode": "9340", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Vijverstraat"
-    }, 
-    {
-      "hnrlbls": [
         "94"
       ], 
       "housenumber": "94", 
-      "lat": 50.971859231928796, 
-      "lon": 3.9794750844274582, 
+      "lat": 50.97170119804712, 
+      "lon": 3.979340227885587, 
       "municipality": "Lede", 
       "pcode": "9340", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Vijverstraat"
     }, 
     {
