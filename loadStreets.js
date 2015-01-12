@@ -255,14 +255,22 @@ function getOsmInfo() {
 	if (streetsFilter)
 		tagSet += '["addr:street"~"^' + streetsFilter + '$"]';
 	else
-		tagSet += '["addr:street"]'
+		tagSet += '["addr:street"]';
+	var pcode = getPcode();
+
+	var pcodeQuery =  '["addr:postcode"="' + pcode + '"]';
+	var noPcodeQuery = '["addr:postcode"=""]';
+
 	var query = 
 		'[out:json];'+
-		'area["boundary"="postal_code"]["postal_code"="' + getPcode() + '"]->.area;'+
+		'area["boundary"="postal_code"]["postal_code"="' + pcode + '"]->.area;'+
 		'('+
-			'node' + tagSet + '(area.area);'+
-			'way' + tagSet + '(area.area);'+
-			'relation' + tagSet + '(area.area);'+
+			'node' + tagSet + noPcodeQuery + '(area.area);'+
+			'way' + tagSet + noPcodeQuery + '(area.area);'+
+			'relation' + tagSet + noPcodeQuery + '(area.area);'+
+			'node' + tagSet + pcodeQuery + '(area.area);'+
+			'way' + tagSet + pcodeQuery + '(area.area);'+
+			'relation' + tagSet + pcodeQuery + '(area.area);'+
 		');'+
 		'out center;'
 
