@@ -259,7 +259,7 @@ function getOsmInfo() {
 	var pcode = getPcode();
 
 	var pcodeQuery =  '["addr:postcode"="' + pcode + '"]';
-	var noPcodeQuery = '["addr:postcode"~="."]';
+	var noPcodeQuery = '["addr:postcode"!~"."]';
 
 	var query = 
 		'[out:json];'+
