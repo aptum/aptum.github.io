@@ -1,19 +1,23 @@
 {
   "addresses": [
     {
-      "busnrs": [
-        "1", 
-        "2"
+      "apptnrs": [
+        "101", 
+        "102", 
+        "201", 
+        "202", 
+        "301", 
+        "401"
       ], 
       "hnrlbls": [
-        "1"
+        "1-9"
       ], 
       "housenumber": "1", 
-      "lat": 51.21228975118798, 
-      "lon": 4.255871326299649, 
+      "lat": 51.212486672821264, 
+      "lon": 4.25566649559312, 
       "municipality": "Beveren", 
       "pcode": "9120", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Peperstraat"
     }, 
     {
@@ -21,23 +25,23 @@
         "10"
       ], 
       "housenumber": "10", 
-      "lat": 51.212007053910426, 
-      "lon": 4.255764820191632, 
+      "lat": 51.21203233702358, 
+      "lon": 4.2557918063007545, 
       "municipality": "Beveren", 
       "pcode": "9120", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Peperstraat"
     }, 
     {
       "hnrlbls": [
-        "11-15b"
+        "11"
       ], 
       "housenumber": "11", 
-      "lat": 51.21174672765953, 
-      "lon": 4.256597029409872, 
+      "lat": 51.21211663124584, 
+      "lon": 4.256057923661308, 
       "municipality": "Beveren", 
       "pcode": "9120", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Peperstraat"
     }, 
     {
@@ -45,11 +49,11 @@
         "12"
       ], 
       "housenumber": "12", 
-      "lat": 51.21191685514898, 
-      "lon": 4.255812262153672, 
+      "lat": 51.21195396779781, 
+      "lon": 4.255896891291249, 
       "municipality": "Beveren", 
       "pcode": "9120", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Peperstraat"
     }, 
     {
@@ -57,23 +61,23 @@
         "12A"
       ], 
       "housenumber": "12A", 
-      "lat": 51.21188209465381, 
-      "lon": 4.255743655277374, 
+      "lat": 51.21186760985631, 
+      "lon": 4.255729522741624, 
       "municipality": "Beveren", 
       "pcode": "9120", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Peperstraat"
     }, 
     {
       "hnrlbls": [
-        "11-15b"
+        "13"
       ], 
       "housenumber": "13", 
-      "lat": 51.21174672765953, 
-      "lon": 4.256597029409872, 
+      "lat": 51.21204756502042, 
+      "lon": 4.256115761161492, 
       "municipality": "Beveren", 
       "pcode": "9120", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Peperstraat"
     }, 
     {
@@ -81,39 +85,27 @@
         "14"
       ], 
       "housenumber": "14", 
-      "lat": 51.21175546957172, 
-      "lon": 4.256050920230372, 
+      "lat": 51.21176168513148, 
+      "lon": 4.256065215794299, 
       "municipality": "Beveren", 
       "pcode": "9120", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Peperstraat"
     }, 
     {
-      "hnrlbls": [
-        "11-15b"
-      ], 
-      "housenumber": "15", 
-      "lat": 51.21174672765953, 
-      "lon": 4.256597029409872, 
-      "municipality": "Beveren", 
-      "pcode": "9120", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Peperstraat"
-    }, 
-    {
-      "busnrs": [
+      "apptnrs": [
         "101", 
         "102"
       ], 
       "hnrlbls": [
-        "11-15b"
+        "15"
       ], 
-      "housenumber": "15b", 
-      "lat": 51.21174672765953, 
-      "lon": 4.256597029409872, 
+      "housenumber": "15", 
+      "lat": 51.211980828707624, 
+      "lon": 4.256166151410089, 
       "municipality": "Beveren", 
       "pcode": "9120", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Peperstraat"
     }, 
     {
@@ -121,16 +113,16 @@
         "16"
       ], 
       "housenumber": "16", 
-      "lat": 51.21167807840101, 
-      "lon": 4.256144982755463, 
+      "lat": 51.21169791506478, 
+      "lon": 4.256210620221148, 
       "municipality": "Beveren", 
       "pcode": "9120", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Peperstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
+      "apptnrs": [
+        "001", 
         "101", 
         "102", 
         "201", 
@@ -138,128 +130,67 @@
         "301"
       ], 
       "hnrlbls": [
-        "17-22"
+        "17-19"
       ], 
       "housenumber": "17", 
-      "lat": 51.21159889978927, 
-      "lon": 4.2568216273309085, 
+      "lat": 51.211589183015924, 
+      "lon": 4.25681177630419, 
       "municipality": "Beveren", 
       "pcode": "9120", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Peperstraat"
     }, 
     {
-      "busnrs": [
-        "101", 
-        "102", 
-        "201", 
-        "202", 
-        "301"
+      "apptnrs": [
+        "001", 
+        "002", 
+        "003"
       ], 
       "hnrlbls": [
-        "17b"
-      ], 
-      "housenumber": "17b", 
-      "lat": 51.21158531399923, 
-      "lon": 4.2569030861232875, 
-      "municipality": "Beveren", 
-      "pcode": "9120", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Peperstraat"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3"
-      ], 
-      "hnrlbls": [
-        "18-18b"
+        "18"
       ], 
       "housenumber": "18", 
       "lat": 51.21163661019187, 
       "lon": 4.256206617213724, 
       "municipality": "Beveren", 
       "pcode": "9120", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Peperstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3"
-      ], 
       "hnrlbls": [
-        "18-18b"
+        "18_1-20"
       ], 
-      "housenumber": "18b", 
-      "lat": 51.21163661019187, 
-      "lon": 4.256206617213724, 
+      "housenumber": "18_1", 
+      "lat": 51.21158772811259, 
+      "lon": 4.256317497240903, 
       "municipality": "Beveren", 
       "pcode": "9120", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Peperstraat"
     }, 
     {
       "hnrlbls": [
-        "4-28"
+        "17-19"
       ], 
       "housenumber": "19", 
-      "lat": 51.211996917592806, 
-      "lon": 4.256070804454211, 
+      "lat": 51.211589183015924, 
+      "lon": 4.25681177630419, 
       "municipality": "Beveren", 
       "pcode": "9120", 
-      "source": "afgeleidVanStraat", 
-      "street": "Peperstraat"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "11", 
-        "21"
-      ], 
-      "hnrlbls": [
-        "1A-1b"
-      ], 
-      "housenumber": "1A", 
-      "lat": 51.212343762274095, 
-      "lon": 4.255861465117141, 
-      "municipality": "Beveren", 
-      "pcode": "9120", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Peperstraat"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "101", 
-        "102", 
-        "201", 
-        "301", 
-        "401"
-      ], 
-      "hnrlbls": [
-        "1A-1b"
-      ], 
-      "housenumber": "1b", 
-      "lat": 51.212343762274095, 
-      "lon": 4.255861465117141, 
-      "municipality": "Beveren", 
-      "pcode": "9120", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Peperstraat"
     }, 
     {
       "hnrlbls": [
-        "20"
+        "18_1-20"
       ], 
       "housenumber": "20", 
-      "lat": 51.21158319819167, 
-      "lon": 4.256279728541109, 
+      "lat": 51.21158772811259, 
+      "lon": 4.256317497240903, 
       "municipality": "Beveren", 
       "pcode": "9120", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Peperstraat"
     }, 
     {
@@ -267,18 +198,17 @@
         "22"
       ], 
       "housenumber": "22", 
-      "lat": 51.2114016077821, 
-      "lon": 4.256444446942886, 
+      "lat": 51.21146166486383, 
+      "lon": 4.256554922601076, 
       "municipality": "Beveren", 
       "pcode": "9120", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Peperstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3"
+      "apptnrs": [
+        "001", 
+        "002"
       ], 
       "hnrlbls": [
         "24"
@@ -288,115 +218,63 @@
       "lon": 4.256663940642708, 
       "municipality": "Beveren", 
       "pcode": "9120", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Peperstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
-      "hnrlbls": [
-        "24b"
-      ], 
-      "housenumber": "24b", 
-      "lat": 51.21141394798114, 
-      "lon": 4.256662650778775, 
-      "municipality": "Beveren", 
-      "pcode": "9120", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Peperstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "26"
-      ], 
-      "housenumber": "26", 
-      "lat": 51.21139420933473, 
-      "lon": 4.2567962137587845, 
-      "municipality": "Beveren", 
-      "pcode": "9120", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Peperstraat"
-    }, 
-    {
-      "busnrs": [
-        "1", 
+      "apptnrs": [
+        "001", 
         "101", 
         "301"
       ], 
       "hnrlbls": [
-        "26b"
+        "26"
       ], 
-      "housenumber": "26b", 
-      "lat": 51.211374324340206, 
-      "lon": 4.256774366327807, 
+      "housenumber": "26", 
+      "lat": 51.21139358001136, 
+      "lon": 4.256796072156361, 
       "municipality": "Beveren", 
       "pcode": "9120", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Peperstraat"
     }, 
     {
-      "hnrlbls": [
-        "4-28"
+      "apptnrs": [
+        "001", 
+        "002", 
+        "101", 
+        "102", 
+        "202", 
+        "301"
       ], 
-      "housenumber": "28", 
-      "lat": 51.211996917592806, 
-      "lon": 4.256070804454211, 
-      "municipality": "Beveren", 
-      "pcode": "9120", 
-      "source": "afgeleidVanStraat", 
-      "street": "Peperstraat"
-    }, 
-    {
+      "busnrs": [
+        "201"
+      ], 
       "hnrlbls": [
         "3"
       ], 
       "housenumber": "3", 
-      "lat": 51.21221155804071, 
-      "lon": 4.256067426918291, 
+      "lat": 51.21232177662935, 
+      "lon": 4.255804704674941, 
       "municipality": "Beveren", 
       "pcode": "9120", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Peperstraat"
     }, 
     {
-      "hnrlbls": [
-        "4-28"
-      ], 
-      "housenumber": "4", 
-      "lat": 51.211996917592806, 
-      "lon": 4.256070804454211, 
-      "municipality": "Beveren", 
-      "pcode": "9120", 
-      "source": "afgeleidVanStraat", 
-      "street": "Peperstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "5-5b"
-      ], 
-      "housenumber": "5", 
-      "lat": 51.212147106283766, 
-      "lon": 4.256062429869333, 
-      "municipality": "Beveren", 
-      "pcode": "9120", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Peperstraat"
-    }, 
-    {
-      "busnrs": [
+      "apptnrs": [
+        "001", 
         "101"
       ], 
       "hnrlbls": [
-        "5-5b"
+        "5"
       ], 
-      "housenumber": "5b", 
-      "lat": 51.212147106283766, 
-      "lon": 4.256062429869333, 
+      "housenumber": "5", 
+      "lat": 51.2122576358246, 
+      "lon": 4.255937948048947, 
       "municipality": "Beveren", 
       "pcode": "9120", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Peperstraat"
     }, 
     {
@@ -408,65 +286,23 @@
       "lon": 4.255544982353241, 
       "municipality": "Beveren", 
       "pcode": "9120", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Peperstraat"
     }, 
     {
-      "busnrs": [
-        "1"
+      "apptnrs": [
+        "001", 
+        "101"
       ], 
       "hnrlbls": [
         "7"
       ], 
       "housenumber": "7", 
-      "lat": 51.21208973353871, 
-      "lon": 4.256319299672648, 
+      "lat": 51.21218424681541, 
+      "lon": 4.25598692370371, 
       "municipality": "Beveren", 
       "pcode": "9120", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Peperstraat"
-    }, 
-    {
-      "busnrs": [
-        "11", 
-        "12"
-      ], 
-      "hnrlbls": [
-        "7A-7_1"
-      ], 
-      "housenumber": "7A", 
-      "lat": 51.2120255047629, 
-      "lon": 4.256264930279071, 
-      "municipality": "Beveren", 
-      "pcode": "9120", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Peperstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "7A-7_1"
-      ], 
-      "housenumber": "7_1", 
-      "lat": 51.2120255047629, 
-      "lon": 4.256264930279071, 
-      "municipality": "Beveren", 
-      "pcode": "9120", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Peperstraat"
-    }, 
-    {
-      "busnrs": [
-        "101"
-      ], 
-      "hnrlbls": [
-        "7A-7_1"
-      ], 
-      "housenumber": "7b", 
-      "lat": 51.2120255047629, 
-      "lon": 4.256264930279071, 
-      "municipality": "Beveren", 
-      "pcode": "9120", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Peperstraat"
     }, 
     {
@@ -474,11 +310,11 @@
         "8"
       ], 
       "housenumber": "8", 
-      "lat": 51.21214393727392, 
-      "lon": 4.2556593076232385, 
+      "lat": 51.21214673714946, 
+      "lon": 4.2556734683791255, 
       "municipality": "Beveren", 
       "pcode": "9120", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Peperstraat"
     }, 
     {
@@ -486,11 +322,11 @@
         "9"
       ], 
       "housenumber": "9", 
-      "lat": 51.211902659753335, 
-      "lon": 4.256293273398325, 
+      "lat": 51.212122965957725, 
+      "lon": 4.256008250657402, 
       "municipality": "Beveren", 
       "pcode": "9120", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Peperstraat"
     }
   ]

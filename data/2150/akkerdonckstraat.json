@@ -2,20 +2,19 @@
   "addresses": [
     {
       "apptnrs": [
-        "0.0"
-      ], 
-      "busnrs": [
-        "2"
+        "0001", 
+        "0002", 
+        "gel0"
       ], 
       "hnrlbls": [
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 51.19342064069784, 
-      "lon": 4.4888156241454045, 
+      "lat": 51.19341389437166, 
+      "lon": 4.488811910215533, 
       "municipality": "Borsbeek", 
       "pcode": "2150", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Akkerdonckstraat"
     }, 
     {
@@ -32,49 +31,21 @@
     }, 
     {
       "apptnrs": [
-        "0.0"
+        "001L", 
+        "001R", 
+        "002L", 
+        "002R", 
+        "gel0"
       ], 
       "hnrlbls": [
-        "11-11_2"
+        "11"
       ], 
       "housenumber": "11", 
-      "lat": 51.19324209888611, 
-      "lon": 4.489371762341001, 
+      "lat": 51.193237871409615, 
+      "lon": 4.489366052216283, 
       "municipality": "Borsbeek", 
       "pcode": "2150", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Akkerdonckstraat"
-    }, 
-    {
-      "busnrs": [
-        "L", 
-        "R"
-      ], 
-      "hnrlbls": [
-        "11-11_2"
-      ], 
-      "housenumber": "11_1", 
-      "lat": 51.19324209888611, 
-      "lon": 4.489371762341001, 
-      "municipality": "Borsbeek", 
-      "pcode": "2150", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Akkerdonckstraat"
-    }, 
-    {
-      "busnrs": [
-        "L", 
-        "R"
-      ], 
-      "hnrlbls": [
-        "11-11_2"
-      ], 
-      "housenumber": "11_2", 
-      "lat": 51.19324209888611, 
-      "lon": 4.489371762341001, 
-      "municipality": "Borsbeek", 
-      "pcode": "2150", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Akkerdonckstraat"
     }, 
     {
@@ -139,54 +110,23 @@
     }, 
     {
       "apptnrs": [
-        "0.0"
-      ], 
-      "busnrs": [
-        "2", 
-        "3", 
-        "R"
+        "0003", 
+        "001L", 
+        "001R", 
+        "002L", 
+        "002R", 
+        "gelA", 
+        "gelV"
       ], 
       "hnrlbls": [
-        "17-17_2"
+        "17"
       ], 
       "housenumber": "17", 
-      "lat": 51.19315747810867, 
-      "lon": 4.489672085909082, 
+      "lat": 51.19315576330144, 
+      "lon": 4.489670387665089, 
       "municipality": "Borsbeek", 
       "pcode": "2150", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Akkerdonckstraat"
-    }, 
-    {
-      "busnrs": [
-        "L", 
-        "R"
-      ], 
-      "hnrlbls": [
-        "17-17_2"
-      ], 
-      "housenumber": "17_1", 
-      "lat": 51.19315747810867, 
-      "lon": 4.489672085909082, 
-      "municipality": "Borsbeek", 
-      "pcode": "2150", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Akkerdonckstraat"
-    }, 
-    {
-      "busnrs": [
-        "L", 
-        "R"
-      ], 
-      "hnrlbls": [
-        "17-17_2"
-      ], 
-      "housenumber": "17_2", 
-      "lat": 51.19315747810867, 
-      "lon": 4.489672085909082, 
-      "municipality": "Borsbeek", 
-      "pcode": "2150", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Akkerdonckstraat"
     }, 
     {
@@ -338,11 +278,9 @@
     }, 
     {
       "apptnrs": [
-        "0.0"
-      ], 
-      "busnrs": [
-        "1", 
-        "2"
+        "0001", 
+        "0002", 
+        "gel0"
       ], 
       "hnrlbls": [
         "3"
@@ -557,18 +495,6 @@
     }, 
     {
       "hnrlbls": [
-        "45A"
-      ], 
-      "housenumber": "45A", 
-      "lat": 51.19305794124903, 
-      "lon": 4.491094434606126, 
-      "municipality": "Borsbeek", 
-      "pcode": "2150", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Akkerdonckstraat"
-    }, 
-    {
-      "hnrlbls": [
         "47"
       ], 
       "housenumber": "47", 
@@ -596,9 +522,10 @@
       "street": "Akkerdonckstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2"
+      "apptnrs": [
+        "0001", 
+        "0002", 
+        "gel0"
       ], 
       "hnrlbls": [
         "5"
@@ -612,9 +539,10 @@
       "street": "Akkerdonckstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2"
+      "apptnrs": [
+        "0001", 
+        "0002", 
+        "gel0"
       ], 
       "hnrlbls": [
         "5B"
@@ -632,30 +560,28 @@
         "6"
       ], 
       "housenumber": "6", 
-      "lat": 51.193087665560505, 
-      "lon": 4.488943934375885, 
+      "lat": 51.193084698500186, 
+      "lon": 4.488936224903258, 
       "municipality": "Borsbeek", 
       "pcode": "2150", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Akkerdonckstraat"
     }, 
     {
       "apptnrs": [
-        "0.0"
-      ], 
-      "busnrs": [
-        "1", 
-        "2"
+        "0001", 
+        "0002", 
+        "gel0"
       ], 
       "hnrlbls": [
-        "7-9"
+        "7"
       ], 
       "housenumber": "7", 
-      "lat": 51.193291167866484, 
-      "lon": 4.489204523430332, 
+      "lat": 51.19330208209634, 
+      "lon": 4.489158799019215, 
       "municipality": "Borsbeek", 
       "pcode": "2150", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Akkerdonckstraat"
     }, 
     {
@@ -672,21 +598,19 @@
     }, 
     {
       "apptnrs": [
-        "0.0"
-      ], 
-      "busnrs": [
-        "1", 
-        "2"
+        "0001", 
+        "0002", 
+        "gel0"
       ], 
       "hnrlbls": [
-        "7-9"
+        "9"
       ], 
       "housenumber": "9", 
-      "lat": 51.193291167866484, 
-      "lon": 4.489204523430332, 
+      "lat": 51.193270534104386, 
+      "lon": 4.489244832337381, 
       "municipality": "Borsbeek", 
       "pcode": "2150", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Akkerdonckstraat"
     }
   ]

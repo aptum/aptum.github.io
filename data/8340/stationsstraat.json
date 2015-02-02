@@ -408,11 +408,11 @@
         "13"
       ], 
       "housenumber": "13", 
-      "lat": 51.202543457008325, 
-      "lon": 3.3210613418973183, 
+      "lat": 51.20254195489372, 
+      "lon": 3.3209392475364643, 
       "municipality": "Damme", 
       "pcode": "8340", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Stationsstraat"
     }, 
     {
@@ -540,11 +540,11 @@
         "13A"
       ], 
       "housenumber": "13A", 
-      "lat": 51.20259711619878, 
-      "lon": 3.321030088340821, 
+      "lat": 51.20265992083277, 
+      "lon": 3.3209015418938748, 
       "municipality": "Damme", 
       "pcode": "8340", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Stationsstraat"
     }, 
     {
@@ -552,11 +552,11 @@
         "14"
       ], 
       "housenumber": "14", 
-      "lat": 51.20268308726536, 
-      "lon": 3.3205874377765237, 
+      "lat": 51.20263951076576, 
+      "lon": 3.3206576001605708, 
       "municipality": "Damme", 
       "pcode": "8340", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Stationsstraat"
     }, 
     {
@@ -677,6 +677,18 @@
       "municipality": "Damme", 
       "pcode": "8340", 
       "source": "manueleAanduidingVanPerceel", 
+      "street": "Stationsstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "14A"
+      ], 
+      "housenumber": "14A", 
+      "lat": 51.202694228050646, 
+      "lon": 3.3206313357681774, 
+      "municipality": "Damme", 
+      "pcode": "8340", 
+      "source": "afgeleidVanGebouw", 
       "street": "Stationsstraat"
     }, 
     {
@@ -1440,8 +1452,8 @@
         "26"
       ], 
       "housenumber": "26", 
-      "lat": 51.20330758987199, 
-      "lon": 3.3202846513640707, 
+      "lat": 51.203307603744996, 
+      "lon": 3.3202846355636773, 
       "municipality": "Damme", 
       "pcode": "8340", 
       "source": "afgeleidVanGebouw", 
@@ -2082,21 +2094,21 @@
     {
       "apptnrs": [
         "1", 
-        "2", 
         "3", 
         "4", 
         "5", 
-        "6"
+        "6", 
+        "7"
       ], 
       "hnrlbls": [
         "73"
       ], 
       "housenumber": "73", 
-      "lat": 51.20694493763201, 
-      "lon": 3.318267737630045, 
+      "lat": 51.206952563440254, 
+      "lon": 3.3181152194558026, 
       "municipality": "Damme", 
       "pcode": "8340", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Stationsstraat"
     }, 
     {
@@ -2118,18 +2130,17 @@
         "3", 
         "4", 
         "5", 
-        "6", 
-        "7"
+        "6"
       ], 
       "hnrlbls": [
         "75"
       ], 
       "housenumber": "75", 
-      "lat": 51.206994113550536, 
-      "lon": 3.318126531489507, 
+      "lat": 51.207186683187444, 
+      "lon": 3.31797771960026, 
       "municipality": "Damme", 
       "pcode": "8340", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Stationsstraat"
     }, 
     {
@@ -2210,6 +2221,18 @@
     }, 
     {
       "hnrlbls": [
+        "81A"
+      ], 
+      "housenumber": "81A", 
+      "lat": 51.20773623994472, 
+      "lon": 3.318224023788331, 
+      "municipality": "Damme", 
+      "pcode": "8340", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Stationsstraat"
+    }, 
+    {
+      "hnrlbls": [
         "82"
       ], 
       "housenumber": "82", 
@@ -2221,9 +2244,6 @@
       "street": "Stationsstraat"
     }, 
     {
-      "busnrs": [
-        "A"
-      ], 
       "hnrlbls": [
         "83"
       ], 
@@ -2451,6 +2471,7 @@
     }, 
     {
       "apptnrs": [
+        "1", 
         "10", 
         "11", 
         "2", 
@@ -2466,11 +2487,11 @@
         "97"
       ], 
       "housenumber": "97", 
-      "lat": 51.20930645102501, 
-      "lon": 3.316782749073613, 
+      "lat": 51.20940587606769, 
+      "lon": 3.3166437346660773, 
       "municipality": "Damme", 
       "pcode": "8340", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "afgeleidVanGebouw", 
       "street": "Stationsstraat"
     }, 
     {

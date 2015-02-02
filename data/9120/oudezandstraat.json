@@ -2,47 +2,35 @@
   "addresses": [
     {
       "hnrlbls": [
-        "1"
+        "1-7"
       ], 
       "housenumber": "1", 
-      "lat": 51.21272691628741, 
-      "lon": 4.255459555051099, 
+      "lat": 51.212401294454516, 
+      "lon": 4.255301206376485, 
       "municipality": "Beveren", 
       "pcode": "9120", 
-      "source": "geinterpoleerdObvWegverbinding", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Oude Zandstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3"
+      "apptnrs": [
+        "001", 
+        "002", 
+        "003"
       ], 
       "hnrlbls": [
-        "10-10b"
+        "10"
       ], 
       "housenumber": "10", 
-      "lat": 51.21247901742584, 
-      "lon": 4.254334759174182, 
+      "lat": 51.212485487976366, 
+      "lon": 4.2543335985385315, 
       "municipality": "Beveren", 
       "pcode": "9120", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Oude Zandstraat"
     }, 
     {
-      "hnrlbls": [
-        "100-100b"
-      ], 
-      "housenumber": "100", 
-      "lat": 51.21052408860311, 
-      "lon": 4.248203492576087, 
-      "municipality": "Beveren", 
-      "pcode": "9120", 
-      "source": "afgeleidVanPerceelKadaster", 
-      "street": "Oude Zandstraat"
-    }, 
-    {
-      "busnrs": [
+      "apptnrs": [
         "201", 
         "202", 
         "203", 
@@ -73,48 +61,48 @@
         "311", 
         "312", 
         "313", 
-        "314", 
         "315", 
         "316", 
         "317"
       ], 
-      "hnrlbls": [
-        "100-100b"
+      "busnrs": [
+        "314"
       ], 
-      "housenumber": "100b", 
-      "lat": 51.21052408860311, 
-      "lon": 4.248203492576087, 
+      "hnrlbls": [
+        "100-102"
+      ], 
+      "housenumber": "100", 
+      "lat": 51.21040386726048, 
+      "lon": 4.2491369616678405, 
       "municipality": "Beveren", 
       "pcode": "9120", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelKadaster", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Oude Zandstraat"
     }, 
     {
       "hnrlbls": [
-        "101"
-      ], 
-      "housenumber": "101", 
-      "lat": 51.20947100479103, 
-      "lon": 4.25053239840215, 
-      "municipality": "Beveren", 
-      "pcode": "9120", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Oude Zandstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "/zn-774"
+        "100-102"
       ], 
       "housenumber": "102", 
-      "lat": 51.21109580693066, 
-      "lon": 4.2518585884042315, 
+      "lat": 51.21040386726048, 
+      "lon": 4.2491369616678405, 
       "municipality": "Beveren", 
       "pcode": "9120", 
-      "source": "afgeleidVanStraat", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Oude Zandstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
+        "061", 
+        "062", 
+        "063", 
+        "064", 
+        "065", 
+        "066", 
+        "067", 
+        "068", 
+        "069", 
+        "070", 
         "139", 
         "140", 
         "141", 
@@ -174,345 +162,118 @@
         "405", 
         "406", 
         "407", 
-        "408", 
-        "61", 
-        "62", 
-        "63", 
-        "64", 
-        "65", 
-        "66", 
-        "67", 
-        "68", 
-        "69", 
-        "70"
+        "408"
       ], 
       "hnrlbls": [
-        "103-103b"
+        "103"
       ], 
       "housenumber": "103", 
-      "lat": 51.20915537031245, 
-      "lon": 4.250120788384384, 
+      "lat": 51.20949903467855, 
+      "lon": 4.249259471124569, 
       "municipality": "Beveren", 
       "pcode": "9120", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Oude Zandstraat"
     }, 
     {
-      "busnrs": [
-        "139", 
-        "140", 
-        "141", 
-        "142", 
-        "143", 
-        "144", 
-        "145", 
-        "146", 
-        "147", 
-        "148", 
-        "149", 
-        "150", 
-        "151", 
-        "152", 
-        "153", 
-        "154", 
-        "155", 
-        "156", 
-        "157", 
-        "158", 
-        "159", 
-        "160", 
-        "217", 
-        "218", 
-        "219", 
-        "220", 
-        "221", 
-        "222", 
-        "223", 
-        "224", 
-        "225", 
-        "226", 
-        "227", 
-        "228", 
-        "229", 
-        "230", 
-        "231", 
-        "232", 
-        "233", 
-        "234", 
-        "235", 
-        "236", 
-        "237", 
-        "238", 
-        "309", 
-        "310", 
-        "311", 
-        "312", 
-        "313", 
-        "314", 
-        "315", 
-        "316", 
-        "401", 
-        "402", 
-        "403", 
-        "404", 
-        "405", 
-        "406", 
-        "407", 
-        "408", 
-        "61", 
-        "62", 
-        "63", 
-        "64", 
-        "65", 
-        "66", 
-        "67", 
-        "68", 
-        "69", 
-        "70"
+      "apptnrs": [
+        "001", 
+        "002"
       ], 
       "hnrlbls": [
-        "103-103b"
-      ], 
-      "housenumber": "103b", 
-      "lat": 51.20915537031245, 
-      "lon": 4.250120788384384, 
-      "municipality": "Beveren", 
-      "pcode": "9120", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Oude Zandstraat"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3"
-      ], 
-      "hnrlbls": [
-        "10-10b"
-      ], 
-      "housenumber": "10b", 
-      "lat": 51.21247901742584, 
-      "lon": 4.254334759174182, 
-      "municipality": "Beveren", 
-      "pcode": "9120", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Oude Zandstraat"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
-      "hnrlbls": [
-        "12-12b"
+        "12"
       ], 
       "housenumber": "12", 
-      "lat": 51.21240898984401, 
-      "lon": 4.254233324032057, 
+      "lat": 51.21240045761017, 
+      "lon": 4.25424035709375, 
       "municipality": "Beveren", 
       "pcode": "9120", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Oude Zandstraat"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
-      "hnrlbls": [
-        "12-12b"
-      ], 
-      "housenumber": "12b", 
-      "lat": 51.21240898984401, 
-      "lon": 4.254233324032057, 
-      "municipality": "Beveren", 
-      "pcode": "9120", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Oude Zandstraat"
     }, 
     {
       "hnrlbls": [
-        "13-15"
-      ], 
-      "housenumber": "13", 
-      "lat": 51.212000919989045, 
-      "lon": 4.254518670929986, 
-      "municipality": "Beveren", 
-      "pcode": "9120", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Oude Zandstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "14-16"
+        "14"
       ], 
       "housenumber": "14", 
-      "lat": 51.21235753410354, 
-      "lon": 4.254096496458579, 
+      "lat": 51.21236517438639, 
+      "lon": 4.254096620895458, 
       "municipality": "Beveren", 
       "pcode": "9120", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Oude Zandstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6", 
-        "7"
+      "apptnrs": [
+        "001", 
+        "002", 
+        "003", 
+        "004", 
+        "005", 
+        "006", 
+        "007"
       ], 
       "hnrlbls": [
-        "13-15"
+        "15"
       ], 
       "housenumber": "15", 
-      "lat": 51.212000919989045, 
-      "lon": 4.254518670929986, 
-      "municipality": "Beveren", 
-      "pcode": "9120", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Oude Zandstraat"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6"
-      ], 
-      "hnrlbls": [
-        "15b"
-      ], 
-      "housenumber": "15b", 
       "lat": 51.21197578582892, 
       "lon": 4.254459915727413, 
       "municipality": "Beveren", 
       "pcode": "9120", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Oude Zandstraat"
     }, 
     {
-      "hnrlbls": [
-        "14-16"
-      ], 
-      "housenumber": "16", 
-      "lat": 51.21235753410354, 
-      "lon": 4.254096496458579, 
-      "municipality": "Beveren", 
-      "pcode": "9120", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Oude Zandstraat"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4"
+      "apptnrs": [
+        "001", 
+        "002", 
+        "003", 
+        "004"
       ], 
       "hnrlbls": [
-        "17-17b"
+        "17"
       ], 
       "housenumber": "17", 
-      "lat": 51.21186313357826, 
-      "lon": 4.254431569078549, 
+      "lat": 51.21176714168058, 
+      "lon": 4.254529829835548, 
       "municipality": "Beveren", 
       "pcode": "9120", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Oude Zandstraat"
     }, 
     {
-      "busnrs": [
-        "2", 
-        "3", 
-        "4"
+      "apptnrs": [
+        "001", 
+        "101"
       ], 
-      "hnrlbls": [
-        "17-17b"
-      ], 
-      "housenumber": "17b", 
-      "lat": 51.21186313357826, 
-      "lon": 4.254431569078549, 
-      "municipality": "Beveren", 
-      "pcode": "9120", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Oude Zandstraat"
-    }, 
-    {
       "hnrlbls": [
         "18"
       ], 
       "housenumber": "18", 
-      "lat": 51.21233149190916, 
-      "lon": 4.253935278877103, 
+      "lat": 51.212388706462384, 
+      "lon": 4.2538920637080295, 
       "municipality": "Beveren", 
       "pcode": "9120", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Oude Zandstraat"
     }, 
     {
-      "busnrs": [
-        "101"
+      "apptnrs": [
+        "001", 
+        "002", 
+        "003", 
+        "004"
       ], 
       "hnrlbls": [
-        "18b"
-      ], 
-      "housenumber": "18b", 
-      "lat": 51.21233149204732, 
-      "lon": 4.253935421983437, 
-      "municipality": "Beveren", 
-      "pcode": "9120", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Oude Zandstraat"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3"
-      ], 
-      "hnrlbls": [
-        "19-19b"
+        "19"
       ], 
       "housenumber": "19", 
-      "lat": 51.21194184127882, 
-      "lon": 4.254212569043844, 
+      "lat": 51.211958184192234, 
+      "lon": 4.254195928908189, 
       "municipality": "Beveren", 
       "pcode": "9120", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Oude Zandstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "/zn-774"
-      ], 
-      "housenumber": "198", 
-      "lat": 51.21109580693066, 
-      "lon": 4.2518585884042315, 
-      "municipality": "Beveren", 
-      "pcode": "9120", 
-      "source": "afgeleidVanStraat", 
-      "street": "Oude Zandstraat"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3"
-      ], 
-      "hnrlbls": [
-        "19-19b"
-      ], 
-      "housenumber": "19b", 
-      "lat": 51.21194184127882, 
-      "lon": 4.254212569043844, 
-      "municipality": "Beveren", 
-      "pcode": "9120", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Oude Zandstraat"
     }, 
     {
@@ -520,46 +281,29 @@
         "20"
       ], 
       "housenumber": "20", 
-      "lat": 51.21230417342665, 
-      "lon": 4.253848766241652, 
+      "lat": 51.212321243931775, 
+      "lon": 4.253840996678726, 
       "municipality": "Beveren", 
       "pcode": "9120", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Oude Zandstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4"
+      "apptnrs": [
+        "001", 
+        "002", 
+        "003", 
+        "004"
       ], 
       "hnrlbls": [
-        "21-21b"
+        "21"
       ], 
       "housenumber": "21", 
-      "lat": 51.21190147932205, 
-      "lon": 4.254115212827171, 
+      "lat": 51.211914505201996, 
+      "lon": 4.254107596416753, 
       "municipality": "Beveren", 
       "pcode": "9120", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Oude Zandstraat"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3"
-      ], 
-      "hnrlbls": [
-        "21-21b"
-      ], 
-      "housenumber": "21b", 
-      "lat": 51.21190147932205, 
-      "lon": 4.254115212827171, 
-      "municipality": "Beveren", 
-      "pcode": "9120", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Oude Zandstraat"
     }, 
     {
@@ -567,35 +311,11 @@
         "22"
       ], 
       "housenumber": "22", 
-      "lat": 51.21223498066834, 
-      "lon": 4.253774520373702, 
+      "lat": 51.212236510772534, 
+      "lon": 4.253776663219875, 
       "municipality": "Beveren", 
       "pcode": "9120", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Oude Zandstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "/zn-774"
-      ], 
-      "housenumber": "220", 
-      "lat": 51.21109580693066, 
-      "lon": 4.2518585884042315, 
-      "municipality": "Beveren", 
-      "pcode": "9120", 
-      "source": "afgeleidVanStraat", 
-      "street": "Oude Zandstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "/zn-774"
-      ], 
-      "housenumber": "238", 
-      "lat": 51.21109580693066, 
-      "lon": 4.2518585884042315, 
-      "municipality": "Beveren", 
-      "pcode": "9120", 
-      "source": "afgeleidVanStraat", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Oude Zandstraat"
     }, 
     {
@@ -603,61 +323,30 @@
         "24"
       ], 
       "housenumber": "24", 
-      "lat": 51.212252270878786, 
-      "lon": 4.253622212763297, 
+      "lat": 51.21220844402268, 
+      "lon": 4.253660100366348, 
       "municipality": "Beveren", 
       "pcode": "9120", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Oude Zandstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5"
+      "apptnrs": [
+        "001", 
+        "002", 
+        "003", 
+        "004", 
+        "005"
       ], 
       "hnrlbls": [
-        "25-25b"
+        "25"
       ], 
       "housenumber": "25", 
-      "lat": 51.21189790871963, 
-      "lon": 4.254047675830064, 
+      "lat": 51.21191775101526, 
+      "lon": 4.2540247304586085, 
       "municipality": "Beveren", 
       "pcode": "9120", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Oude Zandstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "25-25b"
-      ], 
-      "housenumber": "25A", 
-      "lat": 51.21189790871963, 
-      "lon": 4.254047675830064, 
-      "municipality": "Beveren", 
-      "pcode": "9120", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
-      "street": "Oude Zandstraat"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5"
-      ], 
-      "hnrlbls": [
-        "25-25b"
-      ], 
-      "housenumber": "25b", 
-      "lat": 51.21189790871963, 
-      "lon": 4.254047675830064, 
-      "municipality": "Beveren", 
-      "pcode": "9120", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Oude Zandstraat"
     }, 
     {
@@ -665,52 +354,33 @@
         "26"
       ], 
       "housenumber": "26", 
-      "lat": 51.212213925295, 
-      "lon": 4.253472760758822, 
+      "lat": 51.21216646966172, 
+      "lon": 4.253568901593836, 
       "municipality": "Beveren", 
       "pcode": "9120", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Oude Zandstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6", 
-        "7", 
-        "8"
+      "apptnrs": [
+        "001", 
+        "002", 
+        "003", 
+        "004", 
+        "005", 
+        "006", 
+        "007", 
+        "008"
       ], 
       "hnrlbls": [
-        "27-27b"
+        "27"
       ], 
       "housenumber": "27", 
-      "lat": 51.21164080891897, 
-      "lon": 4.253458141166618, 
+      "lat": 51.21162995777467, 
+      "lon": 4.25348378353984, 
       "municipality": "Beveren", 
       "pcode": "9120", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Oude Zandstraat"
-    }, 
-    {
-      "busnrs": [
-        "4", 
-        "5", 
-        "6", 
-        "7", 
-        "8"
-      ], 
-      "hnrlbls": [
-        "27-27b"
-      ], 
-      "housenumber": "27b", 
-      "lat": 51.21164080891897, 
-      "lon": 4.253458141166618, 
-      "municipality": "Beveren", 
-      "pcode": "9120", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Oude Zandstraat"
     }, 
     {
@@ -718,208 +388,95 @@
         "28"
       ], 
       "housenumber": "28", 
-      "lat": 51.21226011830754, 
-      "lon": 4.253372329639172, 
+      "lat": 51.2121367273683, 
+      "lon": 4.253485829978999, 
       "municipality": "Beveren", 
       "pcode": "9120", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Oude Zandstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4"
+      "apptnrs": [
+        "001", 
+        "002", 
+        "003", 
+        "004"
       ], 
       "hnrlbls": [
-        "29-29b"
+        "29"
       ], 
       "housenumber": "29", 
-      "lat": 51.21156935505151, 
-      "lon": 4.25336973516424, 
+      "lat": 51.21159594074609, 
+      "lon": 4.25334906274995, 
       "municipality": "Beveren", 
       "pcode": "9120", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Oude Zandstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4"
+      "apptnrs": [
+        "001", 
+        "002", 
+        "003", 
+        "004", 
+        "005", 
+        "006", 
+        "007", 
+        "008", 
+        "009", 
+        "010", 
+        "011", 
+        "012", 
+        "013", 
+        "014", 
+        "015", 
+        "016"
       ], 
       "hnrlbls": [
-        "29-29b"
-      ], 
-      "housenumber": "29b", 
-      "lat": 51.21156935505151, 
-      "lon": 4.25336973516424, 
-      "municipality": "Beveren", 
-      "pcode": "9120", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Oude Zandstraat"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "10", 
-        "11", 
-        "12", 
-        "13", 
-        "14", 
-        "15", 
-        "16", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6", 
-        "7", 
-        "8", 
-        "9"
-      ], 
-      "hnrlbls": [
-        "3-3b"
+        "1-7"
       ], 
       "housenumber": "3", 
-      "lat": 51.21238179862224, 
-      "lon": 4.255310698563401, 
+      "lat": 51.212401294454516, 
+      "lon": 4.255301206376485, 
       "municipality": "Beveren", 
       "pcode": "9120", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Oude Zandstraat"
     }, 
     {
-      "busnrs": [
-        "101", 
-        "107"
+      "apptnrs": [
+        "101"
       ], 
       "hnrlbls": [
-        "30-32"
+        "30"
       ], 
       "housenumber": "30", 
-      "lat": 51.2122877531962, 
-      "lon": 4.253136278997901, 
+      "lat": 51.21207653971459, 
+      "lon": 4.253429021697078, 
       "municipality": "Beveren", 
       "pcode": "9120", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Oude Zandstraat"
-    }, 
-    {
-      "busnrs": [
-        "101", 
-        "107"
-      ], 
-      "hnrlbls": [
-        "30-32"
-      ], 
-      "housenumber": "30b", 
-      "lat": 51.2122877531962, 
-      "lon": 4.253136278997901, 
-      "municipality": "Beveren", 
-      "pcode": "9120", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Oude Zandstraat"
     }, 
     {
       "hnrlbls": [
-        "30-32"
-      ], 
-      "housenumber": "32", 
-      "lat": 51.2122877531962, 
-      "lon": 4.253136278997901, 
-      "municipality": "Beveren", 
-      "pcode": "9120", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Oude Zandstraat"
-    }, 
-    {
-      "busnrs": [
-        "107", 
-        "110", 
-        "111", 
-        "112", 
-        "121", 
-        "122", 
-        "123", 
-        "124", 
-        "125", 
-        "126", 
-        "127", 
-        "128", 
-        "129", 
-        "130", 
-        "131", 
-        "132", 
-        "20", 
-        "201", 
-        "202", 
-        "203", 
-        "204", 
-        "205", 
-        "206", 
-        "207", 
-        "21", 
-        "210", 
-        "211", 
-        "212", 
-        "22", 
-        "220", 
-        "221", 
-        "222", 
-        "223", 
-        "224", 
-        "225", 
-        "226", 
-        "227", 
-        "228", 
-        "229", 
-        "23", 
-        "230", 
-        "231", 
-        "232", 
-        "24", 
-        "25", 
-        "26", 
-        "27", 
-        "28", 
-        "29", 
-        "30", 
-        "301", 
-        "302", 
-        "303", 
-        "305", 
-        "306", 
-        "31", 
-        "320", 
-        "321", 
-        "322", 
-        "323", 
-        "401", 
-        "402", 
-        "405", 
-        "406"
-      ], 
-      "hnrlbls": [
-        "34-34C"
+        "34-36"
       ], 
       "housenumber": "34", 
-      "lat": 51.21231592622054, 
-      "lon": 4.252899511213783, 
+      "lat": 51.21230519153557, 
+      "lon": 4.252860040300758, 
       "municipality": "Beveren", 
       "pcode": "9120", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Oude Zandstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "201", 
         "202", 
         "203", 
         "204", 
-        "205", 
+        "206", 
         "301", 
         "302", 
         "303", 
@@ -934,18 +491,18 @@
         "406"
       ], 
       "hnrlbls": [
-        "34-34C"
+        "34-36"
       ], 
       "housenumber": "34A", 
-      "lat": 51.21231592622054, 
-      "lon": 4.252899511213783, 
+      "lat": 51.21230519153557, 
+      "lon": 4.252860040300758, 
       "municipality": "Beveren", 
       "pcode": "9120", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Oude Zandstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "101", 
         "102", 
         "103", 
@@ -958,20 +515,30 @@
         "205"
       ], 
       "hnrlbls": [
-        "34-34C"
+        "34-36"
       ], 
       "housenumber": "34C", 
-      "lat": 51.21231592622054, 
-      "lon": 4.252899511213783, 
+      "lat": 51.21230519153557, 
+      "lon": 4.252860040300758, 
       "municipality": "Beveren", 
       "pcode": "9120", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Oude Zandstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "10", 
+      "apptnrs": [
+        "001", 
+        "002", 
+        "003", 
+        "004", 
+        "005", 
+        "006", 
+        "007", 
+        "008", 
+        "009", 
+        "010", 
+        "011", 
+        "012", 
         "101", 
         "102", 
         "103", 
@@ -981,25 +548,9 @@
         "107", 
         "108", 
         "109", 
-        "11", 
         "110", 
         "111", 
         "112", 
-        "12", 
-        "120", 
-        "121", 
-        "122", 
-        "123", 
-        "124", 
-        "125", 
-        "126", 
-        "127", 
-        "128", 
-        "129", 
-        "130", 
-        "131", 
-        "2", 
-        "20", 
         "201", 
         "202", 
         "203", 
@@ -1009,142 +560,76 @@
         "207", 
         "208", 
         "209", 
-        "21", 
         "210", 
         "211", 
         "212", 
-        "22", 
-        "220", 
-        "221", 
-        "222", 
-        "223", 
-        "224", 
-        "225", 
-        "226", 
-        "227", 
-        "228", 
-        "229", 
-        "23", 
-        "230", 
-        "231", 
-        "232", 
-        "24", 
-        "25", 
-        "26", 
-        "27", 
-        "28", 
-        "29", 
-        "3", 
-        "30", 
         "301", 
         "302", 
         "303", 
-        "304", 
-        "305", 
-        "306", 
-        "31", 
-        "320", 
-        "321", 
-        "322", 
-        "323", 
-        "4", 
-        "402", 
-        "403", 
-        "404", 
-        "405", 
-        "406", 
-        "5", 
-        "6", 
-        "7", 
-        "8", 
-        "9"
+        "304"
       ], 
       "hnrlbls": [
-        "34-34C"
+        "34-36"
       ], 
       "housenumber": "34b", 
-      "lat": 51.21231592622054, 
-      "lon": 4.252899511213783, 
+      "lat": 51.21230519153557, 
+      "lon": 4.252860040300758, 
       "municipality": "Beveren", 
       "pcode": "9120", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Oude Zandstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6"
+      "apptnrs": [
+        "001", 
+        "002", 
+        "003", 
+        "004", 
+        "005", 
+        "006"
       ], 
       "hnrlbls": [
         "35"
       ], 
       "housenumber": "35", 
-      "lat": 51.21153418607759, 
-      "lon": 4.253252189975654, 
+      "lat": 51.21153741662339, 
+      "lon": 4.253246744062104, 
       "municipality": "Beveren", 
       "pcode": "9120", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Oude Zandstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5"
-      ], 
       "hnrlbls": [
-        "35b"
+        "34-36"
       ], 
-      "housenumber": "35b", 
-      "lat": 51.2115340961935, 
-      "lon": 4.253252190196919, 
+      "housenumber": "36", 
+      "lat": 51.21230519153557, 
+      "lon": 4.252860040300758, 
       "municipality": "Beveren", 
       "pcode": "9120", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Oude Zandstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3"
+      "apptnrs": [
+        "001", 
+        "002"
       ], 
       "hnrlbls": [
-        "37-39"
+        "37"
       ], 
       "housenumber": "37", 
-      "lat": 51.21149125704019, 
-      "lon": 4.253103896705766, 
+      "lat": 51.21148362287645, 
+      "lon": 4.253110068997941, 
       "municipality": "Beveren", 
       "pcode": "9120", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Oude Zandstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
-      "hnrlbls": [
-        "37-39"
-      ], 
-      "housenumber": "37b", 
-      "lat": 51.21149125704019, 
-      "lon": 4.253103896705766, 
-      "municipality": "Beveren", 
-      "pcode": "9120", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Oude Zandstraat"
-    }, 
-    {
-      "busnrs": [
-        "1", 
+      "apptnrs": [
+        "001", 
         "101", 
         "102", 
         "201", 
@@ -1158,385 +643,176 @@
       "lon": 4.253019100499094, 
       "municipality": "Beveren", 
       "pcode": "9120", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Oude Zandstraat"
     }, 
     {
-      "busnrs": [
-        "101", 
-        "102", 
-        "201", 
-        "202"
+      "apptnrs": [
+        "001", 
+        "002"
       ], 
       "hnrlbls": [
-        "38b"
-      ], 
-      "housenumber": "38b", 
-      "lat": 51.21187129537469, 
-      "lon": 4.253019243382296, 
-      "municipality": "Beveren", 
-      "pcode": "9120", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Oude Zandstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "37-39"
-      ], 
-      "housenumber": "39", 
-      "lat": 51.21149125704019, 
-      "lon": 4.253103896705766, 
-      "municipality": "Beveren", 
-      "pcode": "9120", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Oude Zandstraat"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "10", 
-        "11", 
-        "12", 
-        "13", 
-        "14", 
-        "15", 
-        "16", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6", 
-        "7", 
-        "8", 
-        "9"
-      ], 
-      "hnrlbls": [
-        "3-3b"
-      ], 
-      "housenumber": "3b", 
-      "lat": 51.21238179862224, 
-      "lon": 4.255310698563401, 
-      "municipality": "Beveren", 
-      "pcode": "9120", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Oude Zandstraat"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
-      "hnrlbls": [
-        "4-4b"
+        "4"
       ], 
       "housenumber": "4", 
-      "lat": 51.21268490842761, 
-      "lon": 4.254767587384091, 
+      "lat": 51.212738476592236, 
+      "lon": 4.254670859409339, 
       "municipality": "Beveren", 
       "pcode": "9120", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Oude Zandstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4"
+      "apptnrs": [
+        "001", 
+        "002", 
+        "003", 
+        "004"
       ], 
       "hnrlbls": [
-        "41-41b"
+        "41"
       ], 
       "housenumber": "41", 
-      "lat": 51.21144352575726, 
-      "lon": 4.253008707125802, 
+      "lat": 51.21143634101879, 
+      "lon": 4.2530148783186315, 
       "municipality": "Beveren", 
       "pcode": "9120", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Oude Zandstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4"
+      "apptnrs": [
+        "001", 
+        "002", 
+        "003"
       ], 
       "hnrlbls": [
-        "41-41b"
-      ], 
-      "housenumber": "41b", 
-      "lat": 51.21144352575726, 
-      "lon": 4.253008707125802, 
-      "municipality": "Beveren", 
-      "pcode": "9120", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Oude Zandstraat"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3"
-      ], 
-      "hnrlbls": [
-        "43-43b"
+        "43"
       ], 
       "housenumber": "43", 
-      "lat": 51.21138684013259, 
-      "lon": 4.252948600273181, 
+      "lat": 51.21140677252106, 
+      "lon": 4.252926083774144, 
       "municipality": "Beveren", 
       "pcode": "9120", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Oude Zandstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3"
+      "apptnrs": [
+        "001", 
+        "002", 
+        "003", 
+        "004"
       ], 
       "hnrlbls": [
-        "43-43b"
-      ], 
-      "housenumber": "43b", 
-      "lat": 51.21138684013259, 
-      "lon": 4.252948600273181, 
-      "municipality": "Beveren", 
-      "pcode": "9120", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Oude Zandstraat"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4"
-      ], 
-      "hnrlbls": [
-        "45-45b"
+        "45"
       ], 
       "housenumber": "45", 
-      "lat": 51.21131937298583, 
-      "lon": 4.252893242608904, 
+      "lat": 51.21132089920303, 
+      "lon": 4.252891378493671, 
       "municipality": "Beveren", 
       "pcode": "9120", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Oude Zandstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4"
+      "apptnrs": [
+        "001", 
+        "002", 
+        "003"
       ], 
       "hnrlbls": [
-        "45-45b"
-      ], 
-      "housenumber": "45b", 
-      "lat": 51.21131937298583, 
-      "lon": 4.252893242608904, 
-      "municipality": "Beveren", 
-      "pcode": "9120", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Oude Zandstraat"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3"
-      ], 
-      "hnrlbls": [
-        "47-47b"
+        "47"
       ], 
       "housenumber": "47", 
-      "lat": 51.21118082800315, 
-      "lon": 4.252490749373413, 
+      "lat": 51.21115736475652, 
+      "lon": 4.2524872299380245, 
       "municipality": "Beveren", 
       "pcode": "9120", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Oude Zandstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3"
-      ], 
-      "hnrlbls": [
-        "47-47b"
-      ], 
-      "housenumber": "47b", 
-      "lat": 51.21118082800315, 
-      "lon": 4.252490749373413, 
-      "municipality": "Beveren", 
-      "pcode": "9120", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Oude Zandstraat"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4"
+      "apptnrs": [
+        "001", 
+        "002", 
+        "003", 
+        "004"
       ], 
       "hnrlbls": [
         "48"
       ], 
       "housenumber": "48", 
-      "lat": 51.21159765690262, 
-      "lon": 4.252067987730712, 
-      "municipality": "Beveren", 
-      "pcode": "9120", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Oude Zandstraat"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3"
-      ], 
-      "hnrlbls": [
-        "48b"
-      ], 
-      "housenumber": "48b", 
       "lat": 51.211559126174734, 
       "lon": 4.2521898653243415, 
       "municipality": "Beveren", 
       "pcode": "9120", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Oude Zandstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3"
+      "apptnrs": [
+        "001", 
+        "002", 
+        "003"
       ], 
       "hnrlbls": [
         "49"
       ], 
       "housenumber": "49", 
-      "lat": 51.211109891141, 
-      "lon": 4.252380306590308, 
+      "lat": 51.21111267642776, 
+      "lon": 4.252379154858345, 
       "municipality": "Beveren", 
       "pcode": "9120", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Oude Zandstraat"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3"
-      ], 
-      "hnrlbls": [
-        "49b"
-      ], 
-      "housenumber": "49b", 
-      "lat": 51.21111051962952, 
-      "lon": 4.252379589516793, 
-      "municipality": "Beveren", 
-      "pcode": "9120", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Oude Zandstraat"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
-      "hnrlbls": [
-        "4-4b"
-      ], 
-      "housenumber": "4b", 
-      "lat": 51.21268490842761, 
-      "lon": 4.254767587384091, 
-      "municipality": "Beveren", 
-      "pcode": "9120", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Oude Zandstraat"
     }, 
     {
       "hnrlbls": [
-        "5-7"
+        "1-7"
       ], 
       "housenumber": "5", 
-      "lat": 51.21220392694567, 
-      "lon": 4.254944060981309, 
+      "lat": 51.212401294454516, 
+      "lon": 4.255301206376485, 
       "municipality": "Beveren", 
       "pcode": "9120", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Oude Zandstraat"
     }, 
     {
+      "apptnrs": [
+        "002"
+      ], 
       "busnrs": [
-        "2"
+        "001"
       ], 
       "hnrlbls": [
-        "1b-50b"
+        "50"
       ], 
       "housenumber": "50", 
-      "lat": 51.21163618736372, 
-      "lon": 4.251945966831507, 
+      "lat": 51.21147840838276, 
+      "lon": 4.252096475808792, 
       "municipality": "Beveren", 
       "pcode": "9120", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Oude Zandstraat"
     }, 
     {
-      "busnrs": [
-        "2"
+      "apptnrs": [
+        "001", 
+        "002", 
+        "003", 
+        "004"
       ], 
       "hnrlbls": [
-        "1b-50b"
-      ], 
-      "housenumber": "50b", 
-      "lat": 51.21163618736372, 
-      "lon": 4.251945966831507, 
-      "municipality": "Beveren", 
-      "pcode": "9120", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Oude Zandstraat"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4"
-      ], 
-      "hnrlbls": [
-        "51-51b"
+        "51"
       ], 
       "housenumber": "51", 
-      "lat": 51.211085768510316, 
-      "lon": 4.2522541497055855, 
+      "lat": 51.21108567904676, 
+      "lon": 4.252254579236289, 
       "municipality": "Beveren", 
       "pcode": "9120", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Oude Zandstraat"
-    }, 
-    {
-      "busnrs": [
-        "2", 
-        "3", 
-        "4"
-      ], 
-      "hnrlbls": [
-        "51-51b"
-      ], 
-      "housenumber": "51b", 
-      "lat": 51.211085768510316, 
-      "lon": 4.2522541497055855, 
-      "municipality": "Beveren", 
-      "pcode": "9120", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Oude Zandstraat"
     }, 
     {
@@ -1548,47 +824,27 @@
       "lon": 4.252023331720247, 
       "municipality": "Beveren", 
       "pcode": "9120", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Oude Zandstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6"
+      "apptnrs": [
+        "001", 
+        "002", 
+        "003", 
+        "004", 
+        "005", 
+        "006"
       ], 
       "hnrlbls": [
         "53"
       ], 
       "housenumber": "53", 
-      "lat": 51.21106908086125, 
-      "lon": 4.252102215964914, 
+      "lat": 51.21107318338063, 
+      "lon": 4.25206943521994, 
       "municipality": "Beveren", 
       "pcode": "9120", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Oude Zandstraat"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6"
-      ], 
-      "hnrlbls": [
-        "53b"
-      ], 
-      "housenumber": "53b", 
-      "lat": 51.21109625575381, 
-      "lon": 4.252132629314656, 
-      "municipality": "Beveren", 
-      "pcode": "9120", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Oude Zandstraat"
     }, 
     {
@@ -1600,7 +856,7 @@
       "lon": 4.251927168145392, 
       "municipality": "Beveren", 
       "pcode": "9120", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Oude Zandstraat"
     }, 
     {
@@ -1608,23 +864,11 @@
         "56"
       ], 
       "housenumber": "56", 
-      "lat": 51.21145010244485, 
-      "lon": 4.251829657280644, 
+      "lat": 51.21144318249589, 
+      "lon": 4.251830819357947, 
       "municipality": "Beveren", 
       "pcode": "9120", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Oude Zandstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "57"
-      ], 
-      "housenumber": "57", 
-      "lat": 51.21100443538227, 
-      "lon": 4.2520832009440115, 
-      "municipality": "Beveren", 
-      "pcode": "9120", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Oude Zandstraat"
     }, 
     {
@@ -1632,67 +876,46 @@
         "58"
       ], 
       "housenumber": "58", 
-      "lat": 51.211466442560656, 
-      "lon": 4.251719140252073, 
+      "lat": 51.211382743661765, 
+      "lon": 4.2517936198969775, 
       "municipality": "Beveren", 
       "pcode": "9120", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Oude Zandstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "002", 
+        "003"
+      ], 
       "hnrlbls": [
         "6"
       ], 
       "housenumber": "6", 
-      "lat": 51.212620292885546, 
-      "lon": 4.25459186516489, 
+      "lat": 51.21258016181798, 
+      "lon": 4.25464104865324, 
       "municipality": "Beveren", 
       "pcode": "9120", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Oude Zandstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "002", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "60"
       ], 
       "housenumber": "60", 
-      "lat": 51.21148188739729, 
-      "lon": 4.251612346087091, 
+      "lat": 51.21135373523957, 
+      "lon": 4.2517268627956275, 
       "municipality": "Beveren", 
       "pcode": "9120", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Oude Zandstraat"
-    }, 
-    {
-      "busnrs": [
-        "101"
-      ], 
-      "hnrlbls": [
-        "60b-60T"
-      ], 
-      "housenumber": "60T", 
-      "lat": 51.211481797654166, 
-      "lon": 4.251612489415234, 
-      "municipality": "Beveren", 
-      "pcode": "9120", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Oude Zandstraat"
-    }, 
-    {
-      "busnrs": [
-        "101", 
-        "2", 
-        "201"
-      ], 
-      "hnrlbls": [
-        "60b-60T"
-      ], 
-      "housenumber": "60b", 
-      "lat": 51.211481797654166, 
-      "lon": 4.251612489415234, 
-      "municipality": "Beveren", 
-      "pcode": "9120", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Oude Zandstraat"
     }, 
     {
@@ -1700,91 +923,64 @@
         "62"
       ], 
       "housenumber": "62", 
-      "lat": 51.21135752441064, 
-      "lon": 4.251558563404851, 
+      "lat": 51.21129539314004, 
+      "lon": 4.25162826690783, 
       "municipality": "Beveren", 
       "pcode": "9120", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Oude Zandstraat"
     }, 
     {
-      "hnrlbls": [
-        "64"
-      ], 
-      "housenumber": "64", 
-      "lat": 51.21124064110123, 
-      "lon": 4.251524367473144, 
-      "municipality": "Beveren", 
-      "pcode": "9120", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Oude Zandstraat"
-    }, 
-    {
-      "busnrs": [
+      "apptnrs": [
         "101", 
         "102", 
         "201", 
         "301", 
         "302"
       ], 
-      "hnrlbls": [
-        "64b"
+      "busnrs": [
+        "001"
       ], 
-      "housenumber": "64b", 
-      "lat": 51.21126845239754, 
-      "lon": 4.251470777302962, 
+      "hnrlbls": [
+        "64"
+      ], 
+      "housenumber": "64", 
+      "lat": 51.211256178775386, 
+      "lon": 4.251511878655084, 
       "municipality": "Beveren", 
       "pcode": "9120", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Oude Zandstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5"
+      "apptnrs": [
+        "001", 
+        "002", 
+        "003", 
+        "004", 
+        "005"
       ], 
       "hnrlbls": [
         "69"
       ], 
       "housenumber": "69", 
-      "lat": 51.21091261498679, 
-      "lon": 4.252033772767997, 
+      "lat": 51.21099070637811, 
+      "lon": 4.251923818828695, 
       "municipality": "Beveren", 
       "pcode": "9120", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Oude Zandstraat"
-    }, 
-    {
-      "busnrs": [
-        "2", 
-        "3", 
-        "4", 
-        "5"
-      ], 
-      "hnrlbls": [
-        "69b"
-      ], 
-      "housenumber": "69b", 
-      "lat": 51.210912614846336, 
-      "lon": 4.252033629666024, 
-      "municipality": "Beveren", 
-      "pcode": "9120", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Oude Zandstraat"
     }, 
     {
       "hnrlbls": [
-        "5-7"
+        "1-7"
       ], 
       "housenumber": "7", 
-      "lat": 51.21220392694567, 
-      "lon": 4.254944060981309, 
+      "lat": 51.212401294454516, 
+      "lon": 4.255301206376485, 
       "municipality": "Beveren", 
       "pcode": "9120", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Oude Zandstraat"
     }, 
     {
@@ -1796,41 +992,24 @@
       "lon": 4.2513039227399, 
       "municipality": "Beveren", 
       "pcode": "9120", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Oude Zandstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3"
+      "apptnrs": [
+        "001", 
+        "002", 
+        "003"
       ], 
       "hnrlbls": [
-        "71-71b"
+        "71"
       ], 
       "housenumber": "71", 
-      "lat": 51.21090307952222, 
-      "lon": 4.251842898029143, 
+      "lat": 51.210945188872444, 
+      "lon": 4.251795712401077, 
       "municipality": "Beveren", 
       "pcode": "9120", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Oude Zandstraat"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3"
-      ], 
-      "hnrlbls": [
-        "71-71b"
-      ], 
-      "housenumber": "71b", 
-      "lat": 51.21090307952222, 
-      "lon": 4.251842898029143, 
-      "municipality": "Beveren", 
-      "pcode": "9120", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Oude Zandstraat"
     }, 
     {
@@ -1838,45 +1017,28 @@
         "72"
       ], 
       "housenumber": "72", 
-      "lat": 51.211160738484125, 
-      "lon": 4.251164805965441, 
+      "lat": 51.21113749288413, 
+      "lon": 4.251199638261313, 
       "municipality": "Beveren", 
       "pcode": "9120", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Oude Zandstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3"
+      "apptnrs": [
+        "001", 
+        "002", 
+        "003"
       ], 
       "hnrlbls": [
-        "73-73b"
+        "73"
       ], 
       "housenumber": "73", 
-      "lat": 51.210921663235965, 
-      "lon": 4.251728799146662, 
+      "lat": 51.21092463335431, 
+      "lon": 4.251732798604398, 
       "municipality": "Beveren", 
       "pcode": "9120", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Oude Zandstraat"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3"
-      ], 
-      "hnrlbls": [
-        "73-73b"
-      ], 
-      "housenumber": "73b", 
-      "lat": 51.210921663235965, 
-      "lon": 4.251728799146662, 
-      "municipality": "Beveren", 
-      "pcode": "9120", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Oude Zandstraat"
     }, 
     {
@@ -1884,42 +1046,26 @@
         "74"
       ], 
       "housenumber": "74", 
-      "lat": 51.21107067496387, 
-      "lon": 4.250983720439125, 
+      "lat": 51.211070495195685, 
+      "lon": 4.250983720890395, 
       "municipality": "Beveren", 
       "pcode": "9120", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Oude Zandstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
+      "apptnrs": [
         "101"
       ], 
       "hnrlbls": [
-        "75-75b"
+        "75"
       ], 
       "housenumber": "75", 
-      "lat": 51.210803050149714, 
-      "lon": 4.2517635825821385, 
+      "lat": 51.210881153833576, 
+      "lon": 4.251666364515728, 
       "municipality": "Beveren", 
       "pcode": "9120", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Oude Zandstraat"
-    }, 
-    {
-      "busnrs": [
-        "101"
-      ], 
-      "hnrlbls": [
-        "75-75b"
-      ], 
-      "housenumber": "75b", 
-      "lat": 51.210803050149714, 
-      "lon": 4.2517635825821385, 
-      "municipality": "Beveren", 
-      "pcode": "9120", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Oude Zandstraat"
     }, 
     {
@@ -1927,23 +1073,11 @@
         "77"
       ], 
       "housenumber": "77", 
-      "lat": 51.210835418290195, 
-      "lon": 4.251590920752726, 
+      "lat": 51.2108670535476, 
+      "lon": 4.251586834890166, 
       "municipality": "Beveren", 
       "pcode": "9120", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Oude Zandstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "/zn-774"
-      ], 
-      "housenumber": "774", 
-      "lat": 51.21109580693066, 
-      "lon": 4.2518585884042315, 
-      "municipality": "Beveren", 
-      "pcode": "9120", 
-      "source": "afgeleidVanStraat", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Oude Zandstraat"
     }, 
     {
@@ -1951,28 +1085,30 @@
         "79"
       ], 
       "housenumber": "79", 
-      "lat": 51.210769325411235, 
-      "lon": 4.251562608528155, 
+      "lat": 51.21076770834341, 
+      "lon": 4.251563471178644, 
       "municipality": "Beveren", 
       "pcode": "9120", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Oude Zandstraat"
     }, 
     {
+      "apptnrs": [
+        "002", 
+        "003"
+      ], 
       "busnrs": [
-        "1", 
-        "2", 
-        "3"
+        "001"
       ], 
       "hnrlbls": [
-        "8-8b"
+        "8"
       ], 
       "housenumber": "8", 
-      "lat": 51.21252567066371, 
-      "lon": 4.254431672136006, 
+      "lat": 51.21251912838317, 
+      "lon": 4.254451723090245, 
       "municipality": "Beveren", 
       "pcode": "9120", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Oude Zandstraat"
     }, 
     {
@@ -1980,74 +1116,39 @@
         "81"
       ], 
       "housenumber": "81", 
-      "lat": 51.21062637139344, 
-      "lon": 4.251615340735472, 
+      "lat": 51.21079056542314, 
+      "lon": 4.251408005366899, 
       "municipality": "Beveren", 
       "pcode": "9120", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Oude Zandstraat"
     }, 
     {
-      "busnrs": [
-        "101", 
-        "102", 
-        "201", 
-        "202", 
-        "301", 
-        "302"
-      ], 
       "hnrlbls": [
         "83"
       ], 
       "housenumber": "83", 
-      "lat": 51.21048341734419, 
-      "lon": 4.251668072619532, 
+      "lat": 51.210429278493066, 
+      "lon": 4.251730456593358, 
       "municipality": "Beveren", 
       "pcode": "9120", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Oude Zandstraat"
-    }, 
-    {
-      "busnrs": [
-        "102"
-      ], 
-      "hnrlbls": [
-        "85-91"
-      ], 
-      "housenumber": "85", 
-      "lat": 51.21058545229603, 
-      "lon": 4.251228926229658, 
-      "municipality": "Beveren", 
-      "pcode": "9120", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Oude Zandstraat"
     }, 
     {
       "hnrlbls": [
-        "87-89b"
+        "87-91"
       ], 
       "housenumber": "87", 
-      "lat": 51.210584103468605, 
-      "lon": 4.251228357203202, 
+      "lat": 51.2105765623954, 
+      "lon": 4.251237677677869, 
       "municipality": "Beveren", 
       "pcode": "9120", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Oude Zandstraat"
     }, 
     {
-      "hnrlbls": [
-        "88"
-      ], 
-      "housenumber": "88", 
-      "lat": 51.21102087213048, 
-      "lon": 4.250343174850546, 
-      "municipality": "Beveren", 
-      "pcode": "9120", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Oude Zandstraat"
-    }, 
-    {
-      "busnrs": [
+      "apptnrs": [
         "101", 
         "102", 
         "201", 
@@ -2056,50 +1157,14 @@
         "302"
       ], 
       "hnrlbls": [
-        "87-89b"
+        "87-91"
       ], 
       "housenumber": "89", 
-      "lat": 51.210584103468605, 
-      "lon": 4.251228357203202, 
+      "lat": 51.2105765623954, 
+      "lon": 4.251237677677869, 
       "municipality": "Beveren", 
       "pcode": "9120", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Oude Zandstraat"
-    }, 
-    {
-      "busnrs": [
-        "101", 
-        "102", 
-        "201", 
-        "202", 
-        "301", 
-        "302"
-      ], 
-      "hnrlbls": [
-        "87-89b"
-      ], 
-      "housenumber": "89b", 
-      "lat": 51.210584103468605, 
-      "lon": 4.251228357203202, 
-      "municipality": "Beveren", 
-      "pcode": "9120", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Oude Zandstraat"
-    }, 
-    {
-      "busnrs": [
-        "2", 
-        "3"
-      ], 
-      "hnrlbls": [
-        "8-8b"
-      ], 
-      "housenumber": "8b", 
-      "lat": 51.21252567066371, 
-      "lon": 4.254431672136006, 
-      "municipality": "Beveren", 
-      "pcode": "9120", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Oude Zandstraat"
     }, 
     {
@@ -2107,23 +1172,23 @@
         "9"
       ], 
       "housenumber": "9", 
-      "lat": 51.21203519346591, 
-      "lon": 4.254828554566074, 
+      "lat": 51.21204666256272, 
+      "lon": 4.255072665205613, 
       "municipality": "Beveren", 
       "pcode": "9120", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Oude Zandstraat"
     }, 
     {
       "hnrlbls": [
-        "85-91"
+        "87-91"
       ], 
       "housenumber": "91", 
-      "lat": 51.21058545229603, 
-      "lon": 4.251228926229658, 
+      "lat": 51.2105765623954, 
+      "lon": 4.251237677677869, 
       "municipality": "Beveren", 
       "pcode": "9120", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Oude Zandstraat"
     }, 
     {
@@ -2131,55 +1196,32 @@
         "92"
       ], 
       "housenumber": "92", 
-      "lat": 51.21047937233962, 
-      "lon": 4.249856137877507, 
+      "lat": 51.21045566225349, 
+      "lon": 4.249785649211519, 
       "municipality": "Beveren", 
       "pcode": "9120", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Oude Zandstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "201"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "102", 
+        "201", 
+        "202", 
+        "301", 
+        "302"
       ], 
       "hnrlbls": [
         "93"
       ], 
       "housenumber": "93", 
-      "lat": 51.21051539170213, 
-      "lon": 4.251096876308312, 
+      "lat": 51.21051489639837, 
+      "lon": 4.251050512792092, 
       "municipality": "Beveren", 
       "pcode": "9120", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Oude Zandstraat"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "301"
-      ], 
-      "hnrlbls": [
-        "93b"
-      ], 
-      "housenumber": "93b", 
-      "lat": 51.2110424781251, 
-      "lon": 4.251556774529097, 
-      "municipality": "Beveren", 
-      "pcode": "9120", 
-      "source": "geinterpoleerdObvWegverbinding", 
-      "street": "Oude Zandstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "94-96"
-      ], 
-      "housenumber": "94", 
-      "lat": 51.21056461723903, 
-      "lon": 4.249084176715458, 
-      "municipality": "Beveren", 
-      "pcode": "9120", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelKadaster", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Oude Zandstraat"
     }, 
     {
@@ -2207,72 +1249,26 @@
         "207"
       ], 
       "hnrlbls": [
-        "95"
+        "95-97"
       ], 
       "housenumber": "95", 
-      "lat": 51.209056649066724, 
-      "lon": 4.252090190234082, 
+      "lat": 51.20895233177639, 
+      "lon": 4.252130230921957, 
       "municipality": "Beveren", 
       "pcode": "9120", 
-      "source": "manueleAanduidingVanLot", 
-      "street": "Oude Zandstraat"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "101", 
-        "102", 
-        "103", 
-        "104", 
-        "105", 
-        "106", 
-        "107", 
-        "2", 
-        "201", 
-        "202", 
-        "203", 
-        "204", 
-        "205", 
-        "206", 
-        "3", 
-        "4", 
-        "5", 
-        "6", 
-        "7"
-      ], 
-      "hnrlbls": [
-        "95b"
-      ], 
-      "housenumber": "95b", 
-      "lat": 51.20901094919206, 
-      "lon": 4.252234974948804, 
-      "municipality": "Beveren", 
-      "pcode": "9120", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Oude Zandstraat"
     }, 
     {
       "hnrlbls": [
-        "94-96"
-      ], 
-      "housenumber": "96", 
-      "lat": 51.21056461723903, 
-      "lon": 4.249084176715458, 
-      "municipality": "Beveren", 
-      "pcode": "9120", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelKadaster", 
-      "street": "Oude Zandstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "97"
+        "95-97"
       ], 
       "housenumber": "97", 
-      "lat": 51.20895700704603, 
-      "lon": 4.251856046337779, 
+      "lat": 51.20895233177639, 
+      "lon": 4.252130230921957, 
       "municipality": "Beveren", 
       "pcode": "9120", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Oude Zandstraat"
     }, 
     {
@@ -2280,11 +1276,11 @@
         "98"
       ], 
       "housenumber": "98", 
-      "lat": 51.210351570798466, 
-      "lon": 4.247643553915809, 
+      "lat": 51.21017029868292, 
+      "lon": 4.2479327978532, 
       "municipality": "Beveren", 
       "pcode": "9120", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Oude Zandstraat"
     }, 
     {
@@ -2292,35 +1288,23 @@
         "99"
       ], 
       "housenumber": "99", 
-      "lat": 51.20972660470805, 
-      "lon": 4.250772446312487, 
+      "lat": 51.21006751100382, 
+      "lon": 4.251110019884284, 
       "municipality": "Beveren", 
       "pcode": "9120", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Oude Zandstraat"
     }, 
     {
       "hnrlbls": [
-        "9A-9T"
+        "9A"
       ], 
       "housenumber": "9A", 
-      "lat": 51.2120260541197, 
-      "lon": 4.2545774261958895, 
+      "lat": 51.21208424265877, 
+      "lon": 4.254518611183027, 
       "municipality": "Beveren", 
       "pcode": "9120", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Oude Zandstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "9A-9T"
-      ], 
-      "housenumber": "9T", 
-      "lat": 51.2120260541197, 
-      "lon": 4.2545774261958895, 
-      "municipality": "Beveren", 
-      "pcode": "9120", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Oude Zandstraat"
     }
   ]

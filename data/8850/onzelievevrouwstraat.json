@@ -77,20 +77,20 @@
     }, 
     {
       "busnrs": [
-        "1", 
         "5", 
         "6", 
         "7"
       ], 
       "hnrlbls": [
-        "1-21"
+        "19", 
+        "19-21"
       ], 
       "housenumber": "19", 
-      "lat": 50.97766165030881, 
-      "lon": 3.1972154182147876, 
+      "lat": 50.97783049384864, 
+      "lon": 3.196881952549483, 
       "municipality": "Ardooie", 
       "pcode": "8850", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Onze-Lieve-Vrouwstraat"
     }, 
     {
@@ -119,32 +119,21 @@
     }, 
     {
       "busnrs": [
-        "1", 
         "2", 
         "6", 
-        "7"
+        "7", 
+        "9"
       ], 
       "hnrlbls": [
-        "1-21"
+        "19-21", 
+        "21"
       ], 
       "housenumber": "21", 
-      "lat": 50.97766165030881, 
-      "lon": 3.1972154182147876, 
+      "lat": 50.97783049384864, 
+      "lon": 3.196881952549483, 
       "municipality": "Ardooie", 
       "pcode": "8850", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Onze-Lieve-Vrouwstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "21A"
-      ], 
-      "housenumber": "21A", 
-      "lat": 50.97865785738683, 
-      "lon": 3.19686270287501, 
-      "municipality": "Ardooie", 
-      "pcode": "8850", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Onze-Lieve-Vrouwstraat"
     }, 
     {
@@ -205,6 +194,43 @@
       "municipality": "Ardooie", 
       "pcode": "8850", 
       "source": "afgeleidVanGebouw", 
+      "street": "Onze-Lieve-Vrouwstraat"
+    }, 
+    {
+      "apptnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5"
+      ], 
+      "hnrlbls": [
+        "5A", 
+        "5A-5B"
+      ], 
+      "housenumber": "5A", 
+      "lat": 50.97865785738683, 
+      "lon": 3.19686270287501, 
+      "municipality": "Ardooie", 
+      "pcode": "8850", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Onze-Lieve-Vrouwstraat"
+    }, 
+    {
+      "apptnrs": [
+        "1", 
+        "2"
+      ], 
+      "hnrlbls": [
+        "5B", 
+        "5A-5B"
+      ], 
+      "housenumber": "5B", 
+      "lat": 50.97865785738683, 
+      "lon": 3.19686270287501, 
+      "municipality": "Ardooie", 
+      "pcode": "8850", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Onze-Lieve-Vrouwstraat"
     }, 
     {

@@ -101,11 +101,11 @@
         "14"
       ], 
       "housenumber": "14", 
-      "lat": 51.17658957597062, 
-      "lon": 4.8370403892070994, 
+      "lat": 51.17647898972143, 
+      "lon": 4.836752278178808, 
       "municipality": "Herentals", 
       "pcode": "2200", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Grote Markt"
     }, 
     {
@@ -161,11 +161,11 @@
         "16"
       ], 
       "housenumber": "16", 
-      "lat": 51.17657297789976, 
-      "lon": 4.8367608010045435, 
+      "lat": 51.1765397434217, 
+      "lon": 4.836732153333035, 
       "municipality": "Herentals", 
       "pcode": "2200", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Grote Markt"
     }, 
     {
@@ -184,6 +184,10 @@
       "street": "Grote Markt"
     }, 
     {
+      "busnrs": [
+        "A", 
+        "B"
+      ], 
       "hnrlbls": [
         "18"
       ], 
@@ -197,30 +201,6 @@
     }, 
     {
       "hnrlbls": [
-        "18A-18B"
-      ], 
-      "housenumber": "18A", 
-      "lat": 51.17659031555068, 
-      "lon": 4.836740812149346, 
-      "municipality": "Herentals", 
-      "pcode": "2200", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Grote Markt"
-    }, 
-    {
-      "hnrlbls": [
-        "18A-18B"
-      ], 
-      "housenumber": "18B", 
-      "lat": 51.17659031555068, 
-      "lon": 4.836740812149346, 
-      "municipality": "Herentals", 
-      "pcode": "2200", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Grote Markt"
-    }, 
-    {
-      "hnrlbls": [
         "19"
       ], 
       "housenumber": "19", 
@@ -229,18 +209,6 @@
       "municipality": "Herentals", 
       "pcode": "2200", 
       "source": "afgeleidVanGebouw", 
-      "street": "Grote Markt"
-    }, 
-    {
-      "hnrlbls": [
-        "2-86"
-      ], 
-      "housenumber": "2", 
-      "lat": 51.17669433467344, 
-      "lon": 4.836282540474282, 
-      "municipality": "Herentals", 
-      "pcode": "2200", 
-      "source": "afgeleidVanStraat", 
       "street": "Grote Markt"
     }, 
     {
@@ -272,11 +240,11 @@
         "21"
       ], 
       "housenumber": "21", 
-      "lat": 51.17678503521812, 
-      "lon": 4.835714166030844, 
+      "lat": 51.176740249840435, 
+      "lon": 4.8357423173250424, 
       "municipality": "Herentals", 
       "pcode": "2200", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Grote Markt"
     }, 
     {
@@ -296,11 +264,11 @@
         "23"
       ], 
       "housenumber": "23", 
-      "lat": 51.17685473884502, 
-      "lon": 4.835658379239698, 
+      "lat": 51.176818875043026, 
+      "lon": 4.835703494069862, 
       "municipality": "Herentals", 
       "pcode": "2200", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Grote Markt"
     }, 
     {
@@ -556,78 +524,34 @@
       "street": "Grote Markt"
     }, 
     {
-      "apptnrs": [
-        "0.0"
+      "busnrs": [
+        "A", 
+        "B", 
+        "C", 
+        "D", 
+        "E"
       ], 
       "hnrlbls": [
         "40"
       ], 
       "housenumber": "40", 
-      "lat": 51.17747942833207, 
-      "lon": 4.836481754050829, 
+      "lat": 51.17743319517588, 
+      "lon": 4.836353588947344, 
       "municipality": "Herentals", 
       "pcode": "2200", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Grote Markt"
     }, 
     {
       "hnrlbls": [
-        "40A-40D"
-      ], 
-      "housenumber": "40A", 
-      "lat": 51.17747942776501, 
-      "lon": 4.836481897047613, 
-      "municipality": "Herentals", 
-      "pcode": "2200", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Grote Markt"
-    }, 
-    {
-      "hnrlbls": [
-        "40A-40D"
-      ], 
-      "housenumber": "40B", 
-      "lat": 51.17747942776501, 
-      "lon": 4.836481897047613, 
-      "municipality": "Herentals", 
-      "pcode": "2200", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Grote Markt"
-    }, 
-    {
-      "hnrlbls": [
-        "40A-40D"
-      ], 
-      "housenumber": "40C", 
-      "lat": 51.17747942776501, 
-      "lon": 4.836481897047613, 
-      "municipality": "Herentals", 
-      "pcode": "2200", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Grote Markt"
-    }, 
-    {
-      "hnrlbls": [
-        "40A-40D"
-      ], 
-      "housenumber": "40D", 
-      "lat": 51.17747942776501, 
-      "lon": 4.836481897047613, 
-      "municipality": "Herentals", 
-      "pcode": "2200", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Grote Markt"
-    }, 
-    {
-      "hnrlbls": [
-        "41-49"
+        "41"
       ], 
       "housenumber": "41", 
-      "lat": 51.17754334866147, 
-      "lon": 4.835707750145372, 
+      "lat": 51.17796340775709, 
+      "lon": 4.835340148898498, 
       "municipality": "Herentals", 
       "pcode": "2200", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Grote Markt"
     }, 
     {
@@ -667,32 +591,40 @@
         "46"
       ], 
       "housenumber": "46", 
-      "lat": 51.178042493988755, 
-      "lon": 4.836705200746419, 
+      "lat": 51.17779389689087, 
+      "lon": 4.836062621098623, 
       "municipality": "Herentals", 
       "pcode": "2200", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Grote Markt"
     }, 
     {
+      "busnrs": [
+        "A", 
+        "B", 
+        "C", 
+        "D", 
+        "E", 
+        "F"
+      ], 
       "hnrlbls": [
-        "48-48F"
+        "48"
       ], 
       "housenumber": "48", 
-      "lat": 51.17747959476525, 
-      "lon": 4.836462450387008, 
+      "lat": 51.177909869308984, 
+      "lon": 4.835921924270971, 
       "municipality": "Herentals", 
       "pcode": "2200", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Grote Markt"
     }, 
     {
       "hnrlbls": [
-        "48-48F"
+        "48A-48F"
       ], 
       "housenumber": "48A", 
-      "lat": 51.17747959476525, 
-      "lon": 4.836462450387008, 
+      "lat": 51.177943725578324, 
+      "lon": 4.8367007768774375, 
       "municipality": "Herentals", 
       "pcode": "2200", 
       "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
@@ -700,11 +632,11 @@
     }, 
     {
       "hnrlbls": [
-        "48-48F"
+        "48A-48F"
       ], 
       "housenumber": "48B", 
-      "lat": 51.17747959476525, 
-      "lon": 4.836462450387008, 
+      "lat": 51.177943725578324, 
+      "lon": 4.8367007768774375, 
       "municipality": "Herentals", 
       "pcode": "2200", 
       "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
@@ -712,11 +644,11 @@
     }, 
     {
       "hnrlbls": [
-        "48-48F"
+        "48A-48F"
       ], 
       "housenumber": "48C", 
-      "lat": 51.17747959476525, 
-      "lon": 4.836462450387008, 
+      "lat": 51.177943725578324, 
+      "lon": 4.8367007768774375, 
       "municipality": "Herentals", 
       "pcode": "2200", 
       "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
@@ -724,11 +656,11 @@
     }, 
     {
       "hnrlbls": [
-        "48-48F"
+        "48A-48F"
       ], 
       "housenumber": "48D", 
-      "lat": 51.17747959476525, 
-      "lon": 4.836462450387008, 
+      "lat": 51.177943725578324, 
+      "lon": 4.8367007768774375, 
       "municipality": "Herentals", 
       "pcode": "2200", 
       "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
@@ -736,31 +668,23 @@
     }, 
     {
       "hnrlbls": [
-        "48-48F"
+        "48A-48F"
       ], 
       "housenumber": "48F", 
-      "lat": 51.17747959476525, 
-      "lon": 4.836462450387008, 
+      "lat": 51.177943725578324, 
+      "lon": 4.8367007768774375, 
       "municipality": "Herentals", 
       "pcode": "2200", 
       "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Grote Markt"
     }, 
     {
-      "hnrlbls": [
-        "41-49"
+      "busnrs": [
+        "A", 
+        "B"
       ], 
-      "housenumber": "49", 
-      "lat": 51.17754334866147, 
-      "lon": 4.835707750145372, 
-      "municipality": "Herentals", 
-      "pcode": "2200", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
-      "street": "Grote Markt"
-    }, 
-    {
       "hnrlbls": [
-        "5-5B"
+        "5"
       ], 
       "housenumber": "5", 
       "lat": 51.17581739056458, 
@@ -784,30 +708,6 @@
     }, 
     {
       "hnrlbls": [
-        "5-5B"
-      ], 
-      "housenumber": "5A", 
-      "lat": 51.17581739056458, 
-      "lon": 4.83621568612027, 
-      "municipality": "Herentals", 
-      "pcode": "2200", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Grote Markt"
-    }, 
-    {
-      "hnrlbls": [
-        "5-5B"
-      ], 
-      "housenumber": "5B", 
-      "lat": 51.17581739056458, 
-      "lon": 4.83621568612027, 
-      "municipality": "Herentals", 
-      "pcode": "2200", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Grote Markt"
-    }, 
-    {
-      "hnrlbls": [
         "6"
       ], 
       "housenumber": "6", 
@@ -819,18 +719,15 @@
       "street": "Grote Markt"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
         "7"
       ], 
       "housenumber": "7", 
-      "lat": 51.175878602603866, 
-      "lon": 4.836011813586748, 
+      "lat": 51.17592106050324, 
+      "lon": 4.836253476388944, 
       "municipality": "Herentals", 
       "pcode": "2200", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Grote Markt"
     }, 
     {
@@ -838,28 +735,33 @@
         "7_1"
       ], 
       "housenumber": "7_1", 
-      "lat": 51.175819889697024, 
-      "lon": 4.835970613667934, 
+      "lat": 51.175980698574904, 
+      "lon": 4.836197304478614, 
       "municipality": "Herentals", 
       "pcode": "2200", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Grote Markt"
     }, 
     {
+      "busnrs": [
+        "A", 
+        "B", 
+        "C"
+      ], 
       "hnrlbls": [
-        "8-8C"
+        "8"
       ], 
       "housenumber": "8", 
-      "lat": 51.176244978639794, 
-      "lon": 4.836896930886519, 
+      "lat": 51.17622798929346, 
+      "lon": 4.836761197510102, 
       "municipality": "Herentals", 
       "pcode": "2200", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Grote Markt"
     }, 
     {
       "hnrlbls": [
-        "2-86"
+        "84-86"
       ], 
       "housenumber": "84", 
       "lat": 51.17669433467344, 
@@ -871,7 +773,7 @@
     }, 
     {
       "hnrlbls": [
-        "2-86"
+        "84-86"
       ], 
       "housenumber": "86", 
       "lat": 51.17669433467344, 
@@ -879,42 +781,6 @@
       "municipality": "Herentals", 
       "pcode": "2200", 
       "source": "afgeleidVanStraat", 
-      "street": "Grote Markt"
-    }, 
-    {
-      "hnrlbls": [
-        "8-8C"
-      ], 
-      "housenumber": "8A", 
-      "lat": 51.176244978639794, 
-      "lon": 4.836896930886519, 
-      "municipality": "Herentals", 
-      "pcode": "2200", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Grote Markt"
-    }, 
-    {
-      "hnrlbls": [
-        "8-8C"
-      ], 
-      "housenumber": "8B", 
-      "lat": 51.176244978639794, 
-      "lon": 4.836896930886519, 
-      "municipality": "Herentals", 
-      "pcode": "2200", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Grote Markt"
-    }, 
-    {
-      "hnrlbls": [
-        "8-8C"
-      ], 
-      "housenumber": "8C", 
-      "lat": 51.176244978639794, 
-      "lon": 4.836896930886519, 
-      "municipality": "Herentals", 
-      "pcode": "2200", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Grote Markt"
     }, 
     {
