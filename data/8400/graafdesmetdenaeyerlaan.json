@@ -320,10 +320,12 @@
         "301", 
         "302", 
         "303", 
+        "305", 
         "401", 
         "403", 
         "404", 
         "501", 
+        "502", 
         "504", 
         "505"
       ], 
@@ -545,6 +547,7 @@
     }, 
     {
       "busnrs": [
+        "11", 
         "19", 
         "6", 
         "8", 
@@ -588,6 +591,7 @@
     }, 
     {
       "busnrs": [
+        "3", 
         "4"
       ], 
       "hnrlbls": [
@@ -641,8 +645,23 @@
       "street": "Graaf de Smet de Naeyerlaan"
     }, 
     {
+      "busnrs": [
+        "6"
+      ], 
       "hnrlbls": [
-        "3D-10_7"
+        "3A-10_7"
+      ], 
+      "housenumber": "3A", 
+      "lat": 51.22605174021004, 
+      "lon": 2.923007421563388, 
+      "municipality": "Oostende", 
+      "pcode": "8400", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "street": "Graaf de Smet de Naeyerlaan"
+    }, 
+    {
+      "hnrlbls": [
+        "3A-10_7"
       ], 
       "housenumber": "3D", 
       "lat": 51.22605174021004, 
@@ -838,6 +857,7 @@
     }, 
     {
       "busnrs": [
+        "1", 
         "2", 
         "3"
       ], 
@@ -867,6 +887,7 @@
     {
       "busnrs": [
         "1", 
+        "103", 
         "201", 
         "3"
       ], 
@@ -992,7 +1013,8 @@
     }, 
     {
       "busnrs": [
-        "1"
+        "1", 
+        "4"
       ], 
       "hnrlbls": [
         "66"
@@ -1132,6 +1154,7 @@
     }, 
     {
       "busnrs": [
+        "2", 
         "3"
       ], 
       "hnrlbls": [

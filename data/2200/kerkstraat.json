@@ -2,14 +2,14 @@
   "addresses": [
     {
       "hnrlbls": [
-        "1-2"
+        "1"
       ], 
       "housenumber": "1", 
-      "lat": 51.17529925173062, 
-      "lon": 4.835655665341794, 
+      "lat": 51.17557797947974, 
+      "lon": 4.836430210642081, 
       "municipality": "Herentals", 
       "pcode": "2200", 
-      "source": "afgeleidVanStraat", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -88,6 +88,9 @@
       "street": "Kerkstraat"
     }, 
     {
+      "busnrs": [
+        "A"
+      ], 
       "hnrlbls": [
         "18"
       ], 
@@ -100,39 +103,19 @@
       "street": "Kerkstraat"
     }, 
     {
-      "hnrlbls": [
-        "18A"
+      "busnrs": [
+        "101", 
+        "201"
       ], 
-      "housenumber": "18A", 
-      "lat": 51.175505831593014, 
-      "lon": 4.835741673839639, 
-      "municipality": "Herentals", 
-      "pcode": "2200", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Kerkstraat"
-    }, 
-    {
       "hnrlbls": [
-        "19"
-      ], 
-      "housenumber": "19", 
-      "lat": 51.17490769337853, 
-      "lon": 4.835794308207337, 
-      "municipality": "Herentals", 
-      "pcode": "2200", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Kerkstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "1-2"
+        "2"
       ], 
       "housenumber": "2", 
-      "lat": 51.17529925173062, 
-      "lon": 4.835655665341794, 
+      "lat": 51.17565088205777, 
+      "lon": 4.836315829739747, 
       "municipality": "Herentals", 
       "pcode": "2200", 
-      "source": "afgeleidVanStraat", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -238,18 +221,6 @@
       "street": "Kerkstraat"
     }, 
     {
-      "hnrlbls": [
-        "29"
-      ], 
-      "housenumber": "29", 
-      "lat": 51.17498933400645, 
-      "lon": 4.83565227450692, 
-      "municipality": "Herentals", 
-      "pcode": "2200", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Kerkstraat"
-    }, 
-    {
       "busnrs": [
         "201"
       ], 
@@ -262,18 +233,6 @@
       "municipality": "Herentals", 
       "pcode": "2200", 
       "source": "afgeleidVanGebouw", 
-      "street": "Kerkstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "30"
-      ], 
-      "housenumber": "30", 
-      "lat": 51.17548172233892, 
-      "lon": 4.8360643180124026, 
-      "municipality": "Herentals", 
-      "pcode": "2200", 
-      "source": "geinterpoleerdObvWegverbinding", 
       "street": "Kerkstraat"
     }, 
     {
@@ -373,8 +332,13 @@
       "street": "Kerkstraat"
     }, 
     {
+      "busnrs": [
+        "A", 
+        "B", 
+        "C"
+      ], 
       "hnrlbls": [
-        "6-6C"
+        "6"
       ], 
       "housenumber": "6", 
       "lat": 51.17566662221896, 
@@ -382,42 +346,6 @@
       "municipality": "Herentals", 
       "pcode": "2200", 
       "source": "afgeleidVanGebouw", 
-      "street": "Kerkstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "6-6C"
-      ], 
-      "housenumber": "6A", 
-      "lat": 51.17566662221896, 
-      "lon": 4.836109214110764, 
-      "municipality": "Herentals", 
-      "pcode": "2200", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Kerkstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "6-6C"
-      ], 
-      "housenumber": "6B", 
-      "lat": 51.17566662221896, 
-      "lon": 4.836109214110764, 
-      "municipality": "Herentals", 
-      "pcode": "2200", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Kerkstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "6-6C"
-      ], 
-      "housenumber": "6C", 
-      "lat": 51.17566662221896, 
-      "lon": 4.836109214110764, 
-      "municipality": "Herentals", 
-      "pcode": "2200", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -434,26 +362,14 @@
     }, 
     {
       "hnrlbls": [
-        "8"
-      ], 
-      "housenumber": "8", 
-      "lat": 51.175654727386515, 
-      "lon": 4.836071343651249, 
-      "municipality": "Herentals", 
-      "pcode": "2200", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Kerkstraat"
-    }, 
-    {
-      "hnrlbls": [
         "9"
       ], 
       "housenumber": "9", 
-      "lat": 51.175338826795596, 
-      "lon": 4.83603528697062, 
+      "lat": 51.17542987437233, 
+      "lon": 4.836105410017189, 
       "municipality": "Herentals", 
       "pcode": "2200", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }
   ]

@@ -64,6 +64,9 @@
       "apptnrs": [
         "1.0"
       ], 
+      "busnrs": [
+        "101"
+      ], 
       "hnrlbls": [
         "111"
       ], 
@@ -153,6 +156,7 @@
       ], 
       "busnrs": [
         "1", 
+        "101", 
         "12", 
         "2", 
         "201", 
@@ -712,7 +716,8 @@
         "1", 
         "101", 
         "102", 
-        "201"
+        "201", 
+        "202"
       ], 
       "hnrlbls": [
         "16"
@@ -1473,7 +1478,8 @@
         "3.0"
       ], 
       "busnrs": [
-        "1"
+        "1", 
+        "301"
       ], 
       "hnrlbls": [
         "224"
@@ -2085,6 +2091,7 @@
         "2.0"
       ], 
       "busnrs": [
+        "101", 
         "301"
       ], 
       "hnrlbls": [
@@ -2399,6 +2406,7 @@
     {
       "busnrs": [
         "101", 
+        "102", 
         "202", 
         "203", 
         "301"
@@ -2472,6 +2480,7 @@
         "1.0"
       ], 
       "busnrs": [
+        "101", 
         "2", 
         "201"
       ], 
@@ -2926,6 +2935,7 @@
         "4", 
         "403", 
         "5", 
+        "503", 
         "6", 
         "7", 
         "8"
@@ -2959,6 +2969,7 @@
         "3", 
         "4", 
         "401", 
+        "403", 
         "5", 
         "501", 
         "601", 
@@ -3052,6 +3063,21 @@
       "municipality": "Dilbeek", 
       "pcode": "1700", 
       "source": "afgeleidVanGebouw", 
+      "street": "Ninoofsesteenweg"
+    }, 
+    {
+      "busnrs": [
+        "602"
+      ], 
+      "hnrlbls": [
+        "406-406b"
+      ], 
+      "housenumber": "406A", 
+      "lat": 50.84295736688801, 
+      "lon": 4.256804152886725, 
+      "municipality": "Dilbeek", 
+      "pcode": "1700", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Ninoofsesteenweg"
     }, 
     {
@@ -3263,6 +3289,21 @@
       "municipality": "Dilbeek", 
       "pcode": "1700", 
       "source": "afgeleidVanGebouw", 
+      "street": "Ninoofsesteenweg"
+    }, 
+    {
+      "busnrs": [
+        "301"
+      ], 
+      "hnrlbls": [
+        "62"
+      ], 
+      "housenumber": "62", 
+      "lat": 50.84500923175726, 
+      "lon": 4.279021897107183, 
+      "municipality": "Dilbeek", 
+      "pcode": "1700", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Ninoofsesteenweg"
     }, 
     {
@@ -3550,6 +3591,7 @@
         "103", 
         "104", 
         "2", 
+        "201", 
         "3"
       ], 
       "hnrlbls": [
@@ -3634,7 +3676,8 @@
     {
       "busnrs": [
         "101", 
-        "201"
+        "201", 
+        "301"
       ], 
       "hnrlbls": [
         "85"

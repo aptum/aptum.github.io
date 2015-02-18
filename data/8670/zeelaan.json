@@ -440,7 +440,8 @@
         "101", 
         "102", 
         "103", 
-        "104"
+        "104", 
+        "105"
       ], 
       "hnrlbls": [
         "136"
@@ -660,8 +661,10 @@
     }, 
     {
       "busnrs": [
+        "102", 
         "103", 
         "104", 
+        "108", 
         "109", 
         "110", 
         "114", 
@@ -896,6 +899,7 @@
         "305", 
         "309", 
         "314", 
+        "401", 
         "405", 
         "411", 
         "415", 
@@ -931,11 +935,11 @@
         "172-174"
       ], 
       "housenumber": "172", 
-      "lat": 51.11628998140745, 
-      "lon": 2.638640799884189, 
+      "lat": 51.11610947268043, 
+      "lon": 2.639015138385604, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Zeelaan"
     }, 
     {
@@ -955,11 +959,11 @@
         "172-174"
       ], 
       "housenumber": "174", 
-      "lat": 51.11628998140745, 
-      "lon": 2.638640799884189, 
+      "lat": 51.11610947268043, 
+      "lon": 2.639015138385604, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Zeelaan"
     }, 
     {
@@ -997,11 +1001,11 @@
         "176A"
       ], 
       "housenumber": "176A", 
-      "lat": 51.11647051689365, 
-      "lon": 2.638266274691792, 
+      "lat": 51.11647050283369, 
+      "lon": 2.638266283785056, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Zeelaan"
     }, 
     {
@@ -1021,7 +1025,7 @@
         "101"
       ], 
       "hnrlbls": [
-        "178-178A"
+        "178"
       ], 
       "housenumber": "178", 
       "lat": 51.116525014188355, 
@@ -1039,14 +1043,14 @@
         "401"
       ], 
       "hnrlbls": [
-        "178-178A"
+        "178A"
       ], 
       "housenumber": "178A", 
-      "lat": 51.116525014188355, 
-      "lon": 2.6382118305493947, 
+      "lat": 51.11652500980279, 
+      "lon": 2.638211834986265, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Zeelaan"
     }, 
     {
@@ -1094,11 +1098,11 @@
         "181"
       ], 
       "housenumber": "181", 
-      "lat": 51.11357019337586, 
-      "lon": 2.64068083513838, 
+      "lat": 51.11326107741274, 
+      "lon": 2.6410130580418816, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Zeelaan"
     }, 
     {
@@ -1321,7 +1325,8 @@
     }, 
     {
       "busnrs": [
-        "101"
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "198"
@@ -2017,6 +2022,7 @@
     {
       "busnrs": [
         "101", 
+        "201", 
         "202", 
         "301", 
         "401"
@@ -2049,11 +2055,11 @@
         "242"
       ], 
       "housenumber": "242", 
-      "lat": 51.11795131337928, 
-      "lon": 2.6362040369089996, 
+      "lat": 51.11810963057567, 
+      "lon": 2.6364514260978207, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
-      "source": "geinterpoleerdObvWegverbinding", 
+      "source": "afgeleidVanGebouw", 
       "street": "Zeelaan"
     }, 
     {
@@ -2088,11 +2094,11 @@
         "245"
       ], 
       "housenumber": "245", 
-      "lat": 51.11670038118531, 
-      "lon": 2.637258369196487, 
+      "lat": 51.11670037641819, 
+      "lon": 2.6372584169343956, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Zeelaan"
     }, 
     {
@@ -2172,7 +2178,7 @@
     }, 
     {
       "hnrlbls": [
-        "2-250A"
+        "2-250"
       ], 
       "housenumber": "250", 
       "lat": 51.11830068680082, 
@@ -2183,30 +2189,15 @@
       "street": "Zeelaan"
     }, 
     {
-      "busnrs": [
-        "201"
-      ], 
-      "hnrlbls": [
-        "2-250A"
-      ], 
-      "housenumber": "250A", 
-      "lat": 51.11830068680082, 
-      "lon": 2.6362146586539876, 
-      "municipality": "Koksijde", 
-      "pcode": "8670", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Zeelaan"
-    }, 
-    {
       "hnrlbls": [
         "251-253"
       ], 
       "housenumber": "251", 
-      "lat": 51.116934081004324, 
-      "lon": 2.636965577464591, 
+      "lat": 51.117089453070115, 
+      "lon": 2.6369309520474093, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Zeelaan"
     }, 
     {
@@ -2226,11 +2217,11 @@
         "251-253"
       ], 
       "housenumber": "253", 
-      "lat": 51.116934081004324, 
-      "lon": 2.636965577464591, 
+      "lat": 51.117089453070115, 
+      "lon": 2.6369309520474093, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Zeelaan"
     }, 
     {
@@ -2539,14 +2530,14 @@
     }, 
     {
       "hnrlbls": [
-        "272-276"
+        "272-274"
       ], 
       "housenumber": "272", 
-      "lat": 51.119036619085755, 
-      "lon": 2.635363937305493, 
+      "lat": 51.1190742858749, 
+      "lon": 2.635315883576385, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Zeelaan"
     }, 
     {
@@ -2571,14 +2562,14 @@
     }, 
     {
       "hnrlbls": [
-        "272-276"
+        "272-274"
       ], 
       "housenumber": "274", 
-      "lat": 51.119036619085755, 
-      "lon": 2.635363937305493, 
+      "lat": 51.1190742858749, 
+      "lon": 2.635315883576385, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Zeelaan"
     }, 
     {
@@ -2595,14 +2586,14 @@
     }, 
     {
       "hnrlbls": [
-        "272-276"
+        "276"
       ], 
       "housenumber": "276", 
-      "lat": 51.119036619085755, 
-      "lon": 2.635363937305493, 
+      "lat": 51.119158954105906, 
+      "lon": 2.6352300962955804, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Zeelaan"
     }, 
     {
@@ -2720,11 +2711,11 @@
         "282A"
       ], 
       "housenumber": "282A", 
-      "lat": 51.119413327483336, 
-      "lon": 2.6349891006903547, 
+      "lat": 51.119413318870386, 
+      "lon": 2.6349891038887043, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Zeelaan"
     }, 
     {
@@ -2741,7 +2732,7 @@
     }, 
     {
       "hnrlbls": [
-        "284-284A"
+        "284"
       ], 
       "housenumber": "284", 
       "lat": 51.11946896274665, 
@@ -2757,14 +2748,14 @@
         "601"
       ], 
       "hnrlbls": [
-        "284-284A"
+        "284A"
       ], 
       "housenumber": "284A", 
-      "lat": 51.11946896274665, 
-      "lon": 2.63494489302438, 
+      "lat": 51.119469005913075, 
+      "lon": 2.6349448286043597, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Zeelaan"
     }, 
     {
@@ -2946,7 +2937,7 @@
     }, 
     {
       "hnrlbls": [
-        "296-296A"
+        "296"
       ], 
       "housenumber": "296", 
       "lat": 51.119725027578276, 
@@ -2964,14 +2955,14 @@
         "501"
       ], 
       "hnrlbls": [
-        "296-296A"
+        "296A"
       ], 
       "housenumber": "296A", 
-      "lat": 51.119725027578276, 
-      "lon": 2.6346753860674887, 
+      "lat": 51.119725006808615, 
+      "lon": 2.6346753605303976, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Zeelaan"
     }, 
     {
@@ -3005,6 +2996,9 @@
       "street": "Zeelaan"
     }, 
     {
+      "busnrs": [
+        "102"
+      ], 
       "hnrlbls": [
         "295-299"
       ], 
@@ -3079,11 +3073,11 @@
         "302"
       ], 
       "housenumber": "302", 
-      "lat": 51.11980229209546, 
-      "lon": 2.6345183713897224, 
+      "lat": 51.11983025654281, 
+      "lon": 2.634460822718288, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Zeelaan"
     }, 
     {
@@ -3279,7 +3273,8 @@
         "101", 
         "201", 
         "301", 
-        "401"
+        "401", 
+        "501"
       ], 
       "hnrlbls": [
         "319"
@@ -3327,6 +3322,7 @@
     }, 
     {
       "busnrs": [
+        "201", 
         "501"
       ], 
       "hnrlbls": [
@@ -4075,6 +4071,9 @@
       "street": "Zeelaan"
     }, 
     {
+      "busnrs": [
+        "201"
+      ], 
       "hnrlbls": [
         "84-86"
       ], 

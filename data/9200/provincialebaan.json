@@ -25,6 +25,9 @@
       "street": "Provinciale baan"
     }, 
     {
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "103"
       ], 
@@ -34,6 +37,18 @@
       "municipality": "Dendermonde", 
       "pcode": "9200", 
       "source": "afgeleidVanGebouw", 
+      "street": "Provinciale baan"
+    }, 
+    {
+      "hnrlbls": [
+        "105"
+      ], 
+      "housenumber": "105", 
+      "lat": 51.02983670819275, 
+      "lon": 4.185165578481078, 
+      "municipality": "Dendermonde", 
+      "pcode": "9200", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Provinciale baan"
     }, 
     {
@@ -721,7 +736,8 @@
     {
       "busnrs": [
         "1", 
-        "2"
+        "2", 
+        "3"
       ], 
       "hnrlbls": [
         "47-47B"
