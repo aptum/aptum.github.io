@@ -14,11 +14,11 @@
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 51.20675759098494, 
-      "lon": 3.2241462466724684, 
+      "lat": 51.206680884784596, 
+      "lon": 3.2243140742548295, 
       "municipality": "Brugge", 
       "pcode": "8000", 
-      "source": "afgeleidVanGebouw", 
+      "source": "geinterpoleerdObvWegverbinding", 
       "street": "Loppemstraat"
     }, 
     {
@@ -99,14 +99,14 @@
         "102"
       ], 
       "hnrlbls": [
-        "16"
+        "16-24"
       ], 
       "housenumber": "16", 
-      "lat": 51.20699389993862, 
-      "lon": 3.2234030126894018, 
+      "lat": 51.20688956952275, 
+      "lon": 3.2237236497354034, 
       "municipality": "Brugge", 
       "pcode": "8000", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanStraat", 
       "street": "Loppemstraat"
     }, 
     {
@@ -127,14 +127,29 @@
         "301"
       ], 
       "hnrlbls": [
-        "20"
+        "16-24"
       ], 
       "housenumber": "20", 
-      "lat": 51.20695947866736, 
-      "lon": 3.22322754926435, 
+      "lat": 51.20688956952275, 
+      "lon": 3.2237236497354034, 
       "municipality": "Brugge", 
       "pcode": "8000", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanStraat", 
+      "street": "Loppemstraat"
+    }, 
+    {
+      "busnrs": [
+        "3"
+      ], 
+      "hnrlbls": [
+        "16-24"
+      ], 
+      "housenumber": "24", 
+      "lat": 51.20688956952275, 
+      "lon": 3.2237236497354034, 
+      "municipality": "Brugge", 
+      "pcode": "8000", 
+      "source": "afgeleidVanStraat", 
       "street": "Loppemstraat"
     }, 
     {
@@ -177,7 +192,6 @@
       "busnrs": [
         "1", 
         "2", 
-        "201", 
         "3", 
         "4"
       ], 

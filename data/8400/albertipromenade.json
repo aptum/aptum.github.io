@@ -9,11 +9,11 @@
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 51.2346804842724, 
-      "lon": 2.9208391934430553, 
+      "lat": 51.23463585268025, 
+      "lon": 2.9212392313553277, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "geinterpoleerdObvWegverbinding", 
       "street": "Albert I-Promenade"
     }, 
     {
@@ -30,26 +30,26 @@
     }, 
     {
       "hnrlbls": [
-        "11"
+        "11-12"
       ], 
       "housenumber": "11", 
-      "lat": 51.23501246448131, 
-      "lon": 2.9196550439320132, 
+      "lat": 51.23482509363037, 
+      "lon": 2.91960886440579, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Albert I-Promenade"
     }, 
     {
       "hnrlbls": [
-        "12"
+        "11-12"
       ], 
       "housenumber": "12", 
-      "lat": 51.23504466666552, 
-      "lon": 2.919509693788348, 
+      "lat": 51.23482509363037, 
+      "lon": 2.91960886440579, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Albert I-Promenade"
     }, 
     {
@@ -89,27 +89,83 @@
         "14", 
         "18", 
         "19", 
-        "1B", 
-        "1C", 
         "21", 
         "25", 
         "29", 
         "3", 
         "31", 
-        "8", 
-        "9C", 
-        "A9", 
-        "B18"
+        "8"
       ], 
       "hnrlbls": [
-        "15"
+        "15-15_9"
       ], 
       "housenumber": "15", 
-      "lat": 51.23512862200462, 
-      "lon": 2.9192152387632047, 
+      "lat": 51.235032783184444, 
+      "lon": 2.9191627753064027, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Albert I-Promenade"
+    }, 
+    {
+      "busnrs": [
+        "9"
+      ], 
+      "hnrlbls": [
+        "15-15_9"
+      ], 
+      "housenumber": "15A", 
+      "lat": 51.235032783184444, 
+      "lon": 2.9191627753064027, 
+      "municipality": "Oostende", 
+      "pcode": "8400", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "street": "Albert I-Promenade"
+    }, 
+    {
+      "busnrs": [
+        "18"
+      ], 
+      "hnrlbls": [
+        "15-15_9"
+      ], 
+      "housenumber": "15B", 
+      "lat": 51.235032783184444, 
+      "lon": 2.9191627753064027, 
+      "municipality": "Oostende", 
+      "pcode": "8400", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "street": "Albert I-Promenade"
+    }, 
+    {
+      "busnrs": [
+        "B", 
+        "C"
+      ], 
+      "hnrlbls": [
+        "15-15_9"
+      ], 
+      "housenumber": "15_1", 
+      "lat": 51.235032783184444, 
+      "lon": 2.9191627753064027, 
+      "municipality": "Oostende", 
+      "pcode": "8400", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "street": "Albert I-Promenade"
+    }, 
+    {
+      "busnrs": [
+        "C"
+      ], 
+      "hnrlbls": [
+        "15-15_9"
+      ], 
+      "housenumber": "15_9", 
+      "lat": 51.235032783184444, 
+      "lon": 2.9191627753064027, 
+      "municipality": "Oostende", 
+      "pcode": "8400", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Albert I-Promenade"
     }, 
     {
@@ -175,18 +231,67 @@
     }, 
     {
       "busnrs": [
-        "D34", 
-        "F6"
+        "10", 
+        "15", 
+        "17", 
+        "203", 
+        "22", 
+        "27", 
+        "3", 
+        "301", 
+        "304", 
+        "307", 
+        "41", 
+        "46", 
+        "5", 
+        "501", 
+        "502", 
+        "507", 
+        "51", 
+        "56", 
+        "62", 
+        "64", 
+        "7"
       ], 
       "hnrlbls": [
-        "19"
+        "18-20"
       ], 
       "housenumber": "19", 
-      "lat": 51.235181700952175, 
-      "lon": 2.9184902856868353, 
+      "lat": 51.23508666911211, 
+      "lon": 2.9185274239769963, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Albert I-Promenade"
+    }, 
+    {
+      "busnrs": [
+        "34"
+      ], 
+      "hnrlbls": [
+        "19D-19F"
+      ], 
+      "housenumber": "19D", 
+      "lat": 51.23507773962192, 
+      "lon": 2.9185470341810476, 
+      "municipality": "Oostende", 
+      "pcode": "8400", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "street": "Albert I-Promenade"
+    }, 
+    {
+      "busnrs": [
+        "6"
+      ], 
+      "hnrlbls": [
+        "19D-19F"
+      ], 
+      "housenumber": "19F", 
+      "lat": 51.23507773962192, 
+      "lon": 2.9185470341810476, 
+      "municipality": "Oostende", 
+      "pcode": "8400", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Albert I-Promenade"
     }, 
     {
@@ -223,11 +328,11 @@
         "21"
       ], 
       "housenumber": "21", 
-      "lat": 51.23523150006127, 
-      "lon": 2.917838850377209, 
+      "lat": 51.23511584334636, 
+      "lon": 2.9181205339647858, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Albert I-Promenade"
     }, 
     {
@@ -237,14 +342,14 @@
         "7"
       ], 
       "hnrlbls": [
-        "22"
+        "22-23"
       ], 
       "housenumber": "22", 
-      "lat": 51.235233965605715, 
-      "lon": 2.917760710543164, 
+      "lat": 51.23515394728787, 
+      "lon": 2.9176941762005204, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Albert I-Promenade"
     }, 
     {
@@ -253,14 +358,14 @@
         "4"
       ], 
       "hnrlbls": [
-        "23"
+        "22-23"
       ], 
       "housenumber": "23", 
-      "lat": 51.23523561296215, 
-      "lon": 2.9176091492835368, 
+      "lat": 51.23515394728787, 
+      "lon": 2.9176941762005204, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Albert I-Promenade"
     }, 
     {
@@ -325,7 +430,6 @@
         "28", 
         "29", 
         "3", 
-        "4", 
         "6", 
         "7", 
         "8", 
@@ -347,11 +451,11 @@
         "28"
       ], 
       "housenumber": "28", 
-      "lat": 51.23504520511977, 
-      "lon": 2.9171188898174503, 
+      "lat": 51.232665586023984, 
+      "lon": 2.9142382368774635, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Albert I-Promenade"
     }, 
     {
@@ -360,14 +464,11 @@
         "12", 
         "13", 
         "18", 
-        "1B", 
         "21", 
-        "23B", 
-        "9", 
-        "9B"
+        "9"
       ], 
       "hnrlbls": [
-        "3"
+        "3-3_23"
       ], 
       "housenumber": "3", 
       "lat": 51.234689557041946, 
@@ -444,21 +545,12 @@
     {
       "busnrs": [
         "1", 
-        "10A", 
-        "10D", 
         "12", 
-        "1B", 
-        "2B", 
-        "4A", 
-        "6A", 
-        "6B", 
-        "7A", 
-        "8A", 
         "9", 
         "B"
       ], 
       "hnrlbls": [
-        "34-34O"
+        "34-34_10"
       ], 
       "housenumber": "34", 
       "lat": 51.23461100887292, 
@@ -469,10 +561,13 @@
       "street": "Albert I-Promenade"
     }, 
     {
-      "hnrlbls": [
-        "34-34O"
+      "busnrs": [
+        "6"
       ], 
-      "housenumber": "34O", 
+      "hnrlbls": [
+        "34-34_10"
+      ], 
+      "housenumber": "34B", 
       "lat": 51.23461100887292, 
       "lon": 2.916490128982311, 
       "municipality": "Oostende", 
@@ -482,20 +577,48 @@
     }, 
     {
       "busnrs": [
-        "2B", 
-        "5A", 
-        "7A", 
-        "7B"
+        "B"
       ], 
       "hnrlbls": [
-        "35"
+        "34-34_10"
       ], 
-      "housenumber": "35", 
-      "lat": 51.23463831089674, 
-      "lon": 2.9163267439964944, 
+      "housenumber": "34_1", 
+      "lat": 51.23461100887292, 
+      "lon": 2.916490128982311, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "street": "Albert I-Promenade"
+    }, 
+    {
+      "busnrs": [
+        "A", 
+        "D"
+      ], 
+      "hnrlbls": [
+        "34-34_10"
+      ], 
+      "housenumber": "34_10", 
+      "lat": 51.23461100887292, 
+      "lon": 2.916490128982311, 
+      "municipality": "Oostende", 
+      "pcode": "8400", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "street": "Albert I-Promenade"
+    }, 
+    {
+      "busnrs": [
+        "B"
+      ], 
+      "hnrlbls": [
+        "34-34_10"
+      ], 
+      "housenumber": "34_2", 
+      "lat": 51.23461100887292, 
+      "lon": 2.916490128982311, 
+      "municipality": "Oostende", 
+      "pcode": "8400", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Albert I-Promenade"
     }, 
     {
@@ -503,7 +626,85 @@
         "A"
       ], 
       "hnrlbls": [
-        "35_10"
+        "34-34_10"
+      ], 
+      "housenumber": "34_4", 
+      "lat": 51.23461100887292, 
+      "lon": 2.916490128982311, 
+      "municipality": "Oostende", 
+      "pcode": "8400", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "street": "Albert I-Promenade"
+    }, 
+    {
+      "busnrs": [
+        "A"
+      ], 
+      "hnrlbls": [
+        "34-34_10"
+      ], 
+      "housenumber": "34_6", 
+      "lat": 51.23461100887292, 
+      "lon": 2.916490128982311, 
+      "municipality": "Oostende", 
+      "pcode": "8400", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "street": "Albert I-Promenade"
+    }, 
+    {
+      "busnrs": [
+        "A"
+      ], 
+      "hnrlbls": [
+        "34-34_10"
+      ], 
+      "housenumber": "34_7", 
+      "lat": 51.23461100887292, 
+      "lon": 2.916490128982311, 
+      "municipality": "Oostende", 
+      "pcode": "8400", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "street": "Albert I-Promenade"
+    }, 
+    {
+      "busnrs": [
+        "A"
+      ], 
+      "hnrlbls": [
+        "34-34_10"
+      ], 
+      "housenumber": "34_8", 
+      "lat": 51.23461100887292, 
+      "lon": 2.916490128982311, 
+      "municipality": "Oostende", 
+      "pcode": "8400", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "street": "Albert I-Promenade"
+    }, 
+    {
+      "busnrs": [
+        "10", 
+        "5", 
+        "601", 
+        "A"
+      ], 
+      "hnrlbls": [
+        "35-35_10"
+      ], 
+      "housenumber": "35", 
+      "lat": 51.23456788668217, 
+      "lon": 2.9164046914747574, 
+      "municipality": "Oostende", 
+      "pcode": "8400", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Albert I-Promenade"
+    }, 
+    {
+      "busnrs": [
+        "A"
+      ], 
+      "hnrlbls": [
+        "35-35_10"
       ], 
       "housenumber": "35_10", 
       "lat": 51.23456788668217, 
@@ -515,8 +716,53 @@
     }, 
     {
       "busnrs": [
+        "B"
+      ], 
+      "hnrlbls": [
+        "35-35_10"
+      ], 
+      "housenumber": "35_2", 
+      "lat": 51.23456788668217, 
+      "lon": 2.9164046914747574, 
+      "municipality": "Oostende", 
+      "pcode": "8400", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "street": "Albert I-Promenade"
+    }, 
+    {
+      "busnrs": [
+        "A"
+      ], 
+      "hnrlbls": [
+        "35-35_10"
+      ], 
+      "housenumber": "35_5", 
+      "lat": 51.23456788668217, 
+      "lon": 2.9164046914747574, 
+      "municipality": "Oostende", 
+      "pcode": "8400", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "street": "Albert I-Promenade"
+    }, 
+    {
+      "busnrs": [
+        "A", 
+        "B"
+      ], 
+      "hnrlbls": [
+        "35-35_10"
+      ], 
+      "housenumber": "35_7", 
+      "lat": 51.23456788668217, 
+      "lon": 2.9164046914747574, 
+      "municipality": "Oostende", 
+      "pcode": "8400", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "street": "Albert I-Promenade"
+    }, 
+    {
+      "busnrs": [
         "1", 
-        "4", 
         "5", 
         "6"
       ], 
@@ -587,11 +833,56 @@
         "39"
       ], 
       "housenumber": "39", 
-      "lat": 51.23445794141047, 
-      "lon": 2.9159802287506627, 
+      "lat": 51.23424560399321, 
+      "lon": 2.9160247923744302, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "street": "Albert I-Promenade"
+    }, 
+    {
+      "busnrs": [
+        "B"
+      ], 
+      "hnrlbls": [
+        "1-346A"
+      ], 
+      "housenumber": "3_1", 
+      "lat": 51.21019494141423, 
+      "lon": 2.92423265140856, 
+      "municipality": "Oostende", 
+      "pcode": "8400", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Albert I-Promenade"
+    }, 
+    {
+      "busnrs": [
+        "B"
+      ], 
+      "hnrlbls": [
+        "3-3_23"
+      ], 
+      "housenumber": "3_23", 
+      "lat": 51.234689557041946, 
+      "lon": 2.9205881415613866, 
+      "municipality": "Oostende", 
+      "pcode": "8400", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "street": "Albert I-Promenade"
+    }, 
+    {
+      "busnrs": [
+        "B"
+      ], 
+      "hnrlbls": [
+        "3-3_23"
+      ], 
+      "housenumber": "3_9", 
+      "lat": 51.234689557041946, 
+      "lon": 2.9205881415613866, 
+      "municipality": "Oostende", 
+      "pcode": "8400", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Albert I-Promenade"
     }, 
     {
@@ -661,36 +952,29 @@
       "busnrs": [
         "1", 
         "101", 
-        "10C", 
         "11", 
         "12", 
         "15", 
         "18", 
-        "1C", 
-        "1D", 
-        "1F", 
         "2", 
         "21", 
         "22", 
         "23", 
         "27", 
         "30", 
-        "321", 
         "36", 
         "37", 
         "38", 
         "39", 
-        "3C", 
         "43", 
         "5", 
         "6", 
         "7", 
         "8", 
-        "9", 
-        "9B"
+        "9"
       ], 
       "hnrlbls": [
-        "43"
+        "43-43_9"
       ], 
       "housenumber": "43", 
       "lat": 51.23370930131192, 
@@ -702,19 +986,81 @@
     }, 
     {
       "busnrs": [
+        "C", 
+        "D", 
+        "F"
+      ], 
+      "hnrlbls": [
+        "43-43_9"
+      ], 
+      "housenumber": "43_1", 
+      "lat": 51.23370930131192, 
+      "lon": 2.914769601579907, 
+      "municipality": "Oostende", 
+      "pcode": "8400", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "street": "Albert I-Promenade"
+    }, 
+    {
+      "busnrs": [
+        "C"
+      ], 
+      "hnrlbls": [
+        "1-346A"
+      ], 
+      "housenumber": "43_10", 
+      "lat": 51.21019494141423, 
+      "lon": 2.92423265140856, 
+      "municipality": "Oostende", 
+      "pcode": "8400", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Albert I-Promenade"
+    }, 
+    {
+      "busnrs": [
+        "21", 
+        "C"
+      ], 
+      "hnrlbls": [
+        "43-43_9"
+      ], 
+      "housenumber": "43_3", 
+      "lat": 51.23370930131192, 
+      "lon": 2.914769601579907, 
+      "municipality": "Oostende", 
+      "pcode": "8400", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "street": "Albert I-Promenade"
+    }, 
+    {
+      "busnrs": [
+        "B"
+      ], 
+      "hnrlbls": [
+        "43-43_9"
+      ], 
+      "housenumber": "43_9", 
+      "lat": 51.23370930131192, 
+      "lon": 2.914769601579907, 
+      "municipality": "Oostende", 
+      "pcode": "8400", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "street": "Albert I-Promenade"
+    }, 
+    {
+      "busnrs": [
         "10", 
         "12", 
         "14", 
         "15", 
         "18", 
-        "1A", 
         "2", 
         "3", 
         "7", 
         "8"
       ], 
       "hnrlbls": [
-        "44-44A"
+        "44-44_1"
       ], 
       "housenumber": "44", 
       "lat": 51.233645222307686, 
@@ -726,7 +1072,7 @@
     }, 
     {
       "hnrlbls": [
-        "44-44A"
+        "44-44_1"
       ], 
       "housenumber": "44A", 
       "lat": 51.233645222307686, 
@@ -734,6 +1080,21 @@
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
+      "street": "Albert I-Promenade"
+    }, 
+    {
+      "busnrs": [
+        "A"
+      ], 
+      "hnrlbls": [
+        "44-44_1"
+      ], 
+      "housenumber": "44_1", 
+      "lat": 51.233645222307686, 
+      "lon": 2.914639569749347, 
+      "municipality": "Oostende", 
+      "pcode": "8400", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Albert I-Promenade"
     }, 
     {
@@ -780,23 +1141,14 @@
       "busnrs": [
         "1", 
         "10", 
-        "10F", 
         "14", 
         "26", 
         "27", 
-        "2C", 
         "405", 
         "55", 
         "6", 
-        "6A", 
-        "6B", 
-        "6D", 
-        "6F", 
         "8", 
-        "8D", 
         "9", 
-        "9B", 
-        "9C", 
         "C", 
         "D"
       ], 
@@ -804,35 +1156,114 @@
         "47"
       ], 
       "housenumber": "47", 
-      "lat": 51.23341687060612, 
-      "lon": 2.9139357640550987, 
+      "lat": 51.23325817800611, 
+      "lon": 2.9141039057357583, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Albert I-Promenade"
     }, 
     {
       "hnrlbls": [
-        "1-47D"
+        "47A-47_10"
       ], 
       "housenumber": "47A", 
-      "lat": 51.23356782579309, 
-      "lon": 2.9140551530497225, 
+      "lat": 51.233350313161004, 
+      "lon": 2.9140224156599603, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "geinterpoleerdObvWegverbinding", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Albert I-Promenade"
     }, 
     {
       "hnrlbls": [
-        "1-47D"
+        "47A-47_10"
       ], 
       "housenumber": "47D", 
-      "lat": 51.23356782579309, 
-      "lon": 2.9140551530497225, 
+      "lat": 51.233350313161004, 
+      "lon": 2.9140224156599603, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "geinterpoleerdObvWegverbinding", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "street": "Albert I-Promenade"
+    }, 
+    {
+      "busnrs": [
+        "F"
+      ], 
+      "hnrlbls": [
+        "47A-47_10"
+      ], 
+      "housenumber": "47_10", 
+      "lat": 51.233350313161004, 
+      "lon": 2.9140224156599603, 
+      "municipality": "Oostende", 
+      "pcode": "8400", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "street": "Albert I-Promenade"
+    }, 
+    {
+      "busnrs": [
+        "C"
+      ], 
+      "hnrlbls": [
+        "47A-47_10"
+      ], 
+      "housenumber": "47_2", 
+      "lat": 51.233350313161004, 
+      "lon": 2.9140224156599603, 
+      "municipality": "Oostende", 
+      "pcode": "8400", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "street": "Albert I-Promenade"
+    }, 
+    {
+      "busnrs": [
+        "A", 
+        "B", 
+        "D", 
+        "F"
+      ], 
+      "hnrlbls": [
+        "47A-47_10"
+      ], 
+      "housenumber": "47_6", 
+      "lat": 51.233350313161004, 
+      "lon": 2.9140224156599603, 
+      "municipality": "Oostende", 
+      "pcode": "8400", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "street": "Albert I-Promenade"
+    }, 
+    {
+      "busnrs": [
+        "D"
+      ], 
+      "hnrlbls": [
+        "47A-47_10"
+      ], 
+      "housenumber": "47_8", 
+      "lat": 51.233350313161004, 
+      "lon": 2.9140224156599603, 
+      "municipality": "Oostende", 
+      "pcode": "8400", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "street": "Albert I-Promenade"
+    }, 
+    {
+      "busnrs": [
+        "B", 
+        "C"
+      ], 
+      "hnrlbls": [
+        "47A-47_10"
+      ], 
+      "housenumber": "47_9", 
+      "lat": 51.233350313161004, 
+      "lon": 2.9140224156599603, 
+      "municipality": "Oostende", 
+      "pcode": "8400", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Albert I-Promenade"
     }, 
     {
@@ -846,35 +1277,49 @@
         "36", 
         "37", 
         "42", 
-        "6A", 
         "8"
       ], 
       "hnrlbls": [
-        "48"
+        "48-49"
       ], 
       "housenumber": "48", 
-      "lat": 51.23333825183135, 
-      "lon": 2.9137858533212944, 
+      "lat": 51.23319837260266, 
+      "lon": 2.914007107874665, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Albert I-Promenade"
     }, 
     {
       "hnrlbls": [
-        "48A"
+        "3_3-48_6"
       ], 
       "housenumber": "48A", 
-      "lat": 51.23347980697055, 
-      "lon": 2.91387918660934, 
+      "lat": 51.23318119696815, 
+      "lon": 2.9140506030866953, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "geinterpoleerdObvWegverbinding", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "street": "Albert I-Promenade"
+    }, 
+    {
+      "busnrs": [
+        "A"
+      ], 
+      "hnrlbls": [
+        "3_3-48_6"
+      ], 
+      "housenumber": "48_6", 
+      "lat": 51.23318119696815, 
+      "lon": 2.9140506030866953, 
+      "municipality": "Oostende", 
+      "pcode": "8400", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Albert I-Promenade"
     }, 
     {
       "hnrlbls": [
-        "49"
+        "48-49"
       ], 
       "housenumber": "49", 
       "lat": 51.23319837260266, 
@@ -897,19 +1342,8 @@
       "street": "Albert I-Promenade"
     }, 
     {
-      "busnrs": [
-        "1B", 
-        "2A", 
-        "2B", 
-        "4A", 
-        "4B", 
-        "5A", 
-        "6A", 
-        "6B", 
-        "9B"
-      ], 
       "hnrlbls": [
-        "50-50B"
+        "50-50_9"
       ], 
       "housenumber": "50", 
       "lat": 51.233214305582536, 
@@ -921,7 +1355,7 @@
     }, 
     {
       "hnrlbls": [
-        "50-50B"
+        "50-50_9"
       ], 
       "housenumber": "50A", 
       "lat": 51.233214305582536, 
@@ -936,9 +1370,102 @@
         "1"
       ], 
       "hnrlbls": [
-        "50-50B"
+        "50-50_9"
       ], 
       "housenumber": "50B", 
+      "lat": 51.233214305582536, 
+      "lon": 2.913716348290877, 
+      "municipality": "Oostende", 
+      "pcode": "8400", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
+      "street": "Albert I-Promenade"
+    }, 
+    {
+      "busnrs": [
+        "B"
+      ], 
+      "hnrlbls": [
+        "50-50_9"
+      ], 
+      "housenumber": "50_1", 
+      "lat": 51.233214305582536, 
+      "lon": 2.913716348290877, 
+      "municipality": "Oostende", 
+      "pcode": "8400", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
+      "street": "Albert I-Promenade"
+    }, 
+    {
+      "busnrs": [
+        "A", 
+        "B"
+      ], 
+      "hnrlbls": [
+        "50-50_9"
+      ], 
+      "housenumber": "50_2", 
+      "lat": 51.233214305582536, 
+      "lon": 2.913716348290877, 
+      "municipality": "Oostende", 
+      "pcode": "8400", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
+      "street": "Albert I-Promenade"
+    }, 
+    {
+      "busnrs": [
+        "A", 
+        "B"
+      ], 
+      "hnrlbls": [
+        "50-50_9"
+      ], 
+      "housenumber": "50_4", 
+      "lat": 51.233214305582536, 
+      "lon": 2.913716348290877, 
+      "municipality": "Oostende", 
+      "pcode": "8400", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
+      "street": "Albert I-Promenade"
+    }, 
+    {
+      "busnrs": [
+        "A"
+      ], 
+      "hnrlbls": [
+        "50-50_9"
+      ], 
+      "housenumber": "50_5", 
+      "lat": 51.233214305582536, 
+      "lon": 2.913716348290877, 
+      "municipality": "Oostende", 
+      "pcode": "8400", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
+      "street": "Albert I-Promenade"
+    }, 
+    {
+      "busnrs": [
+        "A", 
+        "B"
+      ], 
+      "hnrlbls": [
+        "50-50_9"
+      ], 
+      "housenumber": "50_6", 
+      "lat": 51.233214305582536, 
+      "lon": 2.913716348290877, 
+      "municipality": "Oostende", 
+      "pcode": "8400", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
+      "street": "Albert I-Promenade"
+    }, 
+    {
+      "busnrs": [
+        "B"
+      ], 
+      "hnrlbls": [
+        "50-50_9"
+      ], 
+      "housenumber": "50_9", 
       "lat": 51.233214305582536, 
       "lon": 2.913716348290877, 
       "municipality": "Oostende", 
@@ -989,38 +1516,38 @@
     }, 
     {
       "hnrlbls": [
-        "52"
+        "52-52I"
       ], 
       "housenumber": "52", 
-      "lat": 51.23290778164062, 
-      "lon": 2.912965302398034, 
+      "lat": 51.23294864118099, 
+      "lon": 2.9132333277574722, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Albert I-Promenade"
     }, 
     {
       "hnrlbls": [
-        "52D-52I"
+        "52-52I"
       ], 
       "housenumber": "52D", 
-      "lat": 51.233127817136804, 
-      "lon": 2.9131751815449727, 
+      "lat": 51.23294864118099, 
+      "lon": 2.9132333277574722, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "geinterpoleerdObvWegverbinding", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Albert I-Promenade"
     }, 
     {
       "hnrlbls": [
-        "52D-52I"
+        "52-52I"
       ], 
       "housenumber": "52I", 
-      "lat": 51.233127817136804, 
-      "lon": 2.9131751815449727, 
+      "lat": 51.23294864118099, 
+      "lon": 2.9132333277574722, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "geinterpoleerdObvWegverbinding", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Albert I-Promenade"
     }, 
     {
@@ -1033,8 +1560,6 @@
         "26", 
         "28", 
         "29", 
-        "2C", 
-        "2F", 
         "30", 
         "31", 
         "33", 
@@ -1054,21 +1579,79 @@
         "64", 
         "66", 
         "68", 
-        "7D", 
-        "7F", 
-        "8C", 
-        "8D", 
         "9"
       ], 
       "hnrlbls": [
-        "53"
+        "53-54"
       ], 
       "housenumber": "53", 
-      "lat": 51.23284795957458, 
-      "lon": 2.912808793748112, 
+      "lat": 51.23276703778143, 
+      "lon": 2.912904202084643, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Albert I-Promenade"
+    }, 
+    {
+      "busnrs": [
+        "C", 
+        "F"
+      ], 
+      "hnrlbls": [
+        "53_2-54_8"
+      ], 
+      "housenumber": "53_2", 
+      "lat": 51.2327249877792, 
+      "lon": 2.9128330573795616, 
+      "municipality": "Oostende", 
+      "pcode": "8400", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "street": "Albert I-Promenade"
+    }, 
+    {
+      "busnrs": [
+        "D", 
+        "F"
+      ], 
+      "hnrlbls": [
+        "53_2-54_8"
+      ], 
+      "housenumber": "53_7", 
+      "lat": 51.2327249877792, 
+      "lon": 2.9128330573795616, 
+      "municipality": "Oostende", 
+      "pcode": "8400", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "street": "Albert I-Promenade"
+    }, 
+    {
+      "busnrs": [
+        "C"
+      ], 
+      "hnrlbls": [
+        "53_2-54_8"
+      ], 
+      "housenumber": "53_8", 
+      "lat": 51.2327249877792, 
+      "lon": 2.9128330573795616, 
+      "municipality": "Oostende", 
+      "pcode": "8400", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "street": "Albert I-Promenade"
+    }, 
+    {
+      "busnrs": [
+        "D"
+      ], 
+      "hnrlbls": [
+        "1-346A"
+      ], 
+      "housenumber": "53_80", 
+      "lat": 51.21019494141423, 
+      "lon": 2.92423265140856, 
+      "municipality": "Oostende", 
+      "pcode": "8400", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Albert I-Promenade"
     }, 
     {
@@ -1078,21 +1661,63 @@
         "18", 
         "2", 
         "24", 
-        "4A", 
         "501", 
-        "7A", 
-        "8", 
-        "8B"
+        "8"
       ], 
       "hnrlbls": [
-        "54"
+        "53-54"
       ], 
       "housenumber": "54", 
-      "lat": 51.23280298790686, 
-      "lon": 2.912734016956912, 
+      "lat": 51.23276703778143, 
+      "lon": 2.912904202084643, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Albert I-Promenade"
+    }, 
+    {
+      "busnrs": [
+        "A"
+      ], 
+      "hnrlbls": [
+        "53_2-54_8"
+      ], 
+      "housenumber": "54_4", 
+      "lat": 51.2327249877792, 
+      "lon": 2.9128330573795616, 
+      "municipality": "Oostende", 
+      "pcode": "8400", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "street": "Albert I-Promenade"
+    }, 
+    {
+      "busnrs": [
+        "A"
+      ], 
+      "hnrlbls": [
+        "53_2-54_8"
+      ], 
+      "housenumber": "54_7", 
+      "lat": 51.2327249877792, 
+      "lon": 2.9128330573795616, 
+      "municipality": "Oostende", 
+      "pcode": "8400", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "street": "Albert I-Promenade"
+    }, 
+    {
+      "busnrs": [
+        "B"
+      ], 
+      "hnrlbls": [
+        "53_2-54_8"
+      ], 
+      "housenumber": "54_8", 
+      "lat": 51.2327249877792, 
+      "lon": 2.9128330573795616, 
+      "municipality": "Oostende", 
+      "pcode": "8400", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Albert I-Promenade"
     }, 
     {
@@ -1103,20 +1728,34 @@
         "14", 
         "16", 
         "19", 
-        "1A", 
         "5", 
         "6", 
         "7"
       ], 
       "hnrlbls": [
-        "55"
+        "55-56"
       ], 
       "housenumber": "55", 
-      "lat": 51.23273499990741, 
-      "lon": 2.9126298876323795, 
+      "lat": 51.23263897066791, 
+      "lon": 2.912629969753159, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Albert I-Promenade"
+    }, 
+    {
+      "busnrs": [
+        "A"
+      ], 
+      "hnrlbls": [
+        "55_1"
+      ], 
+      "housenumber": "55_1", 
+      "lat": 51.23261922848341, 
+      "lon": 2.912545241210597, 
+      "municipality": "Oostende", 
+      "pcode": "8400", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Albert I-Promenade"
     }, 
     {
@@ -1125,44 +1764,72 @@
         "11", 
         "13", 
         "14", 
-        "16B", 
-        "1D", 
         "3", 
         "6"
       ], 
       "hnrlbls": [
-        "56"
+        "55-56"
       ], 
       "housenumber": "56", 
-      "lat": 51.23266910874739, 
-      "lon": 2.912491612301354, 
+      "lat": 51.23263897066791, 
+      "lon": 2.912629969753159, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Albert I-Promenade"
+    }, 
+    {
+      "busnrs": [
+        "D"
+      ], 
+      "hnrlbls": [
+        "56_1-56_16"
+      ], 
+      "housenumber": "56_1", 
+      "lat": 51.23265862116373, 
+      "lon": 2.9127145580320186, 
+      "municipality": "Oostende", 
+      "pcode": "8400", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "street": "Albert I-Promenade"
+    }, 
+    {
+      "busnrs": [
+        "B"
+      ], 
+      "hnrlbls": [
+        "56_1-56_16"
+      ], 
+      "housenumber": "56_16", 
+      "lat": 51.23265862116373, 
+      "lon": 2.9127145580320186, 
+      "municipality": "Oostende", 
+      "pcode": "8400", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Albert I-Promenade"
     }, 
     {
       "hnrlbls": [
-        "58"
+        "58-59"
       ], 
       "housenumber": "58", 
-      "lat": 51.23152319596426, 
-      "lon": 2.910905827033818, 
+      "lat": 51.231718541957136, 
+      "lon": 2.9122189626447286, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "geinterpoleerdObvWegverbinding", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Albert I-Promenade"
     }, 
     {
       "hnrlbls": [
-        "59"
+        "58-59"
       ], 
       "housenumber": "59", 
-      "lat": 51.231333241491015, 
-      "lon": 2.9108917183796295, 
+      "lat": 51.231718541957136, 
+      "lon": 2.9122189626447286, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "geinterpoleerdObvWegverbinding", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Albert I-Promenade"
     }, 
     {
@@ -1306,12 +1973,10 @@
         "62", 
         "64", 
         "701", 
-        "71", 
         "72", 
         "74", 
         "81", 
         "83", 
-        "91", 
         "92", 
         "93", 
         "95"
@@ -1427,8 +2092,11 @@
       "street": "Albert I-Promenade"
     }, 
     {
+      "busnrs": [
+        "c"
+      ], 
       "hnrlbls": [
-        "67"
+        "67-67C"
       ], 
       "housenumber": "67", 
       "lat": 51.22967569635421, 
@@ -1439,75 +2107,98 @@
       "street": "Albert I-Promenade"
     }, 
     {
+      "busnrs": [
+        "10", 
+        "12", 
+        "13", 
+        "3", 
+        "4", 
+        "6", 
+        "8"
+      ], 
       "hnrlbls": [
-        "67A"
+        "67-67C"
       ], 
       "housenumber": "67A", 
-      "lat": 51.22989653253304, 
-      "lon": 2.909745639768674, 
+      "lat": 51.22967569635421, 
+      "lon": 2.9096412455544916, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Albert I-Promenade"
     }, 
     {
+      "busnrs": [
+        "13", 
+        "14", 
+        "15", 
+        "2", 
+        "3", 
+        "7"
+      ], 
       "hnrlbls": [
-        "67B"
+        "67-67C"
       ], 
       "housenumber": "67B", 
-      "lat": 51.22989401399398, 
-      "lon": 2.9096434820895976, 
+      "lat": 51.22967569635421, 
+      "lon": 2.9096412455544916, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Albert I-Promenade"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "13", 
+        "4", 
+        "5"
+      ], 
       "hnrlbls": [
-        "67C"
+        "67-67C"
       ], 
       "housenumber": "67C", 
-      "lat": 51.22983988733742, 
-      "lon": 2.9095409345963743, 
+      "lat": 51.22967569635421, 
+      "lon": 2.9096412455544916, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Albert I-Promenade"
     }, 
     {
       "hnrlbls": [
-        "67D"
+        "67D-67F"
       ], 
       "housenumber": "67D", 
-      "lat": 51.22977670897371, 
-      "lon": 2.9095208604884792, 
+      "lat": 51.229830665203465, 
+      "lon": 2.909829127783363, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Albert I-Promenade"
     }, 
     {
       "hnrlbls": [
-        "67E"
+        "67D-67F"
       ], 
       "housenumber": "67E", 
-      "lat": 51.22977404192822, 
-      "lon": 2.909406679934881, 
+      "lat": 51.229830665203465, 
+      "lon": 2.909829127783363, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Albert I-Promenade"
     }, 
     {
       "hnrlbls": [
-        "67F"
+        "67D-67F"
       ], 
       "housenumber": "67F", 
-      "lat": 51.22972874669128, 
-      "lon": 2.909305861225434, 
+      "lat": 51.229830665203465, 
+      "lon": 2.909829127783363, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Albert I-Promenade"
     }, 
     {
@@ -1616,26 +2307,26 @@
     }, 
     {
       "hnrlbls": [
-        "73"
+        "73-75"
       ], 
       "housenumber": "73", 
-      "lat": 51.22947091488298, 
-      "lon": 2.9088107706556676, 
+      "lat": 51.22929599460135, 
+      "lon": 2.908748188431491, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Albert I-Promenade"
     }, 
     {
       "hnrlbls": [
-        "75"
+        "73-75"
       ], 
       "housenumber": "75", 
-      "lat": 51.22932012768852, 
-      "lon": 2.908524822254346, 
+      "lat": 51.22929599460135, 
+      "lon": 2.908748188431491, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Albert I-Promenade"
     }, 
     {
@@ -1696,7 +2387,6 @@
         "202", 
         "203", 
         "204", 
-        "208", 
         "302", 
         "303", 
         "304", 
@@ -1746,18 +2436,17 @@
         "19", 
         "202", 
         "22", 
-        "4B", 
         "8"
       ], 
       "hnrlbls": [
-        "8"
+        "8-9"
       ], 
       "housenumber": "8", 
-      "lat": 51.23487676505537, 
-      "lon": 2.9201854367576336, 
+      "lat": 51.234780089191084, 
+      "lon": 2.920147702658432, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Albert I-Promenade"
     }, 
     {
@@ -1783,7 +2472,6 @@
       "busnrs": [
         "3", 
         "4", 
-        "6", 
         "7"
       ], 
       "hnrlbls": [
@@ -1916,6 +2604,21 @@
     }, 
     {
       "busnrs": [
+        "B"
+      ], 
+      "hnrlbls": [
+        "8_4"
+      ], 
+      "housenumber": "8_4", 
+      "lat": 51.2347802706763, 
+      "lon": 2.920147840223145, 
+      "municipality": "Oostende", 
+      "pcode": "8400", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "street": "Albert I-Promenade"
+    }, 
+    {
+      "busnrs": [
         "21", 
         "26", 
         "29", 
@@ -1923,7 +2626,7 @@
         "30"
       ], 
       "hnrlbls": [
-        "9"
+        "8-9"
       ], 
       "housenumber": "9", 
       "lat": 51.234780089191084, 

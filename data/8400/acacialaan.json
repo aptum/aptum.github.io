@@ -169,7 +169,6 @@
         "303", 
         "401", 
         "402", 
-        "5", 
         "501"
       ], 
       "hnrlbls": [
@@ -478,6 +477,18 @@
     }, 
     {
       "hnrlbls": [
+        "49"
+      ], 
+      "housenumber": "49", 
+      "lat": 51.21467773582383, 
+      "lon": 2.8820794481826284, 
+      "municipality": "Oostende", 
+      "pcode": "8400", 
+      "source": "afgeleidVanStraat", 
+      "street": "Acacialaan"
+    }, 
+    {
+      "hnrlbls": [
         "5"
       ], 
       "housenumber": "5", 
@@ -511,14 +522,14 @@
         "8"
       ], 
       "hnrlbls": [
-        "7"
+        "7-9"
       ], 
       "housenumber": "7", 
-      "lat": 51.21356425339401, 
-      "lon": 2.8834150305226016, 
+      "lat": 51.21362106424018, 
+      "lon": 2.8835635507342317, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Acacialaan"
     }, 
     {
@@ -536,18 +547,32 @@
     {
       "busnrs": [
         "1", 
-        "1B", 
         "3"
       ], 
       "hnrlbls": [
-        "9"
+        "7-9"
       ], 
       "housenumber": "9", 
-      "lat": 51.21363197543759, 
-      "lon": 2.8833352949288513, 
+      "lat": 51.21362106424018, 
+      "lon": 2.8835635507342317, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Acacialaan"
+    }, 
+    {
+      "busnrs": [
+        "B"
+      ], 
+      "hnrlbls": [
+        "9_1"
+      ], 
+      "housenumber": "9_1", 
+      "lat": 51.2135852294336, 
+      "lon": 2.8834733689048706, 
+      "municipality": "Oostende", 
+      "pcode": "8400", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Acacialaan"
     }
   ]

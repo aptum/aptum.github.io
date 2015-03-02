@@ -91,11 +91,11 @@
         "102"
       ], 
       "housenumber": "102", 
-      "lat": 51.21299553356619, 
-      "lon": 5.434638242251781, 
+      "lat": 51.212929188205244, 
+      "lon": 5.434653742052736, 
       "municipality": "Overpelt", 
       "pcode": "3900", 
-      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Bemvaartstraat"
     }, 
     {
@@ -103,11 +103,23 @@
         "104"
       ], 
       "housenumber": "104", 
-      "lat": 51.2129897413735, 
-      "lon": 5.434722266425781, 
+      "lat": 51.21293075956528, 
+      "lon": 5.434758544095445, 
       "municipality": "Overpelt", 
       "pcode": "3900", 
-      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Bemvaartstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "105"
+      ], 
+      "housenumber": "105", 
+      "lat": 51.21328405269767, 
+      "lon": 5.435951980064947, 
+      "municipality": "Overpelt", 
+      "pcode": "3900", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Bemvaartstraat"
     }, 
     {
@@ -115,11 +127,11 @@
         "106"
       ], 
       "housenumber": "106", 
-      "lat": 51.21295806096048, 
-      "lon": 5.434885847518167, 
+      "lat": 51.21293223321814, 
+      "lon": 5.434814395812288, 
       "municipality": "Overpelt", 
       "pcode": "3900", 
-      "source": "manueleAanduidingVanBrievenbus", 
+      "source": "afgeleidVanGebouw", 
       "street": "Bemvaartstraat"
     }, 
     {
@@ -127,8 +139,8 @@
         "107"
       ], 
       "housenumber": "107", 
-      "lat": 51.21322021190743, 
-      "lon": 5.436309120949949, 
+      "lat": 51.213192568943775, 
+      "lon": 5.436098161474863, 
       "municipality": "Overpelt", 
       "pcode": "3900", 
       "source": "afgeleidVanGebouw", 
@@ -175,8 +187,8 @@
         "111"
       ], 
       "housenumber": "111", 
-      "lat": 51.213193811001055, 
-      "lon": 5.436751677037702, 
+      "lat": 51.213314135442815, 
+      "lon": 5.436532465542424, 
       "municipality": "Overpelt", 
       "pcode": "3900", 
       "source": "afgeleidVanGebouw", 
@@ -199,8 +211,8 @@
         "113"
       ], 
       "housenumber": "113", 
-      "lat": 51.21323112121582, 
-      "lon": 5.437075712135557, 
+      "lat": 51.2131938539512, 
+      "lon": 5.436751694842168, 
       "municipality": "Overpelt", 
       "pcode": "3900", 
       "source": "afgeleidVanGebouw", 
@@ -223,8 +235,8 @@
         "115"
       ], 
       "housenumber": "115", 
-      "lat": 51.21323639781951, 
-      "lon": 5.437323954576939, 
+      "lat": 51.21323110649742, 
+      "lon": 5.4370757227252975, 
       "municipality": "Overpelt", 
       "pcode": "3900", 
       "source": "afgeleidVanGebouw", 
@@ -355,14 +367,6 @@
       "street": "Bemvaartstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "3", 
-        "4", 
-        "6", 
-        "7", 
-        "8"
-      ], 
       "hnrlbls": [
         "11-15"
       ], 
@@ -1104,8 +1108,8 @@
         "87"
       ], 
       "housenumber": "87", 
-      "lat": 51.2134787136756, 
-      "lon": 5.433147471138259, 
+      "lat": 51.21344709302276, 
+      "lon": 5.433284721069054, 
       "municipality": "Overpelt", 
       "pcode": "3900", 
       "source": "afgeleidVanGebouw", 
@@ -1164,11 +1168,11 @@
         "91"
       ], 
       "housenumber": "91", 
-      "lat": 51.213415381045735, 
-      "lon": 5.433422111855536, 
+      "lat": 51.21354408629225, 
+      "lon": 5.433474430354674, 
       "municipality": "Overpelt", 
       "pcode": "3900", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Bemvaartstraat"
     }, 
     {
@@ -1241,6 +1245,18 @@
       "municipality": "Overpelt", 
       "pcode": "3900", 
       "source": "afgeleidVanGebouw", 
+      "street": "Bemvaartstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "98"
+      ], 
+      "housenumber": "98", 
+      "lat": 51.2129327299245, 
+      "lon": 5.434131566910547, 
+      "municipality": "Overpelt", 
+      "pcode": "3900", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Bemvaartstraat"
     }
   ]

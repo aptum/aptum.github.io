@@ -2,7 +2,7 @@
   "addresses": [
     {
       "hnrlbls": [
-        "1"
+        "1-3F"
       ], 
       "housenumber": "1", 
       "lat": 51.176845904645454, 
@@ -32,19 +32,39 @@
       "street": "Kloosterstraat"
     }, 
     {
-      "busnrs": [
-        "A", 
-        "B"
-      ], 
       "hnrlbls": [
-        "11"
+        "11-11B"
       ], 
       "housenumber": "11", 
-      "lat": 51.17688182290878, 
-      "lon": 4.837532245049454, 
+      "lat": 51.17692470524332, 
+      "lon": 4.837508080263811, 
       "municipality": "Herentals", 
       "pcode": "2200", 
-      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Kloosterstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "11-11B"
+      ], 
+      "housenumber": "11A", 
+      "lat": 51.17692470524332, 
+      "lon": 4.837508080263811, 
+      "municipality": "Herentals", 
+      "pcode": "2200", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
+      "street": "Kloosterstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "11-11B"
+      ], 
+      "housenumber": "11B", 
+      "lat": 51.17692470524332, 
+      "lon": 4.837508080263811, 
+      "municipality": "Herentals", 
+      "pcode": "2200", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
       "street": "Kloosterstraat"
     }, 
     {
@@ -132,9 +152,6 @@
       "street": "Kloosterstraat"
     }, 
     {
-      "busnrs": [
-        "301"
-      ], 
       "hnrlbls": [
         "14"
       ], 
@@ -147,10 +164,6 @@
       "street": "Kloosterstraat"
     }, 
     {
-      "busnrs": [
-        "2", 
-        "202"
-      ], 
       "hnrlbls": [
         "16"
       ], 
@@ -176,14 +189,14 @@
     }, 
     {
       "hnrlbls": [
-        "2"
+        "2-4C"
       ], 
       "housenumber": "2", 
-      "lat": 51.17668907029972, 
-      "lon": 4.836975179930992, 
+      "lat": 51.17664021090628, 
+      "lon": 4.837010582021991, 
       "municipality": "Herentals", 
       "pcode": "2200", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Kloosterstraat"
     }, 
     {
@@ -223,40 +236,135 @@
       "street": "Kloosterstraat"
     }, 
     {
-      "busnrs": [
-        "A", 
-        "B", 
-        "C", 
-        "D", 
-        "E", 
-        "F"
-      ], 
       "hnrlbls": [
-        "3"
+        "3-3C"
       ], 
       "housenumber": "3", 
-      "lat": 51.17681193397291, 
-      "lon": 4.837068792619461, 
+      "lat": 51.17685000753248, 
+      "lon": 4.837055876168123, 
       "municipality": "Herentals", 
       "pcode": "2200", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Kloosterstraat"
     }, 
     {
-      "busnrs": [
-        "A", 
-        "B", 
-        "C"
-      ], 
       "hnrlbls": [
-        "4"
+        "3-3C"
       ], 
-      "housenumber": "4", 
-      "lat": 51.17669698665973, 
-      "lon": 4.837086799532243, 
+      "housenumber": "3A", 
+      "lat": 51.17685000753248, 
+      "lon": 4.837055876168123, 
       "municipality": "Herentals", 
       "pcode": "2200", 
-      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Kloosterstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "3-3C"
+      ], 
+      "housenumber": "3B", 
+      "lat": 51.17685000753248, 
+      "lon": 4.837055876168123, 
+      "municipality": "Herentals", 
+      "pcode": "2200", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "street": "Kloosterstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "3-3C"
+      ], 
+      "housenumber": "3C", 
+      "lat": 51.17685000753248, 
+      "lon": 4.837055876168123, 
+      "municipality": "Herentals", 
+      "pcode": "2200", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Kloosterstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "1-3F"
+      ], 
+      "housenumber": "3D", 
+      "lat": 51.176845904645454, 
+      "lon": 4.836911976395773, 
+      "municipality": "Herentals", 
+      "pcode": "2200", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Kloosterstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "1-3F"
+      ], 
+      "housenumber": "3E", 
+      "lat": 51.176845904645454, 
+      "lon": 4.836911976395773, 
+      "municipality": "Herentals", 
+      "pcode": "2200", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Kloosterstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "1-3F"
+      ], 
+      "housenumber": "3F", 
+      "lat": 51.176845904645454, 
+      "lon": 4.836911976395773, 
+      "municipality": "Herentals", 
+      "pcode": "2200", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Kloosterstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "2-4C"
+      ], 
+      "housenumber": "4", 
+      "lat": 51.17664021090628, 
+      "lon": 4.837010582021991, 
+      "municipality": "Herentals", 
+      "pcode": "2200", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Kloosterstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "2-4C"
+      ], 
+      "housenumber": "4A", 
+      "lat": 51.17664021090628, 
+      "lon": 4.837010582021991, 
+      "municipality": "Herentals", 
+      "pcode": "2200", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "street": "Kloosterstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "2-4C"
+      ], 
+      "housenumber": "4B", 
+      "lat": 51.17664021090628, 
+      "lon": 4.837010582021991, 
+      "municipality": "Herentals", 
+      "pcode": "2200", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "street": "Kloosterstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "2-4C"
+      ], 
+      "housenumber": "4C", 
+      "lat": 51.17664021090628, 
+      "lon": 4.837010582021991, 
+      "municipality": "Herentals", 
+      "pcode": "2200", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Kloosterstraat"
     }, 
     {
