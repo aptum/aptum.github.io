@@ -292,11 +292,11 @@
         "115"
       ], 
       "housenumber": "115", 
-      "lat": 51.09155922170271, 
-      "lon": 5.088656304152214, 
+      "lat": 51.093120607876905, 
+      "lon": 5.092638637688769, 
       "municipality": "Laakdal", 
       "pcode": "2430", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Verboekt"
     }, 
     {
@@ -433,7 +433,7 @@
     }, 
     {
       "hnrlbls": [
-        "127"
+        "127-127A"
       ], 
       "housenumber": "127", 
       "lat": 51.088063053813165, 
@@ -1956,6 +1956,21 @@
       "street": "Verboekt"
     }, 
     {
+      "busnrs": [
+        "1"
+      ], 
+      "hnrlbls": [
+        "82"
+      ], 
+      "housenumber": "82", 
+      "lat": 51.09290317510422, 
+      "lon": 5.083372836944906, 
+      "municipality": "Laakdal", 
+      "pcode": "2430", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Verboekt"
+    }, 
+    {
       "hnrlbls": [
         "83"
       ], 
@@ -2161,6 +2176,7 @@
     }, 
     {
       "busnrs": [
+        "1", 
         "2"
       ], 
       "hnrlbls": [

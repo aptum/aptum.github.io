@@ -1,15 +1,34 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5"
+      ], 
       "hnrlbls": [
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 51.00514461879847, 
-      "lon": 3.5688759394414964, 
+      "lat": 51.005090318033176, 
+      "lon": 3.5691425702548236, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "geinterpoleerdObvWegverbinding", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "du Boisdreef"
+    }, 
+    {
+      "hnrlbls": [
+        "10"
+      ], 
+      "housenumber": "10", 
+      "lat": 51.003807557628605, 
+      "lon": 3.5702482983363946, 
+      "municipality": "Deinze", 
+      "pcode": "9800", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "du Boisdreef"
     }, 
     {
@@ -34,6 +53,18 @@
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 
+      "street": "du Boisdreef"
+    }, 
+    {
+      "hnrlbls": [
+        "13"
+      ], 
+      "housenumber": "13", 
+      "lat": 51.00413620609985, 
+      "lon": 3.5709496808745533, 
+      "municipality": "Deinze", 
+      "pcode": "9800", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "du Boisdreef"
     }, 
     {
@@ -94,18 +125,6 @@
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 
-      "street": "du Boisdreef"
-    }, 
-    {
-      "hnrlbls": [
-        "2"
-      ], 
-      "housenumber": "2", 
-      "lat": 51.00486790463092, 
-      "lon": 3.5692975595386316, 
-      "municipality": "Deinze", 
-      "pcode": "9800", 
-      "source": "afgeleidVanStraat", 
       "street": "du Boisdreef"
     }, 
     {
@@ -202,18 +221,6 @@
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 
-      "street": "du Boisdreef"
-    }, 
-    {
-      "hnrlbls": [
-        "9"
-      ], 
-      "housenumber": "9", 
-      "lat": 51.004195178815685, 
-      "lon": 3.5701671805543325, 
-      "municipality": "Deinze", 
-      "pcode": "9800", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "du Boisdreef"
     }
   ]

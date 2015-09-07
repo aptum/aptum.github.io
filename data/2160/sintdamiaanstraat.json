@@ -1,19 +1,15 @@
 {
   "addresses": [
     {
-      "apptnrs": [
-        "V1L", 
-        "V1R"
-      ], 
       "hnrlbls": [
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 51.20284213887429, 
-      "lon": 4.522747287673883, 
+      "lat": 51.20283274206321, 
+      "lon": 4.522689289512072, 
       "municipality": "Wommelgem", 
       "pcode": "2160", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sint-Damiaanstraat"
     }, 
     {
@@ -169,9 +165,6 @@
       "street": "Sint-Damiaanstraat"
     }, 
     {
-      "apptnrs": [
-        "0.2"
-      ], 
       "hnrlbls": [
         "127"
       ], 
@@ -361,11 +354,11 @@
         "145"
       ], 
       "housenumber": "145", 
-      "lat": 51.19904433453895, 
-      "lon": 4.518184887756889, 
+      "lat": 51.199077667711954, 
+      "lon": 4.5181264131261365, 
       "municipality": "Wommelgem", 
       "pcode": "2160", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Sint-Damiaanstraat"
     }, 
     {
@@ -523,8 +516,8 @@
     }, 
     {
       "apptnrs": [
-        "0.1", 
-        "0.2"
+        "V1", 
+        "V2"
       ], 
       "hnrlbls": [
         "158"
@@ -708,6 +701,8 @@
     }, 
     {
       "apptnrs": [
+        "GVLL", 
+        "GVLR", 
         "V1L", 
         "V1R", 
         "V2L", 
@@ -776,15 +771,19 @@
       "apptnrs": [
         "V2"
       ], 
+      "busnrs": [
+        "GVL", 
+        "V1"
+      ], 
       "hnrlbls": [
         "18"
       ], 
       "housenumber": "18", 
-      "lat": 51.20251804101001, 
-      "lon": 4.522081028784765, 
+      "lat": 51.20255082451847, 
+      "lon": 4.522030773998295, 
       "municipality": "Wommelgem", 
       "pcode": "2160", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Sint-Damiaanstraat"
     }, 
     {
@@ -993,7 +992,6 @@
     {
       "apptnrs": [
         "GVL", 
-        "V", 
         "V1"
       ], 
       "hnrlbls": [
@@ -1009,6 +1007,7 @@
     }, 
     {
       "apptnrs": [
+        "GVLR", 
         "V1L", 
         "V1R", 
         "V2L", 
@@ -1592,7 +1591,7 @@
         "V3"
       ], 
       "hnrlbls": [
-        "44-48"
+        "44"
       ], 
       "housenumber": "44", 
       "lat": 51.20157525328138, 
@@ -1620,30 +1619,6 @@
     }, 
     {
       "hnrlbls": [
-        "44-48"
-      ], 
-      "housenumber": "46", 
-      "lat": 51.20157525328138, 
-      "lon": 4.521518211145349, 
-      "municipality": "Wommelgem", 
-      "pcode": "2160", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Sint-Damiaanstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "44-48"
-      ], 
-      "housenumber": "48", 
-      "lat": 51.20157525328138, 
-      "lon": 4.521518211145349, 
-      "municipality": "Wommelgem", 
-      "pcode": "2160", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Sint-Damiaanstraat"
-    }, 
-    {
-      "hnrlbls": [
         "49"
       ], 
       "housenumber": "49", 
@@ -1655,7 +1630,7 @@
       "street": "Sint-Damiaanstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "GVL", 
         "V1", 
         "V2"
@@ -1776,11 +1751,11 @@
         "59"
       ], 
       "housenumber": "59", 
-      "lat": 51.20096038478086, 
-      "lon": 4.521215594309292, 
+      "lat": 51.2009328205131, 
+      "lon": 4.521226457316738, 
       "municipality": "Wommelgem", 
       "pcode": "2160", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Sint-Damiaanstraat"
     }, 
     {
@@ -1812,7 +1787,7 @@
       "street": "Sint-Damiaanstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "GVLL", 
         "GVLR", 
         "V1A", 

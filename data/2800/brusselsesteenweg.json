@@ -321,11 +321,11 @@
         "12"
       ], 
       "housenumber": "12", 
-      "lat": 51.020159315882196, 
-      "lon": 4.4721648315935285, 
+      "lat": 51.020163810086665, 
+      "lon": 4.472256932025126, 
       "municipality": "Mechelen", 
       "pcode": "2800", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Brusselsesteenweg"
     }, 
     {
@@ -510,18 +510,6 @@
     }, 
     {
       "hnrlbls": [
-        "138"
-      ], 
-      "housenumber": "138", 
-      "lat": 51.01702561706337, 
-      "lon": 4.472498179696897, 
-      "municipality": "Mechelen", 
-      "pcode": "2800", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Brusselsesteenweg"
-    }, 
-    {
-      "hnrlbls": [
         "137-141"
       ], 
       "housenumber": "139", 
@@ -569,10 +557,12 @@
         "103", 
         "104", 
         "105", 
+        "106", 
         "107", 
         "2", 
         "201", 
         "203", 
+        "204", 
         "3", 
         "4"
       ], 
@@ -944,11 +934,11 @@
         "17"
       ], 
       "housenumber": "17", 
-      "lat": 51.02005639375439, 
-      "lon": 4.472871212418272, 
+      "lat": 51.02002430706541, 
+      "lon": 4.47278178034885, 
       "municipality": "Mechelen", 
       "pcode": "2800", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Brusselsesteenweg"
     }, 
     {
@@ -1209,18 +1199,6 @@
       "street": "Brusselsesteenweg"
     }, 
     {
-      "hnrlbls": [
-        "189"
-      ], 
-      "housenumber": "189", 
-      "lat": 51.01542151735755, 
-      "lon": 4.473106804280728, 
-      "municipality": "Mechelen", 
-      "pcode": "2800", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Brusselsesteenweg"
-    }, 
-    {
       "busnrs": [
         "101", 
         "201", 
@@ -1359,21 +1337,6 @@
       "street": "Brusselsesteenweg"
     }, 
     {
-      "busnrs": [
-        "2"
-      ], 
-      "hnrlbls": [
-        "2"
-      ], 
-      "housenumber": "2", 
-      "lat": 51.02080937445601, 
-      "lon": 4.4717905902939785, 
-      "municipality": "Mechelen", 
-      "pcode": "2800", 
-      "source": "geinterpoleerdObvWegverbinding", 
-      "street": "Brusselsesteenweg"
-    }, 
-    {
       "hnrlbls": [
         "20"
       ], 
@@ -1441,11 +1404,11 @@
         "204"
       ], 
       "housenumber": "204", 
-      "lat": 51.01489049502433, 
-      "lon": 4.472746362343061, 
+      "lat": 51.01488618305197, 
+      "lon": 4.472834442669449, 
       "municipality": "Mechelen", 
       "pcode": "2800", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Brusselsesteenweg"
     }, 
     {
@@ -1462,34 +1425,6 @@
       "housenumber": "205", 
       "lat": 51.015023084944374, 
       "lon": 4.47324912697712, 
-      "municipality": "Mechelen", 
-      "pcode": "2800", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Brusselsesteenweg"
-    }, 
-    {
-      "busnrs": [
-        "2", 
-        "3"
-      ], 
-      "hnrlbls": [
-        "205G"
-      ], 
-      "housenumber": "205G", 
-      "lat": 51.015039580472695, 
-      "lon": 4.473198147655727, 
-      "municipality": "Mechelen", 
-      "pcode": "2800", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Brusselsesteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "206"
-      ], 
-      "housenumber": "206", 
-      "lat": 51.01487063721955, 
-      "lon": 4.47273734025148, 
       "municipality": "Mechelen", 
       "pcode": "2800", 
       "source": "afgeleidVanGebouw", 
@@ -1624,18 +1559,6 @@
       "municipality": "Mechelen", 
       "pcode": "2800", 
       "source": "afgeleidVanGebouw", 
-      "street": "Brusselsesteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "216A"
-      ], 
-      "housenumber": "216A", 
-      "lat": 51.01460098614044, 
-      "lon": 4.472713937222325, 
-      "municipality": "Mechelen", 
-      "pcode": "2800", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Brusselsesteenweg"
     }, 
     {
@@ -1881,7 +1804,7 @@
         "2"
       ], 
       "hnrlbls": [
-        "234-236A"
+        "234-236"
       ], 
       "housenumber": "234", 
       "lat": 51.01417000159226, 
@@ -1905,7 +1828,7 @@
     }, 
     {
       "hnrlbls": [
-        "234-236A"
+        "234-236"
       ], 
       "housenumber": "236", 
       "lat": 51.01417000159226, 
@@ -1920,14 +1843,14 @@
         "1"
       ], 
       "hnrlbls": [
-        "234-236A"
+        "236A"
       ], 
       "housenumber": "236A", 
-      "lat": 51.01417000159226, 
-      "lon": 4.472768834716817, 
+      "lat": 51.01413120561681, 
+      "lon": 4.472615439375889, 
       "municipality": "Mechelen", 
       "pcode": "2800", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Brusselsesteenweg"
     }, 
     {
@@ -1983,8 +1906,8 @@
         "240"
       ], 
       "housenumber": "240", 
-      "lat": 51.013801014143056, 
-      "lon": 4.472955397413785, 
+      "lat": 51.01380119824147, 
+      "lon": 4.4729505528243525, 
       "municipality": "Mechelen", 
       "pcode": "2800", 
       "source": "afgeleidVanPerceelGrb", 
@@ -2115,11 +2038,11 @@
         "253"
       ], 
       "housenumber": "253", 
-      "lat": 51.01356960384082, 
-      "lon": 4.474293803049536, 
+      "lat": 51.013638723782066, 
+      "lon": 4.474487642986426, 
       "municipality": "Mechelen", 
       "pcode": "2800", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Brusselsesteenweg"
     }, 
     {
@@ -2228,18 +2151,6 @@
       "municipality": "Mechelen", 
       "pcode": "2800", 
       "source": "afgeleidVanGebouw", 
-      "street": "Brusselsesteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "262"
-      ], 
-      "housenumber": "262", 
-      "lat": 51.01336871788641, 
-      "lon": 4.473271061495857, 
-      "municipality": "Mechelen", 
-      "pcode": "2800", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Brusselsesteenweg"
     }, 
     {
@@ -2403,18 +2314,6 @@
     }, 
     {
       "hnrlbls": [
-        "277"
-      ], 
-      "housenumber": "277", 
-      "lat": 51.012617521469664, 
-      "lon": 4.474647599875931, 
-      "municipality": "Mechelen", 
-      "pcode": "2800", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Brusselsesteenweg"
-    }, 
-    {
-      "hnrlbls": [
         "278"
       ], 
       "housenumber": "278", 
@@ -2534,18 +2433,6 @@
       "municipality": "Mechelen", 
       "pcode": "2800", 
       "source": "afgeleidVanGebouw", 
-      "street": "Brusselsesteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "288"
-      ], 
-      "housenumber": "288", 
-      "lat": 51.01228300061335, 
-      "lon": 4.473190107839619, 
-      "municipality": "Mechelen", 
-      "pcode": "2800", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Brusselsesteenweg"
     }, 
     {
@@ -2709,7 +2596,7 @@
     }, 
     {
       "hnrlbls": [
-        "305-305K"
+        "305"
       ], 
       "housenumber": "305", 
       "lat": 51.007648849744825, 
@@ -2717,22 +2604,6 @@
       "municipality": "Mechelen", 
       "pcode": "2800", 
       "source": "afgeleidVanGebouw", 
-      "street": "Brusselsesteenweg"
-    }, 
-    {
-      "busnrs": [
-        "101", 
-        "201"
-      ], 
-      "hnrlbls": [
-        "305-305K"
-      ], 
-      "housenumber": "305K", 
-      "lat": 51.007648849744825, 
-      "lon": 4.474702121035586, 
-      "municipality": "Mechelen", 
-      "pcode": "2800", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Brusselsesteenweg"
     }, 
     {
@@ -2994,18 +2865,6 @@
       "street": "Brusselsesteenweg"
     }, 
     {
-      "hnrlbls": [
-        "329"
-      ], 
-      "housenumber": "329", 
-      "lat": 51.00647811209456, 
-      "lon": 4.474403102183681, 
-      "municipality": "Mechelen", 
-      "pcode": "2800", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Brusselsesteenweg"
-    }, 
-    {
       "busnrs": [
         "1"
       ], 
@@ -3074,26 +2933,26 @@
         "2"
       ], 
       "hnrlbls": [
-        "333A-333B"
+        "333A"
       ], 
       "housenumber": "333A", 
-      "lat": 51.00602842793398, 
-      "lon": 4.4743589110489035, 
+      "lat": 51.0060503196098, 
+      "lon": 4.47427692014822, 
       "municipality": "Mechelen", 
       "pcode": "2800", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Brusselsesteenweg"
     }, 
     {
       "hnrlbls": [
-        "333A-333B"
+        "333B"
       ], 
       "housenumber": "333B", 
-      "lat": 51.00602842793398, 
-      "lon": 4.4743589110489035, 
+      "lat": 51.006010052094034, 
+      "lon": 4.474272839503625, 
       "municipality": "Mechelen", 
       "pcode": "2800", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Brusselsesteenweg"
     }, 
     {
@@ -3170,18 +3029,6 @@
     }, 
     {
       "hnrlbls": [
-        "339"
-      ], 
-      "housenumber": "339", 
-      "lat": 51.00522900303844, 
-      "lon": 4.474684787294887, 
-      "municipality": "Mechelen", 
-      "pcode": "2800", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Brusselsesteenweg"
-    }, 
-    {
-      "hnrlbls": [
         "34"
       ], 
       "housenumber": "34", 
@@ -3233,18 +3080,27 @@
       "street": "Brusselsesteenweg"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
         "346"
       ], 
       "housenumber": "346", 
-      "lat": 51.01039794040116, 
-      "lon": 4.47414925001786, 
+      "lat": 51.01040974758046, 
+      "lon": 4.474195041659723, 
       "municipality": "Mechelen", 
       "pcode": "2800", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Brusselsesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "346A"
+      ], 
+      "housenumber": "346A", 
+      "lat": 51.010398459995294, 
+      "lon": 4.474108276948533, 
+      "municipality": "Mechelen", 
+      "pcode": "2800", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Brusselsesteenweg"
     }, 
     {
@@ -3777,8 +3633,8 @@
         "397"
       ], 
       "housenumber": "397", 
-      "lat": 51.00239697531718, 
-      "lon": 4.474202222816783, 
+      "lat": 51.00240821398143, 
+      "lon": 4.474199683901117, 
       "municipality": "Mechelen", 
       "pcode": "2800", 
       "source": "afgeleidVanPerceelGrb", 
@@ -4074,18 +3930,6 @@
     }, 
     {
       "hnrlbls": [
-        "413"
-      ], 
-      "housenumber": "413", 
-      "lat": 51.00125835717029, 
-      "lon": 4.474267170248251, 
-      "municipality": "Mechelen", 
-      "pcode": "2800", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Brusselsesteenweg"
-    }, 
-    {
-      "hnrlbls": [
         "414"
       ], 
       "housenumber": "414", 
@@ -4154,18 +3998,6 @@
       "municipality": "Mechelen", 
       "pcode": "2800", 
       "source": "afgeleidVanGebouw", 
-      "street": "Brusselsesteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "41a"
-      ], 
-      "housenumber": "41a", 
-      "lat": 51.019340028483704, 
-      "lon": 4.472902673151925, 
-      "municipality": "Mechelen", 
-      "pcode": "2800", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Brusselsesteenweg"
     }, 
     {
@@ -4281,6 +4113,7 @@
         "1", 
         "101", 
         "102", 
+        "201", 
         "202"
       ], 
       "hnrlbls": [
@@ -4575,30 +4408,6 @@
     }, 
     {
       "hnrlbls": [
-        "455-601"
-      ], 
-      "housenumber": "455", 
-      "lat": 51.00752534792141, 
-      "lon": 4.473796373368271, 
-      "municipality": "Mechelen", 
-      "pcode": "2800", 
-      "source": "afgeleidVanStraat", 
-      "street": "Brusselsesteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "455-601"
-      ], 
-      "housenumber": "459", 
-      "lat": 51.00752534792141, 
-      "lon": 4.473796373368271, 
-      "municipality": "Mechelen", 
-      "pcode": "2800", 
-      "source": "afgeleidVanStraat", 
-      "street": "Brusselsesteenweg"
-    }, 
-    {
-      "hnrlbls": [
         "46"
       ], 
       "housenumber": "46", 
@@ -4722,11 +4531,11 @@
         "48"
       ], 
       "housenumber": "48", 
-      "lat": 51.01939816304745, 
-      "lon": 4.472424515973924, 
+      "lat": 51.019391546651526, 
+      "lon": 4.472476114270886, 
       "municipality": "Mechelen", 
       "pcode": "2800", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Brusselsesteenweg"
     }, 
     {
@@ -4863,18 +4672,6 @@
     }, 
     {
       "hnrlbls": [
-        "455-601"
-      ], 
-      "housenumber": "501", 
-      "lat": 51.00752534792141, 
-      "lon": 4.473796373368271, 
-      "municipality": "Mechelen", 
-      "pcode": "2800", 
-      "source": "afgeleidVanStraat", 
-      "street": "Brusselsesteenweg"
-    }, 
-    {
-      "hnrlbls": [
         "502"
       ], 
       "housenumber": "502", 
@@ -4895,18 +4692,6 @@
       "municipality": "Mechelen", 
       "pcode": "2800", 
       "source": "afgeleidVanGebouw", 
-      "street": "Brusselsesteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "455-601"
-      ], 
-      "housenumber": "509", 
-      "lat": 51.00752534792141, 
-      "lon": 4.473796373368271, 
-      "municipality": "Mechelen", 
-      "pcode": "2800", 
-      "source": "afgeleidVanStraat", 
       "street": "Brusselsesteenweg"
     }, 
     {
@@ -5176,14 +4961,14 @@
     }, 
     {
       "hnrlbls": [
-        "540Bis"
+        "540BIS"
       ], 
-      "housenumber": "540Bis", 
-      "lat": 50.9986758974478, 
-      "lon": 4.472739337423138, 
+      "housenumber": "540BIS", 
+      "lat": 50.998685610254526, 
+      "lon": 4.472778983910464, 
       "municipality": "Mechelen", 
       "pcode": "2800", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Brusselsesteenweg"
     }, 
     {
@@ -5458,11 +5243,11 @@
         "574"
       ], 
       "housenumber": "574", 
-      "lat": 50.993755078598326, 
-      "lon": 4.473840794159639, 
+      "lat": 50.99375520920846, 
+      "lon": 4.473828854244182, 
       "municipality": "Mechelen", 
       "pcode": "2800", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Brusselsesteenweg"
     }, 
     {
@@ -5490,30 +5275,6 @@
       "municipality": "Mechelen", 
       "pcode": "2800", 
       "source": "afgeleidVanGebouw", 
-      "street": "Brusselsesteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "455-601"
-      ], 
-      "housenumber": "581", 
-      "lat": 51.00752534792141, 
-      "lon": 4.473796373368271, 
-      "municipality": "Mechelen", 
-      "pcode": "2800", 
-      "source": "afgeleidVanStraat", 
-      "street": "Brusselsesteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "455-601"
-      ], 
-      "housenumber": "585", 
-      "lat": 51.00752534792141, 
-      "lon": 4.473796373368271, 
-      "municipality": "Mechelen", 
-      "pcode": "2800", 
-      "source": "afgeleidVanStraat", 
       "street": "Brusselsesteenweg"
     }, 
     {
@@ -5556,18 +5317,6 @@
       "municipality": "Mechelen", 
       "pcode": "2800", 
       "source": "afgeleidVanGebouw", 
-      "street": "Brusselsesteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "455-601"
-      ], 
-      "housenumber": "601", 
-      "lat": 51.00752534792141, 
-      "lon": 4.473796373368271, 
-      "municipality": "Mechelen", 
-      "pcode": "2800", 
-      "source": "afgeleidVanStraat", 
       "street": "Brusselsesteenweg"
     }, 
     {
@@ -5873,11 +5622,11 @@
         "8"
       ], 
       "housenumber": "8", 
-      "lat": 51.02036932461389, 
-      "lon": 4.471831516506998, 
+      "lat": 51.02025261355758, 
+      "lon": 4.472166770465416, 
       "municipality": "Mechelen", 
       "pcode": "2800", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Brusselsesteenweg"
     }, 
     {
@@ -6026,30 +5775,6 @@
       "municipality": "Mechelen", 
       "pcode": "2800", 
       "source": "afgeleidVanGebouw", 
-      "street": "Brusselsesteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "91-91A"
-      ], 
-      "housenumber": "91", 
-      "lat": 51.017537214525646, 
-      "lon": 4.473070363753707, 
-      "municipality": "Mechelen", 
-      "pcode": "2800", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Brusselsesteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "91-91A"
-      ], 
-      "housenumber": "91A", 
-      "lat": 51.017537214525646, 
-      "lon": 4.473070363753707, 
-      "municipality": "Mechelen", 
-      "pcode": "2800", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Brusselsesteenweg"
     }, 
     {

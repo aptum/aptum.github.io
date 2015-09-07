@@ -1,8 +1,14 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "A", 
+        "B", 
+        "C", 
+        "D"
+      ], 
       "hnrlbls": [
-        "1-1D"
+        "1"
       ], 
       "housenumber": "1", 
       "lat": 51.02503010096932, 
@@ -62,7 +68,7 @@
     }, 
     {
       "hnrlbls": [
-        "15-15B"
+        "15"
       ], 
       "housenumber": "15", 
       "lat": 51.025222400175245, 
@@ -70,18 +76,6 @@
       "municipality": "Melle", 
       "pcode": "9090", 
       "source": "afgeleidVanGebouw", 
-      "street": "Heusdenbaan"
-    }, 
-    {
-      "hnrlbls": [
-        "15-15B"
-      ], 
-      "housenumber": "15B", 
-      "lat": 51.025222400175245, 
-      "lon": 3.773371386595096, 
-      "municipality": "Melle", 
-      "pcode": "9090", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Heusdenbaan"
     }, 
     {
@@ -110,54 +104,6 @@
     }, 
     {
       "hnrlbls": [
-        "1-1D"
-      ], 
-      "housenumber": "1A", 
-      "lat": 51.02503010096932, 
-      "lon": 3.77299424831408, 
-      "municipality": "Melle", 
-      "pcode": "9090", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Heusdenbaan"
-    }, 
-    {
-      "hnrlbls": [
-        "1-1D"
-      ], 
-      "housenumber": "1B", 
-      "lat": 51.02503010096932, 
-      "lon": 3.77299424831408, 
-      "municipality": "Melle", 
-      "pcode": "9090", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Heusdenbaan"
-    }, 
-    {
-      "hnrlbls": [
-        "1-1D"
-      ], 
-      "housenumber": "1C", 
-      "lat": 51.02503010096932, 
-      "lon": 3.77299424831408, 
-      "municipality": "Melle", 
-      "pcode": "9090", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Heusdenbaan"
-    }, 
-    {
-      "hnrlbls": [
-        "1-1D"
-      ], 
-      "housenumber": "1D", 
-      "lat": 51.02503010096932, 
-      "lon": 3.77299424831408, 
-      "municipality": "Melle", 
-      "pcode": "9090", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Heusdenbaan"
-    }, 
-    {
-      "hnrlbls": [
         "2"
       ], 
       "housenumber": "2", 
@@ -182,26 +128,14 @@
     }, 
     {
       "hnrlbls": [
-        "22-22A"
-      ], 
-      "housenumber": "22", 
-      "lat": 51.02512897360448, 
-      "lon": 3.7743633613750958, 
-      "municipality": "Melle", 
-      "pcode": "9090", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Heusdenbaan"
-    }, 
-    {
-      "hnrlbls": [
-        "22-22A"
+        "22A"
       ], 
       "housenumber": "22A", 
-      "lat": 51.02512897360448, 
-      "lon": 3.7743633613750958, 
+      "lat": 51.02521724015446, 
+      "lon": 3.7745033810470447, 
       "municipality": "Melle", 
       "pcode": "9090", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Heusdenbaan"
     }, 
     {
@@ -305,35 +239,35 @@
         "2A"
       ], 
       "housenumber": "2A", 
-      "lat": 51.02480102100564, 
-      "lon": 3.7732369082978443, 
+      "lat": 51.02478421196335, 
+      "lon": 3.773256671684533, 
       "municipality": "Melle", 
       "pcode": "9090", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Heusdenbaan"
     }, 
     {
       "hnrlbls": [
-        "2B-2C"
+        "2B"
       ], 
       "housenumber": "2B", 
-      "lat": 51.024907497518996, 
-      "lon": 3.7735301823948753, 
+      "lat": 51.02477806815797, 
+      "lon": 3.773247246646111, 
       "municipality": "Melle", 
       "pcode": "9090", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Heusdenbaan"
     }, 
     {
       "hnrlbls": [
-        "2B-2C"
+        "2C"
       ], 
       "housenumber": "2C", 
-      "lat": 51.024907497518996, 
-      "lon": 3.7735301823948753, 
+      "lat": 51.02477542314603, 
+      "lon": 3.773260774391347, 
       "municipality": "Melle", 
       "pcode": "9090", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Heusdenbaan"
     }, 
     {
@@ -577,6 +511,10 @@
       "street": "Heusdenbaan"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "46"
       ], 
@@ -817,6 +755,10 @@
       "street": "Heusdenbaan"
     }, 
     {
+      "busnrs": [
+        "A", 
+        "B"
+      ], 
       "hnrlbls": [
         "66"
       ], 
@@ -826,30 +768,6 @@
       "municipality": "Melle", 
       "pcode": "9090", 
       "source": "afgeleidVanGebouw", 
-      "street": "Heusdenbaan"
-    }, 
-    {
-      "hnrlbls": [
-        "66A-66B"
-      ], 
-      "housenumber": "66A", 
-      "lat": 51.02880778637654, 
-      "lon": 3.7873289683522917, 
-      "municipality": "Melle", 
-      "pcode": "9090", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Heusdenbaan"
-    }, 
-    {
-      "hnrlbls": [
-        "66A-66B"
-      ], 
-      "housenumber": "66B", 
-      "lat": 51.02880778637654, 
-      "lon": 3.7873289683522917, 
-      "municipality": "Melle", 
-      "pcode": "9090", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Heusdenbaan"
     }, 
     {
@@ -914,26 +832,26 @@
     }, 
     {
       "hnrlbls": [
-        "77-77A"
+        "77"
       ], 
       "housenumber": "77", 
-      "lat": 51.02942583924214, 
-      "lon": 3.7871000622036535, 
+      "lat": 51.029344320857106, 
+      "lon": 3.7870120290419567, 
       "municipality": "Melle", 
       "pcode": "9090", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Heusdenbaan"
     }, 
     {
       "hnrlbls": [
-        "77-77A"
+        "77A"
       ], 
       "housenumber": "77A", 
-      "lat": 51.02942583924214, 
-      "lon": 3.7871000622036535, 
+      "lat": 51.02946911178293, 
+      "lon": 3.7870523907764495, 
       "municipality": "Melle", 
       "pcode": "9090", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Heusdenbaan"
     }, 
     {
@@ -958,18 +876,6 @@
       "municipality": "Melle", 
       "pcode": "9090", 
       "source": "afgeleidVanGebouw", 
-      "street": "Heusdenbaan"
-    }, 
-    {
-      "hnrlbls": [
-        "81"
-      ], 
-      "housenumber": "81", 
-      "lat": 51.0275567910749, 
-      "lon": 3.781570793211415, 
-      "municipality": "Melle", 
-      "pcode": "9090", 
-      "source": "afgeleidVanStraat", 
       "street": "Heusdenbaan"
     }, 
     {

@@ -1,15 +1,18 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "GVL0"
+      ], 
       "hnrlbls": [
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 51.10070006126112, 
-      "lon": 4.234502370004069, 
+      "lat": 51.10065680127796, 
+      "lon": 4.234365647501352, 
       "municipality": "Bornem", 
       "pcode": "2880", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Driesstraat"
     }, 
     {
@@ -25,6 +28,10 @@
       "street": "Driesstraat"
     }, 
     {
+      "busnrs": [
+        "AGVL", 
+        "BGVL"
+      ], 
       "hnrlbls": [
         "11-13"
       ], 
@@ -137,11 +144,11 @@
         "19-19D"
       ], 
       "housenumber": "19", 
-      "lat": 51.10093543961111, 
-      "lon": 4.235584004578148, 
+      "lat": 51.10099953583008, 
+      "lon": 4.235589390819196, 
       "municipality": "Bornem", 
       "pcode": "2880", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Driesstraat"
     }, 
     {
@@ -149,11 +156,11 @@
         "19-19D"
       ], 
       "housenumber": "19C", 
-      "lat": 51.10093543961111, 
-      "lon": 4.235584004578148, 
+      "lat": 51.10099953583008, 
+      "lon": 4.235589390819196, 
       "municipality": "Bornem", 
       "pcode": "2880", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelKadaster", 
       "street": "Driesstraat"
     }, 
     {
@@ -164,23 +171,43 @@
         "19-19D"
       ], 
       "housenumber": "19D", 
-      "lat": 51.10093543961111, 
-      "lon": 4.235584004578148, 
+      "lat": 51.10099953583008, 
+      "lon": 4.235589390819196, 
       "municipality": "Bornem", 
       "pcode": "2880", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelKadaster", 
+      "street": "Driesstraat"
+    }, 
+    {
+      "busnrs": [
+        "101", 
+        "102", 
+        "201", 
+        "202", 
+        "301", 
+        "302"
+      ], 
+      "hnrlbls": [
+        "21-21A"
+      ], 
+      "housenumber": "21", 
+      "lat": 51.10082260745643, 
+      "lon": 4.23564385747611, 
+      "municipality": "Bornem", 
+      "pcode": "2880", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelKadaster", 
       "street": "Driesstraat"
     }, 
     {
       "hnrlbls": [
-        "21"
+        "21-21A"
       ], 
-      "housenumber": "21", 
-      "lat": 51.10078511977468, 
-      "lon": 4.235639966229235, 
+      "housenumber": "21A", 
+      "lat": 51.10082260745643, 
+      "lon": 4.23564385747611, 
       "municipality": "Bornem", 
       "pcode": "2880", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelKadaster", 
       "street": "Driesstraat"
     }, 
     {
@@ -232,49 +259,27 @@
       "street": "Driesstraat"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
-        "3-3A"
+        "3"
       ], 
       "housenumber": "3", 
-      "lat": 51.100692460409164, 
-      "lon": 4.234537369141331, 
+      "lat": 51.1006560163173, 
+      "lon": 4.234569564167406, 
       "municipality": "Bornem", 
       "pcode": "2880", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Driesstraat"
     }, 
     {
-      "hnrlbls": [
-        "35"
-      ], 
-      "housenumber": "35", 
-      "lat": 51.10064299148174, 
-      "lon": 4.236268248553189, 
-      "municipality": "Bornem", 
-      "pcode": "2880", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Driesstraat"
-    }, 
-    {
-      "apptnrs": [
-        "0.0"
-      ], 
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
       "hnrlbls": [
         "37"
       ], 
       "housenumber": "37", 
-      "lat": 51.10064311806036, 
-      "lon": 4.2363010841083675, 
+      "lat": 51.10061097167947, 
+      "lon": 4.2362610915143035, 
       "municipality": "Bornem", 
       "pcode": "2880", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Driesstraat"
     }, 
     {
@@ -287,18 +292,6 @@
       "municipality": "Bornem", 
       "pcode": "2880", 
       "source": "afgeleidVanGebouw", 
-      "street": "Driesstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "3-3A"
-      ], 
-      "housenumber": "3A", 
-      "lat": 51.100692460409164, 
-      "lon": 4.234537369141331, 
-      "municipality": "Bornem", 
-      "pcode": "2880", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Driesstraat"
     }, 
     {
@@ -385,11 +378,11 @@
         "55"
       ], 
       "housenumber": "55", 
-      "lat": 51.10061267134893, 
-      "lon": 4.237049970981832, 
+      "lat": 51.10061362599721, 
+      "lon": 4.237041880550034, 
       "municipality": "Bornem", 
       "pcode": "2880", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Driesstraat"
     }, 
     {
@@ -397,6 +390,15 @@
         "E1", 
         "E2", 
         "E3"
+      ], 
+      "busnrs": [
+        "AGVL", 
+        "BGVL", 
+        "CGVL", 
+        "DGVL", 
+        "EGVL", 
+        "FGVL", 
+        "GGVL"
       ], 
       "hnrlbls": [
         "57"
@@ -561,8 +563,8 @@
         "69-70"
       ], 
       "housenumber": "69", 
-      "lat": 51.10021059040467, 
-      "lon": 4.237363464296657, 
+      "lat": 51.10022300868221, 
+      "lon": 4.23737585000883, 
       "municipality": "Bornem", 
       "pcode": "2880", 
       "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
@@ -585,8 +587,8 @@
         "69-70"
       ], 
       "housenumber": "70", 
-      "lat": 51.10021059040467, 
-      "lon": 4.237363464296657, 
+      "lat": 51.10022300868221, 
+      "lon": 4.23737585000883, 
       "municipality": "Bornem", 
       "pcode": "2880", 
       "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 

@@ -143,6 +143,7 @@
         "2", 
         "201", 
         "202", 
+        "301", 
         "302"
       ], 
       "hnrlbls": [
@@ -182,18 +183,6 @@
     }, 
     {
       "hnrlbls": [
-        "111"
-      ], 
-      "housenumber": "111", 
-      "lat": 51.02691887847867, 
-      "lon": 4.471874396492857, 
-      "municipality": "Mechelen", 
-      "pcode": "2800", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Adegemstraat"
-    }, 
-    {
-      "hnrlbls": [
         "112"
       ], 
       "housenumber": "112", 
@@ -209,11 +198,11 @@
         "113"
       ], 
       "housenumber": "113", 
-      "lat": 51.02692622326101, 
-      "lon": 4.471700086369233, 
+      "lat": 51.02696105990142, 
+      "lon": 4.471838591037105, 
       "municipality": "Mechelen", 
       "pcode": "2800", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Adegemstraat"
     }, 
     {
@@ -265,6 +254,9 @@
       "street": "Adegemstraat"
     }, 
     {
+      "apptnrs": [
+        "0.0"
+      ], 
       "busnrs": [
         "1", 
         "2"
@@ -750,9 +742,6 @@
       "street": "Adegemstraat"
     }, 
     {
-      "busnrs": [
-        "2"
-      ], 
       "hnrlbls": [
         "19-21"
       ], 
@@ -777,11 +766,18 @@
       "street": "Adegemstraat"
     }, 
     {
-      "busnrs": [
-        "101", 
-        "102", 
-        "2"
+      "hnrlbls": [
+        "201"
       ], 
+      "housenumber": "201", 
+      "lat": 51.02758240098014, 
+      "lon": 4.470801100989371, 
+      "municipality": "Mechelen", 
+      "pcode": "2800", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Adegemstraat"
+    }, 
+    {
       "hnrlbls": [
         "19-21"
       ], 
@@ -1116,23 +1112,11 @@
         "52"
       ], 
       "housenumber": "52", 
-      "lat": 51.0260912207753, 
-      "lon": 4.474831781625504, 
+      "lat": 51.02605737222786, 
+      "lon": 4.474775999350208, 
       "municipality": "Mechelen", 
       "pcode": "2800", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Adegemstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "54"
-      ], 
-      "housenumber": "54", 
-      "lat": 51.02609368721741, 
-      "lon": 4.474580373184749, 
-      "municipality": "Mechelen", 
-      "pcode": "2800", 
-      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Adegemstraat"
     }, 
     {
@@ -1330,8 +1314,8 @@
         "71"
       ], 
       "housenumber": "71", 
-      "lat": 51.02619290283838, 
-      "lon": 4.473717795774567, 
+      "lat": 51.02619200355355, 
+      "lon": 4.473718221358734, 
       "municipality": "Mechelen", 
       "pcode": "2800", 
       "source": "afgeleidVanPerceelGrb", 
@@ -1622,8 +1606,8 @@
         "90"
       ], 
       "housenumber": "90", 
-      "lat": 51.02659677214044, 
-      "lon": 4.473325014363311, 
+      "lat": 51.026596592105356, 
+      "lon": 4.473325299036574, 
       "municipality": "Mechelen", 
       "pcode": "2800", 
       "source": "afgeleidVanPerceelGrb", 

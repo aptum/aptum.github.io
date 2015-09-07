@@ -18,19 +18,19 @@
       "lon": 5.491624756854713, 
       "municipality": "Hoeselt", 
       "pcode": "3730", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Stationsstraat"
     }, 
     {
       "hnrlbls": [
-        "10-12"
+        "10"
       ], 
       "housenumber": "10", 
-      "lat": 50.84968043618018, 
-      "lon": 5.49215747675781, 
+      "lat": 50.8496906307668, 
+      "lon": 5.492088131438708, 
       "municipality": "Hoeselt", 
       "pcode": "3730", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Stationsstraat"
     }, 
     {
@@ -46,27 +46,28 @@
       "street": "Stationsstraat"
     }, 
     {
-      "busnrs": [
-        "3"
-      ], 
       "hnrlbls": [
-        "10-12"
+        "12"
       ], 
       "housenumber": "12", 
-      "lat": 50.84968043618018, 
-      "lon": 5.49215747675781, 
+      "lat": 50.84969291149601, 
+      "lon": 5.492216002764486, 
       "municipality": "Hoeselt", 
       "pcode": "3730", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Stationsstraat"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "13"
       ], 
       "housenumber": "13", 
-      "lat": 50.84988981747651, 
-      "lon": 5.492946004585275, 
+      "lat": 50.849881918516246, 
+      "lon": 5.4929446793858645, 
       "municipality": "Hoeselt", 
       "pcode": "3730", 
       "source": "manueleAanduidingVanPerceel", 
@@ -99,11 +100,11 @@
         "15"
       ], 
       "housenumber": "15", 
-      "lat": 50.849929842049455, 
-      "lon": 5.493056743479782, 
+      "lat": 50.849891326443235, 
+      "lon": 5.493069881504578, 
       "municipality": "Hoeselt", 
       "pcode": "3730", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Stationsstraat"
     }, 
     {
@@ -131,6 +132,14 @@
       "street": "Stationsstraat"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6"
+      ], 
       "hnrlbls": [
         "18"
       ], 
@@ -143,6 +152,16 @@
       "street": "Stationsstraat"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6", 
+        "7", 
+        "8"
+      ], 
       "hnrlbls": [
         "19"
       ], 
@@ -168,11 +187,11 @@
         "2"
       ], 
       "housenumber": "2", 
-      "lat": 50.849673984327474, 
-      "lon": 5.491244995112407, 
+      "lat": 50.849684596167094, 
+      "lon": 5.491244680625535, 
       "municipality": "Hoeselt", 
       "pcode": "3730", 
-      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Stationsstraat"
     }, 
     {
@@ -188,14 +207,20 @@
         "20"
       ], 
       "housenumber": "20", 
-      "lat": 50.8499070248548, 
-      "lon": 5.493588911844472, 
+      "lat": 50.84963420868755, 
+      "lon": 5.4939587279201785, 
       "municipality": "Hoeselt", 
       "pcode": "3730", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Stationsstraat"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4"
+      ], 
       "hnrlbls": [
         "21"
       ], 
@@ -220,6 +245,21 @@
       "street": "Stationsstraat"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "10", 
+        "11", 
+        "12", 
+        "13", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6", 
+        "7", 
+        "8", 
+        "9"
+      ], 
       "hnrlbls": [
         "23"
       ], 
@@ -232,6 +272,13 @@
       "street": "Stationsstraat"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5"
+      ], 
       "hnrlbls": [
         "25"
       ], 
@@ -245,89 +292,26 @@
     }, 
     {
       "hnrlbls": [
-        "27-33"
+        "27"
       ], 
       "housenumber": "27", 
-      "lat": 50.85020640612736, 
-      "lon": 5.494291696259462, 
+      "lat": 50.85014171021139, 
+      "lon": 5.494231775786926, 
       "municipality": "Hoeselt", 
       "pcode": "3730", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Stationsstraat"
-    }, 
-    {
-      "busnrs": [
-        "3"
-      ], 
-      "hnrlbls": [
-        "28-35"
-      ], 
-      "housenumber": "28", 
-      "lat": 50.85034262670697, 
-      "lon": 5.494383865295883, 
-      "municipality": "Hoeselt", 
-      "pcode": "3730", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Stationsstraat"
     }, 
     {
       "hnrlbls": [
-        "27-33"
-      ], 
-      "housenumber": "28A", 
-      "lat": 50.85020640612736, 
-      "lon": 5.494291696259462, 
-      "municipality": "Hoeselt", 
-      "pcode": "3730", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Stationsstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "27-33"
-      ], 
-      "housenumber": "28B", 
-      "lat": 50.85020640612736, 
-      "lon": 5.494291696259462, 
-      "municipality": "Hoeselt", 
-      "pcode": "3730", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Stationsstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "27-33"
-      ], 
-      "housenumber": "28C", 
-      "lat": 50.85020640612736, 
-      "lon": 5.494291696259462, 
-      "municipality": "Hoeselt", 
-      "pcode": "3730", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Stationsstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "27-33"
-      ], 
-      "housenumber": "28D", 
-      "lat": 50.85020640612736, 
-      "lon": 5.494291696259462, 
-      "municipality": "Hoeselt", 
-      "pcode": "3730", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Stationsstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "27-33"
+        "29"
       ], 
       "housenumber": "29", 
-      "lat": 50.85020640612736, 
-      "lon": 5.494291696259462, 
+      "lat": 50.85018594125658, 
+      "lon": 5.494269476794891, 
       "municipality": "Hoeselt", 
       "pcode": "3730", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Stationsstraat"
     }, 
     {
@@ -349,77 +333,26 @@
     }, 
     {
       "hnrlbls": [
-        "30-39"
-      ], 
-      "housenumber": "30", 
-      "lat": 50.850626814204645, 
-      "lon": 5.4944403830846085, 
-      "municipality": "Hoeselt", 
-      "pcode": "3730", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Stationsstraat"
-    }, 
-    {
-      "busnrs": [
-        "4"
-      ], 
-      "hnrlbls": [
-        "30A-41"
-      ], 
-      "housenumber": "30A", 
-      "lat": 50.850644281006474, 
-      "lon": 5.494606256832654, 
-      "municipality": "Hoeselt", 
-      "pcode": "3730", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Stationsstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "27-33"
+        "31"
       ], 
       "housenumber": "31", 
-      "lat": 50.85020640612736, 
-      "lon": 5.494291696259462, 
+      "lat": 50.85023544957928, 
+      "lon": 5.49431000271543, 
       "municipality": "Hoeselt", 
       "pcode": "3730", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Stationsstraat"
     }, 
     {
       "hnrlbls": [
-        "27-33"
+        "33"
       ], 
       "housenumber": "33", 
-      "lat": 50.85020640612736, 
-      "lon": 5.494291696259462, 
+      "lat": 50.85027965332774, 
+      "lon": 5.494350543628397, 
       "municipality": "Hoeselt", 
       "pcode": "3730", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Stationsstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "33A-47"
-      ], 
-      "housenumber": "33A", 
-      "lat": 50.85082454534141, 
-      "lon": 5.494755582152728, 
-      "municipality": "Hoeselt", 
-      "pcode": "3730", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Stationsstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "34-49"
-      ], 
-      "housenumber": "34", 
-      "lat": 50.85091014582115, 
-      "lon": 5.494735762717249, 
-      "municipality": "Hoeselt", 
-      "pcode": "3730", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Stationsstraat"
     }, 
     {
@@ -429,14 +362,14 @@
         "3"
       ], 
       "hnrlbls": [
-        "28-35"
+        "35"
       ], 
       "housenumber": "35", 
-      "lat": 50.85034262670697, 
-      "lon": 5.494383865295883, 
+      "lat": 50.850347155029795, 
+      "lon": 5.494380423294449, 
       "municipality": "Hoeselt", 
       "pcode": "3730", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Stationsstraat"
     }, 
     {
@@ -449,16 +382,16 @@
         "37"
       ], 
       "housenumber": "37", 
-      "lat": 50.8505254425675, 
-      "lon": 5.494501579215497, 
+      "lat": 50.85051715396563, 
+      "lon": 5.494512742264174, 
       "municipality": "Hoeselt", 
       "pcode": "3730", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Stationsstraat"
     }, 
     {
       "hnrlbls": [
-        "30-39"
+        "39"
       ], 
       "housenumber": "39", 
       "lat": 50.850626814204645, 
@@ -488,7 +421,7 @@
         "4"
       ], 
       "hnrlbls": [
-        "30A-41"
+        "41"
       ], 
       "housenumber": "41", 
       "lat": 50.850644281006474, 
@@ -532,7 +465,7 @@
     }, 
     {
       "hnrlbls": [
-        "33A-47"
+        "47"
       ], 
       "housenumber": "47", 
       "lat": 50.85082454534141, 
@@ -544,7 +477,7 @@
     }, 
     {
       "hnrlbls": [
-        "34-49"
+        "49"
       ], 
       "housenumber": "49", 
       "lat": 50.85091014582115, 
@@ -572,14 +505,14 @@
         "2"
       ], 
       "hnrlbls": [
-        "14A-65"
+        "51"
       ], 
       "housenumber": "51", 
-      "lat": 50.851328895331214, 
-      "lon": 5.4950757218791075, 
+      "lat": 50.85102734490786, 
+      "lon": 5.494889400338565, 
       "municipality": "Hoeselt", 
       "pcode": "3730", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Stationsstraat"
     }, 
     {
@@ -588,14 +521,14 @@
         "2"
       ], 
       "hnrlbls": [
-        "14A-65"
+        "53"
       ], 
       "housenumber": "53", 
-      "lat": 50.851328895331214, 
-      "lon": 5.4950757218791075, 
+      "lat": 50.85107095456931, 
+      "lon": 5.494935609156446, 
       "municipality": "Hoeselt", 
       "pcode": "3730", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Stationsstraat"
     }, 
     {
@@ -604,14 +537,14 @@
         "2"
       ], 
       "hnrlbls": [
-        "14A-65"
+        "55"
       ], 
       "housenumber": "55", 
-      "lat": 50.851328895331214, 
-      "lon": 5.4950757218791075, 
+      "lat": 50.8511298089713, 
+      "lon": 5.494995249705068, 
       "municipality": "Hoeselt", 
       "pcode": "3730", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Stationsstraat"
     }, 
     {
@@ -620,14 +553,14 @@
         "2"
       ], 
       "hnrlbls": [
-        "14A-65"
+        "57"
       ], 
       "housenumber": "57", 
-      "lat": 50.851328895331214, 
-      "lon": 5.4950757218791075, 
+      "lat": 50.85116880068911, 
+      "lon": 5.495026151511485, 
       "municipality": "Hoeselt", 
       "pcode": "3730", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Stationsstraat"
     }, 
     {
@@ -636,14 +569,14 @@
         "2"
       ], 
       "hnrlbls": [
-        "14A-65"
+        "59"
       ], 
       "housenumber": "59", 
-      "lat": 50.851328895331214, 
-      "lon": 5.4950757218791075, 
+      "lat": 50.85123382057682, 
+      "lon": 5.495071027686338, 
       "municipality": "Hoeselt", 
       "pcode": "3730", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Stationsstraat"
     }, 
     {
@@ -664,26 +597,26 @@
         "2"
       ], 
       "hnrlbls": [
-        "14A-65"
+        "61"
       ], 
       "housenumber": "61", 
-      "lat": 50.851328895331214, 
-      "lon": 5.4950757218791075, 
+      "lat": 50.85127743169737, 
+      "lon": 5.495107721336564, 
       "municipality": "Hoeselt", 
       "pcode": "3730", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Stationsstraat"
     }, 
     {
       "hnrlbls": [
-        "14A-65"
+        "63"
       ], 
       "housenumber": "63", 
-      "lat": 50.851328895331214, 
-      "lon": 5.4950757218791075, 
+      "lat": 50.851329382974406, 
+      "lon": 5.495146603387683, 
       "municipality": "Hoeselt", 
       "pcode": "3730", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Stationsstraat"
     }, 
     {
@@ -694,14 +627,14 @@
         "4"
       ], 
       "hnrlbls": [
-        "14A-65"
+        "65"
       ], 
       "housenumber": "65", 
-      "lat": 50.851328895331214, 
-      "lon": 5.4950757218791075, 
+      "lat": 50.85139395250544, 
+      "lon": 5.495238336962557, 
       "municipality": "Hoeselt", 
       "pcode": "3730", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Stationsstraat"
     }, 
     {
@@ -733,11 +666,11 @@
         "9"
       ], 
       "housenumber": "9", 
-      "lat": 50.84994340432195, 
-      "lon": 5.49209233019855, 
+      "lat": 50.84991269295932, 
+      "lon": 5.492398073423015, 
       "municipality": "Hoeselt", 
       "pcode": "3730", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Stationsstraat"
     }, 
     {

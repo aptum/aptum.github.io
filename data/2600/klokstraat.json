@@ -53,11 +53,11 @@
         "12A-12B"
       ], 
       "housenumber": "12A", 
-      "lat": 51.20173324998058, 
-      "lon": 4.431195163727119, 
+      "lat": 51.20170255408783, 
+      "lon": 4.430854943850007, 
       "municipality": "Antwerpen", 
       "pcode": "2600", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Klokstraat"
     }, 
     {
@@ -65,11 +65,11 @@
         "12A-12B"
       ], 
       "housenumber": "12B", 
-      "lat": 51.20173324998058, 
-      "lon": 4.431195163727119, 
+      "lat": 51.20170255408783, 
+      "lon": 4.430854943850007, 
       "municipality": "Antwerpen", 
       "pcode": "2600", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Klokstraat"
     }, 
     {
@@ -82,18 +82,6 @@
       "municipality": "Antwerpen", 
       "pcode": "2600", 
       "source": "afgeleidVanGebouw", 
-      "street": "Klokstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "14"
-      ], 
-      "housenumber": "14", 
-      "lat": 51.201651063125325, 
-      "lon": 4.431255715775151, 
-      "municipality": "Antwerpen", 
-      "pcode": "2600", 
-      "source": "afgeleidVanStraat", 
       "street": "Klokstraat"
     }, 
     {
@@ -266,7 +254,9 @@
     }, 
     {
       "busnrs": [
-        "1"
+        "1", 
+        "2", 
+        "3"
       ], 
       "hnrlbls": [
         "6"

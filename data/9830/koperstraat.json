@@ -2,7 +2,7 @@
   "addresses": [
     {
       "hnrlbls": [
-        "1-1B"
+        "1"
       ], 
       "housenumber": "1", 
       "lat": 51.01978643809395, 
@@ -17,23 +17,11 @@
         "10"
       ], 
       "housenumber": "10", 
-      "lat": 51.02018571734515, 
-      "lon": 3.636935830860186, 
+      "lat": 51.020185693996716, 
+      "lon": 3.6369358025993166, 
       "municipality": "Sint-Martens-Latem", 
       "pcode": "9830", 
       "source": "afgeleidVanGebouw", 
-      "street": "Koperstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "10A"
-      ], 
-      "housenumber": "10A", 
-      "lat": 51.02030622191513, 
-      "lon": 3.636451211840049, 
-      "municipality": "Sint-Martens-Latem", 
-      "pcode": "9830", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Koperstraat"
     }, 
     {
@@ -49,15 +37,20 @@
       "street": "Koperstraat"
     }, 
     {
+      "busnrs": [
+        "2", 
+        "3", 
+        "4"
+      ], 
       "hnrlbls": [
-        "1-49B"
+        "12"
       ], 
       "housenumber": "12", 
-      "lat": 51.00955673958778, 
-      "lon": 3.622232812816218, 
+      "lat": 51.0203472011271, 
+      "lon": 3.6364805151710486, 
       "municipality": "Sint-Martens-Latem", 
       "pcode": "9830", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "afgeleidVanGebouw", 
       "street": "Koperstraat"
     }, 
     {
@@ -74,19 +67,21 @@
     }, 
     {
       "busnrs": [
+        "1", 
         "2", 
         "3", 
+        "4", 
         "5"
       ], 
       "hnrlbls": [
         "14"
       ], 
       "housenumber": "14", 
-      "lat": 51.02061455354488, 
-      "lon": 3.6356260061644723, 
+      "lat": 51.02056203531487, 
+      "lon": 3.635900514472403, 
       "municipality": "Sint-Martens-Latem", 
       "pcode": "9830", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Koperstraat"
     }, 
     {
@@ -151,35 +146,59 @@
     }, 
     {
       "hnrlbls": [
-        "1A"
+        "1A-1E"
       ], 
       "housenumber": "1A", 
-      "lat": 51.01973420962785, 
-      "lon": 3.6367675741583123, 
+      "lat": 51.019758575856144, 
+      "lon": 3.636375380425028, 
       "municipality": "Sint-Martens-Latem", 
       "pcode": "9830", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Koperstraat"
     }, 
     {
       "hnrlbls": [
-        "1-1B"
+        "1A-1E"
       ], 
       "housenumber": "1B", 
-      "lat": 51.01978643809395, 
-      "lon": 3.636232289646729, 
+      "lat": 51.019758575856144, 
+      "lon": 3.636375380425028, 
       "municipality": "Sint-Martens-Latem", 
       "pcode": "9830", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Koperstraat"
     }, 
     {
       "hnrlbls": [
-        "1E"
+        "1A-1E"
+      ], 
+      "housenumber": "1C", 
+      "lat": 51.019758575856144, 
+      "lon": 3.636375380425028, 
+      "municipality": "Sint-Martens-Latem", 
+      "pcode": "9830", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Koperstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "1A-1E"
+      ], 
+      "housenumber": "1D", 
+      "lat": 51.019758575856144, 
+      "lon": 3.636375380425028, 
+      "municipality": "Sint-Martens-Latem", 
+      "pcode": "9830", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Koperstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "1A-1E"
       ], 
       "housenumber": "1E", 
-      "lat": 51.01975856131426, 
-      "lon": 3.636375392769441, 
+      "lat": 51.019758575856144, 
+      "lon": 3.636375380425028, 
       "municipality": "Sint-Martens-Latem", 
       "pcode": "9830", 
       "source": "afgeleidVanGebouw", 
@@ -208,8 +227,8 @@
         "20"
       ], 
       "housenumber": "20", 
-      "lat": 51.020799074711476, 
-      "lon": 3.6352307402042805, 
+      "lat": 51.020888671752274, 
+      "lon": 3.6350833692750744, 
       "municipality": "Sint-Martens-Latem", 
       "pcode": "9830", 
       "source": "afgeleidVanGebouw", 
@@ -229,26 +248,14 @@
     }, 
     {
       "hnrlbls": [
-        "22-24"
+        "22"
       ], 
       "housenumber": "22", 
-      "lat": 51.021145916663016, 
-      "lon": 3.6350619740609726, 
+      "lat": 51.021111129212926, 
+      "lon": 3.635098592822041, 
       "municipality": "Sint-Martens-Latem", 
       "pcode": "9830", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Koperstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "22-24"
-      ], 
-      "housenumber": "24", 
-      "lat": 51.021145916663016, 
-      "lon": 3.6350619740609726, 
-      "municipality": "Sint-Martens-Latem", 
-      "pcode": "9830", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Koperstraat"
     }, 
     {

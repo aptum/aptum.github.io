@@ -1,37 +1,27 @@
 {
   "addresses": [
     {
-      "busnrs": [
-        "1", 
-        "3"
-      ], 
       "hnrlbls": [
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 51.16395676351505, 
-      "lon": 4.821725455153994, 
+      "lat": 51.163929580585645, 
+      "lon": 4.821805249049986, 
       "municipality": "Herentals", 
       "pcode": "2200", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veldhoven"
     }, 
     {
-      "apptnrs": [
-        "1.0"
-      ], 
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
         "10"
       ], 
       "housenumber": "10", 
-      "lat": 51.16442647643548, 
-      "lon": 4.8200948167588304, 
+      "lat": 51.16441062789253, 
+      "lon": 4.820172754577924, 
       "municipality": "Herentals", 
       "pcode": "2200", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veldhoven"
     }, 
     {
@@ -46,11 +36,11 @@
         "10_1"
       ], 
       "housenumber": "10_1", 
-      "lat": 51.164469750200354, 
-      "lon": 4.820014461991396, 
+      "lat": 51.16441266665995, 
+      "lon": 4.820015767878912, 
       "municipality": "Herentals", 
       "pcode": "2200", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veldhoven"
     }, 
     {
@@ -74,7 +64,7 @@
       "lon": 4.819420394347411, 
       "municipality": "Herentals", 
       "pcode": "2200", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Veldhoven"
     }, 
     {
@@ -178,11 +168,23 @@
         "1_1"
       ], 
       "housenumber": "1_1", 
-      "lat": 51.163934409808505, 
-      "lon": 4.821788283649636, 
+      "lat": 51.16395217125544, 
+      "lon": 4.822125129111931, 
       "municipality": "Herentals", 
       "pcode": "2200", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Veldhoven"
+    }, 
+    {
+      "hnrlbls": [
+        "1_3"
+      ], 
+      "housenumber": "1_3", 
+      "lat": 51.164026624127914, 
+      "lon": 4.8212993951714145, 
+      "municipality": "Herentals", 
+      "pcode": "2200", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veldhoven"
     }, 
     {
@@ -310,11 +312,11 @@
         "3"
       ], 
       "housenumber": "3", 
-      "lat": 51.16403102066799, 
-      "lon": 4.820903149689843, 
+      "lat": 51.16408664945256, 
+      "lon": 4.820577880561472, 
       "municipality": "Herentals", 
       "pcode": "2200", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veldhoven"
     }, 
     {
@@ -450,18 +452,6 @@
       "street": "Veldhoven"
     }, 
     {
-      "hnrlbls": [
-        "3_1"
-      ], 
-      "housenumber": "3_1", 
-      "lat": 51.16405894750709, 
-      "lon": 4.820535295540052, 
-      "municipality": "Herentals", 
-      "pcode": "2200", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Veldhoven"
-    }, 
-    {
       "busnrs": [
         "1"
       ], 
@@ -525,27 +515,6 @@
       "street": "Veldhoven"
     }, 
     {
-      "busnrs": [
-        "A1", 
-        "A101", 
-        "A102", 
-        "A2", 
-        "A201", 
-        "B1", 
-        "B101"
-      ], 
-      "hnrlbls": [
-        "5"
-      ], 
-      "housenumber": "5", 
-      "lat": 51.16406869129781, 
-      "lon": 4.820150395452254, 
-      "municipality": "Herentals", 
-      "pcode": "2200", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Veldhoven"
-    }, 
-    {
       "hnrlbls": [
         "50"
       ], 
@@ -559,7 +528,7 @@
     }, 
     {
       "hnrlbls": [
-        "54-54A"
+        "54"
       ], 
       "housenumber": "54", 
       "lat": 51.162191808071256, 
@@ -570,56 +539,74 @@
       "street": "Veldhoven"
     }, 
     {
-      "hnrlbls": [
-        "54-54A"
+      "busnrs": [
+        "001", 
+        "002", 
+        "101", 
+        "102", 
+        "201"
       ], 
-      "housenumber": "54A", 
-      "lat": 51.162191808071256, 
-      "lon": 4.80917840695242, 
+      "hnrlbls": [
+        "5A"
+      ], 
+      "housenumber": "5A", 
+      "lat": 51.164148272096504, 
+      "lon": 4.820236371118006, 
       "municipality": "Herentals", 
       "pcode": "2200", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Veldhoven"
     }, 
     {
       "busnrs": [
-        "1", 
-        "1A", 
-        "1B"
+        "001", 
+        "101"
       ], 
+      "hnrlbls": [
+        "5B"
+      ], 
+      "housenumber": "5B", 
+      "lat": 51.16414598113522, 
+      "lon": 4.820130414501796, 
+      "municipality": "Herentals", 
+      "pcode": "2200", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Veldhoven"
+    }, 
+    {
       "hnrlbls": [
         "6"
       ], 
       "housenumber": "6", 
-      "lat": 51.1643709179507, 
-      "lon": 4.821222678930027, 
+      "lat": 51.1642767707218, 
+      "lon": 4.821583029669639, 
       "municipality": "Herentals", 
       "pcode": "2200", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veldhoven"
     }, 
     {
       "busnrs": [
-        "1", 
+        "001", 
         "101"
       ], 
       "hnrlbls": [
-        "6A-6_1"
+        "6A"
       ], 
       "housenumber": "6A", 
-      "lat": 51.16443829301256, 
-      "lon": 4.821116111167612, 
+      "lat": 51.16435324617111, 
+      "lon": 4.821283552204737, 
       "municipality": "Herentals", 
       "pcode": "2200", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veldhoven"
     }, 
     {
       "busnrs": [
-        "1", 
+        "001", 
+        "002", 
         "101", 
-        "102", 
-        "2"
+        "102"
       ], 
       "hnrlbls": [
         "6B"
@@ -634,26 +621,14 @@
     }, 
     {
       "hnrlbls": [
-        "6A-6_1"
+        "6C"
       ], 
       "housenumber": "6C", 
-      "lat": 51.16443829301256, 
-      "lon": 4.821116111167612, 
+      "lat": 51.16440358113759, 
+      "lon": 4.820862302257391, 
       "municipality": "Herentals", 
       "pcode": "2200", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Veldhoven"
-    }, 
-    {
-      "hnrlbls": [
-        "6A-6_1"
-      ], 
-      "housenumber": "6_1", 
-      "lat": 51.16443829301256, 
-      "lon": 4.821116111167612, 
-      "municipality": "Herentals", 
-      "pcode": "2200", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veldhoven"
     }, 
     {

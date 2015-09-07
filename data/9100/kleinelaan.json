@@ -1,30 +1,6 @@
 {
   "addresses": [
     {
-      "hnrlbls": [
-        "1-1B"
-      ], 
-      "housenumber": "1", 
-      "lat": 51.16954726270445, 
-      "lon": 4.139243659432047, 
-      "municipality": "Sint-Niklaas", 
-      "pcode": "9100", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Kleine Laan"
-    }, 
-    {
-      "hnrlbls": [
-        "10-10B"
-      ], 
-      "housenumber": "10", 
-      "lat": 51.16968613205072, 
-      "lon": 4.139938273168594, 
-      "municipality": "Sint-Niklaas", 
-      "pcode": "9100", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Kleine Laan"
-    }, 
-    {
       "busnrs": [
         "1", 
         "2", 
@@ -32,14 +8,14 @@
         "4"
       ], 
       "hnrlbls": [
-        "10-10B"
+        "10"
       ], 
-      "housenumber": "10B", 
-      "lat": 51.16968613205072, 
-      "lon": 4.139938273168594, 
+      "housenumber": "10", 
+      "lat": 51.169732333450156, 
+      "lon": 4.139891722974048, 
       "municipality": "Sint-Niklaas", 
       "pcode": "9100", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kleine Laan"
     }, 
     {
@@ -47,11 +23,11 @@
         "11"
       ], 
       "housenumber": "11", 
-      "lat": 51.16976055768621, 
-      "lon": 4.139984805804972, 
+      "lat": 51.1697605579623, 
+      "lon": 4.139984948780293, 
       "municipality": "Sint-Niklaas", 
       "pcode": "9100", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kleine Laan"
     }, 
     {
@@ -59,11 +35,11 @@
         "12"
       ], 
       "housenumber": "12", 
-      "lat": 51.16978311797671, 
-      "lon": 4.1400773445033865, 
+      "lat": 51.16978320758592, 
+      "lon": 4.140077201089004, 
       "municipality": "Sint-Niklaas", 
       "pcode": "9100", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kleine Laan"
     }, 
     {
@@ -75,71 +51,38 @@
       "lon": 4.140117318686556, 
       "municipality": "Sint-Niklaas", 
       "pcode": "9100", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kleine Laan"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "3"
+      "apptnrs": [
+        "0101", 
+        "0201", 
+        "0301", 
+        "0401", 
+        "0501"
       ], 
       "hnrlbls": [
-        "14-14B"
-      ], 
-      "housenumber": "14", 
-      "lat": 51.16987175926837, 
-      "lon": 4.140177567398853, 
-      "municipality": "Sint-Niklaas", 
-      "pcode": "9100", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Kleine Laan"
-    }, 
-    {
-      "busnrs": [
-        "101", 
-        "201", 
-        "301", 
-        "401"
-      ], 
-      "hnrlbls": [
-        "14-14B"
+        "14A-14B"
       ], 
       "housenumber": "14A", 
-      "lat": 51.16987175926837, 
-      "lon": 4.140177567398853, 
+      "lat": 51.16987166938316, 
+      "lon": 4.140177567837652, 
       "municipality": "Sint-Niklaas", 
       "pcode": "9100", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kleine Laan"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4"
-      ], 
       "hnrlbls": [
-        "14-14B"
+        "14A-14B"
       ], 
       "housenumber": "14B", 
-      "lat": 51.16987175926837, 
-      "lon": 4.140177567398853, 
+      "lat": 51.16987166938316, 
+      "lon": 4.140177567837652, 
       "municipality": "Sint-Niklaas", 
       "pcode": "9100", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Kleine Laan"
-    }, 
-    {
-      "hnrlbls": [
-        "15-15B"
-      ], 
-      "housenumber": "15", 
-      "lat": 51.16989918422116, 
-      "lon": 4.140229191223229, 
-      "municipality": "Sint-Niklaas", 
-      "pcode": "9100", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kleine Laan"
     }, 
     {
@@ -148,26 +91,26 @@
         "2"
       ], 
       "hnrlbls": [
-        "15-15B"
+        "15-16"
       ], 
-      "housenumber": "15B", 
-      "lat": 51.16989918422116, 
-      "lon": 4.140229191223229, 
+      "housenumber": "15", 
+      "lat": 51.16992642938069, 
+      "lon": 4.140280815985473, 
       "municipality": "Sint-Niklaas", 
       "pcode": "9100", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kleine Laan"
     }, 
     {
       "hnrlbls": [
-        "16"
+        "15-16"
       ], 
       "housenumber": "16", 
-      "lat": 51.169926518990174, 
-      "lon": 4.140280672571041, 
+      "lat": 51.16992642938069, 
+      "lon": 4.140280815985473, 
       "municipality": "Sint-Niklaas", 
       "pcode": "9100", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kleine Laan"
     }, 
     {
@@ -179,19 +122,19 @@
       "lon": 4.140399952618421, 
       "municipality": "Sint-Niklaas", 
       "pcode": "9100", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kleine Laan"
     }, 
     {
       "hnrlbls": [
-        "18"
+        "18-49"
       ], 
       "housenumber": "18", 
-      "lat": 51.170010872997224, 
-      "lon": 4.1407217752688785, 
+      "lat": 51.170010783112026, 
+      "lon": 4.1407217757066315, 
       "municipality": "Sint-Niklaas", 
       "pcode": "9100", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kleine Laan"
     }, 
     {
@@ -203,49 +146,48 @@
       "lon": 4.140769810142667, 
       "municipality": "Sint-Niklaas", 
       "pcode": "9100", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Kleine Laan"
+    }, 
+    {
+      "hnrlbls": [
+        "1A"
+      ], 
+      "housenumber": "1A", 
+      "lat": 51.16956556090597, 
+      "lon": 4.139177371815303, 
+      "municipality": "Sint-Niklaas", 
+      "pcode": "9100", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Kleine Laan"
     }, 
     {
       "busnrs": [
-        "1", 
-        "101", 
-        "2", 
-        "201"
+        "0101", 
+        "0201"
       ], 
       "hnrlbls": [
-        "1-1B"
+        "1B", 
+        "1A-1B"
       ], 
       "housenumber": "1B", 
-      "lat": 51.16954726270445, 
-      "lon": 4.139243659432047, 
+      "lat": 51.16959735120236, 
+      "lon": 4.139254994979868, 
       "municipality": "Sint-Niklaas", 
       "pcode": "9100", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Kleine Laan"
     }, 
     {
       "hnrlbls": [
-        "2-3"
+        "2"
       ], 
       "housenumber": "2", 
-      "lat": 51.169557950315735, 
-      "lon": 4.139424757701914, 
+      "lat": 51.16955786043054, 
+      "lon": 4.139424758142163, 
       "municipality": "Sint-Niklaas", 
       "pcode": "9100", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Kleine Laan"
-    }, 
-    {
-      "hnrlbls": [
-        "20-20B"
-      ], 
-      "housenumber": "20", 
-      "lat": 51.170058771869066, 
-      "lon": 4.140856512827186, 
-      "municipality": "Sint-Niklaas", 
-      "pcode": "9100", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kleine Laan"
     }, 
     {
@@ -254,26 +196,14 @@
         "2"
       ], 
       "hnrlbls": [
-        "20-20B"
+        "20"
       ], 
-      "housenumber": "20B", 
-      "lat": 51.170058771869066, 
-      "lon": 4.140856512827186, 
+      "housenumber": "20", 
+      "lat": 51.17008965882118, 
+      "lon": 4.140838919216128, 
       "municipality": "Sint-Niklaas", 
       "pcode": "9100", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Kleine Laan"
-    }, 
-    {
-      "hnrlbls": [
-        "21-21B"
-      ], 
-      "housenumber": "21", 
-      "lat": 51.170102180139445, 
-      "lon": 4.140899766771197, 
-      "municipality": "Sint-Niklaas", 
-      "pcode": "9100", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kleine Laan"
     }, 
     {
@@ -284,86 +214,86 @@
         "4"
       ], 
       "hnrlbls": [
-        "21-21B"
+        "21"
       ], 
-      "housenumber": "21B", 
-      "lat": 51.170102180139445, 
-      "lon": 4.140899766771197, 
+      "housenumber": "21", 
+      "lat": 51.170102180414425, 
+      "lon": 4.140899909747568, 
       "municipality": "Sint-Niklaas", 
       "pcode": "9100", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kleine Laan"
     }, 
     {
       "hnrlbls": [
-        "22"
-      ], 
-      "housenumber": "22", 
-      "lat": 51.170115793519294, 
-      "lon": 4.141014368680183, 
-      "municipality": "Sint-Niklaas", 
-      "pcode": "9100", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Kleine Laan"
-    }, 
-    {
-      "hnrlbls": [
-        "26-26C"
+        "26-28B"
       ], 
       "housenumber": "26", 
       "lat": 51.170129406787886, 
       "lon": 4.141128970656006, 
       "municipality": "Sint-Niklaas", 
       "pcode": "9100", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kleine Laan"
     }, 
     {
       "hnrlbls": [
-        "26-26C"
+        "26-28B"
+      ], 
+      "housenumber": "26B", 
+      "lat": 51.170129406787886, 
+      "lon": 4.141128970656006, 
+      "municipality": "Sint-Niklaas", 
+      "pcode": "9100", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Kleine Laan"
+    }, 
+    {
+      "hnrlbls": [
+        "26-28B"
       ], 
       "housenumber": "26C", 
       "lat": 51.170129406787886, 
       "lon": 4.141128970656006, 
       "municipality": "Sint-Niklaas", 
       "pcode": "9100", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kleine Laan"
     }, 
     {
       "hnrlbls": [
-        "27"
+        "26-28B"
       ], 
       "housenumber": "27", 
-      "lat": 51.17012231272497, 
-      "lon": 4.14113257958759, 
+      "lat": 51.170129406787886, 
+      "lon": 4.141128970656006, 
       "municipality": "Sint-Niklaas", 
       "pcode": "9100", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kleine Laan"
     }, 
     {
       "hnrlbls": [
-        "28-30"
+        "26-28B"
       ], 
       "housenumber": "28", 
-      "lat": 51.17021341111816, 
-      "lon": 4.141483147832706, 
+      "lat": 51.170129406787886, 
+      "lon": 4.141128970656006, 
       "municipality": "Sint-Niklaas", 
       "pcode": "9100", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kleine Laan"
     }, 
     {
       "hnrlbls": [
-        "28B"
+        "26-28B"
       ], 
       "housenumber": "28B", 
-      "lat": 51.170237598856865, 
-      "lon": 4.141581256397787, 
+      "lat": 51.170129406787886, 
+      "lon": 4.141128970656006, 
       "municipality": "Sint-Niklaas", 
       "pcode": "9100", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kleine Laan"
     }, 
     {
@@ -371,47 +301,23 @@
         "29"
       ], 
       "housenumber": "29", 
-      "lat": 51.170223830192725, 
-      "lon": 4.1415259906836255, 
+      "lat": 51.170223829918505, 
+      "lon": 4.141525847706878, 
       "municipality": "Sint-Niklaas", 
       "pcode": "9100", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kleine Laan"
     }, 
     {
       "hnrlbls": [
-        "2-3"
-      ], 
-      "housenumber": "3", 
-      "lat": 51.169557950315735, 
-      "lon": 4.139424757701914, 
-      "municipality": "Sint-Niklaas", 
-      "pcode": "9100", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Kleine Laan"
-    }, 
-    {
-      "hnrlbls": [
-        "28-30"
+        "30"
       ], 
       "housenumber": "30", 
-      "lat": 51.17021341111816, 
-      "lon": 4.141483147832706, 
+      "lat": 51.17026757477565, 
+      "lon": 4.141744821014331, 
       "municipality": "Sint-Niklaas", 
       "pcode": "9100", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Kleine Laan"
-    }, 
-    {
-      "hnrlbls": [
-        "32"
-      ], 
-      "housenumber": "32", 
-      "lat": 51.17024796858302, 
-      "lon": 4.1416921571322804, 
-      "municipality": "Sint-Niklaas", 
-      "pcode": "9100", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kleine Laan"
     }, 
     {
@@ -423,7 +329,7 @@
       "lon": 4.141913446645186, 
       "municipality": "Sint-Niklaas", 
       "pcode": "9100", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kleine Laan"
     }, 
     {
@@ -431,23 +337,11 @@
         "34"
       ], 
       "housenumber": "34", 
-      "lat": 51.1700696131834, 
-      "lon": 4.141868598541502, 
+      "lat": 51.17029918445107, 
+      "lon": 4.141963710529523, 
       "municipality": "Sint-Niklaas", 
       "pcode": "9100", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Kleine Laan"
-    }, 
-    {
-      "hnrlbls": [
-        "36"
-      ], 
-      "housenumber": "36", 
-      "lat": 51.17049938975493, 
-      "lon": 4.142260851863152, 
-      "municipality": "Sint-Niklaas", 
-      "pcode": "9100", 
-      "source": "geinterpoleerdObvWegverbinding", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kleine Laan"
     }, 
     {
@@ -459,7 +353,7 @@
       "lon": 4.139534831900173, 
       "municipality": "Sint-Niklaas", 
       "pcode": "9100", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kleine Laan"
     }, 
     {
@@ -471,7 +365,7 @@
       "lon": 4.139600617467737, 
       "municipality": "Sint-Niklaas", 
       "pcode": "9100", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kleine Laan"
     }, 
     {
@@ -483,31 +377,31 @@
       "lon": 4.13967258005611, 
       "municipality": "Sint-Niklaas", 
       "pcode": "9100", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kleine Laan"
     }, 
     {
       "hnrlbls": [
-        "7"
+        "7-8"
       ], 
       "housenumber": "7", 
-      "lat": 51.16972430001495, 
-      "lon": 4.139641839215454, 
+      "lat": 51.169664366130846, 
+      "lon": 4.139745218453699, 
       "municipality": "Sint-Niklaas", 
       "pcode": "9100", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kleine Laan"
     }, 
     {
       "hnrlbls": [
-        "8"
+        "7-8"
       ], 
       "housenumber": "8", 
-      "lat": 51.16966445601606, 
-      "lon": 4.139745218014067, 
+      "lat": 51.169664366130846, 
+      "lon": 4.139745218453699, 
       "municipality": "Sint-Niklaas", 
       "pcode": "9100", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kleine Laan"
     }, 
     {
@@ -515,11 +409,11 @@
         "9"
       ], 
       "housenumber": "9", 
-      "lat": 51.169687011798395, 
-      "lon": 4.139835325829588, 
+      "lat": 51.169687012350956, 
+      "lon": 4.139835611779774, 
       "municipality": "Sint-Niklaas", 
       "pcode": "9100", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kleine Laan"
     }
   ]

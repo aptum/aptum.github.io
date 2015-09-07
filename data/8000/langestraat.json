@@ -422,7 +422,8 @@
     }, 
     {
       "busnrs": [
-        "2"
+        "2", 
+        "3"
       ], 
       "hnrlbls": [
         "134"
@@ -765,11 +766,23 @@
     }, 
     {
       "hnrlbls": [
-        "158"
+        "158A-158B"
       ], 
-      "housenumber": "158", 
-      "lat": 51.212280011320196, 
-      "lon": 3.239307581128246, 
+      "housenumber": "158A", 
+      "lat": 51.2122799862489, 
+      "lon": 3.239307610893076, 
+      "municipality": "Brugge", 
+      "pcode": "8000", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Langestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "158A-158B"
+      ], 
+      "housenumber": "158B", 
+      "lat": 51.2122799862489, 
+      "lon": 3.239307610893076, 
       "municipality": "Brugge", 
       "pcode": "8000", 
       "source": "afgeleidVanGebouw", 
@@ -888,11 +901,11 @@
         "16A"
       ], 
       "housenumber": "16A", 
-      "lat": 51.20949349610039, 
-      "lon": 3.232198406982897, 
+      "lat": 51.20958106430748, 
+      "lon": 3.232418685531005, 
       "municipality": "Brugge", 
       "pcode": "8000", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Langestraat"
     }, 
     {
@@ -992,7 +1005,8 @@
     {
       "busnrs": [
         "1", 
-        "101"
+        "101", 
+        "2"
       ], 
       "hnrlbls": [
         "181"
@@ -1264,11 +1278,11 @@
         "2"
       ], 
       "hnrlbls": [
-        "30"
+        "30-34"
       ], 
       "housenumber": "30", 
-      "lat": 51.209507231283425, 
-      "lon": 3.233244669383577, 
+      "lat": 51.20950722105545, 
+      "lon": 3.2332446555469248, 
       "municipality": "Brugge", 
       "pcode": "8000", 
       "source": "afgeleidVanGebouw", 
@@ -1288,6 +1302,18 @@
     }, 
     {
       "hnrlbls": [
+        "30-34"
+      ], 
+      "housenumber": "32", 
+      "lat": 51.20950722105545, 
+      "lon": 3.2332446555469248, 
+      "municipality": "Brugge", 
+      "pcode": "8000", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Langestraat"
+    }, 
+    {
+      "hnrlbls": [
         "33"
       ], 
       "housenumber": "33", 
@@ -1300,11 +1326,11 @@
     }, 
     {
       "hnrlbls": [
-        "34"
+        "30-34"
       ], 
       "housenumber": "34", 
-      "lat": 51.20953069422707, 
-      "lon": 3.233347713447432, 
+      "lat": 51.20950722105545, 
+      "lon": 3.2332446555469248, 
       "municipality": "Brugge", 
       "pcode": "8000", 
       "source": "afgeleidVanGebouw", 
@@ -1335,8 +1361,8 @@
         "36"
       ], 
       "housenumber": "36", 
-      "lat": 51.209518181812925, 
-      "lon": 3.233486409701715, 
+      "lat": 51.209530687316054, 
+      "lon": 3.233347708548851, 
       "municipality": "Brugge", 
       "pcode": "8000", 
       "source": "afgeleidVanGebouw", 
@@ -1359,6 +1385,42 @@
         "38"
       ], 
       "housenumber": "38", 
+      "lat": 51.20951814712613, 
+      "lon": 3.2334863548272237, 
+      "municipality": "Brugge", 
+      "pcode": "8000", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Langestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "39"
+      ], 
+      "housenumber": "39", 
+      "lat": 51.20988796233181, 
+      "lon": 3.234009509070551, 
+      "municipality": "Brugge", 
+      "pcode": "8000", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Langestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "4"
+      ], 
+      "housenumber": "4", 
+      "lat": 51.209573921560505, 
+      "lon": 3.231671503033425, 
+      "municipality": "Brugge", 
+      "pcode": "8000", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Langestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "40"
+      ], 
+      "housenumber": "40", 
       "lat": 51.209406343960346, 
       "lon": 3.2337942430249, 
       "municipality": "Brugge", 
@@ -1367,79 +1429,44 @@
       "street": "Langestraat"
     }, 
     {
-      "hnrlbls": [
-        "39-43"
-      ], 
-      "housenumber": "39", 
-      "lat": 51.2099442359607, 
-      "lon": 3.2340529446375035, 
-      "municipality": "Brugge", 
-      "pcode": "8000", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Langestraat"
-    }, 
-    {
-      "hnrlbls": [
-        "4"
-      ], 
-      "housenumber": "4", 
-      "lat": 51.209569828624836, 
-      "lon": 3.231703946712215, 
-      "municipality": "Brugge", 
-      "pcode": "8000", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Langestraat"
-    }, 
-    {
-      "hnrlbls": [
-        "40-42"
-      ], 
-      "housenumber": "40", 
-      "lat": 51.20959927994017, 
-      "lon": 3.2338156044585813, 
-      "municipality": "Brugge", 
-      "pcode": "8000", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Langestraat"
-    }, 
-    {
       "busnrs": [
         "1", 
-        "101"
+        "101", 
+        "102"
       ], 
       "hnrlbls": [
         "41"
       ], 
       "housenumber": "41", 
-      "lat": 51.20993329888864, 
-      "lon": 3.234074821079413, 
+      "lat": 51.20991458437211, 
+      "lon": 3.2340958767688477, 
       "municipality": "Brugge", 
       "pcode": "8000", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Langestraat"
     }, 
     {
       "hnrlbls": [
-        "40-42"
+        "42"
       ], 
       "housenumber": "42", 
-      "lat": 51.20959927994017, 
-      "lon": 3.2338156044585813, 
+      "lat": 51.20958063589682, 
+      "lon": 3.233765433619449, 
       "municipality": "Brugge", 
       "pcode": "8000", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Langestraat"
     }, 
     {
       "hnrlbls": [
-        "39-43"
+        "43"
       ], 
       "housenumber": "43", 
-      "lat": 51.2099442359607, 
-      "lon": 3.2340529446375035, 
+      "lat": 51.209937445202485, 
+      "lon": 3.234166010653463, 
       "municipality": "Brugge", 
       "pcode": "8000", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Langestraat"
     }, 
     {
@@ -1490,8 +1517,8 @@
         "47"
       ], 
       "housenumber": "47", 
-      "lat": 51.21005278785943, 
-      "lon": 3.2343485592394314, 
+      "lat": 51.21005222598764, 
+      "lon": 3.234355585592593, 
       "municipality": "Brugge", 
       "pcode": "8000", 
       "source": "afgeleidVanPerceelGrb", 

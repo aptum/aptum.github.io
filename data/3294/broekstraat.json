@@ -2,18 +2,6 @@
   "addresses": [
     {
       "hnrlbls": [
-        "1"
-      ], 
-      "housenumber": "1", 
-      "lat": 50.997411427975926, 
-      "lon": 5.02256115258621, 
-      "municipality": "Diest", 
-      "pcode": "3294", 
-      "source": "afgeleidVanStraat", 
-      "street": "Broekstraat"
-    }, 
-    {
-      "hnrlbls": [
         "10"
       ], 
       "housenumber": "10", 
@@ -77,11 +65,11 @@
         "107"
       ], 
       "housenumber": "107", 
-      "lat": 50.99593293694737, 
-      "lon": 5.020488492656167, 
+      "lat": 50.995566506821866, 
+      "lon": 5.020086667371752, 
       "municipality": "Diest", 
       "pcode": "3294", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Broekstraat"
     }, 
     {
@@ -185,11 +173,11 @@
         "117"
       ], 
       "housenumber": "117", 
-      "lat": 50.99645742975429, 
-      "lon": 5.0224062286168785, 
+      "lat": 50.99648971360564, 
+      "lon": 5.022436452101669, 
       "municipality": "Diest", 
       "pcode": "3294", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Broekstraat"
     }, 
     {
@@ -413,8 +401,8 @@
         "164"
       ], 
       "housenumber": "164", 
-      "lat": 50.99595322386123, 
-      "lon": 5.0310273155981, 
+      "lat": 50.995965779999466, 
+      "lon": 5.031080342702698, 
       "municipality": "Diest", 
       "pcode": "3294", 
       "source": "afgeleidVanGebouw", 
@@ -578,18 +566,6 @@
     }, 
     {
       "hnrlbls": [
-        "2"
-      ], 
-      "housenumber": "2", 
-      "lat": 51.00348432410004, 
-      "lon": 5.013645486399247, 
-      "municipality": "Diest", 
-      "pcode": "3294", 
-      "source": "geinterpoleerdObvWegverbinding", 
-      "street": "Broekstraat"
-    }, 
-    {
-      "hnrlbls": [
         "20"
       ], 
       "housenumber": "20", 
@@ -602,14 +578,15 @@
     }, 
     {
       "busnrs": [
-        "2"
+        "2", 
+        "OBIS"
       ], 
       "hnrlbls": [
         "21"
       ], 
       "housenumber": "21", 
-      "lat": 51.00165386136572, 
-      "lon": 5.014159648055651, 
+      "lat": 51.00174363816159, 
+      "lon": 5.01408281334975, 
       "municipality": "Diest", 
       "pcode": "3294", 
       "source": "afgeleidVanGebouw", 
@@ -617,14 +594,14 @@
     }, 
     {
       "hnrlbls": [
-        "21B"
+        "21BIS"
       ], 
-      "housenumber": "21B", 
-      "lat": 51.00174363816159, 
-      "lon": 5.01408281334975, 
+      "housenumber": "21BIS", 
+      "lat": 51.001560419467694, 
+      "lon": 5.0142327277475145, 
       "municipality": "Diest", 
       "pcode": "3294", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Broekstraat"
     }, 
     {
@@ -968,35 +945,23 @@
         "54"
       ], 
       "housenumber": "54", 
-      "lat": 50.99926647542829, 
-      "lon": 5.016279313047921, 
+      "lat": 50.99918900509101, 
+      "lon": 5.016194331758857, 
       "municipality": "Diest", 
       "pcode": "3294", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Broekstraat"
     }, 
     {
       "hnrlbls": [
-        "54B-54BIS"
-      ], 
-      "housenumber": "54B", 
-      "lat": 50.99934212791382, 
-      "lon": 5.016351590404424, 
-      "municipality": "Diest", 
-      "pcode": "3294", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Broekstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "54B-54BIS"
+        "54BIS"
       ], 
       "housenumber": "54BIS", 
       "lat": 50.99934212791382, 
       "lon": 5.016351590404424, 
       "municipality": "Diest", 
       "pcode": "3294", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Broekstraat"
     }, 
     {
@@ -1213,6 +1178,18 @@
       "municipality": "Diest", 
       "pcode": "3294", 
       "source": "afgeleidVanGebouw", 
+      "street": "Broekstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "76"
+      ], 
+      "housenumber": "76", 
+      "lat": 50.996968020807955, 
+      "lon": 5.016415895501172, 
+      "municipality": "Diest", 
+      "pcode": "3294", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Broekstraat"
     }, 
     {

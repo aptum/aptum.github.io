@@ -273,6 +273,7 @@
     }, 
     {
       "busnrs": [
+        "1", 
         "101", 
         "102"
       ], 
@@ -292,6 +293,8 @@
         "0.0"
       ], 
       "busnrs": [
+        "1", 
+        "101", 
         "2", 
         "201", 
         "3"
@@ -323,6 +326,9 @@
       "apptnrs": [
         "1.1", 
         "2.2"
+      ], 
+      "busnrs": [
+        "201"
       ], 
       "hnrlbls": [
         "132"
@@ -463,7 +469,8 @@
       ], 
       "busnrs": [
         "101", 
-        "201"
+        "201", 
+        "301"
       ], 
       "hnrlbls": [
         "143"
@@ -641,7 +648,8 @@
         "201", 
         "301", 
         "4", 
-        "5"
+        "5", 
+        "KELD"
       ], 
       "hnrlbls": [
         "159"
@@ -683,7 +691,9 @@
         "1.0"
       ], 
       "busnrs": [
+        "101", 
         "201", 
+        "202", 
         "3", 
         "301", 
         "302", 
@@ -717,6 +727,7 @@
         "2.0"
       ], 
       "busnrs": [
+        "1", 
         "101", 
         "201"
       ], 
@@ -919,7 +930,8 @@
       "busnrs": [
         "1", 
         "101", 
-        "201"
+        "201", 
+        "301"
       ], 
       "hnrlbls": [
         "18"
@@ -980,9 +992,12 @@
       ], 
       "busnrs": [
         "1", 
+        "101", 
         "2", 
         "201", 
         "202", 
+        "203", 
+        "204", 
         "3", 
         "4", 
         "5", 
@@ -1059,6 +1074,24 @@
       "municipality": "Dilbeek", 
       "pcode": "1700", 
       "source": "afgeleidVanPerceelGrb", 
+      "street": "Itterbeeksebaan"
+    }, 
+    {
+      "busnrs": [
+        "1", 
+        "101", 
+        "2", 
+        "201"
+      ], 
+      "hnrlbls": [
+        "201-203"
+      ], 
+      "housenumber": "203", 
+      "lat": 50.836599136473964, 
+      "lon": 4.258694955494016, 
+      "municipality": "Dilbeek", 
+      "pcode": "1700", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Itterbeeksebaan"
     }, 
     {
@@ -1208,6 +1241,21 @@
       "housenumber": "225", 
       "lat": 50.83686475439172, 
       "lon": 4.256949176579295, 
+      "municipality": "Dilbeek", 
+      "pcode": "1700", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Itterbeeksebaan"
+    }, 
+    {
+      "busnrs": [
+        "201"
+      ], 
+      "hnrlbls": [
+        "226C"
+      ], 
+      "housenumber": "226C", 
+      "lat": 50.83909691384551, 
+      "lon": 4.245630692830285, 
       "municipality": "Dilbeek", 
       "pcode": "1700", 
       "source": "afgeleidVanPerceelGrb", 
@@ -1373,6 +1421,7 @@
         "101", 
         "2", 
         "3", 
+        "301", 
         "302", 
         "5"
       ], 

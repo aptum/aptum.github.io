@@ -530,8 +530,8 @@
         "144"
       ], 
       "housenumber": "144", 
-      "lat": 50.77022096037404, 
-      "lon": 3.4451370172326787, 
+      "lat": 50.770220957892384, 
+      "lon": 3.445137002518226, 
       "municipality": "Avelgem", 
       "pcode": "8580", 
       "source": "afgeleidVanGebouw", 
@@ -580,18 +580,6 @@
       "housenumber": "15", 
       "lat": 50.77521248995537, 
       "lon": 3.444313346204522, 
-      "municipality": "Avelgem", 
-      "pcode": "8580", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Doorniksesteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "150"
-      ], 
-      "housenumber": "150", 
-      "lat": 50.76973221654616, 
-      "lon": 3.44503105315511, 
       "municipality": "Avelgem", 
       "pcode": "8580", 
       "source": "afgeleidVanGebouw", 
@@ -724,6 +712,9 @@
       "street": "Doorniksesteenweg"
     }, 
     {
+      "busnrs": [
+        "102"
+      ], 
       "hnrlbls": [
         "16"
       ], 
@@ -1688,6 +1679,8 @@
     {
       "busnrs": [
         "0001", 
+        "0002", 
+        "0003", 
         "0101", 
         "0102", 
         "0103", 
@@ -1735,6 +1728,18 @@
       "municipality": "Avelgem", 
       "pcode": "8580", 
       "source": "afgeleidVanGebouw", 
+      "street": "Doorniksesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "32B"
+      ], 
+      "housenumber": "32B", 
+      "lat": 50.774529260600005, 
+      "lon": 3.444593134271751, 
+      "municipality": "Avelgem", 
+      "pcode": "8580", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Doorniksesteenweg"
     }, 
     {
@@ -2126,9 +2131,8 @@
     }, 
     {
       "busnrs": [
-        "101", 
-        "201", 
-        "301"
+        "0001", 
+        "0002"
       ], 
       "hnrlbls": [
         "59-61"
@@ -2155,8 +2159,11 @@
     }, 
     {
       "busnrs": [
-        "101", 
-        "201"
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301"
       ], 
       "hnrlbls": [
         "59-61"
@@ -2495,7 +2502,8 @@
     }, 
     {
       "busnrs": [
-        "101"
+        "101", 
+        "303"
       ], 
       "hnrlbls": [
         "82-84"

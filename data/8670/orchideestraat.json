@@ -1,8 +1,14 @@
 {
   "addresses": [
     {
-      "busnrs": [
-        "101"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "102", 
+        "201", 
+        "202", 
+        "301", 
+        "302"
       ], 
       "hnrlbls": [
         "1"
@@ -12,12 +18,14 @@
       "lon": 2.6245219516740432, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Orchideestraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
+        "001", 
         "101", 
+        "201", 
         "301"
       ], 
       "hnrlbls": [
@@ -28,13 +36,18 @@
       "lon": 2.6242791504950937, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Orchideestraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
+        "001", 
         "101", 
-        "201"
+        "201", 
+        "301", 
+        "401", 
+        "501", 
+        "GV01"
       ], 
       "hnrlbls": [
         "13"
@@ -44,117 +57,196 @@
       "lon": 2.6242082628937777, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Orchideestraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
+        "001", 
+        "0301", 
         "101", 
-        "301"
+        "102", 
+        "201", 
+        "202", 
+        "302", 
+        "401", 
+        "402", 
+        "501", 
+        "502"
       ], 
       "hnrlbls": [
-        "15"
+        "15-17"
       ], 
       "housenumber": "15", 
-      "lat": 51.11656365903059, 
-      "lon": 2.6241003018752935, 
+      "lat": 51.1165709158812, 
+      "lon": 2.6240924598328967, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Orchideestraat"
     }, 
     {
       "hnrlbls": [
-        "17"
+        "15-17"
       ], 
       "housenumber": "17", 
-      "lat": 51.11657937853985, 
-      "lon": 2.624014146392784, 
+      "lat": 51.1165709158812, 
+      "lon": 2.6240924598328967, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Orchideestraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "102", 
+        "201", 
+        "202", 
+        "301", 
+        "302", 
+        "401", 
+        "402", 
+        "501", 
+        "502", 
+        "601", 
+        "GV01"
+      ], 
       "hnrlbls": [
-        "19-21"
+        "19"
       ], 
       "housenumber": "19", 
-      "lat": 51.11658756944747, 
-      "lon": 2.623935700213234, 
+      "lat": 51.11658783903529, 
+      "lon": 2.623935690150365, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Orchideestraat"
     }, 
     {
-      "hnrlbls": [
-        "19-21"
-      ], 
-      "housenumber": "21", 
-      "lat": 51.11658756944747, 
-      "lon": 2.623935700213234, 
-      "municipality": "Koksijde", 
-      "pcode": "8670", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Orchideestraat"
-    }, 
-    {
-      "busnrs": [
-        "20", 
+      "apptnrs": [
+        "001", 
+        "002", 
+        "003", 
+        "004", 
+        "101", 
+        "102", 
+        "103", 
+        "104", 
+        "201", 
+        "202", 
+        "203", 
+        "204", 
+        "301", 
+        "302", 
+        "303", 
+        "304", 
+        "401", 
         "402", 
-        "501"
+        "403", 
+        "404", 
+        "501", 
+        "502", 
+        "503", 
+        "601", 
+        "602"
       ], 
       "hnrlbls": [
-        "23"
+        "23-23A"
       ], 
       "housenumber": "23", 
       "lat": 51.116736536956665, 
       "lon": 2.623752144607992, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Orchideestraat"
     }, 
     {
-      "busnrs": [
+      "hnrlbls": [
+        "23-23A"
+      ], 
+      "housenumber": "23A", 
+      "lat": 51.116736536956665, 
+      "lon": 2.623752144607992, 
+      "municipality": "Koksijde", 
+      "pcode": "8670", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Orchideestraat"
+    }, 
+    {
+      "apptnrs": [
+        "001", 
+        "002", 
         "101", 
+        "102", 
+        "103", 
+        "104", 
         "201", 
+        "202", 
         "203", 
+        "204", 
+        "301", 
+        "302", 
         "303", 
+        "304", 
         "401", 
-        "404"
+        "402", 
+        "403", 
+        "404", 
+        "501", 
+        "502", 
+        "503", 
+        "504", 
+        "601", 
+        "GV02"
       ], 
       "hnrlbls": [
         "4"
       ], 
       "housenumber": "4", 
-      "lat": 51.116655935742614, 
-      "lon": 2.624789408821072, 
+      "lat": 51.116635602340885, 
+      "lon": 2.624794595870928, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Orchideestraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
+        "101", 
+        "102", 
+        "201", 
+        "202", 
+        "301", 
+        "302", 
         "401", 
-        "601"
+        "402", 
+        "501", 
+        "502", 
+        "601", 
+        "602", 
+        "GV01"
       ], 
       "hnrlbls": [
         "6"
       ], 
       "housenumber": "6", 
-      "lat": 51.11675044230343, 
-      "lon": 2.624540603934955, 
+      "lat": 51.11675008496342, 
+      "lon": 2.624540760121974, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Orchideestraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
         "301", 
+        "401", 
         "501"
       ], 
       "hnrlbls": [
@@ -165,14 +257,20 @@
       "lon": 2.6244154980867798, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Orchideestraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
+        "101", 
         "102", 
+        "201", 
+        "202", 
         "301", 
-        "401"
+        "302", 
+        "401", 
+        "402", 
+        "501"
       ], 
       "hnrlbls": [
         "8"
@@ -182,13 +280,16 @@
       "lon": 2.624466778867799, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Orchideestraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
+        "001", 
+        "101", 
         "201", 
-        "301"
+        "301", 
+        "KV01"
       ], 
       "hnrlbls": [
         "9"
@@ -198,7 +299,7 @@
       "lon": 2.6243491947734316, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Orchideestraat"
     }
   ]

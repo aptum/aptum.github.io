@@ -244,6 +244,7 @@
     }, 
     {
       "busnrs": [
+        "1", 
         "2", 
         "3"
       ], 
@@ -283,6 +284,11 @@
       "street": "Jozef Verbovenlei"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3"
+      ], 
       "hnrlbls": [
         "119"
       ], 
@@ -422,6 +428,12 @@
       "street": "Jozef Verbovenlei"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4"
+      ], 
       "hnrlbls": [
         "129"
       ], 
@@ -837,9 +849,12 @@
     }, 
     {
       "busnrs": [
+        "1", 
         "2", 
         "3", 
-        "4"
+        "4", 
+        "5", 
+        "6"
       ], 
       "hnrlbls": [
         "3"
@@ -1050,6 +1065,11 @@
       "street": "Jozef Verbovenlei"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3"
+      ], 
       "hnrlbls": [
         "44"
       ], 
@@ -1131,11 +1151,10 @@
       "street": "Jozef Verbovenlei"
     }, 
     {
-      "apptnrs": [
-        "0.0"
-      ], 
       "busnrs": [
-        "1"
+        "1", 
+        "2", 
+        "3"
       ], 
       "hnrlbls": [
         "51"
@@ -1177,13 +1196,11 @@
       "street": "Jozef Verbovenlei"
     }, 
     {
-      "apptnrs": [
-        "3.0"
-      ], 
       "busnrs": [
         "1", 
-        "1A", 
+        "10", 
         "2", 
+        "3", 
         "4", 
         "5", 
         "6", 
@@ -1207,14 +1224,26 @@
         "A"
       ], 
       "hnrlbls": [
-        "54_3"
+        "54_1"
       ], 
-      "housenumber": "54_3", 
+      "housenumber": "54_1", 
       "lat": 51.20174579750733, 
       "lon": 4.45826937910783, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "street": "Jozef Verbovenlei"
+    }, 
+    {
+      "hnrlbls": [
+        "54_3"
+      ], 
+      "housenumber": "54_3", 
+      "lat": 51.20174503166962, 
+      "lon": 4.458267051241484, 
+      "municipality": "Antwerpen", 
+      "pcode": "2100", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Jozef Verbovenlei"
     }, 
     {
@@ -1230,6 +1259,11 @@
       "street": "Jozef Verbovenlei"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3"
+      ], 
       "hnrlbls": [
         "57"
       ], 
@@ -1414,7 +1448,7 @@
         "2"
       ], 
       "hnrlbls": [
-        "72-72b"
+        "72"
       ], 
       "housenumber": "72", 
       "lat": 51.202128744266, 
@@ -1426,14 +1460,14 @@
     }, 
     {
       "hnrlbls": [
-        "72-72b"
+        "72b"
       ], 
       "housenumber": "72b", 
-      "lat": 51.202128744266, 
-      "lon": 4.457152272338856, 
+      "lat": 51.202127775873166, 
+      "lon": 4.457147948184506, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Jozef Verbovenlei"
     }, 
     {
@@ -1551,7 +1585,9 @@
     }, 
     {
       "busnrs": [
-        "2"
+        "1", 
+        "2", 
+        "3"
       ], 
       "hnrlbls": [
         "81"

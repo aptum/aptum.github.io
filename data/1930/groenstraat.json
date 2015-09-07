@@ -85,6 +85,9 @@
       "street": "Groenstraat"
     }, 
     {
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "108"
       ], 
@@ -318,11 +321,11 @@
         "24A"
       ], 
       "housenumber": "24A", 
-      "lat": 50.88668436796566, 
-      "lon": 4.4669337759861785, 
+      "lat": 50.886676929980524, 
+      "lon": 4.466906190148145, 
       "municipality": "Zaventem", 
       "pcode": "1930", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Groenstraat"
     }, 
     {
@@ -384,8 +387,8 @@
         "29"
       ], 
       "housenumber": "29", 
-      "lat": 50.8884187010298, 
-      "lon": 4.4713134318992624, 
+      "lat": 50.88836869660497, 
+      "lon": 4.4713398983084325, 
       "municipality": "Zaventem", 
       "pcode": "1930", 
       "source": "afgeleidVanPerceelGrb", 
@@ -601,7 +604,7 @@
         "2"
       ], 
       "hnrlbls": [
-        "43-43C"
+        "43"
       ], 
       "housenumber": "43", 
       "lat": 50.888642960115675, 
@@ -613,11 +616,23 @@
     }, 
     {
       "hnrlbls": [
-        "43-43C"
+        "43A-43C"
+      ], 
+      "housenumber": "43A", 
+      "lat": 50.888640893435884, 
+      "lon": 4.472055646152618, 
+      "municipality": "Zaventem", 
+      "pcode": "1930", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "street": "Groenstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "43A-43C"
       ], 
       "housenumber": "43C", 
-      "lat": 50.888642960115675, 
-      "lon": 4.472056645570781, 
+      "lat": 50.888640893435884, 
+      "lon": 4.472055646152618, 
       "municipality": "Zaventem", 
       "pcode": "1930", 
       "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
@@ -1115,8 +1130,8 @@
         "81"
       ], 
       "housenumber": "81", 
-      "lat": 50.88929893144354, 
-      "lon": 4.475042381788677, 
+      "lat": 50.88930145145265, 
+      "lon": 4.475039118716102, 
       "municipality": "Zaventem", 
       "pcode": "1930", 
       "source": "afgeleidVanPerceelGrb", 
@@ -1151,8 +1166,8 @@
         "83"
       ], 
       "housenumber": "83", 
-      "lat": 50.88926980292334, 
-      "lon": 4.475144074933152, 
+      "lat": 50.889271784479114, 
+      "lon": 4.475139815784963, 
       "municipality": "Zaventem", 
       "pcode": "1930", 
       "source": "afgeleidVanPerceelGrb", 
@@ -1271,8 +1286,8 @@
         "94"
       ], 
       "housenumber": "94", 
-      "lat": 50.888181279676765, 
-      "lon": 4.472544938671386, 
+      "lat": 50.88821871287684, 
+      "lon": 4.47250309683772, 
       "municipality": "Zaventem", 
       "pcode": "1930", 
       "source": "afgeleidVanPerceelGrb", 

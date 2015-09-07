@@ -35,6 +35,12 @@
       "street": "Dorp"
     }, 
     {
+      "apptnrs": [
+        "1", 
+        "11", 
+        "21", 
+        "31"
+      ], 
       "hnrlbls": [
         "11"
       ], 
@@ -173,27 +179,23 @@
       "street": "Dorp"
     }, 
     {
-      "hnrlbls": [
-        "20"
+      "apptnrs": [
+        "1", 
+        "11", 
+        "12", 
+        "21", 
+        "22", 
+        "31"
       ], 
-      "housenumber": "20", 
-      "lat": 51.06287956072269, 
-      "lon": 4.579501083844164, 
-      "municipality": "Sint-Katelijne-Waver", 
-      "pcode": "2861", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dorp"
-    }, 
-    {
       "hnrlbls": [
         "21"
       ], 
       "housenumber": "21", 
-      "lat": 51.06293510199827, 
-      "lon": 4.579556968386915, 
+      "lat": 51.06289078839624, 
+      "lon": 4.579555912178981, 
       "municipality": "Sint-Katelijne-Waver", 
       "pcode": "2861", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Dorp"
     }, 
     {
@@ -288,30 +290,6 @@
     }, 
     {
       "hnrlbls": [
-        "26A"
-      ], 
-      "housenumber": "26A", 
-      "lat": 51.06315906613995, 
-      "lon": 4.580179510345697, 
-      "municipality": "Sint-Katelijne-Waver", 
-      "pcode": "2861", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dorp"
-    }, 
-    {
-      "hnrlbls": [
-        "26B"
-      ], 
-      "housenumber": "26B", 
-      "lat": 51.06313543260252, 
-      "lon": 4.580225336739886, 
-      "municipality": "Sint-Katelijne-Waver", 
-      "pcode": "2861", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Dorp"
-    }, 
-    {
-      "hnrlbls": [
         "27"
       ], 
       "housenumber": "27", 
@@ -344,11 +322,11 @@
         "22"
       ], 
       "hnrlbls": [
-        "2-29"
+        "29"
       ], 
       "housenumber": "29", 
-      "lat": 51.06322014315771, 
-      "lon": 4.58095366892153, 
+      "lat": 51.063165538701796, 
+      "lon": 4.5809766725512695, 
       "municipality": "Sint-Katelijne-Waver", 
       "pcode": "2861", 
       "source": "afgeleidVanGebouw", 
@@ -473,11 +451,11 @@
         "35R-35_2"
       ], 
       "housenumber": "35R", 
-      "lat": 51.06242168900671, 
-      "lon": 4.581183551628683, 
+      "lat": 51.0621637423812, 
+      "lon": 4.581312614126417, 
       "municipality": "Sint-Katelijne-Waver", 
       "pcode": "2861", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
       "street": "Dorp"
     }, 
     {
@@ -488,11 +466,11 @@
         "35R-35_2"
       ], 
       "housenumber": "35_2", 
-      "lat": 51.06242168900671, 
-      "lon": 4.581183551628683, 
+      "lat": 51.0621637423812, 
+      "lon": 4.581312614126417, 
       "municipality": "Sint-Katelijne-Waver", 
       "pcode": "2861", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
       "street": "Dorp"
     }, 
     {
@@ -770,18 +748,6 @@
       "municipality": "Sint-Katelijne-Waver", 
       "pcode": "2861", 
       "source": "afgeleidVanGebouw", 
-      "street": "Dorp"
-    }, 
-    {
-      "hnrlbls": [
-        "55"
-      ], 
-      "housenumber": "55", 
-      "lat": 51.061751121324306, 
-      "lon": 4.578780184295654, 
-      "municipality": "Sint-Katelijne-Waver", 
-      "pcode": "2861", 
-      "source": "geinterpoleerdObvWegverbinding", 
       "street": "Dorp"
     }, 
     {

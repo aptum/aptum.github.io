@@ -2,18 +2,19 @@
   "addresses": [
     {
       "apptnrs": [
-        "0.0", 
-        "2.0"
+        "0001", 
+        "0002", 
+        "gel0"
       ], 
       "hnrlbls": [
-        "1-3"
+        "1"
       ], 
       "housenumber": "1", 
-      "lat": 51.19717902992679, 
-      "lon": 4.487099760308936, 
+      "lat": 51.19714864941802, 
+      "lon": 4.487090263543145, 
       "municipality": "Borsbeek", 
       "pcode": "2150", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rosekapellestraat"
     }, 
     {
@@ -277,21 +278,19 @@
     }, 
     {
       "apptnrs": [
-        "0.0"
-      ], 
-      "busnrs": [
-        "1", 
-        "2"
+        "0001", 
+        "0002", 
+        "gel0"
       ], 
       "hnrlbls": [
-        "1-3"
+        "3"
       ], 
       "housenumber": "3", 
-      "lat": 51.19717902992679, 
-      "lon": 4.487099760308936, 
+      "lat": 51.197205441323845, 
+      "lon": 4.487104610926459, 
       "municipality": "Borsbeek", 
       "pcode": "2150", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rosekapellestraat"
     }, 
     {
@@ -566,17 +565,15 @@
     }, 
     {
       "apptnrs": [
-        "0.0"
-      ], 
-      "busnrs": [
-        "1", 
-        "2", 
-        "5", 
-        "L", 
-        "R"
+        "001L", 
+        "001R", 
+        "002L", 
+        "002R", 
+        "gelL", 
+        "gelR"
       ], 
       "hnrlbls": [
-        "5-5_2"
+        "5"
       ], 
       "housenumber": "5", 
       "lat": 51.19728497126516, 
@@ -623,52 +620,27 @@
       "street": "Rosekapellestraat"
     }, 
     {
-      "busnrs": [
-        "1"
+      "apptnrs": [
+        "0001", 
+        "0002"
       ], 
       "hnrlbls": [
-        "53-55"
+        "53"
       ], 
       "housenumber": "53", 
-      "lat": 51.19926458327919, 
-      "lon": 4.4877651914607, 
+      "lat": 51.199230683367375, 
+      "lon": 4.487772796435067, 
       "municipality": "Borsbeek", 
       "pcode": "2150", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rosekapellestraat"
     }, 
     {
       "busnrs": [
-        "R"
+        "Agel", 
+        "BgeL", 
+        "BgeR"
       ], 
-      "hnrlbls": [
-        "53-55"
-      ], 
-      "housenumber": "53_1", 
-      "lat": 51.19926458327919, 
-      "lon": 4.4877651914607, 
-      "municipality": "Borsbeek", 
-      "pcode": "2150", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Rosekapellestraat"
-    }, 
-    {
-      "busnrs": [
-        "L", 
-        "R"
-      ], 
-      "hnrlbls": [
-        "53-55"
-      ], 
-      "housenumber": "53_2", 
-      "lat": 51.19926458327919, 
-      "lon": 4.4877651914607, 
-      "municipality": "Borsbeek", 
-      "pcode": "2150", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Rosekapellestraat"
-    }, 
-    {
       "hnrlbls": [
         "54-54A"
       ], 
@@ -697,15 +669,20 @@
       "street": "Rosekapellestraat"
     }, 
     {
+      "apptnrs": [
+        "0001", 
+        "0002", 
+        "gel0"
+      ], 
       "hnrlbls": [
-        "53-55"
+        "55"
       ], 
       "housenumber": "55", 
-      "lat": 51.19926458327919, 
-      "lon": 4.4877651914607, 
+      "lat": 51.19929056831539, 
+      "lon": 4.487786970674809, 
       "municipality": "Borsbeek", 
       "pcode": "2150", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rosekapellestraat"
     }, 
     {
@@ -729,7 +706,7 @@
         "2"
       ], 
       "hnrlbls": [
-        "57-57_2"
+        "57"
       ], 
       "housenumber": "57", 
       "lat": 51.19939216346348, 
@@ -737,37 +714,6 @@
       "municipality": "Borsbeek", 
       "pcode": "2150", 
       "source": "afgeleidVanGebouw", 
-      "street": "Rosekapellestraat"
-    }, 
-    {
-      "busnrs": [
-        "L"
-      ], 
-      "hnrlbls": [
-        "57-57_2"
-      ], 
-      "housenumber": "57_1", 
-      "lat": 51.19939216346348, 
-      "lon": 4.487820599629286, 
-      "municipality": "Borsbeek", 
-      "pcode": "2150", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Rosekapellestraat"
-    }, 
-    {
-      "busnrs": [
-        "L", 
-        "R"
-      ], 
-      "hnrlbls": [
-        "57-57_2"
-      ], 
-      "housenumber": "57_2", 
-      "lat": 51.19939216346348, 
-      "lon": 4.487820599629286, 
-      "municipality": "Borsbeek", 
-      "pcode": "2150", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Rosekapellestraat"
     }, 
     {
@@ -780,50 +726,6 @@
       "municipality": "Borsbeek", 
       "pcode": "2150", 
       "source": "afgeleidVanGebouw", 
-      "street": "Rosekapellestraat"
-    }, 
-    {
-      "hnrlbls": [
-        "5-5_2"
-      ], 
-      "housenumber": "5A", 
-      "lat": 51.19728497126516, 
-      "lon": 4.487132362314996, 
-      "municipality": "Borsbeek", 
-      "pcode": "2150", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Rosekapellestraat"
-    }, 
-    {
-      "busnrs": [
-        "L", 
-        "R"
-      ], 
-      "hnrlbls": [
-        "5-5_2"
-      ], 
-      "housenumber": "5_1", 
-      "lat": 51.19728497126516, 
-      "lon": 4.487132362314996, 
-      "municipality": "Borsbeek", 
-      "pcode": "2150", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Rosekapellestraat"
-    }, 
-    {
-      "busnrs": [
-        "L", 
-        "R"
-      ], 
-      "hnrlbls": [
-        "5-5_2"
-      ], 
-      "housenumber": "5_2", 
-      "lat": 51.19728497126516, 
-      "lon": 4.487132362314996, 
-      "municipality": "Borsbeek", 
-      "pcode": "2150", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Rosekapellestraat"
     }, 
     {
@@ -913,9 +815,10 @@
       "street": "Rosekapellestraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2"
+      "apptnrs": [
+        "0001", 
+        "0002", 
+        "gel0"
       ], 
       "hnrlbls": [
         "7"
@@ -930,69 +833,38 @@
     }, 
     {
       "apptnrs": [
-        "0.0"
+        "001L", 
+        "001R", 
+        "002L", 
+        "002R", 
+        "gelL", 
+        "gelR"
       ], 
       "busnrs": [
-        "1", 
-        "2", 
-        "L", 
-        "R"
+        "gelL"
       ], 
       "hnrlbls": [
-        "70-72"
+        "70"
       ], 
       "housenumber": "70", 
-      "lat": 51.19984824656915, 
-      "lon": 4.488696490659943, 
+      "lat": 51.1998455984346, 
+      "lon": 4.488550096647998, 
       "municipality": "Borsbeek", 
       "pcode": "2150", 
       "source": "afgeleidVanGebouw", 
       "street": "Rosekapellestraat"
     }, 
     {
-      "busnrs": [
-        "R"
-      ], 
-      "hnrlbls": [
-        "70_1-70_2"
-      ], 
-      "housenumber": "70_1", 
-      "lat": 51.19995128136062, 
-      "lon": 4.488582016007967, 
-      "municipality": "Borsbeek", 
-      "pcode": "2150", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Rosekapellestraat"
-    }, 
-    {
-      "busnrs": [
-        "L", 
-        "R"
-      ], 
-      "hnrlbls": [
-        "70_1-70_2"
-      ], 
-      "housenumber": "70_2", 
-      "lat": 51.19995128136062, 
-      "lon": 4.488582016007967, 
-      "municipality": "Borsbeek", 
-      "pcode": "2150", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Rosekapellestraat"
-    }, 
-    {
       "apptnrs": [
-        "0.0"
-      ], 
-      "busnrs": [
-        "1"
+        "0001", 
+        "gel0"
       ], 
       "hnrlbls": [
-        "70-72"
+        "72"
       ], 
       "housenumber": "72", 
-      "lat": 51.19984824656915, 
-      "lon": 4.488696490659943, 
+      "lat": 51.19995124510686, 
+      "lon": 4.488582087053923, 
       "municipality": "Borsbeek", 
       "pcode": "2150", 
       "source": "afgeleidVanGebouw", 

@@ -76,6 +76,7 @@
     {
       "busnrs": [
         "1", 
+        "2", 
         "3", 
         "4", 
         "5"
@@ -333,6 +334,9 @@
       "street": "Thomas Van Loostraat"
     }, 
     {
+      "busnrs": [
+        "201"
+      ], 
       "hnrlbls": [
         "36"
       ], 
@@ -532,10 +536,12 @@
     }, 
     {
       "busnrs": [
+        "101", 
+        "1A", 
         "2"
       ], 
       "hnrlbls": [
-        "51-51_1"
+        "51"
       ], 
       "housenumber": "51", 
       "lat": 51.23032645156468, 
@@ -543,21 +549,6 @@
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
-      "street": "Thomas Van Loostraat"
-    }, 
-    {
-      "busnrs": [
-        "A"
-      ], 
-      "hnrlbls": [
-        "51-51_1"
-      ], 
-      "housenumber": "51_1", 
-      "lat": 51.23032645156468, 
-      "lon": 2.94409285645252, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Thomas Van Loostraat"
     }, 
     {
@@ -644,11 +635,16 @@
     {
       "busnrs": [
         "1", 
+        "1A", 
+        "1B", 
         "301", 
+        "3A", 
+        "3B", 
+        "4A", 
         "8"
       ], 
       "hnrlbls": [
-        "6-8_4"
+        "6-8D"
       ], 
       "housenumber": "6", 
       "lat": 51.230847901701225, 
@@ -743,57 +739,11 @@
     }, 
     {
       "busnrs": [
-        "A", 
-        "B"
+        "1", 
+        "1A"
       ], 
       "hnrlbls": [
-        "6A-8"
-      ], 
-      "housenumber": "6_1", 
-      "lat": 51.23084884213137, 
-      "lon": 2.941629785192612, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Thomas Van Loostraat"
-    }, 
-    {
-      "busnrs": [
-        "A", 
-        "B"
-      ], 
-      "hnrlbls": [
-        "6A-8"
-      ], 
-      "housenumber": "6_3", 
-      "lat": 51.23084884213137, 
-      "lon": 2.941629785192612, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Thomas Van Loostraat"
-    }, 
-    {
-      "busnrs": [
-        "A"
-      ], 
-      "hnrlbls": [
-        "6A-8"
-      ], 
-      "housenumber": "6_4", 
-      "lat": 51.23084884213137, 
-      "lon": 2.941629785192612, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Thomas Van Loostraat"
-    }, 
-    {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "7-7_1"
+        "7-7C"
       ], 
       "housenumber": "7", 
       "lat": 51.23058080176257, 
@@ -865,7 +815,7 @@
     }, 
     {
       "hnrlbls": [
-        "7-7_1"
+        "7-7C"
       ], 
       "housenumber": "7B", 
       "lat": 51.23058080176257, 
@@ -877,7 +827,7 @@
     }, 
     {
       "hnrlbls": [
-        "7-7_1"
+        "7-7C"
       ], 
       "housenumber": "7C", 
       "lat": 51.23058080176257, 
@@ -889,20 +839,10 @@
     }, 
     {
       "busnrs": [
-        "A"
+        "1D", 
+        "3C", 
+        "3D"
       ], 
-      "hnrlbls": [
-        "7-7_1"
-      ], 
-      "housenumber": "7_1", 
-      "lat": 51.23058080176257, 
-      "lon": 2.9416481541292447, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Thomas Van Loostraat"
-    }, 
-    {
       "hnrlbls": [
         "6A-8"
       ], 
@@ -983,55 +923,9 @@
         "1"
       ], 
       "hnrlbls": [
-        "6-8_4"
+        "6-8D"
       ], 
       "housenumber": "8D", 
-      "lat": 51.230847901701225, 
-      "lon": 2.9414922085867863, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Thomas Van Loostraat"
-    }, 
-    {
-      "busnrs": [
-        "D"
-      ], 
-      "hnrlbls": [
-        "6-8_4"
-      ], 
-      "housenumber": "8_1", 
-      "lat": 51.230847901701225, 
-      "lon": 2.9414922085867863, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Thomas Van Loostraat"
-    }, 
-    {
-      "busnrs": [
-        "C", 
-        "D"
-      ], 
-      "hnrlbls": [
-        "6-8_4"
-      ], 
-      "housenumber": "8_3", 
-      "lat": 51.230847901701225, 
-      "lon": 2.9414922085867863, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Thomas Van Loostraat"
-    }, 
-    {
-      "busnrs": [
-        "C"
-      ], 
-      "hnrlbls": [
-        "6-8_4"
-      ], 
-      "housenumber": "8_4", 
       "lat": 51.230847901701225, 
       "lon": 2.9414922085867863, 
       "municipality": "Oostende", 

@@ -94,11 +94,11 @@
         "18"
       ], 
       "housenumber": "18", 
-      "lat": 51.23918328401736, 
-      "lon": 4.824240108217751, 
+      "lat": 51.239172389174364, 
+      "lon": 4.8241051150931025, 
       "municipality": "Lille", 
       "pcode": "2275", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Rechtestraat"
     }, 
     {
@@ -154,12 +154,12 @@
       "street": "Rechtestraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5"
+      "apptnrs": [
+        "Bus1", 
+        "Bus2", 
+        "Bus3", 
+        "Bus4", 
+        "Bus5"
       ], 
       "hnrlbls": [
         "22"
@@ -185,6 +185,12 @@
       "street": "Rechtestraat"
     }, 
     {
+      "apptnrs": [
+        "Bus 1"
+      ], 
+      "busnrs": [
+        "Bus2"
+      ], 
       "hnrlbls": [
         "24-24A"
       ], 
@@ -284,12 +290,12 @@
       "street": "Rechtestraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5"
+      "apptnrs": [
+        "Bus1", 
+        "Bus2", 
+        "Bus3", 
+        "Bus4", 
+        "Bus5"
       ], 
       "hnrlbls": [
         "31-31A"
@@ -311,7 +317,7 @@
       "lon": 4.823473568188599, 
       "municipality": "Lille", 
       "pcode": "2275", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Rechtestraat"
     }, 
     {
@@ -403,7 +409,7 @@
       "street": "Rechtestraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "4", 
@@ -483,18 +489,6 @@
     }, 
     {
       "hnrlbls": [
-        "51"
-      ], 
-      "housenumber": "51", 
-      "lat": 51.239988435988145, 
-      "lon": 4.822942631252847, 
-      "municipality": "Lille", 
-      "pcode": "2275", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Rechtestraat"
-    }, 
-    {
-      "hnrlbls": [
         "52"
       ], 
       "housenumber": "52", 
@@ -542,20 +536,15 @@
       "street": "Rechtestraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3"
-      ], 
       "hnrlbls": [
         "57"
       ], 
       "housenumber": "57", 
-      "lat": 51.24020342451743, 
-      "lon": 4.823297274998937, 
+      "lat": 51.24024958457253, 
+      "lon": 4.823354574240892, 
       "municipality": "Lille", 
       "pcode": "2275", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Rechtestraat"
     }, 
     {
@@ -583,6 +572,9 @@
       "street": "Rechtestraat"
     }, 
     {
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "6"
       ], 
@@ -718,18 +710,6 @@
       "street": "Rechtestraat"
     }, 
     {
-      "hnrlbls": [
-        "73"
-      ], 
-      "housenumber": "73", 
-      "lat": 51.24140847838229, 
-      "lon": 4.822978543512535, 
-      "municipality": "Lille", 
-      "pcode": "2275", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Rechtestraat"
-    }, 
-    {
       "apptnrs": [
         "Bus1", 
         "Bus2", 
@@ -749,11 +729,11 @@
       "street": "Rechtestraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4"
+      "apptnrs": [
+        "Bus1", 
+        "Bus2", 
+        "Bus3", 
+        "Bus4"
       ], 
       "hnrlbls": [
         "77"

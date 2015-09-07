@@ -37,18 +37,6 @@
       "street": "Stationsstraat"
     }, 
     {
-      "hnrlbls": [
-        "101-280"
-      ], 
-      "housenumber": "101", 
-      "lat": 51.017366748929106, 
-      "lon": 4.4909354360985425, 
-      "municipality": "Mechelen", 
-      "pcode": "2800", 
-      "source": "afgeleidVanStraat", 
-      "street": "Stationsstraat"
-    }, 
-    {
       "busnrs": [
         "108", 
         "8"
@@ -66,14 +54,14 @@
     }, 
     {
       "hnrlbls": [
-        "101-280"
+        "105"
       ], 
       "housenumber": "105", 
-      "lat": 51.017366748929106, 
-      "lon": 4.4909354360985425, 
+      "lat": 51.02034790378721, 
+      "lon": 4.4860787646332145, 
       "municipality": "Mechelen", 
       "pcode": "2800", 
-      "source": "afgeleidVanStraat", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Stationsstraat"
     }, 
     {
@@ -118,7 +106,8 @@
     }, 
     {
       "busnrs": [
-        "1"
+        "1", 
+        "2"
       ], 
       "hnrlbls": [
         "12"
@@ -151,7 +140,7 @@
         "4"
       ], 
       "hnrlbls": [
-        "13-13O"
+        "13"
       ], 
       "housenumber": "13", 
       "lat": 51.020628894531924, 
@@ -159,21 +148,6 @@
       "municipality": "Mechelen", 
       "pcode": "2800", 
       "source": "afgeleidVanGebouw", 
-      "street": "Stationsstraat"
-    }, 
-    {
-      "busnrs": [
-        "100"
-      ], 
-      "hnrlbls": [
-        "13-13O"
-      ], 
-      "housenumber": "13O", 
-      "lat": 51.020628894531924, 
-      "lon": 4.48554644471275, 
-      "municipality": "Mechelen", 
-      "pcode": "2800", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Stationsstraat"
     }, 
     {
@@ -298,19 +272,15 @@
       "street": "Stationsstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
       "hnrlbls": [
         "22"
       ], 
       "housenumber": "22", 
-      "lat": 51.02017097502394, 
-      "lon": 4.485022249512032, 
+      "lat": 51.020217521037864, 
+      "lon": 4.485154505878944, 
       "municipality": "Mechelen", 
       "pcode": "2800", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Stationsstraat"
     }, 
     {
@@ -329,8 +299,11 @@
       "street": "Stationsstraat"
     }, 
     {
+      "busnrs": [
+        "AGLV"
+      ], 
       "hnrlbls": [
-        "24-24A"
+        "24"
       ], 
       "housenumber": "24", 
       "lat": 51.02001609116721, 
@@ -349,14 +322,14 @@
         "3"
       ], 
       "hnrlbls": [
-        "24-24A"
+        "24A"
       ], 
       "housenumber": "24A", 
-      "lat": 51.02001609116721, 
-      "lon": 4.484843713955339, 
+      "lat": 51.01993661148384, 
+      "lon": 4.4847936579226735, 
       "municipality": "Mechelen", 
       "pcode": "2800", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Stationsstraat"
     }, 
     {
@@ -417,18 +390,6 @@
     }, 
     {
       "hnrlbls": [
-        "101-280"
-      ], 
-      "housenumber": "280", 
-      "lat": 51.017366748929106, 
-      "lon": 4.4909354360985425, 
-      "municipality": "Mechelen", 
-      "pcode": "2800", 
-      "source": "afgeleidVanStraat", 
-      "street": "Stationsstraat"
-    }, 
-    {
-      "hnrlbls": [
         "29"
       ], 
       "housenumber": "29", 
@@ -453,68 +414,55 @@
     }, 
     {
       "busnrs": [
-        "1", 
+        "001", 
+        "002", 
+        "003", 
+        "004", 
         "101", 
-        "103", 
-        "2", 
         "201", 
         "202", 
-        "3", 
-        "4"
+        "301"
       ], 
       "hnrlbls": [
-        "30-31"
+        "30"
       ], 
       "housenumber": "30", 
-      "lat": 51.01987974847615, 
-      "lon": 4.484003797022203, 
+      "lat": 51.01968753866667, 
+      "lon": 4.4844742243000955, 
       "municipality": "Mechelen", 
       "pcode": "2800", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Stationsstraat"
     }, 
     {
       "busnrs": [
-        "01", 
+        "001", 
+        "002", 
+        "003", 
         "101", 
         "102", 
         "103", 
         "104", 
         "201", 
         "202", 
-        "203", 
-        "3"
+        "203"
       ], 
       "hnrlbls": [
-        "30-31"
+        "31"
       ], 
       "housenumber": "31", 
-      "lat": 51.01987974847615, 
-      "lon": 4.484003797022203, 
+      "lat": 51.01962845780569, 
+      "lon": 4.484406238826771, 
       "municipality": "Mechelen", 
       "pcode": "2800", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Stationsstraat"
-    }, 
-    {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "31B"
-      ], 
-      "housenumber": "31B", 
-      "lat": 51.019880018146985, 
-      "lon": 4.484003797689822, 
-      "municipality": "Mechelen", 
-      "pcode": "2800", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Stationsstraat"
     }, 
     {
       "busnrs": [
         "1", 
         "2", 
+        "301", 
         "302"
       ], 
       "hnrlbls": [
@@ -841,11 +789,11 @@
         "51"
       ], 
       "housenumber": "51", 
-      "lat": 51.01739860038411, 
-      "lon": 4.4813153123320975, 
+      "lat": 51.01746573091203, 
+      "lon": 4.481602797715663, 
       "municipality": "Mechelen", 
       "pcode": "2800", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Stationsstraat"
     }, 
     {
@@ -853,11 +801,35 @@
         "53"
       ], 
       "housenumber": "53", 
-      "lat": 51.017401896084415, 
-      "lon": 4.48022026556445, 
+      "lat": 51.01711499691044, 
+      "lon": 4.481208903643501, 
       "municipality": "Mechelen", 
       "pcode": "2800", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Stationsstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "53A"
+      ], 
+      "housenumber": "53A", 
+      "lat": 51.01683524005544, 
+      "lon": 4.480676220924256, 
+      "municipality": "Mechelen", 
+      "pcode": "2800", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Stationsstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "53C"
+      ], 
+      "housenumber": "53C", 
+      "lat": 51.01739870978166, 
+      "lon": 4.480450840759167, 
+      "municipality": "Mechelen", 
+      "pcode": "2800", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Stationsstraat"
     }, 
     {
@@ -865,23 +837,11 @@
         "58"
       ], 
       "housenumber": "58", 
-      "lat": 51.017050852033556, 
-      "lon": 4.480431194700357, 
+      "lat": 51.0169332187115, 
+      "lon": 4.480478243834096, 
       "municipality": "Mechelen", 
       "pcode": "2800", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Stationsstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "59"
-      ], 
-      "housenumber": "59", 
-      "lat": 51.01669796541343, 
-      "lon": 4.480406264041443, 
-      "municipality": "Mechelen", 
-      "pcode": "2800", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Stationsstraat"
     }, 
     {
@@ -897,18 +857,15 @@
       "street": "Stationsstraat"
     }, 
     {
-      "busnrs": [
-        "5"
-      ], 
       "hnrlbls": [
         "60"
       ], 
       "housenumber": "60", 
-      "lat": 51.0183307167313, 
-      "lon": 4.482758238959785, 
+      "lat": 51.01667817000083, 
+      "lon": 4.480036708473093, 
       "municipality": "Mechelen", 
       "pcode": "2800", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Stationsstraat"
     }, 
     {
@@ -916,11 +873,11 @@
         "61"
       ], 
       "housenumber": "61", 
-      "lat": 51.01670756940134, 
-      "lon": 4.480138370320938, 
+      "lat": 51.01662146680515, 
+      "lon": 4.480112387660714, 
       "municipality": "Mechelen", 
       "pcode": "2800", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Stationsstraat"
     }, 
     {
@@ -939,36 +896,15 @@
       "street": "Stationsstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "5"
-      ], 
       "hnrlbls": [
-        "8-8S"
+        "8"
       ], 
       "housenumber": "8", 
-      "lat": 51.02081915358733, 
-      "lon": 4.48576554990159, 
+      "lat": 51.020783360691176, 
+      "lon": 4.485863109970169, 
       "municipality": "Mechelen", 
       "pcode": "2800", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Stationsstraat"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "301"
-      ], 
-      "hnrlbls": [
-        "8-8S"
-      ], 
-      "housenumber": "8S", 
-      "lat": 51.02081915358733, 
-      "lon": 4.48576554990159, 
-      "municipality": "Mechelen", 
-      "pcode": "2800", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Stationsstraat"
     }, 
     {

@@ -328,6 +328,9 @@
       "street": "Watermolenstraat"
     }, 
     {
+      "busnrs": [
+        "BS02"
+      ], 
       "hnrlbls": [
         "143"
       ], 
@@ -448,6 +451,10 @@
       "street": "Watermolenstraat"
     }, 
     {
+      "busnrs": [
+        "BS01", 
+        "BS02"
+      ], 
       "hnrlbls": [
         "165"
       ], 
@@ -463,6 +470,14 @@
       "apptnrs": [
         "0.0"
       ], 
+      "busnrs": [
+        "BS01", 
+        "BS02", 
+        "BS03", 
+        "BS04", 
+        "BS05", 
+        "BS06"
+      ], 
       "hnrlbls": [
         "167"
       ], 
@@ -476,7 +491,7 @@
     }, 
     {
       "hnrlbls": [
-        "/zn-168"
+        "168"
       ], 
       "housenumber": "168", 
       "lat": 50.895566541963014, 
@@ -589,6 +604,9 @@
       "street": "Watermolenstraat"
     }, 
     {
+      "busnrs": [
+        "BS01"
+      ], 
       "hnrlbls": [
         "23"
       ], 
@@ -662,7 +680,10 @@
     }, 
     {
       "busnrs": [
-        "101"
+        "1", 
+        "101", 
+        "102", 
+        "2"
       ], 
       "hnrlbls": [
         "34"
@@ -678,6 +699,8 @@
     {
       "busnrs": [
         "102", 
+        "201", 
+        "202", 
         "203", 
         "204"
       ], 
@@ -697,41 +720,47 @@
         "101", 
         "102", 
         "201", 
+        "202", 
+        "203", 
         "204"
       ], 
       "hnrlbls": [
-        "38-40"
+        "36-48"
       ], 
       "housenumber": "38", 
-      "lat": 50.89508347737506, 
-      "lon": 4.439638171483155, 
+      "lat": 50.89526495779956, 
+      "lon": 4.439219845024081, 
       "municipality": "Machelen", 
       "pcode": "1831", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Watermolenstraat"
     }, 
     {
       "busnrs": [
         "1", 
         "101", 
-        "102"
+        "102", 
+        "2"
       ], 
       "hnrlbls": [
-        "38-40"
+        "36-48"
       ], 
       "housenumber": "40", 
-      "lat": 50.89508347737506, 
-      "lon": 4.439638171483155, 
+      "lat": 50.89526495779956, 
+      "lon": 4.439219845024081, 
       "municipality": "Machelen", 
       "pcode": "1831", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Watermolenstraat"
     }, 
     {
       "busnrs": [
         "101", 
         "102", 
-        "201"
+        "201", 
+        "202", 
+        "203", 
+        "204"
       ], 
       "hnrlbls": [
         "36-48"
@@ -746,7 +775,9 @@
     }, 
     {
       "busnrs": [
-        "101"
+        "101", 
+        "102", 
+        "201"
       ], 
       "hnrlbls": [
         "44"
@@ -761,7 +792,9 @@
     }, 
     {
       "busnrs": [
+        "101", 
         "103", 
+        "104", 
         "2"
       ], 
       "hnrlbls": [
@@ -1024,7 +1057,11 @@
     }, 
     {
       "busnrs": [
-        "89"
+        "89", 
+        "BS01", 
+        "BS02", 
+        "BS03", 
+        "BS04"
       ], 
       "hnrlbls": [
         "87-89"

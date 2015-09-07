@@ -114,23 +114,11 @@
         "104"
       ], 
       "housenumber": "104", 
-      "lat": 51.01938218764452, 
-      "lon": 4.479079028499964, 
+      "lat": 51.017945874146484, 
+      "lon": 4.4817113929720165, 
       "municipality": "Mechelen", 
       "pcode": "2800", 
-      "source": "afgeleidVanStraat", 
-      "street": "Leopoldstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "105"
-      ], 
-      "housenumber": "105", 
-      "lat": 51.01852036572069, 
-      "lon": 4.481386716948032, 
-      "municipality": "Mechelen", 
-      "pcode": "2800", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Leopoldstraat"
     }, 
     {
@@ -191,7 +179,8 @@
     }, 
     {
       "busnrs": [
-        "1"
+        "1", 
+        "2"
       ], 
       "hnrlbls": [
         "111"
@@ -209,7 +198,7 @@
         "1"
       ], 
       "hnrlbls": [
-        "113-113B"
+        "113"
       ], 
       "housenumber": "113", 
       "lat": 51.01834490698372, 
@@ -217,18 +206,6 @@
       "municipality": "Mechelen", 
       "pcode": "2800", 
       "source": "afgeleidVanGebouw", 
-      "street": "Leopoldstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "113-113B"
-      ], 
-      "housenumber": "113B", 
-      "lat": 51.01834490698372, 
-      "lon": 4.4816586364484765, 
-      "municipality": "Mechelen", 
-      "pcode": "2800", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Leopoldstraat"
     }, 
     {
@@ -371,27 +348,18 @@
       "street": "Leopoldstraat"
     }, 
     {
+      "busnrs": [
+        "A"
+      ], 
       "hnrlbls": [
         "21"
       ], 
       "housenumber": "21", 
-      "lat": 51.02017586112764, 
-      "lon": 4.477896715723318, 
+      "lat": 51.02009967393656, 
+      "lon": 4.477844397648469, 
       "municipality": "Mechelen", 
       "pcode": "2800", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Leopoldstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "21A"
-      ], 
-      "housenumber": "21A", 
-      "lat": 51.02016525673384, 
-      "lon": 4.477893840464303, 
-      "municipality": "Mechelen", 
-      "pcode": "2800", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Leopoldstraat"
     }, 
     {
@@ -718,7 +686,8 @@
     {
       "busnrs": [
         "1", 
-        "2"
+        "2", 
+        "3"
       ], 
       "hnrlbls": [
         "46"
@@ -729,21 +698,6 @@
       "municipality": "Mechelen", 
       "pcode": "2800", 
       "source": "afgeleidVanGebouw", 
-      "street": "Leopoldstraat"
-    }, 
-    {
-      "busnrs": [
-        "303"
-      ], 
-      "hnrlbls": [
-        "46K"
-      ], 
-      "housenumber": "46K", 
-      "lat": 51.01916707328962, 
-      "lon": 4.479085786909537, 
-      "municipality": "Mechelen", 
-      "pcode": "2800", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Leopoldstraat"
     }, 
     {
@@ -1075,6 +1029,7 @@
         "301", 
         "302", 
         "401", 
+        "402", 
         "501", 
         "502", 
         "601", 
@@ -1099,9 +1054,16 @@
     {
       "busnrs": [
         "1", 
-        "12", 
         "2", 
-        "8"
+        "A001", 
+        "A002", 
+        "A101", 
+        "A102", 
+        "A201", 
+        "A202", 
+        "B", 
+        "C", 
+        "D"
       ], 
       "hnrlbls": [
         "70"
@@ -1112,61 +1074,6 @@
       "municipality": "Mechelen", 
       "pcode": "2800", 
       "source": "afgeleidVanGebouw", 
-      "street": "Leopoldstraat"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "101", 
-        "102", 
-        "2", 
-        "202"
-      ], 
-      "hnrlbls": [
-        "70A-70D"
-      ], 
-      "housenumber": "70A", 
-      "lat": 51.01825047376198, 
-      "lon": 4.479451441645759, 
-      "municipality": "Mechelen", 
-      "pcode": "2800", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Leopoldstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "70A-70D"
-      ], 
-      "housenumber": "70B", 
-      "lat": 51.01825047376198, 
-      "lon": 4.479451441645759, 
-      "municipality": "Mechelen", 
-      "pcode": "2800", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Leopoldstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "70A-70D"
-      ], 
-      "housenumber": "70C", 
-      "lat": 51.01825047376198, 
-      "lon": 4.479451441645759, 
-      "municipality": "Mechelen", 
-      "pcode": "2800", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Leopoldstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "70A-70D"
-      ], 
-      "housenumber": "70D", 
-      "lat": 51.01825047376198, 
-      "lon": 4.479451441645759, 
-      "municipality": "Mechelen", 
-      "pcode": "2800", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Leopoldstraat"
     }, 
     {
@@ -1195,18 +1102,6 @@
     }, 
     {
       "hnrlbls": [
-        "74-76"
-      ], 
-      "housenumber": "74", 
-      "lat": 51.018288646800826, 
-      "lon": 4.480146429350812, 
-      "municipality": "Mechelen", 
-      "pcode": "2800", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Leopoldstraat"
-    }, 
-    {
-      "hnrlbls": [
         "75"
       ], 
       "housenumber": "75", 
@@ -1215,18 +1110,6 @@
       "municipality": "Mechelen", 
       "pcode": "2800", 
       "source": "afgeleidVanGebouw", 
-      "street": "Leopoldstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "74-76"
-      ], 
-      "housenumber": "76", 
-      "lat": 51.018288646800826, 
-      "lon": 4.480146429350812, 
-      "municipality": "Mechelen", 
-      "pcode": "2800", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Leopoldstraat"
     }, 
     {
@@ -1266,7 +1149,7 @@
         "801"
       ], 
       "hnrlbls": [
-        "78-80A"
+        "78-80"
       ], 
       "housenumber": "78", 
       "lat": 51.01832681587267, 
@@ -1290,21 +1173,6 @@
     }, 
     {
       "busnrs": [
-        "601"
-      ], 
-      "hnrlbls": [
-        "7_9"
-      ], 
-      "housenumber": "7_9", 
-      "lat": 51.02041004031699, 
-      "lon": 4.477398301821268, 
-      "municipality": "Mechelen", 
-      "pcode": "2800", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Leopoldstraat"
-    }, 
-    {
-      "busnrs": [
         "101", 
         "201", 
         "301", 
@@ -1316,7 +1184,7 @@
         "701"
       ], 
       "hnrlbls": [
-        "78-80A"
+        "78-80"
       ], 
       "housenumber": "80", 
       "lat": 51.01832681587267, 
@@ -1324,21 +1192,6 @@
       "municipality": "Mechelen", 
       "pcode": "2800", 
       "source": "afgeleidVanGebouw", 
-      "street": "Leopoldstraat"
-    }, 
-    {
-      "busnrs": [
-        "3"
-      ], 
-      "hnrlbls": [
-        "78-80A"
-      ], 
-      "housenumber": "80A", 
-      "lat": 51.01832681587267, 
-      "lon": 4.480841275675168, 
-      "municipality": "Mechelen", 
-      "pcode": "2800", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Leopoldstraat"
     }, 
     {
@@ -1383,21 +1236,6 @@
       "municipality": "Mechelen", 
       "pcode": "2800", 
       "source": "afgeleidVanGebouw", 
-      "street": "Leopoldstraat"
-    }, 
-    {
-      "busnrs": [
-        "303"
-      ], 
-      "hnrlbls": [
-        "82O"
-      ], 
-      "housenumber": "82O", 
-      "lat": 51.01821337715761, 
-      "lon": 4.480931783604756, 
-      "municipality": "Mechelen", 
-      "pcode": "2800", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Leopoldstraat"
     }, 
     {
@@ -1515,18 +1353,6 @@
       "municipality": "Mechelen", 
       "pcode": "2800", 
       "source": "afgeleidVanGebouw", 
-      "street": "Leopoldstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "90"
-      ], 
-      "housenumber": "90", 
-      "lat": 51.0181171906765, 
-      "lon": 4.481216435692864, 
-      "municipality": "Mechelen", 
-      "pcode": "2800", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Leopoldstraat"
     }, 
     {

@@ -25,6 +25,10 @@
       "street": "Pertendonckstraat"
     }, 
     {
+      "busnrs": [
+        "12", 
+        "22"
+      ], 
       "hnrlbls": [
         "11"
       ], 
@@ -58,6 +62,22 @@
       "municipality": "Ranst", 
       "pcode": "2520", 
       "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "street": "Pertendonckstraat"
+    }, 
+    {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
+      "hnrlbls": [
+        "9-13"
+      ], 
+      "housenumber": "13", 
+      "lat": 51.1815403402581, 
+      "lon": 4.599797044253631, 
+      "municipality": "Ranst", 
+      "pcode": "2520", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Pertendonckstraat"
     }, 
     {
@@ -149,7 +169,19 @@
     }, 
     {
       "hnrlbls": [
-        "1C"
+        "1A-1C"
+      ], 
+      "housenumber": "1A", 
+      "lat": 51.181523233962174, 
+      "lon": 4.6005889637705515, 
+      "municipality": "Ranst", 
+      "pcode": "2520", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "street": "Pertendonckstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "1A-1C"
       ], 
       "housenumber": "1C", 
       "lat": 51.181523233962174, 
@@ -297,6 +329,7 @@
     {
       "busnrs": [
         "1", 
+        "11", 
         "12", 
         "2", 
         "22", 
@@ -474,6 +507,10 @@
       "street": "Pertendonckstraat"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "11"
+      ], 
       "hnrlbls": [
         "41"
       ], 
@@ -900,15 +937,18 @@
       "street": "Pertendonckstraat"
     }, 
     {
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
-        "9"
+        "9-13"
       ], 
       "housenumber": "9", 
-      "lat": 51.1816702258751, 
-      "lon": 4.597216158608198, 
+      "lat": 51.1815403402581, 
+      "lon": 4.599797044253631, 
       "municipality": "Ranst", 
       "pcode": "2520", 
-      "source": "geinterpoleerdObvWegverbinding", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Pertendonckstraat"
     }
   ]

@@ -46,6 +46,7 @@
       "busnrs": [
         "1", 
         "10", 
+        "2", 
         "4", 
         "7", 
         "8"
@@ -603,17 +604,20 @@
     {
       "busnrs": [
         "1", 
+        "10", 
         "11", 
         "12", 
         "13", 
         "14", 
         "15", 
+        "16", 
         "2", 
         "3", 
         "4", 
         "5", 
         "6", 
         "7", 
+        "8", 
         "9"
       ], 
       "hnrlbls": [
@@ -962,7 +966,9 @@
     {
       "busnrs": [
         "1", 
-        "2"
+        "2", 
+        "3", 
+        "4"
       ], 
       "hnrlbls": [
         "69"
@@ -1033,6 +1039,18 @@
       "municipality": "Antwerpen", 
       "pcode": "2060", 
       "source": "afgeleidVanGebouw", 
+      "street": "Van Maerlantstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "73"
+      ], 
+      "housenumber": "73", 
+      "lat": 51.2222844698669, 
+      "lon": 4.418241459565223, 
+      "municipality": "Antwerpen", 
+      "pcode": "2060", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Van Maerlantstraat"
     }, 
     {
@@ -1118,7 +1136,7 @@
         "22"
       ], 
       "hnrlbls": [
-        "80-80_3"
+        "80"
       ], 
       "housenumber": "80", 
       "lat": 51.22170338597068, 
@@ -1129,33 +1147,27 @@
       "street": "Van Maerlantstraat"
     }, 
     {
-      "busnrs": [
-        "A"
-      ], 
       "hnrlbls": [
-        "80-80_3"
+        "80_1-80_3"
       ], 
       "housenumber": "80_1", 
-      "lat": 51.22170338597068, 
-      "lon": 4.417993353245454, 
+      "lat": 51.22170364995199, 
+      "lon": 4.418000394353416, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Van Maerlantstraat"
     }, 
     {
-      "busnrs": [
-        "L"
-      ], 
       "hnrlbls": [
-        "80-80_3"
+        "80_1-80_3"
       ], 
       "housenumber": "80_3", 
-      "lat": 51.22170338597068, 
-      "lon": 4.417993353245454, 
+      "lat": 51.22170364995199, 
+      "lon": 4.418000394353416, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Van Maerlantstraat"
     }, 
     {

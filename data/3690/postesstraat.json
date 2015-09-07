@@ -17,7 +17,8 @@
         "00.1"
       ], 
       "busnrs": [
-        "0"
+        "0", 
+        "01"
       ], 
       "hnrlbls": [
         "2-16"
@@ -36,6 +37,7 @@
       ], 
       "busnrs": [
         "1", 
+        "11", 
         "2"
       ], 
       "hnrlbls": [
@@ -69,6 +71,8 @@
       ], 
       "busnrs": [
         "1", 
+        "12", 
+        "14", 
         "2", 
         "3", 
         "4", 
@@ -105,6 +109,7 @@
       ], 
       "busnrs": [
         "1", 
+        "11", 
         "2"
       ], 
       "hnrlbls": [
@@ -394,7 +399,9 @@
       ], 
       "busnrs": [
         "1", 
+        "11", 
         "2", 
+        "21", 
         "3", 
         "4", 
         "5"
@@ -445,6 +452,18 @@
       "municipality": "Zutendaal", 
       "pcode": "3690", 
       "source": "afgeleidVanGebouw", 
+      "street": "Postesstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "9"
+      ], 
+      "housenumber": "9", 
+      "lat": 50.951825191189876, 
+      "lon": 5.5609482514669235, 
+      "municipality": "Zutendaal", 
+      "pcode": "3690", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Postesstraat"
     }
   ]

@@ -44,23 +44,11 @@
     }, 
     {
       "hnrlbls": [
-        "101"
-      ], 
-      "housenumber": "101", 
-      "lat": 51.13905837885536, 
-      "lon": 4.838412623683253, 
-      "municipality": "Herentals", 
-      "pcode": "2200", 
-      "source": "afgeleidVanStraat", 
-      "street": "Ring"
-    }, 
-    {
-      "hnrlbls": [
         "102"
       ], 
       "housenumber": "102", 
-      "lat": 51.136407339420174, 
-      "lon": 4.835732995167338, 
+      "lat": 51.136394156289974, 
+      "lon": 4.835762193446165, 
       "municipality": "Herentals", 
       "pcode": "2200", 
       "source": "manueleAanduidingVanGebouw", 
@@ -68,14 +56,42 @@
     }, 
     {
       "hnrlbls": [
-        "104"
+        "104A"
       ], 
-      "housenumber": "104", 
-      "lat": 51.13631742302427, 
-      "lon": 4.835581217429476, 
+      "housenumber": "104A", 
+      "lat": 51.13627510970477, 
+      "lon": 4.835532726104018, 
       "municipality": "Herentals", 
       "pcode": "2200", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Ring"
+    }, 
+    {
+      "hnrlbls": [
+        "104B"
+      ], 
+      "housenumber": "104B", 
+      "lat": 51.13625484011203, 
+      "lon": 4.835693745164012, 
+      "municipality": "Herentals", 
+      "pcode": "2200", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Ring"
+    }, 
+    {
+      "busnrs": [
+        "101", 
+        "201"
+      ], 
+      "hnrlbls": [
+        "104C"
+      ], 
+      "housenumber": "104C", 
+      "lat": 51.13628192944066, 
+      "lon": 4.835717219511504, 
+      "municipality": "Herentals", 
+      "pcode": "2200", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Ring"
     }, 
     {
@@ -155,23 +171,11 @@
         "14"
       ], 
       "housenumber": "14", 
-      "lat": 51.14080585880714, 
-      "lon": 4.839639357646898, 
+      "lat": 51.14072297485379, 
+      "lon": 4.839753547279621, 
       "municipality": "Herentals", 
       "pcode": "2200", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Ring"
-    }, 
-    {
-      "hnrlbls": [
-        "16"
-      ], 
-      "housenumber": "16", 
-      "lat": 51.14068096239061, 
-      "lon": 4.83958222674958, 
-      "municipality": "Herentals", 
-      "pcode": "2200", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Ring"
     }, 
     {
@@ -303,11 +307,11 @@
         "27"
       ], 
       "housenumber": "27", 
-      "lat": 51.13984778625344, 
-      "lon": 4.839762284462166, 
+      "lat": 51.13996572962575, 
+      "lon": 4.839624874482942, 
       "municipality": "Herentals", 
       "pcode": "2200", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Ring"
     }, 
     {
@@ -315,11 +319,11 @@
         "29"
       ], 
       "housenumber": "29", 
-      "lat": 51.139771002388834, 
-      "lon": 4.839474591822001, 
+      "lat": 51.13985778002455, 
+      "lon": 4.839555770296276, 
       "municipality": "Herentals", 
       "pcode": "2200", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Ring"
     }, 
     {
@@ -372,6 +376,7 @@
         "104", 
         "105", 
         "106", 
+        "107", 
         "108", 
         "201", 
         "202", 
@@ -585,20 +590,15 @@
       "street": "Ring"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "1A", 
-        "A"
-      ], 
       "hnrlbls": [
-        "49-49_1"
+        "49"
       ], 
       "housenumber": "49", 
-      "lat": 51.13860529894941, 
-      "lon": 4.838535942181334, 
+      "lat": 51.138533312517524, 
+      "lon": 4.838983156198716, 
       "municipality": "Herentals", 
       "pcode": "2200", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Ring"
     }, 
     {
@@ -607,14 +607,14 @@
         "B"
       ], 
       "hnrlbls": [
-        "49-49_1"
+        "49_1"
       ], 
       "housenumber": "49_1", 
-      "lat": 51.13860529894941, 
-      "lon": 4.838535942181334, 
+      "lat": 51.138646425336184, 
+      "lon": 4.838366182019906, 
       "municipality": "Herentals", 
       "pcode": "2200", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Ring"
     }, 
     {
@@ -630,11 +630,11 @@
         "5"
       ], 
       "housenumber": "5", 
-      "lat": 51.140977046486746, 
-      "lon": 4.841201596076898, 
+      "lat": 51.14123693304907, 
+      "lon": 4.840427805626956, 
       "municipality": "Herentals", 
       "pcode": "2200", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Ring"
     }, 
     {
@@ -698,70 +698,17 @@
       "street": "Ring"
     }, 
     {
+      "busnrs": [
+        "A", 
+        "B", 
+        "C", 
+        "D", 
+        "E"
+      ], 
       "hnrlbls": [
-        "55-55E"
+        "55"
       ], 
       "housenumber": "55", 
-      "lat": 51.13840268809041, 
-      "lon": 4.838220702242838, 
-      "municipality": "Herentals", 
-      "pcode": "2200", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Ring"
-    }, 
-    {
-      "hnrlbls": [
-        "55-55E"
-      ], 
-      "housenumber": "55A", 
-      "lat": 51.13840268809041, 
-      "lon": 4.838220702242838, 
-      "municipality": "Herentals", 
-      "pcode": "2200", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Ring"
-    }, 
-    {
-      "hnrlbls": [
-        "55-55E"
-      ], 
-      "housenumber": "55B", 
-      "lat": 51.13840268809041, 
-      "lon": 4.838220702242838, 
-      "municipality": "Herentals", 
-      "pcode": "2200", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Ring"
-    }, 
-    {
-      "hnrlbls": [
-        "55-55E"
-      ], 
-      "housenumber": "55C", 
-      "lat": 51.13840268809041, 
-      "lon": 4.838220702242838, 
-      "municipality": "Herentals", 
-      "pcode": "2200", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Ring"
-    }, 
-    {
-      "hnrlbls": [
-        "55-55E"
-      ], 
-      "housenumber": "55D", 
-      "lat": 51.13840268809041, 
-      "lon": 4.838220702242838, 
-      "municipality": "Herentals", 
-      "pcode": "2200", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Ring"
-    }, 
-    {
-      "hnrlbls": [
-        "55-55E"
-      ], 
-      "housenumber": "55E", 
       "lat": 51.13840268809041, 
       "lon": 4.838220702242838, 
       "municipality": "Herentals", 
@@ -869,18 +816,15 @@
       "street": "Ring"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
         "63"
       ], 
       "housenumber": "63", 
-      "lat": 51.13740185092552, 
-      "lon": 4.837389784366517, 
+      "lat": 51.13747676715498, 
+      "lon": 4.837289520888493, 
       "municipality": "Herentals", 
       "pcode": "2200", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Ring"
     }, 
     {
@@ -900,11 +844,11 @@
         "65"
       ], 
       "housenumber": "65", 
-      "lat": 51.1372974929031, 
-      "lon": 4.837208279084541, 
+      "lat": 51.13740210417369, 
+      "lon": 4.837213044603153, 
       "municipality": "Herentals", 
       "pcode": "2200", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Ring"
     }, 
     {
@@ -921,77 +865,33 @@
     }, 
     {
       "busnrs": [
-        "1"
+        "A", 
+        "B", 
+        "C", 
+        "D", 
+        "E"
       ], 
       "hnrlbls": [
-        "67-67E"
+        "67"
       ], 
       "housenumber": "67", 
-      "lat": 51.13721420829419, 
-      "lon": 4.837129859218025, 
+      "lat": 51.137278858092216, 
+      "lon": 4.83710221828149, 
       "municipality": "Herentals", 
       "pcode": "2200", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Ring"
     }, 
     {
       "hnrlbls": [
-        "67-67E"
+        "67_1"
       ], 
-      "housenumber": "67A", 
-      "lat": 51.13721420829419, 
-      "lon": 4.837129859218025, 
+      "housenumber": "67_1", 
+      "lat": 51.13719945284172, 
+      "lon": 4.8370428405122015, 
       "municipality": "Herentals", 
       "pcode": "2200", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Ring"
-    }, 
-    {
-      "hnrlbls": [
-        "67-67E"
-      ], 
-      "housenumber": "67B", 
-      "lat": 51.13721420829419, 
-      "lon": 4.837129859218025, 
-      "municipality": "Herentals", 
-      "pcode": "2200", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Ring"
-    }, 
-    {
-      "hnrlbls": [
-        "67-67E"
-      ], 
-      "housenumber": "67C", 
-      "lat": 51.13721420829419, 
-      "lon": 4.837129859218025, 
-      "municipality": "Herentals", 
-      "pcode": "2200", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Ring"
-    }, 
-    {
-      "hnrlbls": [
-        "67-67E"
-      ], 
-      "housenumber": "67D", 
-      "lat": 51.13721420829419, 
-      "lon": 4.837129859218025, 
-      "municipality": "Herentals", 
-      "pcode": "2200", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Ring"
-    }, 
-    {
-      "hnrlbls": [
-        "67-67E"
-      ], 
-      "housenumber": "67E", 
-      "lat": 51.13721420829419, 
-      "lon": 4.837129859218025, 
-      "municipality": "Herentals", 
-      "pcode": "2200", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Ring"
     }, 
     {
@@ -1008,29 +908,29 @@
     }, 
     {
       "busnrs": [
-        "1"
+        "A"
       ], 
       "hnrlbls": [
-        "69-69A"
+        "69"
       ], 
       "housenumber": "69", 
-      "lat": 51.137026896298245, 
-      "lon": 4.836944950769791, 
+      "lat": 51.13708041810497, 
+      "lon": 4.836927242369773, 
       "municipality": "Herentals", 
       "pcode": "2200", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Ring"
     }, 
     {
       "hnrlbls": [
-        "69-69A"
+        "69_1"
       ], 
-      "housenumber": "69A", 
-      "lat": 51.137026896298245, 
-      "lon": 4.836944950769791, 
+      "housenumber": "69_1", 
+      "lat": 51.137006396585825, 
+      "lon": 4.836855731646139, 
       "municipality": "Herentals", 
       "pcode": "2200", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Ring"
     }, 
     {
@@ -1050,11 +950,11 @@
         "70"
       ], 
       "housenumber": "70", 
-      "lat": 51.13783002952793, 
-      "lon": 4.836972730028272, 
+      "lat": 51.1378814820493, 
+      "lon": 4.83711495509657, 
       "municipality": "Herentals", 
       "pcode": "2200", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Ring"
     }, 
     {
@@ -1074,11 +974,11 @@
         "72"
       ], 
       "housenumber": "72", 
-      "lat": 51.13799667814005, 
-      "lon": 4.836521182453435, 
+      "lat": 51.13782284636738, 
+      "lon": 4.8369863446079595, 
       "municipality": "Herentals", 
       "pcode": "2200", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Ring"
     }, 
     {
@@ -1146,31 +1046,30 @@
         "79"
       ], 
       "housenumber": "79", 
-      "lat": 51.135792833141714, 
-      "lon": 4.836442789030174, 
+      "lat": 51.13583508050658, 
+      "lon": 4.836148318645375, 
       "municipality": "Herentals", 
       "pcode": "2200", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Ring"
     }, 
     {
       "busnrs": [
+        "001", 
+        "002", 
         "101", 
         "102", 
-        "1A", 
-        "1B", 
-        "2", 
         "201"
       ], 
       "hnrlbls": [
         "8"
       ], 
       "housenumber": "8", 
-      "lat": 51.14107976276947, 
-      "lon": 4.839680846508755, 
+      "lat": 51.141037634432934, 
+      "lon": 4.839920906601195, 
       "municipality": "Herentals", 
       "pcode": "2200", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Ring"
     }, 
     {
@@ -1190,11 +1089,11 @@
         "81"
       ], 
       "housenumber": "81", 
-      "lat": 51.1357494274958, 
-      "lon": 4.8361456030082595, 
+      "lat": 51.13599522570869, 
+      "lon": 4.835930752367953, 
       "municipality": "Herentals", 
       "pcode": "2200", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Ring"
     }, 
     {
@@ -1271,31 +1170,7 @@
     }, 
     {
       "hnrlbls": [
-        "1-303"
-      ], 
-      "housenumber": "8A", 
-      "lat": 51.16381805311167, 
-      "lon": 4.827613648188575, 
-      "municipality": "Herentals", 
-      "pcode": "2200", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Ring"
-    }, 
-    {
-      "hnrlbls": [
-        "8B"
-      ], 
-      "housenumber": "8B", 
-      "lat": 51.14104878543971, 
-      "lon": 4.83987472257243, 
-      "municipality": "Herentals", 
-      "pcode": "2200", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Ring"
-    }, 
-    {
-      "hnrlbls": [
-        "9-9A"
+        "9"
       ], 
       "housenumber": "9", 
       "lat": 51.14062896281103, 
@@ -1351,18 +1226,6 @@
       "municipality": "Herentals", 
       "pcode": "2200", 
       "source": "afgeleidVanGebouw", 
-      "street": "Ring"
-    }, 
-    {
-      "hnrlbls": [
-        "9-9A"
-      ], 
-      "housenumber": "9A", 
-      "lat": 51.14062896281103, 
-      "lon": 4.840761827867751, 
-      "municipality": "Herentals", 
-      "pcode": "2200", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
       "street": "Ring"
     }
   ]

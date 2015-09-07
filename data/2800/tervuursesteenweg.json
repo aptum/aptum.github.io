@@ -44,11 +44,11 @@
         "101"
       ], 
       "housenumber": "101", 
-      "lat": 51.01152074730322, 
-      "lon": 4.483803280156994, 
+      "lat": 51.01150141535191, 
+      "lon": 4.483708639875826, 
       "municipality": "Mechelen", 
       "pcode": "2800", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Tervuursesteenweg"
     }, 
     {
@@ -489,14 +489,14 @@
     }, 
     {
       "hnrlbls": [
-        "136-140"
+        "136"
       ], 
       "housenumber": "136", 
-      "lat": 51.00998303356862, 
-      "lon": 4.484393230106296, 
+      "lat": 51.01005883297031, 
+      "lon": 4.484277318874109, 
       "municipality": "Mechelen", 
       "pcode": "2800", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Tervuursesteenweg"
     }, 
     {
@@ -513,14 +513,14 @@
     }, 
     {
       "hnrlbls": [
-        "136-140"
+        "138"
       ], 
       "housenumber": "138", 
-      "lat": 51.00998303356862, 
-      "lon": 4.484393230106296, 
+      "lat": 51.01008260791817, 
+      "lon": 4.484415022287195, 
       "municipality": "Mechelen", 
       "pcode": "2800", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Tervuursesteenweg"
     }, 
     {
@@ -540,8 +540,8 @@
         "14"
       ], 
       "housenumber": "14", 
-      "lat": 51.013219136247415, 
-      "lon": 4.4827073882130435, 
+      "lat": 51.01341018082824, 
+      "lon": 4.4833157818326885, 
       "municipality": "Mechelen", 
       "pcode": "2800", 
       "source": "manueleAanduidingVanIngangVanGebouw", 
@@ -549,14 +549,14 @@
     }, 
     {
       "hnrlbls": [
-        "136-140"
+        "140"
       ], 
       "housenumber": "140", 
-      "lat": 51.00998303356862, 
-      "lon": 4.484393230106296, 
+      "lat": 51.01002597083096, 
+      "lon": 4.484420866137629, 
       "municipality": "Mechelen", 
       "pcode": "2800", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Tervuursesteenweg"
     }, 
     {
@@ -744,7 +744,7 @@
         "1"
       ], 
       "hnrlbls": [
-        "156-156B"
+        "156"
       ], 
       "housenumber": "156", 
       "lat": 51.00958584375395, 
@@ -756,14 +756,14 @@
     }, 
     {
       "hnrlbls": [
-        "156-156B"
+        "156B"
       ], 
       "housenumber": "156B", 
-      "lat": 51.00958584375395, 
-      "lon": 4.484627775148596, 
+      "lat": 51.009569019728175, 
+      "lon": 4.484547399850677, 
       "municipality": "Mechelen", 
       "pcode": "2800", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Tervuursesteenweg"
     }, 
     {
@@ -976,15 +976,21 @@
       "street": "Tervuursesteenweg"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "101", 
+        "102", 
+        "2"
+      ], 
       "hnrlbls": [
-        "172-174"
+        "172"
       ], 
       "housenumber": "172", 
-      "lat": 51.008895204306825, 
-      "lon": 4.484817556607265, 
+      "lat": 51.00894257957731, 
+      "lon": 4.484806013584236, 
       "municipality": "Mechelen", 
       "pcode": "2800", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Tervuursesteenweg"
     }, 
     {
@@ -1001,17 +1007,18 @@
     }, 
     {
       "busnrs": [
-        "101"
+        "101", 
+        "102"
       ], 
       "hnrlbls": [
-        "172-174"
+        "174"
       ], 
       "housenumber": "174", 
-      "lat": 51.008895204306825, 
-      "lon": 4.484817556607265, 
+      "lat": 51.00888843168525, 
+      "lon": 4.484839790166948, 
       "municipality": "Mechelen", 
       "pcode": "2800", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Tervuursesteenweg"
     }, 
     {
@@ -1100,7 +1107,7 @@
     }, 
     {
       "hnrlbls": [
-        "181-181K"
+        "181"
       ], 
       "housenumber": "181", 
       "lat": 51.00996617286173, 
@@ -1108,26 +1115,6 @@
       "municipality": "Mechelen", 
       "pcode": "2800", 
       "source": "afgeleidVanGebouw", 
-      "street": "Tervuursesteenweg"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "101", 
-        "102", 
-        "103", 
-        "2", 
-        "3"
-      ], 
-      "hnrlbls": [
-        "181-181K"
-      ], 
-      "housenumber": "181K", 
-      "lat": 51.00996617286173, 
-      "lon": 4.484898594649076, 
-      "municipality": "Mechelen", 
-      "pcode": "2800", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Tervuursesteenweg"
     }, 
     {
@@ -1224,18 +1211,6 @@
       "municipality": "Mechelen", 
       "pcode": "2800", 
       "source": "afgeleidVanGebouw", 
-      "street": "Tervuursesteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "18-18B"
-      ], 
-      "housenumber": "18B", 
-      "lat": 51.01287411446035, 
-      "lon": 4.483281664455127, 
-      "municipality": "Mechelen", 
-      "pcode": "2800", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Tervuursesteenweg"
     }, 
     {
@@ -1364,14 +1339,14 @@
     }, 
     {
       "hnrlbls": [
-        "2-3"
+        "2"
       ], 
       "housenumber": "2", 
-      "lat": 51.01374821598442, 
-      "lon": 4.483277117192535, 
+      "lat": 51.01371070773119, 
+      "lon": 4.483110465027119, 
       "municipality": "Mechelen", 
       "pcode": "2800", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Tervuursesteenweg"
     }, 
     {
@@ -1661,8 +1636,8 @@
         "224"
       ], 
       "housenumber": "224", 
-      "lat": 51.00755887544704, 
-      "lon": 4.484919804443743, 
+      "lat": 51.00755609152513, 
+      "lon": 4.484917090358386, 
       "municipality": "Mechelen", 
       "pcode": "2800", 
       "source": "afgeleidVanPerceelGrb", 
@@ -1681,18 +1656,6 @@
       "municipality": "Mechelen", 
       "pcode": "2800", 
       "source": "afgeleidVanGebouw", 
-      "street": "Tervuursesteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "227"
-      ], 
-      "housenumber": "227", 
-      "lat": 51.00862726425337, 
-      "lon": 4.485335389314692, 
-      "municipality": "Mechelen", 
-      "pcode": "2800", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Tervuursesteenweg"
     }, 
     {
@@ -1805,18 +1768,6 @@
       "municipality": "Mechelen", 
       "pcode": "2800", 
       "source": "afgeleidVanGebouw", 
-      "street": "Tervuursesteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "21-23A"
-      ], 
-      "housenumber": "23A", 
-      "lat": 51.01331066502047, 
-      "lon": 4.483697836717913, 
-      "municipality": "Mechelen", 
-      "pcode": "2800", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Tervuursesteenweg"
     }, 
     {
@@ -1985,18 +1936,6 @@
     }, 
     {
       "hnrlbls": [
-        "254-256"
-      ], 
-      "housenumber": "254", 
-      "lat": 51.00708679543423, 
-      "lon": 4.485434830627848, 
-      "municipality": "Mechelen", 
-      "pcode": "2800", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Tervuursesteenweg"
-    }, 
-    {
-      "hnrlbls": [
         "255"
       ], 
       "housenumber": "255", 
@@ -2005,18 +1944,6 @@
       "municipality": "Mechelen", 
       "pcode": "2800", 
       "source": "afgeleidVanGebouw", 
-      "street": "Tervuursesteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "254-256"
-      ], 
-      "housenumber": "256", 
-      "lat": 51.00708679543423, 
-      "lon": 4.485434830627848, 
-      "municipality": "Mechelen", 
-      "pcode": "2800", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Tervuursesteenweg"
     }, 
     {
@@ -2315,7 +2242,7 @@
     }, 
     {
       "hnrlbls": [
-        "279-279K"
+        "279"
       ], 
       "housenumber": "279", 
       "lat": 51.00650888215041, 
@@ -2323,21 +2250,6 @@
       "municipality": "Mechelen", 
       "pcode": "2800", 
       "source": "afgeleidVanGebouw", 
-      "street": "Tervuursesteenweg"
-    }, 
-    {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "279-279K"
-      ], 
-      "housenumber": "279K", 
-      "lat": 51.00650888215041, 
-      "lon": 4.486158452717432, 
-      "municipality": "Mechelen", 
-      "pcode": "2800", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Tervuursesteenweg"
     }, 
     {
@@ -2590,42 +2502,6 @@
     }, 
     {
       "hnrlbls": [
-        "2-3"
-      ], 
-      "housenumber": "2A", 
-      "lat": 51.01374821598442, 
-      "lon": 4.483277117192535, 
-      "municipality": "Mechelen", 
-      "pcode": "2800", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Tervuursesteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "2-3"
-      ], 
-      "housenumber": "2B", 
-      "lat": 51.01374821598442, 
-      "lon": 4.483277117192535, 
-      "municipality": "Mechelen", 
-      "pcode": "2800", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Tervuursesteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "2-3"
-      ], 
-      "housenumber": "2c", 
-      "lat": 51.01374821598442, 
-      "lon": 4.483277117192535, 
-      "municipality": "Mechelen", 
-      "pcode": "2800", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Tervuursesteenweg"
-    }, 
-    {
-      "hnrlbls": [
         "30"
       ], 
       "housenumber": "30", 
@@ -2730,7 +2606,7 @@
         "1"
       ], 
       "hnrlbls": [
-        "307-307S"
+        "307"
       ], 
       "housenumber": "307", 
       "lat": 51.005766608400045, 
@@ -2738,21 +2614,6 @@
       "municipality": "Mechelen", 
       "pcode": "2800", 
       "source": "afgeleidVanGebouw", 
-      "street": "Tervuursesteenweg"
-    }, 
-    {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "307-307S"
-      ], 
-      "housenumber": "307S", 
-      "lat": 51.005766608400045, 
-      "lon": 4.486738879485389, 
-      "municipality": "Mechelen", 
-      "pcode": "2800", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Tervuursesteenweg"
     }, 
     {
@@ -2884,11 +2745,11 @@
         "317"
       ], 
       "housenumber": "317", 
-      "lat": 51.005498401724566, 
-      "lon": 4.486354087887238, 
+      "lat": 51.00550038596218, 
+      "lon": 4.486428202674645, 
       "municipality": "Mechelen", 
       "pcode": "2800", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Tervuursesteenweg"
     }, 
     {
@@ -3481,7 +3342,7 @@
     }, 
     {
       "hnrlbls": [
-        "4-4K"
+        "2A-4"
       ], 
       "housenumber": "4", 
       "lat": 51.013658466729254, 
@@ -3541,18 +3402,6 @@
       "municipality": "Mechelen", 
       "pcode": "2800", 
       "source": "afgeleidVanGebouw", 
-      "street": "Tervuursesteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "404BIS"
-      ], 
-      "housenumber": "404BIS", 
-      "lat": 51.00079709933943, 
-      "lon": 4.487248266956796, 
-      "municipality": "Mechelen", 
-      "pcode": "2800", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Tervuursesteenweg"
     }, 
     {
@@ -3911,8 +3760,8 @@
         "456"
       ], 
       "housenumber": "456", 
-      "lat": 50.99866548653623, 
-      "lon": 4.488069078131298, 
+      "lat": 50.99868364638546, 
+      "lon": 4.488067272740729, 
       "municipality": "Mechelen", 
       "pcode": "2800", 
       "source": "afgeleidVanPerceelGrb", 
@@ -3923,8 +3772,8 @@
         "458"
       ], 
       "housenumber": "458", 
-      "lat": 50.998610007290594, 
-      "lon": 4.488085175775888, 
+      "lat": 50.99861873106651, 
+      "lon": 4.488080924505555, 
       "municipality": "Mechelen", 
       "pcode": "2800", 
       "source": "afgeleidVanPerceelGrb", 
@@ -3947,8 +3796,8 @@
         "468"
       ], 
       "housenumber": "468", 
-      "lat": 50.9978893443754, 
-      "lon": 4.487649279389657, 
+      "lat": 50.99788998215331, 
+      "lon": 4.487640876367051, 
       "municipality": "Mechelen", 
       "pcode": "2800", 
       "source": "afgeleidVanPerceelGrb", 
@@ -4112,59 +3961,6 @@
       "street": "Tervuursesteenweg"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "10", 
-        "101", 
-        "102", 
-        "103", 
-        "104", 
-        "105", 
-        "106", 
-        "107", 
-        "108", 
-        "109", 
-        "110", 
-        "111", 
-        "2", 
-        "201", 
-        "202", 
-        "203", 
-        "204", 
-        "205", 
-        "206", 
-        "207", 
-        "208", 
-        "209", 
-        "210", 
-        "211", 
-        "3", 
-        "301", 
-        "302", 
-        "303", 
-        "304", 
-        "305", 
-        "306", 
-        "307", 
-        "308", 
-        "4", 
-        "5", 
-        "7", 
-        "8", 
-        "9"
-      ], 
-      "hnrlbls": [
-        "4-4K"
-      ], 
-      "housenumber": "4K", 
-      "lat": 51.013658466729254, 
-      "lon": 4.483132544283657, 
-      "municipality": "Mechelen", 
-      "pcode": "2800", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Tervuursesteenweg"
-    }, 
-    {
       "hnrlbls": [
         "50"
       ], 
@@ -4218,6 +4014,7 @@
     }, 
     {
       "busnrs": [
+        "1", 
         "101", 
         "102", 
         "2", 
@@ -4308,11 +4105,11 @@
         "63"
       ], 
       "housenumber": "63", 
-      "lat": 51.01227042326553, 
-      "lon": 4.483816247243896, 
+      "lat": 51.012238931433835, 
+      "lon": 4.483745230391444, 
       "municipality": "Mechelen", 
       "pcode": "2800", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Tervuursesteenweg"
     }, 
     {
@@ -4325,18 +4122,6 @@
       "municipality": "Mechelen", 
       "pcode": "2800", 
       "source": "afgeleidVanGebouw", 
-      "street": "Tervuursesteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "649"
-      ], 
-      "housenumber": "649", 
-      "lat": 51.0056622607046, 
-      "lon": 4.485918242181874, 
-      "municipality": "Mechelen", 
-      "pcode": "2800", 
-      "source": "afgeleidVanStraat", 
       "street": "Tervuursesteenweg"
     }, 
     {
@@ -4588,7 +4373,7 @@
     }, 
     {
       "hnrlbls": [
-        "85-85K"
+        "85"
       ], 
       "housenumber": "85", 
       "lat": 51.01181522809077, 
@@ -4596,31 +4381,6 @@
       "municipality": "Mechelen", 
       "pcode": "2800", 
       "source": "afgeleidVanGebouw", 
-      "street": "Tervuursesteenweg"
-    }, 
-    {
-      "busnrs": [
-        "101", 
-        "102", 
-        "103", 
-        "104", 
-        "201", 
-        "202", 
-        "203", 
-        "204", 
-        "301", 
-        "302", 
-        "303"
-      ], 
-      "hnrlbls": [
-        "85-85K"
-      ], 
-      "housenumber": "85K", 
-      "lat": 51.01181522809077, 
-      "lon": 4.483804577785878, 
-      "municipality": "Mechelen", 
-      "pcode": "2800", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Tervuursesteenweg"
     }, 
     {
@@ -4640,11 +4400,11 @@
         "87"
       ], 
       "housenumber": "87", 
-      "lat": 51.01178709838386, 
-      "lon": 4.483798381037504, 
+      "lat": 51.01179730687947, 
+      "lon": 4.4837469936759256, 
       "municipality": "Mechelen", 
       "pcode": "2800", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Tervuursesteenweg"
     }, 
     {
@@ -4684,8 +4444,8 @@
         "9"
       ], 
       "housenumber": "9", 
-      "lat": 51.01360535252893, 
-      "lon": 4.483478995109668, 
+      "lat": 51.01360599570671, 
+      "lon": 4.483478146326013, 
       "municipality": "Mechelen", 
       "pcode": "2800", 
       "source": "manueleAanduidingVanPerceel", 

@@ -5,6 +5,7 @@
         "1", 
         "2", 
         "3", 
+        "302", 
         "401", 
         "5", 
         "6", 
@@ -38,11 +39,11 @@
         "100"
       ], 
       "housenumber": "100", 
-      "lat": 51.21875747358409, 
-      "lon": 2.9325427467276985, 
+      "lat": 51.2187521085306, 
+      "lon": 2.9326117684936404, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Gouwelozestraat"
     }, 
     {
@@ -58,6 +59,9 @@
       "street": "Gouwelozestraat"
     }, 
     {
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "13-14"
       ], 
@@ -74,6 +78,7 @@
         "1", 
         "101", 
         "201", 
+        "3", 
         "4"
       ], 
       "hnrlbls": [
@@ -515,7 +520,9 @@
         "10", 
         "11", 
         "12", 
+        "1B", 
         "201", 
+        "2B", 
         "3", 
         "6", 
         "7", 
@@ -523,44 +530,14 @@
         "9"
       ], 
       "hnrlbls": [
-        "46-46_2"
+        "46"
       ], 
       "housenumber": "46", 
-      "lat": 51.218108700839636, 
-      "lon": 2.9293439697717094, 
+      "lat": 51.218155913950575, 
+      "lon": 2.929492964892781, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Gouwelozestraat"
-    }, 
-    {
-      "busnrs": [
-        "B"
-      ], 
-      "hnrlbls": [
-        "46-46_2"
-      ], 
-      "housenumber": "46_1", 
-      "lat": 51.218108700839636, 
-      "lon": 2.9293439697717094, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Gouwelozestraat"
-    }, 
-    {
-      "busnrs": [
-        "B"
-      ], 
-      "hnrlbls": [
-        "46-46_2"
-      ], 
-      "housenumber": "46_2", 
-      "lat": 51.218108700839636, 
-      "lon": 2.9293439697717094, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Gouwelozestraat"
     }, 
     {
@@ -571,11 +548,11 @@
         "47"
       ], 
       "housenumber": "47", 
-      "lat": 51.21809308911924, 
-      "lon": 2.929523819795737, 
+      "lat": 51.218155824083475, 
+      "lon": 2.9294929676655292, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Gouwelozestraat"
     }, 
     {
@@ -722,8 +699,8 @@
         "56A"
       ], 
       "housenumber": "56A", 
-      "lat": 51.21836127015142, 
-      "lon": 2.9304481799732076, 
+      "lat": 51.21846326124945, 
+      "lon": 2.9304517633732576, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanPerceelGrb", 
@@ -762,14 +739,14 @@
     }, 
     {
       "hnrlbls": [
-        "58-63"
+        "58"
       ], 
       "housenumber": "58", 
-      "lat": 51.218014948135846, 
-      "lon": 2.9308602530251306, 
+      "lat": 51.21805422423381, 
+      "lon": 2.9309111492868327, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
       "street": "Gouwelozestraat"
     }, 
     {
@@ -789,17 +766,18 @@
     }, 
     {
       "busnrs": [
-        "1"
+        "1", 
+        "2"
       ], 
       "hnrlbls": [
-        "58-63"
+        "63"
       ], 
       "housenumber": "63", 
-      "lat": 51.218014948135846, 
-      "lon": 2.9308602530251306, 
+      "lat": 51.21805599150673, 
+      "lon": 2.931256231623903, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Gouwelozestraat"
     }, 
     {
@@ -932,7 +910,9 @@
         "19", 
         "2", 
         "20", 
+        "201", 
         "21", 
+        "2C", 
         "3", 
         "4", 
         "5", 
@@ -943,7 +923,7 @@
         "C"
       ], 
       "hnrlbls": [
-        "76-76_2"
+        "76"
       ], 
       "housenumber": "76", 
       "lat": 51.217897185490585, 
@@ -951,21 +931,6 @@
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
-      "street": "Gouwelozestraat"
-    }, 
-    {
-      "busnrs": [
-        "C"
-      ], 
-      "hnrlbls": [
-        "76-76_2"
-      ], 
-      "housenumber": "76_2", 
-      "lat": 51.217897185490585, 
-      "lon": 2.932755185824703, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Gouwelozestraat"
     }, 
     {
@@ -1016,8 +981,8 @@
         "80"
       ], 
       "housenumber": "80", 
-      "lat": 51.21787383424604, 
-      "lon": 2.933179200000817, 
+      "lat": 51.2178834053275, 
+      "lon": 2.9331826273619646, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
@@ -1026,18 +991,21 @@
     {
       "busnrs": [
         "1", 
+        "1A", 
         "2", 
         "3", 
         "302", 
         "4", 
         "402", 
+        "4A", 
+        "4B", 
         "5", 
         "6", 
         "8", 
         "9"
       ], 
       "hnrlbls": [
-        "81-81_4"
+        "81"
       ], 
       "housenumber": "81", 
       "lat": 51.217844122600184, 
@@ -1048,43 +1016,12 @@
       "street": "Gouwelozestraat"
     }, 
     {
-      "busnrs": [
-        "A"
-      ], 
-      "hnrlbls": [
-        "81-81_4"
-      ], 
-      "housenumber": "81_1", 
-      "lat": 51.217844122600184, 
-      "lon": 2.933234797728064, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Gouwelozestraat"
-    }, 
-    {
-      "busnrs": [
-        "A", 
-        "B"
-      ], 
-      "hnrlbls": [
-        "81-81_4"
-      ], 
-      "housenumber": "81_4", 
-      "lat": 51.217844122600184, 
-      "lon": 2.933234797728064, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Gouwelozestraat"
-    }, 
-    {
       "hnrlbls": [
         "82"
       ], 
       "housenumber": "82", 
-      "lat": 51.21785917961795, 
-      "lon": 2.933364314762336, 
+      "lat": 51.21786857790624, 
+      "lon": 2.9333683200781233, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
@@ -1094,14 +1031,16 @@
       "busnrs": [
         "1", 
         "101", 
+        "1A", 
         "301", 
+        "4B", 
         "5", 
         "6", 
         "8", 
         "9"
       ], 
       "hnrlbls": [
-        "83-83_4"
+        "83"
       ], 
       "housenumber": "83", 
       "lat": 51.21787423475731, 
@@ -1109,36 +1048,6 @@
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
-      "street": "Gouwelozestraat"
-    }, 
-    {
-      "busnrs": [
-        "A"
-      ], 
-      "hnrlbls": [
-        "83-83_4"
-      ], 
-      "housenumber": "83_1", 
-      "lat": 51.21787423475731, 
-      "lon": 2.9334936887834275, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Gouwelozestraat"
-    }, 
-    {
-      "busnrs": [
-        "B"
-      ], 
-      "hnrlbls": [
-        "83-83_4"
-      ], 
-      "housenumber": "83_4", 
-      "lat": 51.21787423475731, 
-      "lon": 2.9334936887834275, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Gouwelozestraat"
     }, 
     {

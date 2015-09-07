@@ -14,7 +14,12 @@
     }, 
     {
       "busnrs": [
-        "5"
+        "5", 
+        "BS01", 
+        "BS02", 
+        "BS04", 
+        "BS05", 
+        "BS06"
       ], 
       "hnrlbls": [
         "99-103"
@@ -42,7 +47,11 @@
     {
       "busnrs": [
         "3", 
-        "7"
+        "7", 
+        "BS04", 
+        "BS05", 
+        "BS06", 
+        "BS08"
       ], 
       "hnrlbls": [
         "105-107"
@@ -107,6 +116,10 @@
       "street": "Oude Haachtsesteenweg"
     }, 
     {
+      "busnrs": [
+        "BS01", 
+        "BS02"
+      ], 
       "hnrlbls": [
         "115"
       ], 
@@ -156,7 +169,9 @@
     }, 
     {
       "busnrs": [
-        "2"
+        "2", 
+        "BS06", 
+        "BS10"
       ], 
       "hnrlbls": [
         "121-123"
@@ -183,7 +198,7 @@
     }, 
     {
       "hnrlbls": [
-        "/zn-164"
+        "51-164"
       ], 
       "housenumber": "164", 
       "lat": 50.8949429027736, 
@@ -194,6 +209,15 @@
       "street": "Oude Haachtsesteenweg"
     }, 
     {
+      "busnrs": [
+        "BS01", 
+        "BS02", 
+        "BS03", 
+        "BS04", 
+        "BS06", 
+        "BS07", 
+        "BS08"
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -266,6 +290,16 @@
       "street": "Oude Haachtsesteenweg"
     }, 
     {
+      "busnrs": [
+        "BS01", 
+        "BS02", 
+        "BS03", 
+        "BS04", 
+        "BS05", 
+        "BS06", 
+        "BS07", 
+        "BS08"
+      ], 
       "hnrlbls": [
         "4"
       ], 
@@ -314,6 +348,10 @@
       "street": "Oude Haachtsesteenweg"
     }, 
     {
+      "busnrs": [
+        "BS02", 
+        "BS03"
+      ], 
       "hnrlbls": [
         "46"
       ], 
@@ -327,7 +365,12 @@
     }, 
     {
       "busnrs": [
-        "5"
+        "5", 
+        "BS02", 
+        "BS03", 
+        "BS05", 
+        "BS07", 
+        "BS08"
       ], 
       "hnrlbls": [
         "48"
@@ -350,6 +393,21 @@
       "municipality": "Machelen", 
       "pcode": "1831", 
       "source": "afgeleidVanGebouw", 
+      "street": "Oude Haachtsesteenweg"
+    }, 
+    {
+      "busnrs": [
+        "202"
+      ], 
+      "hnrlbls": [
+        "51-164"
+      ], 
+      "housenumber": "51", 
+      "lat": 50.8949429027736, 
+      "lon": 4.4336008754590335, 
+      "municipality": "Machelen", 
+      "pcode": "1831", 
+      "source": "afgeleidVanStraat", 
       "street": "Oude Haachtsesteenweg"
     }, 
     {
@@ -379,10 +437,11 @@
     {
       "busnrs": [
         "101", 
+        "102", 
         "201"
       ], 
       "hnrlbls": [
-        "/zn-164"
+        "51-164"
       ], 
       "housenumber": "57", 
       "lat": 50.8949429027736, 
@@ -393,6 +452,16 @@
       "street": "Oude Haachtsesteenweg"
     }, 
     {
+      "busnrs": [
+        "BS11", 
+        "BS12", 
+        "BS13", 
+        "BS14", 
+        "BS15", 
+        "BS16", 
+        "BS17", 
+        "BS18"
+      ], 
       "hnrlbls": [
         "2-58"
       ], 
@@ -433,18 +502,20 @@
     }, 
     {
       "busnrs": [
+        "101", 
         "102", 
+        "201", 
         "202"
       ], 
       "hnrlbls": [
-        "/zn-164"
+        "65"
       ], 
       "housenumber": "65", 
-      "lat": 50.8949429027736, 
-      "lon": 4.4336008754590335, 
+      "lat": 50.89414921126078, 
+      "lon": 4.432168165177801, 
       "municipality": "Machelen", 
       "pcode": "1831", 
-      "source": "afgeleidVanStraat", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Oude Haachtsesteenweg"
     }, 
     {
@@ -461,14 +532,14 @@
     }, 
     {
       "hnrlbls": [
-        "/zn-164"
+        "67"
       ], 
       "housenumber": "67", 
-      "lat": 50.8949429027736, 
-      "lon": 4.4336008754590335, 
+      "lat": 50.89419445811626, 
+      "lon": 4.432277388168103, 
       "municipality": "Machelen", 
       "pcode": "1831", 
-      "source": "afgeleidVanStraat", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Oude Haachtsesteenweg"
     }, 
     {
@@ -501,7 +572,15 @@
     }, 
     {
       "busnrs": [
-        "2"
+        "2", 
+        "BS01", 
+        "BS02", 
+        "BS03", 
+        "BS04", 
+        "BS05", 
+        "BS07", 
+        "BS09", 
+        "BS12"
       ], 
       "hnrlbls": [
         "68-70"
@@ -564,7 +643,15 @@
     }, 
     {
       "busnrs": [
-        "6"
+        "6", 
+        "BS03", 
+        "BS04", 
+        "BS05", 
+        "BS06", 
+        "BS07", 
+        "BS08", 
+        "BS09", 
+        "BS10"
       ], 
       "hnrlbls": [
         "75"
@@ -590,6 +677,10 @@
       "street": "Oude Haachtsesteenweg"
     }, 
     {
+      "busnrs": [
+        "BS01", 
+        "BS02"
+      ], 
       "hnrlbls": [
         "78"
       ], 
@@ -614,6 +705,9 @@
       "street": "Oude Haachtsesteenweg"
     }, 
     {
+      "busnrs": [
+        "BS03"
+      ], 
       "hnrlbls": [
         "80"
       ], 
@@ -650,6 +744,9 @@
       "street": "Oude Haachtsesteenweg"
     }, 
     {
+      "busnrs": [
+        "BS02"
+      ], 
       "hnrlbls": [
         "83"
       ], 
@@ -662,6 +759,18 @@
       "street": "Oude Haachtsesteenweg"
     }, 
     {
+      "busnrs": [
+        "BS01", 
+        "BS02", 
+        "BS03", 
+        "BS04", 
+        "BS05", 
+        "BS06", 
+        "BS08", 
+        "BS09", 
+        "BS11", 
+        "BS12"
+      ], 
       "hnrlbls": [
         "82-84"
       ], 
@@ -722,6 +831,10 @@
       "street": "Oude Haachtsesteenweg"
     }, 
     {
+      "busnrs": [
+        "BS01", 
+        "BS02"
+      ], 
       "hnrlbls": [
         "88"
       ], 
@@ -746,6 +859,9 @@
       "street": "Oude Haachtsesteenweg"
     }, 
     {
+      "busnrs": [
+        "BS02"
+      ], 
       "hnrlbls": [
         "89-91"
       ], 
@@ -758,6 +874,11 @@
       "street": "Oude Haachtsesteenweg"
     }, 
     {
+      "busnrs": [
+        "BS01", 
+        "BS02", 
+        "BS03"
+      ], 
       "hnrlbls": [
         "93-95"
       ], 
@@ -794,6 +915,13 @@
       "street": "Oude Haachtsesteenweg"
     }, 
     {
+      "busnrs": [
+        "BS01", 
+        "BS03", 
+        "BS04", 
+        "BS05", 
+        "BS06"
+      ], 
       "hnrlbls": [
         "99-103"
       ], 

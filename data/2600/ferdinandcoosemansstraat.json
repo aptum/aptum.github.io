@@ -50,7 +50,7 @@
     }, 
     {
       "hnrlbls": [
-        "103-105B"
+        "103-105"
       ], 
       "housenumber": "103", 
       "lat": 51.19886042553274, 
@@ -81,7 +81,7 @@
         "5"
       ], 
       "hnrlbls": [
-        "103-105B"
+        "103-105"
       ], 
       "housenumber": "105", 
       "lat": 51.19886042553274, 
@@ -92,18 +92,15 @@
       "street": "Ferdinand Coosemansstraat"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
-        "103-105B"
+        "105B"
       ], 
       "housenumber": "105B", 
-      "lat": 51.19886042553274, 
-      "lon": 4.421786740388398, 
+      "lat": 51.19885990101441, 
+      "lon": 4.42178584276543, 
       "municipality": "Antwerpen", 
       "pcode": "2600", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Ferdinand Coosemansstraat"
     }, 
     {
@@ -165,18 +162,15 @@
       "street": "Ferdinand Coosemansstraat"
     }, 
     {
-      "busnrs": [
-        "L"
-      ], 
       "hnrlbls": [
-        "109-111"
+        "109_1"
       ], 
       "housenumber": "109_1", 
-      "lat": 51.19892956222659, 
-      "lon": 4.421950343794681, 
+      "lat": 51.19888975708104, 
+      "lon": 4.421957628477394, 
       "municipality": "Antwerpen", 
       "pcode": "2600", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Ferdinand Coosemansstraat"
     }, 
     {
@@ -618,7 +612,7 @@
     }, 
     {
       "hnrlbls": [
-        "144-146_3"
+        "144-146"
       ], 
       "housenumber": "144", 
       "lat": 51.199207416092435, 
@@ -655,7 +649,7 @@
         "6"
       ], 
       "hnrlbls": [
-        "144-146_3"
+        "144-146"
       ], 
       "housenumber": "146", 
       "lat": 51.199207416092435, 
@@ -666,18 +660,15 @@
       "street": "Ferdinand Coosemansstraat"
     }, 
     {
-      "busnrs": [
-        "R"
-      ], 
       "hnrlbls": [
-        "144-146_3"
+        "146_3"
       ], 
       "housenumber": "146_3", 
-      "lat": 51.199207416092435, 
-      "lon": 4.422494173566913, 
+      "lat": 51.199233281707016, 
+      "lon": 4.422391711010467, 
       "municipality": "Antwerpen", 
       "pcode": "2600", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Ferdinand Coosemansstraat"
     }, 
     {
@@ -953,11 +944,11 @@
         "17A-17B"
       ], 
       "housenumber": "17A", 
-      "lat": 51.197460628109916, 
-      "lon": 4.418788717347299, 
+      "lat": 51.19767513165503, 
+      "lon": 4.41848837823391, 
       "municipality": "Antwerpen", 
       "pcode": "2600", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Ferdinand Coosemansstraat"
     }, 
     {
@@ -965,11 +956,11 @@
         "17A-17B"
       ], 
       "housenumber": "17B", 
-      "lat": 51.197460628109916, 
-      "lon": 4.418788717347299, 
+      "lat": 51.19767513165503, 
+      "lon": 4.41848837823391, 
       "municipality": "Antwerpen", 
       "pcode": "2600", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Ferdinand Coosemansstraat"
     }, 
     {
@@ -1127,11 +1118,11 @@
         "2"
       ], 
       "housenumber": "2", 
-      "lat": 51.19733720510817, 
-      "lon": 4.417112199765888, 
+      "lat": 51.197510713934946, 
+      "lon": 4.417253011235135, 
       "municipality": "Antwerpen", 
       "pcode": "2600", 
-      "source": "geinterpoleerdObvWegverbinding", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Ferdinand Coosemansstraat"
     }, 
     {
@@ -1435,7 +1426,7 @@
         "502"
       ], 
       "hnrlbls": [
-        "3-76D"
+        "3-76"
       ], 
       "housenumber": "4", 
       "lat": 51.1977611585898, 
@@ -1807,6 +1798,11 @@
       "street": "Ferdinand Coosemansstraat"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3"
+      ], 
       "hnrlbls": [
         "69"
       ], 
@@ -1942,7 +1938,8 @@
       "busnrs": [
         "1", 
         "2", 
-        "3"
+        "3", 
+        "4"
       ], 
       "hnrlbls": [
         "79"
@@ -2076,21 +2073,15 @@
       "street": "Ferdinand Coosemansstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4"
-      ], 
       "hnrlbls": [
         "86A"
       ], 
       "housenumber": "86A", 
-      "lat": 51.198538401245386, 
-      "lon": 4.420311091230343, 
+      "lat": 51.19855084092056, 
+      "lon": 4.42035661676654, 
       "municipality": "Antwerpen", 
       "pcode": "2600", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Ferdinand Coosemansstraat"
     }, 
     {

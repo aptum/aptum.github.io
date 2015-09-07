@@ -26,14 +26,14 @@
     }, 
     {
       "hnrlbls": [
-        "98A-100"
+        "100"
       ], 
       "housenumber": "100", 
-      "lat": 51.00543944016268, 
-      "lon": 3.7874619295982277, 
+      "lat": 51.00547638794856, 
+      "lon": 3.7874365632064317, 
       "municipality": "Melle", 
       "pcode": "9090", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Driesstraat"
     }, 
     {
@@ -403,7 +403,7 @@
     }, 
     {
       "hnrlbls": [
-        "14-14A"
+        "14"
       ], 
       "housenumber": "14", 
       "lat": 51.001536291873336, 
@@ -439,18 +439,6 @@
     }, 
     {
       "hnrlbls": [
-        "14-14A"
-      ], 
-      "housenumber": "14A", 
-      "lat": 51.001536291873336, 
-      "lon": 3.791692701924323, 
-      "municipality": "Melle", 
-      "pcode": "9090", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Driesstraat"
-    }, 
-    {
-      "hnrlbls": [
         "15"
       ], 
       "housenumber": "15", 
@@ -462,8 +450,11 @@
       "street": "Driesstraat"
     }, 
     {
+      "busnrs": [
+        "A"
+      ], 
       "hnrlbls": [
-        "16-16A"
+        "16"
       ], 
       "housenumber": "16", 
       "lat": 51.001685883197965, 
@@ -471,18 +462,6 @@
       "municipality": "Melle", 
       "pcode": "9090", 
       "source": "afgeleidVanGebouw", 
-      "street": "Driesstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "16-16A"
-      ], 
-      "housenumber": "16A", 
-      "lat": 51.001685883197965, 
-      "lon": 3.791676044986647, 
-      "municipality": "Melle", 
-      "pcode": "9090", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Driesstraat"
     }, 
     {
@@ -787,11 +766,11 @@
     }, 
     {
       "hnrlbls": [
-        "40-40B"
+        "40A-40B"
       ], 
-      "housenumber": "40", 
-      "lat": 51.00308405304352, 
-      "lon": 3.7905320350733014, 
+      "housenumber": "40A", 
+      "lat": 51.003084025887645, 
+      "lon": 3.7905320555033373, 
       "municipality": "Melle", 
       "pcode": "9090", 
       "source": "afgeleidVanGebouw", 
@@ -799,26 +778,14 @@
     }, 
     {
       "hnrlbls": [
-        "40-40B"
-      ], 
-      "housenumber": "40A", 
-      "lat": 51.00308405304352, 
-      "lon": 3.7905320350733014, 
-      "municipality": "Melle", 
-      "pcode": "9090", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Driesstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "40-40B"
+        "40A-40B"
       ], 
       "housenumber": "40B", 
-      "lat": 51.00308405304352, 
-      "lon": 3.7905320350733014, 
+      "lat": 51.003084025887645, 
+      "lon": 3.7905320555033373, 
       "municipality": "Melle", 
       "pcode": "9090", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Driesstraat"
     }, 
     {
@@ -922,11 +889,11 @@
         "51"
       ], 
       "housenumber": "51", 
-      "lat": 51.00282538668552, 
-      "lon": 3.7901388698826017, 
+      "lat": 51.00281805014484, 
+      "lon": 3.790202667824229, 
       "municipality": "Melle", 
       "pcode": "9090", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Driesstraat"
     }, 
     {
@@ -946,11 +913,11 @@
         "53"
       ], 
       "housenumber": "53", 
-      "lat": 51.00285721475824, 
-      "lon": 3.790103429402524, 
+      "lat": 51.00286401252315, 
+      "lon": 3.7901714695110416, 
       "municipality": "Melle", 
       "pcode": "9090", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Driesstraat"
     }, 
     {
@@ -1390,8 +1357,8 @@
         "89"
       ], 
       "housenumber": "89", 
-      "lat": 51.00443849220622, 
-      "lon": 3.7873560798836268, 
+      "lat": 51.00443506630431, 
+      "lon": 3.7871425749085774, 
       "municipality": "Melle", 
       "pcode": "9090", 
       "source": "afgeleidVanGebouw", 
@@ -1494,51 +1461,20 @@
       "street": "Driesstraat"
     }, 
     {
+      "busnrs": [
+        "A", 
+        "B", 
+        "C"
+      ], 
       "hnrlbls": [
-        "98-98C"
+        "98"
       ], 
       "housenumber": "98", 
-      "lat": 51.005382848007116, 
-      "lon": 3.7874884196230933, 
+      "lat": 51.00540885730984, 
+      "lon": 3.787472507031237, 
       "municipality": "Melle", 
       "pcode": "9090", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Driesstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "98A-100"
-      ], 
-      "housenumber": "98A", 
-      "lat": 51.00543944016268, 
-      "lon": 3.7874619295982277, 
-      "municipality": "Melle", 
-      "pcode": "9090", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Driesstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "98A-100"
-      ], 
-      "housenumber": "98B", 
-      "lat": 51.00543944016268, 
-      "lon": 3.7874619295982277, 
-      "municipality": "Melle", 
-      "pcode": "9090", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Driesstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "98-98C"
-      ], 
-      "housenumber": "98C", 
-      "lat": 51.005382848007116, 
-      "lon": 3.7874884196230933, 
-      "municipality": "Melle", 
-      "pcode": "9090", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Driesstraat"
     }, 
     {

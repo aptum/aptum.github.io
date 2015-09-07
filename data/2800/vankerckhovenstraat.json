@@ -1,18 +1,9 @@
 {
   "addresses": [
     {
-      "hnrlbls": [
-        "1"
+      "busnrs": [
+        "2"
       ], 
-      "housenumber": "1", 
-      "lat": 51.01865940097468, 
-      "lon": 4.480475670881242, 
-      "municipality": "Mechelen", 
-      "pcode": "2800", 
-      "source": "geinterpoleerdObvWegverbinding", 
-      "street": "Van Kerckhovenstraat"
-    }, 
-    {
       "hnrlbls": [
         "6-16"
       ], 
@@ -22,18 +13,6 @@
       "municipality": "Mechelen", 
       "pcode": "2800", 
       "source": "afgeleidVanPerceelGrb", 
-      "street": "Van Kerckhovenstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "19-100"
-      ], 
-      "housenumber": "100", 
-      "lat": 51.01809101679561, 
-      "lon": 4.4810456417302875, 
-      "municipality": "Mechelen", 
-      "pcode": "2800", 
-      "source": "afgeleidVanStraat", 
       "street": "Van Kerckhovenstraat"
     }, 
     {
@@ -60,6 +39,11 @@
       "street": "Van Kerckhovenstraat"
     }, 
     {
+      "busnrs": [
+        "101", 
+        "102", 
+        "302"
+      ], 
       "hnrlbls": [
         "6-16"
       ], 
@@ -72,37 +56,22 @@
       "street": "Van Kerckhovenstraat"
     }, 
     {
-      "busnrs": [
-        "13"
-      ], 
       "hnrlbls": [
         "13"
       ], 
       "housenumber": "13", 
-      "lat": 51.0177331298279, 
-      "lon": 4.48107969381018, 
+      "lat": 51.01766810601309, 
+      "lon": 4.4811047842853124, 
       "municipality": "Mechelen", 
       "pcode": "2800", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Van Kerckhovenstraat"
     }, 
     {
       "busnrs": [
-        "1", 
-        "6"
+        "103", 
+        "301"
       ], 
-      "hnrlbls": [
-        "13K"
-      ], 
-      "housenumber": "13K", 
-      "lat": 51.017732410705136, 
-      "lon": 4.4810796920748395, 
-      "municipality": "Mechelen", 
-      "pcode": "2800", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Van Kerckhovenstraat"
-    }, 
-    {
       "hnrlbls": [
         "6-16"
       ], 
@@ -119,27 +88,11 @@
         "15"
       ], 
       "housenumber": "15", 
-      "lat": 51.01774589901065, 
-      "lon": 4.4811683671349085, 
+      "lat": 51.01767559740705, 
+      "lon": 4.481166652638691, 
       "municipality": "Mechelen", 
       "pcode": "2800", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Van Kerckhovenstraat"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "8"
-      ], 
-      "hnrlbls": [
-        "15K"
-      ], 
-      "housenumber": "15K", 
-      "lat": 51.01774625829815, 
-      "lon": 4.481168653026752, 
-      "municipality": "Mechelen", 
-      "pcode": "2800", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Van Kerckhovenstraat"
     }, 
     {
@@ -155,50 +108,15 @@
       "street": "Van Kerckhovenstraat"
     }, 
     {
-      "busnrs": [
-        "101", 
-        "201"
-      ], 
       "hnrlbls": [
         "17"
       ], 
       "housenumber": "17", 
-      "lat": 51.017729967888265, 
-      "lon": 4.4812831933548525, 
+      "lat": 51.017689004108554, 
+      "lon": 4.481245921849062, 
       "municipality": "Mechelen", 
       "pcode": "2800", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Van Kerckhovenstraat"
-    }, 
-    {
-      "busnrs": [
-        "102", 
-        "202", 
-        "301", 
-        "302", 
-        "303"
-      ], 
-      "hnrlbls": [
-        "17S"
-      ], 
-      "housenumber": "17S", 
-      "lat": 51.01772669139301, 
-      "lon": 4.4813252264791865, 
-      "municipality": "Mechelen", 
-      "pcode": "2800", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Van Kerckhovenstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "19-100"
-      ], 
-      "housenumber": "19", 
-      "lat": 51.01809101679561, 
-      "lon": 4.4810456417302875, 
-      "municipality": "Mechelen", 
-      "pcode": "2800", 
-      "source": "afgeleidVanStraat", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Van Kerckhovenstraat"
     }, 
     {
@@ -226,6 +144,14 @@
       "street": "Van Kerckhovenstraat"
     }, 
     {
+      "busnrs": [
+        "102", 
+        "202", 
+        "301", 
+        "302", 
+        "402", 
+        "502"
+      ], 
       "hnrlbls": [
         "6-16"
       ], 

@@ -54,8 +54,10 @@
     }, 
     {
       "busnrs": [
+        "1", 
         "2", 
-        "3"
+        "3", 
+        "301"
       ], 
       "hnrlbls": [
         "14"
@@ -258,6 +260,9 @@
       "street": "Goedheidstraat"
     }, 
     {
+      "busnrs": [
+        "201"
+      ], 
       "hnrlbls": [
         "30"
       ], 
@@ -600,6 +605,18 @@
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanPerceelGrb", 
+      "street": "Goedheidstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "9"
+      ], 
+      "housenumber": "9", 
+      "lat": 51.218724985560016, 
+      "lon": 2.8968501211740265, 
+      "municipality": "Oostende", 
+      "pcode": "8400", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Goedheidstraat"
     }
   ]

@@ -93,7 +93,7 @@
       "lon": 2.912413130434762, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Blauwkasteelstraat"
     }, 
     {
@@ -148,18 +148,6 @@
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
-      "street": "Blauwkasteelstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "126"
-      ], 
-      "housenumber": "126", 
-      "lat": 51.216570595301086, 
-      "lon": 2.9133086114186755, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Blauwkasteelstraat"
     }, 
     {
@@ -311,6 +299,7 @@
     }, 
     {
       "busnrs": [
+        "201", 
         "3"
       ], 
       "hnrlbls": [
@@ -393,6 +382,7 @@
     {
       "busnrs": [
         "2", 
+        "201", 
         "3"
       ], 
       "hnrlbls": [
@@ -515,6 +505,7 @@
       "busnrs": [
         "1", 
         "2", 
+        "4", 
         "5"
       ], 
       "hnrlbls": [
@@ -530,7 +521,8 @@
     }, 
     {
       "busnrs": [
-        "1"
+        "1", 
+        "4"
       ], 
       "hnrlbls": [
         "33"
@@ -548,15 +540,16 @@
         "34"
       ], 
       "housenumber": "34", 
-      "lat": 51.21666646351696, 
-      "lon": 2.9082792859011595, 
+      "lat": 51.216798457873615, 
+      "lon": 2.907967814874537, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "geinterpoleerdObvWegverbinding", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Blauwkasteelstraat"
     }, 
     {
       "busnrs": [
+        "1", 
         "101", 
         "201"
       ], 
@@ -634,7 +627,9 @@
     {
       "busnrs": [
         "1", 
-        "201"
+        "101", 
+        "201", 
+        "301"
       ], 
       "hnrlbls": [
         "37"
@@ -661,8 +656,10 @@
     }, 
     {
       "busnrs": [
+        "1", 
         "201", 
-        "3"
+        "3", 
+        "301"
       ], 
       "hnrlbls": [
         "4"
@@ -938,7 +935,8 @@
     }, 
     {
       "busnrs": [
-        "1"
+        "1", 
+        "2"
       ], 
       "hnrlbls": [
         "62"
@@ -999,6 +997,7 @@
     }, 
     {
       "busnrs": [
+        "1", 
         "2"
       ], 
       "hnrlbls": [
@@ -1177,6 +1176,7 @@
     }, 
     {
       "busnrs": [
+        "101", 
         "2"
       ], 
       "hnrlbls": [

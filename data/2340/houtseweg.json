@@ -2,14 +2,14 @@
   "addresses": [
     {
       "hnrlbls": [
-        "8-10"
+        "10"
       ], 
       "housenumber": "10", 
-      "lat": 51.31971730362151, 
-      "lon": 4.848996175574603, 
+      "lat": 51.31971856882466, 
+      "lon": 4.848987544966142, 
       "municipality": "Beerse", 
       "pcode": "2340", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Houtseweg"
     }, 
     {
@@ -25,33 +25,15 @@
       "street": "Houtseweg"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
-        "101-101B"
+        "101"
       ], 
       "housenumber": "101", 
-      "lat": 51.32242363696209, 
-      "lon": 4.840081025284846, 
+      "lat": 51.32249797487646, 
+      "lon": 4.8400179630543585, 
       "municipality": "Beerse", 
       "pcode": "2340", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Houtseweg"
-    }, 
-    {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "101-101B"
-      ], 
-      "housenumber": "101B", 
-      "lat": 51.32242363696209, 
-      "lon": 4.840081025284846, 
-      "municipality": "Beerse", 
-      "pcode": "2340", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Houtseweg"
     }, 
     {
@@ -203,8 +185,20 @@
         "113"
       ], 
       "housenumber": "113", 
-      "lat": 51.32249097660324, 
-      "lon": 4.838726349617573, 
+      "lat": 51.32249095370294, 
+      "lon": 4.838726409495325, 
+      "municipality": "Beerse", 
+      "pcode": "2340", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Houtseweg"
+    }, 
+    {
+      "hnrlbls": [
+        "113_1"
+      ], 
+      "housenumber": "113_1", 
+      "lat": 51.32250805552979, 
+      "lon": 4.8385812481149735, 
       "municipality": "Beerse", 
       "pcode": "2340", 
       "source": "afgeleidVanGebouw", 
@@ -367,15 +361,24 @@
       "street": "Houtseweg"
     }, 
     {
-      "busnrs": [
-        "2"
-      ], 
       "hnrlbls": [
         "126"
       ], 
       "housenumber": "126", 
-      "lat": 51.32300838786074, 
-      "lon": 4.838322955783652, 
+      "lat": 51.322882927182725, 
+      "lon": 4.838461422245725, 
+      "municipality": "Beerse", 
+      "pcode": "2340", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Houtseweg"
+    }, 
+    {
+      "hnrlbls": [
+        "126_2"
+      ], 
+      "housenumber": "126_2", 
+      "lat": 51.322953907272414, 
+      "lon": 4.838114207993339, 
       "municipality": "Beerse", 
       "pcode": "2340", 
       "source": "afgeleidVanGebouw", 
@@ -442,15 +445,24 @@
       "street": "Houtseweg"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
         "131"
       ], 
       "housenumber": "131", 
-      "lat": 51.323034061763146, 
-      "lon": 4.8365384120246215, 
+      "lat": 51.32299980345429, 
+      "lon": 4.836641480458423, 
+      "municipality": "Beerse", 
+      "pcode": "2340", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Houtseweg"
+    }, 
+    {
+      "hnrlbls": [
+        "131_1"
+      ], 
+      "housenumber": "131_1", 
+      "lat": 51.32306830883473, 
+      "lon": 4.836435377808976, 
       "municipality": "Beerse", 
       "pcode": "2340", 
       "source": "afgeleidVanGebouw", 
@@ -470,10 +482,12 @@
     }, 
     {
       "busnrs": [
-        "3"
+        "B1", 
+        "B2", 
+        "B3"
       ], 
       "hnrlbls": [
-        "133-133B"
+        "133"
       ], 
       "housenumber": "133", 
       "lat": 51.323106657327685, 
@@ -481,22 +495,6 @@
       "municipality": "Beerse", 
       "pcode": "2340", 
       "source": "afgeleidVanGebouw", 
-      "street": "Houtseweg"
-    }, 
-    {
-      "busnrs": [
-        "2", 
-        "3"
-      ], 
-      "hnrlbls": [
-        "133-133B"
-      ], 
-      "housenumber": "133B", 
-      "lat": 51.323106657327685, 
-      "lon": 4.836136335222696, 
-      "municipality": "Beerse", 
-      "pcode": "2340", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Houtseweg"
     }, 
     {
@@ -513,54 +511,23 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "5"
+        "B1", 
+        "B2", 
+        "B3", 
+        "B4", 
+        "B5", 
+        "B6", 
+        "B7"
       ], 
       "hnrlbls": [
-        "135-135_1"
+        "135"
       ], 
       "housenumber": "135", 
-      "lat": 51.32325271510284, 
-      "lon": 4.835794957980222, 
+      "lat": 51.3232527056164, 
+      "lon": 4.835794995293621, 
       "municipality": "Beerse", 
       "pcode": "2340", 
       "source": "afgeleidVanGebouw", 
-      "street": "Houtseweg"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6", 
-        "7"
-      ], 
-      "hnrlbls": [
-        "135-135_1"
-      ], 
-      "housenumber": "135B", 
-      "lat": 51.32325271510284, 
-      "lon": 4.835794957980222, 
-      "municipality": "Beerse", 
-      "pcode": "2340", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Houtseweg"
-    }, 
-    {
-      "busnrs": [
-        "5"
-      ], 
-      "hnrlbls": [
-        "135-135_1"
-      ], 
-      "housenumber": "135_1", 
-      "lat": 51.32325271510284, 
-      "lon": 4.835794957980222, 
-      "municipality": "Beerse", 
-      "pcode": "2340", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Houtseweg"
     }, 
     {
@@ -606,18 +573,6 @@
       "housenumber": "139", 
       "lat": 51.32339619353825, 
       "lon": 4.835491997548667, 
-      "municipality": "Beerse", 
-      "pcode": "2340", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Houtseweg"
-    }, 
-    {
-      "hnrlbls": [
-        "13_1"
-      ], 
-      "housenumber": "13_1", 
-      "lat": 51.32250805552979, 
-      "lon": 4.8385812481149735, 
       "municipality": "Beerse", 
       "pcode": "2340", 
       "source": "afgeleidVanGebouw", 
@@ -721,14 +676,14 @@
     }, 
     {
       "hnrlbls": [
-        "148-150"
+        "148"
       ], 
       "housenumber": "148", 
-      "lat": 51.32325830512534, 
-      "lon": 4.837018647358318, 
+      "lat": 51.3232316586813, 
+      "lon": 4.837033332513542, 
       "municipality": "Beerse", 
       "pcode": "2340", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Houtseweg"
     }, 
     {
@@ -757,14 +712,14 @@
     }, 
     {
       "hnrlbls": [
-        "148-150"
+        "150"
       ], 
       "housenumber": "150", 
-      "lat": 51.32325830512534, 
-      "lon": 4.837018647358318, 
+      "lat": 51.32324822319265, 
+      "lon": 4.83698128339613, 
       "municipality": "Beerse", 
       "pcode": "2340", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Houtseweg"
     }, 
     {
@@ -781,34 +736,14 @@
     }, 
     {
       "hnrlbls": [
-        "152-158"
+        "152"
       ], 
       "housenumber": "152", 
-      "lat": 51.32341725357152, 
-      "lon": 4.83646380299423, 
+      "lat": 51.323357082760324, 
+      "lon": 4.836815095665715, 
       "municipality": "Beerse", 
       "pcode": "2340", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Houtseweg"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6"
-      ], 
-      "hnrlbls": [
-        "152-158"
-      ], 
-      "housenumber": "152B", 
-      "lat": 51.32341725357152, 
-      "lon": 4.83646380299423, 
-      "municipality": "Beerse", 
-      "pcode": "2340", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Houtseweg"
     }, 
     {
@@ -824,47 +759,43 @@
       "street": "Houtseweg"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
       "hnrlbls": [
-        "153B"
+        "154"
       ], 
-      "housenumber": "153B", 
-      "lat": 51.32373362052124, 
-      "lon": 4.834188683604109, 
+      "housenumber": "154", 
+      "lat": 51.323395590839354, 
+      "lon": 4.836561078144761, 
       "municipality": "Beerse", 
       "pcode": "2340", 
       "source": "afgeleidVanGebouw", 
       "street": "Houtseweg"
     }, 
     {
+      "busnrs": [
+        "B1", 
+        "B2"
+      ], 
       "hnrlbls": [
         "155"
       ], 
       "housenumber": "155", 
-      "lat": 51.32375515469835, 
-      "lon": 4.834129653666367, 
+      "lat": 51.32373361944237, 
+      "lon": 4.834188629091115, 
       "municipality": "Beerse", 
       "pcode": "2340", 
       "source": "afgeleidVanGebouw", 
       "street": "Houtseweg"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
       "hnrlbls": [
-        "155B"
+        "156"
       ], 
-      "housenumber": "155B", 
-      "lat": 51.323762586893096, 
-      "lon": 4.834205327367343, 
+      "housenumber": "156", 
+      "lat": 51.323421937013876, 
+      "lon": 4.836465764566878, 
       "municipality": "Beerse", 
       "pcode": "2340", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Houtseweg"
     }, 
     {
@@ -881,14 +812,14 @@
     }, 
     {
       "hnrlbls": [
-        "152-158"
+        "158"
       ], 
       "housenumber": "158", 
-      "lat": 51.32341725357152, 
-      "lon": 4.83646380299423, 
+      "lat": 51.3234471040915, 
+      "lon": 4.836376034234031, 
       "municipality": "Beerse", 
       "pcode": "2340", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Houtseweg"
     }, 
     {
@@ -904,12 +835,28 @@
       "street": "Houtseweg"
     }, 
     {
+      "busnrs": [
+        "B1", 
+        "B10", 
+        "B11", 
+        "B12", 
+        "B13", 
+        "B14", 
+        "B2", 
+        "B3", 
+        "B4", 
+        "B5", 
+        "B6", 
+        "B7", 
+        "B8", 
+        "B9"
+      ], 
       "hnrlbls": [
         "160"
       ], 
       "housenumber": "160", 
-      "lat": 51.32362569080943, 
-      "lon": 4.835894677020556, 
+      "lat": 51.32361444376291, 
+      "lon": 4.8358577215952145, 
       "municipality": "Beerse", 
       "pcode": "2340", 
       "source": "afgeleidVanGebouw", 
@@ -1052,15 +999,24 @@
       "street": "Houtseweg"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
         "19"
       ], 
       "housenumber": "19", 
-      "lat": 51.32061331552261, 
-      "lon": 4.846937856945816, 
+      "lat": 51.32060060418735, 
+      "lon": 4.846982777828798, 
+      "municipality": "Beerse", 
+      "pcode": "2340", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Houtseweg"
+    }, 
+    {
+      "hnrlbls": [
+        "19_1"
+      ], 
+      "housenumber": "19_1", 
+      "lat": 51.320625959832036, 
+      "lon": 4.846892822879785, 
       "municipality": "Beerse", 
       "pcode": "2340", 
       "source": "afgeleidVanGebouw", 
@@ -1068,14 +1024,20 @@
     }, 
     {
       "busnrs": [
-        "7"
+        "B1", 
+        "B2", 
+        "B3", 
+        "B4", 
+        "B5", 
+        "B6", 
+        "B7"
       ], 
       "hnrlbls": [
-        "2-6"
+        "2"
       ], 
       "housenumber": "2", 
-      "lat": 51.31945260883532, 
-      "lon": 4.849392630152405, 
+      "lat": 51.31932026376626, 
+      "lon": 4.8495395258937615, 
       "municipality": "Beerse", 
       "pcode": "2340", 
       "source": "afgeleidVanGebouw", 
@@ -1098,11 +1060,11 @@
         "21"
       ], 
       "housenumber": "21", 
-      "lat": 51.320432950792224, 
-      "lon": 4.846597047138313, 
+      "lat": 51.32065182235654, 
+      "lon": 4.846748843918337, 
       "municipality": "Beerse", 
       "pcode": "2340", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Houtseweg"
     }, 
     {
@@ -1187,27 +1149,6 @@
       "municipality": "Beerse", 
       "pcode": "2340", 
       "source": "afgeleidVanGebouw", 
-      "street": "Houtseweg"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6", 
-        "7"
-      ], 
-      "hnrlbls": [
-        "2B-6B"
-      ], 
-      "housenumber": "2B", 
-      "lat": 51.319320244607624, 
-      "lon": 4.84953957629229, 
-      "municipality": "Beerse", 
-      "pcode": "2340", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Houtseweg"
     }, 
     {
@@ -1344,16 +1285,21 @@
     }, 
     {
       "busnrs": [
-        "2", 
-        "301", 
-        "5"
+        "B1", 
+        "B2", 
+        "B3", 
+        "B4", 
+        "B5", 
+        "B6", 
+        "B7", 
+        "B8"
       ], 
       "hnrlbls": [
-        "2-6"
+        "4"
       ], 
       "housenumber": "4", 
-      "lat": 51.31945260883532, 
-      "lon": 4.849392630152405, 
+      "lat": 51.31947038799136, 
+      "lon": 4.849375918364333, 
       "municipality": "Beerse", 
       "pcode": "2340", 
       "source": "afgeleidVanGebouw", 
@@ -1477,28 +1423,6 @@
       "municipality": "Beerse", 
       "pcode": "2340", 
       "source": "afgeleidVanGebouw", 
-      "street": "Houtseweg"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6", 
-        "7", 
-        "8"
-      ], 
-      "hnrlbls": [
-        "4B"
-      ], 
-      "housenumber": "4B", 
-      "lat": 51.31947038362341, 
-      "lon": 4.849375888231892, 
-      "municipality": "Beerse", 
-      "pcode": "2340", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Houtseweg"
     }, 
     {
@@ -1635,25 +1559,28 @@
     }, 
     {
       "busnrs": [
-        "1"
+        "B1", 
+        "B2", 
+        "B3", 
+        "B4", 
+        "B5", 
+        "B7", 
+        "B8"
       ], 
       "hnrlbls": [
-        "2-6"
+        "6"
       ], 
       "housenumber": "6", 
-      "lat": 51.31945260883532, 
-      "lon": 4.849392630152405, 
+      "lat": 51.31956729244729, 
+      "lon": 4.8492625819932265, 
       "municipality": "Beerse", 
       "pcode": "2340", 
       "source": "afgeleidVanGebouw", 
       "street": "Houtseweg"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
-        "60-60B"
+        "60"
       ], 
       "housenumber": "60", 
       "lat": 51.32150990733267, 
@@ -1661,24 +1588,6 @@
       "municipality": "Beerse", 
       "pcode": "2340", 
       "source": "afgeleidVanGebouw", 
-      "street": "Houtseweg"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4"
-      ], 
-      "hnrlbls": [
-        "60-60B"
-      ], 
-      "housenumber": "60B", 
-      "lat": 51.32150990733267, 
-      "lon": 4.844569910481263, 
-      "municipality": "Beerse", 
-      "pcode": "2340", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Houtseweg"
     }, 
     {
@@ -1695,7 +1604,7 @@
     }, 
     {
       "hnrlbls": [
-        "62-62B"
+        "62"
       ], 
       "housenumber": "62", 
       "lat": 51.321601937791115, 
@@ -1703,24 +1612,6 @@
       "municipality": "Beerse", 
       "pcode": "2340", 
       "source": "afgeleidVanGebouw", 
-      "street": "Houtseweg"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4"
-      ], 
-      "hnrlbls": [
-        "62-62B"
-      ], 
-      "housenumber": "62B", 
-      "lat": 51.321601937791115, 
-      "lon": 4.844348512478607, 
-      "municipality": "Beerse", 
-      "pcode": "2340", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Houtseweg"
     }, 
     {
@@ -1772,8 +1663,13 @@
       "street": "Houtseweg"
     }, 
     {
+      "busnrs": [
+        "B1", 
+        "B2", 
+        "B4"
+      ], 
       "hnrlbls": [
-        "68-68B"
+        "68"
       ], 
       "housenumber": "68", 
       "lat": 51.32175411081366, 
@@ -1781,46 +1677,6 @@
       "municipality": "Beerse", 
       "pcode": "2340", 
       "source": "afgeleidVanGebouw", 
-      "street": "Houtseweg"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4"
-      ], 
-      "hnrlbls": [
-        "68-68B"
-      ], 
-      "housenumber": "68B", 
-      "lat": 51.32175411081366, 
-      "lon": 4.843900367103736, 
-      "municipality": "Beerse", 
-      "pcode": "2340", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Houtseweg"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6", 
-        "7", 
-        "8"
-      ], 
-      "hnrlbls": [
-        "2B-6B"
-      ], 
-      "housenumber": "6B", 
-      "lat": 51.319320244607624, 
-      "lon": 4.84953957629229, 
-      "municipality": "Beerse", 
-      "pcode": "2340", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Houtseweg"
     }, 
     {
@@ -1849,23 +1705,11 @@
     }, 
     {
       "hnrlbls": [
-        "71"
-      ], 
-      "housenumber": "71", 
-      "lat": 51.32200300534565, 
-      "lon": 4.842462850712424, 
-      "municipality": "Beerse", 
-      "pcode": "2340", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Houtseweg"
-    }, 
-    {
-      "hnrlbls": [
         "72"
       ], 
       "housenumber": "72", 
-      "lat": 51.32195167609235, 
-      "lon": 4.843384115162048, 
+      "lat": 51.32193772473208, 
+      "lon": 4.8434298731993435, 
       "municipality": "Beerse", 
       "pcode": "2340", 
       "source": "afgeleidVanGebouw", 
@@ -1920,15 +1764,28 @@
       "street": "Houtseweg"
     }, 
     {
+      "busnrs": [
+        "B1", 
+        "B10", 
+        "B11", 
+        "B2", 
+        "B3", 
+        "B4", 
+        "B5", 
+        "B6", 
+        "B7", 
+        "B8", 
+        "B9"
+      ], 
       "hnrlbls": [
-        "8-10"
+        "8"
       ], 
       "housenumber": "8", 
-      "lat": 51.31971730362151, 
-      "lon": 4.848996175574603, 
+      "lat": 51.319633757382526, 
+      "lon": 4.849111174064441, 
       "municipality": "Beerse", 
       "pcode": "2340", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Houtseweg"
     }, 
     {
@@ -1998,18 +1855,6 @@
     }, 
     {
       "hnrlbls": [
-        "88-92"
-      ], 
-      "housenumber": "88", 
-      "lat": 51.32251241110384, 
-      "lon": 4.842024933265495, 
-      "municipality": "Beerse", 
-      "pcode": "2340", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Houtseweg"
-    }, 
-    {
-      "hnrlbls": [
         "89"
       ], 
       "housenumber": "89", 
@@ -2018,31 +1863,6 @@
       "municipality": "Beerse", 
       "pcode": "2340", 
       "source": "afgeleidVanGebouw", 
-      "street": "Houtseweg"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "10", 
-        "11", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6", 
-        "7", 
-        "8", 
-        "9"
-      ], 
-      "hnrlbls": [
-        "8B"
-      ], 
-      "housenumber": "8B", 
-      "lat": 51.319653462731644, 
-      "lon": 4.849135082385896, 
-      "municipality": "Beerse", 
-      "pcode": "2340", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Houtseweg"
     }, 
     {
@@ -2059,19 +1879,7 @@
     }, 
     {
       "hnrlbls": [
-        "90"
-      ], 
-      "housenumber": "90", 
-      "lat": 51.322508804871774, 
-      "lon": 4.842050143428575, 
-      "municipality": "Beerse", 
-      "pcode": "2340", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Houtseweg"
-    }, 
-    {
-      "hnrlbls": [
-        "91-91B"
+        "91"
       ], 
       "housenumber": "91", 
       "lat": 51.322445072109275, 
@@ -2083,31 +1891,7 @@
     }, 
     {
       "hnrlbls": [
-        "91-91B"
-      ], 
-      "housenumber": "91A", 
-      "lat": 51.322445072109275, 
-      "lon": 4.840904347906299, 
-      "municipality": "Beerse", 
-      "pcode": "2340", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Houtseweg"
-    }, 
-    {
-      "hnrlbls": [
-        "91-91B"
-      ], 
-      "housenumber": "91B", 
-      "lat": 51.322445072109275, 
-      "lon": 4.840904347906299, 
-      "municipality": "Beerse", 
-      "pcode": "2340", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Houtseweg"
-    }, 
-    {
-      "hnrlbls": [
-        "88-92"
+        "92"
       ], 
       "housenumber": "92", 
       "lat": 51.32251241110384, 
@@ -2130,31 +1914,19 @@
       "street": "Houtseweg"
     }, 
     {
+      "busnrs": [
+        "B1", 
+        "B2"
+      ], 
       "hnrlbls": [
         "94"
       ], 
       "housenumber": "94", 
-      "lat": 51.32262395853391, 
-      "lon": 4.841641770711202, 
+      "lat": 51.32256085806513, 
+      "lon": 4.841858124468701, 
       "municipality": "Beerse", 
       "pcode": "2340", 
       "source": "afgeleidVanGebouw", 
-      "street": "Houtseweg"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
-      "hnrlbls": [
-        "94B"
-      ], 
-      "housenumber": "94B", 
-      "lat": 51.32256089520656, 
-      "lon": 4.841858166291359, 
-      "municipality": "Beerse", 
-      "pcode": "2340", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Houtseweg"
     }, 
     {
@@ -2182,32 +1954,20 @@
       "street": "Houtseweg"
     }, 
     {
+      "busnrs": [
+        "B1", 
+        "B2", 
+        "B3"
+      ], 
       "hnrlbls": [
-        "97-97B"
+        "97"
       ], 
       "housenumber": "97", 
-      "lat": 51.322450621899236, 
-      "lon": 4.840391720767165, 
+      "lat": 51.32253190309615, 
+      "lon": 4.840345657037856, 
       "municipality": "Beerse", 
       "pcode": "2340", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Houtseweg"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3"
-      ], 
-      "hnrlbls": [
-        "97-97B"
-      ], 
-      "housenumber": "97B", 
-      "lat": 51.322450621899236, 
-      "lon": 4.840391720767165, 
-      "municipality": "Beerse", 
-      "pcode": "2340", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Houtseweg"
     }, 
     {

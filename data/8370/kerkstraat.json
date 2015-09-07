@@ -1,43 +1,59 @@
 {
   "addresses": [
     {
-      "apptnrs": [
+      "busnrs": [
+        "1", 
+        "10", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
         "6", 
+        "7", 
+        "8", 
         "9"
       ], 
       "hnrlbls": [
-        "1-13"
+        "1"
       ], 
       "housenumber": "1", 
-      "lat": 51.31602021340956, 
-      "lon": 3.1280644645692237, 
+      "lat": 51.316100334829684, 
+      "lon": 3.1280498494700035, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
-      "hnrlbls": [
-        "10-12"
+      "apptnrs": [
+        "0101", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302", 
+        "0303"
       ], 
-      "housenumber": "10", 
-      "lat": 51.31565950982898, 
-      "lon": 3.128935747440748, 
-      "municipality": "Blankenberge", 
-      "pcode": "8370", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
-      "street": "Kerkstraat"
-    }, 
-    {
       "hnrlbls": [
         "100"
       ], 
       "housenumber": "100", 
-      "lat": 51.31359796951644, 
-      "lon": 3.1314024126319424, 
+      "lat": 51.313586842666595, 
+      "lon": 3.131352648568218, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Kerkstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "1000_1"
+      ], 
+      "housenumber": "1000_1", 
+      "lat": 51.31136086024267, 
+      "lon": 3.1340457750453172, 
+      "municipality": "Blankenberge", 
+      "pcode": "8370", 
+      "source": "manueleAanduidingVanStandplaats", 
       "street": "Kerkstraat"
     }, 
     {
@@ -45,11 +61,11 @@
         "101"
       ], 
       "housenumber": "101", 
-      "lat": 51.31377248337388, 
-      "lon": 3.1304069020151144, 
+      "lat": 51.31386063808539, 
+      "lon": 3.130541684517297, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -57,11 +73,11 @@
         "102"
       ], 
       "housenumber": "102", 
-      "lat": 51.31357926279176, 
-      "lon": 3.131504894075313, 
+      "lat": 51.31357064618356, 
+      "lon": 3.1314717020728056, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -69,11 +85,11 @@
         "103"
       ], 
       "housenumber": "103", 
-      "lat": 51.313794782802724, 
-      "lon": 3.1305279446857273, 
+      "lat": 51.31378387582864, 
+      "lon": 3.130533685437229, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -81,59 +97,47 @@
         "104"
       ], 
       "housenumber": "104", 
-      "lat": 51.31350950032004, 
-      "lon": 3.1316249406059624, 
+      "lat": 51.3134625070219, 
+      "lon": 3.1313943945031055, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
       "hnrlbls": [
-        "105-109"
+        "105"
       ], 
       "housenumber": "105", 
-      "lat": 51.3137362308624, 
-      "lon": 3.1306367938184794, 
+      "lat": 51.31380326789145, 
+      "lon": 3.1306862185429525, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
-      "hnrlbls": [
-        "106"
-      ], 
-      "housenumber": "106", 
-      "lat": 51.31339742568648, 
-      "lon": 3.131652876842591, 
-      "municipality": "Blankenberge", 
-      "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Kerkstraat"
-    }, 
-    {
-      "busnrs": [
-        "101", 
-        "102", 
-        "201", 
-        "202", 
-        "301", 
-        "302", 
-        "401", 
-        "402", 
-        "501", 
-        "502"
+      "apptnrs": [
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302", 
+        "0401", 
+        "0402", 
+        "0501", 
+        "0502"
       ], 
       "hnrlbls": [
         "107"
       ], 
       "housenumber": "107", 
-      "lat": 51.31373171649008, 
-      "lon": 3.130617693147486, 
+      "lat": 51.31377359346148, 
+      "lon": 3.130719711642348, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -141,62 +145,72 @@
         "108"
       ], 
       "housenumber": "108", 
-      "lat": 51.31336226446239, 
-      "lon": 3.131694690734006, 
+      "lat": 51.31336475525008, 
+      "lon": 3.1317007923455455, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
       "hnrlbls": [
-        "105-109"
+        "109"
       ], 
       "housenumber": "109", 
-      "lat": 51.3137362308624, 
-      "lon": 3.1306367938184794, 
+      "lat": 51.3137473819312, 
+      "lon": 3.130757702639525, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Kerkstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "1-13"
-      ], 
-      "housenumber": "11", 
-      "lat": 51.31602021340956, 
-      "lon": 3.1280644645692237, 
-      "municipality": "Blankenberge", 
-      "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
       "busnrs": [
-        "101"
+        "11", 
+        "12", 
+        "13", 
+        "14", 
+        "15", 
+        "16", 
+        "17"
       ], 
       "hnrlbls": [
-        "110"
+        "11"
       ], 
-      "housenumber": "110", 
-      "lat": 51.31333394524488, 
-      "lon": 3.131728864041173, 
+      "housenumber": "11", 
+      "lat": 51.315950925378765, 
+      "lon": 3.128212338373846, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
       "hnrlbls": [
+        "110"
+      ], 
+      "housenumber": "110", 
+      "lat": 51.313336943812914, 
+      "lon": 3.1317319399813526, 
+      "municipality": "Blankenberge", 
+      "pcode": "8370", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Kerkstraat"
+    }, 
+    {
+      "apptnrs": [
+        "0001", 
+        "0101"
+      ], 
+      "hnrlbls": [
         "111"
       ], 
       "housenumber": "111", 
-      "lat": 51.31361132182084, 
-      "lon": 3.130615014066309, 
+      "lat": 51.313653320135785, 
+      "lon": 3.130677009858536, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -204,11 +218,11 @@
         "112"
       ], 
       "housenumber": "112", 
-      "lat": 51.313305615542035, 
-      "lon": 3.131762033526624, 
+      "lat": 51.31331118586415, 
+      "lon": 3.1317617420860553, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -216,11 +230,11 @@
         "113"
       ], 
       "housenumber": "113", 
-      "lat": 51.31360994375739, 
-      "lon": 3.130792913703161, 
+      "lat": 51.313649813692805, 
+      "lon": 3.1307974476018305, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -228,11 +242,11 @@
         "114"
       ], 
       "housenumber": "114", 
-      "lat": 51.31327800477391, 
-      "lon": 3.1317951838698415, 
+      "lat": 51.31328330399563, 
+      "lon": 3.1317947561995165, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -240,11 +254,11 @@
         "115"
       ], 
       "housenumber": "115", 
-      "lat": 51.31354923045243, 
-      "lon": 3.1307722952867376, 
+      "lat": 51.313622551982355, 
+      "lon": 3.1309328607297573, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -252,94 +266,75 @@
         "116"
       ], 
       "housenumber": "116", 
-      "lat": 51.31324369147308, 
-      "lon": 3.131814885760976, 
+      "lat": 51.31325398572524, 
+      "lon": 3.131827951873087, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
-      "busnrs": [
-        "101", 
-        "201", 
-        "202", 
-        "302"
+      "apptnrs": [
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302", 
+        "0401", 
+        "0402", 
+        "0501"
       ], 
       "hnrlbls": [
-        "117-119"
+        "117"
       ], 
       "housenumber": "117", 
-      "lat": 51.313517668742165, 
-      "lon": 3.1308230508443984, 
+      "lat": 51.313577616316316, 
+      "lon": 3.1309941559116417, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
       "hnrlbls": [
-        "117-119"
+        "119"
       ], 
       "housenumber": "119", 
-      "lat": 51.313517668742165, 
-      "lon": 3.1308230508443984, 
+      "lat": 51.313538993897126, 
+      "lon": 3.1310402221797426, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
-      "hnrlbls": [
-        "10-12"
-      ], 
-      "housenumber": "12", 
-      "lat": 51.31565950982898, 
-      "lon": 3.128935747440748, 
-      "municipality": "Blankenberge", 
-      "pcode": "8370", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
-      "street": "Kerkstraat"
-    }, 
-    {
-      "busnrs": [
-        "101", 
-        "201", 
-        "202"
+      "apptnrs": [
+        "0101", 
+        "0201", 
+        "0202"
       ], 
       "hnrlbls": [
         "121"
       ], 
       "housenumber": "121", 
-      "lat": 51.3134008250094, 
-      "lon": 3.130979635599599, 
+      "lat": 51.313401488573355, 
+      "lon": 3.130965704545026, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
       "hnrlbls": [
-        "122"
-      ], 
-      "housenumber": "122", 
-      "lat": 51.31210387190709, 
-      "lon": 3.1331961659527066, 
-      "municipality": "Blankenberge", 
-      "pcode": "8370", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Kerkstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "123-125"
+        "123"
       ], 
       "housenumber": "123", 
-      "lat": 51.31332841952471, 
-      "lon": 3.131078954367113, 
+      "lat": 51.313418600111326, 
+      "lon": 3.1311925977035413, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -347,23 +342,23 @@
         "124"
       ], 
       "housenumber": "124", 
-      "lat": 51.31096394582422, 
-      "lon": 3.1345773808626807, 
+      "lat": 51.31095224625067, 
+      "lon": 3.134584719045919, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
       "hnrlbls": [
-        "123-125"
+        "125"
       ], 
       "housenumber": "125", 
-      "lat": 51.31332841952471, 
-      "lon": 3.131078954367113, 
+      "lat": 51.31339214880562, 
+      "lon": 3.1312248570257903, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -371,62 +366,52 @@
         "126"
       ], 
       "housenumber": "126", 
-      "lat": 51.31089516034276, 
-      "lon": 3.134679317956504, 
+      "lat": 51.31090360765943, 
+      "lon": 3.134687699817974, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
       "hnrlbls": [
-        "127-129"
+        "127"
       ], 
       "housenumber": "127", 
-      "lat": 51.31331801798746, 
-      "lon": 3.1312622564732706, 
+      "lat": 51.313327734302575, 
+      "lon": 3.13124578982438, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
-      "busnrs": [
-        "1"
+      "apptnrs": [
+        "0001", 
+        "0101", 
+        "0201"
       ], 
       "hnrlbls": [
         "128"
       ], 
       "housenumber": "128", 
-      "lat": 51.31086248536562, 
-      "lon": 3.13473554774445, 
+      "lat": 51.31087044452351, 
+      "lon": 3.134740213386247, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
       "hnrlbls": [
-        "127-129"
-      ], 
-      "housenumber": "129", 
-      "lat": 51.31331801798746, 
-      "lon": 3.1312622564732706, 
-      "municipality": "Blankenberge", 
-      "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Kerkstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "1-13"
+        "13"
       ], 
       "housenumber": "13", 
-      "lat": 51.31602021340956, 
-      "lon": 3.1280644645692237, 
+      "lat": 51.315923075870565, 
+      "lon": 3.128239761292843, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -434,109 +419,100 @@
         "130"
       ], 
       "housenumber": "130", 
-      "lat": 51.310829089923004, 
-      "lon": 3.134791653118356, 
+      "lat": 51.31083603664416, 
+      "lon": 3.134794050731945, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
       "hnrlbls": [
-        "16-133"
+        "131"
       ], 
       "housenumber": "131", 
-      "lat": 51.313278545378665, 
-      "lon": 3.131175235456059, 
+      "lat": 51.313297090283164, 
+      "lon": 3.131341416174083, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "101", 
-        "201"
+      "apptnrs": [
+        "0001", 
+        "0101", 
+        "0201"
       ], 
       "hnrlbls": [
         "132"
       ], 
       "housenumber": "132", 
-      "lat": 51.310783464303114, 
-      "lon": 3.1348645768785235, 
+      "lat": 51.31080173950605, 
+      "lon": 3.134849893069936, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
       "hnrlbls": [
-        "16-133"
+        "133"
       ], 
       "housenumber": "133", 
-      "lat": 51.313278545378665, 
-      "lon": 3.131175235456059, 
+      "lat": 51.313264712082805, 
+      "lon": 3.131382869372338, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
       "hnrlbls": [
-        "134-136"
-      ], 
-      "housenumber": "134", 
-      "lat": 51.31075934226188, 
-      "lon": 3.134904802553834, 
-      "municipality": "Blankenberge", 
-      "pcode": "8370", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Kerkstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "25-135"
+        "135"
       ], 
       "housenumber": "135", 
-      "lat": 51.313097146415785, 
-      "lon": 3.1314943264136934, 
+      "lat": 51.31311447254124, 
+      "lon": 3.1315523879867895, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
       "hnrlbls": [
-        "134-136"
+        "136"
       ], 
       "housenumber": "136", 
-      "lat": 51.31075934226188, 
-      "lon": 3.134904802553834, 
+      "lat": 51.31071911321397, 
+      "lon": 3.134934841289818, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
-      "busnrs": [
-        "202", 
-        "301", 
-        "302", 
-        "401", 
-        "402", 
-        "501", 
-        "502"
+      "apptnrs": [
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302", 
+        "0401", 
+        "0402", 
+        "0501", 
+        "0502"
       ], 
       "hnrlbls": [
-        "19-139"
+        "137"
       ], 
       "housenumber": "137", 
-      "lat": 51.31299952427298, 
-      "lon": 3.131494482369408, 
+      "lat": 51.31305599340918, 
+      "lon": 3.1316166236347165, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -544,61 +520,72 @@
         "138"
       ], 
       "housenumber": "138", 
-      "lat": 51.31067710768963, 
-      "lon": 3.1349669350516876, 
+      "lat": 51.31065202619397, 
+      "lon": 3.1349063556719483, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
       "hnrlbls": [
-        "19-139"
+        "139"
       ], 
       "housenumber": "139", 
-      "lat": 51.31299952427298, 
-      "lon": 3.131494482369408, 
+      "lat": 51.31301452631539, 
+      "lon": 3.131674382769991, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
       "apptnrs": [
+        "1A", 
+        "1B", 
+        "1C", 
+        "2A", 
         "2B", 
         "2C", 
         "3A", 
+        "3B", 
         "3C", 
-        "5B"
+        "4A", 
+        "4B", 
+        "4C", 
+        "5A", 
+        "5B", 
+        "5C", 
+        "6G", 
+        "6H"
       ], 
       "hnrlbls": [
-        "3-18"
+        "14"
       ], 
       "housenumber": "14", 
-      "lat": 51.315623958768086, 
-      "lon": 3.1290949131452788, 
+      "lat": 51.31558283988549, 
+      "lon": 3.1288936085610906, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
       "apptnrs": [
-        "0L", 
-        "1", 
         "1L", 
         "1R", 
-        "2R"
+        "GV L", 
+        "GV R"
       ], 
       "hnrlbls": [
         "140"
       ], 
       "housenumber": "140", 
-      "lat": 51.3106169617939, 
-      "lon": 3.1350525780107485, 
+      "lat": 51.31063088891077, 
+      "lon": 3.135077882687734, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -606,11 +593,11 @@
         "141"
       ], 
       "housenumber": "141", 
-      "lat": 51.31283149321748, 
-      "lon": 3.1317163960435805, 
+      "lat": 51.31292949980139, 
+      "lon": 3.1317703056216155, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -618,145 +605,143 @@
         "144"
       ], 
       "housenumber": "144", 
-      "lat": 51.31057893437203, 
-      "lon": 3.1351645992391597, 
+      "lat": 51.310584487635765, 
+      "lon": 3.1351799423735423, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
       "hnrlbls": [
-        "13-145"
+        "145"
       ], 
       "housenumber": "145", 
-      "lat": 51.31265543753707, 
-      "lon": 3.1318412724140003, 
+      "lat": 51.3127322760642, 
+      "lon": 3.131994427799677, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "101", 
-        "102", 
-        "201", 
-        "202"
+      "apptnrs": [
+        "0001", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202"
       ], 
       "hnrlbls": [
         "146"
       ], 
       "housenumber": "146", 
-      "lat": 51.31050914673359, 
-      "lon": 3.1351789265338637, 
+      "lat": 51.31049387659842, 
+      "lon": 3.1351800482560264, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
-      "hnrlbls": [
-        "147-149"
-      ], 
-      "housenumber": "147", 
-      "lat": 51.31257990280584, 
-      "lon": 3.1320370594638045, 
-      "municipality": "Blankenberge", 
-      "pcode": "8370", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Kerkstraat"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "101", 
-        "102", 
-        "2", 
-        "201", 
-        "202"
+      "apptnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202"
       ], 
       "hnrlbls": [
         "148"
       ], 
       "housenumber": "148", 
-      "lat": 51.310435277702474, 
-      "lon": 3.1352675141770017, 
+      "lat": 51.310431215726055, 
+      "lon": 3.1352659006555883, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
-      "busnrs": [
-        "103", 
-        "202", 
-        "203", 
-        "401", 
-        "402", 
-        "403", 
-        "503", 
-        "602"
+      "apptnrs": [
+        "0101", 
+        "0102", 
+        "0103", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0301", 
+        "0302", 
+        "0303", 
+        "0401", 
+        "0402", 
+        "0403", 
+        "0501", 
+        "0502", 
+        "0503", 
+        "0601", 
+        "0602"
       ], 
       "hnrlbls": [
-        "147-149"
+        "149"
       ], 
       "housenumber": "149", 
-      "lat": 51.31257990280584, 
-      "lon": 3.1320370594638045, 
+      "lat": 51.31259136233602, 
+      "lon": 3.1321704362044955, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "101", 
-        "102", 
-        "201", 
-        "202", 
-        "3", 
-        "301", 
-        "401"
+      "apptnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0401"
       ], 
       "hnrlbls": [
-        "15-64B"
+        "15"
       ], 
       "housenumber": "15", 
-      "lat": 51.315837755590536, 
-      "lon": 3.1282558055456837, 
+      "lat": 51.315846917311326, 
+      "lon": 3.128315234478995, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
-      "busnrs": [
-        "101"
+      "apptnrs": [
+        "0001", 
+        "0101"
       ], 
       "hnrlbls": [
         "150"
       ], 
       "housenumber": "150", 
-      "lat": 51.31040078787153, 
-      "lon": 3.135417162598902, 
+      "lat": 51.3103964984156, 
+      "lon": 3.1354109654007747, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
       "hnrlbls": [
-        "136-151"
+        "151"
       ], 
       "housenumber": "151", 
-      "lat": 51.31245555222098, 
-      "lon": 3.1321721787779757, 
+      "lat": 51.31249938241824, 
+      "lon": 3.132280598513006, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -764,11 +749,11 @@
         "152"
       ], 
       "housenumber": "152", 
-      "lat": 51.310299147599665, 
-      "lon": 3.1354026437162794, 
+      "lat": 51.31029650825042, 
+      "lon": 3.1354081638788167, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -776,11 +761,11 @@
         "153"
       ], 
       "housenumber": "153", 
-      "lat": 51.311785020380555, 
-      "lon": 3.132799431787529, 
+      "lat": 51.311791170130675, 
+      "lon": 3.132811603701918, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -788,20 +773,18 @@
         "1L", 
         "1R", 
         "2L", 
-        "2R"
-      ], 
-      "busnrs": [
-        "1"
+        "2R", 
+        "GLVL"
       ], 
       "hnrlbls": [
         "154"
       ], 
       "housenumber": "154", 
-      "lat": 51.31024892523657, 
-      "lon": 3.1354657913080306, 
+      "lat": 51.31025439754552, 
+      "lon": 3.135481997077276, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -809,11 +792,11 @@
         "155"
       ], 
       "housenumber": "155", 
-      "lat": 51.31136268212389, 
-      "lon": 3.1333234088656288, 
+      "lat": 51.311373527578255, 
+      "lon": 3.1333290017453184, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -821,26 +804,23 @@
         "156"
       ], 
       "housenumber": "156", 
-      "lat": 51.31019130415987, 
-      "lon": 3.1355176605580475, 
+      "lat": 51.31019365082303, 
+      "lon": 3.1355272080237886, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
-      "busnrs": [
-        "101"
-      ], 
       "hnrlbls": [
         "157"
       ], 
       "housenumber": "157", 
-      "lat": 51.31123233728541, 
-      "lon": 3.133642558075762, 
+      "lat": 51.31123637472007, 
+      "lon": 3.1336676947339237, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -848,11 +828,11 @@
         "158"
       ], 
       "housenumber": "158", 
-      "lat": 51.31016272428361, 
-      "lon": 3.1355614457005836, 
+      "lat": 51.31013771732912, 
+      "lon": 3.1355166416775213, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -860,39 +840,11 @@
         "159"
       ], 
       "housenumber": "159", 
-      "lat": 51.311039494495844, 
-      "lon": 3.1336749255413365, 
+      "lat": 51.31108702090488, 
+      "lon": 3.133629201472029, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Kerkstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "/zn-1591"
-      ], 
-      "housenumber": "1591", 
-      "lat": 51.3087920202002, 
-      "lon": 3.136960410456927, 
-      "municipality": "Blankenberge", 
-      "pcode": "8370", 
-      "source": "afgeleidVanStraat", 
-      "street": "Kerkstraat"
-    }, 
-    {
-      "apptnrs": [
-        "1C", 
-        "5A"
-      ], 
-      "hnrlbls": [
-        "3-18"
-      ], 
-      "housenumber": "16", 
-      "lat": 51.315623958768086, 
-      "lon": 3.1290949131452788, 
-      "municipality": "Blankenberge", 
-      "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -900,23 +852,11 @@
         "160"
       ], 
       "housenumber": "160", 
-      "lat": 51.31012681171817, 
-      "lon": 3.1355916560073727, 
+      "lat": 51.31012109780549, 
+      "lon": 3.1355867874008743, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Kerkstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "161-163"
-      ], 
-      "housenumber": "161", 
-      "lat": 51.31109064702783, 
-      "lon": 3.1338046636339842, 
-      "municipality": "Blankenberge", 
-      "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -924,28 +864,29 @@
         "162"
       ], 
       "housenumber": "162", 
-      "lat": 51.31011736931087, 
-      "lon": 3.1356690698074283, 
+      "lat": 51.31012477208468, 
+      "lon": 3.1356893838106266, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
-      "busnrs": [
-        "101", 
-        "201", 
-        "202"
+      "apptnrs": [
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202"
       ], 
       "hnrlbls": [
-        "161-163"
+        "163"
       ], 
       "housenumber": "163", 
-      "lat": 51.31109064702783, 
-      "lon": 3.1338046636339842, 
+      "lat": 51.31109233636558, 
+      "lon": 3.133811503466177, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -953,26 +894,26 @@
         "164"
       ], 
       "housenumber": "164", 
-      "lat": 51.31008336634339, 
-      "lon": 3.135735946704835, 
+      "lat": 51.31007861936439, 
+      "lon": 3.1357462557239506, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
-      "busnrs": [
-        "101"
+      "apptnrs": [
+        "0101"
       ], 
       "hnrlbls": [
         "165"
       ], 
       "housenumber": "165", 
-      "lat": 51.31102902399239, 
-      "lon": 3.1338778696612413, 
+      "lat": 51.31103197596199, 
+      "lon": 3.1338851062875737, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -980,15 +921,16 @@
         "166"
       ], 
       "housenumber": "166", 
-      "lat": 51.31000163992423, 
-      "lon": 3.1357087085851956, 
+      "lat": 51.30999420770994, 
+      "lon": 3.135711487093119, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
       "apptnrs": [
+        "GLVL", 
         "VER1", 
         "VER2", 
         "VER3"
@@ -997,11 +939,11 @@
         "167"
       ], 
       "housenumber": "167", 
-      "lat": 51.31096347227782, 
-      "lon": 3.1338932341167824, 
+      "lat": 51.31096971029203, 
+      "lon": 3.1339052601872637, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -1009,59 +951,44 @@
         "168"
       ], 
       "housenumber": "168", 
-      "lat": 51.31000549270604, 
-      "lon": 3.135837116802877, 
+      "lat": 51.30998062866926, 
+      "lon": 3.1358146835417973, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
       "apptnrs": [
-        "VER2"
-      ], 
-      "busnrs": [
-        "A"
-      ], 
-      "hnrlbls": [
-        "169"
-      ], 
-      "housenumber": "169", 
-      "lat": 51.31094644095201, 
-      "lon": 3.1339410175974485, 
-      "municipality": "Blankenberge", 
-      "pcode": "8370", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Kerkstraat"
-    }, 
-    {
-      "apptnrs": [
-        "1.0"
+        "V1", 
+        "V2"
       ], 
       "hnrlbls": [
         "169A"
       ], 
       "housenumber": "169A", 
-      "lat": 51.31090787704822, 
-      "lon": 3.1339410363752416, 
+      "lat": 51.310909651764995, 
+      "lon": 3.1339474436325268, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
       "apptnrs": [
-        "1.0"
+        "GV", 
+        "V1", 
+        "V2"
       ], 
       "hnrlbls": [
         "169B"
       ], 
       "housenumber": "169B", 
-      "lat": 51.31086915561643, 
-      "lon": 3.1340035945232088, 
+      "lat": 51.310893153426576, 
+      "lon": 3.134055022967313, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -1074,14 +1001,14 @@
         "32"
       ], 
       "hnrlbls": [
-        "17-25W"
+        "17"
       ], 
       "housenumber": "17", 
-      "lat": 51.31552555640687, 
-      "lon": 3.1284361138266283, 
+      "lat": 51.31570930117928, 
+      "lon": 3.1284794156598195, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -1089,60 +1016,49 @@
         "170"
       ], 
       "housenumber": "170", 
-      "lat": 51.30993858673564, 
-      "lon": 3.135817374543154, 
+      "lat": 51.30993273112306, 
+      "lon": 3.1358334499348404, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "101", 
-        "102", 
-        "2", 
-        "201", 
-        "202", 
-        "301"
+      "apptnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301"
       ], 
       "hnrlbls": [
         "171"
       ], 
       "housenumber": "171", 
-      "lat": 51.31074411760838, 
-      "lon": 3.134003898567797, 
+      "lat": 51.31073504067759, 
+      "lon": 3.134012745026667, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "101", 
-        "201"
+        "201", 
+        "301"
       ], 
       "hnrlbls": [
         "171A"
       ], 
       "housenumber": "171A", 
-      "lat": 51.310848952709975, 
-      "lon": 3.134126618913464, 
+      "lat": 51.31084748196007, 
+      "lon": 3.134123502470568, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Kerkstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "171B"
-      ], 
-      "housenumber": "171B", 
-      "lat": 51.310696058152644, 
-      "lon": 3.1338776649100692, 
-      "municipality": "Blankenberge", 
-      "pcode": "8370", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -1150,11 +1066,11 @@
         "172"
       ], 
       "housenumber": "172", 
-      "lat": 51.30990630349066, 
-      "lon": 3.1358767473675044, 
+      "lat": 51.30989595074396, 
+      "lon": 3.135875300388766, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -1162,23 +1078,11 @@
         "173"
       ], 
       "housenumber": "173", 
-      "lat": 51.31073999627276, 
-      "lon": 3.134238227321617, 
+      "lat": 51.31074708338901, 
+      "lon": 3.1342541034474687, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Kerkstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "174-178"
-      ], 
-      "housenumber": "174", 
-      "lat": 51.30979936210739, 
-      "lon": 3.135905682655486, 
-      "municipality": "Blankenberge", 
-      "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -1186,97 +1090,37 @@
         "175"
       ], 
       "housenumber": "175", 
-      "lat": 51.31068081222678, 
-      "lon": 3.1342349200254294, 
+      "lat": 51.31069461828774, 
+      "lon": 3.134257215702176, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
-      "hnrlbls": [
-        "174-178"
-      ], 
-      "housenumber": "176", 
-      "lat": 51.30979936210739, 
-      "lon": 3.135905682655486, 
-      "municipality": "Blankenberge", 
-      "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Kerkstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "177-179"
-      ], 
-      "housenumber": "177", 
-      "lat": 51.31058947528073, 
-      "lon": 3.1343638457599052, 
-      "municipality": "Blankenberge", 
-      "pcode": "8370", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Kerkstraat"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "101", 
-        "102", 
-        "103", 
-        "104", 
-        "2", 
-        "201", 
-        "202", 
-        "203", 
-        "204", 
-        "301", 
-        "302"
+      "apptnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0104", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0204", 
+        "0301", 
+        "0302"
       ], 
       "hnrlbls": [
-        "174-178"
+        "178"
       ], 
       "housenumber": "178", 
-      "lat": 51.30979936210739, 
-      "lon": 3.135905682655486, 
+      "lat": 51.30975970105682, 
+      "lon": 3.1359557844799437, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Kerkstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "177-179"
-      ], 
-      "housenumber": "179", 
-      "lat": 51.31058947528073, 
-      "lon": 3.1343638457599052, 
-      "municipality": "Blankenberge", 
-      "pcode": "8370", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Kerkstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "3-18"
-      ], 
-      "housenumber": "18", 
-      "lat": 51.315623958768086, 
-      "lon": 3.1290949131452788, 
-      "municipality": "Blankenberge", 
-      "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Kerkstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "180"
-      ], 
-      "housenumber": "180", 
-      "lat": 51.30964842449242, 
-      "lon": 3.1358617751856, 
-      "municipality": "Blankenberge", 
-      "pcode": "8370", 
-      "source": "geinterpoleerdObvWegverbinding", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -1284,38 +1128,23 @@
         "181"
       ], 
       "housenumber": "181", 
-      "lat": 51.3105665709714, 
-      "lon": 3.1344087723844556, 
+      "lat": 51.310592474463384, 
+      "lon": 3.134392882224292, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
         "182"
       ], 
       "housenumber": "182", 
-      "lat": 51.30968443081103, 
-      "lon": 3.136047992186309, 
+      "lat": 51.309678936524165, 
+      "lon": 3.136055595783392, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Kerkstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "183-185"
-      ], 
-      "housenumber": "183", 
-      "lat": 51.310480906825745, 
-      "lon": 3.1345127340116345, 
-      "municipality": "Blankenberge", 
-      "pcode": "8370", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -1323,23 +1152,11 @@
         "184"
       ], 
       "housenumber": "184", 
-      "lat": 51.3096727177202, 
-      "lon": 3.1361836960508773, 
+      "lat": 51.30965942168989, 
+      "lon": 3.136184478311551, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Kerkstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "183-185"
-      ], 
-      "housenumber": "185", 
-      "lat": 51.310480906825745, 
-      "lon": 3.1345127340116345, 
-      "municipality": "Blankenberge", 
-      "pcode": "8370", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -1347,27 +1164,29 @@
         "186"
       ], 
       "housenumber": "186", 
-      "lat": 51.30962142409503, 
-      "lon": 3.1362130218966264, 
+      "lat": 51.30962258628688, 
+      "lon": 3.1362469829567363, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "101"
+      "apptnrs": [
+        "0001", 
+        "0101", 
+        "0102", 
+        "0201"
       ], 
       "hnrlbls": [
         "187"
       ], 
       "housenumber": "187", 
-      "lat": 51.31046367545711, 
-      "lon": 3.1345326970201843, 
+      "lat": 51.310464279151866, 
+      "lon": 3.134530242739685, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -1375,11 +1194,11 @@
         "188"
       ], 
       "housenumber": "188", 
-      "lat": 51.3095884742947, 
-      "lon": 3.1362688260478695, 
+      "lat": 51.3095761336038, 
+      "lon": 3.1362750331547007, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -1387,39 +1206,23 @@
         "189"
       ], 
       "housenumber": "189", 
-      "lat": 51.31043142180302, 
-      "lon": 3.1345775844134156, 
+      "lat": 51.31042773301267, 
+      "lon": 3.1345686462337596, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
-      "busnrs": [
-        "2", 
-        "23"
-      ], 
       "hnrlbls": [
-        "17-25W"
+        "19"
       ], 
       "housenumber": "19", 
-      "lat": 51.31552555640687, 
-      "lon": 3.1284361138266283, 
+      "lat": 51.315636024082146, 
+      "lon": 3.1285467784639986, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Kerkstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "190"
-      ], 
-      "housenumber": "190", 
-      "lat": 51.30952325892918, 
-      "lon": 3.1362906318776753, 
-      "municipality": "Blankenberge", 
-      "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -1427,11 +1230,11 @@
         "191"
       ], 
       "housenumber": "191", 
-      "lat": 51.31040863208077, 
-      "lon": 3.134642157362894, 
+      "lat": 51.31041093282299, 
+      "lon": 3.1346386541086613, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -1439,23 +1242,27 @@
         "192"
       ], 
       "housenumber": "192", 
-      "lat": 51.30952234104051, 
-      "lon": 3.1365914186303896, 
+      "lat": 51.30952803063133, 
+      "lon": 3.1366025986455823, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
+      "apptnrs": [
+        "0001", 
+        "0101"
+      ], 
       "hnrlbls": [
         "193"
       ], 
       "housenumber": "193", 
-      "lat": 51.31033347768574, 
-      "lon": 3.1345727224557964, 
+      "lat": 51.31037061786147, 
+      "lon": 3.1346863367457325, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -1463,11 +1270,11 @@
         "194"
       ], 
       "housenumber": "194", 
-      "lat": 51.30941060072081, 
-      "lon": 3.136495986334839, 
+      "lat": 51.309408207712075, 
+      "lon": 3.1365165594083675, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -1475,33 +1282,33 @@
         "195"
       ], 
       "housenumber": "195", 
-      "lat": 51.31031632551812, 
-      "lon": 3.1346866283669086, 
+      "lat": 51.31032111151315, 
+      "lon": 3.1346714416110784, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "101", 
-        "102", 
-        "2", 
-        "201", 
-        "202", 
-        "301", 
-        "302"
+      "apptnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302"
       ], 
       "hnrlbls": [
         "196"
       ], 
       "housenumber": "196", 
-      "lat": 51.309320993046285, 
-      "lon": 3.1366185476069885, 
+      "lat": 51.30934383766449, 
+      "lon": 3.1366456240010185, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -1509,23 +1316,11 @@
         "197"
       ], 
       "housenumber": "197", 
-      "lat": 51.310256513301724, 
-      "lon": 3.1347006918994675, 
+      "lat": 51.31026813049691, 
+      "lon": 3.134737244842781, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Kerkstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "198"
-      ], 
-      "housenumber": "198", 
-      "lat": 51.30924357980535, 
-      "lon": 3.1366343649428075, 
-      "municipality": "Blankenberge", 
-      "pcode": "8370", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -1533,29 +1328,47 @@
         "199"
       ], 
       "housenumber": "199", 
-      "lat": 51.3102345994877, 
-      "lon": 3.1348148671952614, 
+      "lat": 51.31023403788702, 
+      "lon": 3.134812730668818, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
-      "busnrs": [
-        "102", 
-        "201", 
-        "502", 
-        "902"
+      "apptnrs": [
+        "-101", 
+        "0002", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302", 
+        "0401", 
+        "0402", 
+        "0501", 
+        "0502", 
+        "0601", 
+        "0602", 
+        "0701", 
+        "0702", 
+        "0801", 
+        "0802", 
+        "0803", 
+        "0901", 
+        "0902", 
+        "1001"
       ], 
       "hnrlbls": [
         "2"
       ], 
       "housenumber": "2", 
-      "lat": 51.31603524018529, 
-      "lon": 3.1284008740034395, 
+      "lat": 51.31603345817757, 
+      "lon": 3.1283422522984448, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -1563,11 +1376,11 @@
         "20"
       ], 
       "housenumber": "20", 
-      "lat": 51.315525444051936, 
-      "lon": 3.129095671689559, 
+      "lat": 51.31550754165555, 
+      "lon": 3.1290427873139532, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -1575,11 +1388,11 @@
         "200"
       ], 
       "housenumber": "200", 
-      "lat": 51.309215689078975, 
-      "lon": 3.136666656327796, 
+      "lat": 51.30920849750781, 
+      "lon": 3.136649348888201, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -1590,11 +1403,11 @@
         "201"
       ], 
       "housenumber": "201", 
-      "lat": 51.31015898323116, 
-      "lon": 3.134891023043716, 
+      "lat": 51.31016009330401, 
+      "lon": 3.134885399967849, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -1602,26 +1415,23 @@
         "202"
       ], 
       "housenumber": "202", 
-      "lat": 51.3091609617292, 
-      "lon": 3.136737521743937, 
+      "lat": 51.3091597144483, 
+      "lon": 3.136729953276727, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
-      "busnrs": [
-        "101"
-      ], 
       "hnrlbls": [
-        "203-205"
+        "203"
       ], 
       "housenumber": "203", 
-      "lat": 51.30979333323672, 
-      "lon": 3.135378034720781, 
+      "lat": 51.309798115306556, 
+      "lon": 3.1353883781400382, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -1629,23 +1439,11 @@
         "204"
       ], 
       "housenumber": "204", 
-      "lat": 51.309128433591496, 
-      "lon": 3.136773377887985, 
+      "lat": 51.30911915017119, 
+      "lon": 3.1367450821785807, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Kerkstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "203-205"
-      ], 
-      "housenumber": "205", 
-      "lat": 51.30979333323672, 
-      "lon": 3.135378034720781, 
-      "municipality": "Blankenberge", 
-      "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -1654,26 +1452,14 @@
         "VER2"
       ], 
       "hnrlbls": [
-        "206-206B"
+        "206"
       ], 
       "housenumber": "206", 
-      "lat": 51.30915975271659, 
-      "lon": 3.1369152560467364, 
+      "lat": 51.30914406289313, 
+      "lon": 3.1368932970169827, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Kerkstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "206-206B"
-      ], 
-      "housenumber": "206B", 
-      "lat": 51.30915975271659, 
-      "lon": 3.1369152560467364, 
-      "municipality": "Blankenberge", 
-      "pcode": "8370", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -1681,11 +1467,11 @@
         "207"
       ], 
       "housenumber": "207", 
-      "lat": 51.30970844619142, 
-      "lon": 3.1353926180084146, 
+      "lat": 51.30971309661458, 
+      "lon": 3.135398948977076, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -1693,11 +1479,11 @@
         "208"
       ], 
       "housenumber": "208", 
-      "lat": 51.30906077512163, 
-      "lon": 3.136854194565961, 
+      "lat": 51.30906043994383, 
+      "lon": 3.136847892792503, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -1705,26 +1491,11 @@
         "209"
       ], 
       "housenumber": "209", 
-      "lat": 51.30964332855115, 
-      "lon": 3.135371968585091, 
+      "lat": 51.309650348031425, 
+      "lon": 3.135389997680281, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Kerkstraat"
-    }, 
-    {
-      "busnrs": [
-        "2"
-      ], 
-      "hnrlbls": [
-        "17-25W"
-      ], 
-      "housenumber": "21", 
-      "lat": 51.31552555640687, 
-      "lon": 3.1284361138266283, 
-      "municipality": "Blankenberge", 
-      "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -1732,59 +1503,62 @@
         "210"
       ], 
       "housenumber": "210", 
-      "lat": 51.30909079447413, 
-      "lon": 3.137044010492223, 
+      "lat": 51.30901706751137, 
+      "lon": 3.1368869041641845, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
       "hnrlbls": [
-        "211-211C"
-      ], 
-      "housenumber": "211", 
-      "lat": 51.30951389682631, 
-      "lon": 3.1356065985459325, 
-      "municipality": "Blankenberge", 
-      "pcode": "8370", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Kerkstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "211-211C"
+        "211A"
       ], 
       "housenumber": "211A", 
-      "lat": 51.30951389682631, 
-      "lon": 3.1356065985459325, 
+      "lat": 51.30960346266193, 
+      "lon": 3.13560107101488, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
       "hnrlbls": [
-        "211-211C"
+        "211B"
       ], 
-      "housenumber": "211C", 
-      "lat": 51.30951389682631, 
-      "lon": 3.1356065985459325, 
+      "housenumber": "211B", 
+      "lat": 51.30949164317349, 
+      "lon": 3.135731394022605, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
+      "hnrlbls": [
+        "211C"
+      ], 
+      "housenumber": "211C", 
+      "lat": 51.3094438795014, 
+      "lon": 3.1358062358908096, 
+      "municipality": "Blankenberge", 
+      "pcode": "8370", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Kerkstraat"
+    }, 
+    {
+      "apptnrs": [
+        "GLVL"
+      ], 
       "hnrlbls": [
         "212"
       ], 
       "housenumber": "212", 
-      "lat": 51.309048405122624, 
-      "lon": 3.1370997762638018, 
+      "lat": 51.30899499408649, 
+      "lon": 3.1369772712605557, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -1792,32 +1566,34 @@
         "213"
       ], 
       "housenumber": "213", 
-      "lat": 51.30938319976982, 
-      "lon": 3.135823332607649, 
+      "lat": 51.30939557621799, 
+      "lon": 3.135855132015068, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "102", 
-        "103", 
-        "201", 
-        "202", 
-        "301", 
-        "302"
+      "apptnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302"
       ], 
       "hnrlbls": [
         "214"
       ], 
       "housenumber": "214", 
-      "lat": 51.308951963713405, 
-      "lon": 3.1371703100644384, 
+      "lat": 51.30887272514471, 
+      "lon": 3.137010481354745, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -1825,23 +1601,11 @@
         "215"
       ], 
       "housenumber": "215", 
-      "lat": 51.30931590520037, 
-      "lon": 3.135852652098415, 
+      "lat": 51.30931936122099, 
+      "lon": 3.1358392221048987, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Kerkstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "216"
-      ], 
-      "housenumber": "216", 
-      "lat": 51.308900439973385, 
-      "lon": 3.137212118264092, 
-      "municipality": "Blankenberge", 
-      "pcode": "8370", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -1849,23 +1613,11 @@
         "217"
       ], 
       "housenumber": "217", 
-      "lat": 51.30926865794289, 
-      "lon": 3.135899368712081, 
+      "lat": 51.30925935492514, 
+      "lon": 3.135869209089046, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Kerkstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "218"
-      ], 
-      "housenumber": "218", 
-      "lat": 51.30880919043007, 
-      "lon": 3.137245941451467, 
-      "municipality": "Blankenberge", 
-      "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -1873,44 +1625,37 @@
         "219"
       ], 
       "housenumber": "219", 
-      "lat": 51.30922142745611, 
-      "lon": 3.1359390570005923, 
+      "lat": 51.30923928130431, 
+      "lon": 3.136004846273265, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Kerkstraat"
-    }, 
-    {
-      "busnrs": [
-        "101", 
-        "601", 
-        "602"
-      ], 
-      "hnrlbls": [
-        "5-22"
-      ], 
-      "housenumber": "22", 
-      "lat": 51.315506611102684, 
-      "lon": 3.129246071944776, 
-      "municipality": "Blankenberge", 
-      "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Kerkstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "220-222"
-      ], 
-      "housenumber": "220", 
-      "lat": 51.3086926248622, 
-      "lon": 3.1373089751656433, 
-      "municipality": "Blankenberge", 
-      "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
       "apptnrs": [
+        "0101", 
+        "0201", 
+        "0301", 
+        "0401", 
+        "0501", 
+        "0601", 
+        "0602"
+      ], 
+      "hnrlbls": [
+        "22"
+      ], 
+      "housenumber": "22", 
+      "lat": 51.3154429194798, 
+      "lon": 3.1290696108142053, 
+      "municipality": "Blankenberge", 
+      "pcode": "8370", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Kerkstraat"
+    }, 
+    {
+      "apptnrs": [
+        "GLVL", 
         "VER1", 
         "VER2", 
         "VER3"
@@ -1919,23 +1664,23 @@
         "221"
       ], 
       "housenumber": "221", 
-      "lat": 51.309190043068824, 
-      "lon": 3.136058929994893, 
+      "lat": 51.30919344911607, 
+      "lon": 3.1360579792741894, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
       "hnrlbls": [
-        "220-222"
+        "222"
       ], 
       "housenumber": "222", 
-      "lat": 51.3086926248622, 
-      "lon": 3.1373089751656433, 
+      "lat": 51.308675013684244, 
+      "lon": 3.137335687260126, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -1943,45 +1688,81 @@
         "223"
       ], 
       "housenumber": "223", 
-      "lat": 51.30911496396387, 
-      "lon": 3.1360312289912575, 
+      "lat": 51.30912937552898, 
+      "lon": 3.136103133084129, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
-      "busnrs": [
-        "101"
+      "apptnrs": [
+        "0101"
       ], 
       "hnrlbls": [
         "224"
       ], 
       "housenumber": "224", 
-      "lat": 51.3086299251757, 
-      "lon": 3.137417196243615, 
+      "lat": 51.308618638499475, 
+      "lon": 3.1374037261880448, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
-      "apptnrs": [
+      "busnrs": [
+        "0A", 
+        "0B", 
+        "0C", 
+        "1A", 
+        "1B", 
+        "1C", 
+        "1D", 
         "2A", 
+        "2B", 
+        "2C", 
+        "2D", 
         "3A", 
         "3B", 
         "3C", 
-        "4A"
+        "3D", 
+        "4A", 
+        "4B", 
+        "4C", 
+        "4D", 
+        "ST 1", 
+        "ST 2", 
+        "ST 3", 
+        "ST 4", 
+        "ST 5", 
+        "ST 6", 
+        "ST 7", 
+        "ST 8", 
+        "ST 9", 
+        "ST10", 
+        "ST11", 
+        "ST12", 
+        "ST13", 
+        "ST14", 
+        "ST15", 
+        "ST16", 
+        "ST17", 
+        "ST18", 
+        "ST19", 
+        "ST20", 
+        "ST21", 
+        "ST22"
       ], 
       "hnrlbls": [
         "225"
       ], 
       "housenumber": "225", 
-      "lat": 51.30877002052424, 
-      "lon": 3.1352340385077326, 
+      "lat": 51.308959286993975, 
+      "lon": 3.1357218271174845, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -1989,11 +1770,11 @@
         "226"
       ], 
       "housenumber": "226", 
-      "lat": 51.308555832473154, 
-      "lon": 3.1374584533334517, 
+      "lat": 51.308552095241964, 
+      "lon": 3.1374621377160654, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -2001,11 +1782,11 @@
         "227"
       ], 
       "housenumber": "227", 
-      "lat": 51.3088925304325, 
-      "lon": 3.136113992899888, 
+      "lat": 51.30893032559881, 
+      "lon": 3.1361869987329594, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -2013,43 +1794,33 @@
         "228"
       ], 
       "housenumber": "228", 
-      "lat": 51.30851846313491, 
-      "lon": 3.1374955838981418, 
+      "lat": 51.308512905200956, 
+      "lon": 3.137488416351944, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
       "apptnrs": [
-        "VER1", 
-        "VER2"
+        "0001", 
+        "0101", 
+        "0201"
       ], 
       "hnrlbls": [
         "229"
       ], 
       "housenumber": "229", 
-      "lat": 51.30888646974595, 
-      "lon": 3.1362227246814554, 
+      "lat": 51.30893082440902, 
+      "lon": 3.136312767756401, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Kerkstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "17-25W"
-      ], 
-      "housenumber": "23", 
-      "lat": 51.31552555640687, 
-      "lon": 3.1284361138266283, 
-      "municipality": "Blankenberge", 
-      "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
       "apptnrs": [
+        "GLVL", 
         "VER1", 
         "VER2", 
         "VER3"
@@ -2058,11 +1829,11 @@
         "230"
       ], 
       "housenumber": "230", 
-      "lat": 51.30847829793952, 
-      "lon": 3.1375231790697926, 
+      "lat": 51.30847389340066, 
+      "lon": 3.137514546808227, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -2070,23 +1841,11 @@
         "231"
       ], 
       "housenumber": "231", 
-      "lat": 51.308843034077505, 
-      "lon": 3.136272925164932, 
+      "lat": 51.3088913950893, 
+      "lon": 3.136367881971255, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Kerkstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "232"
-      ], 
-      "housenumber": "232", 
-      "lat": 51.308402079930936, 
-      "lon": 3.137714654488995, 
-      "municipality": "Blankenberge", 
-      "pcode": "8370", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -2094,26 +1853,26 @@
         "233"
       ], 
       "housenumber": "233", 
-      "lat": 51.30881657736912, 
-      "lon": 3.136356667367898, 
+      "lat": 51.30881705247046, 
+      "lon": 3.136350487606213, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
-      "busnrs": [
-        "101"
+      "apptnrs": [
+        "0101"
       ], 
       "hnrlbls": [
         "235"
       ], 
       "housenumber": "235", 
-      "lat": 51.30877025136664, 
-      "lon": 3.136396904553971, 
+      "lat": 51.308831686628956, 
+      "lon": 3.1365216341436803, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -2121,26 +1880,23 @@
         "236"
       ], 
       "housenumber": "236", 
-      "lat": 51.30832667489268, 
-      "lon": 3.137906538045986, 
+      "lat": 51.30832368435701, 
+      "lon": 3.1379215329233427, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
-      "apptnrs": [
-        "VER1"
-      ], 
       "hnrlbls": [
         "237"
       ], 
       "housenumber": "237", 
-      "lat": 51.308710390783205, 
-      "lon": 3.1364149825280587, 
+      "lat": 51.30875403977337, 
+      "lon": 3.136506334922381, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -2148,11 +1904,11 @@
         "238"
       ], 
       "housenumber": "238", 
-      "lat": 51.308211544329325, 
-      "lon": 3.1378394486414125, 
+      "lat": 51.30821924761241, 
+      "lon": 3.1378627660460214, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -2160,51 +1916,42 @@
         "239"
       ], 
       "housenumber": "239", 
-      "lat": 51.308667610941924, 
-      "lon": 3.1364677468871958, 
+      "lat": 51.30871622606964, 
+      "lon": 3.136569867940114, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
-      "busnrs": [
-        "301"
-      ], 
       "hnrlbls": [
         "24"
       ], 
       "housenumber": "24", 
-      "lat": 51.31543759254877, 
-      "lon": 3.129247909588175, 
+      "lat": 51.31541522328238, 
+      "lon": 3.1291546931234153, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
       "apptnrs": [
-        "0.2", 
-        "1L", 
-        "1R", 
-        "VER2"
-      ], 
-      "busnrs": [
-        "1", 
-        "101", 
-        "102", 
-        "201", 
-        "202"
+        "0001", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202"
       ], 
       "hnrlbls": [
         "240"
       ], 
       "housenumber": "240", 
-      "lat": 51.308198137830004, 
-      "lon": 3.1380286884937503, 
+      "lat": 51.30814718237583, 
+      "lon": 3.137934803939206, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -2212,42 +1959,39 @@
         "241"
       ], 
       "housenumber": "241", 
-      "lat": 51.308678718144336, 
-      "lon": 3.1366282295518353, 
+      "lat": 51.30867375942501, 
+      "lon": 3.1366181777764255, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
-      "apptnrs": [
-        "VER1"
-      ], 
       "hnrlbls": [
         "242"
       ], 
       "housenumber": "242", 
-      "lat": 51.30810596343168, 
-      "lon": 3.1379734697568975, 
+      "lat": 51.308102034002836, 
+      "lon": 3.1379846170180845, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
       "apptnrs": [
-        "0.1", 
-        "2.0"
+        "0101", 
+        "0201"
       ], 
       "hnrlbls": [
         "243"
       ], 
       "housenumber": "243", 
-      "lat": 51.30865009540059, 
-      "lon": 3.136711168031273, 
+      "lat": 51.30865241558174, 
+      "lon": 3.136709528990458, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -2255,65 +1999,51 @@
         "244"
       ], 
       "housenumber": "244", 
-      "lat": 51.308082624229606, 
-      "lon": 3.1380285865301554, 
+      "lat": 51.30807853739161, 
+      "lon": 3.138041889250747, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
         "245"
       ], 
       "housenumber": "245", 
-      "lat": 51.3085960774152, 
-      "lon": 3.136763799138352, 
+      "lat": 51.308630926209254, 
+      "lon": 3.1368041826834663, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
-      "busnrs": [
-        "1"
+      "apptnrs": [
+        "0001", 
+        "0201"
       ], 
       "hnrlbls": [
         "246"
       ], 
       "housenumber": "246", 
-      "lat": 51.30806527504308, 
-      "lon": 3.138149805226186, 
+      "lat": 51.30802052696573, 
+      "lon": 3.138073684291859, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
       "hnrlbls": [
-        "247"
-      ], 
-      "housenumber": "247", 
-      "lat": 51.308436566567536, 
-      "lon": 3.1369501653692353, 
-      "municipality": "Blankenberge", 
-      "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Kerkstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "248-250"
+        "248"
       ], 
       "housenumber": "248", 
-      "lat": 51.307992468350804, 
-      "lon": 3.138219710722018, 
+      "lat": 51.30794228328899, 
+      "lon": 3.1380961180368083, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -2321,43 +2051,43 @@
         "249"
       ], 
       "housenumber": "249", 
-      "lat": 51.30838677079265, 
-      "lon": 3.137002540836329, 
+      "lat": 51.308397363900504, 
+      "lon": 3.1370184672441757, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
       "hnrlbls": [
-        "17-25W"
+        "25"
       ], 
       "housenumber": "25", 
-      "lat": 51.31552555640687, 
-      "lon": 3.1284361138266283, 
+      "lat": 51.31555458169781, 
+      "lon": 3.12865853930798, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
-      "busnrs": [
-        "101", 
-        "102", 
-        "201", 
-        "202", 
-        "301", 
-        "302"
+      "apptnrs": [
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302"
       ], 
       "hnrlbls": [
-        "248-250"
+        "250"
       ], 
       "housenumber": "250", 
-      "lat": 51.307992468350804, 
-      "lon": 3.138219710722018, 
+      "lat": 51.307896920866796, 
+      "lon": 3.1381426377341763, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -2365,11 +2095,11 @@
         "251"
       ], 
       "housenumber": "251", 
-      "lat": 51.308340816320175, 
-      "lon": 3.1370093499756755, 
+      "lat": 51.308343370348204, 
+      "lon": 3.1370042626594534, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -2377,11 +2107,11 @@
         "252"
       ], 
       "housenumber": "252", 
-      "lat": 51.30790422488615, 
-      "lon": 3.138248718960543, 
+      "lat": 51.30786428236081, 
+      "lon": 3.1382111945747364, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -2389,11 +2119,11 @@
         "253"
       ], 
       "housenumber": "253", 
-      "lat": 51.30826279491158, 
-      "lon": 3.1369407073212803, 
+      "lat": 51.3083014824951, 
+      "lon": 3.1370650340519894, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -2401,11 +2131,11 @@
         "254"
       ], 
       "housenumber": "254", 
-      "lat": 51.307847132435604, 
-      "lon": 3.1382823538226257, 
+      "lat": 51.30784473316094, 
+      "lon": 3.1383023525909777, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -2413,26 +2143,26 @@
         "255"
       ], 
       "housenumber": "255", 
-      "lat": 51.308210865570125, 
-      "lon": 3.136978079835324, 
+      "lat": 51.30821924670736, 
+      "lon": 3.136988758114516, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
-      "busnrs": [
-        "101"
+      "apptnrs": [
+        "0101"
       ], 
       "hnrlbls": [
         "256"
       ], 
       "housenumber": "256", 
-      "lat": 51.30779629313206, 
-      "lon": 3.138433427534108, 
+      "lat": 51.30781575366444, 
+      "lon": 3.1383943333969513, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -2440,11 +2170,11 @@
         "257"
       ], 
       "housenumber": "257", 
-      "lat": 51.308188364979245, 
-      "lon": 3.137209009177888, 
+      "lat": 51.30819327543736, 
+      "lon": 3.1371971187752115, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -2452,58 +2182,40 @@
         "258"
       ], 
       "housenumber": "258", 
-      "lat": 51.30786236999519, 
-      "lon": 3.1384599352801956, 
+      "lat": 51.307892987452455, 
+      "lon": 3.1388462169058142, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
       "apptnrs": [
-        "1.L", 
-        "1L"
-      ], 
-      "busnrs": [
-        "101", 
-        "102"
+        "0101", 
+        "0102", 
+        "GLVL"
       ], 
       "hnrlbls": [
         "259"
       ], 
       "housenumber": "259", 
-      "lat": 51.30811097998238, 
-      "lon": 3.137253508543493, 
+      "lat": 51.3081087799376, 
+      "lon": 3.137249407531317, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Kerkstraat"
-    }, 
-    {
-      "busnrs": [
-        "6"
-      ], 
-      "hnrlbls": [
-        "17-25W"
-      ], 
-      "housenumber": "25W", 
-      "lat": 51.31552555640687, 
-      "lon": 3.1284361138266283, 
-      "municipality": "Blankenberge", 
-      "pcode": "8370", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
       "hnrlbls": [
-        "26-28A"
+        "26"
       ], 
       "housenumber": "26", 
-      "lat": 51.312286932900044, 
-      "lon": 3.1326653362314207, 
+      "lat": 51.31534181853959, 
+      "lon": 3.129227078341443, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -2511,11 +2223,11 @@
         "260"
       ], 
       "housenumber": "260", 
-      "lat": 51.30769460712601, 
-      "lon": 3.1384577707530537, 
+      "lat": 51.30767015307315, 
+      "lon": 3.138448807802919, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -2523,11 +2235,11 @@
         "261"
       ], 
       "housenumber": "261", 
-      "lat": 51.30807792648334, 
-      "lon": 3.13738589949222, 
+      "lat": 51.308090040345235, 
+      "lon": 3.137392463319538, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -2535,11 +2247,11 @@
         "262"
       ], 
       "housenumber": "262", 
-      "lat": 51.30764712904053, 
-      "lon": 3.1384910077544936, 
+      "lat": 51.307644914848694, 
+      "lon": 3.138520180367508, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -2547,11 +2259,11 @@
         "263"
       ], 
       "housenumber": "263", 
-      "lat": 51.308034854236865, 
-      "lon": 3.1374105595458155, 
+      "lat": 51.30805529458454, 
+      "lon": 3.1374398504651317, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -2559,11 +2271,11 @@
         "264"
       ], 
       "housenumber": "264", 
-      "lat": 51.30762513531861, 
-      "lon": 3.138580508776395, 
+      "lat": 51.30758912386418, 
+      "lon": 3.1385319806203755, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -2571,41 +2283,38 @@
         "265"
       ], 
       "housenumber": "265", 
-      "lat": 51.308006125678006, 
-      "lon": 3.137474711107202, 
+      "lat": 51.308014013239756, 
+      "lon": 3.1374724946412105, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
-      "busnrs": [
-        "101"
+      "apptnrs": [
+        "0101"
       ], 
       "hnrlbls": [
         "266"
       ], 
       "housenumber": "266", 
-      "lat": 51.30756809543154, 
-      "lon": 3.1386105561629476, 
+      "lat": 51.30755534395756, 
+      "lon": 3.138620502121924, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
-      "apptnrs": [
-        "VER1"
-      ], 
       "hnrlbls": [
         "267"
       ], 
       "housenumber": "267", 
-      "lat": 51.30796128235737, 
-      "lon": 3.137510604654296, 
+      "lat": 51.30797086351456, 
+      "lon": 3.137515657847108, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -2613,39 +2322,27 @@
         "268"
       ], 
       "housenumber": "268", 
-      "lat": 51.30756187652195, 
-      "lon": 3.1387215833481177, 
+      "lat": 51.307547964776575, 
+      "lon": 3.138723671883477, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "101"
+      "apptnrs": [
+        "0001", 
+        "0101"
       ], 
       "hnrlbls": [
         "269"
       ], 
       "housenumber": "269", 
-      "lat": 51.307919565540715, 
-      "lon": 3.1375619048336905, 
+      "lat": 51.307925231715764, 
+      "lon": 3.1375621852677846, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Kerkstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "26-28A"
-      ], 
-      "housenumber": "26A", 
-      "lat": 51.312286932900044, 
-      "lon": 3.1326653362314207, 
-      "municipality": "Blankenberge", 
-      "pcode": "8370", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -2653,11 +2350,11 @@
         "27"
       ], 
       "housenumber": "27", 
-      "lat": 51.31531701433643, 
-      "lon": 3.1286604208670896, 
+      "lat": 51.31550014768638, 
+      "lon": 3.128688247747955, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -2665,16 +2362,17 @@
         "270"
       ], 
       "housenumber": "270", 
-      "lat": 51.30749264480173, 
-      "lon": 3.138702903361156, 
+      "lat": 51.307486280513885, 
+      "lon": 3.138704649095887, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
       "apptnrs": [
-        "0.0", 
+        "GLVL", 
+        "GV V", 
         "VER1", 
         "VER2", 
         "VER3"
@@ -2683,11 +2381,11 @@
         "271"
       ], 
       "housenumber": "271", 
-      "lat": 51.30784253844335, 
-      "lon": 3.1375283734644053, 
+      "lat": 51.307856140333016, 
+      "lon": 3.1375483794221912, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -2695,11 +2393,11 @@
         "272"
       ], 
       "housenumber": "272", 
-      "lat": 51.30746052908827, 
-      "lon": 3.138743909007573, 
+      "lat": 51.30744846976587, 
+      "lon": 3.138751255086989, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -2707,11 +2405,11 @@
         "273"
       ], 
       "housenumber": "273", 
-      "lat": 51.307815338084886, 
-      "lon": 3.1375838790895267, 
+      "lat": 51.30781441804538, 
+      "lon": 3.137590500728193, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -2719,26 +2417,23 @@
         "274"
       ], 
       "housenumber": "274", 
-      "lat": 51.30742118966489, 
-      "lon": 3.1387818067892215, 
+      "lat": 51.30740574420297, 
+      "lon": 3.1387833621403263, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
-      "apptnrs": [
-        "VER1"
-      ], 
       "hnrlbls": [
         "275"
       ], 
       "housenumber": "275", 
-      "lat": 51.30778558367716, 
-      "lon": 3.1376185129003247, 
+      "lat": 51.30778439998804, 
+      "lon": 3.1376257151839924, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -2746,27 +2441,27 @@
         "276"
       ], 
       "housenumber": "276", 
-      "lat": 51.30738560149169, 
-      "lon": 3.1388520179869315, 
+      "lat": 51.30739497130825, 
+      "lon": 3.1388800239305135, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "101"
+      "apptnrs": [
+        "0001", 
+        "0101"
       ], 
       "hnrlbls": [
         "277"
       ], 
       "housenumber": "277", 
-      "lat": 51.307785247865574, 
-      "lon": 3.1377246523702755, 
+      "lat": 51.30781217251822, 
+      "lon": 3.137772416409733, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -2774,11 +2469,11 @@
         "278"
       ], 
       "housenumber": "278", 
-      "lat": 51.30732774734068, 
-      "lon": 3.1389162199394947, 
+      "lat": 51.30734191884976, 
+      "lon": 3.1389478279136314, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -2790,42 +2485,43 @@
         "279"
       ], 
       "housenumber": "279", 
-      "lat": 51.307739813448784, 
-      "lon": 3.1378248131002686, 
+      "lat": 51.30776915074431, 
+      "lon": 3.13782790985577, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Kerkstraat"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
-      "hnrlbls": [
-        "26-28A"
-      ], 
-      "housenumber": "28", 
-      "lat": 51.312286932900044, 
-      "lon": 3.1326653362314207, 
-      "municipality": "Blankenberge", 
-      "pcode": "8370", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
       "apptnrs": [
+        "0001", 
+        "0002"
+      ], 
+      "hnrlbls": [
+        "28"
+      ], 
+      "housenumber": "28", 
+      "lat": 51.31516783600066, 
+      "lon": 3.1293866288913907, 
+      "municipality": "Blankenberge", 
+      "pcode": "8370", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Kerkstraat"
+    }, 
+    {
+      "apptnrs": [
+        "GLVL", 
         "VER1"
       ], 
       "hnrlbls": [
         "280"
       ], 
       "housenumber": "280", 
-      "lat": 51.307293197007326, 
-      "lon": 3.139008489877068, 
+      "lat": 51.30728803582794, 
+      "lon": 3.139004897316144, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -2833,29 +2529,26 @@
         "281"
       ], 
       "housenumber": "281", 
-      "lat": 51.307702664528236, 
-      "lon": 3.137831245125658, 
+      "lat": 51.307719250858135, 
+      "lon": 3.137861641838213, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
       "apptnrs": [
-        "VER1"
-      ], 
-      "busnrs": [
-        "101"
+        "0101"
       ], 
       "hnrlbls": [
         "282"
       ], 
       "housenumber": "282", 
-      "lat": 51.30727996029199, 
-      "lon": 3.1391016309899586, 
+      "lat": 51.30724632045069, 
+      "lon": 3.139047733695856, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -2863,11 +2556,11 @@
         "283"
       ], 
       "housenumber": "283", 
-      "lat": 51.307598403498226, 
-      "lon": 3.1377634391820566, 
+      "lat": 51.307587292181594, 
+      "lon": 3.1377235755904826, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -2875,11 +2568,11 @@
         "284"
       ], 
       "housenumber": "284", 
-      "lat": 51.30724024516728, 
-      "lon": 3.139155314219548, 
+      "lat": 51.30723895961606, 
+      "lon": 3.1391613717232874, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -2887,26 +2580,27 @@
         "285"
       ], 
       "housenumber": "285", 
-      "lat": 51.30758332519976, 
-      "lon": 3.1378609325420244, 
+      "lat": 51.30759053849523, 
+      "lon": 3.1378630365598665, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
       "apptnrs": [
+        "VER1", 
         "VER2"
       ], 
       "hnrlbls": [
         "286"
       ], 
       "housenumber": "286", 
-      "lat": 51.30719515216427, 
-      "lon": 3.139219178616818, 
+      "lat": 51.307196973331514, 
+      "lon": 3.1392214252123907, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -2914,11 +2608,11 @@
         "287"
       ], 
       "housenumber": "287", 
-      "lat": 51.307560171209246, 
-      "lon": 3.1379252226750585, 
+      "lat": 51.307565195960805, 
+      "lon": 3.1379070190517075, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -2926,11 +2620,11 @@
         "288"
       ], 
       "housenumber": "288", 
-      "lat": 51.307136387458016, 
-      "lon": 3.1392996100841244, 
+      "lat": 51.307139447446474, 
+      "lon": 3.1392999595398763, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -2938,38 +2632,31 @@
         "289"
       ], 
       "housenumber": "289", 
-      "lat": 51.30751988263386, 
-      "lon": 3.1379842289029365, 
+      "lat": 51.30752989673646, 
+      "lon": 3.1379876930927457, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
-      "hnrlbls": [
-        "26-28A"
-      ], 
-      "housenumber": "28A", 
-      "lat": 51.312286932900044, 
-      "lon": 3.1326653362314207, 
-      "municipality": "Blankenberge", 
-      "pcode": "8370", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Kerkstraat"
-    }, 
-    {
-      "busnrs": [
-        "401"
+      "apptnrs": [
+        "0001", 
+        "0101", 
+        "0201", 
+        "0301", 
+        "0401", 
+        "0501"
       ], 
       "hnrlbls": [
         "29"
       ], 
       "housenumber": "29", 
-      "lat": 51.31543196481278, 
-      "lon": 3.1286840393283137, 
+      "lat": 51.31546997732806, 
+      "lon": 3.1287688060986567, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -2977,11 +2664,11 @@
         "290"
       ], 
       "housenumber": "290", 
-      "lat": 51.307015697682914, 
-      "lon": 3.1392338131024555, 
+      "lat": 51.30701891658483, 
+      "lon": 3.139232150514469, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -2989,11 +2676,11 @@
         "291"
       ], 
       "housenumber": "291", 
-      "lat": 51.30747169400568, 
-      "lon": 3.1380529094759257, 
+      "lat": 51.307487708316295, 
+      "lon": 3.138080166020759, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -3001,23 +2688,11 @@
         "292"
       ], 
       "housenumber": "292", 
-      "lat": 51.30703915072781, 
-      "lon": 3.1394322571086968, 
+      "lat": 51.30703588954397, 
+      "lon": 3.1394385101550477, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Kerkstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "293"
-      ], 
-      "housenumber": "293", 
-      "lat": 51.30744738867474, 
-      "lon": 3.1380842434940774, 
-      "municipality": "Blankenberge", 
-      "pcode": "8370", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -3025,23 +2700,23 @@
         "294"
       ], 
       "housenumber": "294", 
-      "lat": 51.30694965685015, 
-      "lon": 3.1393927420900196, 
+      "lat": 51.30694368601335, 
+      "lon": 3.1393804224489767, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
       "hnrlbls": [
-        "1A-295"
+        "295"
       ], 
       "housenumber": "295", 
-      "lat": 51.30738739268262, 
-      "lon": 3.1382018547774826, 
+      "lat": 51.30743141948911, 
+      "lon": 3.138243143136579, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -3049,11 +2724,11 @@
         "296"
       ], 
       "housenumber": "296", 
-      "lat": 51.30688954952761, 
-      "lon": 3.1394390751342747, 
+      "lat": 51.30688902582711, 
+      "lon": 3.1394319181156964, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -3061,11 +2736,11 @@
         "297"
       ], 
       "housenumber": "297", 
-      "lat": 51.30715194361107, 
-      "lon": 3.1384597753764316, 
+      "lat": 51.30717298520125, 
+      "lon": 3.1385210324785158, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -3073,11 +2748,11 @@
         "298"
       ], 
       "housenumber": "298", 
-      "lat": 51.30684203883961, 
-      "lon": 3.139503863098307, 
+      "lat": 51.30684489083634, 
+      "lon": 3.1395014931377694, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -3085,27 +2760,28 @@
         "299"
       ], 
       "housenumber": "299", 
-      "lat": 51.30705282369481, 
-      "lon": 3.1385234901931556, 
+      "lat": 51.307081892393924, 
+      "lon": 3.1385786550000256, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
       "hnrlbls": [
-        "1-13"
+        "3"
       ], 
       "housenumber": "3", 
-      "lat": 51.31602021340956, 
-      "lon": 3.1280644645692237, 
+      "lat": 51.31606699310119, 
+      "lon": 3.1280850215619167, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
       "apptnrs": [
+        "GLVL", 
         "VER1", 
         "VER2", 
         "VER3", 
@@ -3117,11 +2793,11 @@
         "30"
       ], 
       "housenumber": "30", 
-      "lat": 51.31515073657461, 
-      "lon": 3.1296426989726647, 
+      "lat": 51.31515428632128, 
+      "lon": 3.129638301209621, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -3129,11 +2805,11 @@
         "301"
       ], 
       "housenumber": "301", 
-      "lat": 51.30700219192729, 
-      "lon": 3.138590656466681, 
+      "lat": 51.30702294268564, 
+      "lon": 3.1386325597718536, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -3141,11 +2817,11 @@
         "302"
       ], 
       "housenumber": "302", 
-      "lat": 51.30672361271516, 
-      "lon": 3.1396129742339935, 
+      "lat": 51.3067333132106, 
+      "lon": 3.1396035395150013, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -3153,11 +2829,11 @@
         "303"
       ], 
       "housenumber": "303", 
-      "lat": 51.306962758281784, 
-      "lon": 3.138671438223232, 
+      "lat": 51.30697630673163, 
+      "lon": 3.138703636004956, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -3165,11 +2841,11 @@
         "304"
       ], 
       "housenumber": "304", 
-      "lat": 51.306603469893105, 
-      "lon": 3.1397819345996383, 
+      "lat": 51.30659588344914, 
+      "lon": 3.1397438427663453, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -3177,11 +2853,11 @@
         "305"
       ], 
       "housenumber": "305", 
-      "lat": 51.30690726068076, 
-      "lon": 3.1386855250422045, 
+      "lat": 51.306911234820056, 
+      "lon": 3.138678679456761, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -3189,15 +2865,16 @@
         "306"
       ], 
       "housenumber": "306", 
-      "lat": 51.30654704568119, 
-      "lon": 3.139845379484896, 
+      "lat": 51.30653722741314, 
+      "lon": 3.139808780750937, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
       "apptnrs": [
+        "GLVL", 
         "VER1", 
         "VER2"
       ], 
@@ -3205,11 +2882,11 @@
         "308"
       ], 
       "housenumber": "308", 
-      "lat": 51.30649820308976, 
-      "lon": 3.139911779273991, 
+      "lat": 51.30649509524387, 
+      "lon": 3.1398721351521344, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -3217,11 +2894,11 @@
         "309"
       ], 
       "housenumber": "309", 
-      "lat": 51.30685315254687, 
-      "lon": 3.138859484864255, 
+      "lat": 51.30685399320433, 
+      "lon": 3.1388538694037798, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -3229,41 +2906,26 @@
         "31"
       ], 
       "housenumber": "31", 
-      "lat": 51.315406797057385, 
-      "lon": 3.12876159544611, 
+      "lat": 51.31539575761542, 
+      "lon": 3.1288148201265016, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
       "apptnrs": [
-        "0.0"
-      ], 
-      "busnrs": [
-        "101"
+        "0101"
       ], 
       "hnrlbls": [
         "310"
       ], 
       "housenumber": "310", 
-      "lat": 51.30644676089828, 
-      "lon": 3.1399702162556737, 
+      "lat": 51.30645859150887, 
+      "lon": 3.139958143974655, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Kerkstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "311"
-      ], 
-      "housenumber": "311", 
-      "lat": 51.30676222770882, 
-      "lon": 3.13888999616291, 
-      "municipality": "Blankenberge", 
-      "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -3271,11 +2933,11 @@
         "312"
       ], 
       "housenumber": "312", 
-      "lat": 51.30639945113995, 
-      "lon": 3.140028400643958, 
+      "lat": 51.30640798567146, 
+      "lon": 3.1400278886009456, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -3283,11 +2945,11 @@
         "313"
       ], 
       "housenumber": "313", 
-      "lat": 51.30672736998388, 
-      "lon": 3.1389872926921605, 
+      "lat": 51.306736659162176, 
+      "lon": 3.1389902025182046, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -3295,11 +2957,11 @@
         "314"
       ], 
       "housenumber": "314", 
-      "lat": 51.30636411832629, 
-      "lon": 3.140079958605155, 
+      "lat": 51.306376693966506, 
+      "lon": 3.1400790531077067, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -3307,11 +2969,11 @@
         "315"
       ], 
       "housenumber": "315", 
-      "lat": 51.30665343834349, 
-      "lon": 3.13896615528485, 
+      "lat": 51.30669920234547, 
+      "lon": 3.139070931261757, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -3319,11 +2981,11 @@
         "316"
       ], 
       "housenumber": "316", 
-      "lat": 51.30631538388531, 
-      "lon": 3.1401221178764707, 
+      "lat": 51.306326183653475, 
+      "lon": 3.140114662153518, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -3331,11 +2993,11 @@
         "317"
       ], 
       "housenumber": "317", 
-      "lat": 51.30663446800247, 
-      "lon": 3.1390178558744233, 
+      "lat": 51.30667598521334, 
+      "lon": 3.1391291977387676, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -3343,11 +3005,11 @@
         "318"
       ], 
       "housenumber": "318", 
-      "lat": 51.30627176152745, 
-      "lon": 3.140163138270143, 
+      "lat": 51.30627507020673, 
+      "lon": 3.140144120191479, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -3355,23 +3017,11 @@
         "319"
       ], 
       "housenumber": "319", 
-      "lat": 51.30650263680027, 
-      "lon": 3.139212510705861, 
+      "lat": 51.306531955688534, 
+      "lon": 3.139283157583265, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Kerkstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "32-38"
-      ], 
-      "housenumber": "32", 
-      "lat": 51.31506283007804, 
-      "lon": 3.129746739410077, 
-      "municipality": "Blankenberge", 
-      "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -3379,23 +3029,23 @@
         "320"
       ], 
       "housenumber": "320", 
-      "lat": 51.30624669822992, 
-      "lon": 3.1402254679793606, 
+      "lat": 51.30624834767205, 
+      "lon": 3.14020247807646, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
       "hnrlbls": [
-        "321-323"
+        "321"
       ], 
       "housenumber": "321", 
-      "lat": 51.30642157452402, 
-      "lon": 3.139309879095976, 
+      "lat": 51.306473998884265, 
+      "lon": 3.1393548181383424, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -3408,59 +3058,47 @@
         "322"
       ], 
       "housenumber": "322", 
-      "lat": 51.306233921080114, 
-      "lon": 3.1403283467120633, 
+      "lat": 51.3062472001064, 
+      "lon": 3.1403345934723483, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
       "hnrlbls": [
-        "321-323"
+        "323"
       ], 
       "housenumber": "323", 
-      "lat": 51.30642157452402, 
-      "lon": 3.139309879095976, 
+      "lat": 51.30643682076893, 
+      "lon": 3.139410441054609, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
       "hnrlbls": [
-        "324-324B"
-      ], 
-      "housenumber": "324", 
-      "lat": 51.306403982732654, 
-      "lon": 3.140534967590706, 
-      "municipality": "Blankenberge", 
-      "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Kerkstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "324-324B"
+        "324A"
       ], 
       "housenumber": "324A", 
-      "lat": 51.306403982732654, 
-      "lon": 3.140534967590706, 
+      "lat": 51.30636942123267, 
+      "lon": 3.1405308597004713, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
       "hnrlbls": [
-        "324-324B"
+        "324B"
       ], 
       "housenumber": "324B", 
-      "lat": 51.306403982732654, 
-      "lon": 3.140534967590706, 
+      "lat": 51.30656288771992, 
+      "lon": 3.1407666951478883, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -3468,11 +3106,11 @@
         "325"
       ], 
       "housenumber": "325", 
-      "lat": 51.30634950007302, 
-      "lon": 3.1394331114242777, 
+      "lat": 51.306362602591626, 
+      "lon": 3.139457002684856, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -3480,11 +3118,11 @@
         "325B"
       ], 
       "housenumber": "325B", 
-      "lat": 51.30627735416511, 
-      "lon": 3.1394887967834575, 
+      "lat": 51.30628130476058, 
+      "lon": 3.139497010559649, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -3492,11 +3130,11 @@
         "326"
       ], 
       "housenumber": "326", 
-      "lat": 51.306645375100615, 
-      "lon": 3.140971612591395, 
+      "lat": 51.30666934465593, 
+      "lon": 3.141037955908925, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -3504,74 +3142,75 @@
         "327"
       ], 
       "housenumber": "327", 
-      "lat": 51.30607590989433, 
-      "lon": 3.1392034138823726, 
+      "lat": 51.30622235635409, 
+      "lon": 3.139507745327765, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
       "hnrlbls": [
-        "328-330"
+        "328"
       ], 
       "housenumber": "328", 
-      "lat": 51.306353571726035, 
-      "lon": 3.1414045329241813, 
+      "lat": 51.30638574253475, 
+      "lon": 3.141377439944207, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
-      "busnrs": [
-        "101"
-      ], 
       "hnrlbls": [
         "329"
       ], 
       "housenumber": "329", 
-      "lat": 51.306119417250564, 
-      "lon": 3.1394806326344677, 
+      "lat": 51.30619298473537, 
+      "lon": 3.1396226788623878, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
       "hnrlbls": [
-        "33-37"
+        "33"
       ], 
       "housenumber": "33", 
-      "lat": 51.315337837551255, 
-      "lon": 3.1288034529070137, 
+      "lat": 51.31533247990916, 
+      "lon": 3.1289014239118793, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
       "hnrlbls": [
-        "328-330"
+        "330"
       ], 
       "housenumber": "330", 
-      "lat": 51.306353571726035, 
-      "lon": 3.1414045329241813, 
+      "lat": 51.30632690985075, 
+      "lon": 3.141382002450419, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
+      "apptnrs": [
+        "0001", 
+        "0101"
+      ], 
       "hnrlbls": [
         "331"
       ], 
       "housenumber": "331", 
-      "lat": 51.30611230653044, 
-      "lon": 3.139765784967757, 
+      "lat": 51.30611735419467, 
+      "lon": 3.1397064215473267, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -3579,26 +3218,27 @@
         "332"
       ], 
       "housenumber": "332", 
-      "lat": 51.306822649884346, 
-      "lon": 3.141484241964156, 
+      "lat": 51.306815031849055, 
+      "lon": 3.1414864505874527, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
       "apptnrs": [
+        "GLVL", 
         "VER1"
       ], 
       "hnrlbls": [
         "333"
       ], 
       "housenumber": "333", 
-      "lat": 51.30605655735174, 
-      "lon": 3.1397382867066566, 
+      "lat": 51.306069324622335, 
+      "lon": 3.1397385233797817, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -3606,11 +3246,11 @@
         "334"
       ], 
       "housenumber": "334", 
-      "lat": 51.30661930387358, 
-      "lon": 3.141674464815662, 
+      "lat": 51.30660770935357, 
+      "lon": 3.141674626951118, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -3618,11 +3258,11 @@
         "335"
       ], 
       "housenumber": "335", 
-      "lat": 51.30601197133657, 
-      "lon": 3.1398077286782344, 
+      "lat": 51.306020629568366, 
+      "lon": 3.1398538229526127, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -3630,11 +3270,11 @@
         "336"
       ], 
       "housenumber": "336", 
-      "lat": 51.30644690946993, 
-      "lon": 3.141945617266307, 
+      "lat": 51.306435207270674, 
+      "lon": 3.14194406118558, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -3642,11 +3282,11 @@
         "337"
       ], 
       "housenumber": "337", 
-      "lat": 51.30597082808127, 
-      "lon": 3.1398277452212313, 
+      "lat": 51.30599703444519, 
+      "lon": 3.1398756709641638, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -3654,11 +3294,11 @@
         "338"
       ], 
       "housenumber": "338", 
-      "lat": 51.30632394023369, 
-      "lon": 3.14225002880132, 
+      "lat": 51.30631732557375, 
+      "lon": 3.142253644996245, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -3666,23 +3306,11 @@
         "339"
       ], 
       "housenumber": "339", 
-      "lat": 51.30595534697558, 
-      "lon": 3.1399212294959, 
+      "lat": 51.305954382207524, 
+      "lon": 3.1399235495805615, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Kerkstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "32-38"
-      ], 
-      "housenumber": "34", 
-      "lat": 51.31506283007804, 
-      "lon": 3.129746739410077, 
-      "municipality": "Blankenberge", 
-      "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -3690,26 +3318,27 @@
         "340"
       ], 
       "housenumber": "340", 
-      "lat": 51.30616923113232, 
-      "lon": 3.141806793779844, 
+      "lat": 51.30615741814328, 
+      "lon": 3.141820586021376, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
-      "busnrs": [
-        "101"
+      "apptnrs": [
+        "0001", 
+        "0101"
       ], 
       "hnrlbls": [
         "341"
       ], 
       "housenumber": "341", 
-      "lat": 51.3058839223432, 
-      "lon": 3.1399251222101183, 
+      "lat": 51.30588794263982, 
+      "lon": 3.1399227214926264, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -3717,26 +3346,27 @@
         "342"
       ], 
       "housenumber": "342", 
-      "lat": 51.30602900780934, 
-      "lon": 3.1416340892157697, 
+      "lat": 51.30601646778348, 
+      "lon": 3.1416384352867097, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
       "apptnrs": [
+        "GLVL", 
         "VER1"
       ], 
       "hnrlbls": [
         "343"
       ], 
       "housenumber": "343", 
-      "lat": 51.305855742820654, 
-      "lon": 3.1399990068608696, 
+      "lat": 51.305862968654566, 
+      "lon": 3.139993653286841, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -3744,11 +3374,11 @@
         "344"
       ], 
       "housenumber": "344", 
-      "lat": 51.30601358182618, 
-      "lon": 3.140951844430322, 
+      "lat": 51.306006341854705, 
+      "lon": 3.1409298061455706, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -3756,11 +3386,11 @@
         "345"
       ], 
       "housenumber": "345", 
-      "lat": 51.305732764608116, 
-      "lon": 3.1398771956679865, 
+      "lat": 51.30580944079309, 
+      "lon": 3.140041675225278, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -3768,11 +3398,11 @@
         "347"
       ], 
       "housenumber": "347", 
-      "lat": 51.30576313577652, 
-      "lon": 3.1400840567564146, 
+      "lat": 51.30577287804706, 
+      "lon": 3.1400959898314733, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -3780,11 +3410,11 @@
         "348"
       ], 
       "housenumber": "348", 
-      "lat": 51.30623907080345, 
-      "lon": 3.140807933559673, 
+      "lat": 51.3062758099479, 
+      "lon": 3.1408486984473383, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -3792,23 +3422,11 @@
         "349"
       ], 
       "housenumber": "349", 
-      "lat": 51.30564295355684, 
-      "lon": 3.140006486428878, 
+      "lat": 51.305645959352, 
+      "lon": 3.1400102792631643, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Kerkstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "33-37"
-      ], 
-      "housenumber": "35", 
-      "lat": 51.315337837551255, 
-      "lon": 3.1288034529070137, 
-      "municipality": "Blankenberge", 
-      "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -3816,11 +3434,11 @@
         "350"
       ], 
       "housenumber": "350", 
-      "lat": 51.30615064611771, 
-      "lon": 3.1404378177677006, 
+      "lat": 51.30616363544125, 
+      "lon": 3.1404334595073085, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -3828,11 +3446,11 @@
         "351"
       ], 
       "housenumber": "351", 
-      "lat": 51.3056473618131, 
-      "lon": 3.1401542289590023, 
+      "lat": 51.30567361332972, 
+      "lon": 3.1401978509640913, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -3840,11 +3458,11 @@
         "352"
       ], 
       "housenumber": "352", 
-      "lat": 51.30609610563642, 
-      "lon": 3.140448865277725, 
+      "lat": 51.30608336718179, 
+      "lon": 3.1404080413786497, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -3852,23 +3470,23 @@
         "353"
       ], 
       "housenumber": "353", 
-      "lat": 51.30562204010239, 
-      "lon": 3.140226316736643, 
+      "lat": 51.30562824706682, 
+      "lon": 3.140244079597834, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
       "hnrlbls": [
-        "354-358"
+        "354"
       ], 
       "housenumber": "354", 
-      "lat": 51.30598120751351, 
-      "lon": 3.140412744142175, 
+      "lat": 51.30600922561, 
+      "lon": 3.140392644117501, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -3876,23 +3494,11 @@
         "355"
       ], 
       "housenumber": "355", 
-      "lat": 51.305565070639, 
-      "lon": 3.140323906367742, 
+      "lat": 51.30557551548738, 
+      "lon": 3.140334243365669, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Kerkstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "356"
-      ], 
-      "housenumber": "356", 
-      "lat": 51.306013523270906, 
-      "lon": 3.140477718760449, 
-      "municipality": "Blankenberge", 
-      "pcode": "8370", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -3900,31 +3506,31 @@
         "357"
       ], 
       "housenumber": "357", 
-      "lat": 51.305486402451514, 
-      "lon": 3.140366137263424, 
+      "lat": 51.30549513830885, 
+      "lon": 3.1403763759244634, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
-      "busnrs": [
-        "101", 
-        "102", 
-        "201", 
-        "202", 
-        "301", 
-        "302"
+      "apptnrs": [
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302"
       ], 
       "hnrlbls": [
-        "354-358"
+        "358"
       ], 
       "housenumber": "358", 
-      "lat": 51.30598120751351, 
-      "lon": 3.140412744142175, 
+      "lat": 51.30596979059789, 
+      "lon": 3.140438716430778, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -3932,23 +3538,11 @@
         "359"
       ], 
       "housenumber": "359", 
-      "lat": 51.305449151742344, 
-      "lon": 3.140406128138637, 
+      "lat": 51.305461847044704, 
+      "lon": 3.140425440748916, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Kerkstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "32-38"
-      ], 
-      "housenumber": "36", 
-      "lat": 51.31506283007804, 
-      "lon": 3.129746739410077, 
-      "municipality": "Blankenberge", 
-      "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -3956,11 +3550,11 @@
         "360"
       ], 
       "housenumber": "360", 
-      "lat": 51.305940099387016, 
-      "lon": 3.1405315714133755, 
+      "lat": 51.30595683721461, 
+      "lon": 3.1405332811249416, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -3968,11 +3562,11 @@
         "361"
       ], 
       "housenumber": "361", 
-      "lat": 51.30542852449591, 
-      "lon": 3.1404541417719343, 
+      "lat": 51.305433273440975, 
+      "lon": 3.1404613305326365, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -3980,11 +3574,11 @@
         "362"
       ], 
       "housenumber": "362", 
-      "lat": 51.30592519998607, 
-      "lon": 3.140611845956946, 
+      "lat": 51.30593090551177, 
+      "lon": 3.1406072496394657, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -3992,26 +3586,26 @@
         "363"
       ], 
       "housenumber": "363", 
-      "lat": 51.305393836852296, 
-      "lon": 3.140489905962775, 
+      "lat": 51.30539709886483, 
+      "lon": 3.1404924013387254, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
-      "busnrs": [
-        "101"
+      "apptnrs": [
+        "0101"
       ], 
       "hnrlbls": [
         "364"
       ], 
       "housenumber": "364", 
-      "lat": 51.30594178581289, 
-      "lon": 3.140798420273924, 
+      "lat": 51.305909334932174, 
+      "lon": 3.1406509861433642, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -4019,11 +3613,11 @@
         "365"
       ], 
       "housenumber": "365", 
-      "lat": 51.30532869032264, 
-      "lon": 3.1404837367223792, 
+      "lat": 51.305334784322106, 
+      "lon": 3.1404906031669237, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -4031,23 +3625,11 @@
         "366"
       ], 
       "housenumber": "366", 
-      "lat": 51.30585973795086, 
-      "lon": 3.140670651198675, 
+      "lat": 51.305867266833204, 
+      "lon": 3.1406598400155303, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Kerkstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "367"
-      ], 
-      "housenumber": "367", 
-      "lat": 51.30519529701758, 
-      "lon": 3.1407360745524446, 
-      "municipality": "Blankenberge", 
-      "pcode": "8370", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -4055,11 +3637,11 @@
         "368"
       ], 
       "housenumber": "368", 
-      "lat": 51.305824847471364, 
-      "lon": 3.1406955214753975, 
+      "lat": 51.30582549880891, 
+      "lon": 3.1406803024575667, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -4068,26 +3650,14 @@
         "VER2"
       ], 
       "hnrlbls": [
-        "369-371"
+        "369"
       ], 
       "housenumber": "369", 
-      "lat": 51.30506181032846, 
-      "lon": 3.1409881265615214, 
+      "lat": 51.305089252201775, 
+      "lon": 3.1409471044261785, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Kerkstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "33-37"
-      ], 
-      "housenumber": "37", 
-      "lat": 51.315337837551255, 
-      "lon": 3.1288034529070137, 
-      "municipality": "Blankenberge", 
-      "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -4095,26 +3665,26 @@
         "370"
       ], 
       "housenumber": "370", 
-      "lat": 51.30578807422506, 
-      "lon": 3.140738224638792, 
+      "lat": 51.30579223043976, 
+      "lon": 3.140722913199367, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
-      "busnrs": [
-        "101"
+      "apptnrs": [
+        "0101"
       ], 
       "hnrlbls": [
-        "369-371"
+        "371"
       ], 
       "housenumber": "371", 
-      "lat": 51.30506181032846, 
-      "lon": 3.1409881265615214, 
+      "lat": 51.30504171241175, 
+      "lon": 3.141026517027301, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -4122,11 +3692,11 @@
         "372"
       ], 
       "housenumber": "372", 
-      "lat": 51.305746191827716, 
-      "lon": 3.1407823531917813, 
+      "lat": 51.30575496477402, 
+      "lon": 3.140778823326344, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -4134,15 +3704,16 @@
         "373"
       ], 
       "housenumber": "373", 
-      "lat": 51.30470607502174, 
-      "lon": 3.1412978069298916, 
+      "lat": 51.304702798176066, 
+      "lon": 3.1412938778249395, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
       "apptnrs": [
+        "GLVL", 
         "VER1", 
         "VER2"
       ], 
@@ -4150,11 +3721,11 @@
         "374"
       ], 
       "housenumber": "374", 
-      "lat": 51.305740904461324, 
-      "lon": 3.140922750851823, 
+      "lat": 51.30574881511414, 
+      "lon": 3.140931433884751, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -4162,11 +3733,11 @@
         "376"
       ], 
       "housenumber": "376", 
-      "lat": 51.30565459876294, 
-      "lon": 3.140895913771733, 
+      "lat": 51.305658230632886, 
+      "lon": 3.140916756308627, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -4174,54 +3745,55 @@
         "378"
       ], 
       "housenumber": "378", 
-      "lat": 51.305603044677156, 
-      "lon": 3.1409262426175073, 
+      "lat": 51.30561121526411, 
+      "lon": 3.140960016031066, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
       "apptnrs": [
+        "1L", 
+        "1R", 
         "2L", 
-        "2R"
-      ], 
-      "busnrs": [
-        "5"
+        "2R", 
+        "3L", 
+        "3R"
       ], 
       "hnrlbls": [
-        "32-38"
+        "38"
       ], 
       "housenumber": "38", 
-      "lat": 51.31506283007804, 
-      "lon": 3.129746739410077, 
+      "lat": 51.315055935596675, 
+      "lon": 3.129732148337046, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
       "hnrlbls": [
-        "380-382"
+        "380"
       ], 
       "housenumber": "380", 
-      "lat": 51.30559103963058, 
-      "lon": 3.1412338929041894, 
+      "lat": 51.30554924906153, 
+      "lon": 3.140965808914503, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
       "hnrlbls": [
-        "380-382"
+        "382"
       ], 
       "housenumber": "382", 
-      "lat": 51.30559103963058, 
-      "lon": 3.1412338929041894, 
+      "lat": 51.30550712667486, 
+      "lon": 3.14101281161345, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -4232,11 +3804,11 @@
         "384"
       ], 
       "housenumber": "384", 
-      "lat": 51.30550075386479, 
-      "lon": 3.141178621159345, 
+      "lat": 51.305481011854, 
+      "lon": 3.141138555880885, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -4244,11 +3816,11 @@
         "386"
       ], 
       "housenumber": "386", 
-      "lat": 51.30533778316995, 
-      "lon": 3.1413180117194153, 
+      "lat": 51.305311722307295, 
+      "lon": 3.141240682566843, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -4256,27 +3828,23 @@
         "388"
       ], 
       "housenumber": "388", 
-      "lat": 51.30533680064828, 
-      "lon": 3.1414661822698697, 
+      "lat": 51.305275625326644, 
+      "lon": 3.1413226618482257, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
-      "busnrs": [
-        "201", 
-        "3"
-      ], 
       "hnrlbls": [
         "39"
       ], 
       "housenumber": "39", 
-      "lat": 51.315246409327564, 
-      "lon": 3.128931687583693, 
+      "lat": 51.315247523739416, 
+      "lon": 3.1289351005366304, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -4284,11 +3852,11 @@
         "390"
       ], 
       "housenumber": "390", 
-      "lat": 51.30526016714848, 
-      "lon": 3.141496597622042, 
+      "lat": 51.305269066314736, 
+      "lon": 3.141505254608533, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -4296,11 +3864,11 @@
         "392"
       ], 
       "housenumber": "392", 
-      "lat": 51.30515531824982, 
-      "lon": 3.141458632163825, 
+      "lat": 51.30516453156605, 
+      "lon": 3.1414715831892837, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -4308,11 +3876,11 @@
         "396"
       ], 
       "housenumber": "396", 
-      "lat": 51.30521034386782, 
-      "lon": 3.1416940979167935, 
+      "lat": 51.30521569385131, 
+      "lon": 3.141663840483832, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -4320,23 +3888,23 @@
         "398"
       ], 
       "housenumber": "398", 
-      "lat": 51.3051663980518, 
-      "lon": 3.141808120833483, 
+      "lat": 51.30522158240876, 
+      "lon": 3.14191135728682, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
       "hnrlbls": [
-        "40-42"
+        "40"
       ], 
       "housenumber": "40", 
-      "lat": 51.314911938748374, 
-      "lon": 3.1297418618747956, 
+      "lat": 51.314890271176054, 
+      "lon": 3.1296899388187196, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -4344,58 +3912,58 @@
         "400"
       ], 
       "housenumber": "400", 
-      "lat": 51.305002068770044, 
-      "lon": 3.1416861056932053, 
+      "lat": 51.30499751070933, 
+      "lon": 3.1416886637937846, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
       "hnrlbls": [
-        "402-404"
+        "402"
       ], 
       "housenumber": "402", 
-      "lat": 51.304975985743724, 
-      "lon": 3.1418323551242793, 
+      "lat": 51.304939632391275, 
+      "lon": 3.141689902171259, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
-      "busnrs": [
-        "101", 
-        "102", 
-        "201", 
-        "202", 
-        "301", 
-        "302"
+      "apptnrs": [
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302"
       ], 
       "hnrlbls": [
-        "402-404"
+        "404"
       ], 
       "housenumber": "404", 
-      "lat": 51.304975985743724, 
-      "lon": 3.1418323551242793, 
+      "lat": 51.30489663625544, 
+      "lon": 3.141739364597003, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
-      "busnrs": [
-        "101"
+      "apptnrs": [
+        "0101"
       ], 
       "hnrlbls": [
         "406"
       ], 
       "housenumber": "406", 
-      "lat": 51.30486744812937, 
-      "lon": 3.141854862199667, 
+      "lat": 51.304849419642224, 
+      "lon": 3.1418326783529285, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -4403,11 +3971,11 @@
         "408"
       ], 
       "housenumber": "408", 
-      "lat": 51.30483789596377, 
-      "lon": 3.141969939013877, 
+      "lat": 51.30480381762044, 
+      "lon": 3.1419256625577123, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -4415,44 +3983,46 @@
         "41"
       ], 
       "housenumber": "41", 
-      "lat": 51.315199267024404, 
-      "lon": 3.12899677514373, 
+      "lat": 51.31520291423367, 
+      "lon": 3.1290016985164963, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "101"
+      "apptnrs": [
+        "0001", 
+        "0101"
       ], 
       "hnrlbls": [
         "410"
       ], 
       "housenumber": "410", 
-      "lat": 51.30476787615033, 
-      "lon": 3.1420053417391403, 
+      "lat": 51.30477119452572, 
+      "lon": 3.1420132852931024, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
       "apptnrs": [
-        "1A", 
-        "1V", 
-        "2A"
+        "GLVL", 
+        "V1 A", 
+        "V1 V", 
+        "V2 A", 
+        "V2 V"
       ], 
       "hnrlbls": [
         "412"
       ], 
       "housenumber": "412", 
-      "lat": 51.30476511004663, 
-      "lon": 3.1421723441657403, 
+      "lat": 51.30469288321567, 
+      "lon": 3.1420292591560646, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -4460,11 +4030,11 @@
         "414"
       ], 
       "housenumber": "414", 
-      "lat": 51.30465470813236, 
-      "lon": 3.142127640195639, 
+      "lat": 51.304642910305056, 
+      "lon": 3.142108160411437, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -4472,11 +4042,11 @@
         "416"
       ], 
       "housenumber": "416", 
-      "lat": 51.304674580682565, 
-      "lon": 3.1423453867069178, 
+      "lat": 51.304591365705306, 
+      "lon": 3.1421915485973484, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -4484,23 +4054,11 @@
         "418"
       ], 
       "housenumber": "418", 
-      "lat": 51.30517353716414, 
-      "lon": 3.1432365982274386, 
+      "lat": 51.30518370347541, 
+      "lon": 3.143272183543964, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Kerkstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "40-42"
-      ], 
-      "housenumber": "42", 
-      "lat": 51.314911938748374, 
-      "lon": 3.1297418618747956, 
-      "municipality": "Blankenberge", 
-      "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -4508,35 +4066,23 @@
         "420"
       ], 
       "housenumber": "420", 
-      "lat": 51.30553713323749, 
-      "lon": 3.1435214548632766, 
+      "lat": 51.305538074907545, 
+      "lon": 3.1435255890508857, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
       "hnrlbls": [
-        "422-424"
-      ], 
-      "housenumber": "422", 
-      "lat": 51.30448261333847, 
-      "lon": 3.142340977616443, 
-      "municipality": "Blankenberge", 
-      "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Kerkstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "422-424"
+        "424"
       ], 
       "housenumber": "424", 
-      "lat": 51.30448261333847, 
-      "lon": 3.142340977616443, 
+      "lat": 51.30447424644654, 
+      "lon": 3.1422968844856323, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -4544,15 +4090,16 @@
         "426"
       ], 
       "housenumber": "426", 
-      "lat": 51.30438698934386, 
-      "lon": 3.142351813839448, 
+      "lat": 51.30438232402451, 
+      "lon": 3.1423179487586124, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
       "apptnrs": [
+        "GLVL", 
         "VER1", 
         "VER2"
       ], 
@@ -4560,23 +4107,23 @@
         "428"
       ], 
       "housenumber": "428", 
-      "lat": 51.304346210368166, 
-      "lon": 3.1424244489202917, 
+      "lat": 51.30435249842882, 
+      "lon": 3.1424066440144984, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
       "hnrlbls": [
-        "43-47"
+        "43"
       ], 
       "housenumber": "43", 
-      "lat": 51.31506133488108, 
-      "lon": 3.1291222309593842, 
+      "lat": 51.315064676477334, 
+      "lon": 3.129244068042478, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -4584,83 +4131,71 @@
         "430"
       ], 
       "housenumber": "430", 
-      "lat": 51.30427939342712, 
-      "lon": 3.142482711638355, 
+      "lat": 51.30428147336604, 
+      "lon": 3.1424578471477242, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "101", 
-        "102", 
-        "2", 
-        "201", 
-        "202", 
-        "301"
+      "apptnrs": [
+        "0001", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0302"
       ], 
       "hnrlbls": [
-        "436-440"
+        "436"
       ], 
       "housenumber": "436", 
-      "lat": 51.30406002722791, 
-      "lon": 3.142958006526365, 
+      "lat": 51.304150358222586, 
+      "lon": 3.142974271730684, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "101", 
-        "102", 
-        "201", 
-        "202", 
-        "301", 
-        "302"
+      "apptnrs": [
+        "0001", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302"
       ], 
       "hnrlbls": [
-        "436-440"
+        "438"
       ], 
       "housenumber": "438", 
-      "lat": 51.30406002722791, 
-      "lon": 3.142958006526365, 
+      "lat": 51.30408173243873, 
+      "lon": 3.142866370989923, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
-      "hnrlbls": [
-        "44"
-      ], 
-      "housenumber": "44", 
-      "lat": 51.314857743409206, 
-      "lon": 3.1298890410853186, 
-      "municipality": "Blankenberge", 
-      "pcode": "8370", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Kerkstraat"
-    }, 
-    {
-      "busnrs": [
-        "101", 
-        "102", 
-        "201", 
-        "202"
+      "apptnrs": [
+        "0001", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202"
       ], 
       "hnrlbls": [
-        "436-440"
+        "440"
       ], 
       "housenumber": "440", 
-      "lat": 51.30406002722791, 
-      "lon": 3.142958006526365, 
+      "lat": 51.303950041076284, 
+      "lon": 3.1428057346317, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -4668,11 +4203,11 @@
         "442"
       ], 
       "housenumber": "442", 
-      "lat": 51.30393496094668, 
-      "lon": 3.1429816626575717, 
+      "lat": 51.30392063803755, 
+      "lon": 3.1429613889858072, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -4680,47 +4215,23 @@
         "444"
       ], 
       "housenumber": "444", 
-      "lat": 51.30386638759945, 
-      "lon": 3.143017885535356, 
+      "lat": 51.303850183109645, 
+      "lon": 3.142972134890321, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
       "hnrlbls": [
-        "446"
+        "45"
       ], 
-      "housenumber": "446", 
-      "lat": 51.303565287924286, 
-      "lon": 3.143048039234754, 
+      "housenumber": "45", 
+      "lat": 51.3150073909185, 
+      "lon": 3.129310572616605, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "geinterpoleerdObvWegverbinding", 
-      "street": "Kerkstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "/zn-1591"
-      ], 
-      "housenumber": "448", 
-      "lat": 51.3087920202002, 
-      "lon": 3.136960410456927, 
-      "municipality": "Blankenberge", 
-      "pcode": "8370", 
-      "source": "afgeleidVanStraat", 
-      "street": "Kerkstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "43-47"
-      ], 
-      "housenumber": "47", 
-      "lat": 51.31506133488108, 
-      "lon": 3.1291222309593842, 
-      "municipality": "Blankenberge", 
-      "pcode": "8370", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -4728,23 +4239,23 @@
         "49"
       ], 
       "housenumber": "49", 
-      "lat": 51.31492331272897, 
-      "lon": 3.1292476884240172, 
+      "lat": 51.31492854306277, 
+      "lon": 3.129249270470323, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
       "hnrlbls": [
-        "1-13"
+        "5"
       ], 
       "housenumber": "5", 
-      "lat": 51.31602021340956, 
-      "lon": 3.1280644645692237, 
+      "lat": 51.31604039126786, 
+      "lon": 3.1281114072574296, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -4752,69 +4263,53 @@
         "51"
       ], 
       "housenumber": "51", 
-      "lat": 51.31486829406208, 
-      "lon": 3.129247288551648, 
+      "lat": 51.31490868332789, 
+      "lon": 3.129344470916916, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
       "hnrlbls": [
-        "52-54"
+        "52"
       ], 
       "housenumber": "52", 
-      "lat": 51.31476097837648, 
-      "lon": 3.1299368001749177, 
+      "lat": 51.31473053979838, 
+      "lon": 3.129888553198794, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
-      "busnrs": [
-        "5"
+      "apptnrs": [
+        "0101", 
+        "0201", 
+        "0301", 
+        "0401"
       ], 
       "hnrlbls": [
-        "53-55"
-      ], 
-      "housenumber": "53", 
-      "lat": 51.314864647096876, 
-      "lon": 3.129397138896803, 
-      "municipality": "Blankenberge", 
-      "pcode": "8370", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Kerkstraat"
-    }, 
-    {
-      "busnrs": [
-        "101", 
-        "201", 
-        "301", 
-        "401", 
-        "5"
-      ], 
-      "hnrlbls": [
-        "52-54"
+        "54"
       ], 
       "housenumber": "54", 
-      "lat": 51.31476097837648, 
-      "lon": 3.1299368001749177, 
+      "lat": 51.31465875080894, 
+      "lon": 3.1299779626839754, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
       "hnrlbls": [
-        "53-55"
+        "55"
       ], 
       "housenumber": "55", 
-      "lat": 51.314864647096876, 
-      "lon": 3.129397138896803, 
+      "lat": 51.31488325787533, 
+      "lon": 3.1294576062349067, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -4822,131 +4317,108 @@
         "56"
       ], 
       "housenumber": "56", 
-      "lat": 51.31464553881675, 
-      "lon": 3.1299953837358725, 
+      "lat": 51.31462480039208, 
+      "lon": 3.1300151566597694, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
       "hnrlbls": [
-        "57-59"
+        "57"
       ], 
       "housenumber": "57", 
-      "lat": 51.314739823154504, 
-      "lon": 3.1295124896683393, 
+      "lat": 51.31482126016273, 
+      "lon": 3.1295291127330676, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
-      "busnrs": [
-        "101", 
-        "201", 
-        "301"
+      "apptnrs": [
+        "0001", 
+        "0101", 
+        "0201", 
+        "0301"
       ], 
       "hnrlbls": [
         "58"
       ], 
       "housenumber": "58", 
-      "lat": 51.31462313378603, 
-      "lon": 3.130105138535613, 
+      "lat": 51.31461275105947, 
+      "lon": 3.1301094311307422, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
       "hnrlbls": [
-        "57-59"
-      ], 
-      "housenumber": "59", 
-      "lat": 51.314739823154504, 
-      "lon": 3.1295124896683393, 
-      "municipality": "Blankenberge", 
-      "pcode": "8370", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
-      "street": "Kerkstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "6"
-      ], 
-      "housenumber": "6", 
-      "lat": 51.31586287418059, 
-      "lon": 3.1286031335683053, 
-      "municipality": "Blankenberge", 
-      "pcode": "8370", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
-      "street": "Kerkstraat"
-    }, 
-    {
-      "busnrs": [
-        "6"
-      ], 
-      "hnrlbls": [
-        "60-62"
+        "60"
       ], 
       "housenumber": "60", 
-      "lat": 51.31464586321604, 
-      "lon": 3.130181274777612, 
+      "lat": 51.31453322701881, 
+      "lon": 3.1301382269495726, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
-      "busnrs": [
-        "6"
-      ], 
       "hnrlbls": [
-        "61-67"
+        "61"
       ], 
       "housenumber": "61", 
-      "lat": 51.314624670427804, 
-      "lon": 3.1296328897213317, 
+      "lat": 51.31469680919649, 
+      "lon": 3.1296629570370462, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
-      "busnrs": [
-        "101", 
-        "201"
+      "apptnrs": [
+        "0101", 
+        "0201", 
+        "0301"
       ], 
       "hnrlbls": [
-        "60-62"
+        "62"
       ], 
       "housenumber": "62", 
-      "lat": 51.31464586321604, 
-      "lon": 3.130181274777612, 
+      "lat": 51.31450585935242, 
+      "lon": 3.1301687907435136, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
-      "busnrs": [
-        "101", 
-        "102", 
-        "103", 
-        "302", 
-        "401", 
-        "402", 
-        "403"
+      "apptnrs": [
+        "0101", 
+        "0102", 
+        "0103", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0301", 
+        "0302", 
+        "0303", 
+        "0401", 
+        "0402", 
+        "0403"
       ], 
       "hnrlbls": [
-        "61-67"
+        "63"
       ], 
       "housenumber": "63", 
-      "lat": 51.314624670427804, 
-      "lon": 3.1296328897213317, 
+      "lat": 51.314661125974524, 
+      "lon": 3.129706365364712, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -4954,120 +4426,93 @@
         "64"
       ], 
       "housenumber": "64", 
-      "lat": 51.31449784801683, 
-      "lon": 3.1302795966225623, 
+      "lat": 51.314495490526525, 
+      "lon": 3.1302948640453447, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
       "hnrlbls": [
-        "61-67"
+        "65"
       ], 
       "housenumber": "65", 
-      "lat": 51.314624670427804, 
-      "lon": 3.1296328897213317, 
+      "lat": 51.31462684171733, 
+      "lon": 3.129754613389227, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
       "apptnrs": [
-        "VER1", 
-        "VER2", 
-        "VER3"
-      ], 
-      "busnrs": [
-        "101", 
-        "201", 
-        "202"
+        "0002", 
+        "0101", 
+        "0201", 
+        "0202", 
+        "0301"
       ], 
       "hnrlbls": [
         "66"
       ], 
       "housenumber": "66", 
-      "lat": 51.31445237647137, 
-      "lon": 3.1303325883036504, 
+      "lat": 51.31445065554079, 
+      "lon": 3.1303485559779407, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
       "hnrlbls": [
-        "61-67"
-      ], 
-      "housenumber": "67", 
-      "lat": 51.314624670427804, 
-      "lon": 3.1296328897213317, 
-      "municipality": "Blankenberge", 
-      "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Kerkstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "68-68B"
-      ], 
-      "housenumber": "68", 
-      "lat": 51.31438938374478, 
-      "lon": 3.130437971338721, 
-      "municipality": "Blankenberge", 
-      "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Kerkstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "68-68B"
+        "68A"
       ], 
       "housenumber": "68A", 
-      "lat": 51.31438938374478, 
-      "lon": 3.130437971338721, 
+      "lat": 51.31440606022275, 
+      "lon": 3.130425191888303, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
       "hnrlbls": [
-        "68-68B"
+        "68B"
       ], 
       "housenumber": "68B", 
-      "lat": 51.31438938374478, 
-      "lon": 3.130437971338721, 
+      "lat": 51.31435077498536, 
+      "lon": 3.1304509038322723, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
-      "busnrs": [
-        "101"
+      "apptnrs": [
+        "0101"
       ], 
       "hnrlbls": [
-        "69-71"
+        "69"
       ], 
       "housenumber": "69", 
-      "lat": 51.31451536068086, 
-      "lon": 3.1297790964397607, 
+      "lat": 51.314557240893784, 
+      "lon": 3.1298125511087034, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
       "hnrlbls": [
-        "1-13"
+        "7"
       ], 
       "housenumber": "7", 
-      "lat": 51.31602021340956, 
-      "lon": 3.1280644645692237, 
+      "lat": 51.31600839903906, 
+      "lon": 3.1281466867415326, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -5075,38 +4520,26 @@
         "70"
       ], 
       "housenumber": "70", 
-      "lat": 51.31438558700285, 
-      "lon": 3.1306682939923665, 
+      "lat": 51.31435089346835, 
+      "lon": 3.130617147852347, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
-      "busnrs": [
-        "101"
+      "apptnrs": [
+        "0101"
       ], 
       "hnrlbls": [
-        "69-71"
+        "71"
       ], 
       "housenumber": "71", 
-      "lat": 51.31451536068086, 
-      "lon": 3.1297790964397607, 
+      "lat": 51.31451901888798, 
+      "lon": 3.129862481583829, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Kerkstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "72-76"
-      ], 
-      "housenumber": "72", 
-      "lat": 51.31426755427983, 
-      "lon": 3.1308142991255785, 
-      "municipality": "Blankenberge", 
-      "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -5114,26 +4547,23 @@
         "73"
       ], 
       "housenumber": "73", 
-      "lat": 51.314451478649225, 
-      "lon": 3.129868151826668, 
+      "lat": 51.314466958585655, 
+      "lon": 3.1298957107931233, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
-      "busnrs": [
-        "7"
-      ], 
       "hnrlbls": [
-        "72-76"
+        "74"
       ], 
       "housenumber": "74", 
-      "lat": 51.31426755427983, 
-      "lon": 3.1308142991255785, 
+      "lat": 51.314134699555, 
+      "lon": 3.130685867501702, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -5148,35 +4578,29 @@
         "75"
       ], 
       "housenumber": "75", 
-      "lat": 51.3143310475541, 
-      "lon": 3.1297931817805593, 
+      "lat": 51.31433313087951, 
+      "lon": 3.1297774913605685, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
-      "hnrlbls": [
-        "72-76"
+      "apptnrs": [
+        "0001", 
+        "0101", 
+        "0201", 
+        "0301"
       ], 
-      "housenumber": "76", 
-      "lat": 51.31426755427983, 
-      "lon": 3.1308142991255785, 
-      "municipality": "Blankenberge", 
-      "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Kerkstraat"
-    }, 
-    {
       "hnrlbls": [
         "77"
       ], 
       "housenumber": "77", 
-      "lat": 51.31431681640755, 
-      "lon": 3.1299367137320604, 
+      "lat": 51.31432099363856, 
+      "lon": 3.1299149431199362, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -5184,11 +4608,11 @@
         "78"
       ], 
       "housenumber": "78", 
-      "lat": 51.31411506768415, 
-      "lon": 3.1308718567903555, 
+      "lat": 51.314093258214726, 
+      "lon": 3.1308751620440622, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -5199,11 +4623,11 @@
         "79"
       ], 
       "housenumber": "79", 
-      "lat": 51.31417754088981, 
-      "lon": 3.129770300373293, 
+      "lat": 51.31418426618715, 
+      "lon": 3.129794506138413, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -5211,11 +4635,11 @@
         "8"
       ], 
       "housenumber": "8", 
-      "lat": 51.315696175495404, 
-      "lon": 3.1288058144538073, 
+      "lat": 51.31571263645299, 
+      "lon": 3.128815417127083, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -5223,11 +4647,11 @@
         "80"
       ], 
       "housenumber": "80", 
-      "lat": 51.31403227822518, 
-      "lon": 3.130906475384519, 
+      "lat": 51.31405341513482, 
+      "lon": 3.1309248473597506, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -5235,11 +4659,11 @@
         "81"
       ], 
       "housenumber": "81", 
-      "lat": 51.31421655842326, 
-      "lon": 3.129977106240514, 
+      "lat": 51.314231794344096, 
+      "lon": 3.1300329292432107, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -5247,11 +4671,11 @@
         "82"
       ], 
       "housenumber": "82", 
-      "lat": 51.313980795822935, 
-      "lon": 3.1309175980944413, 
+      "lat": 51.313992216546104, 
+      "lon": 3.1309180116289603, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -5259,28 +4683,28 @@
         "83"
       ], 
       "housenumber": "83", 
-      "lat": 51.31418168398034, 
-      "lon": 3.1300377051173225, 
+      "lat": 51.31417498134565, 
+      "lon": 3.13004146944975, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
-      "busnrs": [
-        "101", 
-        "301", 
-        "401"
+      "apptnrs": [
+        "0101", 
+        "0301", 
+        "0401"
       ], 
       "hnrlbls": [
         "84"
       ], 
       "housenumber": "84", 
-      "lat": 51.31396046464998, 
-      "lon": 3.1309333432015123, 
+      "lat": 51.313947734840404, 
+      "lon": 3.1309366938818917, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -5288,23 +4712,23 @@
         "85"
       ], 
       "housenumber": "85", 
-      "lat": 51.31406383966799, 
-      "lon": 3.1299608015263747, 
+      "lat": 51.314202917554425, 
+      "lon": 3.130211562865903, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
       "hnrlbls": [
-        "86-90"
+        "86"
       ], 
       "housenumber": "86", 
-      "lat": 51.31392952412598, 
-      "lon": 3.1310866413715273, 
+      "lat": 51.31387983212888, 
+      "lon": 3.130916266284964, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -5312,30 +4736,38 @@
         "87"
       ], 
       "housenumber": "87", 
-      "lat": 51.31408731216026, 
-      "lon": 3.1300478184076304, 
+      "lat": 51.314061451161955, 
+      "lon": 3.1300505146496813, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Kerkstraat"
-    }, 
-    {
-      "busnrs": [
-        "302"
-      ], 
-      "hnrlbls": [
-        "86-90"
-      ], 
-      "housenumber": "88", 
-      "lat": 51.31392952412598, 
-      "lon": 3.1310866413715273, 
-      "municipality": "Blankenberge", 
-      "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
       "apptnrs": [
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302", 
+        "0401", 
+        "0402"
+      ], 
+      "hnrlbls": [
+        "88"
+      ], 
+      "housenumber": "88", 
+      "lat": 51.31385242679641, 
+      "lon": 3.1309518505402263, 
+      "municipality": "Blankenberge", 
+      "pcode": "8370", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Kerkstraat"
+    }, 
+    {
+      "apptnrs": [
+        "GLVL", 
         "VER1", 
         "VER2"
       ], 
@@ -5343,63 +4775,75 @@
         "89"
       ], 
       "housenumber": "89", 
-      "lat": 51.314015479301055, 
-      "lon": 3.130072823390726, 
+      "lat": 51.31400147791911, 
+      "lon": 3.1300835235385613, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
       "hnrlbls": [
-        "1-13"
+        "9"
       ], 
       "housenumber": "9", 
-      "lat": 51.31602021340956, 
-      "lon": 3.1280644645692237, 
+      "lat": 51.31597820415672, 
+      "lon": 3.128181918280167, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
       "hnrlbls": [
-        "86-90"
+        "90"
       ], 
       "housenumber": "90", 
-      "lat": 51.31392952412598, 
-      "lon": 3.1310866413715273, 
+      "lat": 51.31382676790181, 
+      "lon": 3.1309825114099876, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
       "apptnrs": [
-        "VER1", 
-        "VER2"
+        "0101", 
+        "0201"
       ], 
       "hnrlbls": [
         "91"
       ], 
       "housenumber": "91", 
-      "lat": 51.31404106397374, 
-      "lon": 3.130258757115727, 
+      "lat": 51.31402572951038, 
+      "lon": 3.1302623207169544, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
       "hnrlbls": [
-        "92"
+        "92A"
       ], 
-      "housenumber": "92", 
-      "lat": 51.313876386623036, 
-      "lon": 3.131395586592128, 
+      "housenumber": "92A", 
+      "lat": 51.31379404203413, 
+      "lon": 3.131111185153405, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Kerkstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "92B"
+      ], 
+      "housenumber": "92B", 
+      "lat": 51.31386895179366, 
+      "lon": 3.131355047614511, 
+      "municipality": "Blankenberge", 
+      "pcode": "8370", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -5407,11 +4851,11 @@
         "93"
       ], 
       "housenumber": "93", 
-      "lat": 51.31399769832147, 
-      "lon": 3.130306815347442, 
+      "lat": 51.314031102479966, 
+      "lon": 3.130398014707103, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -5419,11 +4863,11 @@
         "94"
       ], 
       "housenumber": "94", 
-      "lat": 51.313737195714914, 
-      "lon": 3.131185419574696, 
+      "lat": 51.31373885076779, 
+      "lon": 3.1311889615358357, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -5431,11 +4875,11 @@
         "95"
       ], 
       "housenumber": "95", 
-      "lat": 51.31397022892911, 
-      "lon": 3.1304136909507676, 
+      "lat": 51.31395729993972, 
+      "lon": 3.1304237887041757, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -5443,53 +4887,45 @@
         "96"
       ], 
       "housenumber": "96", 
-      "lat": 51.31374640490795, 
-      "lon": 3.1313356415419866, 
+      "lat": 51.3137487654278, 
+      "lon": 3.1313378738134743, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
-      "busnrs": [
-        "9"
+      "apptnrs": [
+        "0101", 
+        "0201", 
+        "0301"
       ], 
       "hnrlbls": [
-        "97-99"
+        "97"
       ], 
       "housenumber": "97", 
-      "lat": 51.31377887971745, 
-      "lon": 3.1301587268350106, 
+      "lat": 51.31388967285694, 
+      "lon": 3.1304727788792794, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
-      "busnrs": [
-        "2"
+      "apptnrs": [
+        "0101", 
+        "0201", 
+        "0301"
       ], 
       "hnrlbls": [
         "98"
       ], 
       "housenumber": "98", 
-      "lat": 51.313669311621496, 
-      "lon": 3.131338981578208, 
+      "lat": 51.313668815825174, 
+      "lon": 3.1313431544597115, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Kerkstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "97-99"
-      ], 
-      "housenumber": "99", 
-      "lat": 51.31377887971745, 
-      "lon": 3.1301587268350106, 
-      "municipality": "Blankenberge", 
-      "pcode": "8370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }
   ]

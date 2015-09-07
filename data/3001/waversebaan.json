@@ -43,13 +43,11 @@
         "0003", 
         "0101", 
         "0102", 
-        "0301", 
-        "0302", 
-        "0303", 
-        "0304", 
-        "103", 
-        "202", 
-        "204"
+        "0103", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0204"
       ], 
       "hnrlbls": [
         "101"
@@ -523,11 +521,11 @@
         "142"
       ], 
       "housenumber": "142", 
-      "lat": 50.86109297274461, 
-      "lon": 4.690174041013916, 
+      "lat": 50.86104438233992, 
+      "lon": 4.690368085681359, 
       "municipality": "Leuven", 
       "pcode": "3001", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Waversebaan"
     }, 
     {
@@ -547,11 +545,11 @@
         "144"
       ], 
       "housenumber": "144", 
-      "lat": 50.86117298896995, 
-      "lon": 4.689744781247554, 
+      "lat": 50.860986974443186, 
+      "lon": 4.690367732336729, 
       "municipality": "Leuven", 
       "pcode": "3001", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Waversebaan"
     }, 
     {
@@ -645,8 +643,8 @@
         "150"
       ], 
       "housenumber": "150", 
-      "lat": 50.86086889393803, 
-      "lon": 4.690195515171125, 
+      "lat": 50.86085597690363, 
+      "lon": 4.690185341968008, 
       "municipality": "Leuven", 
       "pcode": "3001", 
       "source": "afgeleidVanGebouw", 
@@ -681,8 +679,8 @@
         "154"
       ], 
       "housenumber": "154", 
-      "lat": 50.860789109665824, 
-      "lon": 4.690147101711655, 
+      "lat": 50.8607796584811, 
+      "lon": 4.690158535549727, 
       "municipality": "Leuven", 
       "pcode": "3001", 
       "source": "afgeleidVanGebouw", 
@@ -705,11 +703,11 @@
         "156"
       ], 
       "housenumber": "156", 
-      "lat": 50.86092415235896, 
-      "lon": 4.689550048728839, 
+      "lat": 50.86072575719541, 
+      "lon": 4.690112886239271, 
       "municipality": "Leuven", 
       "pcode": "3001", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Waversebaan"
     }, 
     {
@@ -729,8 +727,8 @@
         "158"
       ], 
       "housenumber": "158", 
-      "lat": 50.860676874656306, 
-      "lon": 4.689967081897512, 
+      "lat": 50.86066325949402, 
+      "lon": 4.689949234025958, 
       "municipality": "Leuven", 
       "pcode": "3001", 
       "source": "afgeleidVanGebouw", 
@@ -1377,18 +1375,6 @@
     }, 
     {
       "hnrlbls": [
-        "229"
-      ], 
-      "housenumber": "229", 
-      "lat": 50.85809388067664, 
-      "lon": 4.68674862196057, 
-      "municipality": "Leuven", 
-      "pcode": "3001", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Waversebaan"
-    }, 
-    {
-      "hnrlbls": [
         "231"
       ], 
       "housenumber": "231", 
@@ -1764,6 +1750,7 @@
         "0103", 
         "0104", 
         "0105", 
+        "0106", 
         "0201", 
         "0202", 
         "0203", 
@@ -1773,8 +1760,7 @@
         "0303", 
         "0304", 
         "0401", 
-        "0402", 
-        "106"
+        "0402"
       ], 
       "hnrlbls": [
         "27"
@@ -2872,8 +2858,8 @@
       "busnrs": [
         "0001", 
         "0101", 
-        "0201", 
-        "102"
+        "0102", 
+        "0201"
       ], 
       "hnrlbls": [
         "55"
@@ -2982,9 +2968,6 @@
       "street": "Waversebaan"
     }, 
     {
-      "busnrs": [
-        "102"
-      ], 
       "hnrlbls": [
         "61"
       ], 
@@ -3110,7 +3093,7 @@
         "0203", 
         "0204", 
         "0205", 
-        "206"
+        "0206"
       ], 
       "hnrlbls": [
         "70"
@@ -3149,6 +3132,26 @@
     }, 
     {
       "busnrs": [
+        "0201", 
+        "0202", 
+        "0203", 
+        "0204", 
+        "0301", 
+        "0302"
+      ], 
+      "hnrlbls": [
+        "74C"
+      ], 
+      "housenumber": "74C", 
+      "lat": 50.86321942391804, 
+      "lon": 4.692540508780126, 
+      "municipality": "Leuven", 
+      "pcode": "3001", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Waversebaan"
+    }, 
+    {
+      "busnrs": [
         "0001", 
         "0002", 
         "0101", 
@@ -3168,14 +3171,6 @@
       "street": "Waversebaan"
     }, 
     {
-      "apptnrs": [
-        "0001"
-      ], 
-      "busnrs": [
-        "0101", 
-        "0102", 
-        "0201"
-      ], 
       "hnrlbls": [
         "76"
       ], 
@@ -3195,8 +3190,8 @@
       ], 
       "busnrs": [
         "0301", 
-        "0401", 
-        "302"
+        "0302", 
+        "0401"
       ], 
       "hnrlbls": [
         "77"

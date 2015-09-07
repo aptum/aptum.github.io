@@ -2,6 +2,7 @@
   "addresses": [
     {
       "busnrs": [
+        "0A", 
         "1A", 
         "1B", 
         "1C", 
@@ -10,25 +11,23 @@
         "2B", 
         "2C", 
         "2D", 
-        "3", 
         "3A", 
-        "3B", 
-        "A"
+        "3B"
       ], 
       "hnrlbls": [
-        "1-20"
+        "1"
       ], 
       "housenumber": "1", 
-      "lat": 51.084198314694234, 
-      "lon": 3.4469892697659024, 
+      "lat": 51.08426872723373, 
+      "lon": 3.447120069868494, 
       "municipality": "Aalter", 
       "pcode": "9880", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Sint-Gerolflaan"
     }, 
     {
       "hnrlbls": [
-        "10-10A"
+        "10"
       ], 
       "housenumber": "10", 
       "lat": 51.08593370344048, 
@@ -36,18 +35,6 @@
       "municipality": "Aalter", 
       "pcode": "9880", 
       "source": "afgeleidVanGebouw", 
-      "street": "Sint-Gerolflaan"
-    }, 
-    {
-      "hnrlbls": [
-        "10-10A"
-      ], 
-      "housenumber": "10A", 
-      "lat": 51.08593370344048, 
-      "lon": 3.4466505012861477, 
-      "municipality": "Aalter", 
-      "pcode": "9880", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Sint-Gerolflaan"
     }, 
     {
@@ -64,11 +51,11 @@
     }, 
     {
       "hnrlbls": [
-        "12"
+        "12A-12B"
       ], 
-      "housenumber": "12", 
-      "lat": 51.08650397313341, 
-      "lon": 3.4463136919504276, 
+      "housenumber": "12A", 
+      "lat": 51.0867084806844, 
+      "lon": 3.4474970629953607, 
       "municipality": "Aalter", 
       "pcode": "9880", 
       "source": "afgeleidVanGebouw", 
@@ -81,6 +68,18 @@
       "housenumber": "13", 
       "lat": 51.08573869249783, 
       "lon": 3.4461754841836316, 
+      "municipality": "Aalter", 
+      "pcode": "9880", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Sint-Gerolflaan"
+    }, 
+    {
+      "hnrlbls": [
+        "14"
+      ], 
+      "housenumber": "14", 
+      "lat": 51.086503935945046, 
+      "lon": 3.446313677851032, 
       "municipality": "Aalter", 
       "pcode": "9880", 
       "source": "afgeleidVanGebouw", 
@@ -135,109 +134,6 @@
       "street": "Sint-Gerolflaan"
     }, 
     {
-      "busnrs": [
-        "3"
-      ], 
-      "hnrlbls": [
-        "1-20"
-      ], 
-      "housenumber": "1A", 
-      "lat": 51.084198314694234, 
-      "lon": 3.4469892697659024, 
-      "municipality": "Aalter", 
-      "pcode": "9880", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Sint-Gerolflaan"
-    }, 
-    {
-      "hnrlbls": [
-        "1-20"
-      ], 
-      "housenumber": "1B", 
-      "lat": 51.084198314694234, 
-      "lon": 3.4469892697659024, 
-      "municipality": "Aalter", 
-      "pcode": "9880", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Sint-Gerolflaan"
-    }, 
-    {
-      "hnrlbls": [
-        "1-20"
-      ], 
-      "housenumber": "1C", 
-      "lat": 51.084198314694234, 
-      "lon": 3.4469892697659024, 
-      "municipality": "Aalter", 
-      "pcode": "9880", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Sint-Gerolflaan"
-    }, 
-    {
-      "hnrlbls": [
-        "1-20"
-      ], 
-      "housenumber": "1D", 
-      "lat": 51.084198314694234, 
-      "lon": 3.4469892697659024, 
-      "municipality": "Aalter", 
-      "pcode": "9880", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Sint-Gerolflaan"
-    }, 
-    {
-      "busnrs": [
-        "A", 
-        "B", 
-        "C", 
-        "D"
-      ], 
-      "hnrlbls": [
-        "1_1-1_3"
-      ], 
-      "housenumber": "1_1", 
-      "lat": 51.0843158939598, 
-      "lon": 3.447011788223862, 
-      "municipality": "Aalter", 
-      "pcode": "9880", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Sint-Gerolflaan"
-    }, 
-    {
-      "busnrs": [
-        "A", 
-        "B", 
-        "C", 
-        "D"
-      ], 
-      "hnrlbls": [
-        "1_1-1_3"
-      ], 
-      "housenumber": "1_2", 
-      "lat": 51.0843158939598, 
-      "lon": 3.447011788223862, 
-      "municipality": "Aalter", 
-      "pcode": "9880", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Sint-Gerolflaan"
-    }, 
-    {
-      "busnrs": [
-        "A", 
-        "B"
-      ], 
-      "hnrlbls": [
-        "1_1-1_3"
-      ], 
-      "housenumber": "1_3", 
-      "lat": 51.0843158939598, 
-      "lon": 3.447011788223862, 
-      "municipality": "Aalter", 
-      "pcode": "9880", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Sint-Gerolflaan"
-    }, 
-    {
       "hnrlbls": [
         "2"
       ], 
@@ -254,8 +150,8 @@
         "20"
       ], 
       "housenumber": "20", 
-      "lat": 51.08802403755657, 
-      "lon": 3.445868649124022, 
+      "lat": 51.08760779431694, 
+      "lon": 3.4459996143182243, 
       "municipality": "Aalter", 
       "pcode": "9880", 
       "source": "afgeleidVanGebouw", 
@@ -275,26 +171,26 @@
     }, 
     {
       "hnrlbls": [
-        "22-22A"
+        "22"
       ], 
       "housenumber": "22", 
-      "lat": 51.0873320904485, 
-      "lon": 3.445337190131482, 
+      "lat": 51.088440318041776, 
+      "lon": 3.4457376348977453, 
       "municipality": "Aalter", 
       "pcode": "9880", 
-      "source": "geinterpoleerdObvWegverbinding", 
+      "source": "afgeleidVanGebouw", 
       "street": "Sint-Gerolflaan"
     }, 
     {
       "hnrlbls": [
-        "22-22A"
+        "24"
       ], 
-      "housenumber": "22A", 
-      "lat": 51.0873320904485, 
-      "lon": 3.445337190131482, 
+      "housenumber": "24", 
+      "lat": 51.088761911465504, 
+      "lon": 3.4449629751010082, 
       "municipality": "Aalter", 
       "pcode": "9880", 
-      "source": "geinterpoleerdObvWegverbinding", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Sint-Gerolflaan"
     }, 
     {
@@ -358,57 +254,8 @@
       "street": "Sint-Gerolflaan"
     }, 
     {
-      "hnrlbls": [
-        "1-20"
-      ], 
-      "housenumber": "2A", 
-      "lat": 51.084198314694234, 
-      "lon": 3.4469892697659024, 
-      "municipality": "Aalter", 
-      "pcode": "9880", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Sint-Gerolflaan"
-    }, 
-    {
-      "hnrlbls": [
-        "1-20"
-      ], 
-      "housenumber": "2B", 
-      "lat": 51.084198314694234, 
-      "lon": 3.4469892697659024, 
-      "municipality": "Aalter", 
-      "pcode": "9880", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Sint-Gerolflaan"
-    }, 
-    {
-      "hnrlbls": [
-        "1-20"
-      ], 
-      "housenumber": "2C", 
-      "lat": 51.084198314694234, 
-      "lon": 3.4469892697659024, 
-      "municipality": "Aalter", 
-      "pcode": "9880", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Sint-Gerolflaan"
-    }, 
-    {
-      "hnrlbls": [
-        "1-20"
-      ], 
-      "housenumber": "2D", 
-      "lat": 51.084198314694234, 
-      "lon": 3.4469892697659024, 
-      "municipality": "Aalter", 
-      "pcode": "9880", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Sint-Gerolflaan"
-    }, 
-    {
       "busnrs": [
         "0A", 
-        "1", 
         "1A", 
         "1B", 
         "2A", 
@@ -417,14 +264,14 @@
         "3B"
       ], 
       "hnrlbls": [
-        "1-20"
+        "3"
       ], 
       "housenumber": "3", 
-      "lat": 51.084198314694234, 
-      "lon": 3.4469892697659024, 
+      "lat": 51.08440913103302, 
+      "lon": 3.447049367150126, 
       "municipality": "Aalter", 
       "pcode": "9880", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Sint-Gerolflaan"
     }, 
     {
@@ -549,78 +396,6 @@
     }, 
     {
       "hnrlbls": [
-        "1-20"
-      ], 
-      "housenumber": "3A", 
-      "lat": 51.084198314694234, 
-      "lon": 3.4469892697659024, 
-      "municipality": "Aalter", 
-      "pcode": "9880", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Sint-Gerolflaan"
-    }, 
-    {
-      "hnrlbls": [
-        "1-20"
-      ], 
-      "housenumber": "3B", 
-      "lat": 51.084198314694234, 
-      "lon": 3.4469892697659024, 
-      "municipality": "Aalter", 
-      "pcode": "9880", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Sint-Gerolflaan"
-    }, 
-    {
-      "busnrs": [
-        "A", 
-        "B"
-      ], 
-      "hnrlbls": [
-        "3_1-3_3"
-      ], 
-      "housenumber": "3_1", 
-      "lat": 51.08414922636442, 
-      "lon": 3.4470576029177793, 
-      "municipality": "Aalter", 
-      "pcode": "9880", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Sint-Gerolflaan"
-    }, 
-    {
-      "busnrs": [
-        "A", 
-        "B"
-      ], 
-      "hnrlbls": [
-        "3_1-3_3"
-      ], 
-      "housenumber": "3_2", 
-      "lat": 51.08414922636442, 
-      "lon": 3.4470576029177793, 
-      "municipality": "Aalter", 
-      "pcode": "9880", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Sint-Gerolflaan"
-    }, 
-    {
-      "busnrs": [
-        "A", 
-        "B"
-      ], 
-      "hnrlbls": [
-        "3_1-3_3"
-      ], 
-      "housenumber": "3_3", 
-      "lat": 51.08414922636442, 
-      "lon": 3.4470576029177793, 
-      "municipality": "Aalter", 
-      "pcode": "9880", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Sint-Gerolflaan"
-    }, 
-    {
-      "hnrlbls": [
         "40"
       ], 
       "housenumber": "40", 
@@ -717,6 +492,9 @@
     }, 
     {
       "busnrs": [
+        "00OB", 
+        "0A", 
+        "0B", 
         "1A", 
         "2A", 
         "2B"
@@ -725,8 +503,8 @@
         "5"
       ], 
       "housenumber": "5", 
-      "lat": 51.08470504757622, 
-      "lon": 3.4466892679771184, 
+      "lat": 51.08448733934477, 
+      "lon": 3.446958424082415, 
       "municipality": "Aalter", 
       "pcode": "9880", 
       "source": "afgeleidVanGebouw", 
@@ -809,54 +587,11 @@
         "59"
       ], 
       "housenumber": "59", 
-      "lat": 51.09116578781478, 
-      "lon": 3.44336700088396, 
+      "lat": 51.09091108612193, 
+      "lon": 3.4434320243099004, 
       "municipality": "Aalter", 
       "pcode": "9880", 
-      "source": "geinterpoleerdObvWegverbinding", 
-      "street": "Sint-Gerolflaan"
-    }, 
-    {
-      "hnrlbls": [
-        "5A-7_3"
-      ], 
-      "housenumber": "5A", 
-      "lat": 51.08460583949629, 
-      "lon": 3.446636415579209, 
-      "municipality": "Aalter", 
-      "pcode": "9880", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Sint-Gerolflaan"
-    }, 
-    {
-      "busnrs": [
-        "A"
-      ], 
-      "hnrlbls": [
-        "5A-7_3"
-      ], 
-      "housenumber": "5_1", 
-      "lat": 51.08460583949629, 
-      "lon": 3.446636415579209, 
-      "municipality": "Aalter", 
-      "pcode": "9880", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Sint-Gerolflaan"
-    }, 
-    {
-      "busnrs": [
-        "A", 
-        "B"
-      ], 
-      "hnrlbls": [
-        "5A-7_3"
-      ], 
-      "housenumber": "5_2", 
-      "lat": 51.08460583949629, 
-      "lon": 3.446636415579209, 
-      "municipality": "Aalter", 
-      "pcode": "9880", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Sint-Gerolflaan"
     }, 
     {
@@ -897,16 +632,17 @@
     }, 
     {
       "busnrs": [
+        "00OA", 
+        "0A", 
         "1A", 
-        "2A", 
-        "3A"
+        "2A"
       ], 
       "hnrlbls": [
-        "15-64"
+        "64"
       ], 
       "housenumber": "64", 
-      "lat": 51.09112250245062, 
-      "lon": 3.4438312124266575, 
+      "lat": 51.091046052290636, 
+      "lon": 3.4437803356411036, 
       "municipality": "Aalter", 
       "pcode": "9880", 
       "source": "afgeleidVanGebouw", 
@@ -914,120 +650,23 @@
     }, 
     {
       "busnrs": [
-        "A"
-      ], 
-      "hnrlbls": [
-        "17_1-64_2"
-      ], 
-      "housenumber": "64_1", 
-      "lat": 51.091046052290636, 
-      "lon": 3.4437803356411036, 
-      "municipality": "Aalter", 
-      "pcode": "9880", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Sint-Gerolflaan"
-    }, 
-    {
-      "busnrs": [
-        "A"
-      ], 
-      "hnrlbls": [
-        "17_1-64_2"
-      ], 
-      "housenumber": "64_2", 
-      "lat": 51.091046052290636, 
-      "lon": 3.4437803356411036, 
-      "municipality": "Aalter", 
-      "pcode": "9880", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Sint-Gerolflaan"
-    }, 
-    {
-      "busnrs": [
-        "1A", 
-        "1B", 
-        "1C", 
-        "1D", 
-        "2A", 
-        "2B", 
-        "2C", 
-        "2D", 
-        "3A", 
-        "3B"
+        "00OB", 
+        "00OC", 
+        "00OD", 
+        "0A", 
+        "0B", 
+        "0C", 
+        "0D"
       ], 
       "hnrlbls": [
         "7"
       ], 
       "housenumber": "7", 
-      "lat": 51.08491595599866, 
-      "lon": 3.446599047804738, 
+      "lat": 51.08460583949629, 
+      "lon": 3.446636415579209, 
       "municipality": "Aalter", 
       "pcode": "9880", 
       "source": "afgeleidVanGebouw", 
-      "street": "Sint-Gerolflaan"
-    }, 
-    {
-      "hnrlbls": [
-        "5A-7_3"
-      ], 
-      "housenumber": "7A", 
-      "lat": 51.08460583949629, 
-      "lon": 3.446636415579209, 
-      "municipality": "Aalter", 
-      "pcode": "9880", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Sint-Gerolflaan"
-    }, 
-    {
-      "busnrs": [
-        "A", 
-        "B", 
-        "C", 
-        "D"
-      ], 
-      "hnrlbls": [
-        "5A-7_3"
-      ], 
-      "housenumber": "7_1", 
-      "lat": 51.08460583949629, 
-      "lon": 3.446636415579209, 
-      "municipality": "Aalter", 
-      "pcode": "9880", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Sint-Gerolflaan"
-    }, 
-    {
-      "busnrs": [
-        "A", 
-        "C", 
-        "D", 
-        "b"
-      ], 
-      "hnrlbls": [
-        "5A-7_3"
-      ], 
-      "housenumber": "7_2", 
-      "lat": 51.08460583949629, 
-      "lon": 3.446636415579209, 
-      "municipality": "Aalter", 
-      "pcode": "9880", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Sint-Gerolflaan"
-    }, 
-    {
-      "busnrs": [
-        "A", 
-        "B"
-      ], 
-      "hnrlbls": [
-        "5A-7_3"
-      ], 
-      "housenumber": "7_3", 
-      "lat": 51.08460583949629, 
-      "lon": 3.446636415579209, 
-      "municipality": "Aalter", 
-      "pcode": "9880", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Sint-Gerolflaan"
     }, 
     {

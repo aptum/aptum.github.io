@@ -52,42 +52,6 @@
     }, 
     {
       "hnrlbls": [
-        "12_1-12_3"
-      ], 
-      "housenumber": "12_1", 
-      "lat": 51.213786336956076, 
-      "lon": 2.9080428087700563, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Kroonlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "12_1-12_3"
-      ], 
-      "housenumber": "12_2", 
-      "lat": 51.213786336956076, 
-      "lon": 2.9080428087700563, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Kroonlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "12_1-12_3"
-      ], 
-      "housenumber": "12_3", 
-      "lat": 51.213786336956076, 
-      "lon": 2.9080428087700563, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Kroonlaan"
-    }, 
-    {
-      "hnrlbls": [
         "14"
       ], 
       "housenumber": "14", 
@@ -103,8 +67,8 @@
         "16"
       ], 
       "housenumber": "16", 
-      "lat": 51.213392462435216, 
-      "lon": 2.907983286296522, 
+      "lat": 51.21339596370422, 
+      "lon": 2.9079828903895995, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
@@ -430,11 +394,11 @@
         "61"
       ], 
       "housenumber": "61", 
-      "lat": 51.21268978544692, 
-      "lon": 2.9068987091244507, 
+      "lat": 51.21269618443406, 
+      "lon": 2.906878183392686, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Kroonlaan"
     }, 
     {
@@ -484,11 +448,11 @@
         "69-71"
       ], 
       "housenumber": "69", 
-      "lat": 51.2124187840632, 
-      "lon": 2.9067138261464103, 
+      "lat": 51.212440651064036, 
+      "lon": 2.9067009744249726, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Kroonlaan"
     }, 
     {
@@ -497,6 +461,7 @@
         "2", 
         "202", 
         "3", 
+        "3L", 
         "4", 
         "5", 
         "6", 
@@ -534,11 +499,11 @@
         "69-71"
       ], 
       "housenumber": "71", 
-      "lat": 51.2124187840632, 
-      "lon": 2.9067138261464103, 
+      "lat": 51.212440651064036, 
+      "lon": 2.9067009744249726, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Kroonlaan"
     }, 
     {
@@ -556,7 +521,12 @@
     {
       "busnrs": [
         "1", 
-        "3"
+        "1B", 
+        "2A", 
+        "2B", 
+        "3", 
+        "3A", 
+        "4AB"
       ], 
       "hnrlbls": [
         "7-9"
@@ -567,67 +537,6 @@
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
-      "street": "Kroonlaan"
-    }, 
-    {
-      "busnrs": [
-        "B"
-      ], 
-      "hnrlbls": [
-        "9_1-9_4"
-      ], 
-      "housenumber": "9_1", 
-      "lat": 51.21374990684317, 
-      "lon": 2.9075244996189284, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Kroonlaan"
-    }, 
-    {
-      "busnrs": [
-        "A", 
-        "B"
-      ], 
-      "hnrlbls": [
-        "9_1-9_4"
-      ], 
-      "housenumber": "9_2", 
-      "lat": 51.21374990684317, 
-      "lon": 2.9075244996189284, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Kroonlaan"
-    }, 
-    {
-      "busnrs": [
-        "A"
-      ], 
-      "hnrlbls": [
-        "9_1-9_4"
-      ], 
-      "housenumber": "9_3", 
-      "lat": 51.21374990684317, 
-      "lon": 2.9075244996189284, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Kroonlaan"
-    }, 
-    {
-      "busnrs": [
-        "AB"
-      ], 
-      "hnrlbls": [
-        "9_1-9_4"
-      ], 
-      "housenumber": "9_4", 
-      "lat": 51.21374990684317, 
-      "lon": 2.9075244996189284, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Kroonlaan"
     }
   ]

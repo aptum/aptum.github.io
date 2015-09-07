@@ -395,7 +395,8 @@
     {
       "busnrs": [
         "1", 
-        "2"
+        "2", 
+        "AGVL"
       ], 
       "hnrlbls": [
         "139"
@@ -846,6 +847,36 @@
       "street": "Sint-Amandsesteenweg"
     }, 
     {
+      "busnrs": [
+        "2"
+      ], 
+      "hnrlbls": [
+        "176B-176C"
+      ], 
+      "housenumber": "176B", 
+      "lat": 51.089390563571584, 
+      "lon": 4.22661427048323, 
+      "municipality": "Bornem", 
+      "pcode": "2880", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "street": "Sint-Amandsesteenweg"
+    }, 
+    {
+      "busnrs": [
+        "1"
+      ], 
+      "hnrlbls": [
+        "176B-176C"
+      ], 
+      "housenumber": "176C", 
+      "lat": 51.089390563571584, 
+      "lon": 4.22661427048323, 
+      "municipality": "Bornem", 
+      "pcode": "2880", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "street": "Sint-Amandsesteenweg"
+    }, 
+    {
       "hnrlbls": [
         "177"
       ], 
@@ -958,11 +989,11 @@
         "19"
       ], 
       "housenumber": "19", 
-      "lat": 51.095044250838896, 
-      "lon": 4.232412139926142, 
+      "lat": 51.09503676255029, 
+      "lon": 4.232388180032398, 
       "municipality": "Bornem", 
       "pcode": "2880", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Sint-Amandsesteenweg"
     }, 
     {
@@ -1094,31 +1125,33 @@
       "street": "Sint-Amandsesteenweg"
     }, 
     {
+      "apptnrs": [
+        "A001", 
+        "A002", 
+        "B001", 
+        "B002"
+      ], 
       "hnrlbls": [
-        "2-2C"
+        "1-2"
       ], 
       "housenumber": "2", 
-      "lat": 51.09568773989889, 
-      "lon": 4.232394142302977, 
+      "lat": 51.09574280472224, 
+      "lon": 4.2323622920516515, 
       "municipality": "Bornem", 
       "pcode": "2880", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Sint-Amandsesteenweg"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
       "hnrlbls": [
-        "20-28"
+        "20"
       ], 
       "housenumber": "20", 
-      "lat": 51.09491581666066, 
-      "lon": 4.231802410312034, 
+      "lat": 51.09515639699563, 
+      "lon": 4.2320762472523485, 
       "municipality": "Bornem", 
       "pcode": "2880", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Sint-Amandsesteenweg"
     }, 
     {
@@ -1218,36 +1251,6 @@
       "municipality": "Bornem", 
       "pcode": "2880", 
       "source": "afgeleidVanGebouw", 
-      "street": "Sint-Amandsesteenweg"
-    }, 
-    {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "20A-28B"
-      ], 
-      "housenumber": "20A", 
-      "lat": 51.095163921637706, 
-      "lon": 4.2320476422874105, 
-      "municipality": "Bornem", 
-      "pcode": "2880", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Sint-Amandsesteenweg"
-    }, 
-    {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "20A-28B"
-      ], 
-      "housenumber": "20B", 
-      "lat": 51.095163921637706, 
-      "lon": 4.2320476422874105, 
-      "municipality": "Bornem", 
-      "pcode": "2880", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Sint-Amandsesteenweg"
     }, 
     {
@@ -1359,14 +1362,14 @@
     }, 
     {
       "hnrlbls": [
-        "20-28"
+        "22"
       ], 
       "housenumber": "22", 
-      "lat": 51.09491581666066, 
-      "lon": 4.231802410312034, 
+      "lat": 51.095029586643285, 
+      "lon": 4.231932150920396, 
       "municipality": "Bornem", 
       "pcode": "2880", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Sint-Amandsesteenweg"
     }, 
     {
@@ -1456,72 +1459,19 @@
       "street": "Sint-Amandsesteenweg"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "1A", 
-        "1B", 
-        "1C", 
-        "2A", 
-        "2B", 
-        "2C"
+      "apptnrs": [
+        "A002", 
+        "C002"
       ], 
       "hnrlbls": [
-        "96-226C"
+        "226"
       ], 
       "housenumber": "226", 
-      "lat": 51.08744957801424, 
-      "lon": 4.223922503776331, 
+      "lat": 51.08739716077673, 
+      "lon": 4.224088348343846, 
       "municipality": "Bornem", 
       "pcode": "2880", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Sint-Amandsesteenweg"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
-      "hnrlbls": [
-        "96-226C"
-      ], 
-      "housenumber": "226A", 
-      "lat": 51.08744957801424, 
-      "lon": 4.223922503776331, 
-      "municipality": "Bornem", 
-      "pcode": "2880", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Sint-Amandsesteenweg"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
-      "hnrlbls": [
-        "96-226C"
-      ], 
-      "housenumber": "226B", 
-      "lat": 51.08744957801424, 
-      "lon": 4.223922503776331, 
-      "municipality": "Bornem", 
-      "pcode": "2880", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Sint-Amandsesteenweg"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
-      "hnrlbls": [
-        "96-226C"
-      ], 
-      "housenumber": "226C", 
-      "lat": 51.08744957801424, 
-      "lon": 4.223922503776331, 
-      "municipality": "Bornem", 
-      "pcode": "2880", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Sint-Amandsesteenweg"
     }, 
     {
@@ -1558,40 +1508,6 @@
       "municipality": "Bornem", 
       "pcode": "2880", 
       "source": "afgeleidVanGebouw", 
-      "street": "Sint-Amandsesteenweg"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3"
-      ], 
-      "hnrlbls": [
-        "20A-28B"
-      ], 
-      "housenumber": "22A", 
-      "lat": 51.095163921637706, 
-      "lon": 4.2320476422874105, 
-      "municipality": "Bornem", 
-      "pcode": "2880", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Sint-Amandsesteenweg"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3"
-      ], 
-      "hnrlbls": [
-        "20A-28B"
-      ], 
-      "housenumber": "22B", 
-      "lat": 51.095163921637706, 
-      "lon": 4.2320476422874105, 
-      "municipality": "Bornem", 
-      "pcode": "2880", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Sint-Amandsesteenweg"
     }, 
     {
@@ -1691,8 +1607,12 @@
       "street": "Sint-Amandsesteenweg"
     }, 
     {
+      "busnrs": [
+        "AGVL", 
+        "BGVL"
+      ], 
       "hnrlbls": [
-        "20-28"
+        "24"
       ], 
       "housenumber": "24", 
       "lat": 51.09491581666066, 
@@ -1808,40 +1728,6 @@
       "municipality": "Bornem", 
       "pcode": "2880", 
       "source": "afgeleidVanGebouw", 
-      "street": "Sint-Amandsesteenweg"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3"
-      ], 
-      "hnrlbls": [
-        "24A-26B"
-      ], 
-      "housenumber": "24A", 
-      "lat": 51.09504114317042, 
-      "lon": 4.231899541792661, 
-      "municipality": "Bornem", 
-      "pcode": "2880", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Sint-Amandsesteenweg"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3"
-      ], 
-      "hnrlbls": [
-        "24A-26B"
-      ], 
-      "housenumber": "24B", 
-      "lat": 51.09504114317042, 
-      "lon": 4.231899541792661, 
-      "municipality": "Bornem", 
-      "pcode": "2880", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Sint-Amandsesteenweg"
     }, 
     {
@@ -1981,14 +1867,14 @@
     }, 
     {
       "hnrlbls": [
-        "20-28"
+        "26"
       ], 
       "housenumber": "26", 
-      "lat": 51.09491581666066, 
-      "lon": 4.231802410312034, 
+      "lat": 51.09480098325805, 
+      "lon": 4.231683544513791, 
       "municipality": "Bornem", 
       "pcode": "2880", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Sint-Amandsesteenweg"
     }, 
     {
@@ -2115,40 +2001,6 @@
       "municipality": "Bornem", 
       "pcode": "2880", 
       "source": "afgeleidVanGebouw", 
-      "street": "Sint-Amandsesteenweg"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3"
-      ], 
-      "hnrlbls": [
-        "24A-26B"
-      ], 
-      "housenumber": "26A", 
-      "lat": 51.09504114317042, 
-      "lon": 4.231899541792661, 
-      "municipality": "Bornem", 
-      "pcode": "2880", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Sint-Amandsesteenweg"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3"
-      ], 
-      "hnrlbls": [
-        "24A-26B"
-      ], 
-      "housenumber": "26B", 
-      "lat": 51.09504114317042, 
-      "lon": 4.231899541792661, 
-      "municipality": "Bornem", 
-      "pcode": "2880", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Sint-Amandsesteenweg"
     }, 
     {
@@ -2285,14 +2137,14 @@
     }, 
     {
       "hnrlbls": [
-        "20-28"
+        "28"
       ], 
       "housenumber": "28", 
-      "lat": 51.09491581666066, 
-      "lon": 4.231802410312034, 
+      "lat": 51.09467773655789, 
+      "lon": 4.231536607306977, 
       "municipality": "Bornem", 
       "pcode": "2880", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Sint-Amandsesteenweg"
     }, 
     {
@@ -2377,38 +2229,6 @@
       "municipality": "Bornem", 
       "pcode": "2880", 
       "source": "afgeleidVanGebouw", 
-      "street": "Sint-Amandsesteenweg"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
-      "hnrlbls": [
-        "20A-28B"
-      ], 
-      "housenumber": "28A", 
-      "lat": 51.095163921637706, 
-      "lon": 4.2320476422874105, 
-      "municipality": "Bornem", 
-      "pcode": "2880", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Sint-Amandsesteenweg"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
-      "hnrlbls": [
-        "20A-28B"
-      ], 
-      "housenumber": "28B", 
-      "lat": 51.095163921637706, 
-      "lon": 4.2320476422874105, 
-      "municipality": "Bornem", 
-      "pcode": "2880", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Sint-Amandsesteenweg"
     }, 
     {
@@ -2544,47 +2364,15 @@
       "street": "Sint-Amandsesteenweg"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
       "hnrlbls": [
-        "2-2C"
-      ], 
-      "housenumber": "2A", 
-      "lat": 51.09568773989889, 
-      "lon": 4.232394142302977, 
-      "municipality": "Bornem", 
-      "pcode": "2880", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Sint-Amandsesteenweg"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
-      "hnrlbls": [
-        "2-2C"
-      ], 
-      "housenumber": "2B", 
-      "lat": 51.09568773989889, 
-      "lon": 4.232394142302977, 
-      "municipality": "Bornem", 
-      "pcode": "2880", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Sint-Amandsesteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "2-2C"
+        "2C"
       ], 
       "housenumber": "2C", 
       "lat": 51.09568773989889, 
       "lon": 4.232394142302977, 
       "municipality": "Bornem", 
       "pcode": "2880", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Sint-Amandsesteenweg"
     }, 
     {
@@ -3021,7 +2809,7 @@
     }, 
     {
       "hnrlbls": [
-        "337-337A"
+        "337"
       ], 
       "housenumber": "337", 
       "lat": 51.07921000147171, 
@@ -3033,14 +2821,14 @@
     }, 
     {
       "hnrlbls": [
-        "337-337A"
+        "337A"
       ], 
       "housenumber": "337A", 
-      "lat": 51.07921000147171, 
-      "lon": 4.214643461796141, 
+      "lat": 51.07902495896289, 
+      "lon": 4.214949587155298, 
       "municipality": "Bornem", 
       "pcode": "2880", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Sint-Amandsesteenweg"
     }, 
     {
@@ -3810,6 +3598,10 @@
       "street": "Sint-Amandsesteenweg"
     }, 
     {
+      "busnrs": [
+        "AGVL", 
+        "CGVL"
+      ], 
       "hnrlbls": [
         "52-58"
       ], 
@@ -4541,15 +4333,20 @@
       "street": "Sint-Amandsesteenweg"
     }, 
     {
+      "apptnrs": [
+        "0001", 
+        "0002", 
+        "GVL0"
+      ], 
       "hnrlbls": [
         "97"
       ], 
       "housenumber": "97", 
-      "lat": 51.09172660513927, 
-      "lon": 4.229433266577134, 
+      "lat": 51.09118326709869, 
+      "lon": 4.2287618304870485, 
       "municipality": "Bornem", 
       "pcode": "2880", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Sint-Amandsesteenweg"
     }, 
     {

@@ -68,11 +68,11 @@
         "107"
       ], 
       "housenumber": "107", 
-      "lat": 51.20373295255371, 
-      "lon": 4.467687186324052, 
+      "lat": 51.20371093627721, 
+      "lon": 4.468212529726066, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Van den Hautelei"
     }, 
     {
@@ -265,18 +265,6 @@
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "afgeleidVanGebouw", 
-      "street": "Van den Hautelei"
-    }, 
-    {
-      "hnrlbls": [
-        "328-1215"
-      ], 
-      "housenumber": "1215", 
-      "lat": 51.2038155935774, 
-      "lon": 4.467429531770294, 
-      "municipality": "Antwerpen", 
-      "pcode": "2100", 
-      "source": "afgeleidVanStraat", 
       "street": "Van den Hautelei"
     }, 
     {
@@ -523,11 +511,11 @@
         "162"
       ], 
       "housenumber": "162", 
-      "lat": 51.20213380408277, 
-      "lon": 4.466952369744935, 
+      "lat": 51.202106813740144, 
+      "lon": 4.466958570636517, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Van den Hautelei"
     }, 
     {
@@ -688,6 +676,18 @@
     }, 
     {
       "hnrlbls": [
+        "179A"
+      ], 
+      "housenumber": "179A", 
+      "lat": 51.201801755840094, 
+      "lon": 4.46738954130974, 
+      "municipality": "Antwerpen", 
+      "pcode": "2100", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Van den Hautelei"
+    }, 
+    {
+      "hnrlbls": [
         "18"
       ], 
       "housenumber": "18", 
@@ -712,14 +712,14 @@
     }, 
     {
       "hnrlbls": [
-        "181"
+        "181-183"
       ], 
       "housenumber": "181", 
-      "lat": 51.201801763350616, 
-      "lon": 4.467389473244061, 
+      "lat": 51.201424151758204, 
+      "lon": 4.4684607164123396, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Van den Hautelei"
     }, 
     {
@@ -735,46 +735,8 @@
       "street": "Van den Hautelei"
     }, 
     {
-      "apptnrs": [
-        "401", 
-        "402", 
-        "403", 
-        "404", 
-        "405", 
-        "406", 
-        "407", 
-        "408", 
-        "409", 
-        "411", 
-        "412", 
-        "413", 
-        "414", 
-        "415", 
-        "416", 
-        "417", 
-        "418", 
-        "421", 
-        "422", 
-        "423", 
-        "424", 
-        "425", 
-        "426", 
-        "427", 
-        "428", 
-        "431", 
-        "432", 
-        "433", 
-        "434", 
-        "501", 
-        "511", 
-        "512", 
-        "521", 
-        "522", 
-        "531", 
-        "532"
-      ], 
       "hnrlbls": [
-        "183"
+        "181-183"
       ], 
       "housenumber": "183", 
       "lat": 51.201424151758204, 
@@ -798,6 +760,8 @@
     }, 
     {
       "busnrs": [
+        "1", 
+        "2", 
         "3"
       ], 
       "hnrlbls": [
@@ -949,35 +913,11 @@
         "195"
       ], 
       "housenumber": "195", 
-      "lat": 51.201218681427285, 
-      "lon": 4.468135785658753, 
+      "lat": 51.20101984558806, 
+      "lon": 4.468148807848639, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Van den Hautelei"
-    }, 
-    {
-      "hnrlbls": [
-        "195A-195B"
-      ], 
-      "housenumber": "195A", 
-      "lat": 51.20135874584689, 
-      "lon": 4.46703971801183, 
-      "municipality": "Antwerpen", 
-      "pcode": "2100", 
-      "source": "geinterpoleerdObvWegverbinding", 
-      "street": "Van den Hautelei"
-    }, 
-    {
-      "hnrlbls": [
-        "195A-195B"
-      ], 
-      "housenumber": "195B", 
-      "lat": 51.20135874584689, 
-      "lon": 4.46703971801183, 
-      "municipality": "Antwerpen", 
-      "pcode": "2100", 
-      "source": "geinterpoleerdObvWegverbinding", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Van den Hautelei"
     }, 
     {
@@ -1297,6 +1237,12 @@
       "street": "Van den Hautelei"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4"
+      ], 
       "hnrlbls": [
         "215"
       ], 
@@ -1310,7 +1256,14 @@
     }, 
     {
       "busnrs": [
-        "218"
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6", 
+        "7", 
+        "8"
       ], 
       "hnrlbls": [
         "216-218"
@@ -1324,18 +1277,15 @@
       "street": "Van den Hautelei"
     }, 
     {
-      "busnrs": [
-        "L"
-      ], 
       "hnrlbls": [
         "216_1"
       ], 
       "housenumber": "216_1", 
-      "lat": 51.200890237611766, 
-      "lon": 4.466752580857613, 
+      "lat": 51.2008866819917, 
+      "lon": 4.466766313923401, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Van den Hautelei"
     }, 
     {
@@ -1363,18 +1313,15 @@
       "street": "Van den Hautelei"
     }, 
     {
-      "busnrs": [
-        "L"
-      ], 
       "hnrlbls": [
         "218_3"
       ], 
       "housenumber": "218_3", 
-      "lat": 51.20083639262509, 
-      "lon": 4.466757474436295, 
+      "lat": 51.200832879244274, 
+      "lon": 4.4667669097118665, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Van den Hautelei"
     }, 
     {
@@ -1392,10 +1339,13 @@
     {
       "busnrs": [
         "1", 
+        "2", 
         "3", 
+        "4", 
         "5", 
         "6", 
         "7", 
+        "8", 
         "9"
       ], 
       "hnrlbls": [
@@ -1425,18 +1375,15 @@
       "street": "Van den Hautelei"
     }, 
     {
-      "busnrs": [
-        "11"
-      ], 
       "hnrlbls": [
         "221A"
       ], 
       "housenumber": "221A", 
-      "lat": 51.20026278706657, 
-      "lon": 4.467141404193641, 
+      "lat": 51.20026159678272, 
+      "lon": 4.467142727920676, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Van den Hautelei"
     }, 
     {
@@ -1456,15 +1403,17 @@
         "225"
       ], 
       "housenumber": "225", 
-      "lat": 51.19995312646539, 
-      "lon": 4.466828713749012, 
+      "lat": 51.20012788709489, 
+      "lon": 4.467121231050659, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
-      "source": "geinterpoleerdObvWegverbinding", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Van den Hautelei"
     }, 
     {
       "busnrs": [
+        "1", 
+        "2", 
         "3"
       ], 
       "hnrlbls": [
@@ -1730,21 +1679,6 @@
       "street": "Van den Hautelei"
     }, 
     {
-      "busnrs": [
-        "2"
-      ], 
-      "hnrlbls": [
-        "328-1215"
-      ], 
-      "housenumber": "328", 
-      "lat": 51.2038155935774, 
-      "lon": 4.467429531770294, 
-      "municipality": "Antwerpen", 
-      "pcode": "2100", 
-      "source": "afgeleidVanStraat", 
-      "street": "Van den Hautelei"
-    }, 
-    {
       "hnrlbls": [
         "31-41"
       ], 
@@ -1812,33 +1746,27 @@
       "street": "Van den Hautelei"
     }, 
     {
-      "busnrs": [
-        "D"
-      ], 
       "hnrlbls": [
         "39_1-39_4"
       ], 
       "housenumber": "39_1", 
-      "lat": 51.20535554077814, 
-      "lon": 4.46790857085733, 
+      "lat": 51.205199461331134, 
+      "lon": 4.467871824536335, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Van den Hautelei"
     }, 
     {
-      "busnrs": [
-        "D"
-      ], 
       "hnrlbls": [
         "39_1-39_4"
       ], 
       "housenumber": "39_4", 
-      "lat": 51.20535554077814, 
-      "lon": 4.46790857085733, 
+      "lat": 51.205199461331134, 
+      "lon": 4.467871824536335, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Van den Hautelei"
     }, 
     {
@@ -1926,6 +1854,11 @@
       "street": "Van den Hautelei"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3"
+      ], 
       "hnrlbls": [
         "46"
       ], 
@@ -2183,6 +2116,13 @@
       "street": "Van den Hautelei"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5"
+      ], 
       "hnrlbls": [
         "68"
       ], 

@@ -2,17 +2,19 @@
   "addresses": [
     {
       "busnrs": [
-        "1"
+        "1", 
+        "102", 
+        "302"
       ], 
       "hnrlbls": [
-        "/zn-1"
+        "1-33"
       ], 
       "housenumber": "1", 
-      "lat": 51.132097894020546, 
-      "lon": 2.7521572318665557, 
+      "lat": 51.132130753420626, 
+      "lon": 2.757085100994548, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanStraat", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Langestraat"
     }, 
     {
@@ -40,6 +42,9 @@
       "street": "Langestraat"
     }, 
     {
+      "busnrs": [
+        "101"
+      ], 
       "hnrlbls": [
         "103"
       ], 
@@ -1113,6 +1118,7 @@
     {
       "busnrs": [
         "101", 
+        "102", 
         "201"
       ], 
       "hnrlbls": [
@@ -1175,6 +1181,11 @@
       "street": "Langestraat"
     }, 
     {
+      "busnrs": [
+        "101", 
+        "301", 
+        "303"
+      ], 
       "hnrlbls": [
         "70"
       ], 
@@ -1434,8 +1445,8 @@
         "85"
       ], 
       "housenumber": "85", 
-      "lat": 51.13229899914895, 
-      "lon": 2.752648264655064, 
+      "lat": 51.13229908314831, 
+      "lon": 2.7526478330645516, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
       "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 

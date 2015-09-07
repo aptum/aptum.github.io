@@ -5,8 +5,10 @@
         "1", 
         "101", 
         "2", 
+        "2B", 
         "3", 
-        "301"
+        "301", 
+        "3B"
       ], 
       "hnrlbls": [
         "1"
@@ -36,6 +38,7 @@
         "1.0"
       ], 
       "busnrs": [
+        "1", 
         "2", 
         "3", 
         "4"
@@ -49,36 +52,6 @@
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
-      "street": "Slachthuiskaai"
-    }, 
-    {
-      "busnrs": [
-        "B"
-      ], 
-      "hnrlbls": [
-        "1_2"
-      ], 
-      "housenumber": "1_2", 
-      "lat": 51.226450956498866, 
-      "lon": 2.92574375698327, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Slachthuiskaai"
-    }, 
-    {
-      "busnrs": [
-        "B"
-      ], 
-      "hnrlbls": [
-        "1-346A"
-      ], 
-      "housenumber": "1_3", 
-      "lat": 51.21019494141423, 
-      "lon": 2.92423265140856, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "manueleAanduidingVanPerceel", 
       "street": "Slachthuiskaai"
     }, 
     {
@@ -99,6 +72,10 @@
       "street": "Slachthuiskaai"
     }, 
     {
+      "busnrs": [
+        "2", 
+        "3"
+      ], 
       "hnrlbls": [
         "3"
       ], 
@@ -132,18 +109,6 @@
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Slachthuiskaai"
-    }, 
-    {
-      "hnrlbls": [
-        "ZN"
-      ], 
-      "housenumber": "ZN", 
-      "lat": 51.225572973984285, 
-      "lon": 2.926789605286149, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "afgeleidVanStraat", 
       "street": "Slachthuiskaai"
     }
   ]

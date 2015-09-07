@@ -31,6 +31,7 @@
         "102", 
         "2", 
         "201", 
+        "202", 
         "3", 
         "4", 
         "5"
@@ -612,7 +613,7 @@
     }, 
     {
       "hnrlbls": [
-        "200"
+        "200-200A"
       ], 
       "housenumber": "200", 
       "lat": 50.866272412022816, 
@@ -620,6 +621,18 @@
       "municipality": "Dilbeek", 
       "pcode": "1702", 
       "source": "afgeleidVanGebouw", 
+      "street": "Robert Dansaertlaan"
+    }, 
+    {
+      "hnrlbls": [
+        "200-200A"
+      ], 
+      "housenumber": "200A", 
+      "lat": 50.866272412022816, 
+      "lon": 4.2632049563887895, 
+      "municipality": "Dilbeek", 
+      "pcode": "1702", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Robert Dansaertlaan"
     }, 
     {
@@ -720,17 +733,18 @@
     }, 
     {
       "busnrs": [
-        "102"
+        "102", 
+        "301"
       ], 
       "hnrlbls": [
         "210"
       ], 
       "housenumber": "210", 
-      "lat": 50.86619016508028, 
-      "lon": 4.2613182580031985, 
+      "lat": 50.866241227937266, 
+      "lon": 4.261717167611349, 
       "municipality": "Dilbeek", 
       "pcode": "1702", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Robert Dansaertlaan"
     }, 
     {
@@ -1441,6 +1455,7 @@
         "2.0"
       ], 
       "busnrs": [
+        "1", 
         "101", 
         "2", 
         "201"

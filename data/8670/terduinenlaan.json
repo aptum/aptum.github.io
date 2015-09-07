@@ -1,7 +1,11 @@
 {
   "addresses": [
     {
-      "busnrs": [
+      "apptnrs": [
+        "001", 
+        "101", 
+        "102", 
+        "2", 
         "201", 
         "202", 
         "301", 
@@ -11,21 +15,23 @@
         "4-10"
       ], 
       "housenumber": "10", 
-      "lat": 51.11309376804107, 
-      "lon": 2.632499772930213, 
+      "lat": 51.113069421603925, 
+      "lon": 2.6324216857625027, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Ter Duinenlaan"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "101", 
         "102", 
+        "201", 
         "202", 
         "301", 
         "302", 
-        "401"
+        "401", 
+        "GV01"
       ], 
       "hnrlbls": [
         "11"
@@ -35,7 +41,7 @@
       "lon": 2.6338188357259615, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Ter Duinenlaan"
     }, 
     {
@@ -47,15 +53,16 @@
       "lon": 2.6330049523141987, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Ter Duinenlaan"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
+        "0201", 
         "101", 
         "102", 
-        "201", 
-        "301"
+        "301", 
+        "GV01"
       ], 
       "hnrlbls": [
         "27"
@@ -65,32 +72,44 @@
       "lon": 2.6327115176441507, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Ter Duinenlaan"
     }, 
     {
-      "busnrs": [
-        "101", 
+      "apptnrs": [
+        "0101", 
         "102", 
         "201", 
         "202", 
-        "301"
+        "301", 
+        "302", 
+        "GV01", 
+        "GV02"
       ], 
       "hnrlbls": [
-        "28"
+        "28-30"
       ], 
       "housenumber": "28", 
       "lat": 51.112885708910746, 
       "lon": 2.6319131387024677, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Ter Duinenlaan"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
+        "002", 
+        "101", 
+        "102", 
         "103", 
-        "303"
+        "201", 
+        "202", 
+        "203", 
+        "301", 
+        "302", 
+        "303", 
+        "GV01"
       ], 
       "hnrlbls": [
         "29"
@@ -100,12 +119,14 @@
       "lon": 2.632501559055321, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Ter Duinenlaan"
     }, 
     {
-      "busnrs": [
-        "101", 
+      "apptnrs": [
+        "001", 
+        "002", 
+        "0101", 
         "201", 
         "301"
       ], 
@@ -117,31 +138,39 @@
       "lon": 2.634418572571344, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Ter Duinenlaan"
     }, 
     {
       "hnrlbls": [
-        "30"
+        "28-30"
       ], 
       "housenumber": "30", 
-      "lat": 51.11272901170969, 
-      "lon": 2.631358739604506, 
+      "lat": 51.112885708910746, 
+      "lon": 2.6319131387024677, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Ter Duinenlaan"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
+        "003", 
+        "0201", 
+        "0203", 
+        "0301", 
+        "101", 
+        "102", 
         "103", 
         "104", 
-        "201", 
-        "203", 
+        "202", 
         "204", 
-        "301", 
         "302", 
-        "303"
+        "303", 
+        "304", 
+        "GV01", 
+        "GV02", 
+        "GV04"
       ], 
       "hnrlbls": [
         "31"
@@ -151,7 +180,7 @@
       "lon": 2.632267886132089, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Ter Duinenlaan"
     }, 
     {
@@ -163,7 +192,7 @@
       "lon": 2.630819512852196, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Ter Duinenlaan"
     }, 
     {
@@ -175,10 +204,64 @@
       "lon": 2.630819512852196, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Ter Duinenlaan"
     }, 
     {
+      "apptnrs": [
+        "K101", 
+        "K107", 
+        "K108", 
+        "K109", 
+        "K110", 
+        "K111", 
+        "K113", 
+        "K116", 
+        "K117", 
+        "K118", 
+        "K119", 
+        "K120", 
+        "K122", 
+        "K123", 
+        "K126", 
+        "K127", 
+        "K129", 
+        "K202", 
+        "K203", 
+        "K205", 
+        "K207", 
+        "K210", 
+        "K212", 
+        "K213", 
+        "K214", 
+        "K216", 
+        "K217", 
+        "K220", 
+        "K221", 
+        "K222", 
+        "K224", 
+        "K227", 
+        "K302", 
+        "K305", 
+        "K306", 
+        "K307", 
+        "K308", 
+        "K309", 
+        "K310", 
+        "K311", 
+        "K312", 
+        "K313", 
+        "K314", 
+        "K316", 
+        "K318", 
+        "K321", 
+        "K322", 
+        "K323", 
+        "K325", 
+        "K326", 
+        "K328", 
+        "K329"
+      ], 
       "hnrlbls": [
         "35"
       ], 
@@ -187,7 +270,7 @@
       "lon": 2.631774746531436, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Ter Duinenlaan"
     }, 
     {
@@ -199,7 +282,7 @@
       "lon": 2.6276449579455377, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Ter Duinenlaan"
     }, 
     {
@@ -211,23 +294,27 @@
       "lon": 2.6274380959928836, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Ter Duinenlaan"
     }, 
     {
-      "busnrs": [
-        "201", 
-        "302"
+      "apptnrs": [
+        "0201", 
+        "101", 
+        "301", 
+        "302", 
+        "GV01", 
+        "GV02"
       ], 
       "hnrlbls": [
         "4-10"
       ], 
       "housenumber": "4", 
-      "lat": 51.11309376804107, 
-      "lon": 2.632499772930213, 
+      "lat": 51.113069421603925, 
+      "lon": 2.6324216857625027, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Ter Duinenlaan"
     }, 
     {
@@ -239,7 +326,7 @@
       "lon": 2.6267713543592004, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Ter Duinenlaan"
     }, 
     {
@@ -247,21 +334,27 @@
         "42"
       ], 
       "housenumber": "42", 
-      "lat": 51.1109358437857, 
-      "lon": 2.6265019916364833, 
+      "lat": 51.110951899134086, 
+      "lon": 2.6265602414836797, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Ter Duinenlaan"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
+        "001", 
+        "0104", 
+        "0301", 
+        "101", 
         "102", 
         "103", 
         "201", 
+        "202", 
         "203", 
-        "301", 
-        "303"
+        "302", 
+        "303", 
+        "GV02"
       ], 
       "hnrlbls": [
         "5"
@@ -271,7 +364,7 @@
       "lon": 2.6342625664844306, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Ter Duinenlaan"
     }, 
     {
@@ -279,11 +372,11 @@
         "51"
       ], 
       "housenumber": "51", 
-      "lat": 51.11128647158312, 
-      "lon": 2.6291932455653577, 
+      "lat": 51.1111865900161, 
+      "lon": 2.6288830086003605, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Ter Duinenlaan"
     }, 
     {
@@ -295,7 +388,7 @@
       "lon": 2.6281962370588063, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Ter Duinenlaan"
     }, 
     {
@@ -307,38 +400,47 @@
       "lon": 2.627819975819421, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Ter Duinenlaan"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
+        "001", 
+        "0301", 
+        "101", 
         "102", 
+        "201", 
         "202", 
-        "301", 
-        "302"
+        "302", 
+        "GV02"
       ], 
       "hnrlbls": [
         "4-10"
       ], 
       "housenumber": "6", 
-      "lat": 51.11309376804107, 
-      "lon": 2.632499772930213, 
+      "lat": 51.113069421603925, 
+      "lon": 2.6324216857625027, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Ter Duinenlaan"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
+        "001", 
+        "004", 
         "101", 
         "102", 
         "103", 
+        "201", 
         "202", 
+        "203", 
         "301", 
         "302", 
         "303", 
-        "4", 
-        "401"
+        "401", 
+        "GV02", 
+        "GV03"
       ], 
       "hnrlbls": [
         "7"
@@ -348,24 +450,29 @@
       "lon": 2.634008629898547, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Ter Duinenlaan"
     }, 
     {
-      "busnrs": [
-        "101", 
+      "apptnrs": [
+        "0101", 
+        "1", 
+        "102", 
         "201", 
-        "301"
+        "202", 
+        "301", 
+        "302", 
+        "GV02"
       ], 
       "hnrlbls": [
         "4-10"
       ], 
       "housenumber": "8", 
-      "lat": 51.11309376804107, 
-      "lon": 2.632499772930213, 
+      "lat": 51.113069421603925, 
+      "lon": 2.6324216857625027, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Ter Duinenlaan"
     }
   ]

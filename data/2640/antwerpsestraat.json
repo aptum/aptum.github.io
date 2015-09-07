@@ -295,7 +295,8 @@
       "busnrs": [
         "1", 
         "2", 
-        "3"
+        "3", 
+        "glvl"
       ], 
       "hnrlbls": [
         "119"
@@ -394,7 +395,8 @@
     {
       "busnrs": [
         "2", 
-        "3"
+        "3", 
+        "glvl"
       ], 
       "hnrlbls": [
         "125"
@@ -423,7 +425,8 @@
       "busnrs": [
         "1", 
         "2", 
-        "3"
+        "3", 
+        "glvl"
       ], 
       "hnrlbls": [
         "127"
@@ -439,7 +442,8 @@
     {
       "busnrs": [
         "1", 
-        "2"
+        "2", 
+        "glvl"
       ], 
       "hnrlbls": [
         "128"
@@ -485,7 +489,8 @@
         "2", 
         "3", 
         "4", 
-        "5"
+        "5", 
+        "6"
       ], 
       "hnrlbls": [
         "130-132"
@@ -758,7 +763,8 @@
         "3", 
         "4", 
         "5", 
-        "6"
+        "6", 
+        "glvl"
       ], 
       "hnrlbls": [
         "151"
@@ -819,7 +825,14 @@
     {
       "busnrs": [
         "4", 
-        "7"
+        "7", 
+        "KA01", 
+        "KA03", 
+        "KA04", 
+        "KA05", 
+        "KA06", 
+        "KA2", 
+        "glvl"
       ], 
       "hnrlbls": [
         "155"
@@ -920,7 +933,8 @@
     {
       "busnrs": [
         "1", 
-        "2"
+        "2", 
+        "glvl"
       ], 
       "hnrlbls": [
         "161"
@@ -936,7 +950,9 @@
     {
       "busnrs": [
         "1", 
-        "2"
+        "2", 
+        "3", 
+        "4"
       ], 
       "hnrlbls": [
         "162-164"
@@ -952,7 +968,8 @@
     {
       "busnrs": [
         "1", 
-        "2"
+        "2", 
+        "glvl"
       ], 
       "hnrlbls": [
         "163"
@@ -1310,7 +1327,8 @@
       "busnrs": [
         "1", 
         "2", 
-        "3"
+        "3", 
+        "glvl"
       ], 
       "hnrlbls": [
         "185"
@@ -1622,7 +1640,8 @@
       ], 
       "busnrs": [
         "1", 
-        "2"
+        "2", 
+        "glvl"
       ], 
       "hnrlbls": [
         "217"
@@ -1860,7 +1879,8 @@
     {
       "busnrs": [
         "1", 
-        "2"
+        "2", 
+        "glvl"
       ], 
       "hnrlbls": [
         "258"
@@ -1918,6 +1938,9 @@
       "street": "Antwerpsestraat"
     }, 
     {
+      "busnrs": [
+        "glvl"
+      ], 
       "hnrlbls": [
         "262"
       ], 
@@ -2043,6 +2066,9 @@
       "street": "Antwerpsestraat"
     }, 
     {
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "270"
       ], 
@@ -2057,7 +2083,8 @@
     {
       "busnrs": [
         "1", 
-        "2"
+        "2", 
+        "glvl"
       ], 
       "hnrlbls": [
         "271"
@@ -2163,7 +2190,8 @@
     {
       "busnrs": [
         "1", 
-        "2"
+        "2", 
+        "glvl"
       ], 
       "hnrlbls": [
         "279"
@@ -2249,7 +2277,8 @@
     {
       "busnrs": [
         "1", 
-        "2"
+        "2", 
+        "glvl"
       ], 
       "hnrlbls": [
         "283"
@@ -2292,6 +2321,9 @@
       "street": "Antwerpsestraat"
     }, 
     {
+      "busnrs": [
+        "KA05"
+      ], 
       "hnrlbls": [
         "286"
       ], 
@@ -2307,7 +2339,8 @@
       "busnrs": [
         "0.0", 
         "1", 
-        "2"
+        "2", 
+        "glvl"
       ], 
       "hnrlbls": [
         "287-287G"
@@ -2334,7 +2367,8 @@
     }, 
     {
       "busnrs": [
-        "1"
+        "1", 
+        "glvl"
       ], 
       "hnrlbls": [
         "288"
@@ -2349,7 +2383,8 @@
     }, 
     {
       "busnrs": [
-        "1"
+        "1", 
+        "glvl"
       ], 
       "hnrlbls": [
         "289"
@@ -2929,6 +2964,7 @@
     }, 
     {
       "busnrs": [
+        "1", 
         "10", 
         "2", 
         "3", 
@@ -3119,6 +3155,18 @@
       "street": "Antwerpsestraat"
     }, 
     {
+      "hnrlbls": [
+        "73-75"
+      ], 
+      "housenumber": "73", 
+      "lat": 51.1719366747554, 
+      "lon": 4.44572522915702, 
+      "municipality": "Mortsel", 
+      "pcode": "2640", 
+      "source": "afgeleidVanPerceelKadaster", 
+      "street": "Antwerpsestraat"
+    }, 
+    {
       "busnrs": [
         "1", 
         "2"
@@ -3132,6 +3180,18 @@
       "municipality": "Mortsel", 
       "pcode": "2640", 
       "source": "afgeleidVanGebouw", 
+      "street": "Antwerpsestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "73-75"
+      ], 
+      "housenumber": "75", 
+      "lat": 51.1719366747554, 
+      "lon": 4.44572522915702, 
+      "municipality": "Mortsel", 
+      "pcode": "2640", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Antwerpsestraat"
     }, 
     {
@@ -3170,11 +3230,11 @@
         "79"
       ], 
       "housenumber": "79", 
-      "lat": 51.17226519084596, 
-      "lon": 4.446022038076981, 
+      "lat": 51.17216078569223, 
+      "lon": 4.445822115857851, 
       "municipality": "Mortsel", 
       "pcode": "2640", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelKadaster", 
       "street": "Antwerpsestraat"
     }, 
     {
@@ -3432,7 +3492,8 @@
     {
       "busnrs": [
         "1", 
-        "2"
+        "2", 
+        "glvl"
       ], 
       "hnrlbls": [
         "93"
@@ -3460,7 +3521,8 @@
     {
       "busnrs": [
         "1", 
-        "2"
+        "2", 
+        "glvl"
       ], 
       "hnrlbls": [
         "95"

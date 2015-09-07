@@ -12,7 +12,7 @@
         "8"
       ], 
       "hnrlbls": [
-        "1-1R"
+        "1"
       ], 
       "housenumber": "1", 
       "lat": 51.20833285774807, 
@@ -101,8 +101,10 @@
     }, 
     {
       "busnrs": [
+        "1", 
         "2", 
-        "3"
+        "3", 
+        "4"
       ], 
       "hnrlbls": [
         "15"
@@ -117,6 +119,8 @@
     }, 
     {
       "busnrs": [
+        "1", 
+        "2", 
         "3"
       ], 
       "hnrlbls": [
@@ -167,34 +171,27 @@
       "street": "Verschansingstraat"
     }, 
     {
-      "busnrs": [
-        "3"
-      ], 
       "hnrlbls": [
-        "1-1R"
+        "1L-1R"
       ], 
       "housenumber": "1L", 
-      "lat": 51.20833285774807, 
-      "lon": 4.392163691081589, 
+      "lat": 51.208348757621394, 
+      "lon": 4.39222415663553, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Verschansingstraat"
     }, 
     {
-      "busnrs": [
-        "2", 
-        "4"
-      ], 
       "hnrlbls": [
-        "1-1R"
+        "1L-1R"
       ], 
       "housenumber": "1R", 
-      "lat": 51.20833285774807, 
-      "lon": 4.392163691081589, 
+      "lat": 51.208348757621394, 
+      "lon": 4.39222415663553, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Verschansingstraat"
     }, 
     {
@@ -239,19 +236,15 @@
       "street": "Verschansingstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
       "hnrlbls": [
         "23"
       ], 
       "housenumber": "23", 
-      "lat": 51.208216097825385, 
-      "lon": 4.391266432107086, 
+      "lat": 51.208195336455496, 
+      "lon": 4.391352705917198, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Verschansingstraat"
     }, 
     {
@@ -696,7 +689,7 @@
         "301"
       ], 
       "hnrlbls": [
-        "51-51B"
+        "51"
       ], 
       "housenumber": "51", 
       "lat": 51.208095680525545, 
@@ -708,14 +701,14 @@
     }, 
     {
       "hnrlbls": [
-        "51-51B"
+        "51B"
       ], 
       "housenumber": "51B", 
-      "lat": 51.208095680525545, 
-      "lon": 4.390184585250466, 
+      "lat": 51.20809350936047, 
+      "lon": 4.390182234625178, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Verschansingstraat"
     }, 
     {
@@ -792,11 +785,11 @@
         "55A"
       ], 
       "housenumber": "55A", 
-      "lat": 51.208083846723255, 
-      "lon": 4.390018734300483, 
+      "lat": 51.208082119960906, 
+      "lon": 4.390053031560962, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Verschansingstraat"
     }, 
     {
@@ -867,14 +860,33 @@
     }, 
     {
       "hnrlbls": [
-        "61B"
+        "61A-61C"
       ], 
-      "housenumber": "61B", 
-      "lat": 51.208058904878165, 
-      "lon": 4.389769740046001, 
+      "housenumber": "61A", 
+      "lat": 51.20805643240431, 
+      "lon": 4.389643970813012, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Verschansingstraat"
+    }, 
+    {
+      "apptnrs": [
+        "11", 
+        "21", 
+        "31", 
+        "41", 
+        "51"
+      ], 
+      "hnrlbls": [
+        "61A-61C"
+      ], 
+      "housenumber": "61C", 
+      "lat": 51.20805643240431, 
+      "lon": 4.389643970813012, 
+      "municipality": "Antwerpen", 
+      "pcode": "2000", 
+      "source": "afgeleidVanGebouw", 
       "street": "Verschansingstraat"
     }, 
     {

@@ -13,18 +13,6 @@
       "street": "Frederik de Merodestraat"
     }, 
     {
-      "hnrlbls": [
-        "98-7678"
-      ], 
-      "housenumber": "100", 
-      "lat": 51.03049321129125, 
-      "lon": 4.481956390970769, 
-      "municipality": "Mechelen", 
-      "pcode": "2800", 
-      "source": "afgeleidVanStraat", 
-      "street": "Frederik de Merodestraat"
-    }, 
-    {
       "busnrs": [
         "1", 
         "10", 
@@ -44,18 +32,6 @@
     }, 
     {
       "hnrlbls": [
-        "98-7678"
-      ], 
-      "housenumber": "102", 
-      "lat": 51.03049321129125, 
-      "lon": 4.481956390970769, 
-      "municipality": "Mechelen", 
-      "pcode": "2800", 
-      "source": "afgeleidVanStraat", 
-      "street": "Frederik de Merodestraat"
-    }, 
-    {
-      "hnrlbls": [
         "101-103"
       ], 
       "housenumber": "103", 
@@ -64,18 +40,6 @@
       "municipality": "Mechelen", 
       "pcode": "2800", 
       "source": "afgeleidVanGebouw", 
-      "street": "Frederik de Merodestraat"
-    }, 
-    {
-      "hnrlbls": [
-        "98-7678"
-      ], 
-      "housenumber": "104", 
-      "lat": 51.03049321129125, 
-      "lon": 4.481956390970769, 
-      "municipality": "Mechelen", 
-      "pcode": "2800", 
-      "source": "afgeleidVanStraat", 
       "street": "Frederik de Merodestraat"
     }, 
     {
@@ -92,18 +56,6 @@
     }, 
     {
       "hnrlbls": [
-        "98-7678"
-      ], 
-      "housenumber": "106", 
-      "lat": 51.03049321129125, 
-      "lon": 4.481956390970769, 
-      "municipality": "Mechelen", 
-      "pcode": "2800", 
-      "source": "afgeleidVanStraat", 
-      "street": "Frederik de Merodestraat"
-    }, 
-    {
-      "hnrlbls": [
         "107"
       ], 
       "housenumber": "107", 
@@ -112,18 +64,6 @@
       "municipality": "Mechelen", 
       "pcode": "2800", 
       "source": "afgeleidVanGebouw", 
-      "street": "Frederik de Merodestraat"
-    }, 
-    {
-      "hnrlbls": [
-        "98-7678"
-      ], 
-      "housenumber": "108", 
-      "lat": 51.03049321129125, 
-      "lon": 4.481956390970769, 
-      "municipality": "Mechelen", 
-      "pcode": "2800", 
-      "source": "afgeleidVanStraat", 
       "street": "Frederik de Merodestraat"
     }, 
     {
@@ -259,21 +199,6 @@
       "street": "Frederik de Merodestraat"
     }, 
     {
-      "busnrs": [
-        "101"
-      ], 
-      "hnrlbls": [
-        "17K"
-      ], 
-      "housenumber": "17K", 
-      "lat": 51.02896526946794, 
-      "lon": 4.480541466720143, 
-      "municipality": "Mechelen", 
-      "pcode": "2800", 
-      "source": "geinterpoleerdObvWegverbinding", 
-      "street": "Frederik de Merodestraat"
-    }, 
-    {
       "hnrlbls": [
         "18"
       ], 
@@ -286,16 +211,12 @@
       "street": "Frederik de Merodestraat"
     }, 
     {
-      "apptnrs": [
-        "0.0"
-      ], 
       "busnrs": [
-        "101", 
         "2", 
-        "203"
+        "GVL"
       ], 
       "hnrlbls": [
-        "19-19S"
+        "19"
       ], 
       "housenumber": "19", 
       "lat": 51.02904433442292, 
@@ -303,21 +224,6 @@
       "municipality": "Mechelen", 
       "pcode": "2800", 
       "source": "afgeleidVanGebouw", 
-      "street": "Frederik de Merodestraat"
-    }, 
-    {
-      "busnrs": [
-        "203"
-      ], 
-      "hnrlbls": [
-        "19-19S"
-      ], 
-      "housenumber": "19S", 
-      "lat": 51.02904433442292, 
-      "lon": 4.480393408332544, 
-      "municipality": "Mechelen", 
-      "pcode": "2800", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Frederik de Merodestraat"
     }, 
     {
@@ -462,15 +368,23 @@
       "street": "Frederik de Merodestraat"
     }, 
     {
+      "busnrs": [
+        "3/0101", 
+        "3/GVL1", 
+        "3/GVL2", 
+        "3/GVL3", 
+        "3/GVL4", 
+        "3/GVL5"
+      ], 
       "hnrlbls": [
         "3"
       ], 
       "housenumber": "3", 
-      "lat": 51.02869086849343, 
-      "lon": 4.480128851386577, 
+      "lat": 51.028635457667995, 
+      "lon": 4.480159958960557, 
       "municipality": "Mechelen", 
       "pcode": "2800", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Frederik de Merodestraat"
     }, 
     {
@@ -649,8 +563,8 @@
         "43"
       ], 
       "housenumber": "43", 
-      "lat": 51.03005520033888, 
-      "lon": 4.481372582976073, 
+      "lat": 51.03005493066894, 
+      "lon": 4.481372582323462, 
       "municipality": "Mechelen", 
       "pcode": "2800", 
       "source": "afgeleidVanPerceelGrb", 
@@ -739,14 +653,14 @@
     }, 
     {
       "hnrlbls": [
-        "5-5A"
+        "5"
       ], 
       "housenumber": "5", 
-      "lat": 51.02872861755405, 
-      "lon": 4.480133930827861, 
+      "lat": 51.028708355333265, 
+      "lon": 4.480238863635531, 
       "municipality": "Mechelen", 
       "pcode": "2800", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Frederik de Merodestraat"
     }, 
     {
@@ -863,26 +777,14 @@
     }, 
     {
       "hnrlbls": [
-        "5-5A"
-      ], 
-      "housenumber": "5A", 
-      "lat": 51.02872861755405, 
-      "lon": 4.480133930827861, 
-      "municipality": "Mechelen", 
-      "pcode": "2800", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Frederik de Merodestraat"
-    }, 
-    {
-      "hnrlbls": [
-        "6-6A"
+        "6"
       ], 
       "housenumber": "6", 
-      "lat": 51.028754612758256, 
-      "lon": 4.480587430535654, 
+      "lat": 51.0288062889418, 
+      "lon": 4.480476579933059, 
       "municipality": "Mechelen", 
       "pcode": "2800", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Frederik de Merodestraat"
     }, 
     {
@@ -1003,14 +905,14 @@
     }, 
     {
       "hnrlbls": [
-        "6-6A"
+        "6A"
       ], 
       "housenumber": "6A", 
-      "lat": 51.028754612758256, 
-      "lon": 4.480587430535654, 
+      "lat": 51.02878742724134, 
+      "lon": 4.480460569501193, 
       "municipality": "Mechelen", 
       "pcode": "2800", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Frederik de Merodestraat"
     }, 
     {
@@ -1098,18 +1000,6 @@
     }, 
     {
       "hnrlbls": [
-        "98-7678"
-      ], 
-      "housenumber": "7678", 
-      "lat": 51.03049321129125, 
-      "lon": 4.481956390970769, 
-      "municipality": "Mechelen", 
-      "pcode": "2800", 
-      "source": "afgeleidVanStraat", 
-      "street": "Frederik de Merodestraat"
-    }, 
-    {
-      "hnrlbls": [
         "77-81"
       ], 
       "housenumber": "77", 
@@ -1118,18 +1008,6 @@
       "municipality": "Mechelen", 
       "pcode": "2800", 
       "source": "afgeleidVanGebouw", 
-      "street": "Frederik de Merodestraat"
-    }, 
-    {
-      "hnrlbls": [
-        "77A"
-      ], 
-      "housenumber": "77A", 
-      "lat": 51.03217099655867, 
-      "lon": 4.482342379866528, 
-      "municipality": "Mechelen", 
-      "pcode": "2800", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Frederik de Merodestraat"
     }, 
     {
@@ -1293,14 +1171,14 @@
     }, 
     {
       "hnrlbls": [
-        "89-91"
+        "89"
       ], 
       "housenumber": "89", 
-      "lat": 51.03222440422307, 
-      "lon": 4.4828835108160465, 
+      "lat": 51.032220518993924, 
+      "lon": 4.483171202877433, 
       "municipality": "Mechelen", 
       "pcode": "2800", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Frederik de Merodestraat"
     }, 
     {
@@ -1313,18 +1191,6 @@
       "municipality": "Mechelen", 
       "pcode": "2800", 
       "source": "afgeleidVanGebouw", 
-      "street": "Frederik de Merodestraat"
-    }, 
-    {
-      "hnrlbls": [
-        "89-91"
-      ], 
-      "housenumber": "91", 
-      "lat": 51.03222440422307, 
-      "lon": 4.4828835108160465, 
-      "municipality": "Mechelen", 
-      "pcode": "2800", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Frederik de Merodestraat"
     }, 
     {
@@ -1410,18 +1276,6 @@
       "street": "Frederik de Merodestraat"
     }, 
     {
-      "hnrlbls": [
-        "98-7678"
-      ], 
-      "housenumber": "98", 
-      "lat": 51.03049321129125, 
-      "lon": 4.481956390970769, 
-      "municipality": "Mechelen", 
-      "pcode": "2800", 
-      "source": "afgeleidVanStraat", 
-      "street": "Frederik de Merodestraat"
-    }, 
-    {
       "busnrs": [
         "1", 
         "2"
@@ -1430,11 +1284,11 @@
         "99"
       ], 
       "housenumber": "99", 
-      "lat": 51.03258597612703, 
-      "lon": 4.483033084763791, 
+      "lat": 51.03251545587008, 
+      "lon": 4.483264665980315, 
       "municipality": "Mechelen", 
       "pcode": "2800", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Frederik de Merodestraat"
     }, 
     {
@@ -1443,26 +1297,26 @@
         "2"
       ], 
       "hnrlbls": [
-        "99A-99B"
+        "99A"
       ], 
       "housenumber": "99A", 
-      "lat": 51.03257028994267, 
-      "lon": 4.483171469289725, 
+      "lat": 51.03263254546071, 
+      "lon": 4.483211067286436, 
       "municipality": "Mechelen", 
       "pcode": "2800", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Frederik de Merodestraat"
     }, 
     {
       "hnrlbls": [
-        "99A-99B"
+        "99B"
       ], 
       "housenumber": "99B", 
-      "lat": 51.03257028994267, 
-      "lon": 4.483171469289725, 
+      "lat": 51.03268195284057, 
+      "lon": 4.482875892786441, 
       "municipality": "Mechelen", 
       "pcode": "2800", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Frederik de Merodestraat"
     }
   ]

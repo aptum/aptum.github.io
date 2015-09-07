@@ -2,19 +2,19 @@
   "addresses": [
     {
       "hnrlbls": [
-        "1-1A"
+        "1"
       ], 
       "housenumber": "1", 
-      "lat": 50.9837991611499, 
-      "lon": 5.051928897678996, 
+      "lat": 50.983763992260705, 
+      "lon": 5.051916848932821, 
       "municipality": "Diest", 
       "pcode": "3290", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Ketelstraat"
     }, 
     {
       "busnrs": [
-        "2"
+        "0002"
       ], 
       "hnrlbls": [
         "10"
@@ -29,8 +29,8 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "2"
+        "0001", 
+        "0002"
       ], 
       "hnrlbls": [
         "11"
@@ -69,17 +69,17 @@
     }, 
     {
       "busnrs": [
-        "1"
+        "0001"
       ], 
       "hnrlbls": [
         "14"
       ], 
       "housenumber": "14", 
-      "lat": 50.98409174329886, 
-      "lon": 5.0518407391532145, 
+      "lat": 50.98409179793289, 
+      "lon": 5.051831340520078, 
       "municipality": "Diest", 
       "pcode": "3290", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Ketelstraat"
     }, 
     {
@@ -108,19 +108,19 @@
     }, 
     {
       "hnrlbls": [
-        "18-20"
+        "18"
       ], 
       "housenumber": "18", 
-      "lat": 50.98414898128412, 
-      "lon": 5.051906943078076, 
+      "lat": 50.98412578365675, 
+      "lon": 5.051907743926777, 
       "municipality": "Diest", 
       "pcode": "3290", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Ketelstraat"
     }, 
     {
-      "busnrs": [
-        "1"
+      "apptnrs": [
+        "0001"
       ], 
       "hnrlbls": [
         "19"
@@ -135,7 +135,7 @@
     }, 
     {
       "hnrlbls": [
-        "1-1A"
+        "1A"
       ], 
       "housenumber": "1A", 
       "lat": 50.9837991611499, 
@@ -150,20 +150,20 @@
         "2"
       ], 
       "housenumber": "2", 
-      "lat": 50.98374927196892, 
-      "lon": 5.051696461225043, 
+      "lat": 50.983726901857814, 
+      "lon": 5.0516786179423665, 
       "municipality": "Diest", 
       "pcode": "3290", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Ketelstraat"
     }, 
     {
       "hnrlbls": [
-        "18-20"
+        "20"
       ], 
       "housenumber": "20", 
-      "lat": 50.98414898128412, 
-      "lon": 5.051906943078076, 
+      "lat": 50.98417686217377, 
+      "lon": 5.051904643987586, 
       "municipality": "Diest", 
       "pcode": "3290", 
       "source": "afgeleidVanGebouw", 
@@ -207,38 +207,38 @@
     }, 
     {
       "hnrlbls": [
-        "24-28"
+        "24"
       ], 
       "housenumber": "24", 
-      "lat": 50.984278066129995, 
-      "lon": 5.05203144689273, 
+      "lat": 50.98421912929975, 
+      "lon": 5.052040983154024, 
       "municipality": "Diest", 
       "pcode": "3290", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Ketelstraat"
     }, 
     {
       "hnrlbls": [
-        "24-28"
+        "26"
       ], 
       "housenumber": "26", 
-      "lat": 50.984278066129995, 
-      "lon": 5.05203144689273, 
+      "lat": 50.984259378051014, 
+      "lon": 5.051983322347298, 
       "municipality": "Diest", 
       "pcode": "3290", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Ketelstraat"
     }, 
     {
       "hnrlbls": [
-        "24-28"
+        "28"
       ], 
       "housenumber": "28", 
-      "lat": 50.984278066129995, 
-      "lon": 5.05203144689273, 
+      "lat": 50.9842978154507, 
+      "lon": 5.052082577706432, 
       "municipality": "Diest", 
       "pcode": "3290", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Ketelstraat"
     }, 
     {
@@ -266,9 +266,11 @@
       "street": "Ketelstraat"
     }, 
     {
+      "apptnrs": [
+        "0001"
+      ], 
       "busnrs": [
-        "1", 
-        "2"
+        "0002"
       ], 
       "hnrlbls": [
         "4"
@@ -286,28 +288,40 @@
         "5"
       ], 
       "housenumber": "5", 
-      "lat": 50.98387384915611, 
-      "lon": 5.052086074267568, 
+      "lat": 50.98392124863582, 
+      "lon": 5.0519890692973215, 
       "municipality": "Diest", 
       "pcode": "3290", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Ketelstraat"
     }, 
     {
       "hnrlbls": [
-        "7-9"
+        "5A"
       ], 
-      "housenumber": "7", 
-      "lat": 50.983916033093024, 
-      "lon": 5.052143940794894, 
+      "housenumber": "5A", 
+      "lat": 50.98389766071309, 
+      "lon": 5.051964229702075, 
       "municipality": "Diest", 
       "pcode": "3290", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Ketelstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "7"
+      ], 
+      "housenumber": "7", 
+      "lat": 50.98395081513912, 
+      "lon": 5.052021544169303, 
+      "municipality": "Diest", 
+      "pcode": "3290", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Ketelstraat"
     }, 
     {
       "busnrs": [
-        "1"
+        "0001"
       ], 
       "hnrlbls": [
         "8"
@@ -322,7 +336,7 @@
     }, 
     {
       "hnrlbls": [
-        "7-9"
+        "9"
       ], 
       "housenumber": "9", 
       "lat": 50.983916033093024, 

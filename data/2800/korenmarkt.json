@@ -56,6 +56,10 @@
       "street": "Korenmarkt"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "13"
       ], 
@@ -77,7 +81,7 @@
         "4"
       ], 
       "hnrlbls": [
-        "14"
+        "14-14B"
       ], 
       "housenumber": "14", 
       "lat": 51.02486913305249, 
@@ -85,6 +89,36 @@
       "municipality": "Mechelen", 
       "pcode": "2800", 
       "source": "afgeleidVanGebouw", 
+      "street": "Korenmarkt"
+    }, 
+    {
+      "busnrs": [
+        "1"
+      ], 
+      "hnrlbls": [
+        "14A"
+      ], 
+      "housenumber": "14A", 
+      "lat": 51.02486915533713, 
+      "lon": 4.475555079844379, 
+      "municipality": "Mechelen", 
+      "pcode": "2800", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Korenmarkt"
+    }, 
+    {
+      "busnrs": [
+        "1"
+      ], 
+      "hnrlbls": [
+        "14-14B"
+      ], 
+      "housenumber": "14B", 
+      "lat": 51.02486913305249, 
+      "lon": 4.475555062017793, 
+      "municipality": "Mechelen", 
+      "pcode": "2800", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Korenmarkt"
     }, 
     {
@@ -110,7 +144,7 @@
         "2"
       ], 
       "hnrlbls": [
-        "16"
+        "16-16_2"
       ], 
       "housenumber": "16", 
       "lat": 51.02469554883833, 
@@ -118,6 +152,21 @@
       "municipality": "Mechelen", 
       "pcode": "2800", 
       "source": "afgeleidVanPerceelGrb", 
+      "street": "Korenmarkt"
+    }, 
+    {
+      "busnrs": [
+        "B"
+      ], 
+      "hnrlbls": [
+        "16-16_2"
+      ], 
+      "housenumber": "16_2", 
+      "lat": 51.02469554883833, 
+      "lon": 4.475856548890585, 
+      "municipality": "Mechelen", 
+      "pcode": "2800", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
       "street": "Korenmarkt"
     }, 
     {
@@ -147,18 +196,6 @@
       "municipality": "Mechelen", 
       "pcode": "2800", 
       "source": "afgeleidVanGebouw", 
-      "street": "Korenmarkt"
-    }, 
-    {
-      "hnrlbls": [
-        "1892"
-      ], 
-      "housenumber": "1892", 
-      "lat": 51.02465101992124, 
-      "lon": 4.476088917832859, 
-      "municipality": "Mechelen", 
-      "pcode": "2800", 
-      "source": "afgeleidVanStraat", 
       "street": "Korenmarkt"
     }, 
     {
@@ -218,34 +255,15 @@
       "street": "Korenmarkt"
     }, 
     {
-      "busnrs": [
-        "2", 
-        "26"
-      ], 
       "hnrlbls": [
-        "4-22"
+        "22"
       ], 
       "housenumber": "22", 
-      "lat": 51.02459268572458, 
-      "lon": 4.475494421078791, 
+      "lat": 51.02459259583442, 
+      "lon": 4.475494420872564, 
       "municipality": "Mechelen", 
       "pcode": "2800", 
       "source": "afgeleidVanGebouw", 
-      "street": "Korenmarkt"
-    }, 
-    {
-      "busnrs": [
-        "26"
-      ], 
-      "hnrlbls": [
-        "22_2"
-      ], 
-      "housenumber": "22_2", 
-      "lat": 51.02466564607375, 
-      "lon": 4.475330817913281, 
-      "municipality": "Mechelen", 
-      "pcode": "2800", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Korenmarkt"
     }, 
     {
@@ -262,14 +280,14 @@
     }, 
     {
       "hnrlbls": [
-        "24-26"
+        "24"
       ], 
       "housenumber": "24", 
-      "lat": 51.02456335965017, 
-      "lon": 4.475321176437792, 
+      "lat": 51.024519860215314, 
+      "lon": 4.475657275735868, 
       "municipality": "Mechelen", 
       "pcode": "2800", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Korenmarkt"
     }, 
     {
@@ -282,18 +300,6 @@
       "municipality": "Mechelen", 
       "pcode": "2800", 
       "source": "afgeleidVanGebouw", 
-      "street": "Korenmarkt"
-    }, 
-    {
-      "hnrlbls": [
-        "24-26"
-      ], 
-      "housenumber": "26", 
-      "lat": 51.02456335965017, 
-      "lon": 4.475321176437792, 
-      "municipality": "Mechelen", 
-      "pcode": "2800", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Korenmarkt"
     }, 
     {
@@ -377,18 +383,6 @@
     }, 
     {
       "hnrlbls": [
-        "32-34"
-      ], 
-      "housenumber": "32", 
-      "lat": 51.02431162275378, 
-      "lon": 4.475270713618169, 
-      "municipality": "Mechelen", 
-      "pcode": "2800", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Korenmarkt"
-    }, 
-    {
-      "hnrlbls": [
         "33"
       ], 
       "housenumber": "33", 
@@ -406,7 +400,7 @@
         "3"
       ], 
       "hnrlbls": [
-        "32-34"
+        "34"
       ], 
       "housenumber": "34", 
       "lat": 51.02431162275378, 
@@ -627,29 +621,14 @@
         "204"
       ], 
       "hnrlbls": [
-        "51-51S"
+        "51K"
       ], 
       "housenumber": "51K", 
-      "lat": 51.02405471418221, 
-      "lon": 4.47576527904134, 
+      "lat": 51.02412043093559, 
+      "lon": 4.47565000219683, 
       "municipality": "Mechelen", 
       "pcode": "2800", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Korenmarkt"
-    }, 
-    {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "51-51S"
-      ], 
-      "housenumber": "51S", 
-      "lat": 51.02405471418221, 
-      "lon": 4.47576527904134, 
-      "municipality": "Mechelen", 
-      "pcode": "2800", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Korenmarkt"
     }, 
     {

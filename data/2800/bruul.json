@@ -25,15 +25,18 @@
       "street": "Bruul"
     }, 
     {
+      "busnrs": [
+        "A1"
+      ], 
       "hnrlbls": [
         "100"
       ], 
       "housenumber": "100", 
-      "lat": 51.02437930069718, 
-      "lon": 4.481608992891757, 
+      "lat": 51.024432619593135, 
+      "lon": 4.4817719172796995, 
       "municipality": "Mechelen", 
       "pcode": "2800", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Bruul"
     }, 
     {
@@ -41,11 +44,11 @@
         "101"
       ], 
       "housenumber": "101", 
-      "lat": 51.024139910732224, 
-      "lon": 4.48190060207437, 
+      "lat": 51.02413674028422, 
+      "lon": 4.482102442142618, 
       "municipality": "Mechelen", 
       "pcode": "2800", 
-      "source": "geinterpoleerdObvWegverbinding", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Bruul"
     }, 
     {
@@ -68,11 +71,11 @@
         "103"
       ], 
       "housenumber": "103", 
-      "lat": 51.02408174339414, 
-      "lon": 4.481909155082616, 
+      "lat": 51.02407004358793, 
+      "lon": 4.482100284273106, 
       "municipality": "Mechelen", 
       "pcode": "2800", 
-      "source": "geinterpoleerdObvWegverbinding", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Bruul"
     }, 
     {
@@ -95,11 +98,11 @@
         "105"
       ], 
       "housenumber": "105", 
-      "lat": 51.02402366594449, 
-      "lon": 4.481917708288174, 
+      "lat": 51.02400586768511, 
+      "lon": 4.482094141668814, 
       "municipality": "Mechelen", 
       "pcode": "2800", 
-      "source": "geinterpoleerdObvWegverbinding", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Bruul"
     }, 
     {
@@ -116,18 +119,6 @@
       "municipality": "Mechelen", 
       "pcode": "2800", 
       "source": "afgeleidVanGebouw", 
-      "street": "Bruul"
-    }, 
-    {
-      "hnrlbls": [
-        "107"
-      ], 
-      "housenumber": "107", 
-      "lat": 51.02396558849307, 
-      "lon": 4.4819262614725135, 
-      "municipality": "Mechelen", 
-      "pcode": "2800", 
-      "source": "geinterpoleerdObvWegverbinding", 
       "street": "Bruul"
     }, 
     {
@@ -247,7 +238,8 @@
       "busnrs": [
         "0101", 
         "0201", 
-        "0301"
+        "0301", 
+        "0401"
       ], 
       "hnrlbls": [
         "114A"
@@ -386,15 +378,19 @@
       "street": "Bruul"
     }, 
     {
+      "busnrs": [
+        "123/001", 
+        "123/002"
+      ], 
       "hnrlbls": [
         "123"
       ], 
       "housenumber": "123", 
-      "lat": 51.02353799758931, 
-      "lon": 4.482279265565457, 
+      "lat": 51.02353434798467, 
+      "lon": 4.4821397925937845, 
       "municipality": "Mechelen", 
       "pcode": "2800", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Bruul"
     }, 
     {
@@ -573,14 +569,14 @@
     }, 
     {
       "hnrlbls": [
-        "15-21"
+        "15"
       ], 
       "housenumber": "15", 
-      "lat": 51.02705386102743, 
-      "lon": 4.4810860834406006, 
+      "lat": 51.02724889638084, 
+      "lon": 4.480939188337385, 
       "municipality": "Mechelen", 
       "pcode": "2800", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Bruul"
     }, 
     {
@@ -600,14 +596,14 @@
     }, 
     {
       "hnrlbls": [
-        "15-21"
+        "17"
       ], 
       "housenumber": "17", 
-      "lat": 51.02705386102743, 
-      "lon": 4.4810860834406006, 
+      "lat": 51.02719981056768, 
+      "lon": 4.480945056737173, 
       "municipality": "Mechelen", 
       "pcode": "2800", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Bruul"
     }, 
     {
@@ -620,18 +616,6 @@
       "municipality": "Mechelen", 
       "pcode": "2800", 
       "source": "afgeleidVanGebouw", 
-      "street": "Bruul"
-    }, 
-    {
-      "hnrlbls": [
-        "15-21"
-      ], 
-      "housenumber": "19", 
-      "lat": 51.02705386102743, 
-      "lon": 4.4810860834406006, 
-      "municipality": "Mechelen", 
-      "pcode": "2800", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Bruul"
     }, 
     {
@@ -656,18 +640,6 @@
       "municipality": "Mechelen", 
       "pcode": "2800", 
       "source": "afgeleidVanGebouw", 
-      "street": "Bruul"
-    }, 
-    {
-      "hnrlbls": [
-        "15-21"
-      ], 
-      "housenumber": "21", 
-      "lat": 51.02705386102743, 
-      "lon": 4.4810860834406006, 
-      "municipality": "Mechelen", 
-      "pcode": "2800", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Bruul"
     }, 
     {
@@ -809,12 +781,8 @@
       "street": "Bruul"
     }, 
     {
-      "busnrs": [
-        "3", 
-        "36"
-      ], 
       "hnrlbls": [
-        "32-32_3"
+        "32"
       ], 
       "housenumber": "32", 
       "lat": 51.026837796228314, 
@@ -822,21 +790,6 @@
       "municipality": "Mechelen", 
       "pcode": "2800", 
       "source": "afgeleidVanGebouw", 
-      "street": "Bruul"
-    }, 
-    {
-      "busnrs": [
-        "36"
-      ], 
-      "hnrlbls": [
-        "32-32_3"
-      ], 
-      "housenumber": "32_3", 
-      "lat": 51.026837796228314, 
-      "lon": 4.480771974473485, 
-      "municipality": "Mechelen", 
-      "pcode": "2800", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Bruul"
     }, 
     {
@@ -871,11 +824,11 @@
         "35"
       ], 
       "housenumber": "35", 
-      "lat": 51.02650828225897, 
-      "lon": 4.481402627957982, 
+      "lat": 51.02647795536909, 
+      "lon": 4.481241793380764, 
       "municipality": "Mechelen", 
       "pcode": "2800", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Bruul"
     }, 
     {
@@ -1018,8 +971,8 @@
         "47"
       ], 
       "housenumber": "47", 
-      "lat": 51.02596825379341, 
-      "lon": 4.48155554598142, 
+      "lat": 51.025967892309424, 
+      "lon": 4.481557540624676, 
       "municipality": "Mechelen", 
       "pcode": "2800", 
       "source": "afgeleidVanPerceelGrb", 
@@ -1038,18 +991,15 @@
       "street": "Bruul"
     }, 
     {
-      "busnrs": [
-        "5"
-      ], 
       "hnrlbls": [
         "49"
       ], 
       "housenumber": "49", 
-      "lat": 51.026133299223936, 
-      "lon": 4.481734830700558, 
+      "lat": 51.02605193162765, 
+      "lon": 4.481453595085883, 
       "municipality": "Mechelen", 
       "pcode": "2800", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Bruul"
     }, 
     {
@@ -1092,19 +1042,15 @@
       "street": "Bruul"
     }, 
     {
-      "busnrs": [
-        "2", 
-        "5"
-      ], 
       "hnrlbls": [
         "52"
       ], 
       "housenumber": "52", 
-      "lat": 51.0261568919989, 
-      "lon": 4.480850441705154, 
+      "lat": 51.0261145055932, 
+      "lon": 4.481069750781277, 
       "municipality": "Mechelen", 
       "pcode": "2800", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Bruul"
     }, 
     {
@@ -1233,21 +1179,6 @@
       "municipality": "Mechelen", 
       "pcode": "2800", 
       "source": "afgeleidVanGebouw", 
-      "street": "Bruul"
-    }, 
-    {
-      "busnrs": [
-        "100"
-      ], 
-      "hnrlbls": [
-        "62O"
-      ], 
-      "housenumber": "62O", 
-      "lat": 51.025566164359795, 
-      "lon": 4.481285891306894, 
-      "municipality": "Mechelen", 
-      "pcode": "2800", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Bruul"
     }, 
     {
@@ -1488,14 +1419,14 @@
     }, 
     {
       "hnrlbls": [
-        "79Bis"
+        "79BIS"
       ], 
-      "housenumber": "79Bis", 
-      "lat": 51.025352929975774, 
-      "lon": 4.482694336458499, 
+      "housenumber": "79BIS", 
+      "lat": 51.025057155014885, 
+      "lon": 4.481980677001387, 
       "municipality": "Mechelen", 
       "pcode": "2800", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Bruul"
     }, 
     {
@@ -1512,14 +1443,14 @@
     }, 
     {
       "hnrlbls": [
-        "7-80"
+        "80"
       ], 
       "housenumber": "80", 
-      "lat": 51.02495935447198, 
-      "lon": 4.481151012239564, 
+      "lat": 51.02502946939216, 
+      "lon": 4.481608597607053, 
       "municipality": "Mechelen", 
       "pcode": "2800", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Bruul"
     }, 
     {
@@ -1689,11 +1620,11 @@
         "92"
       ], 
       "housenumber": "92", 
-      "lat": 51.02466174402063, 
-      "lon": 4.481507624043964, 
+      "lat": 51.0246969670299, 
+      "lon": 4.4816995822112435, 
       "municipality": "Mechelen", 
       "pcode": "2800", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Bruul"
     }, 
     {
@@ -1712,6 +1643,7 @@
       "busnrs": [
         "1", 
         "2", 
+        "3", 
         "4"
       ], 
       "hnrlbls": [
@@ -1727,7 +1659,7 @@
     }, 
     {
       "hnrlbls": [
-        "95-99"
+        "95"
       ], 
       "housenumber": "95", 
       "lat": 51.024361113863876, 
@@ -1751,14 +1683,14 @@
     }, 
     {
       "hnrlbls": [
-        "95-99"
+        "97"
       ], 
       "housenumber": "97", 
-      "lat": 51.024361113863876, 
-      "lon": 4.482196751626224, 
+      "lat": 51.0241807981444, 
+      "lon": 4.482090576753796, 
       "municipality": "Mechelen", 
       "pcode": "2800", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Bruul"
     }, 
     {
@@ -1775,14 +1707,14 @@
     }, 
     {
       "hnrlbls": [
-        "95-99"
+        "99"
       ], 
       "housenumber": "99", 
-      "lat": 51.024361113863876, 
-      "lon": 4.482196751626224, 
+      "lat": 51.02423615899278, 
+      "lon": 4.4821026842586305, 
       "municipality": "Mechelen", 
       "pcode": "2800", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Bruul"
     }
   ]

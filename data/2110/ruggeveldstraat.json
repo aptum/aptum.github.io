@@ -206,7 +206,8 @@
     }, 
     {
       "busnrs": [
-        "22"
+        "22", 
+        "glvl"
       ], 
       "hnrlbls": [
         "20-22"
@@ -281,7 +282,8 @@
     }, 
     {
       "busnrs": [
-        "1"
+        "1", 
+        "glvl"
       ], 
       "hnrlbls": [
         "26"
@@ -308,10 +310,17 @@
     }, 
     {
       "apptnrs": [
-        "0.0"
+        "0.0", 
+        "02eL", 
+        "02eR", 
+        "L001", 
+        "R001"
+      ], 
+      "busnrs": [
+        "glvR"
       ], 
       "hnrlbls": [
-        "28-28_2"
+        "28"
       ], 
       "housenumber": "28", 
       "lat": 51.22672167954696, 
@@ -319,52 +328,6 @@
       "municipality": "Wijnegem", 
       "pcode": "2110", 
       "source": "afgeleidVanGebouw", 
-      "street": "Ruggeveldstraat"
-    }, 
-    {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "28-28_2"
-      ], 
-      "housenumber": "28L", 
-      "lat": 51.22672167954696, 
-      "lon": 4.505945707935568, 
-      "municipality": "Wijnegem", 
-      "pcode": "2110", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Ruggeveldstraat"
-    }, 
-    {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "28-28_2"
-      ], 
-      "housenumber": "28R", 
-      "lat": 51.22672167954696, 
-      "lon": 4.505945707935568, 
-      "municipality": "Wijnegem", 
-      "pcode": "2110", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Ruggeveldstraat"
-    }, 
-    {
-      "busnrs": [
-        "eL", 
-        "eR"
-      ], 
-      "hnrlbls": [
-        "28-28_2"
-      ], 
-      "housenumber": "28_2", 
-      "lat": 51.22672167954696, 
-      "lon": 4.505945707935568, 
-      "municipality": "Wijnegem", 
-      "pcode": "2110", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Ruggeveldstraat"
     }, 
     {
@@ -572,6 +535,9 @@
       "street": "Ruggeveldstraat"
     }, 
     {
+      "busnrs": [
+        "glvl"
+      ], 
       "hnrlbls": [
         "65"
       ], 

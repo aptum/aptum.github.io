@@ -80,8 +80,8 @@
         "13"
       ], 
       "housenumber": "13", 
-      "lat": 51.231139809353785, 
-      "lon": 2.918905187389666, 
+      "lat": 51.231143049400245, 
+      "lon": 2.9189128190002913, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanPerceelGrb", 
@@ -182,6 +182,9 @@
       "street": "Kerkstraat"
     }, 
     {
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "20"
       ], 
@@ -216,6 +219,7 @@
       "busnrs": [
         "1", 
         "3", 
+        "3B", 
         "B"
       ], 
       "hnrlbls": [
@@ -227,21 +231,6 @@
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
-      "street": "Kerkstraat"
-    }, 
-    {
-      "busnrs": [
-        "B"
-      ], 
-      "hnrlbls": [
-        "22_3"
-      ], 
-      "housenumber": "22_3", 
-      "lat": 51.23133812901254, 
-      "lon": 2.9194700718460282, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -313,7 +302,7 @@
     }, 
     {
       "hnrlbls": [
-        "28-28B"
+        "28"
       ], 
       "housenumber": "28", 
       "lat": 51.231041729831446, 
@@ -325,11 +314,11 @@
     }, 
     {
       "hnrlbls": [
-        "28-28B"
+        "28B"
       ], 
       "housenumber": "28B", 
-      "lat": 51.231041729831446, 
-      "lon": 2.9195437192767946, 
+      "lat": 51.23107847365696, 
+      "lon": 2.9196443864476693, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
@@ -345,18 +334,6 @@
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Kerkstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "3"
-      ], 
-      "housenumber": "3", 
-      "lat": 51.231985331550185, 
-      "lon": 2.9184289837902546, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "geinterpoleerdObvWegverbinding", 
       "street": "Kerkstraat"
     }, 
     {
@@ -392,6 +369,7 @@
     {
       "busnrs": [
         "1", 
+        "2", 
         "201", 
         "301", 
         "4"
@@ -409,13 +387,21 @@
     }, 
     {
       "busnrs": [
+        "1N", 
+        "1R", 
         "2", 
+        "2R", 
+        "3L", 
+        "3R", 
         "402", 
+        "4R", 
         "5", 
+        "5L", 
+        "5R", 
         "L"
       ], 
       "hnrlbls": [
-        "32-32_5"
+        "32"
       ], 
       "housenumber": "32", 
       "lat": 51.23075161109499, 
@@ -423,84 +409,6 @@
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
-      "street": "Kerkstraat"
-    }, 
-    {
-      "busnrs": [
-        "N", 
-        "R"
-      ], 
-      "hnrlbls": [
-        "32-32_5"
-      ], 
-      "housenumber": "32_1", 
-      "lat": 51.23075161109499, 
-      "lon": 2.9200274108255106, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Kerkstraat"
-    }, 
-    {
-      "busnrs": [
-        "R"
-      ], 
-      "hnrlbls": [
-        "32-32_5"
-      ], 
-      "housenumber": "32_2", 
-      "lat": 51.23075161109499, 
-      "lon": 2.9200274108255106, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Kerkstraat"
-    }, 
-    {
-      "busnrs": [
-        "L", 
-        "R"
-      ], 
-      "hnrlbls": [
-        "32-32_5"
-      ], 
-      "housenumber": "32_3", 
-      "lat": 51.23075161109499, 
-      "lon": 2.9200274108255106, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Kerkstraat"
-    }, 
-    {
-      "busnrs": [
-        "R"
-      ], 
-      "hnrlbls": [
-        "32-32_5"
-      ], 
-      "housenumber": "32_4", 
-      "lat": 51.23075161109499, 
-      "lon": 2.9200274108255106, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Kerkstraat"
-    }, 
-    {
-      "busnrs": [
-        "L", 
-        "R"
-      ], 
-      "hnrlbls": [
-        "32-32_5"
-      ], 
-      "housenumber": "32_5", 
-      "lat": 51.23075161109499, 
-      "lon": 2.9200274108255106, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -745,18 +653,6 @@
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
-      "street": "Kerkstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "5"
-      ], 
-      "housenumber": "5", 
-      "lat": 51.231700301943306, 
-      "lon": 2.918704044611722, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "geinterpoleerdObvWegverbinding", 
       "street": "Kerkstraat"
     }, 
     {

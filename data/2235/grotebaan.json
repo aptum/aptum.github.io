@@ -326,9 +326,6 @@
       "street": "Grote Baan"
     }, 
     {
-      "busnrs": [
-        "2"
-      ], 
       "hnrlbls": [
         "121"
       ], 
@@ -368,11 +365,14 @@
       "apptnrs": [
         "0/1", 
         "0/2", 
+        "0/3", 
+        "0/4", 
         "1/1", 
         "1/2", 
         "1/3", 
         "1/4", 
-        "2/1"
+        "2/1", 
+        "2/2"
       ], 
       "hnrlbls": [
         "124"
@@ -1008,14 +1008,14 @@
     }, 
     {
       "hnrlbls": [
-        "174-176"
+        "174"
       ], 
       "housenumber": "174", 
-      "lat": 51.074252701441964, 
-      "lon": 4.795585510990202, 
+      "lat": 51.07433916484962, 
+      "lon": 4.795563756742673, 
       "municipality": "Hulshout", 
       "pcode": "2235", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Grote Baan"
     }, 
     {
@@ -1032,14 +1032,14 @@
     }, 
     {
       "hnrlbls": [
-        "174-176"
+        "176"
       ], 
       "housenumber": "176", 
-      "lat": 51.074252701441964, 
-      "lon": 4.795585510990202, 
+      "lat": 51.07432463399922, 
+      "lon": 4.795654229959936, 
       "municipality": "Hulshout", 
       "pcode": "2235", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Grote Baan"
     }, 
     {
@@ -1707,11 +1707,11 @@
         "225"
       ], 
       "housenumber": "225", 
-      "lat": 51.07314991936682, 
-      "lon": 4.803226385424738, 
+      "lat": 51.07304372309452, 
+      "lon": 4.803163045111693, 
       "municipality": "Hulshout", 
       "pcode": "2235", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Grote Baan"
     }, 
     {
@@ -1890,31 +1890,31 @@
       "street": "Grote Baan"
     }, 
     {
-      "busnrs": [
+      "hnrlbls": [
+        "241"
+      ], 
+      "housenumber": "241", 
+      "lat": 51.07268726104629, 
+      "lon": 4.804634202638325, 
+      "municipality": "Hulshout", 
+      "pcode": "2235", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Grote Baan"
+    }, 
+    {
+      "apptnrs": [
         "1", 
         "2"
       ], 
       "hnrlbls": [
-        "241-241A"
-      ], 
-      "housenumber": "241", 
-      "lat": 51.07286435859524, 
-      "lon": 4.804824624131471, 
-      "municipality": "Hulshout", 
-      "pcode": "2235", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Grote Baan"
-    }, 
-    {
-      "hnrlbls": [
-        "241-241A"
+        "241A"
       ], 
       "housenumber": "241A", 
-      "lat": 51.07286435859524, 
-      "lon": 4.804824624131471, 
+      "lat": 51.072649729061816, 
+      "lon": 4.804816912898149, 
       "municipality": "Hulshout", 
       "pcode": "2235", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Grote Baan"
     }, 
     {
@@ -2073,11 +2073,11 @@
         "255"
       ], 
       "housenumber": "255", 
-      "lat": 51.07240553649727, 
-      "lon": 4.8062109082391, 
+      "lat": 51.072382359384854, 
+      "lon": 4.806206981450078, 
       "municipality": "Hulshout", 
       "pcode": "2235", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Grote Baan"
     }, 
     {
@@ -2145,11 +2145,11 @@
         "261"
       ], 
       "housenumber": "261", 
-      "lat": 51.07232669920889, 
-      "lon": 4.806888331042678, 
+      "lat": 51.07224070825287, 
+      "lon": 4.806830880246285, 
       "municipality": "Hulshout", 
       "pcode": "2235", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Grote Baan"
     }, 
     {
@@ -2293,7 +2293,7 @@
     }, 
     {
       "hnrlbls": [
-        "274-274A"
+        "274"
       ], 
       "housenumber": "274", 
       "lat": 51.07230472541042, 
@@ -2305,14 +2305,14 @@
     }, 
     {
       "hnrlbls": [
-        "274-274A"
+        "274A"
       ], 
       "housenumber": "274A", 
-      "lat": 51.07230472541042, 
-      "lon": 4.80469683632732, 
+      "lat": 51.07227006864495, 
+      "lon": 4.80490411293488, 
       "municipality": "Hulshout", 
       "pcode": "2235", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Grote Baan"
     }, 
     {
@@ -2328,23 +2328,15 @@
       "street": "Grote Baan"
     }, 
     {
-      "apptnrs": [
-        "0/1", 
-        "0/2", 
-        "1/1", 
-        "1/2", 
-        "2/1", 
-        "2/2"
-      ], 
       "hnrlbls": [
         "276"
       ], 
       "housenumber": "276", 
-      "lat": 51.07223171098965, 
-      "lon": 4.80501846974449, 
+      "lat": 51.072209205588976, 
+      "lon": 4.805148526633363, 
       "municipality": "Hulshout", 
       "pcode": "2235", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Grote Baan"
     }, 
     {
@@ -2492,11 +2484,11 @@
         "286"
       ], 
       "housenumber": "286", 
-      "lat": 51.071969751959706, 
-      "lon": 4.806306559546842, 
+      "lat": 51.07203254341732, 
+      "lon": 4.806269480344359, 
       "municipality": "Hulshout", 
       "pcode": "2235", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Grote Baan"
     }, 
     {
@@ -3715,11 +3707,11 @@
         "384"
       ], 
       "housenumber": "384", 
-      "lat": 51.07008103981059, 
-      "lon": 4.818754711825331, 
+      "lat": 51.07056498721896, 
+      "lon": 4.8186196950315425, 
       "municipality": "Hulshout", 
       "pcode": "2235", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Grote Baan"
     }, 
     {
@@ -4210,6 +4202,18 @@
       "municipality": "Hulshout", 
       "pcode": "2235", 
       "source": "afgeleidVanGebouw", 
+      "street": "Grote Baan"
+    }, 
+    {
+      "hnrlbls": [
+        "420A"
+      ], 
+      "housenumber": "420A", 
+      "lat": 51.07007129243633, 
+      "lon": 4.823790438067273, 
+      "municipality": "Hulshout", 
+      "pcode": "2235", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Grote Baan"
     }, 
     {
@@ -4831,6 +4835,24 @@
       "street": "Grote Baan"
     }, 
     {
+      "apptnrs": [
+        "0/1", 
+        "0/2", 
+        "1/1", 
+        "1/2"
+      ], 
+      "hnrlbls": [
+        "58"
+      ], 
+      "housenumber": "58", 
+      "lat": 51.07723599603606, 
+      "lon": 4.784812587463007, 
+      "municipality": "Hulshout", 
+      "pcode": "2235", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Grote Baan"
+    }, 
+    {
       "busnrs": [
         "1"
       ], 
@@ -5077,6 +5099,21 @@
       "street": "Grote Baan"
     }, 
     {
+      "busnrs": [
+        "2"
+      ], 
+      "hnrlbls": [
+        "781"
+      ], 
+      "housenumber": "781", 
+      "lat": 51.07658442051674, 
+      "lon": 4.7863752681877, 
+      "municipality": "Hulshout", 
+      "pcode": "2235", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Grote Baan"
+    }, 
+    {
       "hnrlbls": [
         "79"
       ], 
@@ -5137,30 +5174,27 @@
       "street": "Grote Baan"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
-        "83-83A"
+        "83"
       ], 
       "housenumber": "83", 
-      "lat": 51.076087441267575, 
-      "lon": 4.788616937323264, 
+      "lat": 51.07593972025182, 
+      "lon": 4.788525000062143, 
       "municipality": "Hulshout", 
       "pcode": "2235", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Grote Baan"
     }, 
     {
       "hnrlbls": [
-        "83-83A"
+        "83A"
       ], 
       "housenumber": "83A", 
-      "lat": 51.076087441267575, 
-      "lon": 4.788616937323264, 
+      "lat": 51.07612232875841, 
+      "lon": 4.78866448206739, 
       "municipality": "Hulshout", 
       "pcode": "2235", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Grote Baan"
     }, 
     {
@@ -5390,11 +5424,11 @@
         "99"
       ], 
       "housenumber": "99", 
-      "lat": 51.07594798184896, 
-      "lon": 4.789735098444207, 
+      "lat": 51.075710100583095, 
+      "lon": 4.789593259674666, 
       "municipality": "Hulshout", 
       "pcode": "2235", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Grote Baan"
     }
   ]

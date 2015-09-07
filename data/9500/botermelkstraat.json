@@ -14,7 +14,7 @@
     }, 
     {
       "hnrlbls": [
-        "10-10A"
+        "10"
       ], 
       "housenumber": "10", 
       "lat": 50.786334030789945, 
@@ -26,14 +26,14 @@
     }, 
     {
       "hnrlbls": [
-        "10-10A"
+        "10A"
       ], 
       "housenumber": "10A", 
-      "lat": 50.786334030789945, 
-      "lon": 3.9088640839016042, 
+      "lat": 50.78632224829855, 
+      "lon": 3.9089595491550537, 
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Botermelkstraat"
     }, 
     {
@@ -53,8 +53,8 @@
         "12"
       ], 
       "housenumber": "12", 
-      "lat": 50.78635415092428, 
-      "lon": 3.909089088276428, 
+      "lat": 50.786386025005974, 
+      "lon": 3.909218470445617, 
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
       "source": "afgeleidVanGebouw", 
@@ -85,12 +85,38 @@
       "street": "Botermelkstraat"
     }, 
     {
-      "hnrlbls": [
-        "15"
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4"
       ], 
-      "housenumber": "15", 
-      "lat": 50.78623338776055, 
-      "lon": 3.909655393260947, 
+      "hnrlbls": [
+        "15A"
+      ], 
+      "housenumber": "15A", 
+      "lat": 50.786233391380236, 
+      "lon": 3.9096554397906518, 
+      "municipality": "Geraardsbergen", 
+      "pcode": "9500", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Botermelkstraat"
+    }, 
+    {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6"
+      ], 
+      "hnrlbls": [
+        "15B"
+      ], 
+      "housenumber": "15B", 
+      "lat": 50.78624971019664, 
+      "lon": 3.9098937858188902, 
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
       "source": "afgeleidVanGebouw", 
@@ -181,6 +207,14 @@
       "street": "Botermelkstraat"
     }, 
     {
+      "busnrs": [
+        "AB01", 
+        "AB02", 
+        "AB03", 
+        "AB04", 
+        "AB05", 
+        "AB06"
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -401,8 +435,8 @@
         "35"
       ], 
       "housenumber": "35", 
-      "lat": 50.78594538854298, 
-      "lon": 3.912221180228935, 
+      "lat": 50.785932391401346, 
+      "lon": 3.9123206164798736, 
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
       "source": "afgeleidVanGebouw", 
@@ -785,8 +819,8 @@
         "7"
       ], 
       "housenumber": "7", 
-      "lat": 50.786116280775346, 
-      "lon": 3.9090892805760147, 
+      "lat": 50.78610388235526, 
+      "lon": 3.9090432254578156, 
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
       "source": "afgeleidVanGebouw", 
@@ -914,6 +948,18 @@
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
       "source": "afgeleidVanGebouw", 
+      "street": "Botermelkstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "ZN"
+      ], 
+      "housenumber": "ZN", 
+      "lat": 50.7860485614113, 
+      "lon": 3.9103001738417373, 
+      "municipality": "Geraardsbergen", 
+      "pcode": "9500", 
+      "source": "afgeleidVanStraat", 
       "street": "Botermelkstraat"
     }
   ]

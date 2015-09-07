@@ -49,6 +49,9 @@
       "street": "Vleugtstraat"
     }, 
     {
+      "busnrs": [
+        "OBIS"
+      ], 
       "hnrlbls": [
         "14-14B"
       ], 
@@ -69,7 +72,7 @@
       "lon": 5.110771405998164, 
       "municipality": "Diest", 
       "pcode": "3290", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Vleugtstraat"
     }, 
     {
@@ -146,30 +149,6 @@
     }, 
     {
       "hnrlbls": [
-        "21"
-      ], 
-      "housenumber": "21", 
-      "lat": 51.01778883857456, 
-      "lon": 5.112499100712553, 
-      "municipality": "Diest", 
-      "pcode": "3290", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Vleugtstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "22"
-      ], 
-      "housenumber": "22", 
-      "lat": 51.01812609387533, 
-      "lon": 5.1118782277832056, 
-      "municipality": "Diest", 
-      "pcode": "3290", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
-      "street": "Vleugtstraat"
-    }, 
-    {
-      "hnrlbls": [
         "24"
       ], 
       "housenumber": "24", 
@@ -214,18 +193,6 @@
       "municipality": "Diest", 
       "pcode": "3290", 
       "source": "afgeleidVanGebouw", 
-      "street": "Vleugtstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "28C"
-      ], 
-      "housenumber": "28C", 
-      "lat": 51.018608108465386, 
-      "lon": 5.112603765124618, 
-      "municipality": "Diest", 
-      "pcode": "3290", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Vleugtstraat"
     }, 
     {
@@ -314,18 +281,6 @@
     }, 
     {
       "hnrlbls": [
-        "4"
-      ], 
-      "housenumber": "4", 
-      "lat": 51.01736106216885, 
-      "lon": 5.109745269170609, 
-      "municipality": "Diest", 
-      "pcode": "3290", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
-      "street": "Vleugtstraat"
-    }, 
-    {
-      "hnrlbls": [
         "40"
       ], 
       "housenumber": "40", 
@@ -346,18 +301,6 @@
       "municipality": "Diest", 
       "pcode": "3290", 
       "source": "afgeleidVanGebouw", 
-      "street": "Vleugtstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "45"
-      ], 
-      "housenumber": "45", 
-      "lat": 51.019137713560156, 
-      "lon": 5.115010709937443, 
-      "municipality": "Diest", 
-      "pcode": "3290", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Vleugtstraat"
     }, 
     {
@@ -401,11 +344,11 @@
         "48B"
       ], 
       "housenumber": "48B", 
-      "lat": 51.01959158594738, 
-      "lon": 5.1153801044534895, 
+      "lat": 51.019736115566396, 
+      "lon": 5.115284353498423, 
       "municipality": "Diest", 
       "pcode": "3290", 
-      "source": "geinterpoleerdObvWegverbinding", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Vleugtstraat"
     }, 
     {
@@ -442,30 +385,6 @@
       "municipality": "Diest", 
       "pcode": "3290", 
       "source": "afgeleidVanGebouw", 
-      "street": "Vleugtstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "51"
-      ], 
-      "housenumber": "51", 
-      "lat": 51.019822766511915, 
-      "lon": 5.1161631227221225, 
-      "municipality": "Diest", 
-      "pcode": "3290", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Vleugtstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "52"
-      ], 
-      "housenumber": "52", 
-      "lat": 51.01997494638148, 
-      "lon": 5.115599013224263, 
-      "municipality": "Diest", 
-      "pcode": "3290", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Vleugtstraat"
     }, 
     {
@@ -593,11 +512,11 @@
         "63"
       ], 
       "housenumber": "63", 
-      "lat": 51.020515595436656, 
-      "lon": 5.117320824807712, 
+      "lat": 51.02059067470697, 
+      "lon": 5.117205153230088, 
       "municipality": "Diest", 
       "pcode": "3290", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Vleugtstraat"
     }, 
     {
@@ -605,11 +524,11 @@
         "64"
       ], 
       "housenumber": "64", 
-      "lat": 51.02078659259899, 
-      "lon": 5.116846122666934, 
+      "lat": 51.021139160315656, 
+      "lon": 5.1164220337059145, 
       "municipality": "Diest", 
       "pcode": "3290", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Vleugtstraat"
     }, 
     {
@@ -946,18 +865,6 @@
       "municipality": "Diest", 
       "pcode": "3290", 
       "source": "afgeleidVanGebouw", 
-      "street": "Vleugtstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "98"
-      ], 
-      "housenumber": "98", 
-      "lat": 51.01831542723251, 
-      "lon": 5.112501627865435, 
-      "municipality": "Diest", 
-      "pcode": "3290", 
-      "source": "afgeleidVanStraat", 
       "street": "Vleugtstraat"
     }
   ]

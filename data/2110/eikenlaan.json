@@ -25,6 +25,18 @@
       "street": "Eikenlaan"
     }, 
     {
+      "hnrlbls": [
+        "12"
+      ], 
+      "housenumber": "12", 
+      "lat": 51.226235916011746, 
+      "lon": 4.523476800482739, 
+      "municipality": "Wijnegem", 
+      "pcode": "2110", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Eikenlaan"
+    }, 
+    {
       "apptnrs": [
         "1.0", 
         "2.0"
@@ -55,7 +67,8 @@
     {
       "apptnrs": [
         "1.0", 
-        "2.0"
+        "2.0", 
+        "glvl"
       ], 
       "hnrlbls": [
         "15"
@@ -97,9 +110,6 @@
         "1.0", 
         "2.0"
       ], 
-      "busnrs": [
-        "2"
-      ], 
       "hnrlbls": [
         "19"
       ], 
@@ -115,12 +125,15 @@
       "apptnrs": [
         "0.0"
       ], 
+      "busnrs": [
+        "glvl"
+      ], 
       "hnrlbls": [
-        "2-22"
+        "2-2_2"
       ], 
       "housenumber": "2", 
-      "lat": 51.22655681737575, 
-      "lon": 4.523428183857724, 
+      "lat": 51.22649433847068, 
+      "lon": 4.523466288301126, 
       "municipality": "Wijnegem", 
       "pcode": "2110", 
       "source": "afgeleidVanGebouw", 
@@ -143,11 +156,11 @@
         "21"
       ], 
       "housenumber": "21", 
-      "lat": 51.225266071961656, 
-      "lon": 4.523232638811447, 
+      "lat": 51.225324044988334, 
+      "lon": 4.523170281704158, 
       "municipality": "Wijnegem", 
       "pcode": "2110", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Eikenlaan"
     }, 
     {
@@ -175,6 +188,11 @@
       "street": "Eikenlaan"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3"
+      ], 
       "hnrlbls": [
         "24"
       ], 
@@ -254,14 +272,14 @@
         "4"
       ], 
       "hnrlbls": [
-        "2B-2_2"
+        "2-2_2"
       ], 
       "housenumber": "2B", 
-      "lat": 51.22661924689826, 
-      "lon": 4.523390027526275, 
+      "lat": 51.22649433847068, 
+      "lon": 4.523466288301126, 
       "municipality": "Wijnegem", 
       "pcode": "2110", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Eikenlaan"
     }, 
     {
@@ -269,39 +287,28 @@
         "eL"
       ], 
       "hnrlbls": [
-        "2B-2_2"
+        "2-2_2"
       ], 
       "housenumber": "2_2", 
-      "lat": 51.22661924689826, 
-      "lon": 4.523390027526275, 
+      "lat": 51.22649433847068, 
+      "lon": 4.523466288301126, 
       "municipality": "Wijnegem", 
       "pcode": "2110", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Eikenlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "30"
-      ], 
-      "housenumber": "30", 
-      "lat": 51.22572056396809, 
-      "lon": 4.523065809538829, 
-      "municipality": "Wijnegem", 
-      "pcode": "2110", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Eikenlaan"
     }, 
     {
       "apptnrs": [
         "1.0", 
-        "2.0"
+        "2.0", 
+        "glvl"
       ], 
       "hnrlbls": [
         "31"
       ], 
       "housenumber": "31", 
-      "lat": 51.22509233140721, 
-      "lon": 4.5228859335910245, 
+      "lat": 51.22521863649596, 
+      "lon": 4.522773503708436, 
       "municipality": "Wijnegem", 
       "pcode": "2110", 
       "source": "afgeleidVanGebouw", 
@@ -325,11 +332,11 @@
         "2", 
         "3", 
         "4", 
-        "6", 
-        "eL"
+        "5", 
+        "6"
       ], 
       "hnrlbls": [
-        "33-33_2"
+        "33"
       ], 
       "housenumber": "33", 
       "lat": 51.22516931902422, 
@@ -340,54 +347,10 @@
       "street": "Eikenlaan"
     }, 
     {
-      "busnrs": [
-        "eL"
-      ], 
-      "hnrlbls": [
-        "33-33_2"
-      ], 
-      "housenumber": "33_1", 
-      "lat": 51.22516931902422, 
-      "lon": 4.522575132528889, 
-      "municipality": "Wijnegem", 
-      "pcode": "2110", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Eikenlaan"
-    }, 
-    {
-      "busnrs": [
-        "eR"
-      ], 
-      "hnrlbls": [
-        "33-33_2"
-      ], 
-      "housenumber": "33_2", 
-      "lat": 51.22516931902422, 
-      "lon": 4.522575132528889, 
-      "municipality": "Wijnegem", 
-      "pcode": "2110", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Eikenlaan"
-    }, 
-    {
-      "busnrs": [
-        "5"
-      ], 
-      "hnrlbls": [
-        "33-33_2"
-      ], 
-      "housenumber": "33b", 
-      "lat": 51.22516931902422, 
-      "lon": 4.522575132528889, 
-      "municipality": "Wijnegem", 
-      "pcode": "2110", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Eikenlaan"
-    }, 
-    {
       "apptnrs": [
         "1.0", 
-        "2.0"
+        "2.0", 
+        "glvl"
       ], 
       "hnrlbls": [
         "34"
@@ -417,6 +380,10 @@
       "street": "Eikenlaan"
     }, 
     {
+      "apptnrs": [
+        "001e", 
+        "002e"
+      ], 
       "hnrlbls": [
         "38"
       ], 
@@ -494,7 +461,6 @@
     }, 
     {
       "apptnrs": [
-        "0.0", 
         "1.0", 
         "2.0"
       ], 
@@ -513,6 +479,10 @@
       "street": "Eikenlaan"
     }, 
     {
+      "busnrs": [
+        "bus1", 
+        "bus2"
+      ], 
       "hnrlbls": [
         "50"
       ], 

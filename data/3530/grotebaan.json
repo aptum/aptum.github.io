@@ -541,7 +541,14 @@
       "apptnrs": [
         "01-1", 
         "01-2", 
+        "02-1", 
         "02-2"
+      ], 
+      "busnrs": [
+        "11", 
+        "12", 
+        "2", 
+        "22"
       ], 
       "hnrlbls": [
         "143"
@@ -603,8 +610,8 @@
         "147A"
       ], 
       "housenumber": "147A", 
-      "lat": 51.03654165631057, 
-      "lon": 5.377512585701789, 
+      "lat": 51.03654169475095, 
+      "lon": 5.37751253864391, 
       "municipality": "Houthalen-Helchteren", 
       "pcode": "3530", 
       "source": "afgeleidVanGebouw", 
@@ -1042,7 +1049,8 @@
         "01-1"
       ], 
       "busnrs": [
-        "1"
+        "1", 
+        "11A"
       ], 
       "hnrlbls": [
         "188"
@@ -1563,7 +1571,7 @@
     }, 
     {
       "hnrlbls": [
-        "230"
+        "230-230B"
       ], 
       "housenumber": "230", 
       "lat": 51.04381876575803, 
@@ -1583,6 +1591,18 @@
       "municipality": "Houthalen-Helchteren", 
       "pcode": "3530", 
       "source": "afgeleidVanGebouw", 
+      "street": "Grote Baan"
+    }, 
+    {
+      "hnrlbls": [
+        "230-230B"
+      ], 
+      "housenumber": "230B", 
+      "lat": 51.04381876575803, 
+      "lon": 5.380241830786538, 
+      "municipality": "Houthalen-Helchteren", 
+      "pcode": "3530", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Grote Baan"
     }, 
     {
@@ -1971,6 +1991,21 @@
       "street": "Grote Baan"
     }, 
     {
+      "hnrlbls": [
+        "339"
+      ], 
+      "housenumber": "339", 
+      "lat": 51.05233437768461, 
+      "lon": 5.381408884125345, 
+      "municipality": "Houthalen-Helchteren", 
+      "pcode": "3530", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Grote Baan"
+    }, 
+    {
+      "apptnrs": [
+        "340/1"
+      ], 
       "hnrlbls": [
         "340"
       ], 
@@ -3223,6 +3258,7 @@
         "1", 
         "11", 
         "12", 
+        "13", 
         "14", 
         "2", 
         "21", 
@@ -3285,6 +3321,9 @@
       "street": "Grote Baan"
     }, 
     {
+      "apptnrs": [
+        "01-1"
+      ], 
       "hnrlbls": [
         "457"
       ], 
@@ -4006,6 +4045,10 @@
       "street": "Grote Baan"
     }, 
     {
+      "apptnrs": [
+        "54", 
+        "54/1"
+      ], 
       "hnrlbls": [
         "54"
       ], 

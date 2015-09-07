@@ -179,11 +179,11 @@
         "129A"
       ], 
       "housenumber": "129A", 
-      "lat": 51.298372363637675, 
-      "lon": 4.419795763464347, 
+      "lat": 51.29883882042616, 
+      "lon": 4.419570670983188, 
       "municipality": "Antwerpen", 
       "pcode": "2180", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Klein Heiken"
     }, 
     {
@@ -637,10 +637,10 @@
       "street": "Klein Heiken"
     }, 
     {
-      "apptnrs": [
-        "0001", 
-        "0101", 
-        "0201"
+      "busnrs": [
+        "1", 
+        "2", 
+        "3"
       ], 
       "hnrlbls": [
         "188-190"
@@ -648,6 +648,23 @@
       "housenumber": "190", 
       "lat": 51.29941470187055, 
       "lon": 4.420233640002822, 
+      "municipality": "Antwerpen", 
+      "pcode": "2180", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Klein Heiken"
+    }, 
+    {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "102"
+      ], 
+      "hnrlbls": [
+        "191"
+      ], 
+      "housenumber": "191", 
+      "lat": 51.29954254967177, 
+      "lon": 4.422700787308604, 
       "municipality": "Antwerpen", 
       "pcode": "2180", 
       "source": "afgeleidVanGebouw", 
@@ -771,18 +788,6 @@
     }, 
     {
       "hnrlbls": [
-        "285-533"
-      ], 
-      "housenumber": "285", 
-      "lat": 51.29784856503888, 
-      "lon": 4.416979405663386, 
-      "municipality": "Antwerpen", 
-      "pcode": "2180", 
-      "source": "afgeleidVanStraat", 
-      "street": "Klein Heiken"
-    }, 
-    {
-      "hnrlbls": [
         "29"
       ], 
       "housenumber": "29", 
@@ -818,30 +823,6 @@
       "municipality": "Antwerpen", 
       "pcode": "2180", 
       "source": "afgeleidVanGebouw", 
-      "street": "Klein Heiken"
-    }, 
-    {
-      "hnrlbls": [
-        "285-533"
-      ], 
-      "housenumber": "303", 
-      "lat": 51.29784856503888, 
-      "lon": 4.416979405663386, 
-      "municipality": "Antwerpen", 
-      "pcode": "2180", 
-      "source": "afgeleidVanStraat", 
-      "street": "Klein Heiken"
-    }, 
-    {
-      "hnrlbls": [
-        "285-533"
-      ], 
-      "housenumber": "305", 
-      "lat": 51.29784856503888, 
-      "lon": 4.416979405663386, 
-      "municipality": "Antwerpen", 
-      "pcode": "2180", 
-      "source": "afgeleidVanStraat", 
       "street": "Klein Heiken"
     }, 
     {
@@ -906,18 +887,6 @@
     }, 
     {
       "hnrlbls": [
-        "285-533"
-      ], 
-      "housenumber": "364", 
-      "lat": 51.29784856503888, 
-      "lon": 4.416979405663386, 
-      "municipality": "Antwerpen", 
-      "pcode": "2180", 
-      "source": "afgeleidVanStraat", 
-      "street": "Klein Heiken"
-    }, 
-    {
-      "hnrlbls": [
         "38"
       ], 
       "housenumber": "38", 
@@ -974,42 +943,6 @@
       "municipality": "Antwerpen", 
       "pcode": "2180", 
       "source": "afgeleidVanGebouw", 
-      "street": "Klein Heiken"
-    }, 
-    {
-      "hnrlbls": [
-        "285-533"
-      ], 
-      "housenumber": "426", 
-      "lat": 51.29784856503888, 
-      "lon": 4.416979405663386, 
-      "municipality": "Antwerpen", 
-      "pcode": "2180", 
-      "source": "afgeleidVanStraat", 
-      "street": "Klein Heiken"
-    }, 
-    {
-      "hnrlbls": [
-        "285-533"
-      ], 
-      "housenumber": "430", 
-      "lat": 51.29784856503888, 
-      "lon": 4.416979405663386, 
-      "municipality": "Antwerpen", 
-      "pcode": "2180", 
-      "source": "afgeleidVanStraat", 
-      "street": "Klein Heiken"
-    }, 
-    {
-      "hnrlbls": [
-        "285-533"
-      ], 
-      "housenumber": "434", 
-      "lat": 51.29784856503888, 
-      "lon": 4.416979405663386, 
-      "municipality": "Antwerpen", 
-      "pcode": "2180", 
-      "source": "afgeleidVanStraat", 
       "street": "Klein Heiken"
     }, 
     {
@@ -1101,18 +1034,6 @@
       "municipality": "Antwerpen", 
       "pcode": "2180", 
       "source": "afgeleidVanGebouw", 
-      "street": "Klein Heiken"
-    }, 
-    {
-      "hnrlbls": [
-        "285-533"
-      ], 
-      "housenumber": "533", 
-      "lat": 51.29784856503888, 
-      "lon": 4.416979405663386, 
-      "municipality": "Antwerpen", 
-      "pcode": "2180", 
-      "source": "afgeleidVanStraat", 
       "street": "Klein Heiken"
     }, 
     {
@@ -1277,18 +1198,6 @@
     }, 
     {
       "hnrlbls": [
-        "83"
-      ], 
-      "housenumber": "83", 
-      "lat": 51.298072325645286, 
-      "lon": 4.417945095206717, 
-      "municipality": "Antwerpen", 
-      "pcode": "2180", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Klein Heiken"
-    }, 
-    {
-      "hnrlbls": [
         "84"
       ], 
       "housenumber": "84", 
@@ -1309,18 +1218,6 @@
       "municipality": "Antwerpen", 
       "pcode": "2180", 
       "source": "afgeleidVanGebouw", 
-      "street": "Klein Heiken"
-    }, 
-    {
-      "hnrlbls": [
-        "88"
-      ], 
-      "housenumber": "88", 
-      "lat": 51.298468343910244, 
-      "lon": 4.417295330603564, 
-      "municipality": "Antwerpen", 
-      "pcode": "2180", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Klein Heiken"
     }, 
     {

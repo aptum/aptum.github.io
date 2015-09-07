@@ -39,7 +39,8 @@
     {
       "busnrs": [
         "1", 
-        "2"
+        "2", 
+        "glvl"
       ], 
       "hnrlbls": [
         "101"
@@ -91,7 +92,8 @@
     {
       "busnrs": [
         "1", 
-        "2"
+        "2", 
+        "glvl"
       ], 
       "hnrlbls": [
         "104"
@@ -193,7 +195,8 @@
     }, 
     {
       "busnrs": [
-        "1"
+        "1", 
+        "glvl"
       ], 
       "hnrlbls": [
         "112"
@@ -268,7 +271,8 @@
     }, 
     {
       "busnrs": [
-        "1"
+        "1", 
+        "glvl"
       ], 
       "hnrlbls": [
         "120"
@@ -440,7 +444,8 @@
     {
       "busnrs": [
         "1", 
-        "2"
+        "2", 
+        "glvl"
       ], 
       "hnrlbls": [
         "17"
@@ -860,7 +865,7 @@
     }, 
     {
       "hnrlbls": [
-        "52"
+        "52-52bis"
       ], 
       "housenumber": "52", 
       "lat": 51.16647416183873, 
@@ -880,6 +885,18 @@
       "municipality": "Mortsel", 
       "pcode": "2640", 
       "source": "afgeleidVanGebouw", 
+      "street": "Edmond Thieffrylaan"
+    }, 
+    {
+      "hnrlbls": [
+        "52-52bis"
+      ], 
+      "housenumber": "52bis", 
+      "lat": 51.16647416183873, 
+      "lon": 4.4467802373134795, 
+      "municipality": "Mortsel", 
+      "pcode": "2640", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Edmond Thieffrylaan"
     }, 
     {
@@ -986,6 +1003,9 @@
       "street": "Edmond Thieffrylaan"
     }, 
     {
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "8"
       ], 
@@ -1122,7 +1142,8 @@
     }, 
     {
       "busnrs": [
-        "1"
+        "1", 
+        "glvl"
       ], 
       "hnrlbls": [
         "97"

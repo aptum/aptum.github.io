@@ -2,14 +2,14 @@
   "addresses": [
     {
       "hnrlbls": [
-        "10"
+        "7-10"
       ], 
       "housenumber": "10", 
-      "lat": 50.96702690897527, 
-      "lon": 5.501384407367136, 
+      "lat": 50.96706009959045, 
+      "lon": 5.501056182439687, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Pastoor Raeymaekersstraat"
     }, 
     {
@@ -124,6 +124,12 @@
       "street": "Pastoor Raeymaekersstraat"
     }, 
     {
+      "busnrs": [
+        "AB01", 
+        "AB02", 
+        "AB03", 
+        "AB04"
+      ], 
       "hnrlbls": [
         "17-17A"
       ], 
@@ -301,6 +307,11 @@
       "street": "Pastoor Raeymaekersstraat"
     }, 
     {
+      "busnrs": [
+        "11", 
+        "13", 
+        "22"
+      ], 
       "hnrlbls": [
         "3"
       ], 
@@ -398,6 +409,25 @@
     {
       "busnrs": [
         "1", 
+        "12", 
+        "13", 
+        "23", 
+        "33"
+      ], 
+      "hnrlbls": [
+        "7-10"
+      ], 
+      "housenumber": "7", 
+      "lat": 50.96706009959045, 
+      "lon": 5.501056182439687, 
+      "municipality": "Genk", 
+      "pcode": "3600", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Pastoor Raeymaekersstraat"
+    }, 
+    {
+      "busnrs": [
+        "1", 
         "2"
       ], 
       "hnrlbls": [
@@ -409,6 +439,18 @@
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
+      "street": "Pastoor Raeymaekersstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "7-10"
+      ], 
+      "housenumber": "9", 
+      "lat": 50.96706009959045, 
+      "lon": 5.501056182439687, 
+      "municipality": "Genk", 
+      "pcode": "3600", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Pastoor Raeymaekersstraat"
     }
   ]

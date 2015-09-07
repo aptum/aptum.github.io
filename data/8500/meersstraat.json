@@ -1,12 +1,15 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "315"
+      ], 
       "hnrlbls": [
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 50.82807234862367, 
-      "lon": 3.2562920922441716, 
+      "lat": 50.82807675418355, 
+      "lon": 3.2565101699125334, 
       "municipality": "Kortrijk", 
       "pcode": "8500", 
       "source": "afgeleidVanPerceelGrb", 
@@ -17,11 +20,11 @@
         "10"
       ], 
       "housenumber": "10", 
-      "lat": 50.82840392597067, 
-      "lon": 3.255809274532346, 
+      "lat": 50.828321635882816, 
+      "lon": 3.2559107305727144, 
       "municipality": "Kortrijk", 
       "pcode": "8500", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Meersstraat"
     }, 
     {
@@ -86,7 +89,7 @@
     }, 
     {
       "hnrlbls": [
-        "16-16A"
+        "16"
       ], 
       "housenumber": "16", 
       "lat": 50.828171925965805, 
@@ -94,18 +97,6 @@
       "municipality": "Kortrijk", 
       "pcode": "8500", 
       "source": "afgeleidVanGebouw", 
-      "street": "Meersstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "16-16A"
-      ], 
-      "housenumber": "16A", 
-      "lat": 50.828171925965805, 
-      "lon": 3.2551700099196546, 
-      "municipality": "Kortrijk", 
-      "pcode": "8500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Meersstraat"
     }, 
     {
@@ -133,18 +124,6 @@
       "street": "Meersstraat"
     }, 
     {
-      "hnrlbls": [
-        "18"
-      ], 
-      "housenumber": "18", 
-      "lat": 50.82773351761469, 
-      "lon": 3.2543150458017505, 
-      "municipality": "Kortrijk", 
-      "pcode": "8500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
-      "street": "Meersstraat"
-    }, 
-    {
       "busnrs": [
         "1", 
         "11"
@@ -158,6 +137,18 @@
       "municipality": "Kortrijk", 
       "pcode": "8500", 
       "source": "afgeleidVanGebouw", 
+      "street": "Meersstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "1F"
+      ], 
+      "housenumber": "1F", 
+      "lat": 50.82795990266337, 
+      "lon": 3.2568922296343032, 
+      "municipality": "Kortrijk", 
+      "pcode": "8500", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Meersstraat"
     }, 
     {
@@ -182,18 +173,6 @@
       "municipality": "Kortrijk", 
       "pcode": "8500", 
       "source": "manueleAanduidingVanPerceel", 
-      "street": "Meersstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "20B"
-      ], 
-      "housenumber": "20B", 
-      "lat": 50.82727579566284, 
-      "lon": 3.2534719113162476, 
-      "municipality": "Kortrijk", 
-      "pcode": "8500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
       "street": "Meersstraat"
     }, 
     {
@@ -237,11 +216,11 @@
         "3"
       ], 
       "housenumber": "3", 
-      "lat": 50.82801309626668, 
-      "lon": 3.255950393075111, 
+      "lat": 50.82802170852181, 
+      "lon": 3.255891562850337, 
       "municipality": "Kortrijk", 
       "pcode": "8500", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Meersstraat"
     }, 
     {
@@ -251,7 +230,7 @@
         "21"
       ], 
       "hnrlbls": [
-        "4-4D"
+        "4"
       ], 
       "housenumber": "4", 
       "lat": 50.82842278453044, 
@@ -259,18 +238,6 @@
       "municipality": "Kortrijk", 
       "pcode": "8500", 
       "source": "afgeleidVanGebouw", 
-      "street": "Meersstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "4-4D"
-      ], 
-      "housenumber": "4D", 
-      "lat": 50.82842278453044, 
-      "lon": 3.2561292188705533, 
-      "municipality": "Kortrijk", 
-      "pcode": "8500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Meersstraat"
     }, 
     {
@@ -283,18 +250,6 @@
       "municipality": "Kortrijk", 
       "pcode": "8500", 
       "source": "afgeleidVanGebouw", 
-      "street": "Meersstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "59"
-      ], 
-      "housenumber": "59", 
-      "lat": 50.82818470378994, 
-      "lon": 3.255985939521062, 
-      "municipality": "Kortrijk", 
-      "pcode": "8500", 
-      "source": "afgeleidVanStraat", 
       "street": "Meersstraat"
     }, 
     {
@@ -347,8 +302,8 @@
         "9"
       ], 
       "housenumber": "9", 
-      "lat": 50.827891538544456, 
-      "lon": 3.255712942334053, 
+      "lat": 50.82788887025905, 
+      "lon": 3.255715986454964, 
       "municipality": "Kortrijk", 
       "pcode": "8500", 
       "source": "afgeleidVanPerceelGrb", 

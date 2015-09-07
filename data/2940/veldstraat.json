@@ -14,12 +14,15 @@
     }, 
     {
       "apptnrs": [
+        "GLLI", 
         "GLRE", 
-        "GLVL", 
         "VD1L", 
         "VD1R", 
-        "VER1", 
         "VER2"
+      ], 
+      "busnrs": [
+        "GVLI", 
+        "GVRE"
       ], 
       "hnrlbls": [
         "101"
@@ -46,12 +49,16 @@
     }, 
     {
       "apptnrs": [
+        "GLRE", 
         "GLVL", 
-        "GVRE", 
         "VD1L", 
         "VD1R", 
         "VD2L", 
         "VD2R"
+      ], 
+      "busnrs": [
+        "GVLI", 
+        "GVRE"
       ], 
       "hnrlbls": [
         "103"
@@ -646,8 +653,8 @@
         "43"
       ], 
       "housenumber": "43", 
-      "lat": 51.348708087874854, 
-      "lon": 4.394895860373482, 
+      "lat": 51.34870862747448, 
+      "lon": 4.394894425422685, 
       "municipality": "Stabroek", 
       "pcode": "2940", 
       "source": "afgeleidVanPerceelGrb", 

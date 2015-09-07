@@ -547,8 +547,15 @@
       "street": "Venneborglaan"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5"
+      ], 
       "hnrlbls": [
-        "141-141_2"
+        "141"
       ], 
       "housenumber": "141", 
       "lat": 51.22454246163674, 
@@ -559,18 +566,15 @@
       "street": "Venneborglaan"
     }, 
     {
-      "busnrs": [
-        "A"
-      ], 
       "hnrlbls": [
-        "141-141_2"
+        "141_2"
       ], 
       "housenumber": "141_2", 
-      "lat": 51.22454246163674, 
-      "lon": 4.4760123966106, 
+      "lat": 51.22454351839153, 
+      "lon": 4.4760117176913266, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Venneborglaan"
     }, 
     {
@@ -1040,11 +1044,11 @@
         "178A"
       ], 
       "housenumber": "178A", 
-      "lat": 51.224787928369985, 
-      "lon": 4.47758283492762, 
+      "lat": 51.22475594879391, 
+      "lon": 4.4774855430209834, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Venneborglaan"
     }, 
     {
@@ -1434,6 +1438,11 @@
       "street": "Venneborglaan"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3"
+      ], 
       "hnrlbls": [
         "23"
       ], 
@@ -1464,7 +1473,7 @@
     }, 
     {
       "hnrlbls": [
-        "25-25A"
+        "25"
       ], 
       "housenumber": "25", 
       "lat": 51.220743015745164, 
@@ -1476,14 +1485,14 @@
     }, 
     {
       "hnrlbls": [
-        "25-25A"
+        "25A"
       ], 
       "housenumber": "25A", 
-      "lat": 51.220743015745164, 
-      "lon": 4.470827357891137, 
+      "lat": 51.22074096302167, 
+      "lon": 4.470828132007446, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Venneborglaan"
     }, 
     {
@@ -1829,7 +1838,8 @@
     }, 
     {
       "busnrs": [
-        "1"
+        "1", 
+        "2"
       ], 
       "hnrlbls": [
         "51"

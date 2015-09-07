@@ -46,7 +46,7 @@
         "401"
       ], 
       "hnrlbls": [
-        "12-12O"
+        "12"
       ], 
       "housenumber": "12", 
       "lat": 51.21702637224056, 
@@ -58,11 +58,11 @@
     }, 
     {
       "hnrlbls": [
-        "12-12O"
+        "12O"
       ], 
       "housenumber": "12O", 
-      "lat": 51.21702637224056, 
-      "lon": 2.88197496457392, 
+      "lat": 51.217047634201236, 
+      "lon": 2.881942793975079, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
@@ -118,9 +118,14 @@
     }, 
     {
       "busnrs": [
+        "1", 
         "201", 
+        "2C", 
+        "3B", 
         "4", 
         "401", 
+        "4B", 
+        "4C", 
         "B", 
         "C"
       ], 
@@ -133,52 +138,6 @@
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
-      "street": "Raversijdestraat"
-    }, 
-    {
-      "busnrs": [
-        "C"
-      ], 
-      "hnrlbls": [
-        "19_2-180_7"
-      ], 
-      "housenumber": "19_2", 
-      "lat": 51.21610432027564, 
-      "lon": 2.879037347844587, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Raversijdestraat"
-    }, 
-    {
-      "busnrs": [
-        "B"
-      ], 
-      "hnrlbls": [
-        "19_2-180_7"
-      ], 
-      "housenumber": "19_3", 
-      "lat": 51.21610432027564, 
-      "lon": 2.879037347844587, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Raversijdestraat"
-    }, 
-    {
-      "busnrs": [
-        "B", 
-        "C"
-      ], 
-      "hnrlbls": [
-        "19_2-180_7"
-      ], 
-      "housenumber": "19_4", 
-      "lat": 51.21610432027564, 
-      "lon": 2.879037347844587, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Raversijdestraat"
     }, 
     {
@@ -224,13 +183,16 @@
         "111", 
         "113", 
         "12", 
+        "1H", 
         "211", 
         "214", 
         "308", 
         "314", 
         "409", 
+        "512", 
         "515", 
-        "604"
+        "604", 
+        "9"
       ], 
       "hnrlbls": [
         "22-32"
@@ -281,6 +243,11 @@
       "street": "Raversijdestraat"
     }, 
     {
+      "busnrs": [
+        "2A", 
+        "4C", 
+        "6A"
+      ], 
       "hnrlbls": [
         "21-25"
       ], 
@@ -290,51 +257,6 @@
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
-      "street": "Raversijdestraat"
-    }, 
-    {
-      "busnrs": [
-        "A"
-      ], 
-      "hnrlbls": [
-        "25_2-25_4"
-      ], 
-      "housenumber": "25_2", 
-      "lat": 51.21602526551128, 
-      "lon": 2.878899302442061, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Raversijdestraat"
-    }, 
-    {
-      "busnrs": [
-        "C"
-      ], 
-      "hnrlbls": [
-        "25_2-25_4"
-      ], 
-      "housenumber": "25_4", 
-      "lat": 51.21602526551128, 
-      "lon": 2.878899302442061, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Raversijdestraat"
-    }, 
-    {
-      "busnrs": [
-        "A"
-      ], 
-      "hnrlbls": [
-        "1-346A"
-      ], 
-      "housenumber": "25_6", 
-      "lat": 51.21019494141423, 
-      "lon": 2.92423265140856, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "manueleAanduidingVanPerceel", 
       "street": "Raversijdestraat"
     }, 
     {
@@ -358,6 +280,7 @@
         "10", 
         "11", 
         "12", 
+        "2", 
         "3", 
         "4", 
         "6"
@@ -415,8 +338,8 @@
         "3"
       ], 
       "housenumber": "3", 
-      "lat": 51.21730683607566, 
-      "lon": 2.881743712760292, 
+      "lat": 51.217307305106075, 
+      "lon": 2.881738114940316, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanPerceelGrb", 
@@ -424,7 +347,8 @@
     }, 
     {
       "busnrs": [
-        "2"
+        "2", 
+        "201"
       ], 
       "hnrlbls": [
         "31"
@@ -525,6 +449,7 @@
         "32", 
         "33", 
         "34", 
+        "404", 
         "41", 
         "43", 
         "51", 
@@ -579,10 +504,11 @@
         "2", 
         "20", 
         "29", 
+        "2C", 
         "31"
       ], 
       "hnrlbls": [
-        "42-42_2"
+        "42"
       ], 
       "housenumber": "42", 
       "lat": 51.2166936955164, 
@@ -590,21 +516,6 @@
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
-      "street": "Raversijdestraat"
-    }, 
-    {
-      "busnrs": [
-        "C"
-      ], 
-      "hnrlbls": [
-        "42-42_2"
-      ], 
-      "housenumber": "42_2", 
-      "lat": 51.2166936955164, 
-      "lon": 2.8801279281751864, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Raversijdestraat"
     }, 
     {
@@ -724,8 +635,8 @@
         "5"
       ], 
       "housenumber": "5", 
-      "lat": 51.21687705828601, 
-      "lon": 2.8805750007794004, 
+      "lat": 51.21687729187335, 
+      "lon": 2.8805721303434675, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
@@ -753,6 +664,7 @@
       "busnrs": [
         "1", 
         "101", 
+        "103", 
         "202", 
         "3", 
         "401", 
@@ -776,6 +688,7 @@
       "busnrs": [
         "13", 
         "14", 
+        "15", 
         "16", 
         "2", 
         "201", 
@@ -841,6 +754,9 @@
       "street": "Raversijdestraat"
     }, 
     {
+      "apptnrs": [
+        "1.0"
+      ], 
       "busnrs": [
         "1", 
         "103", 
@@ -854,11 +770,14 @@
         "30", 
         "301", 
         "303", 
+        "306", 
         "31", 
         "4", 
         "403", 
         "405", 
         "44", 
+        "4F", 
+        "4G", 
         "5", 
         "504", 
         "509", 
@@ -866,11 +785,12 @@
         "6", 
         "60", 
         "601", 
+        "6H", 
         "G", 
         "H"
       ], 
       "hnrlbls": [
-        "56-56_6"
+        "56"
       ], 
       "housenumber": "56", 
       "lat": 51.2155265487407, 
@@ -882,38 +802,9 @@
     }, 
     {
       "busnrs": [
-        "G"
-      ], 
-      "hnrlbls": [
-        "56-56_6"
-      ], 
-      "housenumber": "56_4", 
-      "lat": 51.2155265487407, 
-      "lon": 2.8786257907520936, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Raversijdestraat"
-    }, 
-    {
-      "busnrs": [
-        "H"
-      ], 
-      "hnrlbls": [
-        "56-56_6"
-      ], 
-      "housenumber": "56_6", 
-      "lat": 51.2155265487407, 
-      "lon": 2.8786257907520936, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Raversijdestraat"
-    }, 
-    {
-      "busnrs": [
         "1", 
-        "2"
+        "2", 
+        "5"
       ], 
       "hnrlbls": [
         "7"
@@ -933,6 +824,7 @@
         "3", 
         "301", 
         "4", 
+        "5", 
         "6"
       ], 
       "hnrlbls": [

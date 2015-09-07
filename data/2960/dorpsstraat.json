@@ -60,6 +60,9 @@
       "street": "Dorpsstraat"
     }, 
     {
+      "busnrs": [
+        "GLVL"
+      ], 
       "hnrlbls": [
         "102"
       ], 
@@ -225,6 +228,12 @@
       "street": "Dorpsstraat"
     }, 
     {
+      "apptnrs": [
+        "1V", 
+        "2V", 
+        "3V", 
+        "GV"
+      ], 
       "hnrlbls": [
         "112"
       ], 
@@ -279,6 +288,21 @@
       "municipality": "Brecht", 
       "pcode": "2960", 
       "source": "manueleAanduidingVanGebouw", 
+      "street": "Dorpsstraat"
+    }, 
+    {
+      "busnrs": [
+        "L"
+      ], 
+      "hnrlbls": [
+        "115_2"
+      ], 
+      "housenumber": "115_2", 
+      "lat": 51.34912148279792, 
+      "lon": 4.674239493182859, 
+      "municipality": "Brecht", 
+      "pcode": "2960", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelKadaster", 
       "street": "Dorpsstraat"
     }, 
     {
@@ -444,6 +468,9 @@
       "apptnrs": [
         "1V", 
         "GV"
+      ], 
+      "busnrs": [
+        "GLVL"
       ], 
       "hnrlbls": [
         "121"
@@ -667,6 +694,18 @@
     }, 
     {
       "hnrlbls": [
+        "15A"
+      ], 
+      "housenumber": "15A", 
+      "lat": 51.34533869019901, 
+      "lon": 4.680373621613632, 
+      "municipality": "Brecht", 
+      "pcode": "2960", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Dorpsstraat"
+    }, 
+    {
+      "hnrlbls": [
         "16"
       ], 
       "housenumber": "16", 
@@ -742,6 +781,22 @@
       "municipality": "Brecht", 
       "pcode": "2960", 
       "source": "manueleAanduidingVanLot", 
+      "street": "Dorpsstraat"
+    }, 
+    {
+      "busnrs": [
+        "L", 
+        "R"
+      ], 
+      "hnrlbls": [
+        "20_1"
+      ], 
+      "housenumber": "20_1", 
+      "lat": 51.34620462989045, 
+      "lon": 4.679271607220702, 
+      "municipality": "Brecht", 
+      "pcode": "2960", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Dorpsstraat"
     }, 
     {
@@ -1032,7 +1087,8 @@
     }, 
     {
       "busnrs": [
-        "1"
+        "1", 
+        "GLVL"
       ], 
       "hnrlbls": [
         "42"
@@ -1206,6 +1262,9 @@
         "1.0", 
         "2.0"
       ], 
+      "busnrs": [
+        "GLVL"
+      ], 
       "hnrlbls": [
         "56"
       ], 
@@ -1233,6 +1292,9 @@
       "apptnrs": [
         "1.0", 
         "2.0"
+      ], 
+      "busnrs": [
+        "GLVL"
       ], 
       "hnrlbls": [
         "58"
@@ -1547,6 +1609,9 @@
       "apptnrs": [
         "1.0"
       ], 
+      "busnrs": [
+        "GLVL"
+      ], 
       "hnrlbls": [
         "79"
       ], 
@@ -1584,7 +1649,10 @@
     }, 
     {
       "apptnrs": [
+        "0.0", 
+        "1.0", 
         "1V", 
+        "2.0", 
         "2V", 
         "GV"
       ], 
@@ -1633,8 +1701,8 @@
         "84"
       ], 
       "housenumber": "84", 
-      "lat": 51.34853816880952, 
-      "lon": 4.676801913392207, 
+      "lat": 51.34853820037096, 
+      "lon": 4.676801965468633, 
       "municipality": "Brecht", 
       "pcode": "2960", 
       "source": "afgeleidVanGebouw", 
@@ -1785,6 +1853,7 @@
     }, 
     {
       "apptnrs": [
+        "1.0", 
         "1V"
       ], 
       "hnrlbls": [

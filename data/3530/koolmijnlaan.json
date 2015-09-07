@@ -88,6 +88,7 @@
       "busnrs": [
         "1", 
         "11", 
+        "11A", 
         "12", 
         "1B", 
         "2"
@@ -425,7 +426,8 @@
         "01-1"
       ], 
       "busnrs": [
-        "01"
+        "01", 
+        "11"
       ], 
       "hnrlbls": [
         "13"
@@ -780,11 +782,8 @@
     {
       "apptnrs": [
         "01-1", 
-        "27", 
-        "27/1"
-      ], 
-      "busnrs": [
-        "12A"
+        "27/1", 
+        "27/2"
       ], 
       "hnrlbls": [
         "27"
@@ -831,6 +830,30 @@
       "housenumber": "28", 
       "lat": 51.02251464263729, 
       "lon": 5.376420107417625, 
+      "municipality": "Houthalen-Helchteren", 
+      "pcode": "3530", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Koolmijnlaan"
+    }, 
+    {
+      "hnrlbls": [
+        "29"
+      ], 
+      "housenumber": "29", 
+      "lat": 51.02195981884214, 
+      "lon": 5.377926758761383, 
+      "municipality": "Houthalen-Helchteren", 
+      "pcode": "3530", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Koolmijnlaan"
+    }, 
+    {
+      "hnrlbls": [
+        "29A"
+      ], 
+      "housenumber": "29A", 
+      "lat": 51.021934836718096, 
+      "lon": 5.378009462098402, 
       "municipality": "Houthalen-Helchteren", 
       "pcode": "3530", 
       "source": "afgeleidVanGebouw", 
@@ -1490,6 +1513,11 @@
       "street": "Koolmijnlaan"
     }, 
     {
+      "busnrs": [
+        "01", 
+        "11", 
+        "21"
+      ], 
       "hnrlbls": [
         "64"
       ], 

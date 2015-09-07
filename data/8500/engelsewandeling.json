@@ -2,30 +2,6 @@
   "addresses": [
     {
       "hnrlbls": [
-        "1-1I"
-      ], 
-      "housenumber": "1", 
-      "lat": 50.812771147222854, 
-      "lon": 3.24982517544738, 
-      "municipality": "Kortrijk", 
-      "pcode": "8500", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Engelse Wandeling"
-    }, 
-    {
-      "hnrlbls": [
-        "10"
-      ], 
-      "housenumber": "10", 
-      "lat": 50.813804956582395, 
-      "lon": 3.2474698654758756, 
-      "municipality": "Kortrijk", 
-      "pcode": "8500", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Engelse Wandeling"
-    }, 
-    {
-      "hnrlbls": [
         "11"
       ], 
       "housenumber": "11", 
@@ -49,8 +25,11 @@
       "street": "Engelse Wandeling"
     }, 
     {
+      "busnrs": [
+        "B000"
+      ], 
       "hnrlbls": [
-        "13-13B"
+        "13"
       ], 
       "housenumber": "13", 
       "lat": 50.81520817209893, 
@@ -58,18 +37,6 @@
       "municipality": "Kortrijk", 
       "pcode": "8500", 
       "source": "afgeleidVanGebouw", 
-      "street": "Engelse Wandeling"
-    }, 
-    {
-      "hnrlbls": [
-        "13-13B"
-      ], 
-      "housenumber": "13B", 
-      "lat": 50.81520817209893, 
-      "lon": 3.2480111889859735, 
-      "municipality": "Kortrijk", 
-      "pcode": "8500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Engelse Wandeling"
     }, 
     {
@@ -157,51 +124,21 @@
       "street": "Engelse Wandeling"
     }, 
     {
-      "apptnrs": [
-        "23"
-      ], 
-      "hnrlbls": [
-        "1-1I"
-      ], 
-      "housenumber": "1I", 
-      "lat": 50.812771147222854, 
-      "lon": 3.24982517544738, 
-      "municipality": "Kortrijk", 
-      "pcode": "8500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
-      "street": "Engelse Wandeling"
-    }, 
-    {
-      "apptnrs": [
-        "114L", 
-        "1L", 
-        "9L", 
-        "B", 
-        "K10"
-      ], 
       "busnrs": [
-        "1", 
-        "13", 
-        "14", 
-        "16", 
-        "2", 
-        "23", 
-        "25", 
         "3", 
         "4", 
-        "5", 
-        "8", 
-        "I25"
+        "C", 
+        "H"
       ], 
       "hnrlbls": [
         "2"
       ], 
       "housenumber": "2", 
-      "lat": 50.81486499079918, 
-      "lon": 3.2455482219606218, 
+      "lat": 50.814619865333704, 
+      "lon": 3.2453749778551617, 
       "municipality": "Kortrijk", 
       "pcode": "8500", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Engelse Wandeling"
     }, 
     {
@@ -221,11 +158,11 @@
         "21"
       ], 
       "housenumber": "21", 
-      "lat": 50.8126124153447, 
-      "lon": 3.2472415657589275, 
+      "lat": 50.812969969373235, 
+      "lon": 3.2471284601126627, 
       "municipality": "Kortrijk", 
       "pcode": "8500", 
-      "source": "afgeleidVanStraat", 
+      "source": "afgeleidVanGebouw", 
       "street": "Engelse Wandeling"
     }, 
     {
@@ -238,21 +175,6 @@
       "municipality": "Kortrijk", 
       "pcode": "8500", 
       "source": "afgeleidVanGebouw", 
-      "street": "Engelse Wandeling"
-    }, 
-    {
-      "busnrs": [
-        "11"
-      ], 
-      "hnrlbls": [
-        "22K"
-      ], 
-      "housenumber": "22K", 
-      "lat": 50.813366321675154, 
-      "lon": 3.2478196192464446, 
-      "municipality": "Kortrijk", 
-      "pcode": "8500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Engelse Wandeling"
     }, 
     {
@@ -292,172 +214,135 @@
       "street": "Engelse Wandeling"
     }, 
     {
-      "apptnrs": [
+      "busnrs": [
+        "1", 
+        "4", 
+        "B", 
+        "B11", 
+        "B13", 
+        "B14", 
+        "B2", 
         "B3", 
         "B4"
       ], 
-      "busnrs": [
-        "11", 
-        "3", 
-        "4", 
-        "6"
-      ], 
       "hnrlbls": [
-        "2A-2J"
+        "2A"
       ], 
       "housenumber": "2A", 
-      "lat": 50.814344540938336, 
-      "lon": 3.2434681504808305, 
+      "lat": 50.81537412533866, 
+      "lon": 3.245510243013033, 
       "municipality": "Kortrijk", 
       "pcode": "8500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Engelse Wandeling"
     }, 
     {
-      "hnrlbls": [
-        "2A-2J"
-      ], 
-      "housenumber": "2C", 
-      "lat": 50.814344540938336, 
-      "lon": 3.2434681504808305, 
-      "municipality": "Kortrijk", 
-      "pcode": "8500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Engelse Wandeling"
-    }, 
-    {
-      "apptnrs": [
-        "1L", 
-        "9L", 
-        "9V"
-      ], 
       "busnrs": [
         "10", 
-        "2", 
-        "5", 
-        "8L"
+        "3", 
+        "4L", 
+        "9L"
       ], 
       "hnrlbls": [
-        "2F-2L"
+        "2F"
       ], 
       "housenumber": "2F", 
-      "lat": 50.815097615208835, 
-      "lon": 3.245523937776635, 
+      "lat": 50.81399069314219, 
+      "lon": 3.2439203657946787, 
       "municipality": "Kortrijk", 
       "pcode": "8500", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Engelse Wandeling"
-    }, 
-    {
-      "hnrlbls": [
-        "2A-2J"
-      ], 
-      "housenumber": "2H", 
-      "lat": 50.814344540938336, 
-      "lon": 3.2434681504808305, 
-      "municipality": "Kortrijk", 
-      "pcode": "8500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Engelse Wandeling"
     }, 
     {
       "busnrs": [
-        "11", 
         "20", 
-        "23", 
-        "25"
+        "23"
       ], 
       "hnrlbls": [
-        "2A-2J"
+        "2I"
       ], 
       "housenumber": "2I", 
-      "lat": 50.814344540938336, 
-      "lon": 3.2434681504808305, 
+      "lat": 50.81384290685391, 
+      "lon": 3.2420681343740325, 
       "municipality": "Kortrijk", 
       "pcode": "8500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Engelse Wandeling"
     }, 
     {
       "hnrlbls": [
-        "2A-2J"
+        "2J"
       ], 
       "housenumber": "2J", 
-      "lat": 50.814344540938336, 
-      "lon": 3.2434681504808305, 
+      "lat": 50.81350578226641, 
+      "lon": 3.2423700989601545, 
       "municipality": "Kortrijk", 
       "pcode": "8500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Engelse Wandeling"
     }, 
     {
-      "apptnrs": [
-        "14.0", 
-        "14.00", 
-        "15.0", 
-        "16g", 
-        "18.00", 
-        "2.0", 
-        "2G", 
-        "2L", 
-        "8.0", 
-        "8K", 
-        "8V"
-      ], 
       "busnrs": [
         "1", 
-        "12", 
+        "10", 
+        "11", 
+        "11G", 
+        "11K", 
         "13K", 
         "14G", 
+        "14K", 
         "14V", 
         "15", 
         "15V", 
         "16", 
-        "16L", 
+        "16G", 
         "16V", 
         "17", 
-        "17G", 
         "18", 
         "18G", 
-        "18V", 
-        "19", 
+        "1G", 
         "1K", 
-        "1L", 
         "2", 
+        "2G", 
+        "2V", 
         "3", 
         "3V", 
-        "4", 
-        "46", 
+        "4V", 
         "5", 
-        "7", 
-        "71", 
+        "5V", 
+        "7G", 
+        "7V", 
+        "8V", 
         "9", 
+        "9K", 
         "9V"
       ], 
       "hnrlbls": [
-        "2F-2L"
+        "2K"
       ], 
       "housenumber": "2K", 
-      "lat": 50.815097615208835, 
-      "lon": 3.245523937776635, 
+      "lat": 50.814666542448364, 
+      "lon": 3.243482448349121, 
       "municipality": "Kortrijk", 
       "pcode": "8500", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Engelse Wandeling"
     }, 
     {
       "busnrs": [
-        "3"
+        "0002", 
+        "0003"
       ], 
       "hnrlbls": [
-        "2F-2L"
+        "2L"
       ], 
       "housenumber": "2L", 
-      "lat": 50.815097615208835, 
-      "lon": 3.245523937776635, 
+      "lat": 50.81600895696456, 
+      "lon": 3.2472767170804526, 
       "municipality": "Kortrijk", 
       "pcode": "8500", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Engelse Wandeling"
     }, 
     {
@@ -510,18 +395,6 @@
     }, 
     {
       "hnrlbls": [
-        "34K"
-      ], 
-      "housenumber": "34K", 
-      "lat": 50.81306155408472, 
-      "lon": 3.2478399329298804, 
-      "municipality": "Kortrijk", 
-      "pcode": "8500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelKadaster", 
-      "street": "Engelse Wandeling"
-    }, 
-    {
-      "hnrlbls": [
         "36"
       ], 
       "housenumber": "36", 
@@ -542,18 +415,6 @@
       "municipality": "Kortrijk", 
       "pcode": "8500", 
       "source": "afgeleidVanGebouw", 
-      "street": "Engelse Wandeling"
-    }, 
-    {
-      "hnrlbls": [
-        "4-8"
-      ], 
-      "housenumber": "4", 
-      "lat": 50.814074765849334, 
-      "lon": 3.2454690194539104, 
-      "municipality": "Kortrijk", 
-      "pcode": "8500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Engelse Wandeling"
     }, 
     {
@@ -614,10 +475,10 @@
     }, 
     {
       "busnrs": [
-        "11"
+        "0011"
       ], 
       "hnrlbls": [
-        "5-5K"
+        "5"
       ], 
       "housenumber": "5", 
       "lat": 50.81390656789851, 
@@ -676,33 +537,6 @@
       "street": "Engelse Wandeling"
     }, 
     {
-      "apptnrs": [
-        "1L"
-      ], 
-      "hnrlbls": [
-        "5-5K"
-      ], 
-      "housenumber": "5K", 
-      "lat": 50.81390656789851, 
-      "lon": 3.248525245820588, 
-      "municipality": "Kortrijk", 
-      "pcode": "8500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Engelse Wandeling"
-    }, 
-    {
-      "hnrlbls": [
-        "4-8"
-      ], 
-      "housenumber": "6", 
-      "lat": 50.814074765849334, 
-      "lon": 3.2454690194539104, 
-      "municipality": "Kortrijk", 
-      "pcode": "8500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Engelse Wandeling"
-    }, 
-    {
       "hnrlbls": [
         "60"
       ], 
@@ -728,7 +562,7 @@
     }, 
     {
       "hnrlbls": [
-        "7-9"
+        "7"
       ], 
       "housenumber": "7", 
       "lat": 50.81420558050044, 
@@ -740,26 +574,14 @@
     }, 
     {
       "hnrlbls": [
-        "4-8"
-      ], 
-      "housenumber": "8", 
-      "lat": 50.814074765849334, 
-      "lon": 3.2454690194539104, 
-      "municipality": "Kortrijk", 
-      "pcode": "8500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Engelse Wandeling"
-    }, 
-    {
-      "hnrlbls": [
-        "7-9"
+        "9"
       ], 
       "housenumber": "9", 
-      "lat": 50.81420558050044, 
-      "lon": 3.248222527559759, 
+      "lat": 50.814652278935185, 
+      "lon": 3.2489048527403677, 
       "municipality": "Kortrijk", 
       "pcode": "8500", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Engelse Wandeling"
     }
   ]

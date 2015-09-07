@@ -2,18 +2,6 @@
   "addresses": [
     {
       "hnrlbls": [
-        "1"
-      ], 
-      "housenumber": "1", 
-      "lat": 51.1239425363288, 
-      "lon": 2.6438736154502473, 
-      "municipality": "Koksijde", 
-      "pcode": "8670", 
-      "source": "geinterpoleerdObvWegverbinding", 
-      "street": "Gaillystraat"
-    }, 
-    {
-      "hnrlbls": [
         "2-2A"
       ], 
       "housenumber": "2", 
@@ -21,10 +9,18 @@
       "lon": 2.643914927863883, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Gaillystraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "002", 
+        "101", 
+        "102", 
+        "201", 
+        "202"
+      ], 
       "hnrlbls": [
         "2-2A"
       ], 
@@ -33,15 +29,23 @@
       "lon": 2.643914927863883, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Gaillystraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
+        "001", 
+        "002", 
+        "003", 
+        "004", 
+        "101", 
         "102", 
         "103", 
         "104", 
-        "202"
+        "201", 
+        "202", 
+        "203", 
+        "204"
       ], 
       "hnrlbls": [
         "2-4"
@@ -51,7 +55,7 @@
       "lon": 2.643132962590731, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Gaillystraat"
     }, 
     {
@@ -63,7 +67,7 @@
       "lon": 2.6436703153540226, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Gaillystraat"
     }
   ]

@@ -1,7 +1,19 @@
 {
   "addresses": [
     {
-      "busnrs": [
+      "hnrlbls": [
+        "1"
+      ], 
+      "housenumber": "1", 
+      "lat": 51.11153895273885, 
+      "lon": 2.629626788444068, 
+      "municipality": "Koksijde", 
+      "pcode": "8670", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Marktplein"
+    }, 
+    {
+      "apptnrs": [
         "101", 
         "103", 
         "104", 
@@ -18,7 +30,13 @@
         "303", 
         "304", 
         "305", 
-        "306"
+        "306", 
+        "GV01", 
+        "GV02", 
+        "GV03", 
+        "GV04", 
+        "GV05", 
+        "GV06"
       ], 
       "hnrlbls": [
         "2-4"
@@ -28,11 +46,12 @@
       "lon": 2.6308972153121273, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Marktplein"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
+        "0202", 
         "101", 
         "102", 
         "103", 
@@ -40,11 +59,16 @@
         "105", 
         "106", 
         "201", 
-        "202", 
         "203", 
         "204", 
         "205", 
-        "206"
+        "206", 
+        "GV01", 
+        "GV02", 
+        "GV03", 
+        "GV04", 
+        "GV05", 
+        "GV06"
       ], 
       "hnrlbls": [
         "2-4"
@@ -54,19 +78,7 @@
       "lon": 2.6308972153121273, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Marktplein"
-    }, 
-    {
-      "hnrlbls": [
-        "8"
-      ], 
-      "housenumber": "8", 
-      "lat": 51.11153979502374, 
-      "lon": 2.630306232949351, 
-      "municipality": "Koksijde", 
-      "pcode": "8670", 
-      "source": "geinterpoleerdObvWegverbinding", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Marktplein"
     }
   ]

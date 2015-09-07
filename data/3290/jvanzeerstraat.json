@@ -26,18 +26,6 @@
     }, 
     {
       "hnrlbls": [
-        "12"
-      ], 
-      "housenumber": "12", 
-      "lat": 51.03841726144963, 
-      "lon": 5.08797215047697, 
-      "municipality": "Diest", 
-      "pcode": "3290", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "J.Vanzeerstraat"
-    }, 
-    {
-      "hnrlbls": [
         "13"
       ], 
       "housenumber": "13", 
@@ -53,11 +41,11 @@
         "14"
       ], 
       "housenumber": "14", 
-      "lat": 51.03836690589446, 
-      "lon": 5.088298030018669, 
+      "lat": 51.03824125866742, 
+      "lon": 5.088426273317552, 
       "municipality": "Diest", 
       "pcode": "3290", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "J.Vanzeerstraat"
     }, 
     {
@@ -110,6 +98,18 @@
     }, 
     {
       "hnrlbls": [
+        "2"
+      ], 
+      "housenumber": "2", 
+      "lat": 51.038543981557545, 
+      "lon": 5.086814480627921, 
+      "municipality": "Diest", 
+      "pcode": "3290", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "J.Vanzeerstraat"
+    }, 
+    {
+      "hnrlbls": [
         "20"
       ], 
       "housenumber": "20", 
@@ -137,11 +137,11 @@
         "23"
       ], 
       "housenumber": "23", 
-      "lat": 51.03775507350011, 
-      "lon": 5.089166906611732, 
+      "lat": 51.03782218312941, 
+      "lon": 5.089173643558484, 
       "municipality": "Diest", 
       "pcode": "3290", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "J.Vanzeerstraat"
     }, 
     {
@@ -149,11 +149,11 @@
         "25"
       ], 
       "housenumber": "25", 
-      "lat": 51.03763960279164, 
-      "lon": 5.089159852477433, 
+      "lat": 51.037724989810975, 
+      "lon": 5.089132509295613, 
       "municipality": "Diest", 
       "pcode": "3290", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "J.Vanzeerstraat"
     }, 
     {
@@ -184,24 +184,12 @@
       "hnrlbls": [
         "27-27BIS"
       ], 
-      "housenumber": "27B", 
-      "lat": 51.03760188582914, 
-      "lon": 5.089109511398428, 
-      "municipality": "Diest", 
-      "pcode": "3290", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "J.Vanzeerstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "27-27BIS"
-      ], 
       "housenumber": "27BIS", 
       "lat": 51.03760188582914, 
       "lon": 5.089109511398428, 
       "municipality": "Diest", 
       "pcode": "3290", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "J.Vanzeerstraat"
     }, 
     {
@@ -509,11 +497,31 @@
         "6"
       ], 
       "housenumber": "6", 
-      "lat": 51.03825452299529, 
-      "lon": 5.08707951443178, 
+      "lat": 51.038446051842946, 
+      "lon": 5.087261966481312, 
       "municipality": "Diest", 
       "pcode": "3290", 
-      "source": "geinterpoleerdObvWegverbinding", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "J.Vanzeerstraat"
+    }, 
+    {
+      "apptnrs": [
+        "A000", 
+        "A001", 
+        "A002", 
+        "B001", 
+        "B002", 
+        "C000"
+      ], 
+      "hnrlbls": [
+        "60"
+      ], 
+      "housenumber": "60", 
+      "lat": 51.038343072661, 
+      "lon": 5.094184705348158, 
+      "municipality": "Diest", 
+      "pcode": "3290", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "J.Vanzeerstraat"
     }, 
     {
@@ -526,6 +534,30 @@
       "municipality": "Diest", 
       "pcode": "3290", 
       "source": "afgeleidVanGebouw", 
+      "street": "J.Vanzeerstraat"
+    }, 
+    {
+      "apptnrs": [
+        "B000"
+      ], 
+      "busnrs": [
+        "A000", 
+        "A001", 
+        "A002", 
+        "B001", 
+        "B002", 
+        "C000", 
+        "C001"
+      ], 
+      "hnrlbls": [
+        "62"
+      ], 
+      "housenumber": "62", 
+      "lat": 51.03840286754159, 
+      "lon": 5.094488333599815, 
+      "municipality": "Diest", 
+      "pcode": "3290", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "J.Vanzeerstraat"
     }, 
     {
@@ -578,7 +610,7 @@
     }, 
     {
       "busnrs": [
-        "1"
+        "0001"
       ], 
       "hnrlbls": [
         "70"
@@ -604,8 +636,14 @@
       "street": "J.Vanzeerstraat"
     }, 
     {
+      "apptnrs": [
+        "A000", 
+        "A001", 
+        "B000", 
+        "B001"
+      ], 
       "hnrlbls": [
-        "72-72B"
+        "72"
       ], 
       "housenumber": "72", 
       "lat": 51.03861871867671, 
@@ -613,36 +651,6 @@
       "municipality": "Diest", 
       "pcode": "3290", 
       "source": "afgeleidVanGebouw", 
-      "street": "J.Vanzeerstraat"
-    }, 
-    {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "72-72B"
-      ], 
-      "housenumber": "72A", 
-      "lat": 51.03861871867671, 
-      "lon": 5.09534518066235, 
-      "municipality": "Diest", 
-      "pcode": "3290", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "J.Vanzeerstraat"
-    }, 
-    {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "72-72B"
-      ], 
-      "housenumber": "72B", 
-      "lat": 51.03861871867671, 
-      "lon": 5.09534518066235, 
-      "municipality": "Diest", 
-      "pcode": "3290", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "J.Vanzeerstraat"
     }, 
     {
@@ -658,66 +666,26 @@
       "street": "J.Vanzeerstraat"
     }, 
     {
-      "busnrs": [
-        "2"
+      "apptnrs": [
+        "A000", 
+        "A001", 
+        "A002", 
+        "B000", 
+        "B001", 
+        "B002", 
+        "C000", 
+        "C001", 
+        "C002"
       ], 
       "hnrlbls": [
-        "74-76B"
+        "74"
       ], 
       "housenumber": "74", 
-      "lat": 51.038862028997414, 
-      "lon": 5.095525193433949, 
+      "lat": 51.03874860840734, 
+      "lon": 5.095506463521792, 
       "municipality": "Diest", 
       "pcode": "3290", 
-      "source": "afgeleidVanGebouw", 
-      "street": "J.Vanzeerstraat"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
-      "hnrlbls": [
-        "74-76B"
-      ], 
-      "housenumber": "74A", 
-      "lat": 51.038862028997414, 
-      "lon": 5.095525193433949, 
-      "municipality": "Diest", 
-      "pcode": "3290", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "J.Vanzeerstraat"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
-      "hnrlbls": [
-        "74-76B"
-      ], 
-      "housenumber": "74B", 
-      "lat": 51.038862028997414, 
-      "lon": 5.095525193433949, 
-      "municipality": "Diest", 
-      "pcode": "3290", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "J.Vanzeerstraat"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
-      "hnrlbls": [
-        "74-76B"
-      ], 
-      "housenumber": "74C", 
-      "lat": 51.038862028997414, 
-      "lon": 5.095525193433949, 
-      "municipality": "Diest", 
-      "pcode": "3290", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "J.Vanzeerstraat"
     }, 
     {
@@ -733,8 +701,16 @@
       "street": "J.Vanzeerstraat"
     }, 
     {
+      "apptnrs": [
+        "A000", 
+        "A001", 
+        "A002", 
+        "B000", 
+        "B001", 
+        "B002"
+      ], 
       "hnrlbls": [
-        "74-76B"
+        "76"
       ], 
       "housenumber": "76", 
       "lat": 51.038862028997414, 
@@ -742,38 +718,6 @@
       "municipality": "Diest", 
       "pcode": "3290", 
       "source": "afgeleidVanGebouw", 
-      "street": "J.Vanzeerstraat"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
-      "hnrlbls": [
-        "74-76B"
-      ], 
-      "housenumber": "76A", 
-      "lat": 51.038862028997414, 
-      "lon": 5.095525193433949, 
-      "municipality": "Diest", 
-      "pcode": "3290", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "J.Vanzeerstraat"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
-      "hnrlbls": [
-        "74-76B"
-      ], 
-      "housenumber": "76B", 
-      "lat": 51.038862028997414, 
-      "lon": 5.095525193433949, 
-      "municipality": "Diest", 
-      "pcode": "3290", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "J.Vanzeerstraat"
     }, 
     {
@@ -802,17 +746,17 @@
     }, 
     {
       "busnrs": [
-        "1"
+        "0001"
       ], 
       "hnrlbls": [
         "79"
       ], 
       "housenumber": "79", 
-      "lat": 51.038244679676666, 
-      "lon": 5.09537259094797, 
+      "lat": 51.03823166843911, 
+      "lon": 5.095397910813728, 
       "municipality": "Diest", 
       "pcode": "3290", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "J.Vanzeerstraat"
     }, 
     {
@@ -868,47 +812,47 @@
         "83"
       ], 
       "housenumber": "83", 
-      "lat": 51.03824011456503, 
-      "lon": 5.095485872020114, 
+      "lat": 51.03827714240526, 
+      "lon": 5.09556001932394, 
       "municipality": "Diest", 
       "pcode": "3290", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "J.Vanzeerstraat"
     }, 
     {
       "hnrlbls": [
-        "85-85B"
+        "85"
       ], 
       "housenumber": "85", 
-      "lat": 51.03902388608532, 
-      "lon": 5.096259304808066, 
+      "lat": 51.03892327624079, 
+      "lon": 5.096131410993882, 
       "municipality": "Diest", 
       "pcode": "3290", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "J.Vanzeerstraat"
     }, 
     {
       "hnrlbls": [
-        "85-85B"
+        "85A"
       ], 
       "housenumber": "85A", 
-      "lat": 51.03902388608532, 
-      "lon": 5.096259304808066, 
+      "lat": 51.03905193469542, 
+      "lon": 5.0962881152706965, 
       "municipality": "Diest", 
       "pcode": "3290", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "J.Vanzeerstraat"
     }, 
     {
       "hnrlbls": [
-        "85-85B"
+        "85B"
       ], 
       "housenumber": "85B", 
-      "lat": 51.03902388608532, 
-      "lon": 5.096259304808066, 
+      "lat": 51.03901191462868, 
+      "lon": 5.096232740634084, 
       "municipality": "Diest", 
       "pcode": "3290", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "J.Vanzeerstraat"
     }
   ]

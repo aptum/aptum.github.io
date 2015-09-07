@@ -58,6 +58,11 @@
       "street": "Peter Benoitstraat"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3"
+      ], 
       "hnrlbls": [
         "13"
       ], 
@@ -113,6 +118,7 @@
     {
       "busnrs": [
         "101", 
+        "2", 
         "3"
       ], 
       "hnrlbls": [
@@ -178,21 +184,15 @@
       "street": "Peter Benoitstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "201", 
-        "3"
-      ], 
       "hnrlbls": [
         "2"
       ], 
       "housenumber": "2", 
-      "lat": 51.22486921038026, 
-      "lon": 2.910551000931979, 
+      "lat": 51.22489615223583, 
+      "lon": 2.910767494705322, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Peter Benoitstraat"
     }, 
     {
@@ -224,7 +224,7 @@
         "301"
       ], 
       "hnrlbls": [
-        "22-22B"
+        "22"
       ], 
       "housenumber": "22", 
       "lat": 51.2246151364242, 
@@ -236,11 +236,11 @@
     }, 
     {
       "hnrlbls": [
-        "22-22B"
+        "22B"
       ], 
       "housenumber": "22B", 
-      "lat": 51.2246151364242, 
-      "lon": 2.9114690875293956, 
+      "lat": 51.22461539191849, 
+      "lon": 2.911467934172307, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
@@ -294,7 +294,9 @@
     }, 
     {
       "busnrs": [
-        "201"
+        "1", 
+        "201", 
+        "3"
       ], 
       "hnrlbls": [
         "25"
@@ -528,20 +530,15 @@
       "street": "Peter Benoitstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "101", 
-        "2"
-      ], 
       "hnrlbls": [
         "4"
       ], 
       "housenumber": "4", 
-      "lat": 51.22488631108959, 
-      "lon": 2.9106473941567197, 
+      "lat": 51.224863792538194, 
+      "lon": 2.9108481102187853, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Peter Benoitstraat"
     }, 
     {
@@ -697,6 +694,7 @@
     }, 
     {
       "busnrs": [
+        "1", 
         "4"
       ], 
       "hnrlbls": [
@@ -714,6 +712,7 @@
       "busnrs": [
         "104", 
         "2", 
+        "201", 
         "3", 
         "4"
       ], 
@@ -849,23 +848,21 @@
       "street": "Peter Benoitstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "301"
-      ], 
       "hnrlbls": [
         "6"
       ], 
       "housenumber": "6", 
-      "lat": 51.224870998357126, 
-      "lon": 2.9109002861403663, 
+      "lat": 51.22483168272059, 
+      "lon": 2.9109052375251188, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Peter Benoitstraat"
     }, 
     {
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "60"
       ], 

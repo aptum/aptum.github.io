@@ -42,10 +42,11 @@
         "11", 
         "12", 
         "21", 
-        "22"
+        "22", 
+        "A000"
       ], 
       "hnrlbls": [
-        "1H-13A"
+        "1H-13"
       ], 
       "housenumber": "13", 
       "lat": 50.82967184777634, 
@@ -53,18 +54,6 @@
       "municipality": "Kortrijk", 
       "pcode": "8500", 
       "source": "afgeleidVanGebouw", 
-      "street": "Vredelaan"
-    }, 
-    {
-      "hnrlbls": [
-        "1H-13A"
-      ], 
-      "housenumber": "13A", 
-      "lat": 50.82967184777634, 
-      "lon": 3.2869944452288324, 
-      "municipality": "Kortrijk", 
-      "pcode": "8500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Vredelaan"
     }, 
     {
@@ -129,7 +118,7 @@
     }, 
     {
       "hnrlbls": [
-        "1H-13A"
+        "1H-13"
       ], 
       "housenumber": "1H", 
       "lat": 50.82967184777634, 
@@ -140,6 +129,9 @@
       "street": "Vredelaan"
     }, 
     {
+      "busnrs": [
+        "A000"
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -176,6 +168,7 @@
         "23", 
         "24", 
         "3", 
+        "31", 
         "32", 
         "33", 
         "4"
@@ -238,27 +231,24 @@
       "street": "Vredelaan"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "11", 
-        "12", 
-        "2", 
-        "21", 
-        "22", 
-        "28", 
-        "31", 
-        "32", 
-        "41", 
-        "42", 
-        "51", 
-        "52"
-      ], 
       "hnrlbls": [
-        "24-28"
+        "24"
       ], 
       "housenumber": "24", 
-      "lat": 50.82898024640521, 
-      "lon": 3.2866574454369926, 
+      "lat": 50.82911809004566, 
+      "lon": 3.286601042124254, 
+      "municipality": "Kortrijk", 
+      "pcode": "8500", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Vredelaan"
+    }, 
+    {
+      "hnrlbls": [
+        "24A"
+      ], 
+      "housenumber": "24A", 
+      "lat": 50.828980245096005, 
+      "lon": 3.286657303512184, 
       "municipality": "Kortrijk", 
       "pcode": "8500", 
       "source": "afgeleidVanGebouw", 
@@ -266,29 +256,14 @@
     }, 
     {
       "hnrlbls": [
-        "24A-24C"
-      ], 
-      "housenumber": "24A", 
-      "lat": 50.828980245096005, 
-      "lon": 3.286657303512184, 
-      "municipality": "Kortrijk", 
-      "pcode": "8500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Vredelaan"
-    }, 
-    {
-      "busnrs": [
-        "41"
-      ], 
-      "hnrlbls": [
-        "24A-24C"
+        "24C"
       ], 
       "housenumber": "24C", 
-      "lat": 50.828980245096005, 
-      "lon": 3.286657303512184, 
+      "lat": 50.82904801302878, 
+      "lon": 3.2866355873922797, 
       "municipality": "Kortrijk", 
       "pcode": "8500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Vredelaan"
     }, 
     {
@@ -304,32 +279,15 @@
       "street": "Vredelaan"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "11", 
-        "12", 
-        "2", 
-        "21", 
-        "22", 
-        "3", 
-        "31", 
-        "32", 
-        "4", 
-        "41", 
-        "42", 
-        "5", 
-        "51", 
-        "52"
-      ], 
       "hnrlbls": [
-        "24-28"
+        "26"
       ], 
       "housenumber": "26", 
-      "lat": 50.82898024640521, 
-      "lon": 3.2866574454369926, 
+      "lat": 50.828925333926, 
+      "lon": 3.286688802690003, 
       "municipality": "Kortrijk", 
       "pcode": "8500", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Vredelaan"
     }, 
     {
@@ -345,31 +303,15 @@
       "street": "Vredelaan"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "11", 
-        "12", 
-        "2", 
-        "21", 
-        "22", 
-        "3", 
-        "31", 
-        "32", 
-        "41", 
-        "42", 
-        "5", 
-        "51", 
-        "52"
-      ], 
       "hnrlbls": [
-        "24-28"
+        "28"
       ], 
       "housenumber": "28", 
-      "lat": 50.82898024640521, 
-      "lon": 3.2866574454369926, 
+      "lat": 50.82885213312328, 
+      "lon": 3.286725832746506, 
       "municipality": "Kortrijk", 
       "pcode": "8500", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Vredelaan"
     }, 
     {
@@ -382,18 +324,6 @@
       "municipality": "Kortrijk", 
       "pcode": "8500", 
       "source": "afgeleidVanGebouw", 
-      "street": "Vredelaan"
-    }, 
-    {
-      "hnrlbls": [
-        "2A"
-      ], 
-      "housenumber": "2A", 
-      "lat": 50.83026601987553, 
-      "lon": 3.286184395795347, 
-      "municipality": "Kortrijk", 
-      "pcode": "8500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Vredelaan"
     }, 
     {
@@ -428,11 +358,11 @@
         "31"
       ], 
       "housenumber": "31", 
-      "lat": 50.82891100740363, 
-      "lon": 3.28740685509897, 
+      "lat": 50.82893251007958, 
+      "lon": 3.2873500048986997, 
       "municipality": "Kortrijk", 
       "pcode": "8500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Vredelaan"
     }, 
     {
@@ -983,19 +913,15 @@
       "street": "Vredelaan"
     }, 
     {
-      "busnrs": [
-        "11", 
-        "12"
-      ], 
       "hnrlbls": [
         "77"
       ], 
       "housenumber": "77", 
-      "lat": 50.82695719695088, 
-      "lon": 3.28902781183317, 
+      "lat": 50.82687435005373, 
+      "lon": 3.288495702577054, 
       "municipality": "Kortrijk", 
       "pcode": "8500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Vredelaan"
     }, 
     {
@@ -1024,8 +950,8 @@
         "79"
       ], 
       "housenumber": "79", 
-      "lat": 50.82692734409358, 
-      "lon": 3.288968736454135, 
+      "lat": 50.826826699822384, 
+      "lon": 3.288534696710756, 
       "municipality": "Kortrijk", 
       "pcode": "8500", 
       "source": "manueleAanduidingVanPerceel", 
@@ -1093,7 +1019,7 @@
     }, 
     {
       "hnrlbls": [
-        "84"
+        "84-86"
       ], 
       "housenumber": "84", 
       "lat": 50.826420088983305, 
@@ -1117,14 +1043,14 @@
     }, 
     {
       "hnrlbls": [
-        "86"
+        "84-86"
       ], 
       "housenumber": "86", 
-      "lat": 50.82639175626178, 
-      "lon": 3.287970505533336, 
+      "lat": 50.826420088983305, 
+      "lon": 3.287942600926614, 
       "municipality": "Kortrijk", 
       "pcode": "8500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Vredelaan"
     }, 
     {

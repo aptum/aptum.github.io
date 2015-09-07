@@ -218,7 +218,7 @@
     }, 
     {
       "hnrlbls": [
-        "109-117"
+        "109"
       ], 
       "housenumber": "109", 
       "lat": 51.095866075578975, 
@@ -290,14 +290,14 @@
     }, 
     {
       "hnrlbls": [
-        "109-117"
+        "117"
       ], 
       "housenumber": "117", 
-      "lat": 51.095866075578975, 
-      "lon": 4.237487810371508, 
+      "lat": 51.09576494189247, 
+      "lon": 4.237640303805678, 
       "municipality": "Bornem", 
       "pcode": "2880", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Nieuwe Kouterstraat"
     }, 
     {
@@ -458,7 +458,8 @@
     }, 
     {
       "busnrs": [
-        "1"
+        "1", 
+        "BGVL"
       ], 
       "hnrlbls": [
         "25"
@@ -484,6 +485,9 @@
       "street": "Nieuwe Kouterstraat"
     }, 
     {
+      "busnrs": [
+        "AGVL"
+      ], 
       "hnrlbls": [
         "28-28A"
       ], 
@@ -834,18 +838,20 @@
       "street": "Nieuwe Kouterstraat"
     }, 
     {
-      "busnrs": [
-        "5"
+      "apptnrs": [
+        "0001", 
+        "0002", 
+        "GVL"
       ], 
       "hnrlbls": [
         "51"
       ], 
       "housenumber": "51", 
-      "lat": 51.097797182706245, 
-      "lon": 4.238256583733948, 
+      "lat": 51.09782360103428, 
+      "lon": 4.238006888399835, 
       "municipality": "Bornem", 
       "pcode": "2880", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Nieuwe Kouterstraat"
     }, 
     {
@@ -867,15 +873,19 @@
       "street": "Nieuwe Kouterstraat"
     }, 
     {
+      "apptnrs": [
+        "0001", 
+        "GVL"
+      ], 
       "hnrlbls": [
         "53"
       ], 
       "housenumber": "53", 
-      "lat": 51.097798464645464, 
-      "lon": 4.2379516530549, 
+      "lat": 51.0977731445683, 
+      "lon": 4.237987215341505, 
       "municipality": "Bornem", 
       "pcode": "2880", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Nieuwe Kouterstraat"
     }, 
     {
@@ -919,7 +929,7 @@
         "1"
       ], 
       "hnrlbls": [
-        "57-57A"
+        "57"
       ], 
       "housenumber": "57", 
       "lat": 51.097652400991535, 
@@ -931,14 +941,14 @@
     }, 
     {
       "hnrlbls": [
-        "57-57A"
+        "57A"
       ], 
       "housenumber": "57A", 
-      "lat": 51.097652400991535, 
-      "lon": 4.238037284680929, 
+      "lat": 51.097563425190856, 
+      "lon": 4.237805126292627, 
       "municipality": "Bornem", 
       "pcode": "2880", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "geinterpoleerdObvWegverbinding", 
       "street": "Nieuwe Kouterstraat"
     }, 
     {
@@ -1408,8 +1418,8 @@
         "98"
       ], 
       "housenumber": "98", 
-      "lat": 51.09624829597156, 
-      "lon": 4.237258768940642, 
+      "lat": 51.09624829581322, 
+      "lon": 4.237258626189674, 
       "municipality": "Bornem", 
       "pcode": "2880", 
       "source": "afgeleidVanGebouw", 

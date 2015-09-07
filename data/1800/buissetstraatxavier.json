@@ -1,6 +1,24 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "01/1", 
+        "02/1", 
+        "03/1", 
+        "04/1"
+      ], 
+      "hnrlbls": [
+        "1"
+      ], 
+      "housenumber": "1", 
+      "lat": 50.92688022796429, 
+      "lon": 4.431370982949458, 
+      "municipality": "Vilvoorde", 
+      "pcode": "1800", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Buissetstraat (Xavier)"
+    }, 
+    {
       "hnrlbls": [
         "10"
       ], 
@@ -156,24 +174,15 @@
         "3", 
         "4"
       ], 
+      "busnrs": [
+        "00/1"
+      ], 
       "hnrlbls": [
         "1A"
       ], 
       "housenumber": "1A", 
       "lat": 50.92683167439938, 
       "lon": 4.431391968354148, 
-      "municipality": "Vilvoorde", 
-      "pcode": "1800", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Buissetstraat (Xavier)"
-    }, 
-    {
-      "hnrlbls": [
-        "1B"
-      ], 
-      "housenumber": "1B", 
-      "lat": 50.92688022796429, 
-      "lon": 4.431370982949458, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
       "source": "manueleAanduidingVanPerceel", 
@@ -523,7 +532,8 @@
     {
       "busnrs": [
         "00/1", 
-        "01/1"
+        "01/1", 
+        "02/1"
       ], 
       "hnrlbls": [
         "45"

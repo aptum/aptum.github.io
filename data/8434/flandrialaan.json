@@ -1,18 +1,25 @@
 {
   "addresses": [
     {
-      "busnrs": [
-        "101"
+      "apptnrs": [
+        "0001", 
+        "0101", 
+        "0201", 
+        "0301", 
+        "0401", 
+        "0501", 
+        "0601", 
+        "0801"
       ], 
       "hnrlbls": [
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 51.16920040100393, 
-      "lon": 2.770306886515134, 
+      "lat": 51.16920031113908, 
+      "lon": 2.7703068895914305, 
       "municipality": "Middelkerke", 
       "pcode": "8434", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Flandrialaan"
     }, 
     {
@@ -20,32 +27,37 @@
         "10"
       ], 
       "housenumber": "10", 
-      "lat": 51.16855132901723, 
-      "lon": 2.7709554692131024, 
+      "lat": 51.168551418882124, 
+      "lon": 2.770955466138097, 
       "municipality": "Middelkerke", 
       "pcode": "8434", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Flandrialaan"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "102", 
-        "107", 
-        "2", 
-        "201", 
-        "204", 
-        "4"
+      "apptnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0104", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0204"
       ], 
       "hnrlbls": [
-        "11"
+        "11-95"
       ], 
       "housenumber": "11", 
       "lat": 51.16881381351636, 
       "lon": 2.77114512304122, 
       "municipality": "Middelkerke", 
       "pcode": "8434", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Flandrialaan"
     }, 
     {
@@ -57,30 +69,37 @@
       "lon": 2.771115548254443, 
       "municipality": "Middelkerke", 
       "pcode": "8434", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Flandrialaan"
     }, 
     {
-      "busnrs": [
-        "101", 
-        "102", 
-        "201", 
-        "202"
+      "apptnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202"
       ], 
       "hnrlbls": [
         "13"
       ], 
       "housenumber": "13", 
-      "lat": 51.16869301804932, 
-      "lon": 2.7712942638485103, 
+      "lat": 51.16869310791422, 
+      "lon": 2.7712942607741473, 
       "municipality": "Middelkerke", 
       "pcode": "8434", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Flandrialaan"
     }, 
     {
-      "busnrs": [
-        "101"
+      "apptnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202"
       ], 
       "hnrlbls": [
         "15"
@@ -90,13 +109,17 @@
       "lon": 2.7714050791803535, 
       "municipality": "Middelkerke", 
       "pcode": "8434", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Flandrialaan"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "201"
+      "apptnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202"
       ], 
       "hnrlbls": [
         "17"
@@ -106,83 +129,119 @@
       "lon": 2.7715409730012412, 
       "municipality": "Middelkerke", 
       "pcode": "8434", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Flandrialaan"
     }, 
     {
-      "busnrs": [
-        "101", 
-        "103", 
-        "105", 
-        "2", 
-        "205", 
-        "3", 
-        "303", 
-        "403", 
-        "605", 
-        "901"
+      "apptnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0104", 
+        "0105", 
+        "0201", 
+        "0202", 
+        "0204", 
+        "0205", 
+        "0301", 
+        "0302", 
+        "0303", 
+        "0304", 
+        "0305", 
+        "0401", 
+        "0402", 
+        "0403", 
+        "0404", 
+        "0405", 
+        "0501", 
+        "0502", 
+        "0504", 
+        "0505", 
+        "0601", 
+        "0602", 
+        "0603", 
+        "0604", 
+        "0605", 
+        "0701", 
+        "0702", 
+        "0703", 
+        "0704", 
+        "0705", 
+        "0801", 
+        "0802", 
+        "0803", 
+        "0804", 
+        "0805", 
+        "0901", 
+        "0902", 
+        "0903", 
+        "0904", 
+        "0905"
       ], 
       "hnrlbls": [
-        "2-4"
+        "2"
       ], 
       "housenumber": "2", 
       "lat": 51.16903584655565, 
       "lon": 2.7698797806918676, 
       "municipality": "Middelkerke", 
       "pcode": "8434", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Flandrialaan"
     }, 
     {
-      "busnrs": [
-        "201"
+      "apptnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302"
       ], 
       "hnrlbls": [
         "3"
       ], 
       "housenumber": "3", 
-      "lat": 51.16913444110085, 
-      "lon": 2.7704022421710874, 
+      "lat": 51.169134530965714, 
+      "lon": 2.7704022390949783, 
       "municipality": "Middelkerke", 
       "pcode": "8434", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Flandrialaan"
     }, 
     {
-      "hnrlbls": [
-        "2-4"
-      ], 
-      "housenumber": "4", 
-      "lat": 51.16903584655565, 
-      "lon": 2.7698797806918676, 
-      "municipality": "Middelkerke", 
-      "pcode": "8434", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Flandrialaan"
-    }, 
-    {
-      "busnrs": [
-        "2"
+      "apptnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202"
       ], 
       "hnrlbls": [
         "5"
       ], 
       "housenumber": "5", 
-      "lat": 51.169102224336505, 
-      "lon": 2.7705462090533133, 
+      "lat": 51.16910213447163, 
+      "lon": 2.770546212129143, 
       "municipality": "Middelkerke", 
       "pcode": "8434", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Flandrialaan"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "101", 
-        "102", 
-        "103", 
-        "2", 
-        "201"
+      "apptnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0201"
       ], 
       "hnrlbls": [
         "6"
@@ -192,24 +251,27 @@
       "lon": 2.7701365744382187, 
       "municipality": "Middelkerke", 
       "pcode": "8434", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Flandrialaan"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "101", 
-        "2"
+      "apptnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202"
       ], 
       "hnrlbls": [
         "7"
       ], 
       "housenumber": "7", 
-      "lat": 51.16906382587157, 
-      "lon": 2.770665218067307, 
+      "lat": 51.16906391573644, 
+      "lon": 2.770665214991709, 
       "municipality": "Middelkerke", 
       "pcode": "8434", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Flandrialaan"
     }, 
     {
@@ -217,14 +279,22 @@
         "8"
       ], 
       "housenumber": "8", 
-      "lat": 51.1685994442097, 
-      "lon": 2.7709100631063395, 
+      "lat": 51.168599354344806, 
+      "lon": 2.770910066181435, 
       "municipality": "Middelkerke", 
       "pcode": "8434", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Flandrialaan"
     }, 
     {
+      "apptnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202"
+      ], 
       "hnrlbls": [
         "9"
       ], 
@@ -233,7 +303,7 @@
       "lon": 2.7707759504880825, 
       "municipality": "Middelkerke", 
       "pcode": "8434", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Flandrialaan"
     }
   ]

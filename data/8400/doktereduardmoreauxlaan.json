@@ -39,7 +39,9 @@
     {
       "busnrs": [
         "1", 
-        "2"
+        "101", 
+        "2", 
+        "201"
       ], 
       "hnrlbls": [
         "105"
@@ -154,20 +156,9 @@
       "street": "Dokter Eduard Moreauxlaan"
     }, 
     {
-      "hnrlbls": [
-        "121"
-      ], 
-      "housenumber": "121", 
-      "lat": 51.23149029241359, 
-      "lon": 2.9411167164377514, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Dokter Eduard Moreauxlaan"
-    }, 
-    {
       "busnrs": [
         "1", 
+        "101", 
         "102", 
         "2", 
         "201", 
@@ -246,6 +237,7 @@
     {
       "busnrs": [
         "1", 
+        "201", 
         "3"
       ], 
       "hnrlbls": [
@@ -262,7 +254,8 @@
     {
       "busnrs": [
         "1", 
-        "2"
+        "2", 
+        "201"
       ], 
       "hnrlbls": [
         "137"
@@ -301,7 +294,7 @@
         "5"
       ], 
       "hnrlbls": [
-        "145-145O"
+        "145"
       ], 
       "housenumber": "145", 
       "lat": 51.232715866428855, 
@@ -309,18 +302,6 @@
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
-      "street": "Dokter Eduard Moreauxlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "145-145O"
-      ], 
-      "housenumber": "145O", 
-      "lat": 51.232715866428855, 
-      "lon": 2.940979818715811, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Dokter Eduard Moreauxlaan"
     }, 
     {
@@ -338,8 +319,10 @@
     {
       "busnrs": [
         "1", 
+        "101", 
         "2", 
-        "201"
+        "201", 
+        "3"
       ], 
       "hnrlbls": [
         "149"
@@ -470,6 +453,7 @@
         "10", 
         "101", 
         "11", 
+        "11a", 
         "2", 
         "4", 
         "6", 
@@ -534,18 +518,15 @@
       "street": "Dokter Eduard Moreauxlaan"
     }, 
     {
-      "busnrs": [
-        "A"
-      ], 
       "hnrlbls": [
-        "1-17_11"
+        "181"
       ], 
-      "housenumber": "17_11", 
-      "lat": 51.22753848757878, 
-      "lon": 2.9417299359231017, 
+      "housenumber": "181", 
+      "lat": 51.23406867899789, 
+      "lon": 2.9408380151998816, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Dokter Eduard Moreauxlaan"
     }, 
     {
@@ -553,6 +534,7 @@
         "1", 
         "2", 
         "3", 
+        "301", 
         "4"
       ], 
       "hnrlbls": [
@@ -667,17 +649,17 @@
     }, 
     {
       "busnrs": [
-        "F"
+        "2F"
       ], 
       "hnrlbls": [
-        "1-346A"
+        "197"
       ], 
-      "housenumber": "197_2", 
-      "lat": 51.21019494141423, 
-      "lon": 2.92423265140856, 
+      "housenumber": "197", 
+      "lat": 51.234512826999136, 
+      "lon": 2.9407297588456087, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Dokter Eduard Moreauxlaan"
     }, 
     {
@@ -724,7 +706,7 @@
         "4"
       ], 
       "hnrlbls": [
-        "21-21O"
+        "21"
       ], 
       "housenumber": "21", 
       "lat": 51.22787245043381, 
@@ -759,6 +741,7 @@
     }, 
     {
       "busnrs": [
+        "0OOO", 
         "1", 
         "2", 
         "3", 
@@ -799,18 +782,6 @@
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
-      "street": "Dokter Eduard Moreauxlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "21-21O"
-      ], 
-      "housenumber": "21O", 
-      "lat": 51.22787245043381, 
-      "lon": 2.941601879708583, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Dokter Eduard Moreauxlaan"
     }, 
     {
@@ -860,63 +831,21 @@
       "street": "Dokter Eduard Moreauxlaan"
     }, 
     {
+      "busnrs": [
+        "A", 
+        "B", 
+        "C", 
+        "D"
+      ], 
       "hnrlbls": [
-        "227-227D"
+        "227"
       ], 
       "housenumber": "227", 
-      "lat": 51.235684050322504, 
-      "lon": 2.9406483515980852, 
+      "lat": 51.235675967698874, 
+      "lon": 2.940567115691139, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dokter Eduard Moreauxlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "227-227D"
-      ], 
-      "housenumber": "227A", 
-      "lat": 51.235684050322504, 
-      "lon": 2.9406483515980852, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Dokter Eduard Moreauxlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "227-227D"
-      ], 
-      "housenumber": "227B", 
-      "lat": 51.235684050322504, 
-      "lon": 2.9406483515980852, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Dokter Eduard Moreauxlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "227-227D"
-      ], 
-      "housenumber": "227C", 
-      "lat": 51.235684050322504, 
-      "lon": 2.9406483515980852, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Dokter Eduard Moreauxlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "227-227D"
-      ], 
-      "housenumber": "227D", 
-      "lat": 51.235684050322504, 
-      "lon": 2.9406483515980852, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Dokter Eduard Moreauxlaan"
     }, 
     {
@@ -973,29 +902,17 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "10", 
-        "11", 
-        "12", 
-        "13", 
-        "14", 
-        "15", 
-        "3", 
-        "4", 
-        "6", 
-        "7", 
-        "8", 
-        "9"
+        "13A"
       ], 
       "hnrlbls": [
         "233"
       ], 
       "housenumber": "233", 
-      "lat": 51.23601136044611, 
-      "lon": 2.9406694028680898, 
+      "lat": 51.235958432823054, 
+      "lon": 2.9404702496879658, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Dokter Eduard Moreauxlaan"
     }, 
     {
@@ -1419,100 +1336,24 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "5", 
-        "A"
+        "1a", 
+        "1b", 
+        "2a", 
+        "2b", 
+        "3a", 
+        "3b", 
+        "4a", 
+        "4b"
       ], 
       "hnrlbls": [
-        "39-39_4"
+        "39"
       ], 
       "housenumber": "39", 
-      "lat": 51.22832690999328, 
-      "lon": 2.9415657796213783, 
+      "lat": 51.2283197907569, 
+      "lon": 2.941467488249826, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dokter Eduard Moreauxlaan"
-    }, 
-    {
-      "busnrs": [
-        "3"
-      ], 
-      "hnrlbls": [
-        "39-39_4"
-      ], 
-      "housenumber": "39A", 
-      "lat": 51.22832690999328, 
-      "lon": 2.9415657796213783, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Dokter Eduard Moreauxlaan"
-    }, 
-    {
-      "busnrs": [
-        "A", 
-        "B"
-      ], 
-      "hnrlbls": [
-        "39-39_4"
-      ], 
-      "housenumber": "39_1", 
-      "lat": 51.22832690999328, 
-      "lon": 2.9415657796213783, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Dokter Eduard Moreauxlaan"
-    }, 
-    {
-      "busnrs": [
-        "A", 
-        "B"
-      ], 
-      "hnrlbls": [
-        "39-39_4"
-      ], 
-      "housenumber": "39_2", 
-      "lat": 51.22832690999328, 
-      "lon": 2.9415657796213783, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Dokter Eduard Moreauxlaan"
-    }, 
-    {
-      "busnrs": [
-        "A", 
-        "B"
-      ], 
-      "hnrlbls": [
-        "39-39_4"
-      ], 
-      "housenumber": "39_3", 
-      "lat": 51.22832690999328, 
-      "lon": 2.9415657796213783, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Dokter Eduard Moreauxlaan"
-    }, 
-    {
-      "busnrs": [
-        "A", 
-        "B"
-      ], 
-      "hnrlbls": [
-        "39-39_4"
-      ], 
-      "housenumber": "39_4", 
-      "lat": 51.22832690999328, 
-      "lon": 2.9415657796213783, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Dokter Eduard Moreauxlaan"
     }, 
     {
@@ -1537,7 +1378,7 @@
         "5"
       ], 
       "hnrlbls": [
-        "41-41O"
+        "41"
       ], 
       "housenumber": "41", 
       "lat": 51.22839909597138, 
@@ -1549,26 +1390,14 @@
     }, 
     {
       "hnrlbls": [
-        "41-41O"
-      ], 
-      "housenumber": "41O", 
-      "lat": 51.22839909597138, 
-      "lon": 2.941535650064267, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Dokter Eduard Moreauxlaan"
-    }, 
-    {
-      "hnrlbls": [
         "43"
       ], 
       "housenumber": "43", 
-      "lat": 51.22846693505857, 
-      "lon": 2.941547605906875, 
+      "lat": 51.22848434101037, 
+      "lon": 2.9414329567707806, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Dokter Eduard Moreauxlaan"
     }, 
     {
@@ -1576,11 +1405,11 @@
         "45"
       ], 
       "housenumber": "45", 
-      "lat": 51.228669122559666, 
-      "lon": 2.941488154393988, 
+      "lat": 51.22864973969662, 
+      "lon": 2.9414091378087184, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Dokter Eduard Moreauxlaan"
     }, 
     {
@@ -1598,10 +1427,11 @@
     {
       "busnrs": [
         "1", 
-        "2"
+        "2", 
+        "3b"
       ], 
       "hnrlbls": [
-        "49-49_3"
+        "49"
       ], 
       "housenumber": "49", 
       "lat": 51.228822973566345, 
@@ -1609,33 +1439,6 @@
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
-      "street": "Dokter Eduard Moreauxlaan"
-    }, 
-    {
-      "busnrs": [
-        "B"
-      ], 
-      "hnrlbls": [
-        "49-49_3"
-      ], 
-      "housenumber": "49_3", 
-      "lat": 51.228822973566345, 
-      "lon": 2.941610020262154, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Dokter Eduard Moreauxlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "5"
-      ], 
-      "housenumber": "5", 
-      "lat": 51.22689740557628, 
-      "lon": 2.9418638069983345, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Dokter Eduard Moreauxlaan"
     }, 
     {
@@ -1764,23 +1567,11 @@
         "67"
       ], 
       "housenumber": "67", 
-      "lat": 51.22945051121184, 
-      "lon": 2.9414340285674303, 
+      "lat": 51.22949002367304, 
+      "lon": 2.9413198566298906, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Dokter Eduard Moreauxlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "69"
-      ], 
-      "housenumber": "69", 
-      "lat": 51.229497436003996, 
-      "lon": 2.941389063984999, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Dokter Eduard Moreauxlaan"
     }, 
     {
@@ -1803,7 +1594,7 @@
         "4"
       ], 
       "hnrlbls": [
-        "73-73O"
+        "73"
       ], 
       "housenumber": "73", 
       "lat": 51.22959354145391, 
@@ -1811,18 +1602,6 @@
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
-      "street": "Dokter Eduard Moreauxlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "73-73O"
-      ], 
-      "housenumber": "73O", 
-      "lat": 51.22959354145391, 
-      "lon": 2.941426500986475, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Dokter Eduard Moreauxlaan"
     }, 
     {
@@ -1862,18 +1641,6 @@
       "street": "Dokter Eduard Moreauxlaan"
     }, 
     {
-      "hnrlbls": [
-        "8"
-      ], 
-      "housenumber": "8", 
-      "lat": 51.233055200743415, 
-      "lon": 2.9418485129362866, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
-      "street": "Dokter Eduard Moreauxlaan"
-    }, 
-    {
       "busnrs": [
         "1"
       ], 
@@ -1890,38 +1657,26 @@
     }, 
     {
       "hnrlbls": [
-        "83-85A"
+        "83"
       ], 
       "housenumber": "83", 
-      "lat": 51.22999329810136, 
-      "lon": 2.9413346540587613, 
+      "lat": 51.229888211331044, 
+      "lon": 2.941268877172119, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Dokter Eduard Moreauxlaan"
     }, 
     {
       "hnrlbls": [
-        "83-85A"
+        "85"
       ], 
       "housenumber": "85", 
-      "lat": 51.22999329810136, 
-      "lon": 2.9413346540587613, 
+      "lat": 51.23010308729227, 
+      "lon": 2.9412402490633185, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Dokter Eduard Moreauxlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "83-85A"
-      ], 
-      "housenumber": "85A", 
-      "lat": 51.22999329810136, 
-      "lon": 2.9413346540587613, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Dokter Eduard Moreauxlaan"
     }, 
     {
@@ -2001,6 +1756,9 @@
       "street": "Dokter Eduard Moreauxlaan"
     }, 
     {
+      "busnrs": [
+        "3"
+      ], 
       "hnrlbls": [
         "97"
       ], 

@@ -62,7 +62,7 @@
     }, 
     {
       "busnrs": [
-        "101"
+        "0101"
       ], 
       "hnrlbls": [
         "16"
@@ -137,10 +137,10 @@
     }, 
     {
       "busnrs": [
+        "0101", 
+        "0201", 
         "0301", 
-        "101", 
-        "201", 
-        "401"
+        "0401"
       ], 
       "hnrlbls": [
         "22"
@@ -184,10 +184,10 @@
       "busnrs": [
         "0001", 
         "0101", 
+        "0201", 
+        "0202", 
         "0301", 
-        "201", 
-        "202", 
-        "302"
+        "0302"
       ], 
       "hnrlbls": [
         "25"
@@ -202,7 +202,7 @@
     }, 
     {
       "busnrs": [
-        "101"
+        "0101"
       ], 
       "hnrlbls": [
         "28"
@@ -253,8 +253,8 @@
     }, 
     {
       "busnrs": [
-        "101", 
-        "201"
+        "0101", 
+        "0201"
       ], 
       "hnrlbls": [
         "32"
@@ -269,7 +269,7 @@
     }, 
     {
       "busnrs": [
-        "101"
+        "0101"
       ], 
       "hnrlbls": [
         "33"
@@ -404,7 +404,7 @@
     }, 
     {
       "busnrs": [
-        "101"
+        "0101"
       ], 
       "hnrlbls": [
         "44"
@@ -439,6 +439,18 @@
       "municipality": "Menen", 
       "pcode": "8930", 
       "source": "afgeleidVanGebouw", 
+      "street": "Grote Markt"
+    }, 
+    {
+      "hnrlbls": [
+        "9"
+      ], 
+      "housenumber": "9", 
+      "lat": 50.79564464944845, 
+      "lon": 3.120320740352441, 
+      "municipality": "Menen", 
+      "pcode": "8930", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Grote Markt"
     }
   ]

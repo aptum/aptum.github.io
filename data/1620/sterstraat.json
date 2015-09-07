@@ -53,8 +53,7 @@
     }, 
     {
       "apptnrs": [
-        "0.0", 
-        "1.0"
+        "0.0"
       ], 
       "hnrlbls": [
         "102"
@@ -271,10 +270,12 @@
         "3R"
       ], 
       "busnrs": [
-        "1D"
+        "1D", 
+        "RCHD", 
+        "RCHG"
       ], 
       "hnrlbls": [
-        "12-12T"
+        "12"
       ], 
       "housenumber": "12", 
       "lat": 50.788584066404816, 
@@ -337,18 +338,6 @@
     }, 
     {
       "hnrlbls": [
-        "12-12T"
-      ], 
-      "housenumber": "12T", 
-      "lat": 50.788584066404816, 
-      "lon": 4.315210143642226, 
-      "municipality": "Drogenbos", 
-      "pcode": "1620", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Sterstraat"
-    }, 
-    {
-      "hnrlbls": [
         "13"
       ], 
       "housenumber": "13", 
@@ -405,30 +394,6 @@
     }, 
     {
       "hnrlbls": [
-        "1B-1BIS"
-      ], 
-      "housenumber": "1B", 
-      "lat": 50.78802673500918, 
-      "lon": 4.315872342899875, 
-      "municipality": "Drogenbos", 
-      "pcode": "1620", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Sterstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "1B-1BIS"
-      ], 
-      "housenumber": "1BIS", 
-      "lat": 50.78802673500918, 
-      "lon": 4.315872342899875, 
-      "municipality": "Drogenbos", 
-      "pcode": "1620", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Sterstraat"
-    }, 
-    {
-      "hnrlbls": [
         "2"
       ], 
       "housenumber": "2", 
@@ -470,18 +435,6 @@
       "housenumber": "22", 
       "lat": 50.78887012390783, 
       "lon": 4.31522499703686, 
-      "municipality": "Drogenbos", 
-      "pcode": "1620", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Sterstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "221"
-      ], 
-      "housenumber": "221", 
-      "lat": 50.79156900607002, 
-      "lon": 4.318538025280319, 
       "municipality": "Drogenbos", 
       "pcode": "1620", 
       "source": "afgeleidVanGebouw", 
@@ -566,21 +519,6 @@
       "street": "Sterstraat"
     }, 
     {
-      "busnrs": [
-        "eG"
-      ], 
-      "hnrlbls": [
-        "29-31"
-      ], 
-      "housenumber": "29_1", 
-      "lat": 50.78879661159866, 
-      "lon": 4.315676630303249, 
-      "municipality": "Drogenbos", 
-      "pcode": "1620", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Sterstraat"
-    }, 
-    {
       "hnrlbls": [
         "3"
       ], 
@@ -646,7 +584,7 @@
         "1.0"
       ], 
       "hnrlbls": [
-        "35-35E"
+        "35"
       ], 
       "housenumber": "35", 
       "lat": 50.788858946628494, 
@@ -654,18 +592,6 @@
       "municipality": "Drogenbos", 
       "pcode": "1620", 
       "source": "afgeleidVanGebouw", 
-      "street": "Sterstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "35-35E"
-      ], 
-      "housenumber": "35E", 
-      "lat": 50.788858946628494, 
-      "lon": 4.315758815875932, 
-      "municipality": "Drogenbos", 
-      "pcode": "1620", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Sterstraat"
     }, 
     {
@@ -955,18 +881,6 @@
       "street": "Sterstraat"
     }, 
     {
-      "hnrlbls": [
-        "57"
-      ], 
-      "housenumber": "57", 
-      "lat": 50.78934080210789, 
-      "lon": 4.316185726885107, 
-      "municipality": "Drogenbos", 
-      "pcode": "1620", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Sterstraat"
-    }, 
-    {
       "apptnrs": [
         "0.0", 
         "1.0", 
@@ -1051,6 +965,9 @@
       "apptnrs": [
         "0.0", 
         "1R"
+      ], 
+      "busnrs": [
+        "RCHG"
       ], 
       "hnrlbls": [
         "66"

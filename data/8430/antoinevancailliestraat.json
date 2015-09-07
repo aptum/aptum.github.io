@@ -1,25 +1,29 @@
 {
   "addresses": [
     {
-      "busnrs": [
-        "102", 
-        "201", 
-        "202", 
-        "302", 
-        "401", 
-        "402", 
-        "403", 
-        "501"
+      "apptnrs": [
+        "0101", 
+        "0102", 
+        "0103", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0301", 
+        "0302", 
+        "0401", 
+        "0402", 
+        "0403", 
+        "0501"
       ], 
       "hnrlbls": [
-        "9-11"
+        "7-11"
       ], 
       "housenumber": "11", 
       "lat": 51.18627913588023, 
       "lon": 2.8139832900827195, 
       "municipality": "Middelkerke", 
       "pcode": "8430", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Antoine Van Cailliestraat"
     }, 
     {
@@ -27,11 +31,11 @@
         "12"
       ], 
       "housenumber": "12", 
-      "lat": 51.18656894625966, 
-      "lon": 2.8142807841145716, 
+      "lat": 51.186568856394246, 
+      "lon": 2.8142807871073257, 
       "municipality": "Middelkerke", 
       "pcode": "8430", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Antoine Van Cailliestraat"
     }, 
     {
@@ -43,64 +47,77 @@
       "lon": 2.8138224621890355, 
       "municipality": "Middelkerke", 
       "pcode": "8430", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Antoine Van Cailliestraat"
     }, 
     {
-      "busnrs": [
-        "101", 
-        "201", 
-        "301", 
-        "302", 
-        "401", 
-        "402"
+      "apptnrs": [
+        "0101", 
+        "0102", 
+        "0103", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0301", 
+        "0302", 
+        "0401", 
+        "0402", 
+        "0501", 
+        "0502"
       ], 
       "hnrlbls": [
         "14-63"
       ], 
       "housenumber": "14", 
-      "lat": 51.186804447729806, 
-      "lon": 2.814147191898535, 
+      "lat": 51.18680435786443, 
+      "lon": 2.8141471948915635, 
       "municipality": "Middelkerke", 
       "pcode": "8430", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Antoine Van Cailliestraat"
     }, 
     {
-      "busnrs": [
-        "101", 
-        "104", 
-        "105", 
-        "201", 
-        "203", 
-        "204", 
-        "303", 
-        "401"
+      "apptnrs": [
+        "0101", 
+        "0102", 
+        "0103", 
+        "0104", 
+        "0105", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0204", 
+        "0205", 
+        "0301", 
+        "0302", 
+        "0303", 
+        "0304", 
+        "0305", 
+        "0401", 
+        "0402", 
+        "0403", 
+        "0404", 
+        "0405", 
+        "0501"
       ], 
       "hnrlbls": [
         "15"
       ], 
       "housenumber": "15", 
-      "lat": 51.18643262063222, 
-      "lon": 2.813718097435711, 
+      "lat": 51.186432710497584, 
+      "lon": 2.8137180944418794, 
       "municipality": "Middelkerke", 
       "pcode": "8430", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Antoine Van Cailliestraat"
     }, 
     {
-      "hnrlbls": [
-        "14-63"
+      "apptnrs": [
+        "0101", 
+        "0201", 
+        "0301", 
+        "0401"
       ], 
-      "housenumber": "16", 
-      "lat": 51.186804447729806, 
-      "lon": 2.814147191898535, 
-      "municipality": "Middelkerke", 
-      "pcode": "8430", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Antoine Van Cailliestraat"
-    }, 
-    {
       "hnrlbls": [
         "17"
       ], 
@@ -109,13 +126,18 @@
       "lon": 2.813685908045534, 
       "municipality": "Middelkerke", 
       "pcode": "8430", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Antoine Van Cailliestraat"
     }, 
     {
-      "busnrs": [
-        "202", 
-        "302"
+      "apptnrs": [
+        "0101", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302", 
+        "0401", 
+        "0402"
       ], 
       "hnrlbls": [
         "18"
@@ -125,103 +147,92 @@
       "lon": 2.8140891459319892, 
       "municipality": "Middelkerke", 
       "pcode": "8430", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Antoine Van Cailliestraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "101", 
-        "201"
+      "apptnrs": [
+        "0101", 
+        "0102", 
+        "0103", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0301", 
+        "0302", 
+        "0303", 
+        "0304", 
+        "0401", 
+        "0402", 
+        "0403", 
+        "0404", 
+        "0501", 
+        "0502", 
+        "0503", 
+        "0504", 
+        "0601", 
+        "0602", 
+        "0603", 
+        "0604", 
+        "0701", 
+        "0702", 
+        "0703", 
+        "0704", 
+        "0801"
       ], 
       "hnrlbls": [
-        "2"
-      ], 
-      "housenumber": "2", 
-      "lat": 51.18633420181586, 
-      "lon": 2.8144924594951592, 
-      "municipality": "Middelkerke", 
-      "pcode": "8430", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Antoine Van Cailliestraat"
-    }, 
-    {
-      "busnrs": [
-        "101", 
-        "102", 
-        "103", 
-        "202", 
-        "203", 
-        "304", 
-        "402", 
-        "602"
-      ], 
-      "hnrlbls": [
-        "20-65"
+        "20-67"
       ], 
       "housenumber": "20", 
       "lat": 51.18685016933048, 
       "lon": 2.8139459577568107, 
       "municipality": "Middelkerke", 
       "pcode": "8430", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Antoine Van Cailliestraat"
     }, 
     {
-      "busnrs": [
-        "301", 
-        "401", 
-        "601", 
-        "801"
+      "apptnrs": [
+        "0101", 
+        "0201", 
+        "0301", 
+        "0401", 
+        "0501", 
+        "0601", 
+        "0701", 
+        "0801"
       ], 
       "hnrlbls": [
         "23"
       ], 
       "housenumber": "23", 
-      "lat": 51.186599105167865, 
-      "lon": 2.813648317578375, 
+      "lat": 51.18659901530249, 
+      "lon": 2.81364832057235, 
       "municipality": "Middelkerke", 
       "pcode": "8430", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Antoine Van Cailliestraat"
     }, 
     {
-      "busnrs": [
-        "201"
+      "apptnrs": [
+        "0101", 
+        "0201", 
+        "0301", 
+        "0401", 
+        "0501", 
+        "0601", 
+        "0701", 
+        "0801"
       ], 
       "hnrlbls": [
         "25"
       ], 
       "housenumber": "25", 
-      "lat": 51.18661669861621, 
-      "lon": 2.8136257003435787, 
+      "lat": 51.1866341104478, 
+      "lon": 2.813602946083487, 
       "municipality": "Middelkerke", 
       "pcode": "8430", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Antoine Van Cailliestraat"
-    }, 
-    {
-      "hnrlbls": [
-        "25B-25C"
-      ], 
-      "housenumber": "25B", 
-      "lat": 51.186634200313144, 
-      "lon": 2.813602943089421, 
-      "municipality": "Middelkerke", 
-      "pcode": "8430", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Antoine Van Cailliestraat"
-    }, 
-    {
-      "hnrlbls": [
-        "25B-25C"
-      ], 
-      "housenumber": "25C", 
-      "lat": 51.186634200313144, 
-      "lon": 2.813602943089421, 
-      "municipality": "Middelkerke", 
-      "pcode": "8430", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Antoine Van Cailliestraat"
     }, 
     {
@@ -229,85 +240,144 @@
         "27-73"
       ], 
       "housenumber": "27", 
-      "lat": 51.18670299222016, 
-      "lon": 2.813515244742847, 
+      "lat": 51.18670290235481, 
+      "lon": 2.8135152477370857, 
       "municipality": "Middelkerke", 
       "pcode": "8430", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Antoine Van Cailliestraat"
-    }, 
-    {
-      "busnrs": [
-        "101", 
-        "109", 
-        "110", 
-        "202", 
-        "203", 
-        "302", 
-        "303", 
-        "307", 
-        "402", 
-        "407", 
-        "408", 
-        "506", 
-        "607", 
-        "701", 
-        "703", 
-        "706", 
-        "907", 
-        "909"
-      ], 
-      "hnrlbls": [
-        "29-29E"
-      ], 
-      "housenumber": "29", 
-      "lat": 51.18708278400012, 
-      "lon": 2.81309429577103, 
-      "municipality": "Middelkerke", 
-      "pcode": "8430", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Antoine Van Cailliestraat"
-    }, 
-    {
-      "hnrlbls": [
-        "29-29E"
-      ], 
-      "housenumber": "29B", 
-      "lat": 51.18708278400012, 
-      "lon": 2.81309429577103, 
-      "municipality": "Middelkerke", 
-      "pcode": "8430", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Antoine Van Cailliestraat"
-    }, 
-    {
-      "hnrlbls": [
-        "29-29E"
-      ], 
-      "housenumber": "29D", 
-      "lat": 51.18708278400012, 
-      "lon": 2.81309429577103, 
-      "municipality": "Middelkerke", 
-      "pcode": "8430", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Antoine Van Cailliestraat"
     }, 
     {
       "apptnrs": [
-        "4.1"
-      ], 
-      "busnrs": [
-        "410"
+        "0101", 
+        "0102", 
+        "0103", 
+        "0104", 
+        "0105", 
+        "0106", 
+        "0107", 
+        "0108", 
+        "0109", 
+        "0110", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0204", 
+        "0205", 
+        "0206", 
+        "0207", 
+        "0208", 
+        "0209", 
+        "0210", 
+        "0301", 
+        "0302", 
+        "0303", 
+        "0304", 
+        "0305", 
+        "0306", 
+        "0307", 
+        "0308", 
+        "0309", 
+        "0401", 
+        "0402", 
+        "0403", 
+        "0404", 
+        "0405", 
+        "0406", 
+        "0407", 
+        "0408", 
+        "0409", 
+        "0410", 
+        "0501", 
+        "0502", 
+        "0503", 
+        "0504", 
+        "0505", 
+        "0506", 
+        "0507", 
+        "0508", 
+        "0601", 
+        "0602", 
+        "0603", 
+        "0604", 
+        "0605", 
+        "0606", 
+        "0607", 
+        "0608", 
+        "0609", 
+        "0701", 
+        "0702", 
+        "0703", 
+        "0704", 
+        "0705", 
+        "0706", 
+        "0707", 
+        "0708", 
+        "0709", 
+        "0801", 
+        "0802", 
+        "0803", 
+        "0804", 
+        "0805", 
+        "0806", 
+        "0807", 
+        "0808", 
+        "0809", 
+        "0901", 
+        "0902", 
+        "0903", 
+        "0904", 
+        "0905", 
+        "0906", 
+        "0907", 
+        "0908", 
+        "0909"
       ], 
       "hnrlbls": [
-        "29-29E"
+        "29-119"
       ], 
-      "housenumber": "29E", 
-      "lat": 51.18708278400012, 
-      "lon": 2.81309429577103, 
+      "housenumber": "29", 
+      "lat": 51.187082694134766, 
+      "lon": 2.8130942987661025, 
       "municipality": "Middelkerke", 
       "pcode": "8430", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Antoine Van Cailliestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "29-119"
+      ], 
+      "housenumber": "29A", 
+      "lat": 51.187082694134766, 
+      "lon": 2.8130942987661025, 
+      "municipality": "Middelkerke", 
+      "pcode": "8430", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Antoine Van Cailliestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "29-119"
+      ], 
+      "housenumber": "29C", 
+      "lat": 51.187082694134766, 
+      "lon": 2.8130942987661025, 
+      "municipality": "Middelkerke", 
+      "pcode": "8430", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Antoine Van Cailliestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "29-119"
+      ], 
+      "housenumber": "29D", 
+      "lat": 51.187082694134766, 
+      "lon": 2.8130942987661025, 
+      "municipality": "Middelkerke", 
+      "pcode": "8430", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Antoine Van Cailliestraat"
     }, 
     {
@@ -319,14 +389,14 @@
       "lon": 2.8141192704688978, 
       "municipality": "Middelkerke", 
       "pcode": "8430", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Antoine Van Cailliestraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "101", 
-        "201"
+      "apptnrs": [
+        "0001", 
+        "0101", 
+        "0201"
       ], 
       "hnrlbls": [
         "4"
@@ -336,12 +406,14 @@
       "lon": 2.814459578460086, 
       "municipality": "Middelkerke", 
       "pcode": "8430", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Antoine Van Cailliestraat"
     }, 
     {
-      "busnrs": [
-        "1"
+      "apptnrs": [
+        "0001", 
+        "0101", 
+        "0201"
       ], 
       "hnrlbls": [
         "5"
@@ -351,73 +423,66 @@
       "lon": 2.8140754031819326, 
       "municipality": "Middelkerke", 
       "pcode": "8430", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Antoine Van Cailliestraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "101", 
-        "201", 
-        "3"
+      "apptnrs": [
+        "0001", 
+        "0101", 
+        "0201"
       ], 
       "hnrlbls": [
         "6"
       ], 
       "housenumber": "6", 
-      "lat": 51.186423701045506, 
-      "lon": 2.8144069346622436, 
+      "lat": 51.1864237909109, 
+      "lon": 2.8144069316697404, 
       "municipality": "Middelkerke", 
       "pcode": "8430", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Antoine Van Cailliestraat"
     }, 
     {
-      "busnrs": [
-        "102"
+      "apptnrs": [
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302", 
+        "0401", 
+        "0402"
       ], 
       "hnrlbls": [
-        "7"
+        "7-11"
       ], 
       "housenumber": "7", 
-      "lat": 51.18625007306183, 
-      "lon": 2.813913158368183, 
+      "lat": 51.18627913588023, 
+      "lon": 2.8139832900827195, 
       "municipality": "Middelkerke", 
       "pcode": "8430", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Antoine Van Cailliestraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "101", 
-        "201", 
-        "202"
+      "apptnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202"
       ], 
       "hnrlbls": [
         "8"
       ], 
       "housenumber": "8", 
-      "lat": 51.186501122269796, 
-      "lon": 2.8143464178011026, 
+      "lat": 51.186501032404394, 
+      "lon": 2.8143464207937274, 
       "municipality": "Middelkerke", 
       "pcode": "8430", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Antoine Van Cailliestraat"
-    }, 
-    {
-      "busnrs": [
-        "402"
-      ], 
-      "hnrlbls": [
-        "9-11"
-      ], 
-      "housenumber": "9", 
-      "lat": 51.18627913588023, 
-      "lon": 2.8139832900827195, 
-      "municipality": "Middelkerke", 
-      "pcode": "8430", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Antoine Van Cailliestraat"
     }
   ]

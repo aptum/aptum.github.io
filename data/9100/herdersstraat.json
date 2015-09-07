@@ -1,30 +1,21 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4"
+      ], 
       "hnrlbls": [
         "1-39"
       ], 
       "housenumber": "1", 
-      "lat": 51.17164377648168, 
-      "lon": 4.140459456758742, 
+      "lat": 51.171643866091316, 
+      "lon": 4.140459313339377, 
       "municipality": "Sint-Niklaas", 
       "pcode": "9100", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Herdersstraat"
-    }, 
-    {
-      "busnrs": [
-        "2"
-      ], 
-      "hnrlbls": [
-        "10-10B"
-      ], 
-      "housenumber": "10", 
-      "lat": 51.17192920669667, 
-      "lon": 4.141041865851779, 
-      "municipality": "Sint-Niklaas", 
-      "pcode": "9100", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Herdersstraat"
     }, 
     {
@@ -36,14 +27,14 @@
         "5"
       ], 
       "hnrlbls": [
-        "10-10B"
+        "10"
       ], 
-      "housenumber": "10B", 
-      "lat": 51.17192920669667, 
-      "lon": 4.141041865851779, 
+      "housenumber": "10", 
+      "lat": 51.171934590433544, 
+      "lon": 4.141083733781233, 
       "municipality": "Sint-Niklaas", 
       "pcode": "9100", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Herdersstraat"
     }, 
     {
@@ -51,65 +42,11 @@
         "11"
       ], 
       "housenumber": "11", 
-      "lat": 51.171667336641974, 
-      "lon": 4.14093161309512, 
+      "lat": 51.17170791853327, 
+      "lon": 4.140907394548955, 
       "municipality": "Sint-Niklaas", 
       "pcode": "9100", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Herdersstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "12-12B"
-      ], 
-      "housenumber": "12", 
-      "lat": 51.17198806228533, 
-      "lon": 4.141218736145556, 
-      "municipality": "Sint-Niklaas", 
-      "pcode": "9100", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Herdersstraat"
-    }, 
-    {
-      "busnrs": [
-        "2"
-      ], 
-      "hnrlbls": [
-        "12-12B"
-      ], 
-      "housenumber": "12B", 
-      "lat": 51.17198806228533, 
-      "lon": 4.141218736145556, 
-      "municipality": "Sint-Niklaas", 
-      "pcode": "9100", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
-      "street": "Herdersstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "13"
-      ], 
-      "housenumber": "13", 
-      "lat": 51.17168553633684, 
-      "lon": 4.141000585114632, 
-      "municipality": "Sint-Niklaas", 
-      "pcode": "9100", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Herdersstraat"
-    }, 
-    {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "14-14B"
-      ], 
-      "housenumber": "14", 
-      "lat": 51.17196596459769, 
-      "lon": 4.141319789825885, 
-      "municipality": "Sint-Niklaas", 
-      "pcode": "9100", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Herdersstraat"
     }, 
     {
@@ -118,14 +55,42 @@
         "2"
       ], 
       "hnrlbls": [
-        "14-14B"
+        "12"
       ], 
-      "housenumber": "14B", 
+      "housenumber": "12", 
+      "lat": 51.17195509860471, 
+      "lon": 4.141231478877115, 
+      "municipality": "Sint-Niklaas", 
+      "pcode": "9100", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Herdersstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "13"
+      ], 
+      "housenumber": "13", 
+      "lat": 51.17168544617682, 
+      "lon": 4.141000442570644, 
+      "municipality": "Sint-Niklaas", 
+      "pcode": "9100", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Herdersstraat"
+    }, 
+    {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
+      "hnrlbls": [
+        "14"
+      ], 
+      "housenumber": "14", 
       "lat": 51.17196596459769, 
       "lon": 4.141319789825885, 
       "municipality": "Sint-Niklaas", 
       "pcode": "9100", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Herdersstraat"
     }, 
     {
@@ -137,7 +102,7 @@
       "lon": 4.141061048687029, 
       "municipality": "Sint-Niklaas", 
       "pcode": "9100", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Herdersstraat"
     }, 
     {
@@ -146,30 +111,14 @@
         "2"
       ], 
       "hnrlbls": [
-        "16-16B"
+        "16"
       ], 
       "housenumber": "16", 
-      "lat": 51.17198213484512, 
-      "lon": 4.141408646993692, 
+      "lat": 51.17198213457077, 
+      "lon": 4.141408504011558, 
       "municipality": "Sint-Niklaas", 
       "pcode": "9100", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Herdersstraat"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
-      "hnrlbls": [
-        "16-16B"
-      ], 
-      "housenumber": "16B", 
-      "lat": 51.17198213484512, 
-      "lon": 4.141408646993692, 
-      "municipality": "Sint-Niklaas", 
-      "pcode": "9100", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Herdersstraat"
     }, 
     {
@@ -181,7 +130,7 @@
       "lon": 4.141121855123879, 
       "municipality": "Sint-Niklaas", 
       "pcode": "9100", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Herdersstraat"
     }, 
     {
@@ -193,7 +142,7 @@
       "lon": 4.141506552236656, 
       "municipality": "Sint-Niklaas", 
       "pcode": "9100", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Herdersstraat"
     }, 
     {
@@ -201,41 +150,23 @@
         "19"
       ], 
       "housenumber": "19", 
-      "lat": 51.171699470568235, 
-      "lon": 4.141188682436763, 
+      "lat": 51.17169947084287, 
+      "lon": 4.141188825418029, 
       "municipality": "Sint-Niklaas", 
       "pcode": "9100", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Herdersstraat"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4"
-      ], 
-      "hnrlbls": [
-        "1-39"
-      ], 
-      "housenumber": "1B", 
-      "lat": 51.17164377648168, 
-      "lon": 4.140459456758742, 
-      "municipality": "Sint-Niklaas", 
-      "pcode": "9100", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Herdersstraat"
     }, 
     {
       "hnrlbls": [
-        "2"
+        "2-41"
       ], 
       "housenumber": "2", 
-      "lat": 51.17172619961596, 
-      "lon": 4.140271747547325, 
+      "lat": 51.171821595936734, 
+      "lon": 4.140519071518473, 
       "municipality": "Sint-Niklaas", 
       "pcode": "9100", 
-      "source": "geinterpoleerdObvWegverbinding", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Herdersstraat"
     }, 
     {
@@ -243,11 +174,11 @@
         "20"
       ], 
       "housenumber": "20", 
-      "lat": 51.172024031475004, 
-      "lon": 4.141601185441815, 
+      "lat": 51.171994639857886, 
+      "lon": 4.141601756986261, 
       "municipality": "Sint-Niklaas", 
       "pcode": "9100", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Herdersstraat"
     }, 
     {
@@ -255,11 +186,11 @@
         "21"
       ], 
       "housenumber": "21", 
-      "lat": 51.17171019289752, 
-      "lon": 4.14124896899401, 
+      "lat": 51.17171028278267, 
+      "lon": 4.141248968557256, 
       "municipality": "Sint-Niklaas", 
       "pcode": "9100", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Herdersstraat"
     }, 
     {
@@ -272,34 +203,14 @@
         "6"
       ], 
       "hnrlbls": [
-        "22-24"
+        "22"
       ], 
       "housenumber": "22", 
       "lat": 51.17198331321537, 
       "lon": 4.1417888343124725, 
       "municipality": "Sint-Niklaas", 
       "pcode": "9100", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Herdersstraat"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6"
-      ], 
-      "hnrlbls": [
-        "22B"
-      ], 
-      "housenumber": "22B", 
-      "lat": 51.17205156911828, 
-      "lon": 4.141852703112045, 
-      "municipality": "Sint-Niklaas", 
-      "pcode": "9100", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Herdersstraat"
     }, 
     {
@@ -311,19 +222,7 @@
       "lon": 4.1413136100768675, 
       "municipality": "Sint-Niklaas", 
       "pcode": "9100", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Herdersstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "22-24"
-      ], 
-      "housenumber": "24", 
-      "lat": 51.17198331321537, 
-      "lon": 4.1417888343124725, 
-      "municipality": "Sint-Niklaas", 
-      "pcode": "9100", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Herdersstraat"
     }, 
     {
@@ -331,11 +230,11 @@
         "25"
       ], 
       "housenumber": "25", 
-      "lat": 51.17171546829101, 
-      "lon": 4.141374911074379, 
+      "lat": 51.171715378680254, 
+      "lon": 4.141375054492207, 
       "municipality": "Sint-Niklaas", 
       "pcode": "9100", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Herdersstraat"
     }, 
     {
@@ -343,11 +242,11 @@
         "26-32"
       ], 
       "housenumber": "26", 
-      "lat": 51.17210515186707, 
-      "lon": 4.141999144861287, 
+      "lat": 51.17205850408305, 
+      "lon": 4.142047699265503, 
       "municipality": "Sint-Niklaas", 
       "pcode": "9100", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Herdersstraat"
     }, 
     {
@@ -355,11 +254,11 @@
         "27"
       ], 
       "housenumber": "27", 
-      "lat": 51.17173149347439, 
-      "lon": 4.141435028966311, 
+      "lat": 51.17173140358924, 
+      "lon": 4.1414350294027065, 
       "municipality": "Sint-Niklaas", 
       "pcode": "9100", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Herdersstraat"
     }, 
     {
@@ -367,23 +266,11 @@
         "26-32"
       ], 
       "housenumber": "28", 
-      "lat": 51.17210515186707, 
-      "lon": 4.141999144861287, 
+      "lat": 51.17205850408305, 
+      "lon": 4.142047699265503, 
       "municipality": "Sint-Niklaas", 
       "pcode": "9100", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Herdersstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "28B"
-      ], 
-      "housenumber": "28B", 
-      "lat": 51.17210266979072, 
-      "lon": 4.141923375451485, 
-      "municipality": "Sint-Niklaas", 
-      "pcode": "9100", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Herdersstraat"
     }, 
     {
@@ -395,7 +282,7 @@
       "lon": 4.141485601051254, 
       "municipality": "Sint-Niklaas", 
       "pcode": "9100", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Herdersstraat"
     }, 
     {
@@ -403,11 +290,11 @@
         "3"
       ], 
       "housenumber": "3", 
-      "lat": 51.171687406706646, 
-      "lon": 4.140664566986929, 
+      "lat": 51.17168731654622, 
+      "lon": 4.140664424443584, 
       "municipality": "Sint-Niklaas", 
       "pcode": "9100", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Herdersstraat"
     }, 
     {
@@ -415,11 +302,11 @@
         "26-32"
       ], 
       "housenumber": "30", 
-      "lat": 51.17210515186707, 
-      "lon": 4.141999144861287, 
+      "lat": 51.17205850408305, 
+      "lon": 4.142047699265503, 
       "municipality": "Sint-Niklaas", 
       "pcode": "9100", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Herdersstraat"
     }, 
     {
@@ -427,11 +314,11 @@
         "31"
       ], 
       "housenumber": "31", 
-      "lat": 51.17176794620181, 
-      "lon": 4.1415542426315435, 
+      "lat": 51.17176803581275, 
+      "lon": 4.1415540992138995, 
       "municipality": "Sint-Niklaas", 
       "pcode": "9100", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Herdersstraat"
     }, 
     {
@@ -439,11 +326,11 @@
         "26-32"
       ], 
       "housenumber": "32", 
-      "lat": 51.17210515186707, 
-      "lon": 4.141999144861287, 
+      "lat": 51.17205850408305, 
+      "lon": 4.142047699265503, 
       "municipality": "Sint-Niklaas", 
       "pcode": "9100", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Herdersstraat"
     }, 
     {
@@ -451,11 +338,11 @@
         "33"
       ], 
       "housenumber": "33", 
-      "lat": 51.171779119688836, 
-      "lon": 4.1416155280515285, 
+      "lat": 51.17177902980367, 
+      "lon": 4.141615528487577, 
       "municipality": "Sint-Niklaas", 
       "pcode": "9100", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Herdersstraat"
     }, 
     {
@@ -463,11 +350,11 @@
         "34"
       ], 
       "housenumber": "34", 
-      "lat": 51.172070987124286, 
-      "lon": 4.142135859786589, 
+      "lat": 51.172070896965664, 
+      "lon": 4.14213571723923, 
       "municipality": "Sint-Niklaas", 
       "pcode": "9100", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Herdersstraat"
     }, 
     {
@@ -479,19 +366,7 @@
       "lon": 4.141673133035438, 
       "municipality": "Sint-Niklaas", 
       "pcode": "9100", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Herdersstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "36"
-      ], 
-      "housenumber": "36", 
-      "lat": 51.17211646881383, 
-      "lon": 4.14218253836188, 
-      "municipality": "Sint-Niklaas", 
-      "pcode": "9100", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Herdersstraat"
     }, 
     {
@@ -503,7 +378,7 @@
       "lon": 4.141728715366639, 
       "municipality": "Sint-Niklaas", 
       "pcode": "9100", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Herdersstraat"
     }, 
     {
@@ -511,11 +386,11 @@
         "38"
       ], 
       "housenumber": "38", 
-      "lat": 51.17216186059901, 
-      "lon": 4.1422292174630115, 
+      "lat": 51.172087201589896, 
+      "lon": 4.142248166560375, 
       "municipality": "Sint-Niklaas", 
       "pcode": "9100", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Herdersstraat"
     }, 
     {
@@ -523,11 +398,11 @@
         "39"
       ], 
       "housenumber": "39", 
-      "lat": 51.17180290634202, 
-      "lon": 4.141785848291982, 
+      "lat": 51.17180281645689, 
+      "lon": 4.141785848727704, 
       "municipality": "Sint-Niklaas", 
       "pcode": "9100", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Herdersstraat"
     }, 
     {
@@ -536,14 +411,14 @@
         "2"
       ], 
       "hnrlbls": [
-        "4-4B"
+        "4"
       ], 
       "housenumber": "4", 
-      "lat": 51.1718419270904, 
-      "lon": 4.140714573209754, 
+      "lat": 51.17188698364875, 
+      "lon": 4.140680180782253, 
       "municipality": "Sint-Niklaas", 
       "pcode": "9100", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Herdersstraat"
     }, 
     {
@@ -555,7 +430,7 @@
       "lon": 4.1423396097015175, 
       "municipality": "Sint-Niklaas", 
       "pcode": "9100", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Herdersstraat"
     }, 
     {
@@ -563,11 +438,11 @@
         "41"
       ], 
       "housenumber": "41", 
-      "lat": 51.17179547923455, 
-      "lon": 4.141850226596138, 
+      "lat": 51.17179556911968, 
+      "lon": 4.14185022616054, 
       "municipality": "Sint-Niklaas", 
       "pcode": "9100", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Herdersstraat"
     }, 
     {
@@ -579,19 +454,19 @@
       "lon": 4.142394318984562, 
       "municipality": "Sint-Niklaas", 
       "pcode": "9100", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Herdersstraat"
     }, 
     {
       "hnrlbls": [
-        "43-45"
+        "43"
       ], 
       "housenumber": "43", 
-      "lat": 51.171773804426955, 
-      "lon": 4.141937694141258, 
+      "lat": 51.17183517764013, 
+      "lon": 4.1419278169697415, 
       "municipality": "Sint-Niklaas", 
       "pcode": "9100", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Herdersstraat"
     }, 
     {
@@ -599,23 +474,11 @@
         "44"
       ], 
       "housenumber": "44", 
-      "lat": 51.17220306905482, 
-      "lon": 4.142391591056379, 
+      "lat": 51.172102129123914, 
+      "lon": 4.142439692674427, 
       "municipality": "Sint-Niklaas", 
       "pcode": "9100", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Herdersstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "43-45"
-      ], 
-      "housenumber": "45", 
-      "lat": 51.171773804426955, 
-      "lon": 4.141937694141258, 
-      "municipality": "Sint-Niklaas", 
-      "pcode": "9100", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Herdersstraat"
     }, 
     {
@@ -623,27 +486,11 @@
         "48"
       ], 
       "housenumber": "48", 
-      "lat": 51.17215279087287, 
-      "lon": 4.14256312894132, 
+      "lat": 51.17215279114584, 
+      "lon": 4.142563271923984, 
       "municipality": "Sint-Niklaas", 
       "pcode": "9100", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Herdersstraat"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
-      "hnrlbls": [
-        "4-4B"
-      ], 
-      "housenumber": "4B", 
-      "lat": 51.1718419270904, 
-      "lon": 4.140714573209754, 
-      "municipality": "Sint-Niklaas", 
-      "pcode": "9100", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Herdersstraat"
     }, 
     {
@@ -651,11 +498,11 @@
         "5"
       ], 
       "housenumber": "5", 
-      "lat": 51.17168849508081, 
-      "lon": 4.140716321375182, 
+      "lat": 51.17168840519568, 
+      "lon": 4.140716321812961, 
       "municipality": "Sint-Niklaas", 
       "pcode": "9100", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Herdersstraat"
     }, 
     {
@@ -667,19 +514,7 @@
       "lon": 4.142636879345649, 
       "municipality": "Sint-Niklaas", 
       "pcode": "9100", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Herdersstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "52-52B"
-      ], 
-      "housenumber": "52", 
-      "lat": 51.17211681699747, 
-      "lon": 4.142741317646981, 
-      "municipality": "Sint-Niklaas", 
-      "pcode": "9100", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Herdersstraat"
     }, 
     {
@@ -688,38 +523,14 @@
         "2"
       ], 
       "hnrlbls": [
-        "52-52B"
+        "52"
       ], 
-      "housenumber": "52B", 
-      "lat": 51.17211681699747, 
-      "lon": 4.142741317646981, 
+      "housenumber": "52", 
+      "lat": 51.172164113903996, 
+      "lon": 4.14270305559168, 
       "municipality": "Sint-Niklaas", 
       "pcode": "9100", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
-      "street": "Herdersstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "54-56"
-      ], 
-      "housenumber": "54", 
-      "lat": 51.172157515273824, 
-      "lon": 4.14282505279665, 
-      "municipality": "Sint-Niklaas", 
-      "pcode": "9100", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
-      "street": "Herdersstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "54-56"
-      ], 
-      "housenumber": "56", 
-      "lat": 51.172157515273824, 
-      "lon": 4.14282505279665, 
-      "municipality": "Sint-Niklaas", 
-      "pcode": "9100", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Herdersstraat"
     }, 
     {
@@ -727,11 +538,11 @@
         "58"
       ], 
       "housenumber": "58", 
-      "lat": 51.172215728281024, 
-      "lon": 4.142901983353191, 
+      "lat": 51.172179084854605, 
+      "lon": 4.14291774537145, 
       "municipality": "Sint-Niklaas", 
       "pcode": "9100", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Herdersstraat"
     }, 
     {
@@ -739,11 +550,11 @@
         "6"
       ], 
       "housenumber": "6", 
-      "lat": 51.17188877843809, 
-      "lon": 4.140725354725355, 
+      "lat": 51.17190243722279, 
+      "lon": 4.1407700419527815, 
       "municipality": "Sint-Niklaas", 
       "pcode": "9100", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Herdersstraat"
     }, 
     {
@@ -755,19 +566,7 @@
       "lon": 4.142998209119117, 
       "municipality": "Sint-Niklaas", 
       "pcode": "9100", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Herdersstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "62-64"
-      ], 
-      "housenumber": "62", 
-      "lat": 51.17220589002796, 
-      "lon": 4.14311650702147, 
-      "municipality": "Sint-Niklaas", 
-      "pcode": "9100", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Herdersstraat"
     }, 
     {
@@ -776,26 +575,26 @@
         "2"
       ], 
       "hnrlbls": [
-        "62B"
+        "62"
       ], 
-      "housenumber": "62B", 
-      "lat": 51.17221899852213, 
-      "lon": 4.143155907484471, 
+      "housenumber": "62", 
+      "lat": 51.17220033187195, 
+      "lon": 4.1430770701885145, 
       "municipality": "Sint-Niklaas", 
       "pcode": "9100", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Herdersstraat"
     }, 
     {
       "hnrlbls": [
-        "62-64"
+        "64"
       ], 
       "housenumber": "64", 
-      "lat": 51.17220589002796, 
-      "lon": 4.14311650702147, 
+      "lat": 51.17221944658652, 
+      "lon": 4.143155190404683, 
       "municipality": "Sint-Niklaas", 
       "pcode": "9100", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Herdersstraat"
     }, 
     {
@@ -803,11 +602,11 @@
         "66"
       ], 
       "housenumber": "66", 
-      "lat": 51.172258967079856, 
-      "lon": 4.143234213288653, 
+      "lat": 51.17225896735205, 
+      "lon": 4.143234356271646, 
       "municipality": "Sint-Niklaas", 
       "pcode": "9100", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Herdersstraat"
     }, 
     {
@@ -815,26 +614,11 @@
         "7"
       ], 
       "housenumber": "7", 
-      "lat": 51.17168977255752, 
-      "lon": 4.140772936252427, 
+      "lat": 51.17168977283267, 
+      "lon": 4.14077307923366, 
       "municipality": "Sint-Niklaas", 
       "pcode": "9100", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Herdersstraat"
-    }, 
-    {
-      "busnrs": [
-        "4"
-      ], 
-      "hnrlbls": [
-        "8-8B"
-      ], 
-      "housenumber": "8", 
-      "lat": 51.17191598118417, 
-      "lon": 4.140895229343925, 
-      "municipality": "Sint-Niklaas", 
-      "pcode": "9100", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Herdersstraat"
     }, 
     {
@@ -846,14 +630,14 @@
         "5"
       ], 
       "hnrlbls": [
-        "8-8B"
+        "8"
       ], 
-      "housenumber": "8B", 
+      "housenumber": "8", 
       "lat": 51.17191598118417, 
       "lon": 4.140895229343925, 
       "municipality": "Sint-Niklaas", 
       "pcode": "9100", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Herdersstraat"
     }, 
     {
@@ -861,11 +645,11 @@
         "9"
       ], 
       "housenumber": "9", 
-      "lat": 51.171702288950954, 
-      "lon": 4.140831212212731, 
+      "lat": 51.17170228922601, 
+      "lon": 4.1408313551940035, 
       "municipality": "Sint-Niklaas", 
       "pcode": "9100", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Herdersstraat"
     }
   ]

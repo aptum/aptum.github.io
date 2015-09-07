@@ -2,9 +2,17 @@
   "addresses": [
     {
       "busnrs": [
+        "1", 
         "11", 
         "13", 
-        "15"
+        "15", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6", 
+        "7", 
+        "8"
       ], 
       "hnrlbls": [
         "1"
@@ -260,9 +268,14 @@
     {
       "busnrs": [
         "1", 
+        "2", 
+        "3", 
         "4", 
-        "711", 
-        "A"
+        "5", 
+        "6", 
+        "7", 
+        "8", 
+        "9"
       ], 
       "hnrlbls": [
         "118"
@@ -276,33 +289,27 @@
       "street": "Van Schoonbekestraat"
     }, 
     {
-      "busnrs": [
-        "A"
-      ], 
       "hnrlbls": [
         "118_1-118_3"
       ], 
       "housenumber": "118_1", 
-      "lat": 51.200620561429126, 
-      "lon": 4.404846776294242, 
+      "lat": 51.200622452204776, 
+      "lon": 4.404848048252235, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Van Schoonbekestraat"
     }, 
     {
-      "busnrs": [
-        "R"
-      ], 
       "hnrlbls": [
         "118_1-118_3"
       ], 
       "housenumber": "118_3", 
-      "lat": 51.200620561429126, 
-      "lon": 4.404846776294242, 
+      "lat": 51.200622452204776, 
+      "lon": 4.404848048252235, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Van Schoonbekestraat"
     }, 
     {
@@ -444,7 +451,7 @@
     }, 
     {
       "hnrlbls": [
-        "127A-131A"
+        "127A-131"
       ], 
       "housenumber": "127A", 
       "lat": 51.1998996857335, 
@@ -492,7 +499,7 @@
     }, 
     {
       "hnrlbls": [
-        "127A-131A"
+        "127A-131"
       ], 
       "housenumber": "131", 
       "lat": 51.1998996857335, 
@@ -504,14 +511,14 @@
     }, 
     {
       "hnrlbls": [
-        "127A-131A"
+        "131A"
       ], 
       "housenumber": "131A", 
-      "lat": 51.1998996857335, 
-      "lon": 4.404850786000291, 
+      "lat": 51.19999029314283, 
+      "lon": 4.4045488395232075, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Van Schoonbekestraat"
     }, 
     {
@@ -1113,34 +1120,27 @@
       "street": "Van Schoonbekestraat"
     }, 
     {
-      "busnrs": [
-        "C"
-      ], 
       "hnrlbls": [
         "20_3-20_4"
       ], 
       "housenumber": "20_3", 
-      "lat": 51.20411146706397, 
-      "lon": 4.409293205439759, 
+      "lat": 51.20410345142165, 
+      "lon": 4.409287323436652, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Van Schoonbekestraat"
     }, 
     {
-      "busnrs": [
-        "A", 
-        "D"
-      ], 
       "hnrlbls": [
         "20_3-20_4"
       ], 
       "housenumber": "20_4", 
-      "lat": 51.20411146706397, 
-      "lon": 4.409293205439759, 
+      "lat": 51.20410345142165, 
+      "lon": 4.409287323436652, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Van Schoonbekestraat"
     }, 
     {
@@ -1480,18 +1480,6 @@
     }, 
     {
       "hnrlbls": [
-        "50"
-      ], 
-      "housenumber": "50", 
-      "lat": 51.20336999713284, 
-      "lon": 4.407755595072814, 
-      "municipality": "Antwerpen", 
-      "pcode": "2018", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Van Schoonbekestraat"
-    }, 
-    {
-      "hnrlbls": [
         "51"
       ], 
       "housenumber": "51", 
@@ -1594,11 +1582,11 @@
         "6"
       ], 
       "housenumber": "6", 
-      "lat": 51.204281430815875, 
-      "lon": 4.41058352450699, 
+      "lat": 51.204292443251624, 
+      "lon": 4.410202650636313, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
-      "source": "geinterpoleerdObvWegverbinding", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Van Schoonbekestraat"
     }, 
     {
@@ -1722,6 +1710,7 @@
     {
       "busnrs": [
         "1", 
+        "101", 
         "201", 
         "301"
       ], 
@@ -1882,18 +1871,6 @@
     }, 
     {
       "hnrlbls": [
-        "80"
-      ], 
-      "housenumber": "80", 
-      "lat": 51.20185341814364, 
-      "lon": 4.405984045238713, 
-      "municipality": "Antwerpen", 
-      "pcode": "2018", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Van Schoonbekestraat"
-    }, 
-    {
-      "hnrlbls": [
         "81"
       ], 
       "housenumber": "81", 
@@ -2017,11 +1994,11 @@
         "95"
       ], 
       "housenumber": "95", 
-      "lat": 51.20129885296731, 
-      "lon": 4.406193481986662, 
+      "lat": 51.20116119708155, 
+      "lon": 4.406046720397085, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Van Schoonbekestraat"
     }, 
     {

@@ -2,7 +2,7 @@
   "addresses": [
     {
       "hnrlbls": [
-        "1"
+        "1-2"
       ], 
       "housenumber": "1", 
       "lat": 51.09574280472224, 
@@ -104,21 +104,15 @@
       "street": "Kloosterstraat"
     }, 
     {
-      "apptnrs": [
-        "0.0"
-      ], 
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
         "107"
       ], 
       "housenumber": "107", 
-      "lat": 51.09300027689847, 
-      "lon": 4.222823840406377, 
+      "lat": 51.09306253435364, 
+      "lon": 4.222784291617049, 
       "municipality": "Bornem", 
       "pcode": "2880", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Kloosterstraat"
     }, 
     {
@@ -602,6 +596,10 @@
       "street": "Kloosterstraat"
     }, 
     {
+      "apptnrs": [
+        "0001", 
+        "0101"
+      ], 
       "hnrlbls": [
         "152"
       ], 
@@ -819,11 +817,11 @@
         "174"
       ], 
       "housenumber": "174", 
-      "lat": 51.0932812307314, 
-      "lon": 4.219404144217233, 
+      "lat": 51.09316608452651, 
+      "lon": 4.2192621964562695, 
       "municipality": "Bornem", 
       "pcode": "2880", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Kloosterstraat"
     }, 
     {
@@ -907,6 +905,10 @@
       "street": "Kloosterstraat"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "101"
+      ], 
       "hnrlbls": [
         "180"
       ], 
@@ -959,11 +961,11 @@
         "185"
       ], 
       "housenumber": "185", 
-      "lat": 51.0926963234069, 
-      "lon": 4.2186187891738305, 
+      "lat": 51.09287980645532, 
+      "lon": 4.218706274072645, 
       "municipality": "Bornem", 
       "pcode": "2880", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelKadaster", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Kloosterstraat"
     }, 
     {
@@ -1052,14 +1054,14 @@
     }, 
     {
       "hnrlbls": [
-        "/zn-202"
+        "194"
       ], 
       "housenumber": "194", 
-      "lat": 51.09423641344995, 
-      "lon": 4.225320613180563, 
+      "lat": 51.09334793262366, 
+      "lon": 4.217565549877111, 
       "municipality": "Bornem", 
       "pcode": "2880", 
-      "source": "afgeleidVanStraat", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Kloosterstraat"
     }, 
     {
@@ -1108,7 +1110,8 @@
       "busnrs": [
         "1", 
         "2", 
-        "3"
+        "3", 
+        "CGVL"
       ], 
       "hnrlbls": [
         "2"
@@ -1123,7 +1126,7 @@
     }, 
     {
       "hnrlbls": [
-        "/zn-202"
+        "202"
       ], 
       "housenumber": "202", 
       "lat": 51.09423641344995, 
@@ -1377,72 +1380,16 @@
       "street": "Kloosterstraat"
     }, 
     {
+      "busnrs": [
+        "AGVL", 
+        "BGVL", 
+        "CGVL", 
+        "DGVL"
+      ], 
       "hnrlbls": [
-        "38-38D"
+        "38"
       ], 
       "housenumber": "38", 
-      "lat": 51.09567403753964, 
-      "lon": 4.228661135121013, 
-      "municipality": "Bornem", 
-      "pcode": "2880", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Kloosterstraat"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
-      "hnrlbls": [
-        "38-38D"
-      ], 
-      "housenumber": "38A", 
-      "lat": 51.09567403753964, 
-      "lon": 4.228661135121013, 
-      "municipality": "Bornem", 
-      "pcode": "2880", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Kloosterstraat"
-    }, 
-    {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "38-38D"
-      ], 
-      "housenumber": "38B", 
-      "lat": 51.09567403753964, 
-      "lon": 4.228661135121013, 
-      "municipality": "Bornem", 
-      "pcode": "2880", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Kloosterstraat"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
-      "hnrlbls": [
-        "38-38D"
-      ], 
-      "housenumber": "38C", 
-      "lat": 51.09567403753964, 
-      "lon": 4.228661135121013, 
-      "municipality": "Bornem", 
-      "pcode": "2880", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Kloosterstraat"
-    }, 
-    {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "38-38D"
-      ], 
-      "housenumber": "38D", 
       "lat": 51.09567403753964, 
       "lon": 4.228661135121013, 
       "municipality": "Bornem", 
@@ -1475,38 +1422,15 @@
       "street": "Kloosterstraat"
     }, 
     {
-      "apptnrs": [
-        "0.0"
-      ], 
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
       "hnrlbls": [
-        "44-46"
+        "44"
       ], 
       "housenumber": "44", 
-      "lat": 51.095087862205574, 
-      "lon": 4.228042214879215, 
+      "lat": 51.09512377714678, 
+      "lon": 4.22810316004481, 
       "municipality": "Bornem", 
       "pcode": "2880", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Kloosterstraat"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
-      "hnrlbls": [
-        "44A"
-      ], 
-      "housenumber": "44A", 
-      "lat": 51.09507946008166, 
-      "lon": 4.227930753949352, 
-      "municipality": "Bornem", 
-      "pcode": "2880", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Kloosterstraat"
     }, 
     {
@@ -1522,22 +1446,15 @@
       "street": "Kloosterstraat"
     }, 
     {
-      "apptnrs": [
-        "0.0"
-      ], 
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
       "hnrlbls": [
-        "44-46"
+        "46"
       ], 
       "housenumber": "46", 
-      "lat": 51.095087862205574, 
-      "lon": 4.228042214879215, 
+      "lat": 51.09503690692309, 
+      "lon": 4.227941808376272, 
       "municipality": "Bornem", 
       "pcode": "2880", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Kloosterstraat"
     }, 
     {
@@ -1577,6 +1494,13 @@
       "street": "Kloosterstraat"
     }, 
     {
+      "apptnrs": [
+        "A001", 
+        "A002", 
+        "B001", 
+        "B002", 
+        "GVL0"
+      ], 
       "hnrlbls": [
         "5"
       ], 
@@ -1650,18 +1574,6 @@
     }, 
     {
       "hnrlbls": [
-        "56-58"
-      ], 
-      "housenumber": "56", 
-      "lat": 51.093957056850016, 
-      "lon": 4.2248890930256495, 
-      "municipality": "Bornem", 
-      "pcode": "2880", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Kloosterstraat"
-    }, 
-    {
-      "hnrlbls": [
         "57"
       ], 
       "housenumber": "57", 
@@ -1673,48 +1585,15 @@
       "street": "Kloosterstraat"
     }, 
     {
-      "busnrs": [
-        "2"
-      ], 
       "hnrlbls": [
-        "56-58"
+        "58"
       ], 
       "housenumber": "58", 
-      "lat": 51.093957056850016, 
-      "lon": 4.2248890930256495, 
+      "lat": 51.09396291067331, 
+      "lon": 4.22495028794831, 
       "municipality": "Bornem", 
       "pcode": "2880", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Kloosterstraat"
-    }, 
-    {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "58A-58B"
-      ], 
-      "housenumber": "58A", 
-      "lat": 51.093945222470076, 
-      "lon": 4.224766511801568, 
-      "municipality": "Bornem", 
-      "pcode": "2880", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Kloosterstraat"
-    }, 
-    {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "58A-58B"
-      ], 
-      "housenumber": "58B", 
-      "lat": 51.093945222470076, 
-      "lon": 4.224766511801568, 
-      "municipality": "Bornem", 
-      "pcode": "2880", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Kloosterstraat"
     }, 
     {
@@ -1730,38 +1609,6 @@
       "street": "Kloosterstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
-      "hnrlbls": [
-        "5A-5B"
-      ], 
-      "housenumber": "5A", 
-      "lat": 51.09574677619202, 
-      "lon": 4.232220387126611, 
-      "municipality": "Bornem", 
-      "pcode": "2880", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Kloosterstraat"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
-      "hnrlbls": [
-        "5A-5B"
-      ], 
-      "housenumber": "5B", 
-      "lat": 51.09574677619202, 
-      "lon": 4.232220387126611, 
-      "municipality": "Bornem", 
-      "pcode": "2880", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Kloosterstraat"
-    }, 
-    {
       "hnrlbls": [
         "6"
       ], 
@@ -1774,22 +1621,15 @@
       "street": "Kloosterstraat"
     }, 
     {
-      "apptnrs": [
-        "0.0"
-      ], 
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
       "hnrlbls": [
         "60"
       ], 
       "housenumber": "60", 
-      "lat": 51.09401182695742, 
-      "lon": 4.224838250975801, 
+      "lat": 51.09390563919866, 
+      "lon": 4.224791838631211, 
       "municipality": "Bornem", 
       "pcode": "2880", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Kloosterstraat"
     }, 
     {
@@ -1968,7 +1808,9 @@
     }, 
     {
       "busnrs": [
-        "2"
+        "2", 
+        "AGVL", 
+        "BGVL"
       ], 
       "hnrlbls": [
         "78"
@@ -2028,8 +1870,8 @@
         "81"
       ], 
       "housenumber": "81", 
-      "lat": 51.09293814107782, 
-      "lon": 4.22523336471375, 
+      "lat": 51.0929382311387, 
+      "lon": 4.225233507180002, 
       "municipality": "Bornem", 
       "pcode": "2880", 
       "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
@@ -2088,11 +1930,11 @@
         "89"
       ], 
       "housenumber": "89", 
-      "lat": 51.09249047795885, 
-      "lon": 4.224256106791211, 
+      "lat": 51.09270602031923, 
+      "lon": 4.224100713039756, 
       "municipality": "Bornem", 
       "pcode": "2880", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Kloosterstraat"
     }, 
     {
@@ -2132,6 +1974,10 @@
       "street": "Kloosterstraat"
     }, 
     {
+      "busnrs": [
+        "AGVL", 
+        "BGVL"
+      ], 
       "hnrlbls": [
         "92-92B"
       ], 
@@ -2196,8 +2042,8 @@
         "95"
       ], 
       "housenumber": "95", 
-      "lat": 51.093192652567915, 
-      "lon": 4.223347534721147, 
+      "lat": 51.093156431354, 
+      "lon": 4.2234238710630665, 
       "municipality": "Bornem", 
       "pcode": "2880", 
       "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 

@@ -293,11 +293,11 @@
         "123"
       ], 
       "housenumber": "123", 
-      "lat": 50.79381779123261, 
-      "lon": 4.297834016741772, 
+      "lat": 50.793815907037946, 
+      "lon": 4.298004242763261, 
       "municipality": "Sint-Pieters-Leeuw", 
       "pcode": "1601", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Gieterijstraat"
     }, 
     {
@@ -317,11 +317,11 @@
         "125"
       ], 
       "housenumber": "125", 
-      "lat": 50.7938774098619, 
-      "lon": 4.297862861916942, 
+      "lat": 50.79387331047457, 
+      "lon": 4.298009754198465, 
       "municipality": "Sint-Pieters-Leeuw", 
       "pcode": "1601", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Gieterijstraat"
     }, 
     {
@@ -341,11 +341,11 @@
         "127"
       ], 
       "housenumber": "127", 
-      "lat": 50.793930548213474, 
-      "lon": 4.297878809915695, 
+      "lat": 50.793924827477625, 
+      "lon": 4.298034812452782, 
       "municipality": "Sint-Pieters-Leeuw", 
       "pcode": "1601", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Gieterijstraat"
     }, 
     {
@@ -365,8 +365,8 @@
         "129"
       ], 
       "housenumber": "129", 
-      "lat": 50.79396851032421, 
-      "lon": 4.2980722153032795, 
+      "lat": 50.79397953524439, 
+      "lon": 4.298037441998545, 
       "municipality": "Sint-Pieters-Leeuw", 
       "pcode": "1601", 
       "source": "afgeleidVanGebouw", 
@@ -910,6 +910,22 @@
       "street": "Gieterijstraat"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
+      "hnrlbls": [
+        "39A"
+      ], 
+      "housenumber": "39A", 
+      "lat": 50.791610838648005, 
+      "lon": 4.2971889164126384, 
+      "municipality": "Sint-Pieters-Leeuw", 
+      "pcode": "1601", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Gieterijstraat"
+    }, 
+    {
       "hnrlbls": [
         "3A"
       ], 
@@ -1097,11 +1113,11 @@
         "51"
       ], 
       "housenumber": "51", 
-      "lat": 50.79190875954178, 
-      "lon": 4.297709365166347, 
+      "lat": 50.79192814743681, 
+      "lon": 4.297715303033869, 
       "municipality": "Sint-Pieters-Leeuw", 
       "pcode": "1601", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "afgeleidVanGebouw", 
       "street": "Gieterijstraat"
     }, 
     {
@@ -1127,11 +1143,11 @@
         "53"
       ], 
       "housenumber": "53", 
-      "lat": 50.79199812725139, 
-      "lon": 4.297727101937544, 
+      "lat": 50.79203672899537, 
+      "lon": 4.2977412854055395, 
       "municipality": "Sint-Pieters-Leeuw", 
       "pcode": "1601", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "afgeleidVanGebouw", 
       "street": "Gieterijstraat"
     }, 
     {
@@ -1157,11 +1173,11 @@
         "55"
       ], 
       "housenumber": "55", 
-      "lat": 50.79209253034395, 
-      "lon": 4.297746816852658, 
+      "lat": 50.79213709827266, 
+      "lon": 4.297764190722304, 
       "municipality": "Sint-Pieters-Leeuw", 
       "pcode": "1601", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "afgeleidVanGebouw", 
       "street": "Gieterijstraat"
     }, 
     {
@@ -1450,14 +1466,14 @@
     }, 
     {
       "hnrlbls": [
-        "76-80"
+        "76"
       ], 
       "housenumber": "76", 
-      "lat": 50.79254441946136, 
-      "lon": 4.298153899841331, 
+      "lat": 50.7925198412217, 
+      "lon": 4.2981391245509615, 
       "municipality": "Sint-Pieters-Leeuw", 
       "pcode": "1601", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Gieterijstraat"
     }, 
     {
@@ -1478,14 +1494,14 @@
         "1.0"
       ], 
       "hnrlbls": [
-        "76-80"
+        "78"
       ], 
       "housenumber": "78", 
-      "lat": 50.79254441946136, 
-      "lon": 4.298153899841331, 
+      "lat": 50.79257269566464, 
+      "lon": 4.2981311035195535, 
       "municipality": "Sint-Pieters-Leeuw", 
       "pcode": "1601", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Gieterijstraat"
     }, 
     {
@@ -1507,18 +1523,6 @@
       "housenumber": "8", 
       "lat": 50.790808685653886, 
       "lon": 4.297832692107113, 
-      "municipality": "Sint-Pieters-Leeuw", 
-      "pcode": "1601", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Gieterijstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "76-80"
-      ], 
-      "housenumber": "80", 
-      "lat": 50.79254441946136, 
-      "lon": 4.298153899841331, 
       "municipality": "Sint-Pieters-Leeuw", 
       "pcode": "1601", 
       "source": "afgeleidVanGebouw", 

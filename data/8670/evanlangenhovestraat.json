@@ -1,9 +1,13 @@
 {
   "addresses": [
     {
-      "busnrs": [
+      "apptnrs": [
+        "001", 
+        "002", 
         "101", 
-        "102"
+        "102", 
+        "201", 
+        "202"
       ], 
       "hnrlbls": [
         "1"
@@ -13,14 +17,24 @@
       "lon": 2.6246451446965002, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "E. Vanlangenhovestraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
+        "001", 
+        "101", 
+        "102", 
+        "103", 
+        "104", 
+        "201", 
         "202", 
+        "203", 
         "204", 
-        "301"
+        "301", 
+        "302", 
+        "303", 
+        "304"
       ], 
       "hnrlbls": [
         "10"
@@ -30,7 +44,7 @@
       "lon": 2.6233268700398322, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "E. Vanlangenhovestraat"
     }, 
     {
@@ -42,12 +56,17 @@
       "lon": 2.6234656078014975, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "E. Vanlangenhovestraat"
     }, 
     {
-      "busnrs": [
-        "201"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "202", 
+        "301", 
+        "302"
       ], 
       "hnrlbls": [
         "12"
@@ -57,22 +76,96 @@
       "lon": 2.6232215266867263, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "E. Vanlangenhovestraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
+        "001", 
+        "002", 
+        "003", 
+        "004", 
+        "005", 
+        "006", 
+        "007", 
+        "008", 
+        "009", 
+        "010", 
+        "011", 
+        "0224", 
         "101", 
+        "102", 
+        "103", 
+        "104", 
         "105", 
+        "106", 
         "107", 
+        "108", 
+        "109", 
+        "110", 
+        "111", 
+        "112", 
+        "124", 
         "201", 
-        "224", 
+        "202", 
+        "203", 
+        "204", 
+        "205", 
+        "206", 
+        "207", 
+        "208", 
+        "209", 
+        "210", 
+        "211", 
+        "212", 
+        "301", 
+        "302", 
+        "303", 
+        "304", 
+        "305", 
+        "306", 
+        "307", 
+        "308", 
+        "309", 
+        "310", 
+        "311", 
+        "324", 
         "401", 
+        "402", 
+        "403", 
+        "404", 
+        "405", 
+        "406", 
+        "407", 
+        "408", 
         "409", 
+        "410", 
+        "411", 
         "424", 
+        "501", 
+        "502", 
         "503", 
+        "504", 
+        "505", 
         "506", 
-        "7"
+        "507", 
+        "508", 
+        "509", 
+        "510", 
+        "511", 
+        "512", 
+        "524", 
+        "601", 
+        "602", 
+        "603", 
+        "604", 
+        "605", 
+        "606", 
+        "607", 
+        "608", 
+        "609", 
+        "610", 
+        "624"
       ], 
       "hnrlbls": [
         "13-210"
@@ -82,24 +175,48 @@
       "lon": 2.622505674148685, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "E. Vanlangenhovestraat"
     }, 
     {
       "busnrs": [
+        "b"
+      ], 
+      "hnrlbls": [
+        "13-210"
+      ], 
+      "housenumber": "13_201", 
+      "lat": 51.11606937994288, 
+      "lon": 2.622505674148685, 
+      "municipality": "Koksijde", 
+      "pcode": "8670", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "street": "E. Vanlangenhovestraat"
+    }, 
+    {
+      "apptnrs": [
+        "001", 
+        "002", 
+        "101", 
+        "102", 
         "201", 
+        "202", 
+        "301", 
         "302", 
-        "401"
+        "401", 
+        "402", 
+        "501", 
+        "601"
       ], 
       "hnrlbls": [
         "14"
       ], 
       "housenumber": "14", 
-      "lat": 51.11641629351383, 
-      "lon": 2.623030410354647, 
+      "lat": 51.11641620787585, 
+      "lon": 2.6230306992574226, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "E. Vanlangenhovestraat"
     }, 
     {
@@ -111,16 +228,23 @@
       "lon": 2.62436017531924, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "E. Vanlangenhovestraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
+        "001", 
+        "002", 
+        "003", 
+        "004", 
         "101", 
+        "102", 
         "103", 
         "104", 
         "201", 
-        "202"
+        "202", 
+        "203", 
+        "204"
       ], 
       "hnrlbls": [
         "4"
@@ -130,7 +254,7 @@
       "lon": 2.6245188414826157, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "E. Vanlangenhovestraat"
     }, 
     {
@@ -142,7 +266,7 @@
       "lon": 2.62401153813132, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "E. Vanlangenhovestraat"
     }, 
     {
@@ -154,7 +278,7 @@
       "lon": 2.623647688132428, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "E. Vanlangenhovestraat"
     }, 
     {
@@ -166,7 +290,7 @@
       "lon": 2.6235908207088117, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "E. Vanlangenhovestraat"
     }
   ]

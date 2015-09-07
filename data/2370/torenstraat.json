@@ -2,17 +2,18 @@
   "addresses": [
     {
       "busnrs": [
-        "1"
+        "bus1", 
+        "bus2"
       ], 
       "hnrlbls": [
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 51.31963209819042, 
-      "lon": 5.084823018308187, 
+      "lat": 51.31965368169579, 
+      "lon": 5.084744297590899, 
       "municipality": "Arendonk", 
       "pcode": "2370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Torenstraat"
     }, 
     {
@@ -100,21 +101,27 @@
       "street": "Torenstraat"
     }, 
     {
+      "busnrs": [
+        "bus1"
+      ], 
       "hnrlbls": [
-        "1A-10"
+        "1A"
       ], 
       "housenumber": "1A", 
-      "lat": 51.31968173497379, 
-      "lon": 5.085027615995772, 
+      "lat": 51.319707952234545, 
+      "lon": 5.0849258726552575, 
       "municipality": "Arendonk", 
       "pcode": "2370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Torenstraat"
     }, 
     {
       "busnrs": [
+        "10", 
+        "12", 
         "13", 
-        "2", 
+        "14", 
+        "15", 
         "3", 
         "4", 
         "5", 
@@ -124,26 +131,14 @@
         "9"
       ], 
       "hnrlbls": [
-        "2-8"
+        "2"
       ], 
       "housenumber": "2", 
-      "lat": 51.31983718945807, 
-      "lon": 5.084782570965903, 
+      "lat": 51.31978936980611, 
+      "lon": 5.084801302456013, 
       "municipality": "Arendonk", 
       "pcode": "2370", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Torenstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "20"
-      ], 
-      "housenumber": "20", 
-      "lat": 51.31957896428822, 
-      "lon": 5.083620434130837, 
-      "municipality": "Arendonk", 
-      "pcode": "2370", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Torenstraat"
     }, 
     {
@@ -197,11 +192,11 @@
         "23"
       ], 
       "housenumber": "23", 
-      "lat": 51.31925129542849, 
-      "lon": 5.083716377853816, 
+      "lat": 51.31931808147477, 
+      "lon": 5.083625337928308, 
       "municipality": "Arendonk", 
       "pcode": "2370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Torenstraat"
     }, 
     {
@@ -246,25 +241,6 @@
       "street": "Torenstraat"
     }, 
     {
-      "busnrs": [
-        "10", 
-        "12", 
-        "13", 
-        "14", 
-        "15"
-      ], 
-      "hnrlbls": [
-        "2-8"
-      ], 
-      "housenumber": "2b", 
-      "lat": 51.31983718945807, 
-      "lon": 5.084782570965903, 
-      "municipality": "Arendonk", 
-      "pcode": "2370", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Torenstraat"
-    }, 
-    {
       "hnrlbls": [
         "3"
       ], 
@@ -290,22 +266,22 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6"
+        "bus1", 
+        "bus2", 
+        "bus3", 
+        "bus4", 
+        "bus5", 
+        "bus6"
       ], 
       "hnrlbls": [
         "31"
       ], 
       "housenumber": "31", 
-      "lat": 51.31904070958727, 
-      "lon": 5.08285048245745, 
+      "lat": 51.319233933080376, 
+      "lon": 5.082897211554615, 
       "municipality": "Arendonk", 
       "pcode": "2370", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Torenstraat"
     }, 
     {
@@ -329,11 +305,11 @@
         "33"
       ], 
       "housenumber": "33", 
-      "lat": 51.31922259143644, 
-      "lon": 5.082813113000461, 
+      "lat": 51.31921264081967, 
+      "lon": 5.0826719671263305, 
       "municipality": "Arendonk", 
       "pcode": "2370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Torenstraat"
     }, 
     {
@@ -374,18 +350,6 @@
     }, 
     {
       "hnrlbls": [
-        "37"
-      ], 
-      "housenumber": "37", 
-      "lat": 51.31903228788817, 
-      "lon": 5.0823838819535725, 
-      "municipality": "Arendonk", 
-      "pcode": "2370", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Torenstraat"
-    }, 
-    {
-      "hnrlbls": [
         "38-40"
       ], 
       "housenumber": "38", 
@@ -406,18 +370,6 @@
       "municipality": "Arendonk", 
       "pcode": "2370", 
       "source": "afgeleidVanGebouw", 
-      "street": "Torenstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "4"
-      ], 
-      "housenumber": "4", 
-      "lat": 51.31980703041707, 
-      "lon": 5.084612125548815, 
-      "municipality": "Arendonk", 
-      "pcode": "2370", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Torenstraat"
     }, 
     {

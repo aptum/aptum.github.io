@@ -1,9 +1,6 @@
 {
   "addresses": [
     {
-      "apptnrs": [
-        "1L"
-      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -16,7 +13,7 @@
       "street": "Handboogstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "GVLL", 
         "GVLR", 
         "V1L", 
@@ -28,11 +25,11 @@
         "11"
       ], 
       "housenumber": "11", 
-      "lat": 51.203006896365416, 
-      "lon": 4.521895067423855, 
+      "lat": 51.20305600271578, 
+      "lon": 4.5221815226108335, 
       "municipality": "Wommelgem", 
       "pcode": "2160", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Handboogstraat"
     }, 
     {
@@ -48,7 +45,7 @@
       "street": "Handboogstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "GVLL", 
         "GVLR", 
         "V1A", 
@@ -63,11 +60,11 @@
         "13"
       ], 
       "housenumber": "13", 
-      "lat": 51.20303602636408, 
-      "lon": 4.52182033354804, 
+      "lat": 51.20311036637198, 
+      "lon": 4.521987401218379, 
       "municipality": "Wommelgem", 
       "pcode": "2160", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Handboogstraat"
     }, 
     {
@@ -84,9 +81,9 @@
     }, 
     {
       "apptnrs": [
-        "GVL0", 
-        "V001", 
-        "V002"
+        "GVL", 
+        "V1", 
+        "V2"
       ], 
       "hnrlbls": [
         "15-17"
@@ -113,9 +110,9 @@
     }, 
     {
       "apptnrs": [
-        "GVL0", 
-        "V001", 
-        "V002"
+        "GVL", 
+        "V1", 
+        "V2"
       ], 
       "hnrlbls": [
         "15-17"
@@ -141,16 +138,16 @@
         "18"
       ], 
       "housenumber": "18", 
-      "lat": 51.20368833752882, 
-      "lon": 4.52194453129537, 
+      "lat": 51.203435170289026, 
+      "lon": 4.521777294619526, 
       "municipality": "Wommelgem", 
       "pcode": "2160", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Handboogstraat"
     }, 
     {
       "apptnrs": [
-        "0.0"
+        "GVL"
       ], 
       "hnrlbls": [
         "19"
@@ -165,8 +162,8 @@
     }, 
     {
       "apptnrs": [
-        "0.1", 
-        "0.2"
+        "V1", 
+        "V2"
       ], 
       "hnrlbls": [
         "25"
@@ -181,8 +178,6 @@
     }, 
     {
       "apptnrs": [
-        "0.1", 
-        "0.2", 
         "V1", 
         "V2"
       ], 
@@ -199,7 +194,7 @@
     }, 
     {
       "apptnrs": [
-        "0.1"
+        "V1"
       ], 
       "hnrlbls": [
         "29"
@@ -214,11 +209,9 @@
     }, 
     {
       "apptnrs": [
-        "0.1", 
-        "0.2", 
-        "GVL0", 
-        "V001", 
-        "V002"
+        "GVL", 
+        "V1", 
+        "V2"
       ], 
       "hnrlbls": [
         "30-32"
@@ -245,9 +238,9 @@
     }, 
     {
       "apptnrs": [
-        "GVL0", 
-        "V001", 
-        "V002"
+        "GVL", 
+        "V1", 
+        "V2"
       ], 
       "hnrlbls": [
         "30-32"
@@ -262,9 +255,8 @@
     }, 
     {
       "apptnrs": [
-        "0.0", 
-        "0.1", 
-        "0.2", 
+        "GVL", 
+        "V1", 
         "V2"
       ], 
       "hnrlbls": [
@@ -280,9 +272,9 @@
     }, 
     {
       "apptnrs": [
-        "0.0", 
-        "0.1", 
-        "0.2"
+        "GVL", 
+        "V1", 
+        "V2"
       ], 
       "hnrlbls": [
         "35"
@@ -309,10 +301,12 @@
     }, 
     {
       "apptnrs": [
-        "0.2", 
-        "1L", 
-        "1R", 
-        "2R"
+        "GVLL", 
+        "GVLR", 
+        "V1L", 
+        "V1R", 
+        "V2L", 
+        "V2R"
       ], 
       "hnrlbls": [
         "37"

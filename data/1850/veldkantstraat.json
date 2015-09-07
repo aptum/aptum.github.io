@@ -790,7 +790,8 @@
     }, 
     {
       "busnrs": [
-        "1"
+        "1", 
+        "101"
       ], 
       "hnrlbls": [
         "205"
@@ -2068,6 +2069,13 @@
       "street": "Veldkantstraat"
     }, 
     {
+      "busnrs": [
+        "101", 
+        "102", 
+        "103", 
+        "2", 
+        "3"
+      ], 
       "hnrlbls": [
         "99"
       ], 
@@ -2077,6 +2085,21 @@
       "municipality": "Grimbergen", 
       "pcode": "1850", 
       "source": "afgeleidVanGebouw", 
+      "street": "Veldkantstraat"
+    }, 
+    {
+      "busnrs": [
+        "1"
+      ], 
+      "hnrlbls": [
+        "99B"
+      ], 
+      "housenumber": "99B", 
+      "lat": 50.93448098213309, 
+      "lon": 4.378677116628882, 
+      "municipality": "Grimbergen", 
+      "pcode": "1850", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Veldkantstraat"
     }
   ]

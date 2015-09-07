@@ -2,7 +2,7 @@
   "addresses": [
     {
       "hnrlbls": [
-        "1-1B"
+        "1"
       ], 
       "housenumber": "1", 
       "lat": 51.21468382156748, 
@@ -14,7 +14,12 @@
     }, 
     {
       "busnrs": [
-        "4"
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6"
       ], 
       "hnrlbls": [
         "10"
@@ -125,9 +130,6 @@
       "street": "Lange Vlierstraat"
     }, 
     {
-      "busnrs": [
-        "32"
-      ], 
       "hnrlbls": [
         "18"
       ], 
@@ -140,25 +142,24 @@
       "street": "Lange Vlierstraat"
     }, 
     {
-      "busnrs": [
-        "L"
-      ], 
       "hnrlbls": [
         "18_2"
       ], 
       "housenumber": "18_2", 
-      "lat": 51.21427036923068, 
-      "lon": 4.397215052085838, 
+      "lat": 51.21427011576108, 
+      "lon": 4.397215037616121, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Lange Vlierstraat"
     }, 
     {
       "busnrs": [
+        "1", 
         "2", 
         "3", 
-        "4"
+        "4", 
+        "5"
       ], 
       "hnrlbls": [
         "19"
@@ -173,26 +174,26 @@
     }, 
     {
       "hnrlbls": [
-        "1-1B"
+        "1A-1B"
       ], 
       "housenumber": "1A", 
-      "lat": 51.21468382156748, 
-      "lon": 4.396907759174141, 
+      "lat": 51.214683382870376, 
+      "lon": 4.3969043327601005, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Lange Vlierstraat"
     }, 
     {
       "hnrlbls": [
-        "1-1B"
+        "1A-1B"
       ], 
       "housenumber": "1B", 
-      "lat": 51.21468382156748, 
-      "lon": 4.396907759174141, 
+      "lat": 51.214683382870376, 
+      "lon": 4.3969043327601005, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Lange Vlierstraat"
     }, 
     {
@@ -318,16 +319,19 @@
         "28"
       ], 
       "housenumber": "28", 
-      "lat": 51.21416264285652, 
-      "lon": 4.397757809046973, 
+      "lat": 51.21411935122506, 
+      "lon": 4.3976281220070135, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "geinterpoleerdObvWegverbinding", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Lange Vlierstraat"
     }, 
     {
       "busnrs": [
-        "1"
+        "1", 
+        "2", 
+        "3", 
+        "4"
       ], 
       "hnrlbls": [
         "29"
@@ -383,49 +387,39 @@
       "street": "Lange Vlierstraat"
     }, 
     {
-      "busnrs": [
-        "B"
-      ], 
       "hnrlbls": [
         "33_2-33_4"
       ], 
       "housenumber": "33_2", 
-      "lat": 51.214241521869795, 
-      "lon": 4.397913565542134, 
+      "lat": 51.21423072476915, 
+      "lon": 4.397903765452623, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Lange Vlierstraat"
     }, 
     {
-      "busnrs": [
-        "A"
-      ], 
       "hnrlbls": [
         "33_2-33_4"
       ], 
       "housenumber": "33_3", 
-      "lat": 51.214241521869795, 
-      "lon": 4.397913565542134, 
+      "lat": 51.21423072476915, 
+      "lon": 4.397903765452623, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Lange Vlierstraat"
     }, 
     {
-      "busnrs": [
-        "A", 
-        "B"
-      ], 
       "hnrlbls": [
         "33_2-33_4"
       ], 
       "housenumber": "33_4", 
-      "lat": 51.214241521869795, 
-      "lon": 4.397913565542134, 
+      "lat": 51.21423072476915, 
+      "lon": 4.397903765452623, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Lange Vlierstraat"
     }, 
     {
@@ -489,6 +483,14 @@
       "street": "Lange Vlierstraat"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6"
+      ], 
       "hnrlbls": [
         "8"
       ], 

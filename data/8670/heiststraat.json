@@ -1,9 +1,18 @@
 {
   "addresses": [
     {
-      "busnrs": [
+      "apptnrs": [
+        "001", 
         "101", 
-        "201"
+        "102", 
+        "201", 
+        "202", 
+        "301", 
+        "302", 
+        "401", 
+        "402", 
+        "501", 
+        "502"
       ], 
       "hnrlbls": [
         "1"
@@ -13,10 +22,20 @@
       "lon": 2.637160312953407, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Heiststraat"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "102", 
+        "201", 
+        "202", 
+        "301", 
+        "302", 
+        "GV01", 
+        "GV02"
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -25,38 +44,55 @@
       "lon": 2.637268606588939, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Heiststraat"
     }, 
     {
-      "busnrs": [
-        "101"
+      "apptnrs": [
+        "002", 
+        "101", 
+        "102", 
+        "201", 
+        "202", 
+        "301", 
+        "302", 
+        "401", 
+        "402", 
+        "501", 
+        "GV01"
       ], 
       "hnrlbls": [
         "11-13"
       ], 
       "housenumber": "11", 
-      "lat": 51.12168009010018, 
-      "lon": 2.6368687342912307, 
+      "lat": 51.121704928840025, 
+      "lon": 2.6368948159299337, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Heiststraat"
     }, 
     {
-      "busnrs": [
-        "101", 
-        "201"
+      "apptnrs": [
+        "0101", 
+        "0201", 
+        "102", 
+        "202", 
+        "301", 
+        "401", 
+        "501", 
+        "601", 
+        "701"
       ], 
       "hnrlbls": [
-        "12"
+        "12-359"
       ], 
       "housenumber": "12", 
-      "lat": 51.12188311603477, 
-      "lon": 2.637206095508272, 
+      "lat": 51.12193920070006, 
+      "lon": 2.6371434414866566, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Heiststraat"
     }, 
     {
@@ -64,38 +100,74 @@
         "11-13"
       ], 
       "housenumber": "13", 
-      "lat": 51.12168009010018, 
-      "lon": 2.6368687342912307, 
+      "lat": 51.121704928840025, 
+      "lon": 2.6368948159299337, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Heiststraat"
     }, 
     {
       "hnrlbls": [
-        "14"
+        "12-359"
       ], 
       "housenumber": "14", 
-      "lat": 51.121939039831396, 
-      "lon": 2.637144733263203, 
+      "lat": 51.12193920070006, 
+      "lon": 2.6371434414866566, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Heiststraat"
     }, 
     {
       "apptnrs": [
-        "1"
+        "101", 
+        "102", 
+        "201", 
+        "202", 
+        "301", 
+        "302", 
+        "401", 
+        "402", 
+        "501", 
+        "601", 
+        "602"
       ], 
       "hnrlbls": [
-        "2"
+        "15-358"
       ], 
-      "housenumber": "2", 
-      "lat": 51.12160707367261, 
-      "lon": 2.637493199188272, 
+      "housenumber": "15", 
+      "lat": 51.12180942005659, 
+      "lon": 2.6368283679104914, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Heiststraat"
+    }, 
+    {
+      "apptnrs": [
+        "1", 
+        "101", 
+        "102", 
+        "103", 
+        "201", 
+        "202", 
+        "203", 
+        "301", 
+        "302", 
+        "303", 
+        "GV01", 
+        "GV02"
+      ], 
+      "hnrlbls": [
+        "2-82"
+      ], 
+      "housenumber": "2", 
+      "lat": 51.12160680827371, 
+      "lon": 2.6374934947537843, 
+      "municipality": "Koksijde", 
+      "pcode": "8670", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Heiststraat"
     }, 
     {
@@ -107,12 +179,14 @@
       "lon": 2.637088304501362, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Heiststraat"
     }, 
     {
-      "busnrs": [
-        "101"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "4"
@@ -122,7 +196,7 @@
       "lon": 2.6374443198561854, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Heiststraat"
     }, 
     {
@@ -134,12 +208,14 @@
       "lon": 2.637056833765561, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Heiststraat"
     }, 
     {
-      "busnrs": [
-        "101"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "6"
@@ -149,7 +225,7 @@
       "lon": 2.637407028185217, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Heiststraat"
     }, 
     {
@@ -161,12 +237,16 @@
       "lon": 2.63701910352929, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Heiststraat"
     }, 
     {
-      "busnrs": [
-        "401"
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301", 
+        "401", 
+        "501"
       ], 
       "hnrlbls": [
         "8"
@@ -176,7 +256,7 @@
       "lon": 2.6373691752773736, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Heiststraat"
     }, 
     {
@@ -184,11 +264,11 @@
         "9"
       ], 
       "housenumber": "9", 
-      "lat": 51.121638747102644, 
-      "lon": 2.636980131404835, 
+      "lat": 51.12163892054203, 
+      "lon": 2.6369796963758083, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Heiststraat"
     }
   ]

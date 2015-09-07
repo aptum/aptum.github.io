@@ -2,9 +2,15 @@
   "addresses": [
     {
       "busnrs": [
-        "2", 
-        "3", 
-        "C"
+        "01", 
+        "02", 
+        "03", 
+        "11", 
+        "12", 
+        "13", 
+        "21", 
+        "22", 
+        "23"
       ], 
       "hnrlbls": [
         "1"
@@ -78,18 +84,15 @@
       "street": "Zeelandstraat"
     }, 
     {
-      "busnrs": [
-        "B"
-      ], 
       "hnrlbls": [
         "1_1"
       ], 
       "housenumber": "1_1", 
-      "lat": 51.18378760846369, 
-      "lon": 4.3694270144643355, 
+      "lat": 51.183783582657476, 
+      "lon": 4.36941402107429, 
       "municipality": "Antwerpen", 
       "pcode": "2660", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Zeelandstraat"
     }, 
     {
@@ -229,11 +232,11 @@
         "38"
       ], 
       "housenumber": "38", 
-      "lat": 51.18487004598944, 
-      "lon": 4.371730563109335, 
+      "lat": 51.1850607030166, 
+      "lon": 4.372461714225301, 
       "municipality": "Antwerpen", 
       "pcode": "2660", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Zeelandstraat"
     }, 
     {
@@ -243,6 +246,18 @@
       "housenumber": "39", 
       "lat": 51.18459837053385, 
       "lon": 4.369579785139801, 
+      "municipality": "Antwerpen", 
+      "pcode": "2660", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Zeelandstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "40"
+      ], 
+      "housenumber": "40", 
+      "lat": 51.185660596651594, 
+      "lon": 4.371110243592929, 
       "municipality": "Antwerpen", 
       "pcode": "2660", 
       "source": "afgeleidVanGebouw", 

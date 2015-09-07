@@ -25,8 +25,10 @@
       "street": "Rode Kruislaan"
     }, 
     {
-      "busnrs": [
-        "3"
+      "apptnrs": [
+        "001", 
+        "011", 
+        "021"
       ], 
       "hnrlbls": [
         "11"
@@ -64,14 +66,6 @@
       "street": "Rode Kruislaan"
     }, 
     {
-      "apptnrs": [
-        "1.0", 
-        "2.0"
-      ], 
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
       "hnrlbls": [
         "16"
       ], 
@@ -205,12 +199,8 @@
     }, 
     {
       "apptnrs": [
-        "1.0", 
-        "2.0"
-      ], 
-      "busnrs": [
-        "1", 
-        "2"
+        "011", 
+        "021"
       ], 
       "hnrlbls": [
         "28"
@@ -240,8 +230,8 @@
         "3"
       ], 
       "housenumber": "3", 
-      "lat": 50.887633413536086, 
-      "lon": 4.46921647114441, 
+      "lat": 50.8876671482721, 
+      "lon": 4.469188120333102, 
       "municipality": "Zaventem", 
       "pcode": "1930", 
       "source": "afgeleidVanGebouw", 
@@ -296,6 +286,10 @@
       "street": "Rode Kruislaan"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "011"
+      ], 
       "hnrlbls": [
         "36"
       ], 
@@ -309,11 +303,9 @@
     }, 
     {
       "apptnrs": [
-        "1.0"
-      ], 
-      "busnrs": [
-        "2", 
-        "3"
+        "001", 
+        "011", 
+        "021"
       ], 
       "hnrlbls": [
         "38"
@@ -331,11 +323,11 @@
         "39"
       ], 
       "housenumber": "39", 
-      "lat": 50.88883019600505, 
-      "lon": 4.468352964280895, 
+      "lat": 50.88881675434781, 
+      "lon": 4.468280288963698, 
       "municipality": "Zaventem", 
       "pcode": "1930", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Rode Kruislaan"
     }, 
     {
@@ -568,38 +560,34 @@
     }, 
     {
       "apptnrs": [
-        "1.0"
-      ], 
-      "busnrs": [
-        "1"
+        "011", 
+        "021"
       ], 
       "hnrlbls": [
-        "7-9"
+        "7"
       ], 
       "housenumber": "7", 
-      "lat": 50.88786114394717, 
-      "lon": 4.469078965115094, 
+      "lat": 50.887835675033344, 
+      "lon": 4.469099268832528, 
       "municipality": "Zaventem", 
       "pcode": "1930", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rode Kruislaan"
     }, 
     {
       "apptnrs": [
-        "2.0"
-      ], 
-      "busnrs": [
-        "1"
+        "011", 
+        "021"
       ], 
       "hnrlbls": [
-        "7-9"
+        "9"
       ], 
       "housenumber": "9", 
-      "lat": 50.88786114394717, 
-      "lon": 4.469078965115094, 
+      "lat": 50.8878747216329, 
+      "lon": 4.469061549377822, 
       "municipality": "Zaventem", 
       "pcode": "1930", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rode Kruislaan"
     }
   ]

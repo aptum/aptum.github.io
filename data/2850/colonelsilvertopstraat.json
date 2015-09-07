@@ -88,16 +88,14 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "2", 
-        "23"
+        "0001"
       ], 
       "hnrlbls": [
-        "19-23"
+        "19"
       ], 
       "housenumber": "19", 
-      "lat": 51.0865174400129, 
-      "lon": 4.361274488371317, 
+      "lat": 51.086462856144955, 
+      "lon": 4.361369164137355, 
       "municipality": "Boom", 
       "pcode": "2850", 
       "source": "afgeleidVanGebouw", 
@@ -127,15 +125,15 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "2"
+        "0001", 
+        "0002"
       ], 
       "hnrlbls": [
-        "19-23"
+        "21"
       ], 
       "housenumber": "21", 
-      "lat": 51.0865174400129, 
-      "lon": 4.361274488371317, 
+      "lat": 51.08651897677372, 
+      "lon": 4.361278395437678, 
       "municipality": "Boom", 
       "pcode": "2850", 
       "source": "afgeleidVanGebouw", 
@@ -143,14 +141,14 @@
     }, 
     {
       "busnrs": [
-        "1"
+        "0001"
       ], 
       "hnrlbls": [
-        "19-23"
+        "23"
       ], 
       "housenumber": "23", 
-      "lat": 51.0865174400129, 
-      "lon": 4.361274488371317, 
+      "lat": 51.08657045595176, 
+      "lon": 4.361175884982894, 
       "municipality": "Boom", 
       "pcode": "2850", 
       "source": "afgeleidVanGebouw", 
@@ -173,6 +171,18 @@
       "street": "Colonel Silvertopstraat"
     }, 
     {
+      "apptnrs": [
+        "00.1", 
+        "00.2", 
+        "01.2", 
+        "02.1", 
+        "02.2", 
+        "03.1", 
+        "03.2", 
+        "04.1", 
+        "04.2", 
+        "05.1"
+      ], 
       "busnrs": [
         "27/00.1", 
         "27/00.2", 
@@ -199,6 +209,18 @@
       "street": "Colonel Silvertopstraat"
     }, 
     {
+      "apptnrs": [
+        "00.1", 
+        "01.1", 
+        "01.2", 
+        "02.1", 
+        "02.2", 
+        "03.1", 
+        "04.1", 
+        "04.2", 
+        "05.1", 
+        "05.2"
+      ], 
       "busnrs": [
         "29/00.1", 
         "29/00.2", 
@@ -225,18 +247,19 @@
       "street": "Colonel Silvertopstraat"
     }, 
     {
-      "hnrlbls": [
-        "1-17"
+      "apptnrs": [
+        "00.1", 
+        "00.2", 
+        "01.1", 
+        "01.2", 
+        "02.1", 
+        "02.2", 
+        "03.1", 
+        "03.2", 
+        "04.1", 
+        "05.1", 
+        "05.2"
       ], 
-      "housenumber": "2B", 
-      "lat": 51.086242108804015, 
-      "lon": 4.363000306364087, 
-      "municipality": "Boom", 
-      "pcode": "2850", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Colonel Silvertopstraat"
-    }, 
-    {
       "busnrs": [
         "31/00.1", 
         "31/00.2", 
@@ -263,6 +286,15 @@
       "street": "Colonel Silvertopstraat"
     }, 
     {
+      "apptnrs": [
+        "00.1", 
+        "01.1", 
+        "01.3", 
+        "02.2", 
+        "03.1", 
+        "04.2", 
+        "05.1"
+      ], 
       "busnrs": [
         "33/00.1", 
         "33/00.2", 
@@ -312,23 +344,11 @@
     }, 
     {
       "hnrlbls": [
-        "1-17"
-      ], 
-      "housenumber": "4A", 
-      "lat": 51.086242108804015, 
-      "lon": 4.363000306364087, 
-      "municipality": "Boom", 
-      "pcode": "2850", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Colonel Silvertopstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "5-7"
+        "5"
       ], 
       "housenumber": "5", 
-      "lat": 51.085781598038885, 
-      "lon": 4.362713205081813, 
+      "lat": 51.08584063094353, 
+      "lon": 4.362820504047825, 
       "municipality": "Boom", 
       "pcode": "2850", 
       "source": "afgeleidVanGebouw", 
@@ -358,14 +378,14 @@
     }, 
     {
       "hnrlbls": [
-        "5-7"
+        "7"
       ], 
       "housenumber": "7", 
-      "lat": 51.085781598038885, 
-      "lon": 4.362713205081813, 
+      "lat": 51.08587548343372, 
+      "lon": 4.362726266461318, 
       "municipality": "Boom", 
       "pcode": "2850", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Colonel Silvertopstraat"
     }, 
     {
@@ -373,8 +393,8 @@
         "9"
       ], 
       "housenumber": "9", 
-      "lat": 51.08589889402106, 
-      "lon": 4.362532365939987, 
+      "lat": 51.08586199703151, 
+      "lon": 4.362565045753963, 
       "municipality": "Boom", 
       "pcode": "2850", 
       "source": "afgeleidVanGebouw", 

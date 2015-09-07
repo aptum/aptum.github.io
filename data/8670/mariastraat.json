@@ -1,7 +1,8 @@
 {
   "addresses": [
     {
-      "busnrs": [
+      "apptnrs": [
+        "1", 
         "101", 
         "201"
       ], 
@@ -9,11 +10,11 @@
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 51.118913939098654, 
-      "lon": 2.6367389361756657, 
+      "lat": 51.118901265246826, 
+      "lon": 2.6367636918718795, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Mariastraat"
     }, 
     {
@@ -21,31 +22,39 @@
         "10"
       ], 
       "housenumber": "10", 
-      "lat": 51.119612826888876, 
-      "lon": 2.636445173579847, 
+      "lat": 51.119602378396216, 
+      "lon": 2.63641327413969, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Mariastraat"
     }, 
     {
+      "apptnrs": [
+        "1", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "11"
       ], 
       "housenumber": "11", 
-      "lat": 51.11927593807223, 
-      "lon": 2.636194795938071, 
+      "lat": 51.11927638319383, 
+      "lon": 2.6361944937181074, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Mariastraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
+        "0102", 
+        "1", 
         "101", 
-        "102", 
         "201", 
-        "202"
+        "202", 
+        "GV02", 
+        "KV01"
       ], 
       "hnrlbls": [
         "13"
@@ -55,7 +64,7 @@
       "lon": 2.636127469456666, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Mariastraat"
     }, 
     {
@@ -63,11 +72,11 @@
         "15"
       ], 
       "housenumber": "15", 
-      "lat": 51.11936354752818, 
-      "lon": 2.636044116322255, 
+      "lat": 51.119363994745925, 
+      "lon": 2.636043956883261, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Mariastraat"
     }, 
     {
@@ -79,25 +88,28 @@
       "lon": 2.6359020355463842, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Mariastraat"
     }, 
     {
       "hnrlbls": [
-        "2"
+        "1-2"
       ], 
       "housenumber": "2", 
       "lat": 51.11927739483616, 
       "lon": 2.636777898115668, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Mariastraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
+        "1", 
         "101", 
-        "201"
+        "201", 
+        "GV01", 
+        "KV01"
       ], 
       "hnrlbls": [
         "3"
@@ -107,7 +119,7 @@
       "lon": 2.636668438828192, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Mariastraat"
     }, 
     {
@@ -119,13 +131,14 @@
       "lon": 2.6365687664041975, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Mariastraat"
     }, 
     {
-      "busnrs": [
-        "201", 
-        "5"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "5"
@@ -135,7 +148,7 @@
       "lon": 2.636608015105028, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Mariastraat"
     }, 
     {
@@ -147,7 +160,7 @@
       "lon": 2.636503345047965, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Mariastraat"
     }, 
     {
@@ -159,7 +172,7 @@
       "lon": 2.636496720049833, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Mariastraat"
     }, 
     {
@@ -171,12 +184,14 @@
       "lon": 2.636444840483933, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Mariastraat"
     }, 
     {
-      "busnrs": [
-        "101"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "9"
@@ -186,7 +201,7 @@
       "lon": 2.6362599545724343, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Mariastraat"
     }
   ]

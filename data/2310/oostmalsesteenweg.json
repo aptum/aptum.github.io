@@ -829,8 +829,8 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "2"
+        "0001", 
+        "0101"
       ], 
       "hnrlbls": [
         "168"
@@ -844,15 +844,18 @@
       "street": "Oostmalsesteenweg"
     }, 
     {
-      "hnrlbls": [
-        "168A"
+      "busnrs": [
+        "1"
       ], 
-      "housenumber": "168A", 
+      "hnrlbls": [
+        "168A-168B"
+      ], 
+      "housenumber": "168B", 
       "lat": 51.335900261672734, 
       "lon": 4.750384168728001, 
       "municipality": "Rijkevorsel", 
       "pcode": "2310", 
-      "source": "afgeleidVanGebouw", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Oostmalsesteenweg"
     }, 
     {
@@ -884,8 +887,8 @@
         "170"
       ], 
       "housenumber": "170", 
-      "lat": 51.33580360819956, 
-      "lon": 4.750421829078785, 
+      "lat": 51.33590027158092, 
+      "lon": 4.750384238904731, 
       "municipality": "Rijkevorsel", 
       "pcode": "2310", 
       "source": "afgeleidVanGebouw", 
@@ -904,15 +907,19 @@
       "street": "Oostmalsesteenweg"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "172"
       ], 
       "housenumber": "172", 
-      "lat": 51.336215111121305, 
-      "lon": 4.749855271558881, 
+      "lat": 51.33579851982741, 
+      "lon": 4.750341726131613, 
       "municipality": "Rijkevorsel", 
       "pcode": "2310", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Oostmalsesteenweg"
     }, 
     {

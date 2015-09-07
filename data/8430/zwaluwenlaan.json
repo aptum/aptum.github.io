@@ -1,33 +1,424 @@
 {
   "addresses": [
     {
-      "busnrs": [
-        "101", 
-        "201", 
-        "202", 
-        "301"
+      "apptnrs": [
+        "-101", 
+        "-102", 
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302"
       ], 
       "hnrlbls": [
-        "2-78"
+        "10"
       ], 
-      "housenumber": "2", 
-      "lat": 51.171460983019486, 
-      "lon": 2.779234526250732, 
+      "housenumber": "10", 
+      "lat": 51.17174733820586, 
+      "lon": 2.7792415105885446, 
       "municipality": "Middelkerke", 
       "pcode": "8430", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Zwaluwenlaan"
     }, 
     {
       "hnrlbls": [
-        "8"
+        "11"
       ], 
-      "housenumber": "8", 
-      "lat": 51.17169238208511, 
-      "lon": 2.779233084394797, 
+      "housenumber": "11", 
+      "lat": 51.17158376516538, 
+      "lon": 2.7788447797114655, 
       "municipality": "Middelkerke", 
       "pcode": "8430", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Zwaluwenlaan"
+    }, 
+    {
+      "apptnrs": [
+        "0001", 
+        "0101", 
+        "0201", 
+        "0301"
+      ], 
+      "hnrlbls": [
+        "12"
+      ], 
+      "housenumber": "12", 
+      "lat": 51.17182546200459, 
+      "lon": 2.779221117154949, 
+      "municipality": "Middelkerke", 
+      "pcode": "8430", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Zwaluwenlaan"
+    }, 
+    {
+      "hnrlbls": [
+        "13"
+      ], 
+      "housenumber": "13", 
+      "lat": 51.17163641203701, 
+      "lon": 2.7788352642330194, 
+      "municipality": "Middelkerke", 
+      "pcode": "8430", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Zwaluwenlaan"
+    }, 
+    {
+      "apptnrs": [
+        "0101", 
+        "0102", 
+        "0103", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0301", 
+        "0302", 
+        "0303", 
+        "0401"
+      ], 
+      "hnrlbls": [
+        "14"
+      ], 
+      "housenumber": "14", 
+      "lat": 51.1719061252812, 
+      "lon": 2.7792290972492335, 
+      "municipality": "Middelkerke", 
+      "pcode": "8430", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Zwaluwenlaan"
+    }, 
+    {
+      "apptnrs": [
+        "0101", 
+        "0102", 
+        "0103", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0301", 
+        "0302", 
+        "0303", 
+        "0401"
+      ], 
+      "hnrlbls": [
+        "15"
+      ], 
+      "housenumber": "15", 
+      "lat": 51.17171590930161, 
+      "lon": 2.7788234042820332, 
+      "municipality": "Middelkerke", 
+      "pcode": "8430", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Zwaluwenlaan"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302"
+      ], 
+      "hnrlbls": [
+        "2"
+      ], 
+      "housenumber": "2", 
+      "lat": 51.17146550704126, 
+      "lon": 2.7792366604638703, 
+      "municipality": "Middelkerke", 
+      "pcode": "8430", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Zwaluwenlaan"
+    }, 
+    {
+      "apptnrs": [
+        "0001", 
+        "0101", 
+        "0201", 
+        "0301"
+      ], 
+      "hnrlbls": [
+        "20"
+      ], 
+      "housenumber": "20", 
+      "lat": 51.1719873074601, 
+      "lon": 2.7792221860861486, 
+      "municipality": "Middelkerke", 
+      "pcode": "8430", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Zwaluwenlaan"
+    }, 
+    {
+      "apptnrs": [
+        "0101", 
+        "0102", 
+        "0103"
+      ], 
+      "hnrlbls": [
+        "21"
+      ], 
+      "housenumber": "21", 
+      "lat": 51.17184819321083, 
+      "lon": 2.7786654444852075, 
+      "municipality": "Middelkerke", 
+      "pcode": "8430", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Zwaluwenlaan"
+    }, 
+    {
+      "apptnrs": [
+        "0001", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302"
+      ], 
+      "hnrlbls": [
+        "22"
+      ], 
+      "housenumber": "22", 
+      "lat": 51.172057960573625, 
+      "lon": 2.77922121096289, 
+      "municipality": "Middelkerke", 
+      "pcode": "8430", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Zwaluwenlaan"
+    }, 
+    {
+      "apptnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302"
+      ], 
+      "hnrlbls": [
+        "23"
+      ], 
+      "housenumber": "23", 
+      "lat": 51.17197255014207, 
+      "lon": 2.778673365782652, 
+      "municipality": "Middelkerke", 
+      "pcode": "8430", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Zwaluwenlaan"
+    }, 
+    {
+      "apptnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302"
+      ], 
+      "hnrlbls": [
+        "24"
+      ], 
+      "housenumber": "24", 
+      "lat": 51.172143619214516, 
+      "lon": 2.7792195819779004, 
+      "municipality": "Middelkerke", 
+      "pcode": "8430", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Zwaluwenlaan"
+    }, 
+    {
+      "apptnrs": [
+        "0101", 
+        "0201", 
+        "0301"
+      ], 
+      "hnrlbls": [
+        "25"
+      ], 
+      "housenumber": "25", 
+      "lat": 51.17205830340469, 
+      "lon": 2.7787990166460563, 
+      "municipality": "Middelkerke", 
+      "pcode": "8430", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Zwaluwenlaan"
+    }, 
+    {
+      "apptnrs": [
+        "-101", 
+        "0001", 
+        "0101", 
+        "0201"
+      ], 
+      "hnrlbls": [
+        "26"
+      ], 
+      "housenumber": "26", 
+      "lat": 51.17221421830728, 
+      "lon": 2.779261370550974, 
+      "municipality": "Middelkerke", 
+      "pcode": "8430", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Zwaluwenlaan"
+    }, 
+    {
+      "apptnrs": [
+        "0001", 
+        "0101", 
+        "0201", 
+        "0301"
+      ], 
+      "hnrlbls": [
+        "27"
+      ], 
+      "housenumber": "27", 
+      "lat": 51.17212482217303, 
+      "lon": 2.778791459913433, 
+      "municipality": "Middelkerke", 
+      "pcode": "8430", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Zwaluwenlaan"
+    }, 
+    {
+      "hnrlbls": [
+        "28"
+      ], 
+      "housenumber": "28", 
+      "lat": 51.17226395577529, 
+      "lon": 2.77923607963673, 
+      "municipality": "Middelkerke", 
+      "pcode": "8430", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Zwaluwenlaan"
+    }, 
+    {
+      "apptnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0301", 
+        "0302", 
+        "0303", 
+        "0401", 
+        "0402"
+      ], 
+      "hnrlbls": [
+        "29"
+      ], 
+      "housenumber": "29", 
+      "lat": 51.172206732835726, 
+      "lon": 2.778738471910879, 
+      "municipality": "Middelkerke", 
+      "pcode": "8430", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Zwaluwenlaan"
+    }, 
+    {
+      "hnrlbls": [
+        "33"
+      ], 
+      "housenumber": "33", 
+      "lat": 51.17229222165667, 
+      "lon": 2.7788110733954325, 
+      "municipality": "Middelkerke", 
+      "pcode": "8430", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Zwaluwenlaan"
+    }, 
+    {
+      "hnrlbls": [
+        "4"
+      ], 
+      "housenumber": "4", 
+      "lat": 51.171554015140025, 
+      "lon": 2.7791928883359254, 
+      "municipality": "Middelkerke", 
+      "pcode": "8430", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Zwaluwenlaan"
+    }, 
+    {
+      "hnrlbls": [
+        "5"
+      ], 
+      "housenumber": "5", 
+      "lat": 51.17142117547344, 
+      "lon": 2.77886190019893, 
+      "municipality": "Middelkerke", 
+      "pcode": "8430", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Zwaluwenlaan"
+    }, 
+    {
+      "apptnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0301", 
+        "0302", 
+        "0303", 
+        "0401", 
+        "0402"
+      ], 
+      "hnrlbls": [
+        "6"
+      ], 
+      "housenumber": "6", 
+      "lat": 51.17163742403941, 
+      "lon": 2.7792245152718613, 
+      "municipality": "Middelkerke", 
+      "pcode": "8430", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Zwaluwenlaan"
+    }, 
+    {
+      "hnrlbls": [
+        "7"
+      ], 
+      "housenumber": "7", 
+      "lat": 51.171474515433104, 
+      "lon": 2.778863802294258, 
+      "municipality": "Middelkerke", 
+      "pcode": "8430", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Zwaluwenlaan"
+    }, 
+    {
+      "apptnrs": [
+        "0001", 
+        "0101", 
+        "0201", 
+        "0301"
+      ], 
+      "hnrlbls": [
+        "9"
+      ], 
+      "housenumber": "9", 
+      "lat": 51.17152850011717, 
+      "lon": 2.778846804568179, 
+      "municipality": "Middelkerke", 
+      "pcode": "8430", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Zwaluwenlaan"
     }
   ]

@@ -32,11 +32,11 @@
         "100"
       ], 
       "housenumber": "100", 
-      "lat": 51.200496363233846, 
-      "lon": 3.203693278998519, 
+      "lat": 51.200532988810515, 
+      "lon": 3.2040340854828733, 
       "municipality": "Brugge", 
       "pcode": "8200", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanLigplaats", 
       "street": "Torhoutse Steenweg"
     }, 
     {
@@ -44,11 +44,11 @@
         "100A"
       ], 
       "housenumber": "100A", 
-      "lat": 51.20053971181789, 
-      "lon": 3.203732570609154, 
+      "lat": 51.200416285984886, 
+      "lon": 3.2039062409784966, 
       "municipality": "Brugge", 
       "pcode": "8200", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Torhoutse Steenweg"
     }, 
     {
@@ -68,11 +68,11 @@
         "102"
       ], 
       "housenumber": "102", 
-      "lat": 51.200416296165976, 
-      "lon": 3.203906188702521, 
+      "lat": 51.200285187192904, 
+      "lon": 3.2037918695359946, 
       "municipality": "Brugge", 
       "pcode": "8200", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanLigplaats", 
       "street": "Torhoutse Steenweg"
     }, 
     {
@@ -361,8 +361,8 @@
         "124-126"
       ], 
       "housenumber": "124", 
-      "lat": 51.19944869200731, 
-      "lon": 3.2029061377352352, 
+      "lat": 51.19943888975507, 
+      "lon": 3.2028966528293465, 
       "municipality": "Brugge", 
       "pcode": "8200", 
       "source": "afgeleidVanPerceelGrb", 
@@ -395,8 +395,8 @@
         "124-126"
       ], 
       "housenumber": "126", 
-      "lat": 51.19944869200731, 
-      "lon": 3.2029061377352352, 
+      "lat": 51.19943888975507, 
+      "lon": 3.2028966528293465, 
       "municipality": "Brugge", 
       "pcode": "8200", 
       "source": "afgeleidVanPerceelGrb", 
@@ -577,8 +577,8 @@
         "137"
       ], 
       "housenumber": "137", 
-      "lat": 51.198599559688006, 
-      "lon": 3.2028993033498403, 
+      "lat": 51.19860010598161, 
+      "lon": 3.202900005114459, 
       "municipality": "Brugge", 
       "pcode": "8200", 
       "source": "afgeleidVanPerceelGrb", 
@@ -1113,14 +1113,21 @@
         "173A-175"
       ], 
       "housenumber": "173A", 
-      "lat": 51.19784283488382, 
-      "lon": 3.2020352598379205, 
+      "lat": 51.19784397924567, 
+      "lon": 3.2020327988778647, 
       "municipality": "Brugge", 
       "pcode": "8200", 
       "source": "afgeleidVanPerceelGrb", 
       "street": "Torhoutse Steenweg"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "101", 
+        "201", 
+        "301", 
+        "302"
+      ], 
       "hnrlbls": [
         "174"
       ], 
@@ -1137,8 +1144,8 @@
         "173A-175"
       ], 
       "housenumber": "175", 
-      "lat": 51.19784283488382, 
-      "lon": 3.2020352598379205, 
+      "lat": 51.19784397924567, 
+      "lon": 3.2020327988778647, 
       "municipality": "Brugge", 
       "pcode": "8200", 
       "source": "afgeleidVanPerceelGrb", 
@@ -1525,11 +1532,11 @@
         "203"
       ], 
       "housenumber": "203", 
-      "lat": 51.19663348328211, 
-      "lon": 3.2009442016137144, 
+      "lat": 51.19659981022557, 
+      "lon": 3.200914053656891, 
       "municipality": "Brugge", 
       "pcode": "8200", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanLigplaats", 
       "street": "Torhoutse Steenweg"
     }, 
     {
@@ -1542,6 +1549,18 @@
       "municipality": "Brugge", 
       "pcode": "8200", 
       "source": "afgeleidVanGebouw", 
+      "street": "Torhoutse Steenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "205"
+      ], 
+      "housenumber": "205", 
+      "lat": 51.19652346568526, 
+      "lon": 3.2008298320246014, 
+      "municipality": "Brugge", 
+      "pcode": "8200", 
+      "source": "manueleAanduidingVanLigplaats", 
       "street": "Torhoutse Steenweg"
     }, 
     {
@@ -1561,11 +1580,11 @@
         "207"
       ], 
       "housenumber": "207", 
-      "lat": 51.19650302908734, 
-      "lon": 3.200759364974569, 
+      "lat": 51.19643955190114, 
+      "lon": 3.200743797012897, 
       "municipality": "Brugge", 
       "pcode": "8200", 
-      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "source": "manueleAanduidingVanLigplaats", 
       "street": "Torhoutse Steenweg"
     }, 
     {
@@ -1587,18 +1606,6 @@
       "housenumber": "21", 
       "lat": 51.20305968547727, 
       "lon": 3.20806697001512, 
-      "municipality": "Brugge", 
-      "pcode": "8200", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Torhoutse Steenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "211"
-      ], 
-      "housenumber": "211", 
-      "lat": 51.19638470914068, 
-      "lon": 3.2007680046957225, 
       "municipality": "Brugge", 
       "pcode": "8200", 
       "source": "afgeleidVanGebouw", 
@@ -1953,9 +1960,15 @@
     {
       "busnrs": [
         "1", 
+        "101", 
+        "102", 
         "2", 
+        "201", 
+        "202", 
         "3", 
+        "302", 
         "4", 
+        "401", 
         "5", 
         "6", 
         "7", 
@@ -2058,18 +2071,6 @@
     }, 
     {
       "hnrlbls": [
-        "246B"
-      ], 
-      "housenumber": "246B", 
-      "lat": 51.194442800188575, 
-      "lon": 3.198215059954797, 
-      "municipality": "Brugge", 
-      "pcode": "8200", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Torhoutse Steenweg"
-    }, 
-    {
-      "hnrlbls": [
         "247"
       ], 
       "housenumber": "247", 
@@ -2096,12 +2097,22 @@
       "busnrs": [
         "1", 
         "10", 
+        "101", 
+        "102", 
         "11", 
         "12", 
         "2", 
+        "201", 
+        "202", 
         "3", 
+        "301", 
+        "302", 
         "4", 
+        "401", 
+        "402", 
         "5", 
+        "501", 
+        "502", 
         "6", 
         "7", 
         "8", 
@@ -2283,11 +2294,20 @@
       "busnrs": [
         "1", 
         "10", 
+        "101", 
+        "102", 
         "11", 
         "2", 
+        "202", 
         "3", 
+        "301", 
+        "302", 
         "4", 
+        "401", 
+        "402", 
         "5", 
+        "501", 
+        "502", 
         "6", 
         "7", 
         "8", 
@@ -2506,10 +2526,15 @@
     {
       "busnrs": [
         "1", 
+        "101", 
         "2", 
+        "201", 
         "3", 
+        "301", 
         "4", 
+        "401", 
         "5", 
+        "501", 
         "6"
       ], 
       "hnrlbls": [
@@ -2805,11 +2830,11 @@
         "310"
       ], 
       "housenumber": "310", 
-      "lat": 51.19077077493196, 
-      "lon": 3.1942958860007282, 
+      "lat": 51.19064003029665, 
+      "lon": 3.194607238926465, 
       "municipality": "Brugge", 
       "pcode": "8200", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Torhoutse Steenweg"
     }, 
     {
@@ -3189,11 +3214,11 @@
         "35"
       ], 
       "housenumber": "35", 
-      "lat": 51.2026617630077, 
-      "lon": 3.2076594600651234, 
+      "lat": 51.20273588378537, 
+      "lon": 3.207545147332976, 
       "municipality": "Brugge", 
       "pcode": "8200", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanLigplaats", 
       "street": "Torhoutse Steenweg"
     }, 
     {
@@ -3230,11 +3255,11 @@
         "352B"
       ], 
       "housenumber": "352B", 
-      "lat": 51.1891085689178, 
-      "lon": 3.1932775106474347, 
+      "lat": 51.189151738082316, 
+      "lon": 3.1931591411300393, 
       "municipality": "Brugge", 
       "pcode": "8200", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Torhoutse Steenweg"
     }, 
     {
@@ -3332,7 +3357,7 @@
     }, 
     {
       "hnrlbls": [
-        "365"
+        "365-365B"
       ], 
       "housenumber": "365", 
       "lat": 51.19224995025765, 
@@ -3344,26 +3369,26 @@
     }, 
     {
       "hnrlbls": [
-        "365A"
+        "365-365B"
       ], 
       "housenumber": "365A", 
-      "lat": 51.19228924866707, 
-      "lon": 3.196991350714115, 
+      "lat": 51.19224995025765, 
+      "lon": 3.1969800109353375, 
       "municipality": "Brugge", 
       "pcode": "8200", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Torhoutse Steenweg"
     }, 
     {
       "hnrlbls": [
-        "365B"
+        "365-365B"
       ], 
       "housenumber": "365B", 
-      "lat": 51.19226256774771, 
-      "lon": 3.1969659829694455, 
+      "lat": 51.19224995025765, 
+      "lon": 3.1969800109353375, 
       "municipality": "Brugge", 
       "pcode": "8200", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Torhoutse Steenweg"
     }, 
     {
@@ -3455,8 +3480,8 @@
         "371"
       ], 
       "housenumber": "371", 
-      "lat": 51.191412910131845, 
-      "lon": 3.1960171968946476, 
+      "lat": 51.19141295426798, 
+      "lon": 3.1960171434449407, 
       "municipality": "Brugge", 
       "pcode": "8200", 
       "source": "afgeleidVanGebouw", 
@@ -3467,8 +3492,8 @@
         "371A"
       ], 
       "housenumber": "371A", 
-      "lat": 51.19115506593037, 
-      "lon": 3.1961418414324196, 
+      "lat": 51.19115510600232, 
+      "lon": 3.196141856051, 
       "municipality": "Brugge", 
       "pcode": "8200", 
       "source": "afgeleidVanGebouw", 
@@ -3505,18 +3530,6 @@
       "housenumber": "376", 
       "lat": 51.18680638591617, 
       "lon": 3.190802867701996, 
-      "municipality": "Brugge", 
-      "pcode": "8200", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Torhoutse Steenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "377"
-      ], 
-      "housenumber": "377", 
-      "lat": 51.1911945243655, 
-      "lon": 3.195860310573888, 
       "municipality": "Brugge", 
       "pcode": "8200", 
       "source": "afgeleidVanGebouw", 
@@ -3575,11 +3588,11 @@
         "380"
       ], 
       "housenumber": "380", 
-      "lat": 51.185583758247596, 
-      "lon": 3.189744160513382, 
+      "lat": 51.1856508808709, 
+      "lon": 3.1899242154471388, 
       "municipality": "Brugge", 
       "pcode": "8200", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Torhoutse Steenweg"
     }, 
     {
@@ -3589,6 +3602,18 @@
       "housenumber": "381", 
       "lat": 51.19112438980295, 
       "lon": 3.195759070010815, 
+      "municipality": "Brugge", 
+      "pcode": "8200", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Torhoutse Steenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "382"
+      ], 
+      "housenumber": "382", 
+      "lat": 51.18558379243876, 
+      "lon": 3.189744176708703, 
       "municipality": "Brugge", 
       "pcode": "8200", 
       "source": "afgeleidVanGebouw", 

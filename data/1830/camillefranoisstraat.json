@@ -194,7 +194,7 @@
     }, 
     {
       "hnrlbls": [
-        "17-17C"
+        "17"
       ], 
       "housenumber": "17", 
       "lat": 50.91248782839835, 
@@ -202,18 +202,6 @@
       "municipality": "Machelen", 
       "pcode": "1830", 
       "source": "afgeleidVanGebouw", 
-      "street": "Camille Fran\u00e7oisstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "17-17C"
-      ], 
-      "housenumber": "17C", 
-      "lat": 50.91248782839835, 
-      "lon": 4.439435779437913, 
-      "municipality": "Machelen", 
-      "pcode": "1830", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Camille Fran\u00e7oisstraat"
     }, 
     {
@@ -249,7 +237,7 @@
       "lon": 4.4378193874803396, 
       "municipality": "Machelen", 
       "pcode": "1830", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Camille Fran\u00e7oisstraat"
     }, 
     {
@@ -517,6 +505,9 @@
       "street": "Camille Fran\u00e7oisstraat"
     }, 
     {
+      "busnrs": [
+        "BS01"
+      ], 
       "hnrlbls": [
         "4"
       ], 
@@ -746,7 +737,7 @@
     }, 
     {
       "hnrlbls": [
-        "57-57A"
+        "57-57B"
       ], 
       "housenumber": "57", 
       "lat": 50.91240134293327, 
@@ -758,7 +749,7 @@
     }, 
     {
       "hnrlbls": [
-        "57-57A"
+        "57-57B"
       ], 
       "housenumber": "57A", 
       "lat": 50.91240134293327, 
@@ -770,14 +761,14 @@
     }, 
     {
       "hnrlbls": [
-        "57B"
+        "57-57B"
       ], 
       "housenumber": "57B", 
-      "lat": 50.91242564497666, 
-      "lon": 4.441008046535304, 
+      "lat": 50.91240134293327, 
+      "lon": 4.441057633832879, 
       "municipality": "Machelen", 
       "pcode": "1830", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Camille Fran\u00e7oisstraat"
     }, 
     {
@@ -901,6 +892,9 @@
       "street": "Camille Fran\u00e7oisstraat"
     }, 
     {
+      "busnrs": [
+        "BS02"
+      ], 
       "hnrlbls": [
         "71"
       ], 
@@ -949,6 +943,12 @@
       "street": "Camille Fran\u00e7oisstraat"
     }, 
     {
+      "busnrs": [
+        "BS01", 
+        "BS02", 
+        "BS03", 
+        "BS05"
+      ], 
       "hnrlbls": [
         "87"
       ], 
@@ -1025,16 +1025,21 @@
         "97"
       ], 
       "housenumber": "97", 
-      "lat": 50.91218406166227, 
-      "lon": 4.442786913343616, 
+      "lat": 50.9121240778011, 
+      "lon": 4.442826062662285, 
       "municipality": "Machelen", 
       "pcode": "1830", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Camille Fran\u00e7oisstraat"
     }, 
     {
       "busnrs": [
-        "2"
+        "2", 
+        "BS01", 
+        "BS02", 
+        "BS03", 
+        "BS04", 
+        "BS05"
       ], 
       "hnrlbls": [
         "99"

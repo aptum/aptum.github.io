@@ -2,7 +2,7 @@
   "addresses": [
     {
       "hnrlbls": [
-        "1-1b"
+        "1"
       ], 
       "housenumber": "1", 
       "lat": 51.139700115009404, 
@@ -26,6 +26,18 @@
     }, 
     {
       "hnrlbls": [
+        "101"
+      ], 
+      "housenumber": "101", 
+      "lat": 51.136276120086166, 
+      "lon": 4.903755737843573, 
+      "municipality": "Westerlo", 
+      "pcode": "2260", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Oeveldorp"
+    }, 
+    {
+      "hnrlbls": [
         "10A-12"
       ], 
       "housenumber": "10A", 
@@ -38,14 +50,14 @@
     }, 
     {
       "hnrlbls": [
-        "10-12A"
+        "10A-12"
       ], 
       "housenumber": "10B", 
-      "lat": 51.13947208624659, 
-      "lon": 4.903387734791707, 
+      "lat": 51.139472041999845, 
+      "lon": 4.90338773340846, 
       "municipality": "Westerlo", 
       "pcode": "2260", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Oeveldorp"
     }, 
     {
@@ -89,23 +101,11 @@
         "13"
       ], 
       "housenumber": "13", 
-      "lat": 51.13829282850547, 
-      "lon": 4.9047543307707375, 
+      "lat": 51.138116941613745, 
+      "lon": 4.90443225230864, 
       "municipality": "Westerlo", 
       "pcode": "2260", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Oeveldorp"
-    }, 
-    {
-      "hnrlbls": [
-        "14"
-      ], 
-      "housenumber": "14", 
-      "lat": 51.13920326365179, 
-      "lon": 4.90324119622824, 
-      "municipality": "Westerlo", 
-      "pcode": "2260", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Oeveldorp"
     }, 
     {
@@ -130,30 +130,6 @@
       "municipality": "Westerlo", 
       "pcode": "2260", 
       "source": "afgeleidVanGebouw", 
-      "street": "Oeveldorp"
-    }, 
-    {
-      "hnrlbls": [
-        "1-1b"
-      ], 
-      "housenumber": "1a", 
-      "lat": 51.139700115009404, 
-      "lon": 4.903966471315644, 
-      "municipality": "Westerlo", 
-      "pcode": "2260", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Oeveldorp"
-    }, 
-    {
-      "hnrlbls": [
-        "1-1b"
-      ], 
-      "housenumber": "1b", 
-      "lat": 51.139700115009404, 
-      "lon": 4.903966471315644, 
-      "municipality": "Westerlo", 
-      "pcode": "2260", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Oeveldorp"
     }, 
     {
@@ -194,19 +170,7 @@
     }, 
     {
       "hnrlbls": [
-        "23-23F"
-      ], 
-      "housenumber": "23", 
-      "lat": 51.13758275720303, 
-      "lon": 4.904584716689694, 
-      "municipality": "Westerlo", 
-      "pcode": "2260", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Oeveldorp"
-    }, 
-    {
-      "hnrlbls": [
-        "23-23F"
+        "23A-23F"
       ], 
       "housenumber": "23A", 
       "lat": 51.13758275720303, 
@@ -218,7 +182,7 @@
     }, 
     {
       "hnrlbls": [
-        "23-23F"
+        "23A-23F"
       ], 
       "housenumber": "23B", 
       "lat": 51.13758275720303, 
@@ -230,7 +194,7 @@
     }, 
     {
       "hnrlbls": [
-        "23-23F"
+        "23A-23F"
       ], 
       "housenumber": "23C", 
       "lat": 51.13758275720303, 
@@ -242,7 +206,7 @@
     }, 
     {
       "hnrlbls": [
-        "23-23F"
+        "23A-23F"
       ], 
       "housenumber": "23D", 
       "lat": 51.13758275720303, 
@@ -254,7 +218,7 @@
     }, 
     {
       "hnrlbls": [
-        "23-23F"
+        "23A-23F"
       ], 
       "housenumber": "23E", 
       "lat": 51.13758275720303, 
@@ -266,7 +230,7 @@
     }, 
     {
       "hnrlbls": [
-        "23-23F"
+        "23A-23F"
       ], 
       "housenumber": "23F", 
       "lat": 51.13758275720303, 
@@ -362,7 +326,7 @@
     }, 
     {
       "hnrlbls": [
-        "3-3B"
+        "3"
       ], 
       "housenumber": "3", 
       "lat": 51.13963585221198, 
@@ -458,9 +422,9 @@
     }, 
     {
       "hnrlbls": [
-        "38-38B"
+        "38A-38B"
       ], 
-      "housenumber": "38", 
+      "housenumber": "38A", 
       "lat": 51.137870350354504, 
       "lon": 4.903943193023035, 
       "municipality": "Westerlo", 
@@ -470,26 +434,14 @@
     }, 
     {
       "hnrlbls": [
-        "38-38B"
-      ], 
-      "housenumber": "38A", 
-      "lat": 51.137870350354504, 
-      "lon": 4.903943193023035, 
-      "municipality": "Westerlo", 
-      "pcode": "2260", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Oeveldorp"
-    }, 
-    {
-      "hnrlbls": [
-        "38-38B"
+        "38A-38B"
       ], 
       "housenumber": "38B", 
       "lat": 51.137870350354504, 
       "lon": 4.903943193023035, 
       "municipality": "Westerlo", 
       "pcode": "2260", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Oeveldorp"
     }, 
     {
@@ -502,18 +454,6 @@
       "municipality": "Westerlo", 
       "pcode": "2260", 
       "source": "afgeleidVanGebouw", 
-      "street": "Oeveldorp"
-    }, 
-    {
-      "hnrlbls": [
-        "3-3B"
-      ], 
-      "housenumber": "3B", 
-      "lat": 51.13963585221198, 
-      "lon": 4.903925153976611, 
-      "municipality": "Westerlo", 
-      "pcode": "2260", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Oeveldorp"
     }, 
     {
@@ -710,11 +650,11 @@
     }, 
     {
       "hnrlbls": [
-        "62"
+        "62A-62B"
       ], 
-      "housenumber": "62", 
-      "lat": 51.13623835869918, 
-      "lon": 4.9039158986705775, 
+      "housenumber": "62A", 
+      "lat": 51.13623837513207, 
+      "lon": 4.90391583014033, 
       "municipality": "Westerlo", 
       "pcode": "2260", 
       "source": "afgeleidVanGebouw", 
@@ -724,24 +664,12 @@
       "hnrlbls": [
         "62A-62B"
       ], 
-      "housenumber": "62A", 
-      "lat": 51.13625152481499, 
-      "lon": 4.90384718291772, 
-      "municipality": "Westerlo", 
-      "pcode": "2260", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Oeveldorp"
-    }, 
-    {
-      "hnrlbls": [
-        "62A-62B"
-      ], 
       "housenumber": "62B", 
-      "lat": 51.13625152481499, 
-      "lon": 4.90384718291772, 
+      "lat": 51.13623837513207, 
+      "lon": 4.90391583014033, 
       "municipality": "Westerlo", 
       "pcode": "2260", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Oeveldorp"
     }, 
     {
@@ -770,19 +698,7 @@
     }, 
     {
       "hnrlbls": [
-        "7-7G"
-      ], 
-      "housenumber": "7", 
-      "lat": 51.1393925706447, 
-      "lon": 4.9038552062522776, 
-      "municipality": "Westerlo", 
-      "pcode": "2260", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Oeveldorp"
-    }, 
-    {
-      "hnrlbls": [
-        "7-7G"
+        "7A-7G"
       ], 
       "housenumber": "7A", 
       "lat": 51.1393925706447, 
@@ -794,7 +710,7 @@
     }, 
     {
       "hnrlbls": [
-        "7-7G"
+        "7A-7G"
       ], 
       "housenumber": "7B", 
       "lat": 51.1393925706447, 
@@ -806,7 +722,7 @@
     }, 
     {
       "hnrlbls": [
-        "7-7G"
+        "7A-7G"
       ], 
       "housenumber": "7C", 
       "lat": 51.1393925706447, 
@@ -818,7 +734,7 @@
     }, 
     {
       "hnrlbls": [
-        "7-7G"
+        "7A-7G"
       ], 
       "housenumber": "7D", 
       "lat": 51.1393925706447, 
@@ -830,7 +746,7 @@
     }, 
     {
       "hnrlbls": [
-        "7-7G"
+        "7A-7G"
       ], 
       "housenumber": "7E", 
       "lat": 51.1393925706447, 
@@ -842,7 +758,7 @@
     }, 
     {
       "hnrlbls": [
-        "7-7G"
+        "7A-7G"
       ], 
       "housenumber": "7F", 
       "lat": 51.1393925706447, 
@@ -854,7 +770,7 @@
     }, 
     {
       "hnrlbls": [
-        "7-7G"
+        "7A-7G"
       ], 
       "housenumber": "7G", 
       "lat": 51.1393925706447, 

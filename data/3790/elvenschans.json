@@ -1,15 +1,38 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "A", 
+        "B", 
+        "C", 
+        "D", 
+        "E", 
+        "F", 
+        "G", 
+        "H", 
+        "I"
+      ], 
       "hnrlbls": [
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 50.75601968706115, 
-      "lon": 5.687000739044687, 
+      "lat": 50.756374188711554, 
+      "lon": 5.686629086396536, 
       "municipality": "Voeren", 
       "pcode": "3790", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Elvenschans"
+    }, 
+    {
+      "hnrlbls": [
+        "1H"
+      ], 
+      "housenumber": "1H", 
+      "lat": 50.75642925404452, 
+      "lon": 5.687270182663356, 
+      "municipality": "Voeren", 
+      "pcode": "3790", 
+      "source": "geinterpoleerdObvWegverbinding", 
       "street": "Elvenschans"
     }
   ]

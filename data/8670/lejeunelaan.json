@@ -2,18 +2,6 @@
   "addresses": [
     {
       "hnrlbls": [
-        "1"
-      ], 
-      "housenumber": "1", 
-      "lat": 51.1163733357194, 
-      "lon": 2.638438865586461, 
-      "municipality": "Koksijde", 
-      "pcode": "8670", 
-      "source": "geinterpoleerdObvWegverbinding", 
-      "street": "Lejeunelaan"
-    }, 
-    {
-      "hnrlbls": [
         "10"
       ], 
       "housenumber": "10", 
@@ -21,7 +9,7 @@
       "lon": 2.6396472615886726, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Lejeunelaan"
     }, 
     {
@@ -29,11 +17,11 @@
         "11"
       ], 
       "housenumber": "11", 
-      "lat": 51.116688443513084, 
-      "lon": 2.6386696219376775, 
+      "lat": 51.116688451886596, 
+      "lon": 2.6386701930373353, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Lejeunelaan"
     }, 
     {
@@ -45,12 +33,18 @@
       "lon": 2.6399087312600726, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Lejeunelaan"
     }, 
     {
-      "busnrs": [
-        "201"
+      "apptnrs": [
+        "002", 
+        "101", 
+        "102", 
+        "201", 
+        "202", 
+        "301", 
+        "GV01"
       ], 
       "hnrlbls": [
         "13"
@@ -60,22 +54,23 @@
       "lon": 2.6390458587148222, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Lejeunelaan"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
+        "1", 
         "101"
       ], 
       "hnrlbls": [
         "13A"
       ], 
       "housenumber": "13A", 
-      "lat": 51.11699361217188, 
-      "lon": 2.6392221691427404, 
+      "lat": 51.116993250627075, 
+      "lon": 2.639222039666568, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Lejeunelaan"
     }, 
     {
@@ -87,7 +82,7 @@
       "lon": 2.6401267776240647, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Lejeunelaan"
     }, 
     {
@@ -95,11 +90,11 @@
         "15"
       ], 
       "housenumber": "15", 
-      "lat": 51.11703466081802, 
-      "lon": 2.6393297903610873, 
+      "lat": 51.11703483635894, 
+      "lon": 2.639329498159642, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Lejeunelaan"
     }, 
     {
@@ -111,23 +106,28 @@
       "lon": 2.6410855594651372, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Lejeunelaan"
     }, 
     {
-      "busnrs": [
-        "101", 
-        "202"
+      "apptnrs": [
+        "0101", 
+        "0202", 
+        "1", 
+        "102", 
+        "201", 
+        "301", 
+        "GV02"
       ], 
       "hnrlbls": [
         "17-21"
       ], 
       "housenumber": "17", 
-      "lat": 51.11720307915945, 
-      "lon": 2.6395761250066205, 
+      "lat": 51.11712219597693, 
+      "lon": 2.639449834491768, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Lejeunelaan"
     }, 
     {
@@ -139,25 +139,28 @@
       "lon": 2.6412407282916295, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Lejeunelaan"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
+        "001", 
+        "0102", 
+        "0202", 
+        "0301", 
         "101", 
-        "102", 
-        "202", 
-        "301"
+        "201", 
+        "GV02"
       ], 
       "hnrlbls": [
         "17-21"
       ], 
       "housenumber": "19", 
-      "lat": 51.11720307915945, 
-      "lon": 2.6395761250066205, 
+      "lat": 51.11712219597693, 
+      "lon": 2.639449834491768, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Lejeunelaan"
     }, 
     {
@@ -165,11 +168,11 @@
         "2-4"
       ], 
       "housenumber": "2", 
-      "lat": 51.11641756274691, 
-      "lon": 2.6390330623357174, 
+      "lat": 51.11641370147485, 
+      "lon": 2.6389720647577697, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Lejeunelaan"
     }, 
     {
@@ -181,7 +184,7 @@
       "lon": 2.641342575449786, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Lejeunelaan"
     }, 
     {
@@ -189,11 +192,11 @@
         "17-21"
       ], 
       "housenumber": "21", 
-      "lat": 51.11720307915945, 
-      "lon": 2.6395761250066205, 
+      "lat": 51.11712219597693, 
+      "lon": 2.639449834491768, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Lejeunelaan"
     }, 
     {
@@ -205,7 +208,7 @@
       "lon": 2.641470452447712, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Lejeunelaan"
     }, 
     {
@@ -217,41 +220,47 @@
       "lon": 2.641604449860353, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Lejeunelaan"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
+        "0302", 
+        "101", 
         "201", 
         "202", 
-        "301", 
-        "302"
+        "301"
       ], 
       "hnrlbls": [
         "28-34B"
       ], 
       "housenumber": "28", 
-      "lat": 51.119076884387574, 
-      "lon": 2.642047563430408, 
+      "lat": 51.11907225097723, 
+      "lon": 2.6421057355619397, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Lejeunelaan"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
+        "1", 
         "101", 
-        "301"
+        "102", 
+        "201", 
+        "202", 
+        "301", 
+        "GV02"
       ], 
       "hnrlbls": [
         "29-31"
       ], 
       "housenumber": "29", 
-      "lat": 51.11803691952356, 
-      "lon": 2.6404168458445665, 
+      "lat": 51.117921334633714, 
+      "lon": 2.6404074054222035, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Lejeunelaan"
     }, 
     {
@@ -263,7 +272,7 @@
       "lon": 2.6384289780123447, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Lejeunelaan"
     }, 
     {
@@ -271,28 +280,39 @@
         "30"
       ], 
       "housenumber": "30", 
-      "lat": 51.119429103891925, 
-      "lon": 2.6419455497862, 
+      "lat": 51.11943544859017, 
+      "lon": 2.6419613157824324, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Lejeunelaan"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
+        "101", 
+        "102", 
+        "103", 
+        "104", 
+        "201", 
         "202", 
         "203", 
-        "302"
+        "204", 
+        "3", 
+        "301", 
+        "302", 
+        "4", 
+        "GV01", 
+        "GV02"
       ], 
       "hnrlbls": [
         "29-31"
       ], 
       "housenumber": "31", 
-      "lat": 51.11803691952356, 
-      "lon": 2.6404168458445665, 
+      "lat": 51.117921334633714, 
+      "lon": 2.6404074054222035, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Lejeunelaan"
     }, 
     {
@@ -300,19 +320,26 @@
         "32"
       ], 
       "housenumber": "32", 
-      "lat": 51.119498037092505, 
-      "lon": 2.6419742896665688, 
+      "lat": 51.11949831086034, 
+      "lon": 2.6419745652744298, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Lejeunelaan"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
+        "001", 
+        "003", 
+        "101", 
+        "102", 
         "103", 
         "201", 
         "202", 
-        "203"
+        "203", 
+        "301", 
+        "302", 
+        "GV02"
       ], 
       "hnrlbls": [
         "33"
@@ -322,42 +349,51 @@
       "lon": 2.6407483871829043, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Lejeunelaan"
     }, 
     {
-      "busnrs": [
-        "101", 
-        "201"
+      "apptnrs": [
+        "001", 
+        "0101", 
+        "0201", 
+        "102", 
+        "202", 
+        "301", 
+        "A201", 
+        "A202", 
+        "A301", 
+        "AGV2", 
+        "GV01", 
+        "GV02"
       ], 
       "hnrlbls": [
         "34-34A"
       ], 
       "housenumber": "34", 
-      "lat": 51.11965241513777, 
-      "lon": 2.6420664464508525, 
+      "lat": 51.119652596953074, 
+      "lon": 2.6420665825956857, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Lejeunelaan"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
+        "1", 
         "101", 
         "102", 
-        "201", 
-        "202", 
-        "301"
+        "302"
       ], 
       "hnrlbls": [
         "34-34A"
       ], 
       "housenumber": "34A", 
-      "lat": 51.11965241513777, 
-      "lon": 2.6420664464508525, 
+      "lat": 51.119652596953074, 
+      "lon": 2.6420665825956857, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Lejeunelaan"
     }, 
     {
@@ -369,7 +405,7 @@
       "lon": 2.640975913228115, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Lejeunelaan"
     }, 
     {
@@ -381,7 +417,7 @@
       "lon": 2.642115717004782, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Lejeunelaan"
     }, 
     {
@@ -393,7 +429,7 @@
       "lon": 2.6410452994911626, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Lejeunelaan"
     }, 
     {
@@ -401,11 +437,11 @@
         "38"
       ], 
       "housenumber": "38", 
-      "lat": 51.120284899712985, 
-      "lon": 2.642499815150495, 
+      "lat": 51.12024245935319, 
+      "lon": 2.64249352510332, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Lejeunelaan"
     }, 
     {
@@ -417,30 +453,48 @@
       "lon": 2.641069541851809, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Lejeunelaan"
     }, 
     {
-      "busnrs": [
-        "201", 
-        "202"
+      "apptnrs": [
+        "001", 
+        "0201", 
+        "0202", 
+        "101", 
+        "102", 
+        "GV01"
       ], 
       "hnrlbls": [
         "2-4"
       ], 
       "housenumber": "4", 
-      "lat": 51.11641756274691, 
-      "lon": 2.6390330623357174, 
+      "lat": 51.11641370147485, 
+      "lon": 2.6389720647577697, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Lejeunelaan"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
+        "001", 
+        "101", 
         "102", 
+        "103", 
+        "104", 
+        "105", 
+        "201", 
+        "202", 
+        "203", 
         "204", 
-        "302"
+        "205", 
+        "301", 
+        "302", 
+        "303", 
+        "304", 
+        "305", 
+        "GV02"
       ], 
       "hnrlbls": [
         "41"
@@ -450,7 +504,7 @@
       "lon": 2.641213054439757, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Lejeunelaan"
     }, 
     {
@@ -462,7 +516,7 @@
       "lon": 2.6413136743268137, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Lejeunelaan"
     }, 
     {
@@ -470,11 +524,11 @@
         "46"
       ], 
       "housenumber": "46", 
-      "lat": 51.12059657546935, 
-      "lon": 2.642261695210712, 
+      "lat": 51.12060828893942, 
+      "lon": 2.64225857447192, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Lejeunelaan"
     }, 
     {
@@ -486,7 +540,7 @@
       "lon": 2.641419116704984, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Lejeunelaan"
     }, 
     {
@@ -498,7 +552,7 @@
       "lon": 2.642288252272415, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Lejeunelaan"
     }, 
     {
@@ -510,11 +564,12 @@
       "lon": 2.641446716622016, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Lejeunelaan"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
+        "001", 
         "101", 
         "201"
       ], 
@@ -526,7 +581,7 @@
       "lon": 2.638501924616448, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Lejeunelaan"
     }, 
     {
@@ -534,14 +589,18 @@
         "50"
       ], 
       "housenumber": "50", 
-      "lat": 51.12091891345116, 
-      "lon": 2.642330962454699, 
+      "lat": 51.12091891762905, 
+      "lon": 2.642331248030707, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Lejeunelaan"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101"
+      ], 
       "hnrlbls": [
         "51"
       ], 
@@ -550,12 +609,14 @@
       "lon": 2.641450980057472, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Lejeunelaan"
     }, 
     {
-      "busnrs": [
-        "101"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "B201"
       ], 
       "hnrlbls": [
         "53"
@@ -565,7 +626,7 @@
       "lon": 2.6414726101353194, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Lejeunelaan"
     }, 
     {
@@ -577,13 +638,19 @@
       "lon": 2.6415363085772126, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Lejeunelaan"
     }, 
     {
-      "busnrs": [
-        "201", 
-        "5"
+      "apptnrs": [
+        "001", 
+        "002", 
+        "005", 
+        "101", 
+        "102", 
+        "103", 
+        "104", 
+        "205"
       ], 
       "hnrlbls": [
         "53B"
@@ -593,7 +660,7 @@
       "lon": 2.641594216328535, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Lejeunelaan"
     }, 
     {
@@ -605,7 +672,7 @@
       "lon": 2.641659081423648, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Lejeunelaan"
     }, 
     {
@@ -617,7 +684,7 @@
       "lon": 2.6416788857198554, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Lejeunelaan"
     }, 
     {
@@ -629,31 +696,31 @@
       "lon": 2.63920009177966, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Lejeunelaan"
     }, 
     {
       "hnrlbls": [
-        "47-65"
+        "63-65"
       ], 
       "housenumber": "63", 
-      "lat": 51.121093427432285, 
-      "lon": 2.6417653401100623, 
+      "lat": 51.1211082819773, 
+      "lon": 2.6417727917356473, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Lejeunelaan"
     }, 
     {
       "hnrlbls": [
-        "47-65"
+        "63-65"
       ], 
       "housenumber": "65", 
-      "lat": 51.121093427432285, 
-      "lon": 2.6417653401100623, 
+      "lat": 51.1211082819773, 
+      "lon": 2.6417727917356473, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Lejeunelaan"
     }, 
     {
@@ -665,7 +732,7 @@
       "lon": 2.638561991366429, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Lejeunelaan"
     }, 
     {
@@ -677,7 +744,7 @@
       "lon": 2.639365595843165, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Lejeunelaan"
     }, 
     {
@@ -685,11 +752,11 @@
         "9"
       ], 
       "housenumber": "9", 
-      "lat": 51.11672405928866, 
-      "lon": 2.6386151626119396, 
+      "lat": 51.11674630235478, 
+      "lon": 2.6385684836594705, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Lejeunelaan"
     }
   ]

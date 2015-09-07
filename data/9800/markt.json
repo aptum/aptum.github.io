@@ -36,6 +36,10 @@
       "street": "Markt"
     }, 
     {
+      "busnrs": [
+        "2", 
+        "4"
+      ], 
       "hnrlbls": [
         "101"
       ], 
@@ -119,6 +123,8 @@
         "1", 
         "2", 
         "3", 
+        "4", 
+        "6", 
         "7"
       ], 
       "hnrlbls": [
@@ -151,8 +157,14 @@
     }, 
     {
       "busnrs": [
+        "2", 
+        "3", 
+        "4", 
+        "5", 
         "6", 
-        "7"
+        "7", 
+        "8", 
+        "9"
       ], 
       "hnrlbls": [
         "108"
@@ -406,7 +418,7 @@
         "4"
       ], 
       "hnrlbls": [
-        "125"
+        "125-127"
       ], 
       "housenumber": "125", 
       "lat": 50.986876294156716, 
@@ -429,6 +441,22 @@
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 
+      "street": "Markt"
+    }, 
+    {
+      "busnrs": [
+        "2", 
+        "5"
+      ], 
+      "hnrlbls": [
+        "125-127"
+      ], 
+      "housenumber": "127", 
+      "lat": 50.986876294156716, 
+      "lon": 3.5247409228661315, 
+      "municipality": "Deinze", 
+      "pcode": "9800", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Markt"
     }, 
     {
@@ -1490,6 +1518,7 @@
         "1", 
         "11", 
         "3", 
+        "5", 
         "7", 
         "9"
       ], 

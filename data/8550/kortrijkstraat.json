@@ -35,8 +35,8 @@
         "100"
       ], 
       "housenumber": "100", 
-      "lat": 50.8144142159977, 
-      "lon": 3.3205161214616545, 
+      "lat": 50.81440912272071, 
+      "lon": 3.320509565119813, 
       "municipality": "Zwevegem", 
       "pcode": "8550", 
       "source": "afgeleidVanPerceelGrb", 
@@ -188,7 +188,7 @@
     }, 
     {
       "hnrlbls": [
-        "111"
+        "111-111A"
       ], 
       "housenumber": "111", 
       "lat": 50.81362743553526, 
@@ -196,6 +196,18 @@
       "municipality": "Zwevegem", 
       "pcode": "8550", 
       "source": "afgeleidVanGebouw", 
+      "street": "Kortrijkstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "111-111A"
+      ], 
+      "housenumber": "111A", 
+      "lat": 50.81362743553526, 
+      "lon": 3.3209260176897493, 
+      "municipality": "Zwevegem", 
+      "pcode": "8550", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Kortrijkstraat"
     }, 
     {
@@ -263,8 +275,8 @@
         "119"
       ], 
       "housenumber": "119", 
-      "lat": 50.81454920580018, 
-      "lon": 3.319143821175348, 
+      "lat": 50.81454929822687, 
+      "lon": 3.3191441029352258, 
       "municipality": "Zwevegem", 
       "pcode": "8550", 
       "source": "afgeleidVanPerceelGrb", 
@@ -984,8 +996,8 @@
         "171"
       ], 
       "housenumber": "171", 
-      "lat": 50.81440398725081, 
-      "lon": 3.3132914222938705, 
+      "lat": 50.8144070893743, 
+      "lon": 3.3132964614994576, 
       "municipality": "Zwevegem", 
       "pcode": "8550", 
       "source": "afgeleidVanPerceelGrb", 
@@ -1080,11 +1092,11 @@
         "178"
       ], 
       "housenumber": "178", 
-      "lat": 50.81529726001016, 
-      "lon": 3.3180545630661746, 
+      "lat": 50.81528282889557, 
+      "lon": 3.3180594264202257, 
       "municipality": "Zwevegem", 
       "pcode": "8550", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Kortrijkstraat"
     }, 
     {
@@ -1092,11 +1104,11 @@
         "180"
       ], 
       "housenumber": "180", 
-      "lat": 50.815347825452776, 
-      "lon": 3.318008731719274, 
+      "lat": 50.81533642162791, 
+      "lon": 3.3180203393298204, 
       "municipality": "Zwevegem", 
       "pcode": "8550", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Kortrijkstraat"
     }, 
     {
@@ -1112,6 +1124,10 @@
       "street": "Kortrijkstraat"
     }, 
     {
+      "busnrs": [
+        "0101A", 
+        "1"
+      ], 
       "hnrlbls": [
         "184"
       ], 
@@ -1241,8 +1257,8 @@
         "20"
       ], 
       "housenumber": "20", 
-      "lat": 50.8133655497913, 
-      "lon": 3.329605897098812, 
+      "lat": 50.813364835722915, 
+      "lon": 3.329606480489479, 
       "municipality": "Zwevegem", 
       "pcode": "8550", 
       "source": "afgeleidVanPerceelGrb", 
@@ -1732,8 +1748,8 @@
         "49-55"
       ], 
       "housenumber": "49", 
-      "lat": 50.81290875239698, 
-      "lon": 3.3274278021665555, 
+      "lat": 50.81290514765478, 
+      "lon": 3.3274369638518415, 
       "municipality": "Zwevegem", 
       "pcode": "8550", 
       "source": "afgeleidVanPerceelGrb", 
@@ -1756,8 +1772,8 @@
         "49-55"
       ], 
       "housenumber": "51", 
-      "lat": 50.81290875239698, 
-      "lon": 3.3274278021665555, 
+      "lat": 50.81290514765478, 
+      "lon": 3.3274369638518415, 
       "municipality": "Zwevegem", 
       "pcode": "8550", 
       "source": "afgeleidVanPerceelGrb", 
@@ -1786,8 +1802,8 @@
         "49-55"
       ], 
       "housenumber": "53", 
-      "lat": 50.81290875239698, 
-      "lon": 3.3274278021665555, 
+      "lat": 50.81290514765478, 
+      "lon": 3.3274369638518415, 
       "municipality": "Zwevegem", 
       "pcode": "8550", 
       "source": "afgeleidVanPerceelGrb", 
@@ -1810,8 +1826,8 @@
         "49-55"
       ], 
       "housenumber": "55", 
-      "lat": 50.81290875239698, 
-      "lon": 3.3274278021665555, 
+      "lat": 50.81290514765478, 
+      "lon": 3.3274369638518415, 
       "municipality": "Zwevegem", 
       "pcode": "8550", 
       "source": "afgeleidVanPerceelGrb", 
@@ -1882,8 +1898,8 @@
         "61"
       ], 
       "housenumber": "61", 
-      "lat": 50.81250021143132, 
-      "lon": 3.326141255760123, 
+      "lat": 50.812501582443396, 
+      "lon": 3.326143779666458, 
       "municipality": "Zwevegem", 
       "pcode": "8550", 
       "source": "afgeleidVanPerceelGrb", 
@@ -1894,11 +1910,23 @@
         "62"
       ], 
       "housenumber": "62", 
-      "lat": 50.81321794534997, 
-      "lon": 3.32729736161688, 
+      "lat": 50.813178468657874, 
+      "lon": 3.3273076132516968, 
       "municipality": "Zwevegem", 
       "pcode": "8550", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Kortrijkstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "62A"
+      ], 
+      "housenumber": "62A", 
+      "lat": 50.81318043864677, 
+      "lon": 3.3272459822820353, 
+      "municipality": "Zwevegem", 
+      "pcode": "8550", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kortrijkstraat"
     }, 
     {
@@ -1930,8 +1958,8 @@
         "67"
       ], 
       "housenumber": "67", 
-      "lat": 50.81282925553454, 
-      "lon": 3.326352785101682, 
+      "lat": 50.81282355859533, 
+      "lon": 3.326349079826023, 
       "municipality": "Zwevegem", 
       "pcode": "8550", 
       "source": "afgeleidVanPerceelGrb", 
@@ -2203,8 +2231,8 @@
         "89"
       ], 
       "housenumber": "89", 
-      "lat": 50.81301592082672, 
-      "lon": 3.3231339195572733, 
+      "lat": 50.813021435563115, 
+      "lon": 3.3231373446968893, 
       "municipality": "Zwevegem", 
       "pcode": "8550", 
       "source": "afgeleidVanPerceelGrb", 

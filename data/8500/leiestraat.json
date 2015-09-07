@@ -14,6 +14,7 @@
     }, 
     {
       "busnrs": [
+        "11", 
         "21", 
         "31", 
         "41", 
@@ -38,7 +39,7 @@
         "31"
       ], 
       "hnrlbls": [
-        "12-12B"
+        "12"
       ], 
       "housenumber": "12", 
       "lat": 50.828383340897375, 
@@ -46,21 +47,6 @@
       "municipality": "Kortrijk", 
       "pcode": "8500", 
       "source": "afgeleidVanGebouw", 
-      "street": "Leiestraat"
-    }, 
-    {
-      "busnrs": [
-        "3"
-      ], 
-      "hnrlbls": [
-        "12-12B"
-      ], 
-      "housenumber": "12B", 
-      "lat": 50.828383340897375, 
-      "lon": 3.2653070418527324, 
-      "municipality": "Kortrijk", 
-      "pcode": "8500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Leiestraat"
     }, 
     {
@@ -107,7 +93,9 @@
     }, 
     {
       "busnrs": [
+        "0001", 
         "11", 
+        "22", 
         "42", 
         "52"
       ], 
@@ -139,6 +127,12 @@
       "street": "Leiestraat"
     }, 
     {
+      "busnrs": [
+        "11", 
+        "21", 
+        "31", 
+        "41"
+      ], 
       "hnrlbls": [
         "17"
       ], 
@@ -164,31 +158,14 @@
     }, 
     {
       "hnrlbls": [
-        "1A"
-      ], 
-      "housenumber": "1A", 
-      "lat": 50.82817671886783, 
-      "lon": 3.2643974254810817, 
-      "municipality": "Kortrijk", 
-      "pcode": "8500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Leiestraat"
-    }, 
-    {
-      "busnrs": [
-        "11", 
-        "21", 
-        "31"
-      ], 
-      "hnrlbls": [
         "2"
       ], 
       "housenumber": "2", 
-      "lat": 50.82879907968021, 
-      "lon": 3.2649933665640383, 
+      "lat": 50.82823539801422, 
+      "lon": 3.2653783649516317, 
       "municipality": "Kortrijk", 
       "pcode": "8500", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Leiestraat"
     }, 
     {
@@ -371,23 +348,15 @@
       "street": "Leiestraat"
     }, 
     {
-      "busnrs": [
-        "11", 
-        "12", 
-        "21", 
-        "22", 
-        "31", 
-        "32"
-      ], 
       "hnrlbls": [
         "34"
       ], 
       "housenumber": "34", 
-      "lat": 50.82914748909553, 
-      "lon": 3.265244547125494, 
+      "lat": 50.8290381628529, 
+      "lon": 3.2647475690350984, 
       "municipality": "Kortrijk", 
       "pcode": "8500", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Leiestraat"
     }, 
     {
@@ -415,8 +384,11 @@
       "street": "Leiestraat"
     }, 
     {
+      "apptnrs": [
+        "A000"
+      ], 
       "hnrlbls": [
-        "37-37A"
+        "37"
       ], 
       "housenumber": "37", 
       "lat": 50.82919639223766, 
@@ -424,18 +396,6 @@
       "municipality": "Kortrijk", 
       "pcode": "8500", 
       "source": "afgeleidVanGebouw", 
-      "street": "Leiestraat"
-    }, 
-    {
-      "hnrlbls": [
-        "37-37A"
-      ], 
-      "housenumber": "37A", 
-      "lat": 50.82919639223766, 
-      "lon": 3.2642695807694815, 
-      "municipality": "Kortrijk", 
-      "pcode": "8500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Leiestraat"
     }, 
     {
@@ -573,18 +533,6 @@
     }, 
     {
       "hnrlbls": [
-        "48-80"
-      ], 
-      "housenumber": "48", 
-      "lat": 50.82869191265486, 
-      "lon": 3.26475455757798, 
-      "municipality": "Kortrijk", 
-      "pcode": "8500", 
-      "source": "afgeleidVanStraat", 
-      "street": "Leiestraat"
-    }, 
-    {
-      "hnrlbls": [
         "3-5"
       ], 
       "housenumber": "5", 
@@ -603,7 +551,7 @@
         "31"
       ], 
       "hnrlbls": [
-        "7-9"
+        "7"
       ], 
       "housenumber": "7", 
       "lat": 50.82826729854918, 
@@ -620,18 +568,6 @@
       "housenumber": "8", 
       "lat": 50.82829529787197, 
       "lon": 3.2652947692708785, 
-      "municipality": "Kortrijk", 
-      "pcode": "8500", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Leiestraat"
-    }, 
-    {
-      "hnrlbls": [
-        "7-9"
-      ], 
-      "housenumber": "9", 
-      "lat": 50.82826729854918, 
-      "lon": 3.2647555772187777, 
       "municipality": "Kortrijk", 
       "pcode": "8500", 
       "source": "afgeleidVanGebouw", 

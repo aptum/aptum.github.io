@@ -40,6 +40,7 @@
       "busnrs": [
         "1", 
         "2", 
+        "201", 
         "3"
       ], 
       "hnrlbls": [
@@ -402,7 +403,10 @@
     {
       "busnrs": [
         "1", 
+        "102", 
         "2", 
+        "201", 
+        "202", 
         "3", 
         "4", 
         "5"
@@ -515,6 +519,9 @@
       "street": "Blankenbergse Steenweg"
     }, 
     {
+      "busnrs": [
+        "2"
+      ], 
       "hnrlbls": [
         "141"
       ], 
@@ -1661,7 +1668,7 @@
     }, 
     {
       "hnrlbls": [
-        "233-233A"
+        "233"
       ], 
       "housenumber": "233", 
       "lat": 51.22966093877703, 
@@ -1673,11 +1680,11 @@
     }, 
     {
       "hnrlbls": [
-        "233-233A"
+        "233A"
       ], 
       "housenumber": "233A", 
-      "lat": 51.22966093877703, 
-      "lon": 3.2050715177260143, 
+      "lat": 51.22977727359509, 
+      "lon": 3.2052646255097077, 
       "municipality": "Brugge", 
       "pcode": "8000", 
       "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
@@ -1756,6 +1763,13 @@
       "street": "Blankenbergse Steenweg"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "101", 
+        "102", 
+        "201", 
+        "202"
+      ], 
       "hnrlbls": [
         "24"
       ], 
@@ -1865,6 +1879,7 @@
     }, 
     {
       "busnrs": [
+        "1", 
         "101"
       ], 
       "hnrlbls": [
@@ -2119,8 +2134,8 @@
         "27"
       ], 
       "housenumber": "27", 
-      "lat": 51.22029347907918, 
-      "lon": 3.2078920107752724, 
+      "lat": 51.22029320665168, 
+      "lon": 3.2078917312572184, 
       "municipality": "Brugge", 
       "pcode": "8000", 
       "source": "afgeleidVanPerceelGrb", 
@@ -2596,8 +2611,8 @@
         "32"
       ], 
       "housenumber": "32", 
-      "lat": 51.22104720869671, 
-      "lon": 3.2084103570113274, 
+      "lat": 51.221047027547165, 
+      "lon": 3.2084102183661964, 
       "municipality": "Brugge", 
       "pcode": "8000", 
       "source": "afgeleidVanPerceelGrb", 
@@ -2632,8 +2647,8 @@
         "326"
       ], 
       "housenumber": "326", 
-      "lat": 51.23704896036971, 
-      "lon": 3.2054235949266934, 
+      "lat": 51.23704564052687, 
+      "lon": 3.205415085743301, 
       "municipality": "Brugge", 
       "pcode": "8000", 
       "source": "afgeleidVanPerceelGrb", 
@@ -3156,14 +3171,14 @@
     }, 
     {
       "hnrlbls": [
-        "382"
+        "382-384"
       ], 
       "housenumber": "382", 
-      "lat": 51.24497533151529, 
-      "lon": 3.197988277424371, 
+      "lat": 51.24487578205597, 
+      "lon": 3.1976485064463875, 
       "municipality": "Brugge", 
       "pcode": "8000", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Blankenbergse Steenweg"
     }, 
     {
@@ -3180,14 +3195,14 @@
     }, 
     {
       "hnrlbls": [
-        "384"
+        "382-384"
       ], 
       "housenumber": "384", 
-      "lat": 51.24481919952992, 
-      "lon": 3.19740626414586, 
+      "lat": 51.24487578205597, 
+      "lon": 3.1976485064463875, 
       "municipality": "Brugge", 
       "pcode": "8000", 
-      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Blankenbergse Steenweg"
     }, 
     {
@@ -3195,11 +3210,11 @@
         "386"
       ], 
       "housenumber": "386", 
-      "lat": 51.245140050479456, 
-      "lon": 3.197806549329808, 
+      "lat": 51.24503178533555, 
+      "lon": 3.1972785094156952, 
       "municipality": "Brugge", 
       "pcode": "8000", 
-      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Blankenbergse Steenweg"
     }, 
     {
@@ -3253,18 +3268,6 @@
       "municipality": "Brugge", 
       "pcode": "8000", 
       "source": "afgeleidVanGebouw", 
-      "street": "Blankenbergse Steenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "396"
-      ], 
-      "housenumber": "396", 
-      "lat": 51.24587763428672, 
-      "lon": 3.1970833408019836, 
-      "municipality": "Brugge", 
-      "pcode": "8000", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Blankenbergse Steenweg"
     }, 
     {
@@ -3622,6 +3625,9 @@
       "street": "Blankenbergse Steenweg"
     }, 
     {
+      "busnrs": [
+        "101"
+      ], 
       "hnrlbls": [
         "51"
       ], 

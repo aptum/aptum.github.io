@@ -85,7 +85,7 @@
     }, 
     {
       "hnrlbls": [
-        "16A-16C"
+        "16A-18B"
       ], 
       "housenumber": "16A", 
       "lat": 50.77729573991274, 
@@ -97,7 +97,7 @@
     }, 
     {
       "hnrlbls": [
-        "16A-16C"
+        "16A-18B"
       ], 
       "housenumber": "16B", 
       "lat": 50.77729573991274, 
@@ -109,7 +109,7 @@
     }, 
     {
       "hnrlbls": [
-        "16A-16C"
+        "16A-18B"
       ], 
       "housenumber": "16C", 
       "lat": 50.77729573991274, 
@@ -150,6 +150,26 @@
       "street": "Zonnebloemstraat"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6"
+      ], 
+      "hnrlbls": [
+        "16A-18B"
+      ], 
+      "housenumber": "18B", 
+      "lat": 50.77729573991274, 
+      "lon": 3.8854361815349825, 
+      "municipality": "Geraardsbergen", 
+      "pcode": "9500", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "street": "Zonnebloemstraat"
+    }, 
+    {
       "hnrlbls": [
         "19"
       ], 
@@ -163,7 +183,7 @@
     }, 
     {
       "hnrlbls": [
-        "2-2A"
+        "2"
       ], 
       "housenumber": "2", 
       "lat": 50.77833070785958, 
@@ -331,14 +351,14 @@
     }, 
     {
       "hnrlbls": [
-        "2-2A"
+        "2A"
       ], 
       "housenumber": "2A", 
-      "lat": 50.77833070785958, 
-      "lon": 3.8739377283637917, 
+      "lat": 50.7785899055435, 
+      "lon": 3.8740605767236005, 
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Zonnebloemstraat"
     }, 
     {
@@ -346,11 +366,11 @@
         "3"
       ], 
       "housenumber": "3", 
-      "lat": 50.77673304654502, 
-      "lon": 3.8847344412349427, 
+      "lat": 50.776774084483584, 
+      "lon": 3.884681654272424, 
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Zonnebloemstraat"
     }, 
     {
@@ -459,30 +479,6 @@
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
       "source": "afgeleidVanGebouw", 
-      "street": "Zonnebloemstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "/zn-85"
-      ], 
-      "housenumber": "85", 
-      "lat": 50.77742328318978, 
-      "lon": 3.881347000610368, 
-      "municipality": "Geraardsbergen", 
-      "pcode": "9500", 
-      "source": "afgeleidVanStraat", 
-      "street": "Zonnebloemstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "9"
-      ], 
-      "housenumber": "9", 
-      "lat": 50.77631026843715, 
-      "lon": 3.887775370468084, 
-      "municipality": "Geraardsbergen", 
-      "pcode": "9500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Zonnebloemstraat"
     }
   ]

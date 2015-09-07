@@ -347,7 +347,8 @@
       "busnrs": [
         "0101", 
         "0201", 
-        "0301"
+        "0301", 
+        "0401"
       ], 
       "hnrlbls": [
         "3"
@@ -488,15 +489,20 @@
       "street": "Parijsstraat"
     }, 
     {
+      "busnrs": [
+        "0101", 
+        "0201", 
+        "0301"
+      ], 
       "hnrlbls": [
         "35B"
       ], 
       "housenumber": "35B", 
-      "lat": 50.87853869465768, 
-      "lon": 4.699251647948974, 
+      "lat": 50.87853943635901, 
+      "lon": 4.699253631196976, 
       "municipality": "Leuven", 
       "pcode": "3000", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Parijsstraat"
     }, 
     {
@@ -549,11 +555,11 @@
     {
       "apptnrs": [
         "0101", 
-        "0201"
+        "0201", 
+        "0301"
       ], 
       "busnrs": [
-        "0001", 
-        "301"
+        "0001"
       ], 
       "hnrlbls": [
         "39"
@@ -902,10 +908,13 @@
     }, 
     {
       "apptnrs": [
+        "0101", 
         "0102", 
         "0103", 
         "0104", 
         "0105", 
+        "0106", 
+        "0107", 
         "0108", 
         "0109", 
         "0110", 
@@ -937,10 +946,7 @@
       ], 
       "busnrs": [
         "0001", 
-        "0002", 
-        "101", 
-        "106", 
-        "107"
+        "0002"
       ], 
       "hnrlbls": [
         "3-62"
@@ -1255,9 +1261,9 @@
         "0201", 
         "0202", 
         "0203", 
+        "0204", 
         "0301", 
-        "0302", 
-        "204"
+        "0302"
       ], 
       "hnrlbls": [
         "82"
@@ -1296,18 +1302,6 @@
       "housenumber": "84A", 
       "lat": 50.87624486845686, 
       "lon": 4.697580197573308, 
-      "municipality": "Leuven", 
-      "pcode": "3000", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Parijsstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "86"
-      ], 
-      "housenumber": "86", 
-      "lat": 50.87619821559611, 
-      "lon": 4.697547191039329, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanGebouw", 

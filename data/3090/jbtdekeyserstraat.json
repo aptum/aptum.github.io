@@ -5,11 +5,11 @@
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 50.771042760267825, 
-      "lon": 4.537952595075937, 
+      "lat": 50.77084624022082, 
+      "lon": 4.534829229263472, 
       "municipality": "Overijse", 
       "pcode": "3090", 
-      "source": "afgeleidVanStraat", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "J. Bt. Dekeyserstraat"
     }, 
     {
@@ -29,19 +29,15 @@
       "street": "J. Bt. Dekeyserstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
       "hnrlbls": [
-        "10A-12A"
+        "10A"
       ], 
       "housenumber": "10A", 
-      "lat": 50.77054480293717, 
-      "lon": 4.535089999834198, 
+      "lat": 50.77067683823281, 
+      "lon": 4.535043544174222, 
       "municipality": "Overijse", 
       "pcode": "3090", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "J. Bt. Dekeyserstraat"
     }, 
     {
@@ -49,11 +45,11 @@
         "11"
       ], 
       "housenumber": "11", 
-      "lat": 50.7709496083441, 
-      "lon": 4.535405871172018, 
+      "lat": 50.77105972759037, 
+      "lon": 4.535346295693962, 
       "municipality": "Overijse", 
       "pcode": "3090", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "J. Bt. Dekeyserstraat"
     }, 
     {
@@ -63,18 +59,6 @@
       "housenumber": "12", 
       "lat": 50.77063884652125, 
       "lon": 4.535145196231246, 
-      "municipality": "Overijse", 
-      "pcode": "3090", 
-      "source": "afgeleidVanGebouw", 
-      "street": "J. Bt. Dekeyserstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "10A-12A"
-      ], 
-      "housenumber": "12A", 
-      "lat": 50.77054480293717, 
-      "lon": 4.535089999834198, 
       "municipality": "Overijse", 
       "pcode": "3090", 
       "source": "afgeleidVanGebouw", 
@@ -138,9 +122,12 @@
       "apptnrs": [
         "1,01", 
         "1,02", 
+        "1.01", 
         "1.02", 
         "2,01", 
-        "2,02"
+        "2,02", 
+        "2.01", 
+        "2.02"
       ], 
       "hnrlbls": [
         "2"
@@ -311,6 +298,10 @@
       "street": "J. Bt. Dekeyserstraat"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "41"
       ], 
@@ -323,8 +314,9 @@
       "street": "J. Bt. Dekeyserstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
+        "11", 
         "12", 
         "18", 
         "2", 
@@ -345,7 +337,7 @@
       "street": "J. Bt. Dekeyserstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "14", 
         "15", 
         "16", 
@@ -370,7 +362,7 @@
       "street": "J. Bt. Dekeyserstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "2", 
         "3", 
         "4", 
@@ -392,50 +384,27 @@
       "street": "J. Bt. Dekeyserstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "10", 
-        "11", 
-        "12", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6", 
-        "7", 
-        "8"
-      ], 
       "hnrlbls": [
-        "55-57"
+        "55"
       ], 
       "housenumber": "55", 
-      "lat": 50.77144455497757, 
-      "lon": 4.539709826274339, 
+      "lat": 50.771455508161544, 
+      "lon": 4.539535493031316, 
       "municipality": "Overijse", 
       "pcode": "3090", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "J. Bt. Dekeyserstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6", 
-        "7", 
-        "8"
-      ], 
       "hnrlbls": [
-        "55-57"
+        "57"
       ], 
       "housenumber": "57", 
-      "lat": 50.77144455497757, 
-      "lon": 4.539709826274339, 
+      "lat": 50.77131482502769, 
+      "lon": 4.539776834145101, 
       "municipality": "Overijse", 
       "pcode": "3090", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "J. Bt. Dekeyserstraat"
     }, 
     {

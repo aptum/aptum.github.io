@@ -163,8 +163,12 @@
       "street": "Ten Akkerdreef"
     }, 
     {
+      "busnrs": [
+        "A000", 
+        "B000"
+      ], 
       "hnrlbls": [
-        "12-12B"
+        "12"
       ], 
       "housenumber": "12", 
       "lat": 50.81999618531023, 
@@ -232,30 +236,6 @@
       "municipality": "Kortrijk", 
       "pcode": "8500", 
       "source": "afgeleidVanGebouw", 
-      "street": "Ten Akkerdreef"
-    }, 
-    {
-      "hnrlbls": [
-        "12-12B"
-      ], 
-      "housenumber": "12A", 
-      "lat": 50.81999618531023, 
-      "lon": 3.2752856754122064, 
-      "municipality": "Kortrijk", 
-      "pcode": "8500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Ten Akkerdreef"
-    }, 
-    {
-      "hnrlbls": [
-        "12-12B"
-      ], 
-      "housenumber": "12B", 
-      "lat": 50.81999618531023, 
-      "lon": 3.2752856754122064, 
-      "municipality": "Kortrijk", 
-      "pcode": "8500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Ten Akkerdreef"
     }, 
     {
@@ -375,6 +355,7 @@
     }, 
     {
       "busnrs": [
+        "11", 
         "13", 
         "21", 
         "22", 
@@ -557,11 +538,11 @@
         "31"
       ], 
       "housenumber": "31", 
-      "lat": 50.820399511609494, 
-      "lon": 3.2754121304856514, 
+      "lat": 50.82034996342703, 
+      "lon": 3.275439964291614, 
       "municipality": "Kortrijk", 
       "pcode": "8500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Ten Akkerdreef"
     }, 
     {
@@ -627,6 +608,7 @@
     {
       "busnrs": [
         "1", 
+        "11", 
         "21", 
         "31"
       ], 
@@ -699,11 +681,11 @@
         "59"
       ], 
       "housenumber": "59", 
-      "lat": 50.820455933581435, 
-      "lon": 3.276063979205099, 
+      "lat": 50.820372909343156, 
+      "lon": 3.2761560319646663, 
       "municipality": "Kortrijk", 
       "pcode": "8500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Ten Akkerdreef"
     }, 
     {
@@ -858,8 +840,8 @@
         "8"
       ], 
       "housenumber": "8", 
-      "lat": 50.819973288013806, 
-      "lon": 3.2751151841221495, 
+      "lat": 50.81997313338201, 
+      "lon": 3.2751178843486084, 
       "municipality": "Kortrijk", 
       "pcode": "8500", 
       "source": "afgeleidVanPerceelGrb", 

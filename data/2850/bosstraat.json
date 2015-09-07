@@ -233,8 +233,8 @@
         "119"
       ], 
       "housenumber": "119", 
-      "lat": 51.089870880464595, 
-      "lon": 4.393031952594383, 
+      "lat": 51.08984512717942, 
+      "lon": 4.392996302486978, 
       "municipality": "Boom", 
       "pcode": "2850", 
       "source": "afgeleidVanGebouw", 
@@ -245,11 +245,11 @@
         "120"
       ], 
       "housenumber": "120", 
-      "lat": 51.08885527860364, 
-      "lon": 4.390477233890152, 
+      "lat": 51.088844641877266, 
+      "lon": 4.390506961399206, 
       "municipality": "Boom", 
       "pcode": "2850", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Bosstraat"
     }, 
     {
@@ -465,11 +465,11 @@
         "139"
       ], 
       "housenumber": "139", 
-      "lat": 51.08984749798194, 
-      "lon": 4.393844756040236, 
+      "lat": 51.08986681070485, 
+      "lon": 4.393721417005457, 
       "municipality": "Boom", 
       "pcode": "2850", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Bosstraat"
     }, 
     {
@@ -501,11 +501,11 @@
         "141"
       ], 
       "housenumber": "141", 
-      "lat": 51.089819812349205, 
-      "lon": 4.393844740774316, 
+      "lat": 51.08982905756947, 
+      "lon": 4.393721396287868, 
       "municipality": "Boom", 
       "pcode": "2850", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Bosstraat"
     }, 
     {
@@ -705,11 +705,11 @@
         "17"
       ], 
       "housenumber": "17", 
-      "lat": 51.08824119113915, 
-      "lon": 4.389450496300646, 
+      "lat": 51.08821727617801, 
+      "lon": 4.389446853565666, 
       "municipality": "Boom", 
       "pcode": "2850", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Bosstraat"
     }, 
     {
@@ -888,12 +888,16 @@
       "street": "Bosstraat"
     }, 
     {
+      "busnrs": [
+        "01.1", 
+        "02.1"
+      ], 
       "hnrlbls": [
         "196"
       ], 
       "housenumber": "196", 
-      "lat": 51.08952966023128, 
-      "lon": 4.392625130652627, 
+      "lat": 51.089529634119565, 
+      "lon": 4.392625153072922, 
       "municipality": "Boom", 
       "pcode": "2850", 
       "source": "afgeleidVanGebouw", 
@@ -1166,18 +1170,6 @@
       "municipality": "Boom", 
       "pcode": "2850", 
       "source": "afgeleidVanGebouw", 
-      "street": "Bosstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "27A"
-      ], 
-      "housenumber": "27A", 
-      "lat": 51.08841052923654, 
-      "lon": 4.3895135164838965, 
-      "municipality": "Boom", 
-      "pcode": "2850", 
-      "source": "afgeleidVanPerceelGrb", 
       "street": "Bosstraat"
     }, 
     {
@@ -1534,7 +1526,7 @@
         "02.2"
       ], 
       "hnrlbls": [
-        "61-67A"
+        "61"
       ], 
       "housenumber": "61", 
       "lat": 51.089205688232745, 
@@ -1566,7 +1558,7 @@
         "02.2"
       ], 
       "hnrlbls": [
-        "63-67B"
+        "63"
       ], 
       "housenumber": "63", 
       "lat": 51.089334922465085, 
@@ -1590,7 +1582,7 @@
     }, 
     {
       "hnrlbls": [
-        "65-69A"
+        "65-67"
       ], 
       "housenumber": "65", 
       "lat": 51.089424718895216, 
@@ -1620,11 +1612,8 @@
         "02.1", 
         "02.2"
       ], 
-      "busnrs": [
-        "C"
-      ], 
       "hnrlbls": [
-        "65-69A"
+        "65-67"
       ], 
       "housenumber": "67", 
       "lat": 51.089424718895216, 
@@ -1632,30 +1621,6 @@
       "municipality": "Boom", 
       "pcode": "2850", 
       "source": "afgeleidVanPerceelGrb", 
-      "street": "Bosstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "61-67A"
-      ], 
-      "housenumber": "67A", 
-      "lat": 51.089205688232745, 
-      "lon": 4.390441481571127, 
-      "municipality": "Boom", 
-      "pcode": "2850", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Bosstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "63-67B"
-      ], 
-      "housenumber": "67B", 
-      "lat": 51.089334922465085, 
-      "lon": 4.39057328329817, 
-      "municipality": "Boom", 
-      "pcode": "2850", 
-      "source": "afgeleidVanGebouw", 
       "street": "Bosstraat"
     }, 
     {
@@ -1679,37 +1644,10 @@
         "02.1", 
         "02.2"
       ], 
-      "busnrs": [
-        "B"
-      ], 
       "hnrlbls": [
-        "69-69B"
+        "69"
       ], 
       "housenumber": "69", 
-      "lat": 51.08949309268613, 
-      "lon": 4.390746063440721, 
-      "municipality": "Boom", 
-      "pcode": "2850", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Bosstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "65-69A"
-      ], 
-      "housenumber": "69A", 
-      "lat": 51.089424718895216, 
-      "lon": 4.390583460385377, 
-      "municipality": "Boom", 
-      "pcode": "2850", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Bosstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "69-69B"
-      ], 
-      "housenumber": "69B", 
       "lat": 51.08949309268613, 
       "lon": 4.390746063440721, 
       "municipality": "Boom", 

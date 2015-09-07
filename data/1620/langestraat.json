@@ -37,6 +37,9 @@
         "2R", 
         "3L"
       ], 
+      "busnrs": [
+        "RCHD"
+      ], 
       "hnrlbls": [
         "77-107"
       ], 
@@ -66,6 +69,9 @@
         "1R", 
         "2L", 
         "3L"
+      ], 
+      "busnrs": [
+        "RCHD"
       ], 
       "hnrlbls": [
         "77-107"
@@ -550,6 +556,9 @@
       "street": "Langestraat"
     }, 
     {
+      "apptnrs": [
+        "0.0"
+      ], 
       "hnrlbls": [
         "143"
       ], 
@@ -688,18 +697,6 @@
       "street": "Langestraat"
     }, 
     {
-      "hnrlbls": [
-        "156-158"
-      ], 
-      "housenumber": "156", 
-      "lat": 50.79447873795217, 
-      "lon": 4.314571219297566, 
-      "municipality": "Drogenbos", 
-      "pcode": "1620", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
-      "street": "Langestraat"
-    }, 
-    {
       "apptnrs": [
         "0.0", 
         "1.0"
@@ -713,18 +710,6 @@
       "municipality": "Drogenbos", 
       "pcode": "1620", 
       "source": "afgeleidVanGebouw", 
-      "street": "Langestraat"
-    }, 
-    {
-      "hnrlbls": [
-        "156-158"
-      ], 
-      "housenumber": "158", 
-      "lat": 50.79447873795217, 
-      "lon": 4.314571219297566, 
-      "municipality": "Drogenbos", 
-      "pcode": "1620", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
       "street": "Langestraat"
     }, 
     {
@@ -854,18 +839,6 @@
       "housenumber": "20", 
       "lat": 50.79074142408984, 
       "lon": 4.316466981188078, 
-      "municipality": "Drogenbos", 
-      "pcode": "1620", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Langestraat"
-    }, 
-    {
-      "hnrlbls": [
-        "209"
-      ], 
-      "housenumber": "209", 
-      "lat": 50.796035347513154, 
-      "lon": 4.311994193466644, 
       "municipality": "Drogenbos", 
       "pcode": "1620", 
       "source": "afgeleidVanGebouw", 
@@ -1317,7 +1290,9 @@
         "3R"
       ], 
       "busnrs": [
-        "1"
+        "1", 
+        "RCHD", 
+        "RCHG"
       ], 
       "hnrlbls": [
         "28"
@@ -1416,18 +1391,6 @@
     }, 
     {
       "hnrlbls": [
-        "/zn-2865"
-      ], 
-      "housenumber": "2865", 
-      "lat": 50.794499846532794, 
-      "lon": 4.313946833726618, 
-      "municipality": "Drogenbos", 
-      "pcode": "1620", 
-      "source": "afgeleidVanStraat", 
-      "street": "Langestraat"
-    }, 
-    {
-      "hnrlbls": [
         "287"
       ], 
       "housenumber": "287", 
@@ -1455,11 +1418,11 @@
         "289"
       ], 
       "housenumber": "289", 
-      "lat": 50.79605324176873, 
-      "lon": 4.312004384667496, 
+      "lat": 50.79604137097414, 
+      "lon": 4.311995037333121, 
       "municipality": "Drogenbos", 
       "pcode": "1620", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Langestraat"
     }, 
     {
@@ -1608,18 +1571,6 @@
       "municipality": "Drogenbos", 
       "pcode": "1620", 
       "source": "afgeleidVanGebouw", 
-      "street": "Langestraat"
-    }, 
-    {
-      "hnrlbls": [
-        "/zn-2865"
-      ], 
-      "housenumber": "3", 
-      "lat": 50.794499846532794, 
-      "lon": 4.313946833726618, 
-      "municipality": "Drogenbos", 
-      "pcode": "1620", 
-      "source": "afgeleidVanStraat", 
       "street": "Langestraat"
     }, 
     {
@@ -2074,30 +2025,6 @@
     }, 
     {
       "hnrlbls": [
-        "/zn-2865"
-      ], 
-      "housenumber": "368", 
-      "lat": 50.794499846532794, 
-      "lon": 4.313946833726618, 
-      "municipality": "Drogenbos", 
-      "pcode": "1620", 
-      "source": "afgeleidVanStraat", 
-      "street": "Langestraat"
-    }, 
-    {
-      "hnrlbls": [
-        "/zn-2865"
-      ], 
-      "housenumber": "369", 
-      "lat": 50.794499846532794, 
-      "lon": 4.313946833726618, 
-      "municipality": "Drogenbos", 
-      "pcode": "1620", 
-      "source": "afgeleidVanStraat", 
-      "street": "Langestraat"
-    }, 
-    {
-      "hnrlbls": [
         "37"
       ], 
       "housenumber": "37", 
@@ -2178,6 +2105,18 @@
       "municipality": "Drogenbos", 
       "pcode": "1620", 
       "source": "afgeleidVanGebouw", 
+      "street": "Langestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "43"
+      ], 
+      "housenumber": "43", 
+      "lat": 50.79157309956819, 
+      "lon": 4.31697551222334, 
+      "municipality": "Drogenbos", 
+      "pcode": "1620", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Langestraat"
     }, 
     {
@@ -2626,6 +2565,9 @@
         "1L", 
         "2L", 
         "3.0"
+      ], 
+      "busnrs": [
+        "RCHG"
       ], 
       "hnrlbls": [
         "85"

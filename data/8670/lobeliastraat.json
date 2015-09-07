@@ -1,15 +1,20 @@
 {
   "addresses": [
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "B000"
+      ], 
       "hnrlbls": [
-        "1-1B"
+        "1"
       ], 
       "housenumber": "1", 
       "lat": 51.120237804257144, 
       "lon": 2.6488928133569147, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Lobeliastraat"
     }, 
     {
@@ -21,19 +26,7 @@
       "lon": 2.649322458418221, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Lobeliastraat"
-    }, 
-    {
-      "hnrlbls": [
-        "1-1B"
-      ], 
-      "housenumber": "1B", 
-      "lat": 51.120237804257144, 
-      "lon": 2.6488928133569147, 
-      "municipality": "Koksijde", 
-      "pcode": "8670", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Lobeliastraat"
     }, 
     {
@@ -45,12 +38,13 @@
       "lon": 2.6484337271338885, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Lobeliastraat"
     }, 
     {
-      "busnrs": [
-        "101"
+      "apptnrs": [
+        "101", 
+        "GV01"
       ], 
       "hnrlbls": [
         "3"
@@ -60,7 +54,7 @@
       "lon": 2.6490144776439406, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Lobeliastraat"
     }, 
     {
@@ -72,7 +66,7 @@
       "lon": 2.6486517456433267, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Lobeliastraat"
     }
   ]

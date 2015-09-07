@@ -1,18 +1,15 @@
 {
   "addresses": [
     {
-      "busnrs": [
-        "3"
-      ], 
       "hnrlbls": [
-        "1-123"
+        "1"
       ], 
       "housenumber": "1", 
-      "lat": 51.22444598466728, 
-      "lon": 4.404824063394015, 
+      "lat": 51.22383087311027, 
+      "lon": 4.4033163594934335, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "afgeleidVanStraat", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Klapdorp"
     }, 
     {
@@ -44,11 +41,11 @@
         "103"
       ], 
       "housenumber": "103", 
-      "lat": 51.225092239695186, 
-      "lon": 4.406547331331715, 
+      "lat": 51.22508641852885, 
+      "lon": 4.406481908955533, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Klapdorp"
     }, 
     {
@@ -220,18 +217,6 @@
       "street": "Klapdorp"
     }, 
     {
-      "hnrlbls": [
-        "1-123"
-      ], 
-      "housenumber": "123", 
-      "lat": 51.22444598466728, 
-      "lon": 4.404824063394015, 
-      "municipality": "Antwerpen", 
-      "pcode": "2000", 
-      "source": "afgeleidVanStraat", 
-      "street": "Klapdorp"
-    }, 
-    {
       "busnrs": [
         "3"
       ], 
@@ -313,7 +298,9 @@
     }, 
     {
       "busnrs": [
-        "1"
+        "1", 
+        "2", 
+        "3"
       ], 
       "hnrlbls": [
         "19"
@@ -396,18 +383,15 @@
       "street": "Klapdorp"
     }, 
     {
-      "busnrs": [
-        "5"
-      ], 
       "hnrlbls": [
         "22L"
       ], 
       "housenumber": "22L", 
-      "lat": 51.22422804358526, 
-      "lon": 4.4044461370782715, 
+      "lat": 51.22423584650095, 
+      "lon": 4.404431181855743, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Klapdorp"
     }, 
     {
@@ -435,64 +419,66 @@
       "street": "Klapdorp"
     }, 
     {
-      "busnrs": [
-        "5"
-      ], 
       "hnrlbls": [
         "25"
       ], 
       "housenumber": "25", 
-      "lat": 51.224151047686966, 
-      "lon": 4.403743102722321, 
+      "lat": 51.22414982083787, 
+      "lon": 4.403742889932019, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Klapdorp"
     }, 
     {
       "busnrs": [
+        "1", 
+        "10", 
+        "11", 
+        "12", 
+        "13", 
+        "2", 
         "3", 
-        "4"
+        "4", 
+        "5", 
+        "6", 
+        "7", 
+        "8", 
+        "9"
       ], 
       "hnrlbls": [
         "26-26_5"
       ], 
       "housenumber": "26", 
-      "lat": 51.22430438579915, 
-      "lon": 4.404637292918543, 
+      "lat": 51.22429969186715, 
+      "lon": 4.4045681453196615, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Klapdorp"
     }, 
     {
-      "busnrs": [
-        "R"
-      ], 
       "hnrlbls": [
         "26-26_5"
       ], 
       "housenumber": "26_1", 
-      "lat": 51.22430438579915, 
-      "lon": 4.404637292918543, 
+      "lat": 51.22429969186715, 
+      "lon": 4.4045681453196615, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Klapdorp"
     }, 
     {
-      "busnrs": [
-        "R"
-      ], 
       "hnrlbls": [
         "26-26_5"
       ], 
       "housenumber": "26_5", 
-      "lat": 51.22430438579915, 
-      "lon": 4.404637292918543, 
+      "lat": 51.22429969186715, 
+      "lon": 4.4045681453196615, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Klapdorp"
     }, 
     {
@@ -547,11 +533,11 @@
         "3"
       ], 
       "housenumber": "3", 
-      "lat": 51.22360634831969, 
-      "lon": 4.4031549483932295, 
+      "lat": 51.22384629131299, 
+      "lon": 4.40331186934113, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "geinterpoleerdObvWegverbinding", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Klapdorp"
     }, 
     {
@@ -580,14 +566,14 @@
     }, 
     {
       "hnrlbls": [
-        "32-38"
+        "32"
       ], 
       "housenumber": "32", 
-      "lat": 51.22448226216627, 
-      "lon": 4.404938177618943, 
+      "lat": 51.22439679206754, 
+      "lon": 4.404826742341418, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Klapdorp"
     }, 
     {
@@ -607,29 +593,15 @@
       "street": "Klapdorp"
     }, 
     {
-      "apptnrs": [
-        "003", 
-        "101", 
-        "102", 
-        "103", 
-        "201", 
-        "202", 
-        "203", 
-        "301", 
-        "302", 
-        "303", 
-        "401", 
-        "402"
-      ], 
       "hnrlbls": [
-        "32-38"
+        "34"
       ], 
       "housenumber": "34", 
-      "lat": 51.22448226216627, 
-      "lon": 4.404938177618943, 
+      "lat": 51.22448873114072, 
+      "lon": 4.404857549700515, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Klapdorp"
     }, 
     {
@@ -645,19 +617,15 @@
       "street": "Klapdorp"
     }, 
     {
-      "busnrs": [
-        "3", 
-        "40"
-      ], 
       "hnrlbls": [
-        "32-38"
+        "36-38"
       ], 
       "housenumber": "36", 
-      "lat": 51.22448226216627, 
-      "lon": 4.404938177618943, 
+      "lat": 51.224362127950386, 
+      "lon": 4.404991547257447, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Klapdorp"
     }, 
     {
@@ -684,14 +652,14 @@
     }, 
     {
       "hnrlbls": [
-        "32-38"
+        "36-38"
       ], 
       "housenumber": "38", 
-      "lat": 51.22448226216627, 
-      "lon": 4.404938177618943, 
+      "lat": 51.224362127950386, 
+      "lon": 4.404991547257447, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Klapdorp"
     }, 
     {
@@ -1016,9 +984,14 @@
     }, 
     {
       "busnrs": [
+        "1", 
         "2", 
+        "3", 
+        "4", 
+        "5", 
         "6", 
-        "L"
+        "7", 
+        "8"
       ], 
       "hnrlbls": [
         "60"
@@ -1036,11 +1009,11 @@
         "60A-60_2"
       ], 
       "housenumber": "60A", 
-      "lat": 51.224757455877416, 
-      "lon": 4.4058877306670565, 
+      "lat": 51.224754146764084, 
+      "lon": 4.405892081010929, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Klapdorp"
     }, 
     {
@@ -1048,26 +1021,23 @@
         "60A-60_2"
       ], 
       "housenumber": "60B", 
-      "lat": 51.224757455877416, 
-      "lon": 4.4058877306670565, 
+      "lat": 51.224754146764084, 
+      "lon": 4.405892081010929, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Klapdorp"
     }, 
     {
-      "busnrs": [
-        "L"
-      ], 
       "hnrlbls": [
         "60A-60_2"
       ], 
       "housenumber": "60_2", 
-      "lat": 51.224757455877416, 
-      "lon": 4.4058877306670565, 
+      "lat": 51.224754146764084, 
+      "lon": 4.405892081010929, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Klapdorp"
     }, 
     {
@@ -1075,11 +1045,11 @@
         "61"
       ], 
       "housenumber": "61", 
-      "lat": 51.22480772722718, 
-      "lon": 4.404950888658826, 
+      "lat": 51.22475122653702, 
+      "lon": 4.404834739335559, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Klapdorp"
     }, 
     {
@@ -1229,7 +1199,7 @@
         "9"
       ], 
       "hnrlbls": [
-        "70-70C"
+        "70"
       ], 
       "housenumber": "70", 
       "lat": 51.22482567035978, 
@@ -1237,18 +1207,6 @@
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
-      "street": "Klapdorp"
-    }, 
-    {
-      "hnrlbls": [
-        "70-70C"
-      ], 
-      "housenumber": "70C", 
-      "lat": 51.22482567035978, 
-      "lon": 4.406467952164127, 
-      "municipality": "Antwerpen", 
-      "pcode": "2000", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Klapdorp"
     }, 
     {
@@ -1430,11 +1388,11 @@
         "82B"
       ], 
       "housenumber": "82B", 
-      "lat": 51.22493205896847, 
-      "lon": 4.406846658849278, 
+      "lat": 51.224892918232484, 
+      "lon": 4.406857513901345, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Klapdorp"
     }, 
     {
@@ -1450,15 +1408,6 @@
       "street": "Klapdorp"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "5", 
-        "6", 
-        "7", 
-        "8"
-      ], 
       "hnrlbls": [
         "84"
       ], 
@@ -1508,7 +1457,7 @@
     }, 
     {
       "hnrlbls": [
-        "88-88_2"
+        "88"
       ], 
       "housenumber": "88", 
       "lat": 51.22494027161134, 
@@ -1519,18 +1468,15 @@
       "street": "Klapdorp"
     }, 
     {
-      "busnrs": [
-        "A"
-      ], 
       "hnrlbls": [
-        "88-88_2"
+        "88_2"
       ], 
       "housenumber": "88_2", 
-      "lat": 51.22494027161134, 
-      "lon": 4.407019012527354, 
+      "lat": 51.224956147756615, 
+      "lon": 4.4070081539106845, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Klapdorp"
     }, 
     {
@@ -1633,7 +1579,10 @@
     }, 
     {
       "busnrs": [
-        "2"
+        "1", 
+        "2", 
+        "3", 
+        "4"
       ], 
       "hnrlbls": [
         "95"
@@ -1648,14 +1597,14 @@
     }, 
     {
       "hnrlbls": [
-        "1-123"
+        "96"
       ], 
       "housenumber": "96", 
-      "lat": 51.22444598466728, 
-      "lon": 4.404824063394015, 
+      "lat": 51.224973120331114, 
+      "lon": 4.407166622803359, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "afgeleidVanStraat", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Klapdorp"
     }, 
     {

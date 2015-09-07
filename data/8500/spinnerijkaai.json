@@ -2,26 +2,26 @@
   "addresses": [
     {
       "hnrlbls": [
-        "100-102"
+        "100"
       ], 
       "housenumber": "100", 
-      "lat": 50.83169847481869, 
-      "lon": 3.2835471222356447, 
+      "lat": 50.83165888218456, 
+      "lon": 3.2835142482220965, 
       "municipality": "Kortrijk", 
       "pcode": "8500", 
-      "source": "afgeleidVanStraat", 
+      "source": "manueleAanduidingVanLigplaats", 
       "street": "Spinnerijkaai"
     }, 
     {
       "hnrlbls": [
-        "100-102"
+        "102"
       ], 
       "housenumber": "102", 
-      "lat": 50.83169847481869, 
-      "lon": 3.2835471222356447, 
+      "lat": 50.831668748035916, 
+      "lon": 3.2834145045116547, 
       "municipality": "Kortrijk", 
       "pcode": "8500", 
-      "source": "afgeleidVanStraat", 
+      "source": "manueleAanduidingVanLigplaats", 
       "street": "Spinnerijkaai"
     }, 
     {
@@ -175,7 +175,7 @@
     }, 
     {
       "hnrlbls": [
-        "33-33A"
+        "33"
       ], 
       "housenumber": "33", 
       "lat": 50.83260983411611, 
@@ -187,14 +187,14 @@
     }, 
     {
       "hnrlbls": [
-        "33-33A"
+        "33A"
       ], 
       "housenumber": "33A", 
-      "lat": 50.83260983411611, 
-      "lon": 3.2801111090171107, 
+      "lat": 50.83253600922217, 
+      "lon": 3.280138796959379, 
       "municipality": "Kortrijk", 
       "pcode": "8500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Spinnerijkaai"
     }, 
     {
@@ -202,11 +202,11 @@
         "35"
       ], 
       "housenumber": "35", 
-      "lat": 50.83253817703425, 
-      "lon": 3.280178639201537, 
+      "lat": 50.83252409459424, 
+      "lon": 3.280201537588761, 
       "municipality": "Kortrijk", 
       "pcode": "8500", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Spinnerijkaai"
     }, 
     {
@@ -231,18 +231,6 @@
       "municipality": "Kortrijk", 
       "pcode": "8500", 
       "source": "afgeleidVanGebouw", 
-      "street": "Spinnerijkaai"
-    }, 
-    {
-      "hnrlbls": [
-        "41"
-      ], 
-      "housenumber": "41", 
-      "lat": 50.832882301179374, 
-      "lon": 3.280679060495035, 
-      "municipality": "Kortrijk", 
-      "pcode": "8500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
       "street": "Spinnerijkaai"
     }, 
     {
@@ -282,6 +270,7 @@
         "107", 
         "108", 
         "109", 
+        "110", 
         "111", 
         "112", 
         "113", 
@@ -291,7 +280,9 @@
         "117", 
         "118", 
         "119", 
+        "2", 
         "201", 
+        "202", 
         "203", 
         "204", 
         "205", 
@@ -346,18 +337,6 @@
       "street": "Spinnerijkaai"
     }, 
     {
-      "hnrlbls": [
-        "55"
-      ], 
-      "housenumber": "55", 
-      "lat": 50.832077037380365, 
-      "lon": 3.282825161678632, 
-      "municipality": "Kortrijk", 
-      "pcode": "8500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelKadaster", 
-      "street": "Spinnerijkaai"
-    }, 
-    {
       "busnrs": [
         "11", 
         "12", 
@@ -386,59 +365,11 @@
         "57"
       ], 
       "housenumber": "57", 
-      "lat": 50.83196945903726, 
-      "lon": 3.2832275573407848, 
+      "lat": 50.83195679694542, 
+      "lon": 3.2832291271551295, 
       "municipality": "Kortrijk", 
       "pcode": "8500", 
-      "source": "afgeleidVanPerceelKadaster", 
-      "street": "Spinnerijkaai"
-    }, 
-    {
-      "hnrlbls": [
-        "59-65"
-      ], 
-      "housenumber": "59", 
-      "lat": 50.8318390889131, 
-      "lon": 3.283780674302362, 
-      "municipality": "Kortrijk", 
-      "pcode": "8500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelKadaster", 
-      "street": "Spinnerijkaai"
-    }, 
-    {
-      "hnrlbls": [
-        "59-65"
-      ], 
-      "housenumber": "61", 
-      "lat": 50.8318390889131, 
-      "lon": 3.283780674302362, 
-      "municipality": "Kortrijk", 
-      "pcode": "8500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelKadaster", 
-      "street": "Spinnerijkaai"
-    }, 
-    {
-      "hnrlbls": [
-        "59-65"
-      ], 
-      "housenumber": "63", 
-      "lat": 50.8318390889131, 
-      "lon": 3.283780674302362, 
-      "municipality": "Kortrijk", 
-      "pcode": "8500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelKadaster", 
-      "street": "Spinnerijkaai"
-    }, 
-    {
-      "hnrlbls": [
-        "59-65"
-      ], 
-      "housenumber": "65", 
-      "lat": 50.8318390889131, 
-      "lon": 3.283780674302362, 
-      "municipality": "Kortrijk", 
-      "pcode": "8500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelKadaster", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Spinnerijkaai"
     }, 
     {

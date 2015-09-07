@@ -2,7 +2,7 @@
   "addresses": [
     {
       "hnrlbls": [
-        "1-1_2"
+        "1"
       ], 
       "housenumber": "1", 
       "lat": 51.08432743665544, 
@@ -13,8 +13,12 @@
       "street": "Markt"
     }, 
     {
+      "busnrs": [
+        "1A", 
+        "2A"
+      ], 
       "hnrlbls": [
-        "10-10_2"
+        "10"
       ], 
       "housenumber": "10", 
       "lat": 51.08359555997762, 
@@ -26,37 +30,15 @@
     }, 
     {
       "busnrs": [
-        "A"
+        "1A", 
+        "1B", 
+        "2A", 
+        "2B", 
+        "2C", 
+        "3A"
       ], 
       "hnrlbls": [
-        "10-10_2"
-      ], 
-      "housenumber": "10_1", 
-      "lat": 51.08359555997762, 
-      "lon": 3.4487158219830967, 
-      "municipality": "Aalter", 
-      "pcode": "9880", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Markt"
-    }, 
-    {
-      "busnrs": [
-        "A"
-      ], 
-      "hnrlbls": [
-        "10-10_2"
-      ], 
-      "housenumber": "10_2", 
-      "lat": 51.08359555997762, 
-      "lon": 3.4487158219830967, 
-      "municipality": "Aalter", 
-      "pcode": "9880", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Markt"
-    }, 
-    {
-      "hnrlbls": [
-        "11-11_2"
+        "11"
       ], 
       "housenumber": "11", 
       "lat": 51.083851916889685, 
@@ -64,39 +46,6 @@
       "municipality": "Aalter", 
       "pcode": "9880", 
       "source": "afgeleidVanGebouw", 
-      "street": "Markt"
-    }, 
-    {
-      "busnrs": [
-        "A", 
-        "B"
-      ], 
-      "hnrlbls": [
-        "11-11_2"
-      ], 
-      "housenumber": "11_1", 
-      "lat": 51.083851916889685, 
-      "lon": 3.448113481089421, 
-      "municipality": "Aalter", 
-      "pcode": "9880", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Markt"
-    }, 
-    {
-      "busnrs": [
-        "A", 
-        "B", 
-        "C"
-      ], 
-      "hnrlbls": [
-        "11-11_2"
-      ], 
-      "housenumber": "11_2", 
-      "lat": 51.083851916889685, 
-      "lon": 3.448113481089421, 
-      "municipality": "Aalter", 
-      "pcode": "9880", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Markt"
     }, 
     {
@@ -149,72 +98,6 @@
     }, 
     {
       "hnrlbls": [
-        "1-1_2"
-      ], 
-      "housenumber": "1A", 
-      "lat": 51.08432743665544, 
-      "lon": 3.448905246441331, 
-      "municipality": "Aalter", 
-      "pcode": "9880", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Markt"
-    }, 
-    {
-      "hnrlbls": [
-        "1-1_2"
-      ], 
-      "housenumber": "1B", 
-      "lat": 51.08432743665544, 
-      "lon": 3.448905246441331, 
-      "municipality": "Aalter", 
-      "pcode": "9880", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Markt"
-    }, 
-    {
-      "hnrlbls": [
-        "1-1_2"
-      ], 
-      "housenumber": "1C", 
-      "lat": 51.08432743665544, 
-      "lon": 3.448905246441331, 
-      "municipality": "Aalter", 
-      "pcode": "9880", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Markt"
-    }, 
-    {
-      "busnrs": [
-        "A"
-      ], 
-      "hnrlbls": [
-        "1-1_2"
-      ], 
-      "housenumber": "1_1", 
-      "lat": 51.08432743665544, 
-      "lon": 3.448905246441331, 
-      "municipality": "Aalter", 
-      "pcode": "9880", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Markt"
-    }, 
-    {
-      "busnrs": [
-        "A"
-      ], 
-      "hnrlbls": [
-        "1-1_2"
-      ], 
-      "housenumber": "1_2", 
-      "lat": 51.08432743665544, 
-      "lon": 3.448905246441331, 
-      "municipality": "Aalter", 
-      "pcode": "9880", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Markt"
-    }, 
-    {
-      "hnrlbls": [
         "2"
       ], 
       "housenumber": "2", 
@@ -226,121 +109,55 @@
       "street": "Markt"
     }, 
     {
+      "busnrs": [
+        "1A", 
+        "2A", 
+        "3A", 
+        "4A"
+      ], 
       "hnrlbls": [
-        "3-3_4"
+        "3"
       ], 
       "housenumber": "3", 
-      "lat": 51.08418449792261, 
-      "lon": 3.4489391699957626, 
+      "lat": 51.08414549381731, 
+      "lon": 3.4487586455663055, 
       "municipality": "Aalter", 
       "pcode": "9880", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Markt"
-    }, 
-    {
-      "busnrs": [
-        "A"
-      ], 
-      "hnrlbls": [
-        "3-3_4"
-      ], 
-      "housenumber": "3_1", 
-      "lat": 51.08418449792261, 
-      "lon": 3.4489391699957626, 
-      "municipality": "Aalter", 
-      "pcode": "9880", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Markt"
-    }, 
-    {
-      "busnrs": [
-        "A"
-      ], 
-      "hnrlbls": [
-        "3-3_4"
-      ], 
-      "housenumber": "3_2", 
-      "lat": 51.08418449792261, 
-      "lon": 3.4489391699957626, 
-      "municipality": "Aalter", 
-      "pcode": "9880", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Markt"
-    }, 
-    {
-      "busnrs": [
-        "A"
-      ], 
-      "hnrlbls": [
-        "3-3_4"
-      ], 
-      "housenumber": "3_3", 
-      "lat": 51.08418449792261, 
-      "lon": 3.4489391699957626, 
-      "municipality": "Aalter", 
-      "pcode": "9880", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Markt"
-    }, 
-    {
-      "busnrs": [
-        "A"
-      ], 
-      "hnrlbls": [
-        "3-3_4"
-      ], 
-      "housenumber": "3_4", 
-      "lat": 51.08418449792261, 
-      "lon": 3.4489391699957626, 
-      "municipality": "Aalter", 
-      "pcode": "9880", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Markt"
     }, 
     {
       "hnrlbls": [
-        "4-6"
+        "4"
       ], 
       "housenumber": "4", 
-      "lat": 51.08408241910474, 
-      "lon": 3.4490483627341013, 
+      "lat": 51.08407876809092, 
+      "lon": 3.4488349414968997, 
       "municipality": "Aalter", 
       "pcode": "9880", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Markt"
     }, 
     {
       "busnrs": [
-        "1", 
         "1A", 
         "1B", 
-        "1C", 
-        "1D", 
         "2A", 
         "2B", 
-        "2C", 
-        "2D", 
-        "3", 
         "3A", 
         "3B", 
-        "3C", 
         "3D", 
-        "4", 
         "4A", 
         "4B", 
         "4C", 
-        "4D", 
-        "6", 
-        "A", 
-        "B", 
-        "D"
+        "4D"
       ], 
       "hnrlbls": [
-        "4-6"
+        "5"
       ], 
       "housenumber": "5", 
-      "lat": 51.08408241910474, 
-      "lon": 3.4490483627341013, 
+      "lat": 51.08408218460405, 
+      "lon": 3.449049127747992, 
       "municipality": "Aalter", 
       "pcode": "9880", 
       "source": "afgeleidVanGebouw", 
@@ -348,187 +165,50 @@
     }, 
     {
       "hnrlbls": [
-        "4-6"
+        "5A"
       ], 
       "housenumber": "5A", 
-      "lat": 51.08408241910474, 
-      "lon": 3.4490483627341013, 
+      "lat": 51.08400385941481, 
+      "lon": 3.448912343646888, 
       "municipality": "Aalter", 
       "pcode": "9880", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Markt"
     }, 
     {
       "hnrlbls": [
-        "4-6"
-      ], 
-      "housenumber": "5B", 
-      "lat": 51.08408241910474, 
-      "lon": 3.4490483627341013, 
-      "municipality": "Aalter", 
-      "pcode": "9880", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Markt"
-    }, 
-    {
-      "hnrlbls": [
-        "4-6"
-      ], 
-      "housenumber": "5C", 
-      "lat": 51.08408241910474, 
-      "lon": 3.4490483627341013, 
-      "municipality": "Aalter", 
-      "pcode": "9880", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Markt"
-    }, 
-    {
-      "hnrlbls": [
-        "4-6"
+        "5D"
       ], 
       "housenumber": "5D", 
-      "lat": 51.08408241910474, 
-      "lon": 3.4490483627341013, 
+      "lat": 51.0840429672895, 
+      "lon": 3.449144380764828, 
       "municipality": "Aalter", 
       "pcode": "9880", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Markt"
     }, 
     {
-      "busnrs": [
-        "A", 
-        "B", 
-        "C", 
-        "D"
-      ], 
       "hnrlbls": [
-        "5_1-5_4"
-      ], 
-      "housenumber": "5_1", 
-      "lat": 51.08408215502269, 
-      "lon": 3.449049081548759, 
-      "municipality": "Aalter", 
-      "pcode": "9880", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Markt"
-    }, 
-    {
-      "busnrs": [
-        "A", 
-        "B", 
-        "C", 
-        "D"
-      ], 
-      "hnrlbls": [
-        "5_1-5_4"
-      ], 
-      "housenumber": "5_2", 
-      "lat": 51.08408215502269, 
-      "lon": 3.449049081548759, 
-      "municipality": "Aalter", 
-      "pcode": "9880", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Markt"
-    }, 
-    {
-      "busnrs": [
-        "A", 
-        "B", 
-        "C", 
-        "D"
-      ], 
-      "hnrlbls": [
-        "5_1-5_4"
-      ], 
-      "housenumber": "5_3", 
-      "lat": 51.08408215502269, 
-      "lon": 3.449049081548759, 
-      "municipality": "Aalter", 
-      "pcode": "9880", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Markt"
-    }, 
-    {
-      "busnrs": [
-        "A", 
-        "B", 
-        "C", 
-        "D"
-      ], 
-      "hnrlbls": [
-        "5_1-5_4"
-      ], 
-      "housenumber": "5_4", 
-      "lat": 51.08408215502269, 
-      "lon": 3.449049081548759, 
-      "municipality": "Aalter", 
-      "pcode": "9880", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Markt"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "1A", 
-        "2A", 
-        "3A", 
-        "A"
-      ], 
-      "hnrlbls": [
-        "4-6"
+        "6"
       ], 
       "housenumber": "6", 
-      "lat": 51.08408241910474, 
-      "lon": 3.4490483627341013, 
+      "lat": 51.08387648038384, 
+      "lon": 3.449133018975377, 
       "municipality": "Aalter", 
       "pcode": "9880", 
       "source": "afgeleidVanGebouw", 
       "street": "Markt"
     }, 
     {
-      "busnrs": [
-        "A", 
-        "C"
-      ], 
       "hnrlbls": [
-        "6_1-6_3"
+        "6A"
       ], 
-      "housenumber": "6_1", 
-      "lat": 51.08406296373839, 
-      "lon": 3.448893603053792, 
+      "housenumber": "6A", 
+      "lat": 51.084028940167194, 
+      "lon": 3.4492016037150903, 
       "municipality": "Aalter", 
       "pcode": "9880", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Markt"
-    }, 
-    {
-      "busnrs": [
-        "A"
-      ], 
-      "hnrlbls": [
-        "6_1-6_3"
-      ], 
-      "housenumber": "6_2", 
-      "lat": 51.08406296373839, 
-      "lon": 3.448893603053792, 
-      "municipality": "Aalter", 
-      "pcode": "9880", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Markt"
-    }, 
-    {
-      "busnrs": [
-        "A"
-      ], 
-      "hnrlbls": [
-        "6_1-6_3"
-      ], 
-      "housenumber": "6_3", 
-      "lat": 51.08406296373839, 
-      "lon": 3.448893603053792, 
-      "municipality": "Aalter", 
-      "pcode": "9880", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Markt"
     }, 
     {

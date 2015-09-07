@@ -4,6 +4,9 @@
       "apptnrs": [
         "1.0"
       ], 
+      "busnrs": [
+        "glvl"
+      ], 
       "hnrlbls": [
         "11"
       ], 
@@ -61,7 +64,8 @@
     }, 
     {
       "busnrs": [
-        "19"
+        "19", 
+        "glvl"
       ], 
       "hnrlbls": [
         "13-19"
@@ -91,7 +95,23 @@
     }, 
     {
       "busnrs": [
-        "6"
+        "eL"
+      ], 
+      "hnrlbls": [
+        "17_1-19b"
+      ], 
+      "housenumber": "17_2", 
+      "lat": 51.22775823666695, 
+      "lon": 4.511151709724194, 
+      "municipality": "Wijnegem", 
+      "pcode": "2110", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "street": "Vuurkruisenlaan"
+    }, 
+    {
+      "busnrs": [
+        "6", 
+        "glvl"
       ], 
       "hnrlbls": [
         "13-19"
@@ -138,7 +158,10 @@
       "busnrs": [
         "3", 
         "5", 
-        "8"
+        "7", 
+        "8", 
+        "glvR", 
+        "glvl"
       ], 
       "hnrlbls": [
         "21-21_2"

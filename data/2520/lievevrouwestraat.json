@@ -171,6 +171,7 @@
     }, 
     {
       "busnrs": [
+        "11", 
         "2"
       ], 
       "hnrlbls": [
@@ -246,6 +247,9 @@
     {
       "busnrs": [
         "1", 
+        "11", 
+        "12", 
+        "22", 
         "3", 
         "4"
       ], 
@@ -263,6 +267,7 @@
     {
       "busnrs": [
         "1", 
+        "11", 
         "2", 
         "3"
       ], 
@@ -610,6 +615,11 @@
       "street": "Lievevrouwestraat"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "11", 
+        "21"
+      ], 
       "hnrlbls": [
         "50-52"
       ], 
@@ -645,6 +655,10 @@
     }, 
     {
       "busnrs": [
+        "11", 
+        "12", 
+        "21", 
+        "22", 
         "3", 
         "6"
       ], 
@@ -660,6 +674,11 @@
       "street": "Lievevrouwestraat"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "11", 
+        "21"
+      ], 
       "hnrlbls": [
         "53"
       ], 
@@ -845,7 +864,7 @@
     }, 
     {
       "hnrlbls": [
-        "65"
+        "65-65A"
       ], 
       "housenumber": "65", 
       "lat": 51.188238592545005, 
@@ -853,6 +872,18 @@
       "municipality": "Ranst", 
       "pcode": "2520", 
       "source": "afgeleidVanGebouw", 
+      "street": "Lievevrouwestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "65-65A"
+      ], 
+      "housenumber": "65A", 
+      "lat": 51.188238592545005, 
+      "lon": 4.563129421879527, 
+      "municipality": "Ranst", 
+      "pcode": "2520", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Lievevrouwestraat"
     }, 
     {

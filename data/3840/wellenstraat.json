@@ -1,6 +1,11 @@
 {
   "addresses": [
     {
+      "apptnrs": [
+        "0001", 
+        "0101", 
+        "0201"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -25,8 +30,13 @@
       "street": "Wellenstraat"
     }, 
     {
+      "apptnrs": [
+        "A", 
+        "B", 
+        "C"
+      ], 
       "hnrlbls": [
-        "11-11C"
+        "11"
       ], 
       "housenumber": "11", 
       "lat": 50.80354347342641, 
@@ -34,42 +44,6 @@
       "municipality": "Borgloon", 
       "pcode": "3840", 
       "source": "afgeleidVanGebouw", 
-      "street": "Wellenstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "11-11C"
-      ], 
-      "housenumber": "11A", 
-      "lat": 50.80354347342641, 
-      "lon": 5.342019470351197, 
-      "municipality": "Borgloon", 
-      "pcode": "3840", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Wellenstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "11-11C"
-      ], 
-      "housenumber": "11B", 
-      "lat": 50.80354347342641, 
-      "lon": 5.342019470351197, 
-      "municipality": "Borgloon", 
-      "pcode": "3840", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Wellenstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "11-11C"
-      ], 
-      "housenumber": "11C", 
-      "lat": 50.80354347342641, 
-      "lon": 5.342019470351197, 
-      "municipality": "Borgloon", 
-      "pcode": "3840", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Wellenstraat"
     }, 
     {
@@ -106,11 +80,11 @@
         "14"
       ], 
       "housenumber": "14", 
-      "lat": 50.803696417311656, 
-      "lon": 5.342471531349407, 
+      "lat": 50.803697633749195, 
+      "lon": 5.342390119846581, 
       "municipality": "Borgloon", 
       "pcode": "3840", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Wellenstraat"
     }, 
     {
@@ -178,11 +152,11 @@
         "2"
       ], 
       "housenumber": "2", 
-      "lat": 50.80331780633042, 
-      "lon": 5.342474614555489, 
+      "lat": 50.80331554968707, 
+      "lon": 5.3424216485845, 
       "municipality": "Borgloon", 
       "pcode": "3840", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Wellenstraat"
     }, 
     {
@@ -273,11 +247,11 @@
         "26"
       ], 
       "housenumber": "26", 
-      "lat": 50.80426726730566, 
-      "lon": 5.342746536815021, 
+      "lat": 50.80427042152566, 
+      "lon": 5.342561877642337, 
       "municipality": "Borgloon", 
       "pcode": "3840", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Wellenstraat"
     }, 
     {
@@ -309,11 +283,11 @@
         "3"
       ], 
       "housenumber": "3", 
-      "lat": 50.803315187652785, 
-      "lon": 5.342065110170084, 
+      "lat": 50.803310976027916, 
+      "lon": 5.342117516585378, 
       "municipality": "Borgloon", 
       "pcode": "3840", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Wellenstraat"
     }, 
     {
@@ -333,23 +307,11 @@
         "33"
       ], 
       "housenumber": "33", 
-      "lat": 50.804218851560606, 
-      "lon": 5.342092756130594, 
+      "lat": 50.804205765602134, 
+      "lon": 5.342185272972085, 
       "municipality": "Borgloon", 
       "pcode": "3840", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Wellenstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "33B"
-      ], 
-      "housenumber": "33B", 
-      "lat": 50.80421902779978, 
-      "lon": 5.34209318541123, 
-      "municipality": "Borgloon", 
-      "pcode": "3840", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Wellenstraat"
     }, 
     {
@@ -369,11 +331,11 @@
         "3A"
       ], 
       "housenumber": "3A", 
-      "lat": 50.80331519001114, 
-      "lon": 5.342064826469675, 
+      "lat": 50.80331141351775, 
+      "lon": 5.3420648901646945, 
       "municipality": "Borgloon", 
       "pcode": "3840", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Wellenstraat"
     }, 
     {
@@ -381,11 +343,11 @@
         "4"
       ], 
       "housenumber": "4", 
-      "lat": 50.80337547199869, 
-      "lon": 5.3424701338407425, 
+      "lat": 50.80337027970513, 
+      "lon": 5.3424134182657586, 
       "municipality": "Borgloon", 
       "pcode": "3840", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Wellenstraat"
     }, 
     {
@@ -393,11 +355,11 @@
         "5"
       ], 
       "housenumber": "5", 
-      "lat": 50.803351781655714, 
-      "lon": 5.3418808630886705, 
+      "lat": 50.80335993022554, 
+      "lon": 5.342090296997851, 
       "municipality": "Borgloon", 
       "pcode": "3840", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Wellenstraat"
     }, 
     {
@@ -405,11 +367,11 @@
         "6"
       ], 
       "housenumber": "6", 
-      "lat": 50.803402846834295, 
-      "lon": 5.342713448721445, 
+      "lat": 50.80342262213782, 
+      "lon": 5.342422021602279, 
       "municipality": "Borgloon", 
       "pcode": "3840", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Wellenstraat"
     }, 
     {
@@ -417,11 +379,11 @@
         "7"
       ], 
       "housenumber": "7", 
-      "lat": 50.80342804359589, 
-      "lon": 5.341878043417724, 
+      "lat": 50.80341928397967, 
+      "lon": 5.342099045123757, 
       "municipality": "Borgloon", 
       "pcode": "3840", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Wellenstraat"
     }, 
     {

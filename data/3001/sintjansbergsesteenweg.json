@@ -19,6 +19,7 @@
         "0003", 
         "0004", 
         "0005", 
+        "0006", 
         "0007", 
         "0008", 
         "0009", 
@@ -29,8 +30,10 @@
         "0014", 
         "0015", 
         "0016", 
+        "0017", 
         "0018", 
         "0019", 
+        "0020", 
         "0021", 
         "0022", 
         "0023", 
@@ -80,6 +83,7 @@
         "0201", 
         "0202", 
         "0203", 
+        "0204", 
         "0205", 
         "0206", 
         "0207", 
@@ -102,6 +106,7 @@
         "0224", 
         "0225", 
         "0226", 
+        "0227", 
         "0228", 
         "0229", 
         "0230", 
@@ -168,6 +173,7 @@
         "0421", 
         "0422", 
         "0423", 
+        "0424", 
         "0425", 
         "0426", 
         "0427", 
@@ -183,6 +189,7 @@
         "0504", 
         "0505", 
         "0506", 
+        "0507", 
         "0508", 
         "0509", 
         "0510", 
@@ -197,14 +204,7 @@
         "0603", 
         "0604", 
         "0605", 
-        "0606", 
-        "17", 
-        "20", 
-        "204", 
-        "227", 
-        "424", 
-        "507", 
-        "6"
+        "0606"
       ], 
       "hnrlbls": [
         "101"
@@ -307,11 +307,11 @@
         "114"
       ], 
       "housenumber": "114", 
-      "lat": 50.868754202884375, 
-      "lon": 4.663788684793152, 
+      "lat": 50.86869820476981, 
+      "lon": 4.663821716667372, 
       "municipality": "Leuven", 
       "pcode": "3001", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Sint-Jansbergsesteenweg"
     }, 
     {
@@ -319,11 +319,11 @@
         "116"
       ], 
       "housenumber": "116", 
-      "lat": 50.8686763835932, 
-      "lon": 4.663634058942746, 
+      "lat": 50.86864608195638, 
+      "lon": 4.6637064914558355, 
       "municipality": "Leuven", 
       "pcode": "3001", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Sint-Jansbergsesteenweg"
     }, 
     {
@@ -460,11 +460,11 @@
         "155"
       ], 
       "housenumber": "155", 
-      "lat": 50.86396968641432, 
-      "lon": 4.66024334607337, 
+      "lat": 50.86369225354598, 
+      "lon": 4.659856963950354, 
       "municipality": "Leuven", 
       "pcode": "3001", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Sint-Jansbergsesteenweg"
     }, 
     {
@@ -472,11 +472,11 @@
         "157-161"
       ], 
       "housenumber": "157", 
-      "lat": 50.863559006705394, 
-      "lon": 4.660041786960162, 
+      "lat": 50.863526308587595, 
+      "lon": 4.659859052140223, 
       "municipality": "Leuven", 
       "pcode": "3001", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Sint-Jansbergsesteenweg"
     }, 
     {
@@ -484,11 +484,11 @@
         "157-161"
       ], 
       "housenumber": "159", 
-      "lat": 50.863559006705394, 
-      "lon": 4.660041786960162, 
+      "lat": 50.863526308587595, 
+      "lon": 4.659859052140223, 
       "municipality": "Leuven", 
       "pcode": "3001", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Sint-Jansbergsesteenweg"
     }, 
     {
@@ -496,11 +496,11 @@
         "157-161"
       ], 
       "housenumber": "161", 
-      "lat": 50.863559006705394, 
-      "lon": 4.660041786960162, 
+      "lat": 50.863526308587595, 
+      "lon": 4.659859052140223, 
       "municipality": "Leuven", 
       "pcode": "3001", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Sint-Jansbergsesteenweg"
     }, 
     {
@@ -597,11 +597,11 @@
         "183"
       ], 
       "housenumber": "183", 
-      "lat": 50.86245870735912, 
-      "lon": 4.659889073200637, 
+      "lat": 50.86250322065705, 
+      "lon": 4.659690970902299, 
       "municipality": "Leuven", 
       "pcode": "3001", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "afgeleidVanGebouw", 
       "street": "Sint-Jansbergsesteenweg"
     }, 
     {
@@ -609,11 +609,11 @@
         "185"
       ], 
       "housenumber": "185", 
-      "lat": 50.86236691780804, 
-      "lon": 4.659819328830314, 
+      "lat": 50.862366898278154, 
+      "lon": 4.659683878730921, 
       "municipality": "Leuven", 
       "pcode": "3001", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Sint-Jansbergsesteenweg"
     }, 
     {
@@ -1388,6 +1388,18 @@
       "street": "Sint-Jansbergsesteenweg"
     }, 
     {
+      "hnrlbls": [
+        "402"
+      ], 
+      "housenumber": "402", 
+      "lat": 50.856560879008185, 
+      "lon": 4.652296053749701, 
+      "municipality": "Leuven", 
+      "pcode": "3001", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Sint-Jansbergsesteenweg"
+    }, 
+    {
       "busnrs": [
         "0001", 
         "0101", 
@@ -1427,6 +1439,18 @@
       "municipality": "Leuven", 
       "pcode": "3001", 
       "source": "afgeleidVanPerceelGrb", 
+      "street": "Sint-Jansbergsesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "417"
+      ], 
+      "housenumber": "417", 
+      "lat": 50.85185059845591, 
+      "lon": 4.65833962273723, 
+      "municipality": "Leuven", 
+      "pcode": "3001", 
+      "source": "afgeleidVanGebouw", 
       "street": "Sint-Jansbergsesteenweg"
     }, 
     {
@@ -2068,15 +2092,6 @@
     }, 
     {
       "busnrs": [
-        "0101", 
-        "0102", 
-        "0103", 
-        "0104", 
-        "0105", 
-        "0106", 
-        "0107", 
-        "0108", 
-        "0109", 
         "0201", 
         "0202", 
         "0203", 
@@ -2087,27 +2102,6 @@
         "0208", 
         "0209", 
         "0210", 
-        "0211", 
-        "0212", 
-        "0213", 
-        "0214", 
-        "0215", 
-        "0216", 
-        "0217", 
-        "0218", 
-        "0219", 
-        "0220", 
-        "0221", 
-        "0222", 
-        "0223", 
-        "0224", 
-        "0225", 
-        "0226", 
-        "0227", 
-        "0228", 
-        "0229", 
-        "0230", 
-        "0231", 
         "0301", 
         "0302", 
         "0303", 
@@ -2120,10 +2114,7 @@
         "0310", 
         "0311", 
         "0312", 
-        "0314", 
-        "0315", 
-        "0316", 
-        "0317", 
+        "0313", 
         "0401", 
         "0402", 
         "0403", 
@@ -2143,17 +2134,49 @@
         "0417", 
         "0418", 
         "0419", 
-        "313"
+        "0420", 
+        "0421", 
+        "0422", 
+        "0423", 
+        "0424", 
+        "0425", 
+        "0426", 
+        "0427", 
+        "0428", 
+        "0429", 
+        "0430", 
+        "0431", 
+        "0432", 
+        "0433", 
+        "0434", 
+        "0501", 
+        "0502", 
+        "0503", 
+        "0504", 
+        "0505", 
+        "0506", 
+        "0507", 
+        "0508", 
+        "0509", 
+        "0510", 
+        "0511", 
+        "0512", 
+        "0513", 
+        "0514", 
+        "0515", 
+        "0516", 
+        "0517", 
+        "0518"
       ], 
       "hnrlbls": [
         "97"
       ], 
       "housenumber": "97", 
-      "lat": 50.868005147039355, 
-      "lon": 4.664484746691719, 
+      "lat": 50.867886936253285, 
+      "lon": 4.664279510626443, 
       "municipality": "Leuven", 
       "pcode": "3001", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Sint-Jansbergsesteenweg"
     }, 
     {

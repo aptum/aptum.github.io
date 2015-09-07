@@ -29,14 +29,14 @@
     }, 
     {
       "hnrlbls": [
-        "/ZN-100"
+        "100"
       ], 
       "housenumber": "100", 
-      "lat": 51.229781699180016, 
-      "lon": 2.9476842882243726, 
+      "lat": 51.230342431535774, 
+      "lon": 2.9607015842920736, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanStraat", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Schietbaanstraat"
     }, 
     {
@@ -104,6 +104,7 @@
     }, 
     {
       "busnrs": [
+        "00BO", 
         "1", 
         "2"
       ], 
@@ -305,12 +306,15 @@
       "busnrs": [
         "1", 
         "101", 
+        "1L", 
+        "2", 
+        "2L", 
         "4", 
         "6", 
         "8"
       ], 
       "hnrlbls": [
-        "34-34_2"
+        "34"
       ], 
       "housenumber": "34", 
       "lat": 51.22861402771208, 
@@ -318,36 +322,6 @@
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
-      "street": "Schietbaanstraat"
-    }, 
-    {
-      "busnrs": [
-        "L"
-      ], 
-      "hnrlbls": [
-        "34-34_2"
-      ], 
-      "housenumber": "34_1", 
-      "lat": 51.22861402771208, 
-      "lon": 2.9451901151294506, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Schietbaanstraat"
-    }, 
-    {
-      "busnrs": [
-        "L"
-      ], 
-      "hnrlbls": [
-        "34-34_2"
-      ], 
-      "housenumber": "34_2", 
-      "lat": 51.22861402771208, 
-      "lon": 2.9451901151294506, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Schietbaanstraat"
     }, 
     {
@@ -865,59 +839,35 @@
         "84"
       ], 
       "housenumber": "84", 
-      "lat": 51.23189761823812, 
-      "lon": 2.950144155168442, 
+      "lat": 51.23201834619145, 
+      "lon": 2.950645954102756, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Schietbaanstraat"
     }, 
     {
       "hnrlbls": [
-        "86-86A"
+        "86"
       ], 
       "housenumber": "86", 
-      "lat": 51.23211135461387, 
-      "lon": 2.9505302894301093, 
+      "lat": 51.23202816197599, 
+      "lon": 2.9507298531395576, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Schietbaanstraat"
     }, 
     {
       "hnrlbls": [
-        "86-86A"
-      ], 
-      "housenumber": "86A", 
-      "lat": 51.23211135461387, 
-      "lon": 2.9505302894301093, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
-      "street": "Schietbaanstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "/ZN-100"
+        "88"
       ], 
       "housenumber": "88", 
-      "lat": 51.229781699180016, 
-      "lon": 2.9476842882243726, 
+      "lat": 51.232023754565226, 
+      "lon": 2.951382374682354, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanStraat", 
-      "street": "Schietbaanstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "/ZN-100"
-      ], 
-      "housenumber": "ZN", 
-      "lat": 51.229781699180016, 
-      "lon": 2.9476842882243726, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "afgeleidVanStraat", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Schietbaanstraat"
     }
   ]

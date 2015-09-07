@@ -2,31 +2,31 @@
   "addresses": [
     {
       "hnrlbls": [
-        "1-2"
+        "1"
       ], 
       "housenumber": "1", 
-      "lat": 51.23080515179762, 
-      "lon": 2.912036570656466, 
+      "lat": 51.23084230897051, 
+      "lon": 2.9120899657000163, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kursaal-Westhelling"
     }, 
     {
       "hnrlbls": [
-        "/ZN-12"
+        "12"
       ], 
       "housenumber": "12", 
-      "lat": 51.231304698654654, 
-      "lon": 2.9115886685772763, 
+      "lat": 51.23148008633374, 
+      "lon": 2.9116755476142284, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanStraat", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kursaal-Westhelling"
     }, 
     {
       "hnrlbls": [
-        "1-2"
+        "2"
       ], 
       "housenumber": "2", 
       "lat": 51.23080515179762, 
@@ -41,8 +41,8 @@
         "3"
       ], 
       "housenumber": "3", 
-      "lat": 51.23084422408702, 
-      "lon": 2.9119826559098225, 
+      "lat": 51.230791807046025, 
+      "lon": 2.91188005047402, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
@@ -51,100 +51,43 @@
     {
       "busnrs": [
         "1", 
+        "1B", 
+        "1D", 
+        "3B", 
+        "3D", 
         "4", 
+        "4B", 
+        "4C", 
+        "4D", 
         "5", 
+        "5B", 
+        "5C", 
         "5D", 
         "6", 
         "C", 
         "D"
       ], 
       "hnrlbls": [
-        "4-4_5"
+        "4"
       ], 
       "housenumber": "4", 
-      "lat": 51.23088320648503, 
-      "lon": 2.9119287438801664, 
+      "lat": 51.23092778030311, 
+      "lon": 2.9119784706582923, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Kursaal-Westhelling"
-    }, 
-    {
-      "busnrs": [
-        "B", 
-        "D"
-      ], 
-      "hnrlbls": [
-        "4-4_5"
-      ], 
-      "housenumber": "4_1", 
-      "lat": 51.23088320648503, 
-      "lon": 2.9119287438801664, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
-      "street": "Kursaal-Westhelling"
-    }, 
-    {
-      "busnrs": [
-        "B", 
-        "D"
-      ], 
-      "hnrlbls": [
-        "4-4_5"
-      ], 
-      "housenumber": "4_3", 
-      "lat": 51.23088320648503, 
-      "lon": 2.9119287438801664, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
-      "street": "Kursaal-Westhelling"
-    }, 
-    {
-      "busnrs": [
-        "B", 
-        "C", 
-        "D"
-      ], 
-      "hnrlbls": [
-        "4-4_5"
-      ], 
-      "housenumber": "4_4", 
-      "lat": 51.23088320648503, 
-      "lon": 2.9119287438801664, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
-      "street": "Kursaal-Westhelling"
-    }, 
-    {
-      "busnrs": [
-        "B", 
-        "C", 
-        "D"
-      ], 
-      "hnrlbls": [
-        "4-4_5"
-      ], 
-      "housenumber": "4_5", 
-      "lat": 51.23088320648503, 
-      "lon": 2.9119287438801664, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kursaal-Westhelling"
     }, 
     {
       "hnrlbls": [
-        "5"
+        "5-103"
       ], 
       "housenumber": "5", 
-      "lat": 51.230956512231245, 
-      "lon": 2.9118149078817113, 
+      "lat": 51.230778370458125, 
+      "lon": 2.911723390053322, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Kursaal-Westhelling"
     }, 
     {
@@ -154,12 +97,14 @@
         "18", 
         "23", 
         "24", 
+        "25", 
         "26", 
         "33", 
         "34", 
         "41", 
         "44", 
         "56", 
+        "61B", 
         "68", 
         "71", 
         "73", 
@@ -168,7 +113,7 @@
         "90"
       ], 
       "hnrlbls": [
-        "6-103"
+        "5-103"
       ], 
       "housenumber": "6", 
       "lat": 51.230778370458125, 
@@ -180,7 +125,7 @@
     }, 
     {
       "hnrlbls": [
-        "6-103"
+        "5-103"
       ], 
       "housenumber": "7", 
       "lat": 51.230778370458125, 
@@ -188,18 +133,6 @@
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
-      "street": "Kursaal-Westhelling"
-    }, 
-    {
-      "hnrlbls": [
-        "/ZN-12"
-      ], 
-      "housenumber": "ZN", 
-      "lat": 51.231304698654654, 
-      "lon": 2.9115886685772763, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "afgeleidVanStraat", 
       "street": "Kursaal-Westhelling"
     }
   ]

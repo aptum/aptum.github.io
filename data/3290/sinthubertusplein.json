@@ -2,30 +2,6 @@
   "addresses": [
     {
       "hnrlbls": [
-        "1-11"
-      ], 
-      "housenumber": "1", 
-      "lat": 50.999714005112125, 
-      "lon": 5.081881761939062, 
-      "municipality": "Diest", 
-      "pcode": "3290", 
-      "source": "afgeleidVanStraat", 
-      "street": "Sint-Hubertusplein"
-    }, 
-    {
-      "hnrlbls": [
-        "1-11"
-      ], 
-      "housenumber": "11", 
-      "lat": 50.999714005112125, 
-      "lon": 5.081881761939062, 
-      "municipality": "Diest", 
-      "pcode": "3290", 
-      "source": "afgeleidVanStraat", 
-      "street": "Sint-Hubertusplein"
-    }, 
-    {
-      "hnrlbls": [
         "12"
       ], 
       "housenumber": "12", 
@@ -110,7 +86,8 @@
     }, 
     {
       "busnrs": [
-        "1"
+        "1", 
+        "2"
       ], 
       "hnrlbls": [
         "2-2B"
@@ -159,7 +136,7 @@
       "lon": 5.083383250846484, 
       "municipality": "Diest", 
       "pcode": "3290", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Sint-Hubertusplein"
     }, 
     {
@@ -195,7 +172,7 @@
       "lon": 5.081589812722524, 
       "municipality": "Diest", 
       "pcode": "3290", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Sint-Hubertusplein"
     }, 
     {
@@ -207,7 +184,7 @@
       "lon": 5.081589812722524, 
       "municipality": "Diest", 
       "pcode": "3290", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Sint-Hubertusplein"
     }, 
     {
@@ -243,7 +220,7 @@
       "lon": 5.0834940233298775, 
       "municipality": "Diest", 
       "pcode": "3290", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Sint-Hubertusplein"
     }, 
     {
@@ -282,7 +259,7 @@
       "lon": 5.083276269625685, 
       "municipality": "Diest", 
       "pcode": "3290", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Sint-Hubertusplein"
     }, 
     {
@@ -294,31 +271,34 @@
       "lon": 5.083276269625685, 
       "municipality": "Diest", 
       "pcode": "3290", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Sint-Hubertusplein"
-    }, 
-    {
-      "hnrlbls": [
-        "38-50B"
-      ], 
-      "housenumber": "38", 
-      "lat": 51.00056581387072, 
-      "lon": 5.082199048006437, 
-      "municipality": "Diest", 
-      "pcode": "3290", 
       "source": "afgeleidVanGebouw", 
       "street": "Sint-Hubertusplein"
     }, 
     {
+      "hnrlbls": [
+        "38"
+      ], 
+      "housenumber": "38", 
+      "lat": 51.000420314934885, 
+      "lon": 5.0824588247920275, 
+      "municipality": "Diest", 
+      "pcode": "3290", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Sint-Hubertusplein"
+    }, 
+    {
+      "apptnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "4"
       ], 
       "housenumber": "4", 
-      "lat": 50.99926292228897, 
-      "lon": 5.081642818385096, 
+      "lat": 50.99928819896018, 
+      "lon": 5.081773556402478, 
       "municipality": "Diest", 
       "pcode": "3290", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sint-Hubertusplein"
     }, 
     {
@@ -326,11 +306,11 @@
         "40"
       ], 
       "housenumber": "40", 
-      "lat": 51.00058176543049, 
-      "lon": 5.082118370305853, 
+      "lat": 51.000449562228866, 
+      "lon": 5.0823499994319254, 
       "municipality": "Diest", 
       "pcode": "3290", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Sint-Hubertusplein"
     }, 
     {
@@ -338,7 +318,7 @@
         "1"
       ], 
       "hnrlbls": [
-        "38-50B"
+        "40A-40B"
       ], 
       "housenumber": "40A", 
       "lat": 51.00056581387072, 
@@ -353,7 +333,7 @@
         "1"
       ], 
       "hnrlbls": [
-        "38-50B"
+        "40A-40B"
       ], 
       "housenumber": "40B", 
       "lat": 51.00056581387072, 
@@ -365,155 +345,134 @@
     }, 
     {
       "hnrlbls": [
-        "38-50B"
+        "42"
       ], 
       "housenumber": "42", 
-      "lat": 51.00056581387072, 
-      "lon": 5.082199048006437, 
+      "lat": 51.00051771473937, 
+      "lon": 5.082288780806234, 
       "municipality": "Diest", 
       "pcode": "3290", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sint-Hubertusplein"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
-        "38-50B"
+        "42A"
       ], 
       "housenumber": "42A", 
-      "lat": 51.00056581387072, 
-      "lon": 5.082199048006437, 
+      "lat": 51.00057451788503, 
+      "lon": 5.082334951026692, 
       "municipality": "Diest", 
       "pcode": "3290", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sint-Hubertusplein"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
-        "38-50B"
+        "42B"
       ], 
       "housenumber": "42B", 
-      "lat": 51.00056581387072, 
-      "lon": 5.082199048006437, 
+      "lat": 51.00051836877082, 
+      "lon": 5.082373558101012, 
       "municipality": "Diest", 
       "pcode": "3290", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sint-Hubertusplein"
     }, 
     {
       "hnrlbls": [
-        "38-50B"
+        "44"
       ], 
       "housenumber": "44", 
-      "lat": 51.00056581387072, 
-      "lon": 5.082199048006437, 
+      "lat": 51.00055743192085, 
+      "lon": 5.0822026243632745, 
       "municipality": "Diest", 
       "pcode": "3290", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sint-Hubertusplein"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
-        "38-50B"
+        "46"
       ], 
       "housenumber": "46", 
-      "lat": 51.00056581387072, 
-      "lon": 5.082199048006437, 
+      "lat": 51.00051901843443, 
+      "lon": 5.082073961816397, 
       "municipality": "Diest", 
       "pcode": "3290", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sint-Hubertusplein"
     }, 
     {
       "hnrlbls": [
-        "48-48B"
+        "48"
       ], 
       "housenumber": "48", 
-      "lat": 51.000575925282845, 
-      "lon": 5.082191936353493, 
+      "lat": 51.0005994049083, 
+      "lon": 5.08196691250725, 
       "municipality": "Diest", 
       "pcode": "3290", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sint-Hubertusplein"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
-        "38-50B"
+        "48A"
       ], 
       "housenumber": "48A", 
-      "lat": 51.00056581387072, 
-      "lon": 5.082199048006437, 
+      "lat": 51.0006382930488, 
+      "lon": 5.082017368337905, 
       "municipality": "Diest", 
       "pcode": "3290", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sint-Hubertusplein"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
-        "48-48B"
+        "48B"
       ], 
       "housenumber": "48B", 
-      "lat": 51.000575925282845, 
-      "lon": 5.082191936353493, 
+      "lat": 51.00058459864305, 
+      "lon": 5.082051454331779, 
       "municipality": "Diest", 
       "pcode": "3290", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sint-Hubertusplein"
     }, 
     {
       "hnrlbls": [
-        "38-50B"
+        "50"
       ], 
       "housenumber": "50", 
-      "lat": 51.00056581387072, 
-      "lon": 5.082199048006437, 
+      "lat": 51.00070677637591, 
+      "lon": 5.081901589295834, 
       "municipality": "Diest", 
       "pcode": "3290", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sint-Hubertusplein"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
-        "38-50B"
+        "50A"
       ], 
       "housenumber": "50A", 
-      "lat": 51.00056581387072, 
-      "lon": 5.082199048006437, 
+      "lat": 51.000745887511655, 
+      "lon": 5.081915292157281, 
       "municipality": "Diest", 
       "pcode": "3290", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sint-Hubertusplein"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
-        "38-50B"
+        "50B"
       ], 
       "housenumber": "50B", 
-      "lat": 51.00056581387072, 
-      "lon": 5.082199048006437, 
+      "lat": 51.00069215338221, 
+      "lon": 5.081955931204827, 
       "municipality": "Diest", 
       "pcode": "3290", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sint-Hubertusplein"
     }, 
     {
@@ -592,7 +551,7 @@
       "lon": 5.081004820181629, 
       "municipality": "Diest", 
       "pcode": "3290", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Sint-Hubertusplein"
     }, 
     {
@@ -604,7 +563,7 @@
       "lon": 5.081004820181629, 
       "municipality": "Diest", 
       "pcode": "3290", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Sint-Hubertusplein"
     }, 
     {
@@ -631,7 +590,7 @@
       "lon": 5.081415728386809, 
       "municipality": "Diest", 
       "pcode": "3290", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Sint-Hubertusplein"
     }, 
     {

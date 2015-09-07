@@ -112,6 +112,7 @@
       "busnrs": [
         "2", 
         "3", 
+        "300", 
         "4"
       ], 
       "hnrlbls": [
@@ -165,7 +166,8 @@
       "busnrs": [
         "1", 
         "101", 
-        "3"
+        "3", 
+        "301"
       ], 
       "hnrlbls": [
         "24"
@@ -243,12 +245,14 @@
     }, 
     {
       "busnrs": [
+        "1A", 
         "2", 
         "201", 
+        "2L", 
         "5"
       ], 
       "hnrlbls": [
-        "35-35_2"
+        "35"
       ], 
       "housenumber": "35", 
       "lat": 51.217529834129394, 
@@ -256,36 +260,6 @@
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
-      "street": "Stenenstraat"
-    }, 
-    {
-      "busnrs": [
-        "A"
-      ], 
-      "hnrlbls": [
-        "1-346A"
-      ], 
-      "housenumber": "35_1", 
-      "lat": 51.21019494141423, 
-      "lon": 2.92423265140856, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Stenenstraat"
-    }, 
-    {
-      "busnrs": [
-        "L"
-      ], 
-      "hnrlbls": [
-        "35-35_2"
-      ], 
-      "housenumber": "35_2", 
-      "lat": 51.217529834129394, 
-      "lon": 2.9131399702387433, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Stenenstraat"
     }, 
     {
@@ -661,6 +635,10 @@
       "street": "Stenenstraat"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "3"
+      ], 
       "hnrlbls": [
         "65"
       ], 

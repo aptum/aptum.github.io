@@ -126,11 +126,11 @@
         "107"
       ], 
       "housenumber": "107", 
-      "lat": 51.17588401726056, 
-      "lon": 4.422747813540674, 
+      "lat": 51.17589760631203, 
+      "lon": 4.422819233930755, 
       "municipality": "Antwerpen", 
       "pcode": "2610", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Oosterveldlaan"
     }, 
     {
@@ -147,7 +147,10 @@
     }, 
     {
       "busnrs": [
+        "1", 
+        "2", 
         "3", 
+        "4", 
         "5"
       ], 
       "hnrlbls": [
@@ -583,7 +586,7 @@
     }, 
     {
       "hnrlbls": [
-        "140-140B"
+        "140"
       ], 
       "housenumber": "140", 
       "lat": 51.17595571506633, 
@@ -594,18 +597,15 @@
       "street": "Oosterveldlaan"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
-        "140-140B"
+        "140B"
       ], 
       "housenumber": "140B", 
-      "lat": 51.17595571506633, 
-      "lon": 4.427285558193968, 
+      "lat": 51.175953986048825, 
+      "lon": 4.427288388731057, 
       "municipality": "Antwerpen", 
       "pcode": "2610", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Oosterveldlaan"
     }, 
     {
@@ -1012,11 +1012,11 @@
         "173"
       ], 
       "housenumber": "173", 
-      "lat": 51.17632208758535, 
-      "lon": 4.427644085425683, 
+      "lat": 51.176296901346284, 
+      "lon": 4.427341058923401, 
       "municipality": "Antwerpen", 
       "pcode": "2610", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Oosterveldlaan"
     }, 
     {
@@ -1196,11 +1196,11 @@
         "188"
       ], 
       "housenumber": "188", 
-      "lat": 51.17610944489047, 
-      "lon": 4.4303803185909985, 
+      "lat": 51.176090249622355, 
+      "lon": 4.430150333429984, 
       "municipality": "Antwerpen", 
       "pcode": "2610", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Oosterveldlaan"
     }, 
     {
@@ -1477,11 +1477,11 @@
         "211"
       ], 
       "housenumber": "211", 
-      "lat": 51.176443263175464, 
-      "lon": 4.430411079584974, 
+      "lat": 51.17637435762124, 
+      "lon": 4.429965568357421, 
       "municipality": "Antwerpen", 
       "pcode": "2610", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Oosterveldlaan"
     }, 
     {
@@ -1635,6 +1635,11 @@
       "street": "Oosterveldlaan"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3"
+      ], 
       "hnrlbls": [
         "225"
       ], 
@@ -1782,15 +1787,22 @@
       "street": "Oosterveldlaan"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5"
+      ], 
       "hnrlbls": [
         "237"
       ], 
       "housenumber": "237", 
-      "lat": 51.176575742743125, 
-      "lon": 4.432112633908978, 
+      "lat": 51.17659592467849, 
+      "lon": 4.432123884237315, 
       "municipality": "Antwerpen", 
       "pcode": "2610", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Oosterveldlaan"
     }, 
     {
@@ -1822,11 +1834,11 @@
         "240"
       ], 
       "housenumber": "240", 
-      "lat": 51.17624243914669, 
-      "lon": 4.433114863744744, 
+      "lat": 51.176308675000506, 
+      "lon": 4.433077205212867, 
       "municipality": "Antwerpen", 
       "pcode": "2610", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Oosterveldlaan"
     }, 
     {
@@ -1846,11 +1858,11 @@
         "243"
       ], 
       "housenumber": "243", 
-      "lat": 51.17669761383368, 
-      "lon": 4.433124221027099, 
+      "lat": 51.176662714052725, 
+      "lon": 4.433148460132151, 
       "municipality": "Antwerpen", 
       "pcode": "2610", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Oosterveldlaan"
     }, 
     {
@@ -1911,18 +1923,6 @@
       "municipality": "Antwerpen", 
       "pcode": "2610", 
       "source": "afgeleidVanGebouw", 
-      "street": "Oosterveldlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "30"
-      ], 
-      "housenumber": "30", 
-      "lat": 51.174825776364656, 
-      "lon": 4.419385843392178, 
-      "municipality": "Antwerpen", 
-      "pcode": "2610", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Oosterveldlaan"
     }, 
     {
@@ -2539,7 +2539,7 @@
         "6"
       ], 
       "hnrlbls": [
-        "85-85L"
+        "85"
       ], 
       "housenumber": "85", 
       "lat": 51.17580319182026, 
@@ -2550,18 +2550,15 @@
       "street": "Oosterveldlaan"
     }, 
     {
-      "busnrs": [
-        "2"
-      ], 
       "hnrlbls": [
-        "85-85L"
+        "85L"
       ], 
       "housenumber": "85L", 
-      "lat": 51.17580319182026, 
-      "lon": 4.421808816696655, 
+      "lat": 51.175802753892285, 
+      "lon": 4.421809225156713, 
       "municipality": "Antwerpen", 
       "pcode": "2610", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Oosterveldlaan"
     }, 
     {
@@ -2596,7 +2593,8 @@
         "2", 
         "3", 
         "4", 
-        "5"
+        "5", 
+        "6"
       ], 
       "hnrlbls": [
         "88"

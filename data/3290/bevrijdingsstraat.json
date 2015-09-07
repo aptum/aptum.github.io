@@ -36,7 +36,7 @@
       "lon": 5.056223010735045, 
       "municipality": "Diest", 
       "pcode": "3290", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Bevrijdingsstraat"
     }, 
     {
@@ -51,7 +51,7 @@
       "lon": 5.056223010735045, 
       "municipality": "Diest", 
       "pcode": "3290", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Bevrijdingsstraat"
     }, 
     {
@@ -127,6 +127,9 @@
       "street": "Bevrijdingsstraat"
     }, 
     {
+      "apptnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "19"
       ], 
@@ -136,42 +139,6 @@
       "municipality": "Diest", 
       "pcode": "3290", 
       "source": "afgeleidVanGebouw", 
-      "street": "Bevrijdingsstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "19A-19BIS"
-      ], 
-      "housenumber": "19A", 
-      "lat": 50.97777139538355, 
-      "lon": 5.055862373570906, 
-      "municipality": "Diest", 
-      "pcode": "3290", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
-      "street": "Bevrijdingsstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "19B"
-      ], 
-      "housenumber": "19B", 
-      "lat": 50.97772781598797, 
-      "lon": 5.055659104116162, 
-      "municipality": "Diest", 
-      "pcode": "3290", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Bevrijdingsstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "19A-19BIS"
-      ], 
-      "housenumber": "19BIS", 
-      "lat": 50.97777139538355, 
-      "lon": 5.055862373570906, 
-      "municipality": "Diest", 
-      "pcode": "3290", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
       "street": "Bevrijdingsstraat"
     }, 
     {
@@ -339,7 +306,7 @@
       "lon": 5.055562993448951, 
       "municipality": "Diest", 
       "pcode": "3290", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Bevrijdingsstraat"
     }, 
     {
@@ -356,12 +323,22 @@
       "lon": 5.055562993448951, 
       "municipality": "Diest", 
       "pcode": "3290", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Bevrijdingsstraat"
     }, 
     {
+      "busnrs": [
+        "A000", 
+        "A001", 
+        "A002", 
+        "A003", 
+        "B000", 
+        "B001", 
+        "B002", 
+        "B003"
+      ], 
       "hnrlbls": [
-        "35-35_2"
+        "35"
       ], 
       "housenumber": "35", 
       "lat": 50.97716709946233, 
@@ -372,76 +349,15 @@
       "street": "Bevrijdingsstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3"
-      ], 
-      "hnrlbls": [
-        "35-35_2"
-      ], 
-      "housenumber": "35A", 
-      "lat": 50.97716709946233, 
-      "lon": 5.055481144630226, 
-      "municipality": "Diest", 
-      "pcode": "3290", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Bevrijdingsstraat"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3"
-      ], 
-      "hnrlbls": [
-        "35-35_2"
-      ], 
-      "housenumber": "35B", 
-      "lat": 50.97716709946233, 
-      "lon": 5.055481144630226, 
-      "municipality": "Diest", 
-      "pcode": "3290", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Bevrijdingsstraat"
-    }, 
-    {
-      "busnrs": [
-        "B"
-      ], 
-      "hnrlbls": [
-        "35-35_2"
-      ], 
-      "housenumber": "35_2", 
-      "lat": 50.97716709946233, 
-      "lon": 5.055481144630226, 
-      "municipality": "Diest", 
-      "pcode": "3290", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Bevrijdingsstraat"
-    }, 
-    {
       "hnrlbls": [
         "4B"
       ], 
       "housenumber": "4B", 
-      "lat": 50.978925202699195, 
-      "lon": 5.056768877012128, 
+      "lat": 50.978273881075374, 
+      "lon": 5.056697079273731, 
       "municipality": "Diest", 
       "pcode": "3290", 
-      "source": "geinterpoleerdObvWegverbinding", 
-      "street": "Bevrijdingsstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "5"
-      ], 
-      "housenumber": "5", 
-      "lat": 50.97853137065179, 
-      "lon": 5.056354263492528, 
-      "municipality": "Diest", 
-      "pcode": "3290", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Bevrijdingsstraat"
     }, 
     {

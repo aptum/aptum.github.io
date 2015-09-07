@@ -248,11 +248,11 @@
         "3"
       ], 
       "housenumber": "3", 
-      "lat": 51.172377365748, 
-      "lon": 4.441249416868861, 
+      "lat": 51.1723638486223, 
+      "lon": 4.441304730495008, 
       "municipality": "Mortsel", 
       "pcode": "2640", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Minervastraat"
     }, 
     {
@@ -416,7 +416,8 @@
     }, 
     {
       "busnrs": [
-        "1"
+        "1", 
+        "glvl"
       ], 
       "hnrlbls": [
         "45"
@@ -601,6 +602,9 @@
       "street": "Minervastraat"
     }, 
     {
+      "busnrs": [
+        "glvl"
+      ], 
       "hnrlbls": [
         "81"
       ], 

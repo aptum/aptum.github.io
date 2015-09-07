@@ -19,9 +19,13 @@
       "street": "Landbouwstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "011", 
+        "021"
+      ], 
       "busnrs": [
-        "1", 
-        "3"
+        "2"
       ], 
       "hnrlbls": [
         "11"
@@ -37,7 +41,8 @@
     {
       "busnrs": [
         "2", 
-        "3"
+        "3", 
+        "GLVL"
       ], 
       "hnrlbls": [
         "12-12B"
@@ -126,7 +131,9 @@
         "2.0"
       ], 
       "busnrs": [
-        "2"
+        "2", 
+        "3", 
+        "GVLO"
       ], 
       "hnrlbls": [
         "17"
@@ -141,7 +148,8 @@
     }, 
     {
       "apptnrs": [
-        "0.0"
+        "0.0", 
+        "2.0"
       ], 
       "busnrs": [
         "3", 
@@ -196,11 +204,11 @@
         "2"
       ], 
       "hnrlbls": [
-        "21-38"
+        "21B"
       ], 
       "housenumber": "21B", 
-      "lat": 50.885449177207576, 
-      "lon": 4.473991942357545, 
+      "lat": 50.8854078093826, 
+      "lon": 4.473910561848617, 
       "municipality": "Zaventem", 
       "pcode": "1930", 
       "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
@@ -391,8 +399,9 @@
       "street": "Landbouwstraat"
     }, 
     {
-      "busnrs": [
-        "3"
+      "apptnrs": [
+        "011", 
+        "021"
       ], 
       "hnrlbls": [
         "37"
@@ -538,6 +547,9 @@
       "street": "Landbouwstraat"
     }, 
     {
+      "busnrs": [
+        "GLVL"
+      ], 
       "hnrlbls": [
         "49"
       ], 
@@ -810,6 +822,7 @@
         "2.0"
       ], 
       "busnrs": [
+        "1", 
         "2"
       ], 
       "hnrlbls": [
@@ -849,6 +862,7 @@
     }, 
     {
       "busnrs": [
+        "1", 
         "2", 
         "4"
       ], 
@@ -888,16 +902,17 @@
       "street": "Landbouwstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2"
+      "apptnrs": [
+        "001", 
+        "011", 
+        "021"
       ], 
       "hnrlbls": [
         "9"
       ], 
       "housenumber": "9", 
-      "lat": 50.885363954986715, 
-      "lon": 4.473295125087219, 
+      "lat": 50.88536398134764, 
+      "lon": 4.473295104862992, 
       "municipality": "Zaventem", 
       "pcode": "1930", 
       "source": "afgeleidVanGebouw", 

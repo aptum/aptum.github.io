@@ -2,6 +2,18 @@
   "addresses": [
     {
       "hnrlbls": [
+        "100"
+      ], 
+      "housenumber": "100", 
+      "lat": 51.011740943325016, 
+      "lon": 3.489302284671703, 
+      "municipality": "Deinze", 
+      "pcode": "9800", 
+      "source": "afgeleidVanPerceelKadaster", 
+      "street": "Heerdweg"
+    }, 
+    {
+      "hnrlbls": [
         "102"
       ], 
       "housenumber": "102", 
@@ -38,18 +50,6 @@
     }, 
     {
       "hnrlbls": [
-        "108"
-      ], 
-      "housenumber": "108", 
-      "lat": 51.015148167052146, 
-      "lon": 3.497729049200797, 
-      "municipality": "Deinze", 
-      "pcode": "9800", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Heerdweg"
-    }, 
-    {
-      "hnrlbls": [
         "11"
       ], 
       "housenumber": "11", 
@@ -65,11 +65,11 @@
         "110"
       ], 
       "housenumber": "110", 
-      "lat": 51.015260289783654, 
-      "lon": 3.500362051755441, 
+      "lat": 51.01514819495579, 
+      "lon": 3.4977290137560084, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Heerdweg"
     }, 
     {
@@ -110,26 +110,14 @@
     }, 
     {
       "hnrlbls": [
-        "124"
-      ], 
-      "housenumber": "124", 
-      "lat": 51.015853729308084, 
-      "lon": 3.5044000750605937, 
-      "municipality": "Deinze", 
-      "pcode": "9800", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Heerdweg"
-    }, 
-    {
-      "hnrlbls": [
         "126"
       ], 
       "housenumber": "126", 
-      "lat": 51.01588678706303, 
-      "lon": 3.504960550559643, 
+      "lat": 51.01585371063819, 
+      "lon": 3.5044001043169177, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Heerdweg"
     }, 
     {
@@ -410,7 +398,9 @@
     }, 
     {
       "busnrs": [
-        "2"
+        "2", 
+        "3", 
+        "4"
       ], 
       "hnrlbls": [
         "20-22"

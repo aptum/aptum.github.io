@@ -1258,6 +1258,9 @@
       "street": "Neerstraat"
     }, 
     {
+      "busnrs": [
+        "100"
+      ], 
       "hnrlbls": [
         "37"
       ], 
@@ -1634,10 +1637,14 @@
     }, 
     {
       "busnrs": [
-        "1", 
+        "001", 
+        "002", 
+        "003", 
+        "004", 
         "101", 
         "102", 
-        "2", 
+        "103", 
+        "104", 
         "201", 
         "202", 
         "203", 
@@ -1647,16 +1654,18 @@
         "60"
       ], 
       "housenumber": "60", 
-      "lat": 51.0707634582182, 
-      "lon": 5.0892255731485685, 
+      "lat": 51.07078033430334, 
+      "lon": 5.089085717013563, 
       "municipality": "Tessenderlo", 
       "pcode": "3980", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Neerstraat"
     }, 
     {
       "busnrs": [
-        "102"
+        "1", 
+        "102", 
+        "2"
       ], 
       "hnrlbls": [
         "61"

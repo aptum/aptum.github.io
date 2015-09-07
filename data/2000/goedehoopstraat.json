@@ -1,6 +1,10 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -58,11 +62,11 @@
         "12"
       ], 
       "housenumber": "12", 
-      "lat": 51.21402657158813, 
-      "lon": 4.393036037689569, 
+      "lat": 51.214044918147955, 
+      "lon": 4.392987704361103, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Goedehoopstraat"
     }, 
     {
@@ -119,19 +123,15 @@
       "street": "Goedehoopstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "9"
-      ], 
       "hnrlbls": [
-        "15-23"
+        "17"
       ], 
       "housenumber": "17", 
-      "lat": 51.21428935328668, 
-      "lon": 4.393221938479516, 
+      "lat": 51.21426306583231, 
+      "lon": 4.3932048080480754, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Goedehoopstraat"
     }, 
     {
@@ -196,35 +196,15 @@
       "street": "Goedehoopstraat"
     }, 
     {
-      "apptnrs": [
-        "001", 
-        "101", 
-        "201", 
-        "301", 
-        "401", 
-        "501"
-      ], 
       "hnrlbls": [
-        "15-23"
+        "21"
       ], 
       "housenumber": "21", 
-      "lat": 51.21428935328668, 
-      "lon": 4.393221938479516, 
+      "lat": 51.21428306647145, 
+      "lon": 4.39321077660588, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Goedehoopstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "22"
-      ], 
-      "housenumber": "22", 
-      "lat": 51.21419433642118, 
-      "lon": 4.392840779355833, 
-      "municipality": "Antwerpen", 
-      "pcode": "2000", 
-      "source": "afgeleidVanStraat", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Goedehoopstraat"
     }, 
     {
@@ -260,18 +240,15 @@
       "street": "Goedehoopstraat"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
-        "2-29"
+        "2B"
       ], 
       "housenumber": "2B", 
-      "lat": 51.21413880859548, 
-      "lon": 4.392308229894585, 
+      "lat": 51.214160950959304, 
+      "lon": 4.3923767176963695, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Goedehoopstraat"
     }, 
     {
@@ -386,7 +363,10 @@
     }, 
     {
       "busnrs": [
-        "2"
+        "1", 
+        "2", 
+        "3", 
+        "4"
       ], 
       "hnrlbls": [
         "9"

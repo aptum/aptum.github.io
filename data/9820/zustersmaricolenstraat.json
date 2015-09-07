@@ -2,10 +2,14 @@
   "addresses": [
     {
       "busnrs": [
-        "1"
+        "1", 
+        "101", 
+        "2", 
+        "202", 
+        "3"
       ], 
       "hnrlbls": [
-        "8-11"
+        "8-10"
       ], 
       "housenumber": "10", 
       "lat": 50.99186894210161, 
@@ -17,11 +21,23 @@
     }, 
     {
       "hnrlbls": [
-        "8-11"
+        "11"
       ], 
       "housenumber": "11", 
-      "lat": 50.99186894210161, 
-      "lon": 3.751961068058892, 
+      "lat": 50.99056265304706, 
+      "lon": 3.751802999547799, 
+      "municipality": "Merelbeke", 
+      "pcode": "9820", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Zusters Maricolenstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "13"
+      ], 
+      "housenumber": "13", 
+      "lat": 50.990646177659364, 
+      "lon": 3.752025571877421, 
       "municipality": "Merelbeke", 
       "pcode": "9820", 
       "source": "afgeleidVanPerceelGrb", 
@@ -29,62 +45,254 @@
     }, 
     {
       "hnrlbls": [
-        "9-35"
+        "15"
       ], 
       "housenumber": "15", 
-      "lat": 50.99120851688058, 
-      "lon": 3.7518978207678813, 
+      "lat": 50.99068323457671, 
+      "lon": 3.75225269509257, 
       "municipality": "Merelbeke", 
       "pcode": "9820", 
-      "source": "afgeleidVanStraat", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Zusters Maricolenstraat"
     }, 
     {
       "hnrlbls": [
-        "9-35"
+        "17"
       ], 
       "housenumber": "17", 
-      "lat": 50.99120851688058, 
-      "lon": 3.7518978207678813, 
+      "lat": 50.99082717718592, 
+      "lon": 3.752119478485453, 
       "municipality": "Merelbeke", 
       "pcode": "9820", 
-      "source": "afgeleidVanStraat", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Zusters Maricolenstraat"
     }, 
     {
       "hnrlbls": [
-        "9-35"
+        "19"
       ], 
       "housenumber": "19", 
-      "lat": 50.99120851688058, 
-      "lon": 3.7518978207678813, 
+      "lat": 50.99077043264351, 
+      "lon": 3.7518750940651646, 
       "municipality": "Merelbeke", 
       "pcode": "9820", 
-      "source": "afgeleidVanStraat", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Zusters Maricolenstraat"
     }, 
     {
       "hnrlbls": [
-        "9-35"
+        "21"
+      ], 
+      "housenumber": "21", 
+      "lat": 50.9907348273872, 
+      "lon": 3.7516506578802082, 
+      "municipality": "Merelbeke", 
+      "pcode": "9820", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Zusters Maricolenstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "23"
       ], 
       "housenumber": "23", 
-      "lat": 50.99120851688058, 
-      "lon": 3.7518978207678813, 
+      "lat": 50.9909269250449, 
+      "lon": 3.751495013100406, 
       "municipality": "Merelbeke", 
       "pcode": "9820", 
-      "source": "afgeleidVanStraat", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Zusters Maricolenstraat"
     }, 
     {
       "hnrlbls": [
-        "9-35"
+        "25"
       ], 
-      "housenumber": "35", 
-      "lat": 50.99120851688058, 
-      "lon": 3.7518978207678813, 
+      "housenumber": "25", 
+      "lat": 50.991021387531816, 
+      "lon": 3.751697737937729, 
       "municipality": "Merelbeke", 
       "pcode": "9820", 
-      "source": "afgeleidVanStraat", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Zusters Maricolenstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "29"
+      ], 
+      "housenumber": "29", 
+      "lat": 50.99131249755788, 
+      "lon": 3.751703879471304, 
+      "municipality": "Merelbeke", 
+      "pcode": "9820", 
+      "source": "afgeleidVanPerceelKadaster", 
+      "street": "Zusters Maricolenstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "31"
+      ], 
+      "housenumber": "31", 
+      "lat": 50.991222391591464, 
+      "lon": 3.7514233258930823, 
+      "municipality": "Merelbeke", 
+      "pcode": "9820", 
+      "source": "afgeleidVanPerceelKadaster", 
+      "street": "Zusters Maricolenstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "33"
+      ], 
+      "housenumber": "33", 
+      "lat": 50.991137030132, 
+      "lon": 3.751104822969851, 
+      "municipality": "Merelbeke", 
+      "pcode": "9820", 
+      "source": "afgeleidVanPerceelKadaster", 
+      "street": "Zusters Maricolenstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "35"
+      ], 
+      "housenumber": "35", 
+      "lat": 50.991284918476524, 
+      "lon": 3.7509014708758106, 
+      "municipality": "Merelbeke", 
+      "pcode": "9820", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Zusters Maricolenstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "37"
+      ], 
+      "housenumber": "37", 
+      "lat": 50.991510823014984, 
+      "lon": 3.7511585857265097, 
+      "municipality": "Merelbeke", 
+      "pcode": "9820", 
+      "source": "afgeleidVanPerceelKadaster", 
+      "street": "Zusters Maricolenstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "39"
+      ], 
+      "housenumber": "39", 
+      "lat": 50.99154115028957, 
+      "lon": 3.7513534677989586, 
+      "municipality": "Merelbeke", 
+      "pcode": "9820", 
+      "source": "afgeleidVanPerceelKadaster", 
+      "street": "Zusters Maricolenstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "41"
+      ], 
+      "housenumber": "41", 
+      "lat": 50.991612946167145, 
+      "lon": 3.7515193170690333, 
+      "municipality": "Merelbeke", 
+      "pcode": "9820", 
+      "source": "afgeleidVanPerceelKadaster", 
+      "street": "Zusters Maricolenstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "43"
+      ], 
+      "housenumber": "43", 
+      "lat": 50.99182164258418, 
+      "lon": 3.75134051786733, 
+      "municipality": "Merelbeke", 
+      "pcode": "9820", 
+      "source": "afgeleidVanPerceelKadaster", 
+      "street": "Zusters Maricolenstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "45"
+      ], 
+      "housenumber": "45", 
+      "lat": 50.99171556201417, 
+      "lon": 3.7511509050634304, 
+      "municipality": "Merelbeke", 
+      "pcode": "9820", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Zusters Maricolenstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "47"
+      ], 
+      "housenumber": "47", 
+      "lat": 50.99164414384811, 
+      "lon": 3.750988611950436, 
+      "municipality": "Merelbeke", 
+      "pcode": "9820", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Zusters Maricolenstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "49"
+      ], 
+      "housenumber": "49", 
+      "lat": 50.991485216808194, 
+      "lon": 3.7507327513872677, 
+      "municipality": "Merelbeke", 
+      "pcode": "9820", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Zusters Maricolenstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "5"
+      ], 
+      "housenumber": "5", 
+      "lat": 50.99046167925381, 
+      "lon": 3.7524481771259235, 
+      "municipality": "Merelbeke", 
+      "pcode": "9820", 
+      "source": "afgeleidVanPerceelKadaster", 
+      "street": "Zusters Maricolenstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "51"
+      ], 
+      "housenumber": "51", 
+      "lat": 50.99188498762118, 
+      "lon": 3.7506491438307443, 
+      "municipality": "Merelbeke", 
+      "pcode": "9820", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Zusters Maricolenstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "53"
+      ], 
+      "housenumber": "53", 
+      "lat": 50.99195658677343, 
+      "lon": 3.750811577321006, 
+      "municipality": "Merelbeke", 
+      "pcode": "9820", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Zusters Maricolenstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "7"
+      ], 
+      "housenumber": "7", 
+      "lat": 50.990385767739035, 
+      "lon": 3.752228955598003, 
+      "municipality": "Merelbeke", 
+      "pcode": "9820", 
+      "source": "afgeleidVanGebouw", 
       "street": "Zusters Maricolenstraat"
     }, 
     {
@@ -93,13 +301,14 @@
         "101", 
         "102", 
         "103", 
+        "2", 
         "201", 
         "202", 
         "203", 
         "3"
       ], 
       "hnrlbls": [
-        "8-11"
+        "8-10"
       ], 
       "housenumber": "8", 
       "lat": 50.99186894210161, 
@@ -111,14 +320,14 @@
     }, 
     {
       "hnrlbls": [
-        "9-35"
+        "9"
       ], 
       "housenumber": "9", 
-      "lat": 50.99120851688058, 
-      "lon": 3.7518978207678813, 
+      "lat": 50.99041054320025, 
+      "lon": 3.751935660304052, 
       "municipality": "Merelbeke", 
       "pcode": "9820", 
-      "source": "afgeleidVanStraat", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Zusters Maricolenstraat"
     }
   ]

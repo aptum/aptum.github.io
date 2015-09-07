@@ -74,13 +74,16 @@
     }, 
     {
       "busnrs": [
+        "1", 
+        "2", 
+        "3", 
         "4", 
         "5", 
         "6", 
         "7"
       ], 
       "hnrlbls": [
-        "11-11b"
+        "11"
       ], 
       "housenumber": "11", 
       "lat": 51.22460942901202, 
@@ -140,18 +143,6 @@
     }, 
     {
       "hnrlbls": [
-        "117-117F"
-      ], 
-      "housenumber": "117", 
-      "lat": 51.22235634457445, 
-      "lon": 4.512007984453634, 
-      "municipality": "Wijnegem", 
-      "pcode": "2110", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Koolsveldlaan"
-    }, 
-    {
-      "hnrlbls": [
         "117A"
       ], 
       "housenumber": "117A", 
@@ -195,7 +186,7 @@
       "lon": 4.512007984453634, 
       "municipality": "Wijnegem", 
       "pcode": "2110", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Koolsveldlaan"
     }, 
     {
@@ -220,22 +211,6 @@
       "municipality": "Wijnegem", 
       "pcode": "2110", 
       "source": "afgeleidVanGebouw", 
-      "street": "Koolsveldlaan"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "3"
-      ], 
-      "hnrlbls": [
-        "11-11b"
-      ], 
-      "housenumber": "11b", 
-      "lat": 51.22460942901202, 
-      "lon": 4.520499972226787, 
-      "municipality": "Wijnegem", 
-      "pcode": "2110", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Koolsveldlaan"
     }, 
     {
@@ -783,11 +758,11 @@
         "162"
       ], 
       "housenumber": "162", 
-      "lat": 51.22160887171203, 
-      "lon": 4.506741449292258, 
+      "lat": 51.221562535502954, 
+      "lon": 4.50675568238871, 
       "municipality": "Wijnegem", 
       "pcode": "2110", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Koolsveldlaan"
     }, 
     {
@@ -795,11 +770,11 @@
         "162A"
       ], 
       "housenumber": "162A", 
-      "lat": 51.22170896830735, 
-      "lon": 4.506693939741124, 
+      "lat": 51.22160887135806, 
+      "lon": 4.5067414858119825, 
       "municipality": "Wijnegem", 
       "pcode": "2110", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Koolsveldlaan"
     }, 
     {
@@ -812,18 +787,6 @@
       "municipality": "Wijnegem", 
       "pcode": "2110", 
       "source": "afgeleidVanGebouw", 
-      "street": "Koolsveldlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "164"
-      ], 
-      "housenumber": "164", 
-      "lat": 51.22157166550223, 
-      "lon": 4.506583174337094, 
-      "municipality": "Wijnegem", 
-      "pcode": "2110", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Koolsveldlaan"
     }, 
     {
@@ -863,9 +826,6 @@
       "street": "Koolsveldlaan"
     }, 
     {
-      "apptnrs": [
-        "1.0"
-      ], 
       "hnrlbls": [
         "168"
       ], 
@@ -1026,11 +986,11 @@
         "183"
       ], 
       "housenumber": "183", 
-      "lat": 51.22080288009391, 
-      "lon": 4.504502459838272, 
+      "lat": 51.22084233554174, 
+      "lon": 4.504690390489948, 
       "municipality": "Wijnegem", 
       "pcode": "2110", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Koolsveldlaan"
     }, 
     {
@@ -1119,18 +1079,6 @@
     }, 
     {
       "hnrlbls": [
-        "21-23"
-      ], 
-      "housenumber": "21", 
-      "lat": 51.22447853782854, 
-      "lon": 4.519956885054302, 
-      "municipality": "Wijnegem", 
-      "pcode": "2110", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Koolsveldlaan"
-    }, 
-    {
-      "hnrlbls": [
         "22"
       ], 
       "housenumber": "22", 
@@ -1143,14 +1091,14 @@
     }, 
     {
       "hnrlbls": [
-        "21-23"
+        "23"
       ], 
       "housenumber": "23", 
-      "lat": 51.22447853782854, 
-      "lon": 4.519956885054302, 
+      "lat": 51.224498244911324, 
+      "lon": 4.519932892253765, 
       "municipality": "Wijnegem", 
       "pcode": "2110", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Koolsveldlaan"
     }, 
     {
@@ -1181,8 +1129,12 @@
       "apptnrs": [
         "0.0"
       ], 
+      "busnrs": [
+        "1", 
+        "glvl"
+      ], 
       "hnrlbls": [
-        "26-26b"
+        "26"
       ], 
       "housenumber": "26", 
       "lat": 51.22497201592352, 
@@ -1193,30 +1145,15 @@
       "street": "Koolsveldlaan"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
-        "26-26b"
-      ], 
-      "housenumber": "26b", 
-      "lat": 51.22497201592352, 
-      "lon": 4.519874895749846, 
-      "municipality": "Wijnegem", 
-      "pcode": "2110", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Koolsveldlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "27-29"
+        "27"
       ], 
       "housenumber": "27", 
-      "lat": 51.22441373482247, 
-      "lon": 4.519744248411522, 
+      "lat": 51.22444812611015, 
+      "lon": 4.519764391331187, 
       "municipality": "Wijnegem", 
       "pcode": "2110", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Koolsveldlaan"
     }, 
     {
@@ -1224,14 +1161,14 @@
         "1.0"
       ], 
       "hnrlbls": [
-        "27-29"
+        "29"
       ], 
       "housenumber": "29", 
-      "lat": 51.22441373482247, 
-      "lon": 4.519744248411522, 
+      "lat": 51.224428084689805, 
+      "lon": 4.519692181438135, 
       "municipality": "Wijnegem", 
       "pcode": "2110", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Koolsveldlaan"
     }, 
     {
@@ -1247,6 +1184,10 @@
       "street": "Koolsveldlaan"
     }, 
     {
+      "apptnrs": [
+        "1.0", 
+        "glvl"
+      ], 
       "hnrlbls": [
         "31-33"
       ], 
@@ -1256,21 +1197,6 @@
       "municipality": "Wijnegem", 
       "pcode": "2110", 
       "source": "afgeleidVanGebouw", 
-      "street": "Koolsveldlaan"
-    }, 
-    {
-      "busnrs": [
-        "eL"
-      ], 
-      "hnrlbls": [
-        "31_1"
-      ], 
-      "housenumber": "31_1", 
-      "lat": 51.22435846110587, 
-      "lon": 4.519530068738803, 
-      "municipality": "Wijnegem", 
-      "pcode": "2110", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Koolsveldlaan"
     }, 
     {
@@ -1286,6 +1212,9 @@
       "street": "Koolsveldlaan"
     }, 
     {
+      "apptnrs": [
+        "glvl"
+      ], 
       "busnrs": [
         "1"
       ], 
@@ -1344,7 +1273,7 @@
     }, 
     {
       "hnrlbls": [
-        "39-39A"
+        "39"
       ], 
       "housenumber": "39", 
       "lat": 51.22429253955592, 
@@ -1359,14 +1288,14 @@
         "0.0"
       ], 
       "hnrlbls": [
-        "39-39A"
+        "39A"
       ], 
       "housenumber": "39A", 
-      "lat": 51.22429253955592, 
-      "lon": 4.519277778858976, 
+      "lat": 51.22427482822889, 
+      "lon": 4.51919605907065, 
       "municipality": "Wijnegem", 
       "pcode": "2110", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Koolsveldlaan"
     }, 
     {
@@ -1398,20 +1327,8 @@
         "41"
       ], 
       "housenumber": "41", 
-      "lat": 51.2242748469252, 
-      "lon": 4.51919612970767, 
-      "municipality": "Wijnegem", 
-      "pcode": "2110", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Koolsveldlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "41A"
-      ], 
-      "housenumber": "41A", 
-      "lat": 51.22422957777532, 
-      "lon": 4.519030079863818, 
+      "lat": 51.22422957669972, 
+      "lon": 4.51903007501767, 
       "municipality": "Wijnegem", 
       "pcode": "2110", 
       "source": "afgeleidVanGebouw", 
@@ -1626,8 +1543,8 @@
         "58"
       ], 
       "housenumber": "58", 
-      "lat": 51.22450457320187, 
-      "lon": 4.518504629244033, 
+      "lat": 51.22455401678424, 
+      "lon": 4.518759252061079, 
       "municipality": "Wijnegem", 
       "pcode": "2110", 
       "source": "afgeleidVanGebouw", 
@@ -1639,11 +1556,11 @@
         "2"
       ], 
       "hnrlbls": [
-        "58A-73"
+        "58A"
       ], 
       "housenumber": "58A", 
-      "lat": 51.22449225029788, 
-      "lon": 4.51844089034862, 
+      "lat": 51.224520240510216, 
+      "lon": 4.518658275116386, 
       "municipality": "Wijnegem", 
       "pcode": "2110", 
       "source": "afgeleidVanGebouw", 
@@ -1651,11 +1568,11 @@
     }, 
     {
       "hnrlbls": [
-        "58A-73"
+        "58B"
       ], 
       "housenumber": "58B", 
-      "lat": 51.22449225029788, 
-      "lon": 4.51844089034862, 
+      "lat": 51.22447511611386, 
+      "lon": 4.518496644667577, 
       "municipality": "Wijnegem", 
       "pcode": "2110", 
       "source": "afgeleidVanGebouw", 
@@ -1759,18 +1676,6 @@
     }, 
     {
       "hnrlbls": [
-        "66"
-      ], 
-      "housenumber": "66", 
-      "lat": 51.2243022565651, 
-      "lon": 4.517075403973227, 
-      "municipality": "Wijnegem", 
-      "pcode": "2110", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Koolsveldlaan"
-    }, 
-    {
-      "hnrlbls": [
         "67"
       ], 
       "housenumber": "67", 
@@ -1789,16 +1694,19 @@
         "68"
       ], 
       "housenumber": "68", 
-      "lat": 51.22428946435791, 
-      "lon": 4.517026837445188, 
+      "lat": 51.2243022565651, 
+      "lon": 4.517075403973227, 
       "municipality": "Wijnegem", 
       "pcode": "2110", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Koolsveldlaan"
     }, 
     {
       "apptnrs": [
         "2.0"
+      ], 
+      "busnrs": [
+        "glvl"
       ], 
       "hnrlbls": [
         "69"
@@ -1857,18 +1765,6 @@
       "municipality": "Wijnegem", 
       "pcode": "2110", 
       "source": "manueleAanduidingVanGebouw", 
-      "street": "Koolsveldlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "72"
-      ], 
-      "housenumber": "72", 
-      "lat": 51.22421348616779, 
-      "lon": 4.51676206595488, 
-      "municipality": "Wijnegem", 
-      "pcode": "2110", 
-      "source": "afgeleidVanGebouw", 
       "street": "Koolsveldlaan"
     }, 
     {
@@ -2116,8 +2012,8 @@
         "94"
       ], 
       "housenumber": "94", 
-      "lat": 51.224447318601676, 
-      "lon": 4.513327785972162, 
+      "lat": 51.22377341751061, 
+      "lon": 4.5138287198315865, 
       "municipality": "Wijnegem", 
       "pcode": "2110", 
       "source": "afgeleidVanGebouw", 
@@ -2156,11 +2052,11 @@
         "94A"
       ], 
       "housenumber": "94A", 
-      "lat": 51.22376132709436, 
-      "lon": 4.513836951348485, 
+      "lat": 51.22489577181461, 
+      "lon": 4.513715043462116, 
       "municipality": "Wijnegem", 
       "pcode": "2110", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Koolsveldlaan"
     }, 
     {
@@ -2170,6 +2066,28 @@
       "housenumber": "94B", 
       "lat": 51.22487012199121, 
       "lon": 4.512676360952232, 
+      "municipality": "Wijnegem", 
+      "pcode": "2110", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Koolsveldlaan"
+    }, 
+    {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6", 
+        "7", 
+        "8"
+      ], 
+      "hnrlbls": [
+        "94C"
+      ], 
+      "housenumber": "94C", 
+      "lat": 51.224249953936436, 
+      "lon": 4.513090627653093, 
       "municipality": "Wijnegem", 
       "pcode": "2110", 
       "source": "afgeleidVanGebouw", 

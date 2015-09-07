@@ -205,6 +205,9 @@
       "street": "Stationsstraat"
     }, 
     {
+      "apptnrs": [
+        "0101"
+      ], 
       "hnrlbls": [
         "115A"
       ], 
@@ -290,11 +293,11 @@
     }, 
     {
       "hnrlbls": [
-        "120-123"
+        "120"
       ], 
       "housenumber": "120", 
-      "lat": 50.946398162616134, 
-      "lon": 4.723692816101732, 
+      "lat": 50.946284273731756, 
+      "lon": 4.72368107752397, 
       "municipality": "Rotselaar", 
       "pcode": "3110", 
       "source": "afgeleidVanGebouw", 
@@ -314,11 +317,11 @@
     }, 
     {
       "hnrlbls": [
-        "120-123"
+        "123"
       ], 
       "housenumber": "123", 
-      "lat": 50.946398162616134, 
-      "lon": 4.723692816101732, 
+      "lat": 50.946597230034165, 
+      "lon": 4.723770663365031, 
       "municipality": "Rotselaar", 
       "pcode": "3110", 
       "source": "afgeleidVanGebouw", 
@@ -758,7 +761,8 @@
     }, 
     {
       "busnrs": [
-        "1"
+        "1", 
+        "101"
       ], 
       "hnrlbls": [
         "163"
@@ -785,7 +789,7 @@
     }, 
     {
       "hnrlbls": [
-        "164-164A"
+        "164"
       ], 
       "housenumber": "164", 
       "lat": 50.94408347922563, 
@@ -793,18 +797,6 @@
       "municipality": "Rotselaar", 
       "pcode": "3110", 
       "source": "afgeleidVanGebouw", 
-      "street": "Stationsstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "164-164A"
-      ], 
-      "housenumber": "164A", 
-      "lat": 50.94408347922563, 
-      "lon": 4.727568173578458, 
-      "municipality": "Rotselaar", 
-      "pcode": "3110", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Stationsstraat"
     }, 
     {
@@ -836,11 +828,11 @@
         "168"
       ], 
       "housenumber": "168", 
-      "lat": 50.94314276203981, 
-      "lon": 4.728325045016885, 
+      "lat": 50.9437032771652, 
+      "lon": 4.727921951394913, 
       "municipality": "Rotselaar", 
       "pcode": "3110", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Stationsstraat"
     }, 
     {
@@ -856,6 +848,10 @@
       "street": "Stationsstraat"
     }, 
     {
+      "busnrs": [
+        "101", 
+        "102"
+      ], 
       "hnrlbls": [
         "17"
       ], 
@@ -1096,11 +1092,11 @@
         "195"
       ], 
       "housenumber": "195", 
-      "lat": 50.94228806316061, 
-      "lon": 4.73179477268924, 
+      "lat": 50.942304368757796, 
+      "lon": 4.731767342492475, 
       "municipality": "Rotselaar", 
       "pcode": "3110", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Stationsstraat"
     }, 
     {
@@ -1108,11 +1104,11 @@
         "197"
       ], 
       "housenumber": "197", 
-      "lat": 50.94229022903087, 
-      "lon": 4.731850138108278, 
+      "lat": 50.94223135203211, 
+      "lon": 4.731774744318842, 
       "municipality": "Rotselaar", 
       "pcode": "3110", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Stationsstraat"
     }, 
     {
@@ -1165,18 +1161,6 @@
     }, 
     {
       "hnrlbls": [
-        "207"
-      ], 
-      "housenumber": "207", 
-      "lat": 50.9418841570197, 
-      "lon": 4.732582593022531, 
-      "municipality": "Rotselaar", 
-      "pcode": "3110", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Stationsstraat"
-    }, 
-    {
-      "hnrlbls": [
         "207A"
       ], 
       "housenumber": "207A", 
@@ -1192,11 +1176,11 @@
         "209"
       ], 
       "housenumber": "209", 
-      "lat": 50.941754485864855, 
-      "lon": 4.732741795823703, 
+      "lat": 50.94173618257667, 
+      "lon": 4.732701803877204, 
       "municipality": "Rotselaar", 
       "pcode": "3110", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Stationsstraat"
     }, 
     {
@@ -1204,11 +1188,11 @@
         "209A"
       ], 
       "housenumber": "209A", 
-      "lat": 50.941754521487184, 
-      "lon": 4.732741808625491, 
+      "lat": 50.94178633651406, 
+      "lon": 4.732761952643085, 
       "municipality": "Rotselaar", 
       "pcode": "3110", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Stationsstraat"
     }, 
     {
@@ -1237,50 +1221,50 @@
     }, 
     {
       "hnrlbls": [
-        "216-216C"
+        "216"
       ], 
       "housenumber": "216", 
-      "lat": 50.941434910648034, 
-      "lon": 4.732191953462766, 
+      "lat": 50.941555447565484, 
+      "lon": 4.7322077338632225, 
       "municipality": "Rotselaar", 
       "pcode": "3110", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Stationsstraat"
     }, 
     {
       "hnrlbls": [
-        "216-216C"
+        "216A"
       ], 
       "housenumber": "216A", 
-      "lat": 50.941434910648034, 
-      "lon": 4.732191953462766, 
+      "lat": 50.94165955634198, 
+      "lon": 4.731913732119495, 
       "municipality": "Rotselaar", 
       "pcode": "3110", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Stationsstraat"
     }, 
     {
       "hnrlbls": [
-        "216-216C"
+        "216B"
       ], 
       "housenumber": "216B", 
-      "lat": 50.941434910648034, 
-      "lon": 4.732191953462766, 
+      "lat": 50.94165701470568, 
+      "lon": 4.731921680240246, 
       "municipality": "Rotselaar", 
       "pcode": "3110", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Stationsstraat"
     }, 
     {
       "hnrlbls": [
-        "216-216C"
+        "216C"
       ], 
       "housenumber": "216C", 
-      "lat": 50.941434910648034, 
-      "lon": 4.732191953462766, 
+      "lat": 50.94165956867581, 
+      "lon": 4.7319097482979595, 
       "municipality": "Rotselaar", 
       "pcode": "3110", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Stationsstraat"
     }, 
     {
@@ -1524,15 +1508,20 @@
       "street": "Stationsstraat"
     }, 
     {
+      "busnrs": [
+        "0101", 
+        "0102", 
+        "0103"
+      ], 
       "hnrlbls": [
         "24"
       ], 
       "housenumber": "24", 
-      "lat": 50.949171501379915, 
-      "lon": 4.713798306373959, 
+      "lat": 50.949180580040846, 
+      "lon": 4.713864923798762, 
       "municipality": "Rotselaar", 
       "pcode": "3110", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Stationsstraat"
     }, 
     {
@@ -1724,53 +1713,54 @@
         "2"
       ], 
       "hnrlbls": [
-        "254-256"
+        "254"
       ], 
       "housenumber": "254", 
-      "lat": 50.939500522935035, 
-      "lon": 4.7357891833016845, 
+      "lat": 50.93965979191118, 
+      "lon": 4.735578173540784, 
       "municipality": "Rotselaar", 
       "pcode": "3110", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Stationsstraat"
     }, 
     {
       "hnrlbls": [
-        "254-256"
+        "256"
       ], 
       "housenumber": "256", 
-      "lat": 50.939500522935035, 
-      "lon": 4.7357891833016845, 
+      "lat": 50.939602839262655, 
+      "lon": 4.735680308776382, 
       "municipality": "Rotselaar", 
       "pcode": "3110", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Stationsstraat"
     }, 
     {
       "busnrs": [
+        "101", 
         "102"
       ], 
       "hnrlbls": [
         "258"
       ], 
       "housenumber": "258", 
-      "lat": 50.93943110693644, 
-      "lon": 4.7363977216954245, 
+      "lat": 50.93958441740788, 
+      "lon": 4.735713064105157, 
       "municipality": "Rotselaar", 
       "pcode": "3110", 
-      "source": "geinterpoleerdObvWegverbinding", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Stationsstraat"
     }, 
     {
       "hnrlbls": [
-        "26"
+        "260"
       ], 
-      "housenumber": "26", 
-      "lat": 50.94916468239295, 
-      "lon": 4.713855035834597, 
+      "housenumber": "260", 
+      "lat": 50.939504879150846, 
+      "lon": 4.7358481950162306, 
       "municipality": "Rotselaar", 
       "pcode": "3110", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Stationsstraat"
     }, 
     {
@@ -1783,11 +1773,11 @@
         "262"
       ], 
       "housenumber": "262", 
-      "lat": 50.94575813653131, 
-      "lon": 4.7227355844619385, 
+      "lat": 50.939463780243315, 
+      "lon": 4.735915592622657, 
       "municipality": "Rotselaar", 
       "pcode": "3110", 
-      "source": "afgeleidVanStraat", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Stationsstraat"
     }, 
     {
@@ -1795,11 +1785,11 @@
         "264"
       ], 
       "housenumber": "264", 
-      "lat": 50.939479137716944, 
-      "lon": 4.735699950965987, 
+      "lat": 50.93938592063918, 
+      "lon": 4.736058399864422, 
       "municipality": "Rotselaar", 
       "pcode": "3110", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Stationsstraat"
     }, 
     {
@@ -1906,11 +1896,11 @@
         "33"
       ], 
       "housenumber": "33", 
-      "lat": 50.949128113325585, 
-      "lon": 4.7151301033633946, 
+      "lat": 50.94909162155796, 
+      "lon": 4.715031536444361, 
       "municipality": "Rotselaar", 
       "pcode": "3110", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Stationsstraat"
     }, 
     {
@@ -1954,8 +1944,8 @@
         "37"
       ], 
       "housenumber": "37", 
-      "lat": 50.94891249678467, 
-      "lon": 4.715695306026383, 
+      "lat": 50.94892452562375, 
+      "lon": 4.715612293765234, 
       "municipality": "Rotselaar", 
       "pcode": "3110", 
       "source": "afgeleidVanGebouw", 
@@ -1966,54 +1956,26 @@
         "101"
       ], 
       "hnrlbls": [
-        "37A-39B"
+        "37A"
       ], 
       "housenumber": "37A", 
-      "lat": 50.94890653094289, 
-      "lon": 4.715736814667991, 
+      "lat": 50.948888158668666, 
+      "lon": 4.715690631106315, 
       "municipality": "Rotselaar", 
       "pcode": "3110", 
       "source": "afgeleidVanGebouw", 
       "street": "Stationsstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "101"
-      ], 
       "hnrlbls": [
-        "37A-39B"
+        "39"
       ], 
       "housenumber": "39", 
-      "lat": 50.94890653094289, 
-      "lon": 4.715736814667991, 
+      "lat": 50.94888196978164, 
+      "lon": 4.715831857027219, 
       "municipality": "Rotselaar", 
       "pcode": "3110", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Stationsstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "37A-39B"
-      ], 
-      "housenumber": "39A", 
-      "lat": 50.94890653094289, 
-      "lon": 4.715736814667991, 
-      "municipality": "Rotselaar", 
-      "pcode": "3110", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Stationsstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "37A-39B"
-      ], 
-      "housenumber": "39B", 
-      "lat": 50.94890653094289, 
-      "lon": 4.715736814667991, 
-      "municipality": "Rotselaar", 
-      "pcode": "3110", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Stationsstraat"
     }, 
     {

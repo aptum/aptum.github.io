@@ -17,11 +17,11 @@
         "100"
       ], 
       "housenumber": "100", 
-      "lat": 51.10709595164077, 
-      "lon": 3.6928782227596018, 
+      "lat": 51.10757407863554, 
+      "lon": 3.6940874730411855, 
       "municipality": "Evergem", 
       "pcode": "9940", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
       "street": "Ralingen"
     }, 
     {
@@ -34,6 +34,18 @@
       "municipality": "Evergem", 
       "pcode": "9940", 
       "source": "afgeleidVanGebouw", 
+      "street": "Ralingen"
+    }, 
+    {
+      "hnrlbls": [
+        "54-102B"
+      ], 
+      "housenumber": "101B", 
+      "lat": 51.10773228051088, 
+      "lon": 3.694873261780421, 
+      "municipality": "Evergem", 
+      "pcode": "9940", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Ralingen"
     }, 
     {
@@ -58,6 +70,18 @@
       "municipality": "Evergem", 
       "pcode": "9940", 
       "source": "afgeleidVanGebouw", 
+      "street": "Ralingen"
+    }, 
+    {
+      "hnrlbls": [
+        "54-102B"
+      ], 
+      "housenumber": "102B", 
+      "lat": 51.10773228051088, 
+      "lon": 3.694873261780421, 
+      "municipality": "Evergem", 
+      "pcode": "9940", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Ralingen"
     }, 
     {
@@ -470,7 +494,7 @@
     }, 
     {
       "hnrlbls": [
-        "138-138B"
+        "138"
       ], 
       "housenumber": "138", 
       "lat": 51.104703251208946, 
@@ -482,14 +506,26 @@
     }, 
     {
       "hnrlbls": [
-        "138-138B"
+        "138A"
       ], 
-      "housenumber": "138B", 
-      "lat": 51.104703251208946, 
-      "lon": 3.686289508704011, 
+      "housenumber": "138A", 
+      "lat": 51.10467187897626, 
+      "lon": 3.6861029206088824, 
       "municipality": "Evergem", 
       "pcode": "9940", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelKadaster", 
+      "street": "Ralingen"
+    }, 
+    {
+      "hnrlbls": [
+        "138B"
+      ], 
+      "housenumber": "138B", 
+      "lat": 51.10462064929734, 
+      "lon": 3.6859955814190886, 
+      "municipality": "Evergem", 
+      "pcode": "9940", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Ralingen"
     }, 
     {
@@ -1096,10 +1132,11 @@
     }, 
     {
       "busnrs": [
+        "001B", 
         "002B"
       ], 
       "hnrlbls": [
-        "54-54B"
+        "54-102B"
       ], 
       "housenumber": "54", 
       "lat": 51.10773228051088, 
@@ -1123,10 +1160,11 @@
     }, 
     {
       "busnrs": [
-        "101"
+        "101", 
+        "102"
       ], 
       "hnrlbls": [
-        "54-54B"
+        "54-102B"
       ], 
       "housenumber": "54B", 
       "lat": 51.10773228051088, 

@@ -97,9 +97,6 @@
       "street": "Statiestraat"
     }, 
     {
-      "busnrs": [
-        "2"
-      ], 
       "hnrlbls": [
         "111"
       ], 
@@ -380,8 +377,8 @@
         "132"
       ], 
       "housenumber": "132", 
-      "lat": 50.73689739358671, 
-      "lon": 3.9957179872524025, 
+      "lat": 50.7368857756071, 
+      "lon": 3.9957961360395755, 
       "municipality": "Galmaarden", 
       "pcode": "1570", 
       "source": "afgeleidVanGebouw", 
@@ -397,18 +394,6 @@
       "municipality": "Galmaarden", 
       "pcode": "1570", 
       "source": "afgeleidVanGebouw", 
-      "street": "Statiestraat"
-    }, 
-    {
-      "hnrlbls": [
-        "134"
-      ], 
-      "housenumber": "134", 
-      "lat": 50.736713776900274, 
-      "lon": 3.9954784682929114, 
-      "municipality": "Galmaarden", 
-      "pcode": "1570", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Statiestraat"
     }, 
     {
@@ -544,9 +529,6 @@
       "street": "Statiestraat"
     }, 
     {
-      "busnrs": [
-        "2"
-      ], 
       "hnrlbls": [
         "156-156A"
       ], 
@@ -567,7 +549,7 @@
       "lon": 3.993573171706133, 
       "municipality": "Galmaarden", 
       "pcode": "1570", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Statiestraat"
     }, 
     {
@@ -627,11 +609,11 @@
         "162A"
       ], 
       "housenumber": "162A", 
-      "lat": 50.734947045028, 
-      "lon": 3.994958244105969, 
+      "lat": 50.73508938352623, 
+      "lon": 3.9946572253426624, 
       "municipality": "Galmaarden", 
       "pcode": "1570", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Statiestraat"
     }, 
     {
@@ -1095,11 +1077,11 @@
         "52"
       ], 
       "housenumber": "52", 
-      "lat": 50.7393623838572, 
-      "lon": 4.003068406577107, 
+      "lat": 50.73945432361533, 
+      "lon": 4.002599043822145, 
       "municipality": "Galmaarden", 
       "pcode": "1570", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Statiestraat"
     }, 
     {
@@ -1119,11 +1101,11 @@
         "54"
       ], 
       "housenumber": "54", 
-      "lat": 50.739409620615994, 
-      "lon": 4.002620357983711, 
+      "lat": 50.739389143881134, 
+      "lon": 4.002540472311347, 
       "municipality": "Galmaarden", 
       "pcode": "1570", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Statiestraat"
     }, 
     {
@@ -1143,11 +1125,11 @@
         "56"
       ], 
       "housenumber": "56", 
-      "lat": 50.73922427940859, 
-      "lon": 4.002514833783045, 
+      "lat": 50.739238483600516, 
+      "lon": 4.002457346737788, 
       "municipality": "Galmaarden", 
       "pcode": "1570", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Statiestraat"
     }, 
     {
@@ -1155,11 +1137,11 @@
         "56A"
       ], 
       "housenumber": "56A", 
-      "lat": 50.739164955741536, 
-      "lon": 4.002460325692347, 
+      "lat": 50.73918788031566, 
+      "lon": 4.002402912696998, 
       "municipality": "Galmaarden", 
       "pcode": "1570", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Statiestraat"
     }, 
     {
@@ -1491,8 +1473,8 @@
         "79B"
       ], 
       "housenumber": "79B", 
-      "lat": 50.73827485939982, 
-      "lon": 3.998935582314008, 
+      "lat": 50.73828919542083, 
+      "lon": 3.9989390426595914, 
       "municipality": "Galmaarden", 
       "pcode": "1570", 
       "source": "afgeleidVanGebouw", 
@@ -1577,7 +1559,8 @@
     {
       "busnrs": [
         "1", 
-        "2"
+        "2", 
+        "3"
       ], 
       "hnrlbls": [
         "9"
@@ -1615,29 +1598,20 @@
       "street": "Statiestraat"
     }, 
     {
-      "hnrlbls": [
-        "92-92A"
-      ], 
-      "housenumber": "92", 
-      "lat": 50.73822208079002, 
-      "lon": 4.000532312937218, 
-      "municipality": "Galmaarden", 
-      "pcode": "1570", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Statiestraat"
-    }, 
-    {
-      "busnrs": [
-        "2", 
-        "4", 
-        "6"
+      "apptnrs": [
+        "B1", 
+        "B2", 
+        "B3", 
+        "B4", 
+        "B5", 
+        "B6"
       ], 
       "hnrlbls": [
-        "92-92A"
+        "92A"
       ], 
       "housenumber": "92A", 
-      "lat": 50.73822208079002, 
-      "lon": 4.000532312937218, 
+      "lat": 50.73820417224543, 
+      "lon": 4.000497743938266, 
       "municipality": "Galmaarden", 
       "pcode": "1570", 
       "source": "afgeleidVanGebouw", 
@@ -1669,30 +1643,6 @@
       "municipality": "Galmaarden", 
       "pcode": "1570", 
       "source": "afgeleidVanGebouw", 
-      "street": "Statiestraat"
-    }, 
-    {
-      "hnrlbls": [
-        "94A-94B"
-      ], 
-      "housenumber": "94A", 
-      "lat": 50.7380799840157, 
-      "lon": 4.000313977981207, 
-      "municipality": "Galmaarden", 
-      "pcode": "1570", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Statiestraat"
-    }, 
-    {
-      "hnrlbls": [
-        "94A-94B"
-      ], 
-      "housenumber": "94B", 
-      "lat": 50.7380799840157, 
-      "lon": 4.000313977981207, 
-      "municipality": "Galmaarden", 
-      "pcode": "1570", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Statiestraat"
     }, 
     {

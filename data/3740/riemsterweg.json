@@ -445,6 +445,9 @@
       "street": "Riemsterweg"
     }, 
     {
+      "apptnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "21A"
       ], 
@@ -489,7 +492,7 @@
       "lon": 5.54091954449079, 
       "municipality": "Bilzen", 
       "pcode": "3740", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Riemsterweg"
     }, 
     {
@@ -994,8 +997,8 @@
         "26"
       ], 
       "housenumber": "26", 
-      "lat": 50.86135118669963, 
-      "lon": 5.528547608138884, 
+      "lat": 50.861363271704725, 
+      "lon": 5.528589244599583, 
       "municipality": "Bilzen", 
       "pcode": "3740", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1087,6 +1090,18 @@
     }, 
     {
       "hnrlbls": [
+        "265B"
+      ], 
+      "housenumber": "265B", 
+      "lat": 50.84337018356047, 
+      "lon": 5.546764612950275, 
+      "municipality": "Bilzen", 
+      "pcode": "3740", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Riemsterweg"
+    }, 
+    {
+      "hnrlbls": [
         "266"
       ], 
       "housenumber": "266", 
@@ -1131,18 +1146,6 @@
       "municipality": "Bilzen", 
       "pcode": "3740", 
       "source": "manueleAanduidingVanGebouw", 
-      "street": "Riemsterweg"
-    }, 
-    {
-      "hnrlbls": [
-        "26C"
-      ], 
-      "housenumber": "26C", 
-      "lat": 50.861368013064556, 
-      "lon": 5.52859163457956, 
-      "municipality": "Bilzen", 
-      "pcode": "3740", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Riemsterweg"
     }, 
     {
@@ -2023,11 +2026,9 @@
     {
       "apptnrs": [
         "1", 
-        "2"
-      ], 
-      "busnrs": [
         "11", 
-        "12"
+        "12", 
+        "2"
       ], 
       "hnrlbls": [
         "425A"
@@ -2172,11 +2173,9 @@
     {
       "apptnrs": [
         "1", 
-        "2"
-      ], 
-      "busnrs": [
         "11", 
-        "12"
+        "12", 
+        "2"
       ], 
       "hnrlbls": [
         "433A"
@@ -2286,6 +2285,10 @@
       "street": "Riemsterweg"
     }, 
     {
+      "apptnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "6A"
       ], 
@@ -2370,9 +2373,11 @@
       "street": "Riemsterweg"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
+        "1", 
         "11", 
-        "12"
+        "12", 
+        "2"
       ], 
       "hnrlbls": [
         "9B"

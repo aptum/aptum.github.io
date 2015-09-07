@@ -205,62 +205,22 @@
       "street": "Lindestraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "1A", 
-        "2"
+      "apptnrs": [
+        "0002", 
+        "A001", 
+        "AGVL", 
+        "B001", 
+        "BGVL"
       ], 
       "hnrlbls": [
-        "119-121"
+        "119"
       ], 
       "housenumber": "119", 
-      "lat": 51.095744131946574, 
-      "lon": 4.24375786758725, 
+      "lat": 51.09580674399453, 
+      "lon": 4.242795175758354, 
       "municipality": "Bornem", 
       "pcode": "2880", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Lindestraat"
-    }, 
-    {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "119A-121B"
-      ], 
-      "housenumber": "119A", 
-      "lat": 51.0958621452671, 
-      "lon": 4.242898768559502, 
-      "municipality": "Bornem", 
-      "pcode": "2880", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Lindestraat"
-    }, 
-    {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "119A-121B"
-      ], 
-      "housenumber": "119B", 
-      "lat": 51.0958621452671, 
-      "lon": 4.242898768559502, 
-      "municipality": "Bornem", 
-      "pcode": "2880", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Lindestraat"
-    }, 
-    {
-      "hnrlbls": [
-        "119A-121B"
-      ], 
-      "housenumber": "119C", 
-      "lat": 51.0958621452671, 
-      "lon": 4.242898768559502, 
-      "municipality": "Bornem", 
-      "pcode": "2880", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Lindestraat"
     }, 
     {
@@ -288,51 +248,31 @@
       "street": "Lindestraat"
     }, 
     {
-      "busnrs": [
-        "2"
+      "apptnrs": [
+        "0002", 
+        "A001", 
+        "AGVL", 
+        "B001", 
+        "BGVL"
       ], 
       "hnrlbls": [
-        "119-121"
+        "121"
       ], 
       "housenumber": "121", 
-      "lat": 51.095744131946574, 
-      "lon": 4.24375786758725, 
+      "lat": 51.095773190362245, 
+      "lon": 4.242969979975859, 
       "municipality": "Bornem", 
       "pcode": "2880", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Lindestraat"
     }, 
     {
+      "apptnrs": [
+        "0.0"
+      ], 
       "busnrs": [
         "1"
       ], 
-      "hnrlbls": [
-        "119A-121B"
-      ], 
-      "housenumber": "121A", 
-      "lat": 51.0958621452671, 
-      "lon": 4.242898768559502, 
-      "municipality": "Bornem", 
-      "pcode": "2880", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Lindestraat"
-    }, 
-    {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "119A-121B"
-      ], 
-      "housenumber": "121B", 
-      "lat": 51.0958621452671, 
-      "lon": 4.242898768559502, 
-      "municipality": "Bornem", 
-      "pcode": "2880", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Lindestraat"
-    }, 
-    {
       "hnrlbls": [
         "122"
       ], 
@@ -349,8 +289,8 @@
         "123"
       ], 
       "housenumber": "123", 
-      "lat": 51.095745586554656, 
-      "lon": 4.243773423454342, 
+      "lat": 51.09573846632237, 
+      "lon": 4.243499790949212, 
       "municipality": "Bornem", 
       "pcode": "2880", 
       "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
@@ -1465,7 +1405,9 @@
     }, 
     {
       "busnrs": [
-        "1"
+        "1", 
+        "AGVL", 
+        "BGVL"
       ], 
       "hnrlbls": [
         "83"

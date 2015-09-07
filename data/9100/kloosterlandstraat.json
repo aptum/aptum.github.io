@@ -2,17 +2,19 @@
   "addresses": [
     {
       "busnrs": [
-        "1"
+        "1", 
+        "2", 
+        "3"
       ], 
       "hnrlbls": [
-        "1-1B"
+        "1"
       ], 
       "housenumber": "1", 
       "lat": 51.17426898469995, 
       "lon": 4.149550571625757, 
       "municipality": "Sint-Niklaas", 
       "pcode": "9100", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kloosterlandstraat"
     }, 
     {
@@ -24,7 +26,7 @@
       "lon": 4.149703279908154, 
       "municipality": "Sint-Niklaas", 
       "pcode": "9100", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kloosterlandstraat"
     }, 
     {
@@ -32,11 +34,11 @@
         "13"
       ], 
       "housenumber": "13", 
-      "lat": 51.17502410556641, 
-      "lon": 4.14973950473479, 
+      "lat": 51.17502410530213, 
+      "lon": 4.149739361743292, 
       "municipality": "Sint-Niklaas", 
       "pcode": "9100", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kloosterlandstraat"
     }, 
     {
@@ -48,7 +50,7 @@
       "lon": 4.149746569432878, 
       "municipality": "Sint-Niklaas", 
       "pcode": "9100", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kloosterlandstraat"
     }, 
     {
@@ -60,7 +62,7 @@
       "lon": 4.149714983470986, 
       "municipality": "Sint-Niklaas", 
       "pcode": "9100", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kloosterlandstraat"
     }, 
     {
@@ -68,28 +70,11 @@
         "19"
       ], 
       "housenumber": "19", 
-      "lat": 51.17517983276674, 
-      "lon": 4.149715182442377, 
+      "lat": 51.175179742881674, 
+      "lon": 4.149715182862861, 
       "municipality": "Sint-Niklaas", 
       "pcode": "9100", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Kloosterlandstraat"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3"
-      ], 
-      "hnrlbls": [
-        "1-1B"
-      ], 
-      "housenumber": "1B", 
-      "lat": 51.17426898469995, 
-      "lon": 4.149550571625757, 
-      "municipality": "Sint-Niklaas", 
-      "pcode": "9100", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kloosterlandstraat"
     }, 
     {
@@ -97,11 +82,11 @@
         "25"
       ], 
       "housenumber": "25", 
-      "lat": 51.17584309418991, 
-      "lon": 4.1498091734253, 
+      "lat": 51.17584318407495, 
+      "lon": 4.14980917300499, 
       "municipality": "Sint-Niklaas", 
       "pcode": "9100", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kloosterlandstraat"
     }, 
     {
@@ -109,23 +94,23 @@
         "27"
       ], 
       "housenumber": "27", 
-      "lat": 51.17591003978185, 
-      "lon": 4.149798707706053, 
+      "lat": 51.1759099498968, 
+      "lon": 4.149798708126381, 
       "municipality": "Sint-Niklaas", 
       "pcode": "9100", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kloosterlandstraat"
     }, 
     {
       "hnrlbls": [
-        "29"
+        "29-143"
       ], 
       "housenumber": "29", 
-      "lat": 51.176383832219244, 
-      "lon": 4.149557973257858, 
+      "lat": 51.17618636670445, 
+      "lon": 4.14980842622692, 
       "municipality": "Sint-Niklaas", 
       "pcode": "9100", 
-      "source": "geinterpoleerdObvWegverbinding", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kloosterlandstraat"
     }, 
     {
@@ -137,19 +122,24 @@
       "lon": 4.149352413923999, 
       "municipality": "Sint-Niklaas", 
       "pcode": "9100", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kloosterlandstraat"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3"
+      ], 
       "hnrlbls": [
         "40"
       ], 
       "housenumber": "40", 
-      "lat": 51.1762684590881, 
-      "lon": 4.149336868723957, 
+      "lat": 51.17626854870837, 
+      "lon": 4.1493367253074265, 
       "municipality": "Sint-Niklaas", 
       "pcode": "9100", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kloosterlandstraat"
     }, 
     {
@@ -158,56 +148,15 @@
         "2", 
         "3"
       ], 
-      "hnrlbls": [
-        "40B"
-      ], 
-      "housenumber": "40B", 
-      "lat": 51.17621971784143, 
-      "lon": 4.14932437045656, 
-      "municipality": "Sint-Niklaas", 
-      "pcode": "9100", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Kloosterlandstraat"
-    }, 
-    {
       "hnrlbls": [
         "5"
       ], 
       "housenumber": "5", 
-      "lat": 51.174774611266926, 
-      "lon": 4.149803731190757, 
+      "lat": 51.174772273268985, 
+      "lon": 4.149657318351988, 
       "municipality": "Sint-Niklaas", 
       "pcode": "9100", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Kloosterlandstraat"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3"
-      ], 
-      "hnrlbls": [
-        "5B"
-      ], 
-      "housenumber": "5B", 
-      "lat": 51.17485255914339, 
-      "lon": 4.149666952131724, 
-      "municipality": "Sint-Niklaas", 
-      "pcode": "9100", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Kloosterlandstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "7-7B"
-      ], 
-      "housenumber": "7", 
-      "lat": 51.174886045030945, 
-      "lon": 4.149693106036408, 
-      "municipality": "Sint-Niklaas", 
-      "pcode": "9100", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kloosterlandstraat"
     }, 
     {
@@ -220,14 +169,14 @@
         "6"
       ], 
       "hnrlbls": [
-        "7-7B"
+        "7"
       ], 
-      "housenumber": "7B", 
-      "lat": 51.174886045030945, 
-      "lon": 4.149693106036408, 
+      "housenumber": "7", 
+      "lat": 51.17484585688882, 
+      "lon": 4.149688146335759, 
       "municipality": "Sint-Niklaas", 
       "pcode": "9100", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kloosterlandstraat"
     }, 
     {
@@ -239,7 +188,7 @@
       "lon": 4.149719116987437, 
       "municipality": "Sint-Niklaas", 
       "pcode": "9100", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kloosterlandstraat"
     }
   ]

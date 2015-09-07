@@ -452,18 +452,15 @@
       "street": "Koninklijkelaan"
     }, 
     {
-      "busnrs": [
-        "b"
-      ], 
       "hnrlbls": [
         "26_1"
       ], 
       "housenumber": "26_1", 
-      "lat": 51.188402474129894, 
-      "lon": 4.424172935477114, 
+      "lat": 51.188396882852516, 
+      "lon": 4.424164375371704, 
       "municipality": "Antwerpen", 
       "pcode": "2600", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Koninklijkelaan"
     }, 
     {
@@ -573,18 +570,6 @@
     }, 
     {
       "hnrlbls": [
-        "310"
-      ], 
-      "housenumber": "310", 
-      "lat": 51.188047133571146, 
-      "lon": 4.423079457138387, 
-      "municipality": "Antwerpen", 
-      "pcode": "2600", 
-      "source": "afgeleidVanStraat", 
-      "street": "Koninklijkelaan"
-    }, 
-    {
-      "hnrlbls": [
         "32"
       ], 
       "housenumber": "32", 
@@ -664,9 +649,16 @@
     }, 
     {
       "busnrs": [
+        "1", 
+        "10", 
         "2", 
+        "3", 
+        "4", 
         "5", 
-        "7"
+        "6", 
+        "7", 
+        "8", 
+        "9"
       ], 
       "hnrlbls": [
         "39"
@@ -680,6 +672,12 @@
       "street": "Koninklijkelaan"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4"
+      ], 
       "hnrlbls": [
         "4"
       ], 
@@ -1289,7 +1287,8 @@
       "apptnrs": [
         "0001", 
         "0101", 
-        "0201"
+        "0201", 
+        "0301"
       ], 
       "hnrlbls": [
         "85"

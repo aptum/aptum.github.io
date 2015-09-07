@@ -1,8 +1,9 @@
 {
   "addresses": [
     {
-      "busnrs": [
-        "3"
+      "apptnrs": [
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "1"
@@ -29,7 +30,7 @@
     }, 
     {
       "hnrlbls": [
-        "11-11b"
+        "11"
       ], 
       "housenumber": "11", 
       "lat": 51.21177836930778, 
@@ -41,26 +42,26 @@
     }, 
     {
       "hnrlbls": [
-        "11-11b"
+        "11a-11b"
       ], 
       "housenumber": "11a", 
-      "lat": 51.21177836930778, 
-      "lon": 4.433995157122304, 
+      "lat": 51.2117890214557, 
+      "lon": 4.433987154015308, 
       "municipality": "Antwerpen", 
       "pcode": "2140", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Koxplein"
     }, 
     {
       "hnrlbls": [
-        "11-11b"
+        "11a-11b"
       ], 
       "housenumber": "11b", 
-      "lat": 51.21177836930778, 
-      "lon": 4.433995157122304, 
+      "lat": 51.2117890214557, 
+      "lon": 4.433987154015308, 
       "municipality": "Antwerpen", 
       "pcode": "2140", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Koxplein"
     }, 
     {
@@ -91,18 +92,6 @@
       "municipality": "Antwerpen", 
       "pcode": "2140", 
       "source": "afgeleidVanGebouw", 
-      "street": "Koxplein"
-    }, 
-    {
-      "hnrlbls": [
-        "136"
-      ], 
-      "housenumber": "136", 
-      "lat": 51.211364367632605, 
-      "lon": 4.433824707849777, 
-      "municipality": "Antwerpen", 
-      "pcode": "2140", 
-      "source": "afgeleidVanStraat", 
       "street": "Koxplein"
     }, 
     {
@@ -414,8 +403,10 @@
     }, 
     {
       "busnrs": [
+        "1", 
         "2", 
-        "3"
+        "3", 
+        "4"
       ], 
       "hnrlbls": [
         "8"

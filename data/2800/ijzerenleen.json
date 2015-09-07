@@ -73,6 +73,9 @@
       "street": "IJzerenleen"
     }, 
     {
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "15"
       ], 
@@ -311,7 +314,9 @@
     {
       "busnrs": [
         "101", 
-        "201"
+        "201", 
+        "S 102", 
+        "S202"
       ], 
       "hnrlbls": [
         "32-34"
@@ -322,22 +327,6 @@
       "municipality": "Mechelen", 
       "pcode": "2800", 
       "source": "afgeleidVanGebouw", 
-      "street": "IJzerenleen"
-    }, 
-    {
-      "busnrs": [
-        "102", 
-        "202"
-      ], 
-      "hnrlbls": [
-        "32S"
-      ], 
-      "housenumber": "32S", 
-      "lat": 51.02688657603928, 
-      "lon": 4.478240155818534, 
-      "municipality": "Mechelen", 
-      "pcode": "2800", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "IJzerenleen"
     }, 
     {
@@ -438,6 +427,7 @@
     {
       "busnrs": [
         "1", 
+        "2", 
         "3"
       ], 
       "hnrlbls": [

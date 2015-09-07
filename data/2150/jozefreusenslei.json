@@ -41,8 +41,8 @@
         "104"
       ], 
       "housenumber": "104", 
-      "lat": 51.19597055265545, 
-      "lon": 4.489111055338839, 
+      "lat": 51.19597052774252, 
+      "lon": 4.489111100832836, 
       "municipality": "Borsbeek", 
       "pcode": "2150", 
       "source": "afgeleidVanGebouw", 
@@ -276,11 +276,11 @@
       "street": "Jozef Reusenslei"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "4", 
-        "L"
+      "apptnrs": [
+        "001R", 
+        "002L", 
+        "002R", 
+        "gelR"
       ], 
       "hnrlbls": [
         "126"
@@ -291,51 +291,6 @@
       "municipality": "Borsbeek", 
       "pcode": "2150", 
       "source": "afgeleidVanGebouw", 
-      "street": "Jozef Reusenslei"
-    }, 
-    {
-      "busnrs": [
-        "4"
-      ], 
-      "hnrlbls": [
-        "126B-126_2"
-      ], 
-      "housenumber": "126B", 
-      "lat": 51.19671964389107, 
-      "lon": 4.489557768851269, 
-      "municipality": "Borsbeek", 
-      "pcode": "2150", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Jozef Reusenslei"
-    }, 
-    {
-      "busnrs": [
-        "R"
-      ], 
-      "hnrlbls": [
-        "126B-126_2"
-      ], 
-      "housenumber": "126_1", 
-      "lat": 51.19671964389107, 
-      "lon": 4.489557768851269, 
-      "municipality": "Borsbeek", 
-      "pcode": "2150", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Jozef Reusenslei"
-    }, 
-    {
-      "busnrs": [
-        "L"
-      ], 
-      "hnrlbls": [
-        "126B-126_2"
-      ], 
-      "housenumber": "126_2", 
-      "lat": 51.19671964389107, 
-      "lon": 4.489557768851269, 
-      "municipality": "Borsbeek", 
-      "pcode": "2150", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Jozef Reusenslei"
     }, 
     {
@@ -457,33 +412,19 @@
       "street": "Jozef Reusenslei"
     }, 
     {
-      "hnrlbls": [
-        "136"
-      ], 
-      "housenumber": "136", 
-      "lat": 51.19710853882247, 
-      "lon": 4.489680811842225, 
-      "municipality": "Borsbeek", 
-      "pcode": "2150", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Jozef Reusenslei"
-    }, 
-    {
       "apptnrs": [
-        "0.0"
-      ], 
-      "busnrs": [
-        "1"
+        "0001", 
+        "gel0"
       ], 
       "hnrlbls": [
         "137"
       ], 
       "housenumber": "137", 
-      "lat": 51.19749040977545, 
-      "lon": 4.490425439323766, 
+      "lat": 51.19748725054561, 
+      "lon": 4.490424931872661, 
       "municipality": "Borsbeek", 
       "pcode": "2150", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Jozef Reusenslei"
     }, 
     {
@@ -554,7 +495,7 @@
         "2"
       ], 
       "hnrlbls": [
-        "146-146_2"
+        "146"
       ], 
       "housenumber": "146", 
       "lat": 51.19741986437234, 
@@ -562,36 +503,6 @@
       "municipality": "Borsbeek", 
       "pcode": "2150", 
       "source": "afgeleidVanGebouw", 
-      "street": "Jozef Reusenslei"
-    }, 
-    {
-      "busnrs": [
-        "R"
-      ], 
-      "hnrlbls": [
-        "146-146_2"
-      ], 
-      "housenumber": "146_1", 
-      "lat": 51.19741986437234, 
-      "lon": 4.489802509969595, 
-      "municipality": "Borsbeek", 
-      "pcode": "2150", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Jozef Reusenslei"
-    }, 
-    {
-      "busnrs": [
-        "R"
-      ], 
-      "hnrlbls": [
-        "146-146_2"
-      ], 
-      "housenumber": "146_2", 
-      "lat": 51.19741986437234, 
-      "lon": 4.489802509969595, 
-      "municipality": "Borsbeek", 
-      "pcode": "2150", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Jozef Reusenslei"
     }, 
     {
@@ -615,7 +526,8 @@
       ], 
       "busnrs": [
         "1", 
-        "2"
+        "2", 
+        "Agel"
       ], 
       "hnrlbls": [
         "148"
@@ -730,7 +642,9 @@
     }, 
     {
       "busnrs": [
-        "1"
+        "1", 
+        "gelL", 
+        "gelR"
       ], 
       "hnrlbls": [
         "151-153"
@@ -744,7 +658,7 @@
       "street": "Jozef Reusenslei"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "0001", 
         "0002"
       ], 
@@ -757,37 +671,6 @@
       "municipality": "Borsbeek", 
       "pcode": "2150", 
       "source": "manueleAanduidingVanGebouw", 
-      "street": "Jozef Reusenslei"
-    }, 
-    {
-      "busnrs": [
-        "L"
-      ], 
-      "hnrlbls": [
-        "153_1-153_2"
-      ], 
-      "housenumber": "153_1", 
-      "lat": 51.19797383729011, 
-      "lon": 4.490659470282523, 
-      "municipality": "Borsbeek", 
-      "pcode": "2150", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Jozef Reusenslei"
-    }, 
-    {
-      "busnrs": [
-        "L", 
-        "R"
-      ], 
-      "hnrlbls": [
-        "153_1-153_2"
-      ], 
-      "housenumber": "153_2", 
-      "lat": 51.19797383729011, 
-      "lon": 4.490659470282523, 
-      "municipality": "Borsbeek", 
-      "pcode": "2150", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Jozef Reusenslei"
     }, 
     {
@@ -951,10 +834,12 @@
     }, 
     {
       "busnrs": [
-        "2"
+        "2", 
+        "gelL", 
+        "gelR"
       ], 
       "hnrlbls": [
-        "168-168_1"
+        "168"
       ], 
       "housenumber": "168", 
       "lat": 51.19862999985018, 
@@ -962,22 +847,6 @@
       "municipality": "Borsbeek", 
       "pcode": "2150", 
       "source": "afgeleidVanGebouw", 
-      "street": "Jozef Reusenslei"
-    }, 
-    {
-      "busnrs": [
-        "L", 
-        "R"
-      ], 
-      "hnrlbls": [
-        "168-168_1"
-      ], 
-      "housenumber": "168_1", 
-      "lat": 51.19862999985018, 
-      "lon": 4.490395666694437, 
-      "municipality": "Borsbeek", 
-      "pcode": "2150", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Jozef Reusenslei"
     }, 
     {
@@ -1020,18 +889,19 @@
       "street": "Jozef Reusenslei"
     }, 
     {
-      "busnrs": [
-        "2"
+      "apptnrs": [
+        "0001", 
+        "0002"
       ], 
       "hnrlbls": [
-        "2-18"
+        "18"
       ], 
       "housenumber": "18", 
-      "lat": 51.19365821057298, 
-      "lon": 4.4881944032444, 
+      "lat": 51.19363249471499, 
+      "lon": 4.48828276449541, 
       "municipality": "Borsbeek", 
       "pcode": "2150", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Jozef Reusenslei"
     }, 
     {
@@ -1102,11 +972,11 @@
         "19"
       ], 
       "housenumber": "19", 
-      "lat": 51.1934339353613, 
-      "lon": 4.488647719353161, 
+      "lat": 51.193495038612994, 
+      "lon": 4.488583003919592, 
       "municipality": "Borsbeek", 
       "pcode": "2150", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Jozef Reusenslei"
     }, 
     {
@@ -1152,6 +1022,10 @@
       "apptnrs": [
         "0.0"
       ], 
+      "busnrs": [
+        "gelL", 
+        "gelR"
+      ], 
       "hnrlbls": [
         "20"
       ], 
@@ -1164,44 +1038,12 @@
       "street": "Jozef Reusenslei"
     }, 
     {
-      "busnrs": [
-        "L", 
-        "R"
-      ], 
-      "hnrlbls": [
-        "20_1-20_2"
-      ], 
-      "housenumber": "20_1", 
-      "lat": 51.19373553990616, 
-      "lon": 4.488254969313041, 
-      "municipality": "Borsbeek", 
-      "pcode": "2150", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Jozef Reusenslei"
-    }, 
-    {
-      "busnrs": [
-        "L", 
-        "R"
-      ], 
-      "hnrlbls": [
-        "20_1-20_2"
-      ], 
-      "housenumber": "20_2", 
-      "lat": 51.19373553990616, 
-      "lon": 4.488254969313041, 
-      "municipality": "Borsbeek", 
-      "pcode": "2150", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Jozef Reusenslei"
-    }, 
-    {
       "hnrlbls": [
         "21"
       ], 
       "housenumber": "21", 
-      "lat": 51.19348088567995, 
-      "lon": 4.488617943489112, 
+      "lat": 51.19357001739607, 
+      "lon": 4.48862368162023, 
       "municipality": "Borsbeek", 
       "pcode": "2150", 
       "source": "afgeleidVanGebouw", 
@@ -1224,8 +1066,8 @@
         "23"
       ], 
       "housenumber": "23", 
-      "lat": 51.19366275916893, 
-      "lon": 4.4886704834415925, 
+      "lat": 51.19375538727951, 
+      "lon": 4.4887172990925635, 
       "municipality": "Borsbeek", 
       "pcode": "2150", 
       "source": "afgeleidVanGebouw", 
@@ -1272,11 +1114,11 @@
         "29"
       ], 
       "housenumber": "29", 
-      "lat": 51.19380126656632, 
-      "lon": 4.488763680854959, 
+      "lat": 51.19395751208999, 
+      "lon": 4.488730061586445, 
       "municipality": "Borsbeek", 
       "pcode": "2150", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Jozef Reusenslei"
     }, 
     {
@@ -1307,105 +1149,49 @@
       "street": "Jozef Reusenslei"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "R"
+      "apptnrs": [
+        "001L", 
+        "001R", 
+        "002L", 
+        "002R"
       ], 
       "hnrlbls": [
-        "31-35"
+        "31"
       ], 
       "housenumber": "31", 
-      "lat": 51.1939917812815, 
-      "lon": 4.488892060832803, 
+      "lat": 51.1939724776969, 
+      "lon": 4.488862279104984, 
       "municipality": "Borsbeek", 
       "pcode": "2150", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Jozef Reusenslei"
     }, 
     {
-      "busnrs": [
-        "L", 
-        "R"
+      "apptnrs": [
+        "0001", 
+        "0002"
       ], 
       "hnrlbls": [
-        "31_1-31_2"
-      ], 
-      "housenumber": "31_1", 
-      "lat": 51.19403239745427, 
-      "lon": 4.488903610069365, 
-      "municipality": "Borsbeek", 
-      "pcode": "2150", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Jozef Reusenslei"
-    }, 
-    {
-      "busnrs": [
-        "L", 
-        "R"
-      ], 
-      "hnrlbls": [
-        "31_1-31_2"
-      ], 
-      "housenumber": "31_2", 
-      "lat": 51.19403239745427, 
-      "lon": 4.488903610069365, 
-      "municipality": "Borsbeek", 
-      "pcode": "2150", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Jozef Reusenslei"
-    }, 
-    {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "31-35"
+        "33"
       ], 
       "housenumber": "33", 
-      "lat": 51.1939917812815, 
-      "lon": 4.488892060832803, 
+      "lat": 51.19403159531648, 
+      "lon": 4.488888467429361, 
       "municipality": "Borsbeek", 
       "pcode": "2150", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Jozef Reusenslei"
-    }, 
-    {
-      "busnrs": [
-        "L"
-      ], 
-      "hnrlbls": [
-        "33_2"
-      ], 
-      "housenumber": "33_2", 
-      "lat": 51.19395116496075, 
-      "lon": 4.48888065466628, 
-      "municipality": "Borsbeek", 
-      "pcode": "2150", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Jozef Reusenslei"
     }, 
     {
       "hnrlbls": [
-        "34"
-      ], 
-      "housenumber": "34", 
-      "lat": 51.194094780959205, 
-      "lon": 4.488371765913541, 
-      "municipality": "Borsbeek", 
-      "pcode": "2150", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Jozef Reusenslei"
-    }, 
-    {
-      "hnrlbls": [
-        "31-35"
+        "35"
       ], 
       "housenumber": "35", 
-      "lat": 51.1939917812815, 
-      "lon": 4.488892060832803, 
+      "lat": 51.194079389485175, 
+      "lon": 4.488912623774155, 
       "municipality": "Borsbeek", 
       "pcode": "2150", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Jozef Reusenslei"
     }, 
     {
@@ -1566,11 +1352,9 @@
     }, 
     {
       "apptnrs": [
-        "0.0"
-      ], 
-      "busnrs": [
-        "1", 
-        "2"
+        "0001", 
+        "0002", 
+        "gel0"
       ], 
       "hnrlbls": [
         "5"
@@ -1687,8 +1471,8 @@
         "59"
       ], 
       "housenumber": "59", 
-      "lat": 51.194699234982195, 
-      "lon": 4.489185148196009, 
+      "lat": 51.194679105265486, 
+      "lon": 4.489170385713874, 
       "municipality": "Borsbeek", 
       "pcode": "2150", 
       "source": "afgeleidVanGebouw", 
@@ -1720,11 +1504,11 @@
     }, 
     {
       "hnrlbls": [
-        "62-64"
+        "62"
       ], 
       "housenumber": "62", 
-      "lat": 51.194930049762085, 
-      "lon": 4.488843277815837, 
+      "lat": 51.194908845188635, 
+      "lon": 4.488853491058297, 
       "municipality": "Borsbeek", 
       "pcode": "2150", 
       "source": "afgeleidVanGebouw", 
@@ -1735,10 +1519,11 @@
         "0.0"
       ], 
       "busnrs": [
-        "2"
+        "2", 
+        "Agel"
       ], 
       "hnrlbls": [
-        "63-63_2"
+        "63"
       ], 
       "housenumber": "63", 
       "lat": 51.19481989419344, 
@@ -1749,59 +1534,12 @@
       "street": "Jozef Reusenslei"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
       "hnrlbls": [
-        "63-63_2"
-      ], 
-      "housenumber": "63A", 
-      "lat": 51.19481989419344, 
-      "lon": 4.489239964638087, 
-      "municipality": "Borsbeek", 
-      "pcode": "2150", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Jozef Reusenslei"
-    }, 
-    {
-      "busnrs": [
-        "L", 
-        "R"
-      ], 
-      "hnrlbls": [
-        "63-63_2"
-      ], 
-      "housenumber": "63_1", 
-      "lat": 51.19481989419344, 
-      "lon": 4.489239964638087, 
-      "municipality": "Borsbeek", 
-      "pcode": "2150", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Jozef Reusenslei"
-    }, 
-    {
-      "busnrs": [
-        "R"
-      ], 
-      "hnrlbls": [
-        "63-63_2"
-      ], 
-      "housenumber": "63_2", 
-      "lat": 51.19481989419344, 
-      "lon": 4.489239964638087, 
-      "municipality": "Borsbeek", 
-      "pcode": "2150", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Jozef Reusenslei"
-    }, 
-    {
-      "hnrlbls": [
-        "62-64"
+        "64"
       ], 
       "housenumber": "64", 
-      "lat": 51.194930049762085, 
-      "lon": 4.488843277815837, 
+      "lat": 51.1949511831813, 
+      "lon": 4.488833032685186, 
       "municipality": "Borsbeek", 
       "pcode": "2150", 
       "source": "afgeleidVanGebouw", 
@@ -1809,11 +1547,11 @@
     }, 
     {
       "hnrlbls": [
-        "66-68"
+        "66"
       ], 
       "housenumber": "66", 
-      "lat": 51.195021005274725, 
-      "lon": 4.4888510951317855, 
+      "lat": 51.195001505930904, 
+      "lon": 4.4888287783034055, 
       "municipality": "Borsbeek", 
       "pcode": "2150", 
       "source": "afgeleidVanGebouw", 
@@ -1833,11 +1571,11 @@
     }, 
     {
       "hnrlbls": [
-        "66-68"
+        "68"
       ], 
       "housenumber": "68", 
-      "lat": 51.195021005274725, 
-      "lon": 4.4888510951317855, 
+      "lat": 51.1950404875758, 
+      "lon": 4.488873318888781, 
       "municipality": "Borsbeek", 
       "pcode": "2150", 
       "source": "afgeleidVanGebouw", 
@@ -2061,11 +1799,11 @@
     }, 
     {
       "hnrlbls": [
-        "90-90B"
+        "90"
       ], 
       "housenumber": "90", 
-      "lat": 51.19553247538853, 
-      "lon": 4.489090034001677, 
+      "lat": 51.19551073027455, 
+      "lon": 4.48907298323427, 
       "municipality": "Borsbeek", 
       "pcode": "2150", 
       "source": "afgeleidVanGebouw", 
@@ -2076,7 +1814,7 @@
         "1"
       ], 
       "hnrlbls": [
-        "90-90B"
+        "90B"
       ], 
       "housenumber": "90B", 
       "lat": 51.19553247538853, 
@@ -2091,8 +1829,8 @@
         "91"
       ], 
       "housenumber": "91", 
-      "lat": 51.19580725278896, 
-      "lon": 4.489790719864581, 
+      "lat": 51.19584046802621, 
+      "lon": 4.489692987239614, 
       "municipality": "Borsbeek", 
       "pcode": "2150", 
       "source": "afgeleidVanGebouw", 
@@ -2139,8 +1877,8 @@
         "95"
       ], 
       "housenumber": "95", 
-      "lat": 51.195990188858495, 
-      "lon": 4.48968361865789, 
+      "lat": 51.19596553742502, 
+      "lon": 4.489691038675558, 
       "municipality": "Borsbeek", 
       "pcode": "2150", 
       "source": "afgeleidVanGebouw", 

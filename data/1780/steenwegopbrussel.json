@@ -233,18 +233,15 @@
       "street": "Steenweg op Brussel"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
-        "12-14"
+        "12"
       ], 
       "housenumber": "12", 
-      "lat": 50.907332667953206, 
-      "lon": 4.3068142804829534, 
+      "lat": 50.90732073720819, 
+      "lon": 4.306690175746754, 
       "municipality": "Wemmel", 
       "pcode": "1780", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Steenweg op Brussel"
     }, 
     {
@@ -333,7 +330,8 @@
     }, 
     {
       "busnrs": [
-        "1"
+        "1", 
+        "2"
       ], 
       "hnrlbls": [
         "127"
@@ -474,7 +472,8 @@
     }, 
     {
       "busnrs": [
-        "1"
+        "1", 
+        "2"
       ], 
       "hnrlbls": [
         "138"
@@ -497,23 +496,29 @@
         "139"
       ], 
       "housenumber": "139", 
-      "lat": 50.90319891746002, 
-      "lon": 4.305805188823004, 
+      "lat": 50.903230776517596, 
+      "lon": 4.305735703419924, 
       "municipality": "Wemmel", 
       "pcode": "1780", 
       "source": "afgeleidVanGebouw", 
       "street": "Steenweg op Brussel"
     }, 
     {
+      "apptnrs": [
+        "1A", 
+        "1B", 
+        "2A", 
+        "2B"
+      ], 
       "hnrlbls": [
-        "12-14"
+        "14"
       ], 
       "housenumber": "14", 
-      "lat": 50.907332667953206, 
-      "lon": 4.3068142804829534, 
+      "lat": 50.907254938727945, 
+      "lon": 4.306712162706068, 
       "municipality": "Wemmel", 
       "pcode": "1780", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Steenweg op Brussel"
     }, 
     {
@@ -536,11 +541,11 @@
         "145"
       ], 
       "housenumber": "145", 
-      "lat": 50.903098314765934, 
-      "lon": 4.305613969527565, 
+      "lat": 50.903166944490735, 
+      "lon": 4.305874587457461, 
       "municipality": "Wemmel", 
       "pcode": "1780", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Steenweg op Brussel"
     }, 
     {
@@ -560,23 +565,11 @@
         "C"
       ], 
       "hnrlbls": [
-        "88-149C"
+        "88-149"
       ], 
       "housenumber": "149", 
-      "lat": 50.90281315559717, 
-      "lon": 4.3062627547093175, 
-      "municipality": "Wemmel", 
-      "pcode": "1780", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Steenweg op Brussel"
-    }, 
-    {
-      "hnrlbls": [
-        "88-149C"
-      ], 
-      "housenumber": "149C", 
-      "lat": 50.90281315559717, 
-      "lon": 4.3062627547093175, 
+      "lat": 50.902827106690076, 
+      "lon": 4.3062961446844445, 
       "municipality": "Wemmel", 
       "pcode": "1780", 
       "source": "afgeleidVanGebouw", 
@@ -599,14 +592,15 @@
         "2 3"
       ], 
       "busnrs": [
-        "1"
+        "1", 
+        "2"
       ], 
       "hnrlbls": [
         "150"
       ], 
       "housenumber": "150", 
-      "lat": 50.90401697954295, 
-      "lon": 4.305018064106174, 
+      "lat": 50.90401491634013, 
+      "lon": 4.305026170380846, 
       "municipality": "Wemmel", 
       "pcode": "1780", 
       "source": "afgeleidVanGebouw", 
@@ -1313,8 +1307,8 @@
         "254"
       ], 
       "housenumber": "254", 
-      "lat": 50.900086833824375, 
-      "lon": 4.309911051031128, 
+      "lat": 50.900086860877146, 
+      "lon": 4.309910982085681, 
       "municipality": "Wemmel", 
       "pcode": "1780", 
       "source": "afgeleidVanGebouw", 
@@ -1660,11 +1654,11 @@
         "282"
       ], 
       "housenumber": "282", 
-      "lat": 50.899434494212585, 
-      "lon": 4.310681758838688, 
+      "lat": 50.899264183661174, 
+      "lon": 4.310413891301895, 
       "municipality": "Wemmel", 
       "pcode": "1780", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Steenweg op Brussel"
     }, 
     {
@@ -1694,6 +1688,30 @@
       "municipality": "Wemmel", 
       "pcode": "1780", 
       "source": "afgeleidVanGebouw", 
+      "street": "Steenweg op Brussel"
+    }, 
+    {
+      "hnrlbls": [
+        "285-287"
+      ], 
+      "housenumber": "285", 
+      "lat": 50.89860483270455, 
+      "lon": 4.310433725289797, 
+      "municipality": "Wemmel", 
+      "pcode": "1780", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Steenweg op Brussel"
+    }, 
+    {
+      "hnrlbls": [
+        "285-287"
+      ], 
+      "housenumber": "287", 
+      "lat": 50.89860483270455, 
+      "lon": 4.310433725289797, 
+      "municipality": "Wemmel", 
+      "pcode": "1780", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Steenweg op Brussel"
     }, 
     {
@@ -1800,8 +1818,8 @@
         "301"
       ], 
       "housenumber": "301", 
-      "lat": 50.898212943631286, 
-      "lon": 4.310531578432546, 
+      "lat": 50.89826313189847, 
+      "lon": 4.310665852972021, 
       "municipality": "Wemmel", 
       "pcode": "1780", 
       "source": "afgeleidVanGebouw", 
@@ -1833,8 +1851,8 @@
         "303"
       ], 
       "housenumber": "303", 
-      "lat": 50.89819093017231, 
-      "lon": 4.310553069917629, 
+      "lat": 50.89821923672139, 
+      "lon": 4.31070877759212, 
       "municipality": "Wemmel", 
       "pcode": "1780", 
       "source": "afgeleidVanGebouw", 
@@ -2129,7 +2147,7 @@
       "street": "Steenweg op Brussel"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3"
@@ -2225,11 +2243,11 @@
         "337"
       ], 
       "housenumber": "337", 
-      "lat": 50.89736467335093, 
-      "lon": 4.311203976103406, 
+      "lat": 50.89737570049168, 
+      "lon": 4.311328198905384, 
       "municipality": "Wemmel", 
       "pcode": "1780", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Steenweg op Brussel"
     }, 
     {
@@ -2257,6 +2275,22 @@
       "street": "Steenweg op Brussel"
     }, 
     {
+      "apptnrs": [
+        "0", 
+        "1"
+      ], 
+      "hnrlbls": [
+        "34"
+      ], 
+      "housenumber": "34", 
+      "lat": 50.90675025360104, 
+      "lon": 4.30717204178708, 
+      "municipality": "Wemmel", 
+      "pcode": "1780", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Steenweg op Brussel"
+    }, 
+    {
       "hnrlbls": [
         "340"
       ], 
@@ -2273,11 +2307,11 @@
         "341"
       ], 
       "housenumber": "341", 
-      "lat": 50.89722354749582, 
-      "lon": 4.3114054259636845, 
+      "lat": 50.897278280126436, 
+      "lon": 4.311379062852507, 
       "municipality": "Wemmel", 
       "pcode": "1780", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Steenweg op Brussel"
     }, 
     {
@@ -2297,11 +2331,11 @@
         "343"
       ], 
       "housenumber": "343", 
-      "lat": 50.89727305853043, 
-      "lon": 4.31136300662167, 
+      "lat": 50.8972271486661, 
+      "lon": 4.311416651166803, 
       "municipality": "Wemmel", 
       "pcode": "1780", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Steenweg op Brussel"
     }, 
     {
@@ -2321,11 +2355,11 @@
         "345"
       ], 
       "housenumber": "345", 
-      "lat": 50.89716597018758, 
-      "lon": 4.311498032477607, 
+      "lat": 50.89717721218519, 
+      "lon": 4.311508964179646, 
       "municipality": "Wemmel", 
       "pcode": "1780", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Steenweg op Brussel"
     }, 
     {
@@ -2345,20 +2379,20 @@
         "347"
       ], 
       "housenumber": "347", 
-      "lat": 50.897083527502666, 
-      "lon": 4.311477236363725, 
+      "lat": 50.89716058724046, 
+      "lon": 4.311520213734534, 
       "municipality": "Wemmel", 
       "pcode": "1780", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Steenweg op Brussel"
     }, 
     {
       "hnrlbls": [
-        "348-350"
+        "348"
       ], 
       "housenumber": "348", 
-      "lat": 50.89738154289588, 
-      "lon": 4.311700047475263, 
+      "lat": 50.8974085596245, 
+      "lon": 4.311697848361195, 
       "municipality": "Wemmel", 
       "pcode": "1780", 
       "source": "afgeleidVanGebouw", 
@@ -2369,11 +2403,47 @@
         "349"
       ], 
       "housenumber": "349", 
-      "lat": 50.89703543890726, 
-      "lon": 4.311486818067751, 
+      "lat": 50.89708920156563, 
+      "lon": 4.311499546410886, 
       "municipality": "Wemmel", 
       "pcode": "1780", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Steenweg op Brussel"
+    }, 
+    {
+      "hnrlbls": [
+        "34A"
+      ], 
+      "housenumber": "34A", 
+      "lat": 50.9068014478154, 
+      "lon": 4.307258417894765, 
+      "municipality": "Wemmel", 
+      "pcode": "1780", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Steenweg op Brussel"
+    }, 
+    {
+      "hnrlbls": [
+        "34B"
+      ], 
+      "housenumber": "34B", 
+      "lat": 50.90683240334624, 
+      "lon": 4.307320508394878, 
+      "municipality": "Wemmel", 
+      "pcode": "1780", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Steenweg op Brussel"
+    }, 
+    {
+      "hnrlbls": [
+        "34C"
+      ], 
+      "housenumber": "34C", 
+      "lat": 50.90686102161194, 
+      "lon": 4.30738260199778, 
+      "municipality": "Wemmel", 
+      "pcode": "1780", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Steenweg op Brussel"
     }, 
     {
@@ -2393,11 +2463,11 @@
         "1"
       ], 
       "hnrlbls": [
-        "348-350"
+        "350"
       ], 
       "housenumber": "350", 
-      "lat": 50.89738154289588, 
-      "lon": 4.311700047475263, 
+      "lat": 50.897354485818674, 
+      "lon": 4.311702070003971, 
       "municipality": "Wemmel", 
       "pcode": "1780", 
       "source": "afgeleidVanGebouw", 
@@ -2408,11 +2478,11 @@
         "351"
       ], 
       "housenumber": "351", 
-      "lat": 50.89695003314743, 
-      "lon": 4.3114731328697475, 
+      "lat": 50.89704642300118, 
+      "lon": 4.311522199096207, 
       "municipality": "Wemmel", 
       "pcode": "1780", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Steenweg op Brussel"
     }, 
     {
@@ -2444,14 +2514,14 @@
         "1"
       ], 
       "hnrlbls": [
-        "356-358"
+        "356"
       ], 
       "housenumber": "356", 
-      "lat": 50.897127743606475, 
-      "lon": 4.311827146234423, 
+      "lat": 50.89713538923367, 
+      "lon": 4.311741969748916, 
       "municipality": "Wemmel", 
       "pcode": "1780", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Steenweg op Brussel"
     }, 
     {
@@ -2472,14 +2542,14 @@
         "2"
       ], 
       "hnrlbls": [
-        "356-358"
+        "358"
       ], 
       "housenumber": "358", 
-      "lat": 50.897127743606475, 
-      "lon": 4.311827146234423, 
+      "lat": 50.89707172837559, 
+      "lon": 4.311783837026187, 
       "municipality": "Wemmel", 
       "pcode": "1780", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Steenweg op Brussel"
     }, 
     {
@@ -2489,18 +2559,6 @@
       "housenumber": "359", 
       "lat": 50.89679380001064, 
       "lon": 4.311664932432055, 
-      "municipality": "Wemmel", 
-      "pcode": "1780", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Steenweg op Brussel"
-    }, 
-    {
-      "hnrlbls": [
-        "36"
-      ], 
-      "housenumber": "36", 
-      "lat": 50.906872434764495, 
-      "lon": 4.307550354205973, 
       "municipality": "Wemmel", 
       "pcode": "1780", 
       "source": "afgeleidVanGebouw", 
@@ -2615,6 +2673,90 @@
       "street": "Steenweg op Brussel"
     }, 
     {
+      "hnrlbls": [
+        "36A"
+      ], 
+      "housenumber": "36A", 
+      "lat": 50.90690213280173, 
+      "lon": 4.3076147214191085, 
+      "municipality": "Wemmel", 
+      "pcode": "1780", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Steenweg op Brussel"
+    }, 
+    {
+      "hnrlbls": [
+        "36B"
+      ], 
+      "housenumber": "36B", 
+      "lat": 50.906929132754456, 
+      "lon": 4.3076766751993745, 
+      "municipality": "Wemmel", 
+      "pcode": "1780", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Steenweg op Brussel"
+    }, 
+    {
+      "hnrlbls": [
+        "36C"
+      ], 
+      "housenumber": "36C", 
+      "lat": 50.90695172409305, 
+      "lon": 4.307731241582903, 
+      "municipality": "Wemmel", 
+      "pcode": "1780", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Steenweg op Brussel"
+    }, 
+    {
+      "hnrlbls": [
+        "36D"
+      ], 
+      "housenumber": "36D", 
+      "lat": 50.9069779111476, 
+      "lon": 4.307785803402273, 
+      "municipality": "Wemmel", 
+      "pcode": "1780", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Steenweg op Brussel"
+    }, 
+    {
+      "hnrlbls": [
+        "36E"
+      ], 
+      "housenumber": "36E", 
+      "lat": 50.907015974693444, 
+      "lon": 4.30786096554214, 
+      "municipality": "Wemmel", 
+      "pcode": "1780", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Steenweg op Brussel"
+    }, 
+    {
+      "hnrlbls": [
+        "36F"
+      ], 
+      "housenumber": "36F", 
+      "lat": 50.90691425541391, 
+      "lon": 4.307939576864155, 
+      "municipality": "Wemmel", 
+      "pcode": "1780", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Steenweg op Brussel"
+    }, 
+    {
+      "hnrlbls": [
+        "36G"
+      ], 
+      "housenumber": "36G", 
+      "lat": 50.906873831259034, 
+      "lon": 4.3079942239843705, 
+      "municipality": "Wemmel", 
+      "pcode": "1780", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Steenweg op Brussel"
+    }, 
+    {
       "busnrs": [
         "1", 
         "2"
@@ -2635,11 +2777,11 @@
         "38"
       ], 
       "housenumber": "38", 
-      "lat": 50.906722573580225, 
-      "lon": 4.307359606428795, 
+      "lat": 50.9066820757406, 
+      "lon": 4.307271226058503, 
       "municipality": "Wemmel", 
       "pcode": "1780", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Steenweg op Brussel"
     }, 
     {
@@ -2892,18 +3034,6 @@
     }, 
     {
       "hnrlbls": [
-        "59"
-      ], 
-      "housenumber": "59", 
-      "lat": 50.90600898079313, 
-      "lon": 4.306634879243955, 
-      "municipality": "Wemmel", 
-      "pcode": "1780", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Steenweg op Brussel"
-    }, 
-    {
-      "hnrlbls": [
         "60"
       ], 
       "housenumber": "60", 
@@ -3055,8 +3185,8 @@
         "71"
       ], 
       "housenumber": "71", 
-      "lat": 50.90557163420053, 
-      "lon": 4.306094773437832, 
+      "lat": 50.90550670429259, 
+      "lon": 4.3061208374766435, 
       "municipality": "Wemmel", 
       "pcode": "1780", 
       "source": "afgeleidVanGebouw", 
@@ -3064,14 +3194,14 @@
     }, 
     {
       "hnrlbls": [
-        "72-74"
+        "72"
       ], 
       "housenumber": "72", 
-      "lat": 50.90567104810648, 
-      "lon": 4.307109179848845, 
+      "lat": 50.90573663922875, 
+      "lon": 4.307065612651518, 
       "municipality": "Wemmel", 
       "pcode": "1780", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Steenweg op Brussel"
     }, 
     {
@@ -3091,14 +3221,14 @@
         "1"
       ], 
       "hnrlbls": [
-        "72-74"
+        "74"
       ], 
       "housenumber": "74", 
-      "lat": 50.90567104810648, 
-      "lon": 4.307109179848845, 
+      "lat": 50.905713963250726, 
+      "lon": 4.307021853085659, 
       "municipality": "Wemmel", 
       "pcode": "1780", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Steenweg op Brussel"
     }, 
     {

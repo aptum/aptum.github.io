@@ -54,10 +54,17 @@
     {
       "busnrs": [
         "1", 
+        "10", 
+        "11", 
         "12", 
-        "15", 
         "2", 
-        "7"
+        "3", 
+        "4", 
+        "5", 
+        "6", 
+        "7", 
+        "8", 
+        "9"
       ], 
       "hnrlbls": [
         "9-15"
@@ -96,11 +103,11 @@
     }, 
     {
       "hnrlbls": [
-        "16-18"
+        "16"
       ], 
       "housenumber": "16", 
-      "lat": 51.220511038319245, 
-      "lon": 4.405152167364814, 
+      "lat": 51.220511000898775, 
+      "lon": 4.40515220580774, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
@@ -119,18 +126,6 @@
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanPerceelGrb", 
-      "street": "Sint-Katelijnevest"
-    }, 
-    {
-      "hnrlbls": [
-        "16-18"
-      ], 
-      "housenumber": "18", 
-      "lat": 51.220511038319245, 
-      "lon": 4.405152167364814, 
-      "municipality": "Antwerpen", 
-      "pcode": "2000", 
-      "source": "afgeleidVanGebouw", 
       "street": "Sint-Katelijnevest"
     }, 
     {
@@ -158,12 +153,18 @@
       "street": "Sint-Katelijnevest"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "102", 
+        "103", 
+        "104"
+      ], 
       "hnrlbls": [
         "20-24"
       ], 
       "housenumber": "20", 
-      "lat": 51.22040650154157, 
-      "lon": 4.405157952588387, 
+      "lat": 51.220406493334224, 
+      "lon": 4.405157919768727, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
@@ -176,30 +177,6 @@
       "housenumber": "21", 
       "lat": 51.22059011936819, 
       "lon": 4.405490594002404, 
-      "municipality": "Antwerpen", 
-      "pcode": "2000", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Sint-Katelijnevest"
-    }, 
-    {
-      "hnrlbls": [
-        "80-214"
-      ], 
-      "housenumber": "214", 
-      "lat": 51.219584333532346, 
-      "lon": 4.4051577278438945, 
-      "municipality": "Antwerpen", 
-      "pcode": "2000", 
-      "source": "afgeleidVanStraat", 
-      "street": "Sint-Katelijnevest"
-    }, 
-    {
-      "hnrlbls": [
-        "20-24"
-      ], 
-      "housenumber": "22", 
-      "lat": 51.22040650154157, 
-      "lon": 4.405157952588387, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
@@ -222,8 +199,8 @@
         "20-24"
       ], 
       "housenumber": "24", 
-      "lat": 51.22040650154157, 
-      "lon": 4.405157952588387, 
+      "lat": 51.220406493334224, 
+      "lon": 4.405157919768727, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
@@ -314,11 +291,11 @@
         "30"
       ], 
       "housenumber": "30", 
-      "lat": 51.22008803808065, 
-      "lon": 4.405173300415899, 
+      "lat": 51.21994800748107, 
+      "lon": 4.405146137408364, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sint-Katelijnevest"
     }, 
     {
@@ -407,7 +384,7 @@
         "9"
       ], 
       "hnrlbls": [
-        "37-37_7"
+        "37"
       ], 
       "housenumber": "37", 
       "lat": 51.220289031908116, 
@@ -418,36 +395,27 @@
       "street": "Sint-Katelijnevest"
     }, 
     {
-      "busnrs": [
-        "2", 
-        "3", 
-        "4", 
-        "9"
-      ], 
       "hnrlbls": [
-        "37-37_7"
+        "37A-37_7"
       ], 
       "housenumber": "37A", 
-      "lat": 51.220289031908116, 
-      "lon": 4.40541606734241, 
+      "lat": 51.220209078850985, 
+      "lon": 4.405431657491069, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sint-Katelijnevest"
     }, 
     {
-      "busnrs": [
-        "A"
-      ], 
       "hnrlbls": [
-        "37-37_7"
+        "37A-37_7"
       ], 
       "housenumber": "37_7", 
-      "lat": 51.220289031908116, 
-      "lon": 4.40541606734241, 
+      "lat": 51.220209078850985, 
+      "lon": 4.405431657491069, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sint-Katelijnevest"
     }, 
     {
@@ -505,7 +473,7 @@
     }, 
     {
       "hnrlbls": [
-        "41-41A"
+        "41"
       ], 
       "housenumber": "41", 
       "lat": 51.2201281212616, 
@@ -517,14 +485,14 @@
     }, 
     {
       "hnrlbls": [
-        "41-41A"
+        "41A"
       ], 
       "housenumber": "41A", 
-      "lat": 51.2201281212616, 
-      "lon": 4.405474478779561, 
+      "lat": 51.22012387282121, 
+      "lon": 4.405419295725835, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sint-Katelijnevest"
     }, 
     {
@@ -554,6 +522,7 @@
     {
       "busnrs": [
         "2", 
+        "3", 
         "4"
       ], 
       "hnrlbls": [
@@ -653,11 +622,11 @@
         "50"
       ], 
       "housenumber": "50", 
-      "lat": 51.2194277540721, 
-      "lon": 4.405163042143098, 
+      "lat": 51.219513874072966, 
+      "lon": 4.405127328530705, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "geinterpoleerdObvWegverbinding", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sint-Katelijnevest"
     }, 
     {
@@ -674,14 +643,14 @@
     }, 
     {
       "hnrlbls": [
-        "52"
+        "52-66"
       ], 
       "housenumber": "52", 
-      "lat": 51.21942613400569, 
-      "lon": 4.405169911011965, 
+      "lat": 51.219168592087335, 
+      "lon": 4.404960883019335, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "geinterpoleerdObvWegverbinding", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sint-Katelijnevest"
     }, 
     {
@@ -697,44 +666,27 @@
       "street": "Sint-Katelijnevest"
     }, 
     {
-      "busnrs": [
-        "10", 
-        "11", 
-        "13", 
-        "14", 
-        "15", 
-        "16", 
-        "21", 
-        "24", 
-        "31", 
-        "5", 
-        "7", 
-        "8"
-      ], 
       "hnrlbls": [
         "54-54B"
       ], 
       "housenumber": "54", 
-      "lat": 51.219339490593235, 
-      "lon": 4.405154956740513, 
+      "lat": 51.21919394666182, 
+      "lon": 4.404888447610427, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "geinterpoleerdObvWegverbinding", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sint-Katelijnevest"
     }, 
     {
-      "busnrs": [
-        "5"
-      ], 
       "hnrlbls": [
         "54-54B"
       ], 
       "housenumber": "54B", 
-      "lat": 51.219339490593235, 
-      "lon": 4.405154956740513, 
+      "lat": 51.21919394666182, 
+      "lon": 4.404888447610427, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "geinterpoleerdObvWegverbinding", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sint-Katelijnevest"
     }, 
     {
@@ -765,19 +717,15 @@
       "street": "Sint-Katelijnevest"
     }, 
     {
-      "busnrs": [
-        "6", 
-        "62"
-      ], 
       "hnrlbls": [
-        "58"
+        "52-66"
       ], 
       "housenumber": "58", 
-      "lat": 51.21916611391476, 
-      "lon": 4.405124905165424, 
+      "lat": 51.219168592087335, 
+      "lon": 4.404960883019335, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "geinterpoleerdObvWegverbinding", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sint-Katelijnevest"
     }, 
     {
@@ -806,14 +754,14 @@
     }, 
     {
       "hnrlbls": [
-        "60"
+        "52-66"
       ], 
       "housenumber": "60", 
-      "lat": 51.21907947048776, 
-      "lon": 4.405109951060991, 
+      "lat": 51.219168592087335, 
+      "lon": 4.404960883019335, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "geinterpoleerdObvWegverbinding", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sint-Katelijnevest"
     }, 
     {
@@ -850,14 +798,14 @@
     }, 
     {
       "hnrlbls": [
-        "62"
+        "52-66"
       ], 
       "housenumber": "62", 
-      "lat": 51.21899282710078, 
-      "lon": 4.405094853885205, 
+      "lat": 51.219168592087335, 
+      "lon": 4.404960883019335, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "geinterpoleerdObvWegverbinding", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sint-Katelijnevest"
     }, 
     {
@@ -874,26 +822,26 @@
     }, 
     {
       "hnrlbls": [
-        "64"
+        "52-66"
       ], 
       "housenumber": "64", 
-      "lat": 51.218906093780205, 
-      "lon": 4.405079899820826, 
+      "lat": 51.219168592087335, 
+      "lon": 4.404960883019335, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "geinterpoleerdObvWegverbinding", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sint-Katelijnevest"
     }, 
     {
       "hnrlbls": [
-        "66"
+        "52-66"
       ], 
       "housenumber": "66", 
-      "lat": 51.21890483872116, 
-      "lon": 4.405069307449238, 
+      "lat": 51.219168592087335, 
+      "lon": 4.404960883019335, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "geinterpoleerdObvWegverbinding", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sint-Katelijnevest"
     }, 
     {
@@ -901,7 +849,6 @@
         "21", 
         "22", 
         "23", 
-        "3", 
         "31", 
         "32", 
         "33", 
@@ -927,14 +874,14 @@
     }, 
     {
       "hnrlbls": [
-        "68"
+        "68-74"
       ], 
       "housenumber": "68", 
-      "lat": 51.21882484776344, 
-      "lon": 4.405050923775168, 
+      "lat": 51.21882822195316, 
+      "lon": 4.40489563424711, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "geinterpoleerdObvWegverbinding", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sint-Katelijnevest"
     }, 
     {
@@ -951,50 +898,38 @@
     }, 
     {
       "hnrlbls": [
-        "70"
+        "68-74"
       ], 
       "housenumber": "70", 
-      "lat": 51.218744856755585, 
-      "lon": 4.405032683290334, 
+      "lat": 51.21882822195316, 
+      "lon": 4.40489563424711, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "geinterpoleerdObvWegverbinding", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sint-Katelijnevest"
     }, 
     {
       "hnrlbls": [
-        "72"
+        "68-74"
       ], 
       "housenumber": "72", 
-      "lat": 51.21866486578716, 
-      "lon": 4.405014299742162, 
+      "lat": 51.21882822195316, 
+      "lon": 4.40489563424711, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "geinterpoleerdObvWegverbinding", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sint-Katelijnevest"
     }, 
     {
       "hnrlbls": [
-        "74"
+        "68-74"
       ], 
       "housenumber": "74", 
-      "lat": 51.21858487481337, 
-      "lon": 4.404995916257064, 
+      "lat": 51.21882822195316, 
+      "lon": 4.40489563424711, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "geinterpoleerdObvWegverbinding", 
-      "street": "Sint-Katelijnevest"
-    }, 
-    {
-      "hnrlbls": [
-        "76"
-      ], 
-      "housenumber": "76", 
-      "lat": 51.21850488378952, 
-      "lon": 4.4049776759604695, 
-      "municipality": "Antwerpen", 
-      "pcode": "2000", 
-      "source": "geinterpoleerdObvWegverbinding", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sint-Katelijnevest"
     }, 
     {
@@ -1002,23 +937,11 @@
         "8"
       ], 
       "housenumber": "8", 
-      "lat": 51.220728018452824, 
-      "lon": 4.40515076552012, 
+      "lat": 51.220722645609335, 
+      "lon": 4.405086351724093, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Sint-Katelijnevest"
-    }, 
-    {
-      "hnrlbls": [
-        "80-214"
-      ], 
-      "housenumber": "80", 
-      "lat": 51.219584333532346, 
-      "lon": 4.4051577278438945, 
-      "municipality": "Antwerpen", 
-      "pcode": "2000", 
-      "source": "afgeleidVanStraat", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sint-Katelijnevest"
     }, 
     {

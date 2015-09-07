@@ -1,11 +1,15 @@
 {
   "addresses": [
     {
-      "busnrs": [
+      "apptnrs": [
+        "101", 
+        "102", 
         "201", 
+        "202", 
         "301", 
         "302", 
         "401", 
+        "402", 
         "501", 
         "601"
       ], 
@@ -17,7 +21,7 @@
       "lon": 2.6323184767039827, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Jacob Jordaensstraat"
     }, 
     {
@@ -29,104 +33,108 @@
       "lon": 2.63250855040676, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Jacob Jordaensstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
+        "0101", 
+        "0102", 
+        "0202", 
+        "0204", 
+        "0301", 
+        "0302", 
+        "0303", 
+        "0401", 
+        "0402", 
+        "0403", 
+        "0404", 
+        "0501", 
+        "0502", 
+        "0504", 
+        "1", 
+        "201", 
+        "203", 
+        "304", 
+        "503"
+      ], 
+      "hnrlbls": [
+        "2-170"
+      ], 
+      "housenumber": "2", 
+      "lat": 51.11983555345828, 
+      "lon": 2.6326896435058025, 
+      "municipality": "Koksijde", 
+      "pcode": "8670", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Jacob Jordaensstraat"
+    }, 
+    {
+      "apptnrs": [
+        "001", 
+        "002", 
         "101", 
         "102", 
         "201", 
         "202", 
-        "203", 
-        "204", 
         "301", 
         "302", 
-        "303", 
-        "304", 
-        "401", 
-        "402", 
-        "403", 
-        "404", 
-        "501", 
-        "502", 
-        "503", 
-        "504"
+        "GV02"
       ], 
-      "hnrlbls": [
-        "2"
-      ], 
-      "housenumber": "2", 
-      "lat": 51.11986139472695, 
-      "lon": 2.6326676829397675, 
-      "municipality": "Koksijde", 
-      "pcode": "8670", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Jacob Jordaensstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "8-285"
-      ], 
-      "housenumber": "283", 
-      "lat": 51.12013787012776, 
-      "lon": 2.63250855040676, 
-      "municipality": "Koksijde", 
-      "pcode": "8670", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Jacob Jordaensstraat"
-    }, 
-    {
       "hnrlbls": [
         "3"
       ], 
       "housenumber": "3", 
-      "lat": 51.11974597732971, 
-      "lon": 2.63221138267581, 
+      "lat": 51.119746054585306, 
+      "lon": 2.63221052263341, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Jacob Jordaensstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
+        "1", 
+        "101", 
         "201", 
+        "301", 
+        "401", 
         "501"
       ], 
       "hnrlbls": [
-        "4"
+        "4-6"
       ], 
       "housenumber": "4", 
-      "lat": 51.119976082932865, 
-      "lon": 2.632585562935485, 
+      "lat": 51.119983543172225, 
+      "lon": 2.6325792855941454, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Jacob Jordaensstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "001", 
         "101", 
         "201", 
-        "301"
+        "301", 
+        "A101", 
+        "B000"
       ], 
       "hnrlbls": [
         "5"
       ], 
       "housenumber": "5", 
-      "lat": 51.119805774423476, 
-      "lon": 2.632114014841647, 
+      "lat": 51.11980631149858, 
+      "lon": 2.6321138520247382, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Jacob Jordaensstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "001", 
-        "101", 
-        "102", 
         "201", 
         "202", 
         "301", 
@@ -140,39 +148,25 @@
       "lon": 2.6320779363875886, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Jacob Jordaensstraat"
     }, 
     {
       "hnrlbls": [
-        "5B"
-      ], 
-      "housenumber": "5B", 
-      "lat": 51.11980631149858, 
-      "lon": 2.6321138520247382, 
-      "municipality": "Koksijde", 
-      "pcode": "8670", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Jacob Jordaensstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "6"
+        "4-6"
       ], 
       "housenumber": "6", 
-      "lat": 51.119976262658355, 
-      "lon": 2.6325855562596874, 
+      "lat": 51.119983543172225, 
+      "lon": 2.6325792855941454, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Jacob Jordaensstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "001", 
         "002", 
-        "003", 
-        "004", 
         "101", 
         "102", 
         "103", 
@@ -188,6 +182,7 @@
         "401", 
         "402", 
         "403", 
+        "404", 
         "501", 
         "502", 
         "503", 
@@ -197,26 +192,49 @@
         "603", 
         "604", 
         "701", 
+        "702", 
         "703", 
-        "704"
+        "704", 
+        "GV01"
       ], 
       "hnrlbls": [
         "7-282"
       ], 
       "housenumber": "7", 
-      "lat": 51.119977740335756, 
-      "lon": 2.6319527623146306, 
+      "lat": 51.11997800782242, 
+      "lon": 2.6319526095126187, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Jacob Jordaensstraat"
     }, 
     {
-      "busnrs": [
-        "3", 
+      "apptnrs": [
+        "001", 
+        "002", 
+        "101", 
+        "102", 
+        "103", 
+        "104", 
+        "201", 
+        "202", 
+        "203", 
+        "204", 
+        "301", 
+        "302", 
+        "303", 
+        "304", 
+        "401", 
+        "402", 
+        "403", 
+        "404", 
+        "501", 
+        "502", 
+        "503", 
         "504", 
-        "6", 
-        "602"
+        "601", 
+        "602", 
+        "603"
       ], 
       "hnrlbls": [
         "8-285"
@@ -226,7 +244,7 @@
       "lon": 2.63250855040676, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Jacob Jordaensstraat"
     }
   ]

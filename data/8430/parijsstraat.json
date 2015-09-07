@@ -2,30 +2,6 @@
   "addresses": [
     {
       "hnrlbls": [
-        "1"
-      ], 
-      "housenumber": "1", 
-      "lat": 51.18637911193918, 
-      "lon": 2.8152003898448847, 
-      "municipality": "Middelkerke", 
-      "pcode": "8430", 
-      "source": "geinterpoleerdObvWegverbinding", 
-      "street": "Parijsstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "10"
-      ], 
-      "housenumber": "10", 
-      "lat": 51.18690316270375, 
-      "lon": 2.8151590567826874, 
-      "municipality": "Middelkerke", 
-      "pcode": "8430", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Parijsstraat"
-    }, 
-    {
-      "hnrlbls": [
         "11"
       ], 
       "housenumber": "11", 
@@ -33,12 +9,15 @@
       "lon": 2.814720393402972, 
       "municipality": "Middelkerke", 
       "pcode": "8430", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Parijsstraat"
     }, 
     {
-      "busnrs": [
-        "301"
+      "apptnrs": [
+        "0101", 
+        "0201", 
+        "0301", 
+        "0401"
       ], 
       "hnrlbls": [
         "12"
@@ -48,7 +27,7 @@
       "lon": 2.8151381674328557, 
       "municipality": "Middelkerke", 
       "pcode": "8430", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Parijsstraat"
     }, 
     {
@@ -56,25 +35,39 @@
         "13"
       ], 
       "housenumber": "13", 
-      "lat": 51.18675104133649, 
-      "lon": 2.814687016991715, 
+      "lat": 51.18675113120189, 
+      "lon": 2.8146870139997304, 
       "municipality": "Middelkerke", 
       "pcode": "8430", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Parijsstraat"
     }, 
     {
-      "busnrs": [
-        "101", 
-        "102", 
-        "103", 
-        "105", 
-        "205", 
-        "303", 
-        "401", 
-        "403", 
-        "404", 
-        "502"
+      "apptnrs": [
+        "0101", 
+        "0102", 
+        "0103", 
+        "0104", 
+        "0105", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0204", 
+        "0205", 
+        "0301", 
+        "0302", 
+        "0303", 
+        "0304", 
+        "0305", 
+        "0306", 
+        "0401", 
+        "0402", 
+        "0403", 
+        "0404", 
+        "0405", 
+        "0501", 
+        "0502", 
+        "0503"
       ], 
       "hnrlbls": [
         "14-16"
@@ -84,7 +77,7 @@
       "lon": 2.8150361520035547, 
       "municipality": "Middelkerke", 
       "pcode": "8430", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Parijsstraat"
     }, 
     {
@@ -96,19 +89,7 @@
       "lon": 2.814673606754232, 
       "municipality": "Middelkerke", 
       "pcode": "8430", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Parijsstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "/zn-154"
-      ], 
-      "housenumber": "154", 
-      "lat": 51.18717716267653, 
-      "lon": 2.8144183245803838, 
-      "municipality": "Middelkerke", 
-      "pcode": "8430", 
-      "source": "afgeleidVanStraat", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Parijsstraat"
     }, 
     {
@@ -120,7 +101,7 @@
       "lon": 2.8150361520035547, 
       "municipality": "Middelkerke", 
       "pcode": "8430", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Parijsstraat"
     }, 
     {
@@ -128,48 +109,84 @@
         "17"
       ], 
       "housenumber": "17", 
-      "lat": 51.186839742877495, 
-      "lon": 2.8146297010834753, 
+      "lat": 51.18683965301211, 
+      "lon": 2.8146297040755766, 
       "municipality": "Middelkerke", 
       "pcode": "8430", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Parijsstraat"
     }, 
     {
       "apptnrs": [
-        "E6"
-      ], 
-      "busnrs": [
-        "1", 
-        "104", 
-        "106", 
-        "201", 
-        "205", 
-        "303", 
-        "307", 
-        "4", 
-        "403", 
-        "405", 
-        "407", 
-        "501", 
-        "504", 
-        "509", 
-        "601", 
-        "602", 
-        "609", 
-        "706", 
-        "707", 
-        "801"
+        "0101", 
+        "0102", 
+        "0103", 
+        "0104", 
+        "0105", 
+        "0106", 
+        "0107", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0204", 
+        "0205", 
+        "0206", 
+        "0207", 
+        "0208", 
+        "0301", 
+        "0302", 
+        "0303", 
+        "0304", 
+        "0305", 
+        "0306", 
+        "0307", 
+        "0308", 
+        "0401", 
+        "0402", 
+        "0403", 
+        "0404", 
+        "0405", 
+        "0406", 
+        "0407", 
+        "0408", 
+        "0501", 
+        "0502", 
+        "0503", 
+        "0504", 
+        "0505", 
+        "0506", 
+        "0507", 
+        "0508", 
+        "0509", 
+        "0601", 
+        "0602", 
+        "0603", 
+        "0604", 
+        "0605", 
+        "0606", 
+        "0607", 
+        "0608", 
+        "0609", 
+        "0701", 
+        "0702", 
+        "0703", 
+        "0704", 
+        "0705", 
+        "0706", 
+        "0707", 
+        "0708", 
+        "0709", 
+        "0801"
       ], 
       "hnrlbls": [
         "18-51"
       ], 
       "housenumber": "18", 
-      "lat": 51.18723929525001, 
-      "lon": 2.8148770546351782, 
+      "lat": 51.18723938511538, 
+      "lon": 2.8148770516435273, 
       "municipality": "Middelkerke", 
       "pcode": "8430", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Parijsstraat"
     }, 
     {
@@ -177,178 +194,213 @@
         "19"
       ], 
       "housenumber": "19", 
-      "lat": 51.18686548141206, 
-      "lon": 2.8145564558847496, 
+      "lat": 51.18686557127745, 
+      "lon": 2.8145564528925058, 
       "municipality": "Middelkerke", 
       "pcode": "8430", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Parijsstraat"
     }, 
     {
-      "busnrs": [
-        "201"
-      ], 
-      "hnrlbls": [
-        "2"
-      ], 
-      "housenumber": "2", 
-      "lat": 51.18669401498127, 
-      "lon": 2.8153278179692167, 
-      "municipality": "Middelkerke", 
-      "pcode": "8430", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Parijsstraat"
-    }, 
-    {
-      "busnrs": [
-        "1001", 
-        "202", 
-        "501", 
-        "602", 
-        "702"
+      "apptnrs": [
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302", 
+        "0401", 
+        "0402", 
+        "0501", 
+        "0502", 
+        "0601", 
+        "0602", 
+        "0701", 
+        "0702", 
+        "0801", 
+        "0802", 
+        "0901", 
+        "0902", 
+        "1001"
       ], 
       "hnrlbls": [
         "20"
       ], 
       "housenumber": "20", 
-      "lat": 51.1875227956289, 
-      "lon": 2.814462322828673, 
+      "lat": 51.187522885494246, 
+      "lon": 2.8144623198362058, 
       "municipality": "Middelkerke", 
       "pcode": "8430", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Parijsstraat"
     }, 
     {
-      "busnrs": [
-        "202", 
-        "401", 
-        "402", 
-        "501"
+      "apptnrs": [
+        "0001", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302", 
+        "0401", 
+        "0402", 
+        "0501"
       ], 
       "hnrlbls": [
         "21"
       ], 
       "housenumber": "21", 
-      "lat": 51.186931275134455, 
-      "lon": 2.8145073414920736, 
+      "lat": 51.18693136499984, 
+      "lon": 2.8145073384997312, 
       "municipality": "Middelkerke", 
       "pcode": "8430", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Parijsstraat"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
-        "22"
+        "22-26"
       ], 
       "housenumber": "22", 
-      "lat": 51.187567927519765, 
-      "lon": 2.8144417927285827, 
+      "lat": 51.18761305752569, 
+      "lon": 2.8144211195893734, 
       "municipality": "Middelkerke", 
       "pcode": "8430", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Parijsstraat"
     }, 
     {
-      "busnrs": [
-        "101", 
-        "201"
+      "apptnrs": [
+        "0101", 
+        "0102", 
+        "0103", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0301", 
+        "0302", 
+        "0303", 
+        "0401", 
+        "0402", 
+        "0403", 
+        "0501", 
+        "0502", 
+        "0503", 
+        "0601", 
+        "0602", 
+        "0603", 
+        "0701", 
+        "0702", 
+        "0703"
       ], 
       "hnrlbls": [
-        "23"
-      ], 
-      "housenumber": "23", 
-      "lat": 51.18699042094674, 
-      "lon": 2.814431266906939, 
-      "municipality": "Middelkerke", 
-      "pcode": "8430", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Parijsstraat"
-    }, 
-    {
-      "busnrs": [
-        "101", 
-        "201", 
-        "501", 
-        "502", 
-        "602", 
-        "703"
-      ], 
-      "hnrlbls": [
-        "24-26"
+        "22-26"
       ], 
       "housenumber": "24", 
       "lat": 51.18761305752569, 
       "lon": 2.8144211195893734, 
       "municipality": "Middelkerke", 
       "pcode": "8430", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Parijsstraat"
     }, 
     {
-      "busnrs": [
-        "101", 
-        "103", 
-        "301", 
-        "302", 
-        "503", 
-        "602", 
-        "603", 
-        "701", 
-        "703", 
-        "801"
+      "apptnrs": [
+        "0101", 
+        "0102", 
+        "0103", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0301", 
+        "0302", 
+        "0303", 
+        "0401", 
+        "0402", 
+        "0403", 
+        "0501", 
+        "0502", 
+        "0503", 
+        "0601", 
+        "0602", 
+        "0603", 
+        "0701", 
+        "0702", 
+        "0703", 
+        "0801"
       ], 
       "hnrlbls": [
-        "25"
+        "25-53"
       ], 
       "housenumber": "25", 
       "lat": 51.187065471153964, 
       "lon": 2.814388710852694, 
       "municipality": "Middelkerke", 
       "pcode": "8430", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Parijsstraat"
     }, 
     {
       "hnrlbls": [
-        "24-26"
+        "22-26"
       ], 
       "housenumber": "26", 
       "lat": 51.18761305752569, 
       "lon": 2.8144211195893734, 
       "municipality": "Middelkerke", 
       "pcode": "8430", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Parijsstraat"
     }, 
     {
-      "busnrs": [
-        "201", 
-        "301", 
-        "401", 
-        "402", 
-        "502", 
-        "901"
+      "apptnrs": [
+        "0001", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302", 
+        "0401", 
+        "0402", 
+        "0501", 
+        "0502", 
+        "0601", 
+        "0602", 
+        "0701", 
+        "0702", 
+        "0801", 
+        "0802", 
+        "0901", 
+        "0902"
       ], 
       "hnrlbls": [
-        "28-116"
+        "28"
       ], 
       "housenumber": "28", 
-      "lat": 51.18769819954136, 
-      "lon": 2.8142025463782927, 
+      "lat": 51.187698289406704, 
+      "lon": 2.8142025433853135, 
       "municipality": "Middelkerke", 
       "pcode": "8430", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Parijsstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "302", 
-        "401", 
-        "501"
+      "apptnrs": [
+        "0001", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0301", 
+        "0302", 
+        "0303", 
+        "0401", 
+        "0402", 
+        "0501"
       ], 
       "hnrlbls": [
         "3-5"
@@ -358,34 +410,57 @@
       "lon": 2.8148263727561185, 
       "municipality": "Middelkerke", 
       "pcode": "8430", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Parijsstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "101", 
-        "201"
+      "apptnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0104", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0204", 
+        "0301", 
+        "0302", 
+        "0303", 
+        "0304", 
+        "0401", 
+        "0402", 
+        "0403", 
+        "0404", 
+        "0501", 
+        "0502"
       ], 
       "hnrlbls": [
         "4"
       ], 
       "housenumber": "4", 
-      "lat": 51.18674739926536, 
-      "lon": 2.815299003107222, 
+      "lat": 51.186747309399934, 
+      "lon": 2.8152990060980287, 
       "municipality": "Middelkerke", 
       "pcode": "8430", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Parijsstraat"
     }, 
     {
-      "busnrs": [
-        "101", 
-        "102", 
-        "201", 
-        "202", 
-        "4", 
-        "402"
+      "apptnrs": [
+        "0101", 
+        "0102", 
+        "0103", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0301", 
+        "0302", 
+        "0401", 
+        "0402", 
+        "0403", 
+        "0501"
       ], 
       "hnrlbls": [
         "3-5"
@@ -395,32 +470,21 @@
       "lon": 2.8148263727561185, 
       "municipality": "Middelkerke", 
       "pcode": "8430", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Parijsstraat"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "6"
-      ], 
-      "housenumber": "6", 
-      "lat": 51.18679280324996, 
-      "lon": 2.8152512838055355, 
-      "municipality": "Middelkerke", 
-      "pcode": "8430", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Parijsstraat"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "102", 
-        "201", 
-        "202", 
-        "302", 
-        "501"
+      "apptnrs": [
+        "0001", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302", 
+        "0401", 
+        "0402", 
+        "0501"
       ], 
       "hnrlbls": [
         "8"
@@ -430,7 +494,7 @@
       "lon": 2.8151798060878828, 
       "municipality": "Middelkerke", 
       "pcode": "8430", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Parijsstraat"
     }, 
     {
@@ -438,11 +502,11 @@
         "9"
       ], 
       "housenumber": "9", 
-      "lat": 51.186687613394085, 
-      "lon": 2.814758798584552, 
+      "lat": 51.18668752352869, 
+      "lon": 2.8147588015763945, 
       "municipality": "Middelkerke", 
       "pcode": "8430", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Parijsstraat"
     }
   ]

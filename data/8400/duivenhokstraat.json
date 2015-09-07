@@ -286,7 +286,8 @@
     {
       "busnrs": [
         "1", 
-        "2"
+        "2", 
+        "201"
       ], 
       "hnrlbls": [
         "24"
@@ -734,8 +735,10 @@
     }, 
     {
       "busnrs": [
+        "101", 
         "2", 
         "201", 
+        "202", 
         "3", 
         "402", 
         "5"
@@ -744,11 +747,11 @@
         "62"
       ], 
       "housenumber": "62", 
-      "lat": 51.2197071806992, 
-      "lon": 2.9026825601125834, 
+      "lat": 51.21972745091208, 
+      "lon": 2.9028020318206793, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Duivenhokstraat"
     }, 
     {
@@ -789,11 +792,11 @@
         "66"
       ], 
       "housenumber": "66", 
-      "lat": 51.219673417403136, 
-      "lon": 2.902946886885032, 
+      "lat": 51.21962164376502, 
+      "lon": 2.902904135242772, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Duivenhokstraat"
     }, 
     {
@@ -871,6 +874,7 @@
     {
       "busnrs": [
         "1", 
+        "101", 
         "2"
       ], 
       "hnrlbls": [
@@ -889,8 +893,8 @@
         "73"
       ], 
       "housenumber": "73", 
-      "lat": 51.21901155540613, 
-      "lon": 2.903294507812962, 
+      "lat": 51.219011821459404, 
+      "lon": 2.903294213144742, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanPerceelGrb", 
@@ -938,7 +942,7 @@
     }, 
     {
       "hnrlbls": [
-        "/ZN-79"
+        "79"
       ], 
       "housenumber": "79", 
       "lat": 51.21971144151846, 
@@ -1049,8 +1053,8 @@
         "92"
       ], 
       "housenumber": "92", 
-      "lat": 51.21887107648965, 
-      "lon": 2.903994222233943, 
+      "lat": 51.21886617939537, 
+      "lon": 2.903990797149429, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
@@ -1066,18 +1070,6 @@
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
-      "street": "Duivenhokstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "/ZN-79"
-      ], 
-      "housenumber": "ZN", 
-      "lat": 51.21971144151846, 
-      "lon": 2.9025548732617525, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "afgeleidVanStraat", 
       "street": "Duivenhokstraat"
     }
   ]

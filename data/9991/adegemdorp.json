@@ -97,12 +97,26 @@
       "street": "Adegem-Dorp"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "10", 
+        "11", 
+        "12", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6", 
+        "7", 
+        "8", 
+        "9"
+      ], 
       "hnrlbls": [
         "16"
       ], 
       "housenumber": "16", 
-      "lat": 51.203254311579926, 
-      "lon": 3.485283835135109, 
+      "lat": 51.203254312443896, 
+      "lon": 3.485283791288329, 
       "municipality": "Maldegem", 
       "pcode": "9991", 
       "source": "afgeleidVanGebouw", 
@@ -158,7 +172,7 @@
     }, 
     {
       "hnrlbls": [
-        "18-18B"
+        "18"
       ], 
       "housenumber": "18", 
       "lat": 51.20270684569225, 
@@ -166,18 +180,6 @@
       "municipality": "Maldegem", 
       "pcode": "9991", 
       "source": "afgeleidVanGebouw", 
-      "street": "Adegem-Dorp"
-    }, 
-    {
-      "hnrlbls": [
-        "18-18B"
-      ], 
-      "housenumber": "18B", 
-      "lat": 51.20270684569225, 
-      "lon": 3.4862309874233985, 
-      "municipality": "Maldegem", 
-      "pcode": "9991", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Adegem-Dorp"
     }, 
     {
@@ -207,11 +209,11 @@
         "2"
       ], 
       "housenumber": "2", 
-      "lat": 51.199078169750265, 
-      "lon": 3.4899062406344505, 
+      "lat": 51.20387532733931, 
+      "lon": 3.4865114503075763, 
       "municipality": "Maldegem", 
       "pcode": "9991", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Adegem-Dorp"
     }, 
     {
@@ -239,9 +241,6 @@
       "street": "Adegem-Dorp"
     }, 
     {
-      "busnrs": [
-        "2"
-      ], 
       "hnrlbls": [
         "22-24"
       ], 
@@ -320,18 +319,6 @@
     }, 
     {
       "hnrlbls": [
-        "26"
-      ], 
-      "housenumber": "26", 
-      "lat": 51.20225296611129, 
-      "lon": 3.484735594254668, 
-      "municipality": "Maldegem", 
-      "pcode": "9991", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Adegem-Dorp"
-    }, 
-    {
-      "hnrlbls": [
         "27"
       ], 
       "housenumber": "27", 
@@ -355,8 +342,11 @@
       "street": "Adegem-Dorp"
     }, 
     {
+      "busnrs": [
+        "A"
+      ], 
       "hnrlbls": [
-        "29-29A"
+        "29"
       ], 
       "housenumber": "29", 
       "lat": 51.202101514124706, 
@@ -368,33 +358,9 @@
     }, 
     {
       "hnrlbls": [
-        "29-29A"
-      ], 
-      "housenumber": "29A", 
-      "lat": 51.202101514124706, 
-      "lon": 3.4868688583087426, 
-      "municipality": "Maldegem", 
-      "pcode": "9991", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Adegem-Dorp"
-    }, 
-    {
-      "hnrlbls": [
         "2A"
       ], 
       "housenumber": "2A", 
-      "lat": 51.20387536082361, 
-      "lon": 3.486511389391758, 
-      "municipality": "Maldegem", 
-      "pcode": "9991", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Adegem-Dorp"
-    }, 
-    {
-      "hnrlbls": [
-        "2B"
-      ], 
-      "housenumber": "2B", 
       "lat": 51.2038209743079, 
       "lon": 3.486595409765684, 
       "municipality": "Maldegem", 
@@ -509,11 +475,11 @@
         "37"
       ], 
       "housenumber": "37", 
-      "lat": 51.20177918040861, 
-      "lon": 3.487075837829446, 
+      "lat": 51.20175775243909, 
+      "lon": 3.4868702559583022, 
       "municipality": "Maldegem", 
       "pcode": "9991", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Adegem-Dorp"
     }, 
     {
@@ -535,6 +501,18 @@
       "housenumber": "39", 
       "lat": 51.20168659161233, 
       "lon": 3.4870033259729025, 
+      "municipality": "Maldegem", 
+      "pcode": "9991", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Adegem-Dorp"
+    }, 
+    {
+      "hnrlbls": [
+        "3A"
+      ], 
+      "housenumber": "3A", 
+      "lat": 51.20337150422971, 
+      "lon": 3.4867618443733917, 
       "municipality": "Maldegem", 
       "pcode": "9991", 
       "source": "afgeleidVanGebouw", 
@@ -650,9 +628,9 @@
     }, 
     {
       "hnrlbls": [
-        "49-51"
+        "49A-51"
       ], 
-      "housenumber": "49", 
+      "housenumber": "49A", 
       "lat": 51.20130391319256, 
       "lon": 3.487242777373118, 
       "municipality": "Maldegem", 
@@ -661,20 +639,11 @@
       "street": "Adegem-Dorp"
     }, 
     {
-      "hnrlbls": [
-        "49A"
+      "busnrs": [
+        "A"
       ], 
-      "housenumber": "49A", 
-      "lat": 51.201267647236364, 
-      "lon": 3.4874062902250853, 
-      "municipality": "Maldegem", 
-      "pcode": "9991", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Adegem-Dorp"
-    }, 
-    {
       "hnrlbls": [
-        "5-5A"
+        "5"
       ], 
       "housenumber": "5", 
       "lat": 51.20330551073482, 
@@ -698,7 +667,7 @@
     }, 
     {
       "hnrlbls": [
-        "49-51"
+        "49A-51"
       ], 
       "housenumber": "51", 
       "lat": 51.20130391319256, 
@@ -802,18 +771,6 @@
       "municipality": "Maldegem", 
       "pcode": "9991", 
       "source": "afgeleidVanGebouw", 
-      "street": "Adegem-Dorp"
-    }, 
-    {
-      "hnrlbls": [
-        "5-5A"
-      ], 
-      "housenumber": "5A", 
-      "lat": 51.20330551073482, 
-      "lon": 3.4867360772049087, 
-      "municipality": "Maldegem", 
-      "pcode": "9991", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Adegem-Dorp"
     }, 
     {
@@ -961,14 +918,14 @@
         "2-02"
       ], 
       "hnrlbls": [
-        "7"
+        "7-9"
       ], 
       "housenumber": "7", 
-      "lat": 51.2032191663065, 
-      "lon": 3.486898254103899, 
+      "lat": 51.20319773108739, 
+      "lon": 3.48682038959377, 
       "municipality": "Maldegem", 
       "pcode": "9991", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelKadaster", 
       "street": "Adegem-Dorp"
     }, 
     {

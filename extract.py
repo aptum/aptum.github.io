@@ -16,6 +16,7 @@ from lambert import Belgium1972LambertProjection
 parser = argparse.ArgumentParser(description='Reads the AGIV CRAB database in Shapefile format and converts this to a number of json files.')
 parser.add_argument('path', help='Path to the CrabAdr.shp file.')
 parser.add_argument('--output-dir', default='data/', help='The path to the output files.')
+parser.add_argument('--osm-output', action="store_true", help='Also write one OSM file next to the tree of JSON files')
 args = parser.parse_args()
 
 # Check the output directory first, before all calculations

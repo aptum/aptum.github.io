@@ -1,15 +1,27 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "BU11", 
+        "BU12", 
+        "BU21", 
+        "BU22", 
+        "BU31", 
+        "BU32", 
+        "BU41", 
+        "BU42", 
+        "BU43", 
+        "BU51"
+      ], 
       "hnrlbls": [
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 50.96655754078876, 
-      "lon": 5.5022688714545405, 
+      "lat": 50.966402548652944, 
+      "lon": 5.5022982826622675, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Weg naar As"
     }, 
     {
@@ -147,8 +159,8 @@
         "110"
       ], 
       "housenumber": "110", 
-      "lat": 50.97039787786029, 
-      "lon": 5.5131427308914, 
+      "lat": 50.970382446744736, 
+      "lon": 5.51316712893134, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
@@ -406,13 +418,71 @@
     {
       "busnrs": [
         "10", 
+        "20A", 
         "24", 
         "26", 
         "40", 
         "63B", 
         "64", 
         "71", 
-        "85"
+        "85", 
+        "AB10", 
+        "AB11", 
+        "AB12", 
+        "AB13", 
+        "AB14", 
+        "AB15", 
+        "AB16", 
+        "AB20", 
+        "AB21", 
+        "AB22", 
+        "AB23", 
+        "AB24", 
+        "AB25", 
+        "AB26", 
+        "AB31", 
+        "AB32", 
+        "AB33", 
+        "AB34", 
+        "AB35", 
+        "AB37", 
+        "AB40", 
+        "AB41", 
+        "AB42", 
+        "AB43", 
+        "AB44", 
+        "AB45", 
+        "AB46", 
+        "AB47", 
+        "BB50", 
+        "BB51", 
+        "BB52", 
+        "BB53", 
+        "BB54", 
+        "BB55", 
+        "BB56", 
+        "BB57", 
+        "BB61", 
+        "BB62", 
+        "BB63", 
+        "BB64", 
+        "BB65", 
+        "BB66", 
+        "BB67", 
+        "BB70", 
+        "BB71", 
+        "BB72", 
+        "BB73", 
+        "BB74", 
+        "BB75", 
+        "BB76", 
+        "BB77", 
+        "BB80", 
+        "BB81", 
+        "BB82", 
+        "BB84", 
+        "BB85", 
+        "BB86"
       ], 
       "hnrlbls": [
         "121-121B"
@@ -583,8 +653,8 @@
         "134"
       ], 
       "housenumber": "134", 
-      "lat": 50.97108964567399, 
-      "lon": 5.514539216285587, 
+      "lat": 50.97108180764341, 
+      "lon": 5.514550130782791, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanPerceelGrb", 
@@ -626,8 +696,8 @@
         "138"
       ], 
       "housenumber": "138", 
-      "lat": 50.97135827217204, 
-      "lon": 5.514816038126438, 
+      "lat": 50.97136775446227, 
+      "lon": 5.5148024584610456, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanPerceelGrb", 
@@ -664,12 +734,14 @@
     }, 
     {
       "busnrs": [
+        "1", 
         "11", 
         "12", 
         "21", 
         "22", 
         "31", 
-        "32"
+        "32", 
+        "41"
       ], 
       "hnrlbls": [
         "14-16"
@@ -1096,6 +1168,10 @@
       "street": "Weg naar As"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "21"
+      ], 
       "hnrlbls": [
         "172"
       ], 
@@ -1326,7 +1402,7 @@
     }, 
     {
       "hnrlbls": [
-        "199-199A"
+        "199"
       ], 
       "housenumber": "199", 
       "lat": 50.976205149190804, 
@@ -1338,11 +1414,11 @@
     }, 
     {
       "hnrlbls": [
-        "199-199A"
+        "199A"
       ], 
       "housenumber": "199A", 
-      "lat": 50.976205149190804, 
-      "lon": 5.521878457217567, 
+      "lat": 50.97617925787032, 
+      "lon": 5.5218509057704095, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
@@ -1481,11 +1557,11 @@
         "213"
       ], 
       "housenumber": "213", 
-      "lat": 50.97704393216163, 
-      "lon": 5.523472541771301, 
+      "lat": 50.976826394259845, 
+      "lon": 5.523332606975306, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelKadaster", 
       "street": "Weg naar As"
     }, 
     {
@@ -1830,8 +1906,8 @@
         "246-246G"
       ], 
       "housenumber": "246", 
-      "lat": 50.97653228123322, 
-      "lon": 5.524471139375319, 
+      "lat": 50.976530577698995, 
+      "lon": 5.524470670135449, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanPerceelGrb", 
@@ -1842,11 +1918,11 @@
         "246-246G"
       ], 
       "housenumber": "246A", 
-      "lat": 50.97653228123322, 
-      "lon": 5.524471139375319, 
+      "lat": 50.976530577698995, 
+      "lon": 5.524470670135449, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Weg naar As"
     }, 
     {
@@ -1854,11 +1930,11 @@
         "246-246G"
       ], 
       "housenumber": "246C", 
-      "lat": 50.97653228123322, 
-      "lon": 5.524471139375319, 
+      "lat": 50.976530577698995, 
+      "lon": 5.524470670135449, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Weg naar As"
     }, 
     {
@@ -1866,11 +1942,11 @@
         "246-246G"
       ], 
       "housenumber": "246D", 
-      "lat": 50.97653228123322, 
-      "lon": 5.524471139375319, 
+      "lat": 50.976530577698995, 
+      "lon": 5.524470670135449, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Weg naar As"
     }, 
     {
@@ -1878,11 +1954,11 @@
         "246-246G"
       ], 
       "housenumber": "246E", 
-      "lat": 50.97653228123322, 
-      "lon": 5.524471139375319, 
+      "lat": 50.976530577698995, 
+      "lon": 5.524470670135449, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Weg naar As"
     }, 
     {
@@ -1890,11 +1966,11 @@
         "246-246G"
       ], 
       "housenumber": "246G", 
-      "lat": 50.97653228123322, 
-      "lon": 5.524471139375319, 
+      "lat": 50.976530577698995, 
+      "lon": 5.524470670135449, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Weg naar As"
     }, 
     {
@@ -3431,7 +3507,13 @@
     }, 
     {
       "busnrs": [
-        "11"
+        "11", 
+        "AB01", 
+        "AB02", 
+        "AB03", 
+        "AB11", 
+        "AB12", 
+        "AB21"
       ], 
       "hnrlbls": [
         "361"
@@ -3489,11 +3571,11 @@
     }, 
     {
       "hnrlbls": [
-        "364-366"
+        "364"
       ], 
       "housenumber": "364", 
-      "lat": 50.98443659055474, 
-      "lon": 5.538559330404626, 
+      "lat": 50.984453340063794, 
+      "lon": 5.53856558830518, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
@@ -3513,7 +3595,7 @@
     }, 
     {
       "hnrlbls": [
-        "364-366"
+        "366"
       ], 
       "housenumber": "366", 
       "lat": 50.98443659055474, 
@@ -3766,7 +3848,9 @@
     {
       "busnrs": [
         "1", 
-        "11"
+        "11", 
+        "21", 
+        "22"
       ], 
       "hnrlbls": [
         "43"
@@ -3914,11 +3998,11 @@
         "54"
       ], 
       "housenumber": "54", 
-      "lat": 50.96791587555902, 
-      "lon": 5.509487650615685, 
+      "lat": 50.96799007009588, 
+      "lon": 5.5096517673592125, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Weg naar As"
     }, 
     {
@@ -3935,7 +4019,7 @@
     }, 
     {
       "hnrlbls": [
-        "56-56A"
+        "56"
       ], 
       "housenumber": "56", 
       "lat": 50.96771688748623, 
@@ -3947,14 +4031,14 @@
     }, 
     {
       "hnrlbls": [
-        "56-56A"
+        "56A"
       ], 
       "housenumber": "56A", 
-      "lat": 50.96771688748623, 
-      "lon": 5.509889291228951, 
+      "lat": 50.967745076856524, 
+      "lon": 5.509847122393262, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Weg naar As"
     }, 
     {
@@ -3965,11 +4049,11 @@
         "58-62"
       ], 
       "housenumber": "58", 
-      "lat": 50.96766509729436, 
-      "lon": 5.511287021583895, 
+      "lat": 50.967684008102744, 
+      "lon": 5.511311544374263, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Weg naar As"
     }, 
     {
@@ -3977,11 +4061,11 @@
         "58-62"
       ], 
       "housenumber": "60A", 
-      "lat": 50.96766509729436, 
-      "lon": 5.511287021583895, 
+      "lat": 50.967684008102744, 
+      "lon": 5.511311544374263, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Weg naar As"
     }, 
     {
@@ -3989,11 +4073,11 @@
         "58-62"
       ], 
       "housenumber": "62", 
-      "lat": 50.96766509729436, 
-      "lon": 5.511287021583895, 
+      "lat": 50.967684008102744, 
+      "lon": 5.511311544374263, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Weg naar As"
     }, 
     {
@@ -4154,8 +4238,8 @@
         "75"
       ], 
       "housenumber": "75", 
-      "lat": 50.968911782710634, 
-      "lon": 5.5077949349867605, 
+      "lat": 50.96889067221056, 
+      "lon": 5.507885972207601, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
@@ -4166,8 +4250,8 @@
         "77"
       ], 
       "housenumber": "77", 
-      "lat": 50.96902961763346, 
-      "lon": 5.507760638391386, 
+      "lat": 50.969003395764545, 
+      "lon": 5.5078225059614505, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanPerceelGrb", 

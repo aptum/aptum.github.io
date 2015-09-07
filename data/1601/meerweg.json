@@ -12,6 +12,7 @@
         "23", 
         "31", 
         "32", 
+        "33", 
         "41", 
         "42", 
         "43", 
@@ -39,8 +40,11 @@
         "-11"
       ], 
       "busnrs": [
+        "0011", 
         "1", 
+        "11", 
         "12", 
+        "13", 
         "14", 
         "15", 
         "2", 
@@ -77,18 +81,15 @@
       "street": "Meerweg"
     }, 
     {
-      "busnrs": [
-        "35"
-      ], 
       "hnrlbls": [
         "103A"
       ], 
       "housenumber": "103A", 
-      "lat": 50.78660558599788, 
-      "lon": 4.289772689367948, 
+      "lat": 50.78653656467324, 
+      "lon": 4.289278186754665, 
       "municipality": "Sint-Pieters-Leeuw", 
       "pcode": "1601", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Meerweg"
     }, 
     {
@@ -219,8 +220,8 @@
         "125"
       ], 
       "housenumber": "125", 
-      "lat": 50.78566073353495, 
-      "lon": 4.288381977268185, 
+      "lat": 50.785659559959655, 
+      "lon": 4.288374746980865, 
       "municipality": "Sint-Pieters-Leeuw", 
       "pcode": "1601", 
       "source": "afgeleidVanGebouw", 
@@ -228,11 +229,11 @@
     }, 
     {
       "hnrlbls": [
-        "127-129"
+        "127"
       ], 
       "housenumber": "127", 
-      "lat": 50.78558456392203, 
-      "lon": 4.288078351186536, 
+      "lat": 50.78560502691329, 
+      "lon": 4.288082395418589, 
       "municipality": "Sint-Pieters-Leeuw", 
       "pcode": "1601", 
       "source": "afgeleidVanGebouw", 
@@ -240,11 +241,11 @@
     }, 
     {
       "hnrlbls": [
-        "127-129"
+        "129"
       ], 
       "housenumber": "129", 
-      "lat": 50.78558456392203, 
-      "lon": 4.288078351186536, 
+      "lat": 50.785564136060444, 
+      "lon": 4.288074123235795, 
       "municipality": "Sint-Pieters-Leeuw", 
       "pcode": "1601", 
       "source": "afgeleidVanGebouw", 
@@ -470,8 +471,8 @@
         "185"
       ], 
       "housenumber": "185", 
-      "lat": 50.7833324925551, 
-      "lon": 4.283624481171287, 
+      "lat": 50.78331468248203, 
+      "lon": 4.283747609874084, 
       "municipality": "Sint-Pieters-Leeuw", 
       "pcode": "1601", 
       "source": "afgeleidVanGebouw", 
@@ -531,14 +532,14 @@
         "2.0"
       ], 
       "hnrlbls": [
-        "2-2C"
+        "2"
       ], 
       "housenumber": "2", 
-      "lat": 50.78981383253382, 
-      "lon": 4.291843482047231, 
+      "lat": 50.79018368586021, 
+      "lon": 4.292438428857928, 
       "municipality": "Sint-Pieters-Leeuw", 
       "pcode": "1601", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Meerweg"
     }, 
     {
@@ -931,11 +932,11 @@
     }, 
     {
       "hnrlbls": [
-        "2B-234"
+        "2B"
       ], 
       "housenumber": "2B", 
-      "lat": 50.789986310637985, 
-      "lon": 4.291930423456141, 
+      "lat": 50.78982349528222, 
+      "lon": 4.29192907730748, 
       "municipality": "Sint-Pieters-Leeuw", 
       "pcode": "1601", 
       "source": "afgeleidVanGebouw", 
@@ -943,7 +944,7 @@
     }, 
     {
       "hnrlbls": [
-        "2-2C"
+        "2C"
       ], 
       "housenumber": "2C", 
       "lat": 50.78981383253382, 
@@ -1030,11 +1031,11 @@
         "45"
       ], 
       "housenumber": "45", 
-      "lat": 50.78900794451761, 
-      "lon": 4.291483005889218, 
+      "lat": 50.7891284370463, 
+      "lon": 4.291544672794088, 
       "municipality": "Sint-Pieters-Leeuw", 
       "pcode": "1601", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Meerweg"
     }, 
     {
@@ -1042,11 +1043,42 @@
         "45A"
       ], 
       "housenumber": "45A", 
-      "lat": 50.788940521155034, 
-      "lon": 4.2913441328773105, 
+      "lat": 50.78907426995642, 
+      "lon": 4.291469312691915, 
       "municipality": "Sint-Pieters-Leeuw", 
       "pcode": "1601", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Meerweg"
+    }, 
+    {
+      "busnrs": [
+        "bus 1", 
+        "bus 2", 
+        "bus 3", 
+        "bus 4", 
+        "bus 5"
+      ], 
+      "hnrlbls": [
+        "45B"
+      ], 
+      "housenumber": "45B", 
+      "lat": 50.789048350028786, 
+      "lon": 4.291439190311144, 
+      "municipality": "Sint-Pieters-Leeuw", 
+      "pcode": "1601", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Meerweg"
+    }, 
+    {
+      "hnrlbls": [
+        "45C"
+      ], 
+      "housenumber": "45C", 
+      "lat": 50.78892440988134, 
+      "lon": 4.2913285880770715, 
+      "municipality": "Sint-Pieters-Leeuw", 
+      "pcode": "1601", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Meerweg"
     }, 
     {
@@ -1066,11 +1098,11 @@
         "47"
       ], 
       "housenumber": "47", 
-      "lat": 50.78884119387903, 
-      "lon": 4.291357058406608, 
+      "lat": 50.7888492077586, 
+      "lon": 4.291256545162889, 
       "municipality": "Sint-Pieters-Leeuw", 
       "pcode": "1601", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Meerweg"
     }, 
     {
@@ -1078,11 +1110,11 @@
         "47A"
       ], 
       "housenumber": "47A", 
-      "lat": 50.78883846741721, 
-      "lon": 4.2914492451128075, 
+      "lat": 50.78883177228764, 
+      "lon": 4.2912767345396885, 
       "municipality": "Sint-Pieters-Leeuw", 
       "pcode": "1601", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Meerweg"
     }, 
     {

@@ -514,6 +514,7 @@
     }, 
     {
       "busnrs": [
+        "1", 
         "3"
       ], 
       "hnrlbls": [
@@ -650,7 +651,8 @@
     {
       "busnrs": [
         "1", 
-        "6"
+        "6", 
+        "61"
       ], 
       "hnrlbls": [
         "60"
@@ -664,18 +666,15 @@
       "street": "Prins Albertlaan"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
-        "60_6"
+        "61"
       ], 
-      "housenumber": "60_6", 
-      "lat": 51.22212787426702, 
-      "lon": 2.9462261466374513, 
+      "housenumber": "61", 
+      "lat": 51.2221785377084, 
+      "lon": 2.946403518732888, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Prins Albertlaan"
     }, 
     {
@@ -772,7 +771,7 @@
         "201"
       ], 
       "hnrlbls": [
-        "67"
+        "67-67A"
       ], 
       "housenumber": "67", 
       "lat": 51.22195286133718, 
@@ -784,7 +783,19 @@
     }, 
     {
       "hnrlbls": [
-        "1-346A"
+        "67-67A"
+      ], 
+      "housenumber": "67A", 
+      "lat": 51.22195286133718, 
+      "lon": 2.9470655475371044, 
+      "municipality": "Oostende", 
+      "pcode": "8400", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "street": "Prins Albertlaan"
+    }, 
+    {
+      "hnrlbls": [
+        "1A-346A"
       ], 
       "housenumber": "67C", 
       "lat": 51.21019494141423, 
@@ -821,7 +832,8 @@
     {
       "busnrs": [
         "1", 
-        "101"
+        "101", 
+        "2"
       ], 
       "hnrlbls": [
         "7"

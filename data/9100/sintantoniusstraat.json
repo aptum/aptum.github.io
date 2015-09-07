@@ -1,37 +1,54 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3"
+      ], 
+      "hnrlbls": [
+        "1-195"
+      ], 
+      "housenumber": "1", 
+      "lat": 51.15692723982755, 
+      "lon": 4.146507401602728, 
+      "municipality": "Sint-Niklaas", 
+      "pcode": "9100", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Sint-Antoniusstraat"
+    }, 
+    {
       "hnrlbls": [
         "10"
       ], 
       "housenumber": "10", 
-      "lat": 51.157037455592594, 
-      "lon": 4.14608464075748, 
+      "lat": 51.15703754547823, 
+      "lon": 4.146084640330172, 
       "municipality": "Sint-Niklaas", 
       "pcode": "9100", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sint-Antoniusstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "101", 
-        "102", 
-        "103", 
-        "2", 
-        "201", 
-        "202", 
-        "203"
+      "apptnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0201", 
+        "0202", 
+        "0203"
       ], 
       "hnrlbls": [
         "11"
       ], 
       "housenumber": "11", 
-      "lat": 51.156587731455154, 
-      "lon": 4.145499882244206, 
+      "lat": 51.156620110665166, 
+      "lon": 4.1454628503206905, 
       "municipality": "Sint-Niklaas", 
       "pcode": "9100", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sint-Antoniusstraat"
     }, 
     {
@@ -43,7 +60,7 @@
       "lon": 4.146010623473886, 
       "municipality": "Sint-Niklaas", 
       "pcode": "9100", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sint-Antoniusstraat"
     }, 
     {
@@ -55,100 +72,46 @@
       "lon": 4.145862983548346, 
       "municipality": "Sint-Niklaas", 
       "pcode": "9100", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sint-Antoniusstraat"
     }, 
     {
       "hnrlbls": [
-        "16-16A"
+        "16"
       ], 
       "housenumber": "16", 
       "lat": 51.156980169822006, 
       "lon": 4.145687546838868, 
       "municipality": "Sint-Niklaas", 
       "pcode": "9100", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sint-Antoniusstraat"
     }, 
     {
-      "hnrlbls": [
-        "16-16A"
+      "busnrs": [
+        "1"
       ], 
-      "housenumber": "16A", 
-      "lat": 51.156980169822006, 
-      "lon": 4.145687546838868, 
-      "municipality": "Sint-Niklaas", 
-      "pcode": "9100", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Sint-Antoniusstraat"
-    }, 
-    {
       "hnrlbls": [
-        "18-18B"
+        "18"
       ], 
       "housenumber": "18", 
-      "lat": 51.15693003608861, 
-      "lon": 4.1455565691108145, 
+      "lat": 51.156895330706895, 
+      "lon": 4.145503990646944, 
       "municipality": "Sint-Niklaas", 
       "pcode": "9100", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sint-Antoniusstraat"
     }, 
     {
       "hnrlbls": [
-        "18-18B"
-      ], 
-      "housenumber": "18A", 
-      "lat": 51.15693003608861, 
-      "lon": 4.1455565691108145, 
-      "municipality": "Sint-Niklaas", 
-      "pcode": "9100", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Sint-Antoniusstraat"
-    }, 
-    {
-      "busnrs": [
-        "1", 
         "2"
       ], 
-      "hnrlbls": [
-        "18-18B"
-      ], 
-      "housenumber": "18B", 
-      "lat": 51.15693003608861, 
-      "lon": 4.1455565691108145, 
-      "municipality": "Sint-Niklaas", 
-      "pcode": "9100", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Sint-Antoniusstraat"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3"
-      ], 
-      "hnrlbls": [
-        "1B"
-      ], 
-      "housenumber": "1B", 
-      "lat": 51.15681440801681, 
-      "lon": 4.14549079733684, 
-      "municipality": "Sint-Niklaas", 
-      "pcode": "9100", 
-      "source": "afgeleidVanStraat", 
-      "street": "Sint-Antoniusstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "2-4"
-      ], 
       "housenumber": "2", 
-      "lat": 51.1570917563643, 
-      "lon": 4.146472458849669, 
+      "lat": 51.15710190348692, 
+      "lon": 4.146515006180307, 
       "municipality": "Sint-Niklaas", 
       "pcode": "9100", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sint-Antoniusstraat"
     }, 
     {
@@ -160,7 +123,7 @@
       "lon": 4.145425591664019, 
       "municipality": "Sint-Niklaas", 
       "pcode": "9100", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sint-Antoniusstraat"
     }, 
     {
@@ -168,39 +131,11 @@
         "22"
       ], 
       "housenumber": "22", 
-      "lat": 51.156844953466354, 
-      "lon": 4.145291683310447, 
+      "lat": 51.156845043621686, 
+      "lon": 4.145291825817416, 
       "municipality": "Sint-Niklaas", 
       "pcode": "9100", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Sint-Antoniusstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "23"
-      ], 
-      "housenumber": "23", 
-      "lat": 51.15660030065268, 
-      "lon": 4.145396622297103, 
-      "municipality": "Sint-Niklaas", 
-      "pcode": "9100", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Sint-Antoniusstraat"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "3"
-      ], 
-      "hnrlbls": [
-        "23B"
-      ], 
-      "housenumber": "23B", 
-      "lat": 51.1569216222433, 
-      "lon": 4.1460051465193635, 
-      "municipality": "Sint-Niklaas", 
-      "pcode": "9100", 
-      "source": "geinterpoleerdObvWegverbinding", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sint-Antoniusstraat"
     }, 
     {
@@ -208,11 +143,11 @@
         "24-24A"
       ], 
       "housenumber": "24", 
-      "lat": 51.15687209501901, 
-      "lon": 4.1451942136064375, 
+      "lat": 51.15680271995762, 
+      "lon": 4.145251004830668, 
       "municipality": "Sint-Niklaas", 
       "pcode": "9100", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sint-Antoniusstraat"
     }, 
     {
@@ -220,11 +155,11 @@
         "24-24A"
       ], 
       "housenumber": "24A", 
-      "lat": 51.15687209501901, 
-      "lon": 4.1451942136064375, 
+      "lat": 51.15680271995762, 
+      "lon": 4.145251004830668, 
       "municipality": "Sint-Niklaas", 
       "pcode": "9100", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sint-Antoniusstraat"
     }, 
     {
@@ -232,11 +167,11 @@
         "25"
       ], 
       "housenumber": "25", 
-      "lat": 51.1565748278057, 
-      "lon": 4.1453304213413915, 
+      "lat": 51.156574827536055, 
+      "lon": 4.145330278406416, 
       "municipality": "Sint-Niklaas", 
       "pcode": "9100", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sint-Antoniusstraat"
     }, 
     {
@@ -248,7 +183,7 @@
       "lon": 4.145103428235061, 
       "municipality": "Sint-Niklaas", 
       "pcode": "9100", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sint-Antoniusstraat"
     }, 
     {
@@ -256,28 +191,11 @@
         "27"
       ], 
       "housenumber": "27", 
-      "lat": 51.156565434746724, 
-      "lon": 4.145258998029544, 
+      "lat": 51.156565434477, 
+      "lon": 4.145258855094596, 
       "municipality": "Sint-Niklaas", 
       "pcode": "9100", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Sint-Antoniusstraat"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2", 
-        "6"
-      ], 
-      "hnrlbls": [
-        "28-28B"
-      ], 
-      "housenumber": "28", 
-      "lat": 51.15688847709469, 
-      "lon": 4.144920696505349, 
-      "municipality": "Sint-Niklaas", 
-      "pcode": "9100", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sint-Antoniusstraat"
     }, 
     {
@@ -285,17 +203,19 @@
         "1", 
         "2", 
         "3", 
-        "4"
+        "4", 
+        "5", 
+        "6"
       ], 
       "hnrlbls": [
-        "28-28B"
+        "28"
       ], 
-      "housenumber": "28B", 
-      "lat": 51.15688847709469, 
-      "lon": 4.144920696505349, 
+      "housenumber": "28", 
+      "lat": 51.15674634070898, 
+      "lon": 4.145049732986116, 
       "municipality": "Sint-Niklaas", 
       "pcode": "9100", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sint-Antoniusstraat"
     }, 
     {
@@ -303,11 +223,11 @@
         "29"
       ], 
       "housenumber": "29", 
-      "lat": 51.156539734250906, 
-      "lon": 4.145215096324835, 
+      "lat": 51.15653982413658, 
+      "lon": 4.145215095895857, 
       "municipality": "Sint-Niklaas", 
       "pcode": "9100", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sint-Antoniusstraat"
     }, 
     {
@@ -315,11 +235,11 @@
         "3-5"
       ], 
       "housenumber": "3", 
-      "lat": 51.15677432813462, 
-      "lon": 4.146020998298621, 
+      "lat": 51.15677432840341, 
+      "lon": 4.146021141234213, 
       "municipality": "Sint-Niklaas", 
       "pcode": "9100", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sint-Antoniusstraat"
     }, 
     {
@@ -327,11 +247,11 @@
         "30"
       ], 
       "housenumber": "30", 
-      "lat": 51.15672070162319, 
-      "lon": 4.1449432246533275, 
+      "lat": 51.15672079150886, 
+      "lon": 4.144943224223823, 
       "municipality": "Sint-Niklaas", 
       "pcode": "9100", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sint-Antoniusstraat"
     }, 
     {
@@ -343,31 +263,19 @@
       "lon": 4.145138981987671, 
       "municipality": "Sint-Niklaas", 
       "pcode": "9100", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sint-Antoniusstraat"
     }, 
     {
       "hnrlbls": [
-        "35"
-      ], 
-      "housenumber": "35", 
-      "lat": 51.157256741417775, 
-      "lon": 4.145110759886183, 
-      "municipality": "Sint-Niklaas", 
-      "pcode": "9100", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Sint-Antoniusstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "2-4"
+        "4"
       ], 
       "housenumber": "4", 
-      "lat": 51.1570917563643, 
-      "lon": 4.146472458849669, 
+      "lat": 51.15707036090914, 
+      "lon": 4.146423246852647, 
       "municipality": "Sint-Niklaas", 
       "pcode": "9100", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sint-Antoniusstraat"
     }, 
     {
@@ -375,38 +283,27 @@
         "3-5"
       ], 
       "housenumber": "5", 
-      "lat": 51.15677432813462, 
-      "lon": 4.146020998298621, 
+      "lat": 51.15677432840341, 
+      "lon": 4.146021141234213, 
       "municipality": "Sint-Niklaas", 
       "pcode": "9100", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Sint-Antoniusstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "6-6B"
-      ], 
-      "housenumber": "6", 
-      "lat": 51.15706241201761, 
-      "lon": 4.146306790317917, 
-      "municipality": "Sint-Niklaas", 
-      "pcode": "9100", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sint-Antoniusstraat"
     }, 
     {
       "busnrs": [
+        "1", 
         "2"
       ], 
       "hnrlbls": [
-        "6-6B"
+        "6"
       ], 
-      "housenumber": "6B", 
-      "lat": 51.15706241201761, 
-      "lon": 4.146306790317917, 
+      "housenumber": "6", 
+      "lat": 51.157062321863506, 
+      "lon": 4.1463066478083235, 
       "municipality": "Sint-Niklaas", 
       "pcode": "9100", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sint-Antoniusstraat"
     }, 
     {
@@ -414,23 +311,11 @@
         "7"
       ], 
       "housenumber": "7", 
-      "lat": 51.15673337794728, 
-      "lon": 4.145850097744098, 
+      "lat": 51.15673337821627, 
+      "lon": 4.145850240679564, 
       "municipality": "Sint-Niklaas", 
       "pcode": "9100", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Sint-Antoniusstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "8-8B"
-      ], 
-      "housenumber": "8", 
-      "lat": 51.157022321350375, 
-      "lon": 4.1462582389841725, 
-      "municipality": "Sint-Niklaas", 
-      "pcode": "9100", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sint-Antoniusstraat"
     }, 
     {
@@ -440,36 +325,36 @@
         "3"
       ], 
       "hnrlbls": [
-        "8-8B"
+        "8"
       ], 
-      "housenumber": "8B", 
-      "lat": 51.157022321350375, 
-      "lon": 4.1462582389841725, 
+      "housenumber": "8", 
+      "lat": 51.15703710943907, 
+      "lon": 4.146187414589914, 
       "municipality": "Sint-Niklaas", 
       "pcode": "9100", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sint-Antoniusstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "101", 
-        "102", 
-        "103", 
-        "2", 
-        "201", 
-        "202", 
-        "203"
+      "apptnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0201", 
+        "0202", 
+        "0203"
       ], 
       "hnrlbls": [
         "9"
       ], 
       "housenumber": "9", 
-      "lat": 51.156637241480766, 
-      "lon": 4.1456814614265145, 
+      "lat": 51.15667017810028, 
+      "lon": 4.145654003683821, 
       "municipality": "Sint-Niklaas", 
       "pcode": "9100", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sint-Antoniusstraat"
     }
   ]

@@ -143,11 +143,11 @@
         "109"
       ], 
       "housenumber": "109", 
-      "lat": 51.21873092399783, 
-      "lon": 4.4301397222199945, 
+      "lat": 51.21868131624383, 
+      "lon": 4.43018571924352, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Wetstraat"
     }, 
     {
@@ -211,7 +211,7 @@
         "9"
       ], 
       "hnrlbls": [
-        "112-112_2"
+        "112"
       ], 
       "housenumber": "112", 
       "lat": 51.218581452324564, 
@@ -222,18 +222,15 @@
       "street": "Wetstraat"
     }, 
     {
-      "busnrs": [
-        "A"
-      ], 
       "hnrlbls": [
-        "112-112_2"
+        "112_2"
       ], 
       "housenumber": "112_2", 
-      "lat": 51.218581452324564, 
-      "lon": 4.429958039796474, 
+      "lat": 51.21858198942047, 
+      "lon": 4.42995882340719, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Wetstraat"
     }, 
     {
@@ -975,11 +972,11 @@
         "63B"
       ], 
       "housenumber": "63B", 
-      "lat": 51.21990187579321, 
-      "lon": 4.4293864147219395, 
+      "lat": 51.219905938236664, 
+      "lon": 4.429369681035447, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Wetstraat"
     }, 
     {
@@ -1035,8 +1032,10 @@
     }, 
     {
       "busnrs": [
+        "1", 
         "2", 
-        "3"
+        "3", 
+        "4"
       ], 
       "hnrlbls": [
         "68"
@@ -1050,6 +1049,12 @@
       "street": "Wetstraat"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4"
+      ], 
       "hnrlbls": [
         "69"
       ], 
@@ -1343,7 +1348,9 @@
     }, 
     {
       "busnrs": [
-        "1"
+        "1", 
+        "2", 
+        "3"
       ], 
       "hnrlbls": [
         "9"

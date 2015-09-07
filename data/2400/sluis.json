@@ -74,6 +74,30 @@
     }, 
     {
       "hnrlbls": [
+        "109"
+      ], 
+      "housenumber": "109", 
+      "lat": 51.21019254623121, 
+      "lon": 5.127843641005605, 
+      "municipality": "Mol", 
+      "pcode": "2400", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Sluis"
+    }, 
+    {
+      "hnrlbls": [
+        "109A"
+      ], 
+      "housenumber": "109A", 
+      "lat": 51.21023904075692, 
+      "lon": 5.127980064431906, 
+      "municipality": "Mol", 
+      "pcode": "2400", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Sluis"
+    }, 
+    {
+      "hnrlbls": [
         "11"
       ], 
       "housenumber": "11", 
@@ -137,11 +161,11 @@
         "116"
       ], 
       "housenumber": "116", 
-      "lat": 51.209656243997514, 
-      "lon": 5.128504495982495, 
+      "lat": 51.209894014182574, 
+      "lon": 5.128376571814284, 
       "municipality": "Mol", 
       "pcode": "2400", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Sluis"
     }, 
     {
@@ -181,10 +205,6 @@
       "street": "Sluis"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
       "hnrlbls": [
         "121"
       ], 
@@ -221,6 +241,13 @@
       "street": "Sluis"
     }, 
     {
+      "apptnrs": [
+        "103", 
+        "104", 
+        "2", 
+        "3", 
+        "4"
+      ], 
       "hnrlbls": [
         "128"
       ], 
@@ -229,7 +256,7 @@
       "lon": 5.129618738949028, 
       "municipality": "Mol", 
       "pcode": "2400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Sluis"
     }, 
     {
@@ -637,19 +664,22 @@
     }, 
     {
       "apptnrs": [
+        "1", 
+        "101", 
         "102", 
         "103", 
+        "2", 
         "3"
       ], 
       "hnrlbls": [
         "165"
       ], 
       "housenumber": "165", 
-      "lat": 51.211191053806445, 
-      "lon": 5.135936639151356, 
+      "lat": 51.21116732085987, 
+      "lon": 5.1360753518585796, 
       "municipality": "Mol", 
       "pcode": "2400", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Sluis"
     }, 
     {
@@ -820,11 +850,11 @@
         "179"
       ], 
       "housenumber": "179", 
-      "lat": 51.211045094838056, 
-      "lon": 5.138102928128374, 
+      "lat": 51.211072985798886, 
+      "lon": 5.138112833934666, 
       "municipality": "Mol", 
       "pcode": "2400", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sluis"
     }, 
     {
@@ -1132,6 +1162,11 @@
       "street": "Sluis"
     }, 
     {
+      "apptnrs": [
+        "1", 
+        "102", 
+        "201"
+      ], 
       "hnrlbls": [
         "212"
       ], 
@@ -1572,6 +1607,21 @@
       "street": "Sluis"
     }, 
     {
+      "apptnrs": [
+        "1"
+      ], 
+      "hnrlbls": [
+        "250"
+      ], 
+      "housenumber": "250", 
+      "lat": 51.21191033736032, 
+      "lon": 5.144346921893572, 
+      "municipality": "Mol", 
+      "pcode": "2400", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Sluis"
+    }, 
+    {
       "hnrlbls": [
         "251"
       ], 
@@ -1876,11 +1926,11 @@
         "275B"
       ], 
       "housenumber": "275B", 
-      "lat": 51.21384118241727, 
-      "lon": 5.149771787596853, 
+      "lat": 51.21384765933444, 
+      "lon": 5.149811826389959, 
       "municipality": "Mol", 
       "pcode": "2400", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sluis"
     }, 
     {
@@ -2032,11 +2082,11 @@
         "294"
       ], 
       "housenumber": "294", 
-      "lat": 51.21320556996228, 
-      "lon": 5.148412254501563, 
+      "lat": 51.2131917788592, 
+      "lon": 5.148336314818818, 
       "municipality": "Mol", 
       "pcode": "2400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sluis"
     }, 
     {
@@ -2048,7 +2098,7 @@
       "lon": 5.148432124084282, 
       "municipality": "Mol", 
       "pcode": "2400", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sluis"
     }, 
     {
@@ -2908,11 +2958,23 @@
         "85"
       ], 
       "housenumber": "85", 
-      "lat": 51.20944276880907, 
-      "lon": 5.124720751079491, 
+      "lat": 51.20946816088172, 
+      "lon": 5.124742056392234, 
       "municipality": "Mol", 
       "pcode": "2400", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Sluis"
+    }, 
+    {
+      "hnrlbls": [
+        "85A"
+      ], 
+      "housenumber": "85A", 
+      "lat": 51.20950065244277, 
+      "lon": 5.1248759576327725, 
+      "municipality": "Mol", 
+      "pcode": "2400", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sluis"
     }, 
     {

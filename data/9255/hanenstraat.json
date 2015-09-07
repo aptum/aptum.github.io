@@ -275,6 +275,9 @@
       "street": "Hanenstraat"
     }, 
     {
+      "apptnrs": [
+        "001"
+      ], 
       "hnrlbls": [
         "113"
       ], 
@@ -636,7 +639,7 @@
     }, 
     {
       "hnrlbls": [
-        "140-140A"
+        "140"
       ], 
       "housenumber": "140", 
       "lat": 51.01079501991531, 
@@ -647,20 +650,32 @@
       "street": "Hanenstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
+      "apptnrs": [
+        "001", 
         "101", 
         "201"
       ], 
       "hnrlbls": [
-        "140-140A"
+        "140A"
       ], 
       "housenumber": "140A", 
-      "lat": 51.01079501991531, 
-      "lon": 4.1892791256288975, 
+      "lat": 51.010722178747734, 
+      "lon": 4.189318873639115, 
       "municipality": "Buggenhout", 
       "pcode": "9255", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Hanenstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "140B"
+      ], 
+      "housenumber": "140B", 
+      "lat": 51.01077963983408, 
+      "lon": 4.189214208373579, 
+      "municipality": "Buggenhout", 
+      "pcode": "9255", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Hanenstraat"
     }, 
     {
@@ -685,18 +700,6 @@
       "municipality": "Buggenhout", 
       "pcode": "9255", 
       "source": "manueleAanduidingVanIngangVanGebouw", 
-      "street": "Hanenstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "143"
-      ], 
-      "housenumber": "143", 
-      "lat": 51.010815834373034, 
-      "lon": 4.190261380803175, 
-      "municipality": "Buggenhout", 
-      "pcode": "9255", 
-      "source": "afgeleidVanGebouw", 
       "street": "Hanenstraat"
     }, 
     {
@@ -1922,11 +1925,11 @@
         "50"
       ], 
       "housenumber": "50", 
-      "lat": 51.01231064432451, 
-      "lon": 4.196448287947761, 
+      "lat": 51.01214373850719, 
+      "lon": 4.196524706928204, 
       "municipality": "Buggenhout", 
       "pcode": "9255", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hanenstraat"
     }, 
     {
@@ -2134,8 +2137,9 @@
       "street": "Hanenstraat"
     }, 
     {
-      "busnrs": [
-        "0001"
+      "apptnrs": [
+        "0001", 
+        "0101"
       ], 
       "hnrlbls": [
         "69"

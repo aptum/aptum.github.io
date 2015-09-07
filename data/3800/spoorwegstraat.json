@@ -206,7 +206,9 @@
       "busnrs": [
         "101", 
         "201", 
-        "401"
+        "301", 
+        "401", 
+        "OO01"
       ], 
       "hnrlbls": [
         "24"
@@ -249,7 +251,8 @@
         "102", 
         "201", 
         "202", 
-        "301"
+        "301", 
+        "OO01"
       ], 
       "hnrlbls": [
         "21-27"
@@ -529,6 +532,7 @@
       "busnrs": [
         "1", 
         "101", 
+        "201", 
         "202"
       ], 
       "hnrlbls": [
@@ -591,12 +595,30 @@
       "street": "Spoorwegstraat"
     }, 
     {
+      "busnrs": [
+        "0OO2"
+      ], 
       "hnrlbls": [
         "51"
       ], 
       "housenumber": "51", 
       "lat": 50.817918344394855, 
       "lon": 5.178171707104973, 
+      "municipality": "Sint-Truiden", 
+      "pcode": "3800", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Spoorwegstraat"
+    }, 
+    {
+      "busnrs": [
+        "201"
+      ], 
+      "hnrlbls": [
+        "52"
+      ], 
+      "housenumber": "52", 
+      "lat": 50.818093774243835, 
+      "lon": 5.178724725801303, 
       "municipality": "Sint-Truiden", 
       "pcode": "3800", 
       "source": "afgeleidVanGebouw", 
@@ -624,6 +646,11 @@
       "street": "Spoorwegstraat"
     }, 
     {
+      "busnrs": [
+        "101", 
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
         "54"
       ], 

@@ -1,11 +1,11 @@
 {
   "addresses": [
     {
-      "busnrs": [
-        "1", 
-        "101", 
-        "201", 
-        "301"
+      "apptnrs": [
+        "0001", 
+        "0101", 
+        "0201", 
+        "0301"
       ], 
       "hnrlbls": [
         "1"
@@ -15,7 +15,7 @@
       "lon": 2.816614063593537, 
       "municipality": "Middelkerke", 
       "pcode": "8430", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Jean Van Hinsberghstraat"
     }, 
     {
@@ -27,7 +27,7 @@
       "lon": 2.816733038148605, 
       "municipality": "Middelkerke", 
       "pcode": "8430", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Jean Van Hinsberghstraat"
     }, 
     {
@@ -39,25 +39,25 @@
       "lon": 2.8164034780021407, 
       "municipality": "Middelkerke", 
       "pcode": "8430", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Jean Van Hinsberghstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "101", 
-        "201", 
-        "301"
+      "apptnrs": [
+        "0001", 
+        "0101", 
+        "0201", 
+        "0301"
       ], 
       "hnrlbls": [
         "12"
       ], 
       "housenumber": "12", 
-      "lat": 51.187688846289234, 
-      "lon": 2.816664958736629, 
+      "lat": 51.18768893615465, 
+      "lon": 2.8166649557483927, 
       "municipality": "Middelkerke", 
       "pcode": "8430", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Jean Van Hinsberghstraat"
     }, 
     {
@@ -65,20 +65,19 @@
         "13"
       ], 
       "housenumber": "13", 
-      "lat": 51.18737674326952, 
-      "lon": 2.816346725196618, 
+      "lat": 51.187376833134934, 
+      "lon": 2.8163467222077903, 
       "municipality": "Middelkerke", 
       "pcode": "8430", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Jean Van Hinsberghstraat"
     }, 
     {
-      "busnrs": [
-        "101", 
-        "201", 
-        "202", 
-        "301", 
-        "401"
+      "apptnrs": [
+        "0101", 
+        "0201", 
+        "0301", 
+        "0401"
       ], 
       "hnrlbls": [
         "14"
@@ -88,97 +87,157 @@
       "lon": 2.8165447518567386, 
       "municipality": "Middelkerke", 
       "pcode": "8430", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Jean Van Hinsberghstraat"
     }, 
     {
-      "busnrs": [
-        "101", 
-        "301"
+      "apptnrs": [
+        "0101", 
+        "0201", 
+        "0301"
       ], 
       "hnrlbls": [
         "15"
       ], 
       "housenumber": "15", 
-      "lat": 51.18742220994609, 
-      "lon": 2.816310592170347, 
+      "lat": 51.1874222998115, 
+      "lon": 2.816310589181446, 
       "municipality": "Middelkerke", 
       "pcode": "8430", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Jean Van Hinsberghstraat"
     }, 
     {
-      "busnrs": [
-        "109", 
-        "2", 
-        "301", 
-        "309", 
-        "501", 
-        "502", 
-        "505", 
-        "507", 
-        "701", 
-        "A"
+      "apptnrs": [
+        "0101", 
+        "0102", 
+        "0103", 
+        "0104", 
+        "0105", 
+        "0106", 
+        "0107", 
+        "0108", 
+        "0109", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0204", 
+        "0205", 
+        "0206", 
+        "0207", 
+        "0208", 
+        "0209", 
+        "0301", 
+        "0302", 
+        "0303", 
+        "0304", 
+        "0305", 
+        "0306", 
+        "0307", 
+        "0308", 
+        "0309", 
+        "0401", 
+        "0402", 
+        "0403", 
+        "0404", 
+        "0405", 
+        "0406", 
+        "0407", 
+        "0408", 
+        "0409", 
+        "0501", 
+        "0502", 
+        "0503", 
+        "0504", 
+        "0505", 
+        "0506", 
+        "0507", 
+        "0508", 
+        "0601", 
+        "0602", 
+        "0603", 
+        "0604", 
+        "0605", 
+        "0606", 
+        "0607", 
+        "0701", 
+        "0702", 
+        "0703", 
+        "0704", 
+        "0705", 
+        "0706", 
+        "0801"
       ], 
       "hnrlbls": [
-        "16-16C"
-      ], 
-      "housenumber": "16", 
-      "lat": 51.18781126689325, 
-      "lon": 2.8167448656685816, 
-      "municipality": "Middelkerke", 
-      "pcode": "8430", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Jean Van Hinsberghstraat"
-    }, 
-    {
-      "busnrs": [
-        "105", 
-        "109", 
-        "203", 
-        "301", 
-        "309", 
-        "501", 
-        "502", 
-        "505", 
-        "507", 
-        "701"
-      ], 
-      "hnrlbls": [
-        "16A-29"
+        "16A-27"
       ], 
       "housenumber": "16A", 
-      "lat": 51.187872027125444, 
-      "lon": 2.8166478516896363, 
+      "lat": 51.18786217352358, 
+      "lon": 2.8164589073862993, 
       "municipality": "Middelkerke", 
       "pcode": "8430", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Jean Van Hinsberghstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "101", 
-        "102", 
-        "103", 
-        "104", 
-        "105", 
-        "202", 
-        "204", 
-        "301", 
-        "303", 
-        "304", 
-        "306", 
-        "402", 
-        "403", 
-        "405", 
-        "406", 
-        "503", 
-        "805", 
-        "806", 
-        "901", 
-        "903", 
-        "904"
+      "apptnrs": [
+        "0001", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0104", 
+        "0105", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0204", 
+        "0205", 
+        "0206", 
+        "0301", 
+        "0302", 
+        "0303", 
+        "0304", 
+        "0305", 
+        "0306", 
+        "0401", 
+        "0402", 
+        "0403", 
+        "0404", 
+        "0405", 
+        "0406", 
+        "0501", 
+        "0502", 
+        "0503", 
+        "0504", 
+        "0505", 
+        "0506", 
+        "0601", 
+        "0602", 
+        "0603", 
+        "0604", 
+        "0605", 
+        "0606", 
+        "0701", 
+        "0702", 
+        "0703", 
+        "0704", 
+        "0705", 
+        "0706", 
+        "0801", 
+        "0802", 
+        "0803", 
+        "0804", 
+        "0805", 
+        "0806", 
+        "0901", 
+        "0902", 
+        "0903", 
+        "0904", 
+        "0905", 
+        "0906", 
+        "1001", 
+        "1002", 
+        "1003"
       ], 
       "hnrlbls": [
         "16B-48"
@@ -188,43 +247,46 @@
       "lon": 2.8161039885910473, 
       "municipality": "Middelkerke", 
       "pcode": "8430", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Jean Van Hinsberghstraat"
     }, 
     {
-      "busnrs": [
-        "105"
+      "apptnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302", 
+        "0401", 
+        "0402", 
+        "0501"
       ], 
       "hnrlbls": [
-        "16-16C"
-      ], 
-      "housenumber": "16C", 
-      "lat": 51.18781126689325, 
-      "lon": 2.8167448656685816, 
-      "municipality": "Middelkerke", 
-      "pcode": "8430", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Jean Van Hinsberghstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "17-25"
+        "17-19"
       ], 
       "housenumber": "17", 
-      "lat": 51.18755430648891, 
-      "lon": 2.8161346675879257, 
+      "lat": 51.187535739008624, 
+      "lon": 2.816199519923023, 
       "municipality": "Middelkerke", 
       "pcode": "8430", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Jean Van Hinsberghstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "101", 
-        "201", 
-        "301", 
-        "801"
+      "apptnrs": [
+        "0001", 
+        "0101", 
+        "0201", 
+        "0301", 
+        "0401", 
+        "0501", 
+        "0601", 
+        "0701", 
+        "0801", 
+        "0901"
       ], 
       "hnrlbls": [
         "18"
@@ -234,27 +296,39 @@
       "lon": 2.8160055878516626, 
       "municipality": "Middelkerke", 
       "pcode": "8430", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Jean Van Hinsberghstraat"
     }, 
     {
+      "apptnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302", 
+        "0401", 
+        "0402"
+      ], 
       "hnrlbls": [
-        "17-25"
+        "17-19"
       ], 
       "housenumber": "19", 
-      "lat": 51.18755430648891, 
-      "lon": 2.8161346675879257, 
+      "lat": 51.187535739008624, 
+      "lon": 2.816199519923023, 
       "municipality": "Middelkerke", 
       "pcode": "8430", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Jean Van Hinsberghstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "101", 
-        "201", 
-        "301"
+      "apptnrs": [
+        "0001", 
+        "0101", 
+        "0201", 
+        "0301"
       ], 
       "hnrlbls": [
         "2"
@@ -264,114 +338,110 @@
       "lon": 2.816914145800326, 
       "municipality": "Middelkerke", 
       "pcode": "8430", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Jean Van Hinsberghstraat"
     }, 
     {
-      "busnrs": [
-        "101", 
-        "301", 
-        "401", 
-        "5"
+      "apptnrs": [
+        "0001", 
+        "0101", 
+        "0201", 
+        "0301", 
+        "0401", 
+        "0501", 
+        "0601", 
+        "0701"
       ], 
       "hnrlbls": [
         "20"
       ], 
       "housenumber": "20", 
-      "lat": 51.188369935658805, 
-      "lon": 2.8158141114761457, 
+      "lat": 51.18837002552415, 
+      "lon": 2.8158141084862285, 
       "municipality": "Middelkerke", 
       "pcode": "8430", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Jean Van Hinsberghstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "17-25"
-      ], 
-      "housenumber": "21", 
-      "lat": 51.18755430648891, 
-      "lon": 2.8161346675879257, 
-      "municipality": "Middelkerke", 
-      "pcode": "8430", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Jean Van Hinsberghstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "17-25"
-      ], 
-      "housenumber": "23", 
-      "lat": 51.18755430648891, 
-      "lon": 2.8161346675879257, 
-      "municipality": "Middelkerke", 
-      "pcode": "8430", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Jean Van Hinsberghstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "17-25"
-      ], 
-      "housenumber": "25", 
-      "lat": 51.18755430648891, 
-      "lon": 2.8161346675879257, 
-      "municipality": "Middelkerke", 
-      "pcode": "8430", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Jean Van Hinsberghstraat"
-    }, 
-    {
-      "busnrs": [
-        "201", 
-        "202", 
-        "208", 
-        "303", 
-        "406", 
-        "504", 
-        "506", 
-        "507", 
-        "508", 
-        "601", 
-        "602", 
-        "605", 
-        "706", 
-        "801"
-      ], 
-      "hnrlbls": [
-        "29"
-      ], 
-      "housenumber": "29", 
-      "lat": 51.187686316655245, 
-      "lon": 2.815959030998427, 
-      "municipality": "Middelkerke", 
-      "pcode": "8430", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Jean Van Hinsberghstraat"
-    }, 
-    {
-      "busnrs": [
-        "2"
-      ], 
-      "hnrlbls": [
-        "29D"
-      ], 
-      "housenumber": "29D", 
-      "lat": 51.187686402763134, 
-      "lon": 2.8159587420094465, 
-      "municipality": "Middelkerke", 
-      "pcode": "8430", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Jean Van Hinsberghstraat"
     }, 
     {
       "apptnrs": [
-        "2.0"
+        "0001", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0104", 
+        "0105", 
+        "0106", 
+        "0107", 
+        "0108", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0204", 
+        "0205", 
+        "0206", 
+        "0207", 
+        "0208", 
+        "0301", 
+        "0302", 
+        "0303", 
+        "0304", 
+        "0305", 
+        "0306", 
+        "0307", 
+        "0308", 
+        "0401", 
+        "0402", 
+        "0403", 
+        "0404", 
+        "0405", 
+        "0406", 
+        "0407", 
+        "0408", 
+        "0409", 
+        "0501", 
+        "0502", 
+        "0503", 
+        "0504", 
+        "0505", 
+        "0506", 
+        "0507", 
+        "0508", 
+        "0601", 
+        "0602", 
+        "0603", 
+        "0604", 
+        "0605", 
+        "0606", 
+        "0607", 
+        "0608", 
+        "0701", 
+        "0702", 
+        "0703", 
+        "0704", 
+        "0705", 
+        "0706", 
+        "0707", 
+        "0801"
       ], 
-      "busnrs": [
-        "1", 
-        "101", 
-        "301"
+      "hnrlbls": [
+        "29-31"
+      ], 
+      "housenumber": "29", 
+      "lat": 51.187686406520626, 
+      "lon": 2.815959028008832, 
+      "municipality": "Middelkerke", 
+      "pcode": "8430", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Jean Van Hinsberghstraat"
+    }, 
+    {
+      "apptnrs": [
+        "-101", 
+        "0001", 
+        "0101", 
+        "0201", 
+        "0301"
       ], 
       "hnrlbls": [
         "3"
@@ -381,83 +451,104 @@
       "lon": 2.8165854489222015, 
       "municipality": "Middelkerke", 
       "pcode": "8430", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Jean Van Hinsberghstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "1001", 
-        "101", 
-        "201", 
-        "202", 
-        "203", 
-        "302", 
-        "402", 
-        "404", 
-        "601", 
-        "603", 
-        "701", 
-        "704", 
-        "802", 
-        "803", 
-        "901", 
-        "902", 
-        "903"
+      "apptnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0104", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0301", 
+        "0302", 
+        "0303", 
+        "0304", 
+        "0401", 
+        "0402", 
+        "0403", 
+        "0404", 
+        "0501", 
+        "0502", 
+        "0503", 
+        "0504", 
+        "0601", 
+        "0602", 
+        "0603", 
+        "0604", 
+        "0701", 
+        "0702", 
+        "0703", 
+        "0704", 
+        "0801", 
+        "0802", 
+        "0803", 
+        "0901", 
+        "0902", 
+        "0903", 
+        "0904", 
+        "1001"
       ], 
       "hnrlbls": [
-        "31"
+        "31-52"
       ], 
       "housenumber": "31", 
-      "lat": 51.188044931391886, 
-      "lon": 2.815656825263884, 
+      "lat": 51.18804502125725, 
+      "lon": 2.815656822273684, 
       "municipality": "Middelkerke", 
       "pcode": "8430", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Jean Van Hinsberghstraat"
     }, 
     {
-      "busnrs": [
-        "3"
+      "apptnrs": [
+        "0001", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302", 
+        "0401", 
+        "0402", 
+        "0501", 
+        "0502", 
+        "0601", 
+        "0602", 
+        "0701", 
+        "0702", 
+        "0801", 
+        "0802", 
+        "0901", 
+        "0902", 
+        "1001"
       ], 
       "hnrlbls": [
-        "31A"
-      ], 
-      "housenumber": "31A", 
-      "lat": 51.188045019378144, 
-      "lon": 2.815656679272906, 
-      "municipality": "Middelkerke", 
-      "pcode": "8430", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Jean Van Hinsberghstraat"
-    }, 
-    {
-      "busnrs": [
-        "1001", 
-        "201", 
-        "202", 
-        "502", 
-        "701", 
-        "801", 
-        "802", 
-        "901"
-      ], 
-      "hnrlbls": [
-        "33-92"
+        "33-91"
       ], 
       "housenumber": "33", 
       "lat": 51.188230801096275, 
       "lon": 2.8154612239942085, 
       "municipality": "Middelkerke", 
       "pcode": "8430", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Jean Van Hinsberghstraat"
     }, 
     {
-      "busnrs": [
-        "102", 
-        "201", 
-        "6"
+      "apptnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302"
       ], 
       "hnrlbls": [
         "4"
@@ -467,37 +558,38 @@
       "lon": 2.8168370933717988, 
       "municipality": "Middelkerke", 
       "pcode": "8430", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Jean Van Hinsberghstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "101", 
-        "201"
+      "apptnrs": [
+        "0001", 
+        "0101", 
+        "0201"
       ], 
       "hnrlbls": [
         "6"
       ], 
       "housenumber": "6", 
-      "lat": 51.18754360878954, 
-      "lon": 2.8167644950710407, 
+      "lat": 51.1875435189241, 
+      "lon": 2.8167644980590762, 
       "municipality": "Middelkerke", 
       "pcode": "8430", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Jean Van Hinsberghstraat"
     }, 
     {
-      "busnrs": [
-        "101", 
-        "102", 
-        "201", 
-        "202", 
-        "301", 
-        "302", 
-        "401", 
-        "402", 
-        "501"
+      "apptnrs": [
+        "0001", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302", 
+        "0401", 
+        "0402", 
+        "0501"
       ], 
       "hnrlbls": [
         "7"
@@ -507,7 +599,7 @@
       "lon": 2.8164926535336754, 
       "municipality": "Middelkerke", 
       "pcode": "8430", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Jean Van Hinsberghstraat"
     }, 
     {
@@ -519,19 +611,7 @@
       "lon": 2.8167788961923805, 
       "municipality": "Middelkerke", 
       "pcode": "8430", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Jean Van Hinsberghstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "801"
-      ], 
-      "housenumber": "801", 
-      "lat": 51.18759900240935, 
-      "lon": 2.8164163003644105, 
-      "municipality": "Middelkerke", 
-      "pcode": "8430", 
-      "source": "afgeleidVanStraat", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Jean Van Hinsberghstraat"
     }, 
     {
@@ -539,11 +619,11 @@
         "9"
       ], 
       "housenumber": "9", 
-      "lat": 51.187203613358506, 
-      "lon": 2.8164308805540488, 
+      "lat": 51.18727257755839, 
+      "lon": 2.816383522821761, 
       "municipality": "Middelkerke", 
       "pcode": "8430", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Jean Van Hinsberghstraat"
     }
   ]

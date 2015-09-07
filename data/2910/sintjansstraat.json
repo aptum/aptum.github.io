@@ -767,17 +767,18 @@
     }, 
     {
       "busnrs": [
+        "1", 
         "2"
       ], 
       "hnrlbls": [
         "162A"
       ], 
       "housenumber": "162A", 
-      "lat": 51.42461756403936, 
-      "lon": 4.473304144272789, 
+      "lat": 51.425288952961296, 
+      "lon": 4.471652821776011, 
       "municipality": "Essen", 
       "pcode": "2910", 
-      "source": "geinterpoleerdObvWegverbinding", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Sint-Jansstraat"
     }, 
     {
@@ -785,11 +786,11 @@
         "164"
       ], 
       "housenumber": "164", 
-      "lat": 51.424557546847765, 
-      "lon": 4.473484140568313, 
+      "lat": 51.4253676946445, 
+      "lon": 4.471949868877338, 
       "municipality": "Essen", 
       "pcode": "2910", 
-      "source": "geinterpoleerdObvWegverbinding", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Sint-Jansstraat"
     }, 
     {
@@ -1684,6 +1685,9 @@
       "street": "Sint-Jansstraat"
     }, 
     {
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "27"
       ], 
@@ -1861,7 +1865,8 @@
     }, 
     {
       "busnrs": [
-        "1"
+        "1", 
+        "2"
       ], 
       "hnrlbls": [
         "35"
@@ -1879,14 +1884,41 @@
         "1"
       ], 
       "hnrlbls": [
-        "35C"
+        "35A-35B"
       ], 
-      "housenumber": "35C", 
+      "housenumber": "35A", 
       "lat": 51.428107542271604, 
       "lon": 4.465292463568557, 
       "municipality": "Essen", 
       "pcode": "2910", 
       "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "street": "Sint-Jansstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "35A-35B"
+      ], 
+      "housenumber": "35B", 
+      "lat": 51.428107542271604, 
+      "lon": 4.465292463568557, 
+      "municipality": "Essen", 
+      "pcode": "2910", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "street": "Sint-Jansstraat"
+    }, 
+    {
+      "busnrs": [
+        "1"
+      ], 
+      "hnrlbls": [
+        "35C"
+      ], 
+      "housenumber": "35C", 
+      "lat": 51.428305353225326, 
+      "lon": 4.465409764962327, 
+      "municipality": "Essen", 
+      "pcode": "2910", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Sint-Jansstraat"
     }, 
     {

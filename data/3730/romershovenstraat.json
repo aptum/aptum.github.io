@@ -184,6 +184,9 @@
       "street": "Romershovenstraat"
     }, 
     {
+      "busnrs": [
+        "bbu1"
+      ], 
       "hnrlbls": [
         "113"
       ], 
@@ -487,6 +490,9 @@
       "street": "Romershovenstraat"
     }, 
     {
+      "busnrs": [
+        "Bbu2"
+      ], 
       "hnrlbls": [
         "125"
       ], 
@@ -758,8 +764,8 @@
         "142B"
       ], 
       "housenumber": "142B", 
-      "lat": 50.86747734117676, 
-      "lon": 5.453069112236957, 
+      "lat": 50.867481277726625, 
+      "lon": 5.453071192142629, 
       "municipality": "Hoeselt", 
       "pcode": "3730", 
       "source": "afgeleidVanPerceelGrb", 
@@ -774,7 +780,7 @@
       "lon": 5.453126284405253, 
       "municipality": "Hoeselt", 
       "pcode": "3730", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Romershovenstraat"
     }, 
     {
@@ -796,18 +802,6 @@
       "housenumber": "145", 
       "lat": 50.86795094807448, 
       "lon": 5.453653170827487, 
-      "municipality": "Hoeselt", 
-      "pcode": "3730", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Romershovenstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "145A"
-      ], 
-      "housenumber": "145A", 
-      "lat": 50.86767167755674, 
-      "lon": 5.453160548089759, 
       "municipality": "Hoeselt", 
       "pcode": "3730", 
       "source": "afgeleidVanGebouw", 
@@ -1295,14 +1289,14 @@
     }, 
     {
       "hnrlbls": [
-        "179A-180"
+        "179A"
       ], 
       "housenumber": "179A", 
-      "lat": 50.87251662954377, 
-      "lon": 5.455217619964987, 
+      "lat": 50.87245751829513, 
+      "lon": 5.455280617191597, 
       "municipality": "Hoeselt", 
       "pcode": "3730", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Romershovenstraat"
     }, 
     {
@@ -1322,14 +1316,14 @@
     }, 
     {
       "hnrlbls": [
-        "179A-180"
+        "180"
       ], 
       "housenumber": "180", 
-      "lat": 50.87251662954377, 
-      "lon": 5.455217619964987, 
+      "lat": 50.87257552933432, 
+      "lon": 5.455255073030783, 
       "municipality": "Hoeselt", 
       "pcode": "3730", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Romershovenstraat"
     }, 
     {
@@ -1349,11 +1343,11 @@
         "182"
       ], 
       "housenumber": "182", 
-      "lat": 50.872709915226416, 
-      "lon": 5.4558296576766665, 
+      "lat": 50.87255012557072, 
+      "lon": 5.456366171516414, 
       "municipality": "Hoeselt", 
       "pcode": "3730", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Romershovenstraat"
     }, 
     {
@@ -2129,8 +2123,8 @@
         "59"
       ], 
       "housenumber": "59", 
-      "lat": 50.85802003698464, 
-      "lon": 5.46011269519021, 
+      "lat": 50.858056152317566, 
+      "lon": 5.460096205205699, 
       "municipality": "Hoeselt", 
       "pcode": "3730", 
       "source": "afgeleidVanGebouw", 
@@ -2311,38 +2305,14 @@
     }, 
     {
       "hnrlbls": [
-        "72-72A"
+        "72"
       ], 
       "housenumber": "72", 
-      "lat": 50.8593101658953, 
-      "lon": 5.459388266031343, 
+      "lat": 50.859386144808326, 
+      "lon": 5.459657789151387, 
       "municipality": "Hoeselt", 
       "pcode": "3730", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Romershovenstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "72-72A"
-      ], 
-      "housenumber": "72A", 
-      "lat": 50.8593101658953, 
-      "lon": 5.459388266031343, 
-      "municipality": "Hoeselt", 
-      "pcode": "3730", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Romershovenstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "73"
-      ], 
-      "housenumber": "73", 
-      "lat": 50.859342122398054, 
-      "lon": 5.459722108104596, 
-      "municipality": "Hoeselt", 
-      "pcode": "3730", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Romershovenstraat"
     }, 
     {
@@ -2434,11 +2404,11 @@
         "76"
       ], 
       "housenumber": "76", 
-      "lat": 50.86002870830792, 
-      "lon": 5.45990723853789, 
+      "lat": 50.86007257748748, 
+      "lon": 5.459859392951015, 
       "municipality": "Hoeselt", 
       "pcode": "3730", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Romershovenstraat"
     }, 
     {
@@ -2503,7 +2473,9 @@
     }, 
     {
       "busnrs": [
-        "1"
+        "1", 
+        "ABu1", 
+        "Abu2"
       ], 
       "hnrlbls": [
         "80"
@@ -2533,7 +2505,7 @@
     }, 
     {
       "hnrlbls": [
-        "81-81A"
+        "81"
       ], 
       "housenumber": "81", 
       "lat": 50.86034463105037, 
@@ -2541,18 +2513,6 @@
       "municipality": "Hoeselt", 
       "pcode": "3730", 
       "source": "afgeleidVanGebouw", 
-      "street": "Romershovenstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "81-81A"
-      ], 
-      "housenumber": "81A", 
-      "lat": 50.86034463105037, 
-      "lon": 5.459028045595693, 
-      "municipality": "Hoeselt", 
-      "pcode": "3730", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Romershovenstraat"
     }, 
     {
@@ -2656,26 +2616,26 @@
     }, 
     {
       "hnrlbls": [
-        "92-92A"
+        "92"
       ], 
       "housenumber": "92", 
-      "lat": 50.86116352545141, 
-      "lon": 5.4579109230353735, 
+      "lat": 50.8611596876007, 
+      "lon": 5.457878872250709, 
       "municipality": "Hoeselt", 
       "pcode": "3730", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Romershovenstraat"
     }, 
     {
       "hnrlbls": [
-        "92-92A"
+        "92A"
       ], 
       "housenumber": "92A", 
-      "lat": 50.86116352545141, 
-      "lon": 5.4579109230353735, 
+      "lat": 50.861078058560786, 
+      "lon": 5.458023576826608, 
       "municipality": "Hoeselt", 
       "pcode": "3730", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Romershovenstraat"
     }, 
     {

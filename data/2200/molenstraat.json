@@ -2,10 +2,19 @@
   "addresses": [
     {
       "busnrs": [
-        "1"
+        "1", 
+        "A", 
+        "B", 
+        "C", 
+        "D", 
+        "E", 
+        "F", 
+        "G", 
+        "H", 
+        "I"
       ], 
       "hnrlbls": [
-        "1-1_1"
+        "1"
       ], 
       "housenumber": "1", 
       "lat": 51.12323970901912, 
@@ -20,35 +29,11 @@
         "10"
       ], 
       "housenumber": "10", 
-      "lat": 51.12287672957308, 
-      "lon": 4.823978778899229, 
+      "lat": 51.12290307340112, 
+      "lon": 4.824070164859878, 
       "municipality": "Herentals", 
       "pcode": "2200", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Molenstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "2A-203A"
-      ], 
-      "housenumber": "101A", 
-      "lat": 51.12360492560847, 
-      "lon": 4.824720925556758, 
-      "municipality": "Herentals", 
-      "pcode": "2200", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Molenstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "2A-203A"
-      ], 
-      "housenumber": "102A", 
-      "lat": 51.12360492560847, 
-      "lon": 4.824720925556758, 
-      "municipality": "Herentals", 
-      "pcode": "2200", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Molenstraat"
     }, 
     {
@@ -76,11 +61,11 @@
         "12"
       ], 
       "housenumber": "12", 
-      "lat": 51.12294154996763, 
-      "lon": 4.824278365891961, 
+      "lat": 51.12280634564786, 
+      "lon": 4.823885963584502, 
       "municipality": "Herentals", 
       "pcode": "2200", 
-      "source": "geinterpoleerdObvWegverbinding", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Molenstraat"
     }, 
     {
@@ -97,14 +82,14 @@
     }, 
     {
       "hnrlbls": [
-        "14"
+        "14B"
       ], 
-      "housenumber": "14", 
-      "lat": 51.122687013940315, 
-      "lon": 4.823596130699287, 
+      "housenumber": "14B", 
+      "lat": 51.12263703425091, 
+      "lon": 4.8236896285505, 
       "municipality": "Herentals", 
       "pcode": "2200", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Molenstraat"
     }, 
     {
@@ -121,30 +106,6 @@
     }, 
     {
       "hnrlbls": [
-        "155-157"
-      ], 
-      "housenumber": "155", 
-      "lat": 51.12141162378353, 
-      "lon": 4.82115714635753, 
-      "municipality": "Herentals", 
-      "pcode": "2200", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Molenstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "155-157"
-      ], 
-      "housenumber": "157", 
-      "lat": 51.12141162378353, 
-      "lon": 4.82115714635753, 
-      "municipality": "Herentals", 
-      "pcode": "2200", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Molenstraat"
-    }, 
-    {
-      "hnrlbls": [
         "16"
       ], 
       "housenumber": "16", 
@@ -156,111 +117,26 @@
       "street": "Molenstraat"
     }, 
     {
+      "busnrs": [
+        "A", 
+        "B", 
+        "C", 
+        "D", 
+        "E", 
+        "F", 
+        "G", 
+        "H", 
+        "I"
+      ], 
       "hnrlbls": [
-        "17-17I"
+        "17"
       ], 
       "housenumber": "17", 
-      "lat": 51.12238758904711, 
-      "lon": 4.823853454736773, 
+      "lat": 51.12238856803259, 
+      "lon": 4.823762907702361, 
       "municipality": "Herentals", 
       "pcode": "2200", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Molenstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "17-17I"
-      ], 
-      "housenumber": "17A", 
-      "lat": 51.12238758904711, 
-      "lon": 4.823853454736773, 
-      "municipality": "Herentals", 
-      "pcode": "2200", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Molenstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "17-17I"
-      ], 
-      "housenumber": "17B", 
-      "lat": 51.12238758904711, 
-      "lon": 4.823853454736773, 
-      "municipality": "Herentals", 
-      "pcode": "2200", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Molenstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "17-17I"
-      ], 
-      "housenumber": "17C", 
-      "lat": 51.12238758904711, 
-      "lon": 4.823853454736773, 
-      "municipality": "Herentals", 
-      "pcode": "2200", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Molenstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "17-17I"
-      ], 
-      "housenumber": "17D", 
-      "lat": 51.12238758904711, 
-      "lon": 4.823853454736773, 
-      "municipality": "Herentals", 
-      "pcode": "2200", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Molenstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "17-17I"
-      ], 
-      "housenumber": "17F", 
-      "lat": 51.12238758904711, 
-      "lon": 4.823853454736773, 
-      "municipality": "Herentals", 
-      "pcode": "2200", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Molenstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "17-17I"
-      ], 
-      "housenumber": "17G", 
-      "lat": 51.12238758904711, 
-      "lon": 4.823853454736773, 
-      "municipality": "Herentals", 
-      "pcode": "2200", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Molenstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "17-17I"
-      ], 
-      "housenumber": "17H", 
-      "lat": 51.12238758904711, 
-      "lon": 4.823853454736773, 
-      "municipality": "Herentals", 
-      "pcode": "2200", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Molenstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "17-17I"
-      ], 
-      "housenumber": "17I", 
-      "lat": 51.12238758904711, 
-      "lon": 4.823853454736773, 
-      "municipality": "Herentals", 
-      "pcode": "2200", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Molenstraat"
     }, 
     {
@@ -288,131 +164,10 @@
       "street": "Molenstraat"
     }, 
     {
-      "hnrlbls": [
-        "1-1_1"
-      ], 
-      "housenumber": "1A", 
-      "lat": 51.12323970901912, 
-      "lon": 4.825138295009669, 
-      "municipality": "Herentals", 
-      "pcode": "2200", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Molenstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "1-1_1"
-      ], 
-      "housenumber": "1B", 
-      "lat": 51.12323970901912, 
-      "lon": 4.825138295009669, 
-      "municipality": "Herentals", 
-      "pcode": "2200", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Molenstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "1-1_1"
-      ], 
-      "housenumber": "1C", 
-      "lat": 51.12323970901912, 
-      "lon": 4.825138295009669, 
-      "municipality": "Herentals", 
-      "pcode": "2200", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Molenstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "1-1_1"
-      ], 
-      "housenumber": "1D", 
-      "lat": 51.12323970901912, 
-      "lon": 4.825138295009669, 
-      "municipality": "Herentals", 
-      "pcode": "2200", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Molenstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "1-1_1"
-      ], 
-      "housenumber": "1E", 
-      "lat": 51.12323970901912, 
-      "lon": 4.825138295009669, 
-      "municipality": "Herentals", 
-      "pcode": "2200", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Molenstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "1-1_1"
-      ], 
-      "housenumber": "1F", 
-      "lat": 51.12323970901912, 
-      "lon": 4.825138295009669, 
-      "municipality": "Herentals", 
-      "pcode": "2200", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Molenstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "1-1_1"
-      ], 
-      "housenumber": "1G", 
-      "lat": 51.12323970901912, 
-      "lon": 4.825138295009669, 
-      "municipality": "Herentals", 
-      "pcode": "2200", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Molenstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "1-1_1"
-      ], 
-      "housenumber": "1H", 
-      "lat": 51.12323970901912, 
-      "lon": 4.825138295009669, 
-      "municipality": "Herentals", 
-      "pcode": "2200", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Molenstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "1-1_1"
-      ], 
-      "housenumber": "1I", 
-      "lat": 51.12323970901912, 
-      "lon": 4.825138295009669, 
-      "municipality": "Herentals", 
-      "pcode": "2200", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Molenstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "1-1_1"
-      ], 
-      "housenumber": "1_1", 
-      "lat": 51.12323970901912, 
-      "lon": 4.825138295009669, 
-      "municipality": "Herentals", 
-      "pcode": "2200", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Molenstraat"
-    }, 
-    {
       "busnrs": [
         "1", 
         "101", 
         "102", 
-        "1A", 
         "2", 
         "201", 
         "202"
@@ -421,11 +176,11 @@
         "2"
       ], 
       "housenumber": "2", 
-      "lat": 51.12368682549256, 
-      "lon": 4.824787716990468, 
+      "lat": 51.12384316548828, 
+      "lon": 4.82494422457265, 
       "municipality": "Herentals", 
       "pcode": "2200", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Molenstraat"
     }, 
     {
@@ -441,32 +196,8 @@
         "20"
       ], 
       "housenumber": "20", 
-      "lat": 51.12318483126062, 
-      "lon": 4.824197753351855, 
-      "municipality": "Herentals", 
-      "pcode": "2200", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Molenstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "2A-203A"
-      ], 
-      "housenumber": "202A", 
-      "lat": 51.12360492560847, 
-      "lon": 4.824720925556758, 
-      "municipality": "Herentals", 
-      "pcode": "2200", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Molenstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "2A-203A"
-      ], 
-      "housenumber": "203A", 
-      "lat": 51.12360492560847, 
-      "lon": 4.824720925556758, 
+      "lat": 51.12234463193734, 
+      "lon": 4.823151493060644, 
       "municipality": "Herentals", 
       "pcode": "2200", 
       "source": "afgeleidVanGebouw", 
@@ -521,18 +252,15 @@
       "street": "Molenstraat"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
         "25"
       ], 
       "housenumber": "25", 
-      "lat": 51.121687588768154, 
-      "lon": 4.82281438305437, 
+      "lat": 51.121785736060595, 
+      "lon": 4.822817337855958, 
       "municipality": "Herentals", 
       "pcode": "2200", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Molenstraat"
     }, 
     {
@@ -545,11 +273,11 @@
         "25_1"
       ], 
       "housenumber": "25_1", 
-      "lat": 51.12160856806108, 
-      "lon": 4.822769907651543, 
+      "lat": 51.121633826666255, 
+      "lon": 4.822723304737757, 
       "municipality": "Herentals", 
       "pcode": "2200", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Molenstraat"
     }, 
     {
@@ -557,11 +285,11 @@
         "26"
       ], 
       "housenumber": "26", 
-      "lat": 51.12208812267443, 
-      "lon": 4.822840562934807, 
+      "lat": 51.12199916188426, 
+      "lon": 4.8228329839985316, 
       "municipality": "Herentals", 
       "pcode": "2200", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Molenstraat"
     }, 
     {
@@ -590,7 +318,7 @@
     }, 
     {
       "hnrlbls": [
-        "29-29A"
+        "29"
       ], 
       "housenumber": "29", 
       "lat": 51.12120539018715, 
@@ -602,14 +330,14 @@
     }, 
     {
       "hnrlbls": [
-        "29-29A"
+        "29A"
       ], 
       "housenumber": "29A", 
-      "lat": 51.12120539018715, 
-      "lon": 4.822450044239634, 
+      "lat": 51.121193416377096, 
+      "lon": 4.822478208158823, 
       "municipality": "Herentals", 
       "pcode": "2200", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Molenstraat"
     }, 
     {
@@ -621,14 +349,14 @@
         "202"
       ], 
       "hnrlbls": [
-        "2A-203A"
+        "2A"
       ], 
       "housenumber": "2A", 
-      "lat": 51.12360492560847, 
-      "lon": 4.824720925556758, 
+      "lat": 51.12366544794831, 
+      "lon": 4.824921659529472, 
       "municipality": "Herentals", 
       "pcode": "2200", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Molenstraat"
     }, 
     {
@@ -639,11 +367,11 @@
         "2B"
       ], 
       "housenumber": "2B", 
-      "lat": 51.12368732309563, 
-      "lon": 4.824821717229243, 
+      "lat": 51.123654741680866, 
+      "lon": 4.824761576406526, 
       "municipality": "Herentals", 
       "pcode": "2200", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Molenstraat"
     }, 
     {
@@ -695,23 +423,20 @@
       "street": "Molenstraat"
     }, 
     {
-      "busnrs": [
-        "2"
-      ], 
       "hnrlbls": [
         "33"
       ], 
       "housenumber": "33", 
-      "lat": 51.12102847627329, 
-      "lon": 4.82198627034521, 
+      "lat": 51.121183234237215, 
+      "lon": 4.822017625139816, 
       "municipality": "Herentals", 
       "pcode": "2200", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Molenstraat"
     }, 
     {
       "hnrlbls": [
-        "33A-33_2"
+        "33A"
       ], 
       "housenumber": "33A", 
       "lat": 51.1210614185444, 
@@ -723,14 +448,14 @@
     }, 
     {
       "hnrlbls": [
-        "33A-33_2"
+        "33_2"
       ], 
       "housenumber": "33_2", 
-      "lat": 51.1210614185444, 
-      "lon": 4.822161985157473, 
+      "lat": 51.121005780341655, 
+      "lon": 4.821787374072423, 
       "municipality": "Herentals", 
       "pcode": "2200", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Molenstraat"
     }, 
     {
@@ -762,23 +487,11 @@
         "36"
       ], 
       "housenumber": "36", 
-      "lat": 51.12149236271565, 
-      "lon": 4.821713684497578, 
+      "lat": 51.121418587833226, 
+      "lon": 4.821871081903266, 
       "municipality": "Herentals", 
       "pcode": "2200", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Molenstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "37"
-      ], 
-      "housenumber": "37", 
-      "lat": 51.120850515643156, 
-      "lon": 4.82156048233691, 
-      "municipality": "Herentals", 
-      "pcode": "2200", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Molenstraat"
     }, 
     {
@@ -794,42 +507,27 @@
       "street": "Molenstraat"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
-        "39-39_1"
-      ], 
-      "housenumber": "39", 
-      "lat": 51.120803017233065, 
-      "lon": 4.821453185390314, 
-      "municipality": "Herentals", 
-      "pcode": "2200", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Molenstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "39-39_1"
+        "39_1"
       ], 
       "housenumber": "39_1", 
-      "lat": 51.120803017233065, 
-      "lon": 4.821453185390314, 
+      "lat": 51.120814954576986, 
+      "lon": 4.821434447799094, 
       "municipality": "Herentals", 
       "pcode": "2200", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Molenstraat"
     }, 
     {
       "hnrlbls": [
-        "2A-203A"
+        "4"
       ], 
       "housenumber": "4", 
-      "lat": 51.12360492560847, 
-      "lon": 4.824720925556758, 
+      "lat": 51.12344919778106, 
+      "lon": 4.824708119505248, 
       "municipality": "Herentals", 
       "pcode": "2200", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Molenstraat"
     }, 
     {
@@ -837,23 +535,23 @@
         "40"
       ], 
       "housenumber": "40", 
-      "lat": 51.12132965399516, 
-      "lon": 4.8215525632576455, 
+      "lat": 51.12130996002486, 
+      "lon": 4.821671635521091, 
       "municipality": "Herentals", 
       "pcode": "2200", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Molenstraat"
     }, 
     {
       "hnrlbls": [
-        "40A-42"
+        "40A"
       ], 
       "housenumber": "40A", 
-      "lat": 51.12129496024043, 
-      "lon": 4.82148152553602, 
+      "lat": 51.12124959970138, 
+      "lon": 4.82158977919023, 
       "municipality": "Herentals", 
       "pcode": "2200", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Molenstraat"
     }, 
     {
@@ -870,14 +568,14 @@
     }, 
     {
       "hnrlbls": [
-        "40A-42"
+        "42"
       ], 
       "housenumber": "42", 
-      "lat": 51.12129496024043, 
-      "lon": 4.82148152553602, 
+      "lat": 51.121194090532086, 
+      "lon": 4.821485260167953, 
       "municipality": "Herentals", 
       "pcode": "2200", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Molenstraat"
     }, 
     {
@@ -941,15 +639,18 @@
       "street": "Molenstraat"
     }, 
     {
+      "busnrs": [
+        "A"
+      ], 
       "hnrlbls": [
-        "5-5A"
+        "5"
       ], 
       "housenumber": "5", 
-      "lat": 51.12294134454491, 
-      "lon": 4.824680017103562, 
+      "lat": 51.12297400665896, 
+      "lon": 4.824622850136391, 
       "municipality": "Herentals", 
       "pcode": "2200", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Molenstraat"
     }, 
     {
@@ -1022,18 +723,15 @@
       "street": "Molenstraat"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
         "55"
       ], 
       "housenumber": "55", 
-      "lat": 51.11961668070424, 
-      "lon": 4.81910348364899, 
+      "lat": 51.119671503081456, 
+      "lon": 4.819129578535286, 
       "municipality": "Herentals", 
       "pcode": "2200", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Molenstraat"
     }, 
     {
@@ -1041,11 +739,11 @@
         "55_1"
       ], 
       "housenumber": "55_1", 
-      "lat": 51.11957978124741, 
-      "lon": 4.819044712035474, 
+      "lat": 51.11964222047921, 
+      "lon": 4.819006466144177, 
       "municipality": "Herentals", 
       "pcode": "2200", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Molenstraat"
     }, 
     {
@@ -1074,57 +772,18 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "C"
+        "A", 
+        "B"
       ], 
       "hnrlbls": [
-        "59-59_1"
+        "59"
       ], 
       "housenumber": "59", 
-      "lat": 51.11937739554574, 
-      "lon": 4.818091547952081, 
+      "lat": 51.11943652970512, 
+      "lon": 4.818160968194863, 
       "municipality": "Herentals", 
       "pcode": "2200", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Molenstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "59-59_1"
-      ], 
-      "housenumber": "59A", 
-      "lat": 51.11937739554574, 
-      "lon": 4.818091547952081, 
-      "municipality": "Herentals", 
-      "pcode": "2200", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Molenstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "59-59_1"
-      ], 
-      "housenumber": "59B", 
-      "lat": 51.11937739554574, 
-      "lon": 4.818091547952081, 
-      "municipality": "Herentals", 
-      "pcode": "2200", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Molenstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "59-59_1"
-      ], 
-      "housenumber": "59C", 
-      "lat": 51.11937739554574, 
-      "lon": 4.818091547952081, 
-      "municipality": "Herentals", 
-      "pcode": "2200", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Molenstraat"
     }, 
     {
@@ -1134,26 +793,14 @@
         "C"
       ], 
       "hnrlbls": [
-        "59-59_1"
+        "59_1"
       ], 
       "housenumber": "59_1", 
-      "lat": 51.11937739554574, 
-      "lon": 4.818091547952081, 
+      "lat": 51.11938189982617, 
+      "lon": 4.817966485993116, 
       "municipality": "Herentals", 
       "pcode": "2200", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Molenstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "5-5A"
-      ], 
-      "housenumber": "5A", 
-      "lat": 51.12294134454491, 
-      "lon": 4.824680017103562, 
-      "municipality": "Herentals", 
-      "pcode": "2200", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Molenstraat"
     }, 
     {
@@ -1244,7 +891,7 @@
     }, 
     {
       "hnrlbls": [
-        "66-66A"
+        "66"
       ], 
       "housenumber": "66", 
       "lat": 51.120035770440126, 
@@ -1252,18 +899,6 @@
       "municipality": "Herentals", 
       "pcode": "2200", 
       "source": "afgeleidVanGebouw", 
-      "street": "Molenstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "66-66A"
-      ], 
-      "housenumber": "66A", 
-      "lat": 51.120035770440126, 
-      "lon": 4.81928434791868, 
-      "municipality": "Herentals", 
-      "pcode": "2200", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Molenstraat"
     }, 
     {
@@ -1310,51 +945,20 @@
       "street": "Molenstraat"
     }, 
     {
+      "busnrs": [
+        "A", 
+        "B", 
+        "C"
+      ], 
       "hnrlbls": [
-        "72-72C"
+        "72"
       ], 
       "housenumber": "72", 
-      "lat": 51.12015141416588, 
-      "lon": 4.818472351413714, 
+      "lat": 51.119791650322995, 
+      "lon": 4.818644559471083, 
       "municipality": "Herentals", 
       "pcode": "2200", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Molenstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "72-72C"
-      ], 
-      "housenumber": "72A", 
-      "lat": 51.12015141416588, 
-      "lon": 4.818472351413714, 
-      "municipality": "Herentals", 
-      "pcode": "2200", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
-      "street": "Molenstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "72-72C"
-      ], 
-      "housenumber": "72B", 
-      "lat": 51.12015141416588, 
-      "lon": 4.818472351413714, 
-      "municipality": "Herentals", 
-      "pcode": "2200", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
-      "street": "Molenstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "72-72C"
-      ], 
-      "housenumber": "72C", 
-      "lat": 51.12015141416588, 
-      "lon": 4.818472351413714, 
-      "municipality": "Herentals", 
-      "pcode": "2200", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Molenstraat"
     }, 
     {
@@ -1362,11 +966,11 @@
         "74"
       ], 
       "housenumber": "74", 
-      "lat": 51.11981883778181, 
-      "lon": 4.818633824030545, 
+      "lat": 51.11975339455544, 
+      "lon": 4.818493652406239, 
       "municipality": "Herentals", 
       "pcode": "2200", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Molenstraat"
     }, 
     {
@@ -1398,7 +1002,7 @@
         "2"
       ], 
       "hnrlbls": [
-        "78-78A"
+        "78"
       ], 
       "housenumber": "78", 
       "lat": 51.11960672500365, 
@@ -1406,18 +1010,6 @@
       "municipality": "Herentals", 
       "pcode": "2200", 
       "source": "afgeleidVanGebouw", 
-      "street": "Molenstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "78-78A"
-      ], 
-      "housenumber": "78A", 
-      "lat": 51.11960672500365, 
-      "lon": 4.817590440621385, 
-      "municipality": "Herentals", 
-      "pcode": "2200", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Molenstraat"
     }, 
     {

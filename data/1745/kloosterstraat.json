@@ -2,7 +2,7 @@
   "addresses": [
     {
       "hnrlbls": [
-        "1-3"
+        "1"
       ], 
       "housenumber": "1", 
       "lat": 50.96858409246633, 
@@ -14,7 +14,7 @@
     }, 
     {
       "hnrlbls": [
-        "4-10"
+        "10"
       ], 
       "housenumber": "10", 
       "lat": 50.968655416081454, 
@@ -37,32 +37,32 @@
       "street": "Kloosterstraat"
     }, 
     {
-      "hnrlbls": [
-        "/ZN-102"
-      ], 
-      "housenumber": "102", 
-      "lat": 50.967934488047334, 
-      "lon": 4.186130677696848, 
-      "municipality": "Opwijk", 
-      "pcode": "1745", 
-      "source": "afgeleidVanStraat", 
-      "street": "Kloosterstraat"
-    }, 
-    {
       "busnrs": [
-        "1", 
+        "001", 
+        "002", 
         "101", 
         "102", 
-        "2", 
         "201", 
         "202"
       ], 
       "hnrlbls": [
-        "11-41"
+        "11"
       ], 
       "housenumber": "11", 
-      "lat": 50.967736644895396, 
-      "lon": 4.18619493810376, 
+      "lat": 50.9675032185347, 
+      "lon": 4.1862283691797515, 
+      "municipality": "Opwijk", 
+      "pcode": "1745", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Kloosterstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "12"
+      ], 
+      "housenumber": "12", 
+      "lat": 50.96853102396876, 
+      "lon": 4.186935219841316, 
       "municipality": "Opwijk", 
       "pcode": "1745", 
       "source": "afgeleidVanGebouw", 
@@ -70,38 +70,23 @@
     }, 
     {
       "busnrs": [
-        "101"
-      ], 
-      "hnrlbls": [
-        "12"
-      ], 
-      "housenumber": "12", 
-      "lat": 50.968557219770986, 
-      "lon": 4.186919229094624, 
-      "municipality": "Opwijk", 
-      "pcode": "1745", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Kloosterstraat"
-    }, 
-    {
-      "busnrs": [
-        "1", 
+        "001", 
+        "002", 
         "101", 
         "102", 
         "103", 
         "104", 
-        "2", 
         "201", 
         "202", 
         "203", 
         "204"
       ], 
       "hnrlbls": [
-        "11-41"
+        "13"
       ], 
       "housenumber": "13", 
-      "lat": 50.967736644895396, 
-      "lon": 4.18619493810376, 
+      "lat": 50.96762649237423, 
+      "lon": 4.186436736786192, 
       "municipality": "Opwijk", 
       "pcode": "1745", 
       "source": "afgeleidVanGebouw", 
@@ -112,11 +97,11 @@
         "15"
       ], 
       "housenumber": "15", 
-      "lat": 50.96773956635326, 
-      "lon": 4.18634027668098, 
+      "lat": 50.9679204500879, 
+      "lon": 4.187053088375181, 
       "municipality": "Opwijk", 
       "pcode": "1745", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Kloosterstraat"
     }, 
     {
@@ -126,6 +111,68 @@
       "housenumber": "16", 
       "lat": 50.968454803046434, 
       "lon": 4.186666788969098, 
+      "municipality": "Opwijk", 
+      "pcode": "1745", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Kloosterstraat"
+    }, 
+    {
+      "busnrs": [
+        "001", 
+        "002", 
+        "101", 
+        "102", 
+        "103", 
+        "201", 
+        "202"
+      ], 
+      "hnrlbls": [
+        "17"
+      ], 
+      "housenumber": "17", 
+      "lat": 50.96801210210867, 
+      "lon": 4.187249867361803, 
+      "municipality": "Opwijk", 
+      "pcode": "1745", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Kloosterstraat"
+    }, 
+    {
+      "busnrs": [
+        "001", 
+        "002", 
+        "101", 
+        "102", 
+        "201"
+      ], 
+      "hnrlbls": [
+        "19"
+      ], 
+      "housenumber": "19", 
+      "lat": 50.96814757559906, 
+      "lon": 4.1871888459071664, 
+      "municipality": "Opwijk", 
+      "pcode": "1745", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Kloosterstraat"
+    }, 
+    {
+      "busnrs": [
+        "001", 
+        "002", 
+        "003", 
+        "101", 
+        "102", 
+        "103", 
+        "201", 
+        "202"
+      ], 
+      "hnrlbls": [
+        "21"
+      ], 
+      "housenumber": "21", 
+      "lat": 50.96829147625115, 
+      "lon": 4.187021475204213, 
       "municipality": "Opwijk", 
       "pcode": "1745", 
       "source": "afgeleidVanGebouw", 
@@ -144,12 +191,53 @@
       "street": "Kloosterstraat"
     }, 
     {
+      "busnrs": [
+        "001", 
+        "002", 
+        "101", 
+        "102", 
+        "201", 
+        "202"
+      ], 
+      "hnrlbls": [
+        "23"
+      ], 
+      "housenumber": "23", 
+      "lat": 50.96821044516391, 
+      "lon": 4.186763259123066, 
+      "municipality": "Opwijk", 
+      "pcode": "1745", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Kloosterstraat"
+    }, 
+    {
       "hnrlbls": [
         "24"
       ], 
       "housenumber": "24", 
       "lat": 50.968228279857136, 
       "lon": 4.186146336369316, 
+      "municipality": "Opwijk", 
+      "pcode": "1745", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Kloosterstraat"
+    }, 
+    {
+      "busnrs": [
+        "001", 
+        "002", 
+        "101", 
+        "102", 
+        "103", 
+        "201", 
+        "202"
+      ], 
+      "hnrlbls": [
+        "25"
+      ], 
+      "housenumber": "25", 
+      "lat": 50.96809860134153, 
+      "lon": 4.186518545225472, 
       "municipality": "Opwijk", 
       "pcode": "1745", 
       "source": "afgeleidVanGebouw", 
@@ -168,6 +256,25 @@
       "street": "Kloosterstraat"
     }, 
     {
+      "busnrs": [
+        "001", 
+        "002", 
+        "101", 
+        "102", 
+        "201"
+      ], 
+      "hnrlbls": [
+        "27"
+      ], 
+      "housenumber": "27", 
+      "lat": 50.967952422089354, 
+      "lon": 4.186606237184891, 
+      "municipality": "Opwijk", 
+      "pcode": "1745", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Kloosterstraat"
+    }, 
+    {
       "hnrlbls": [
         "28"
       ], 
@@ -180,12 +287,18 @@
       "street": "Kloosterstraat"
     }, 
     {
-      "hnrlbls": [
-        "1-3"
+      "busnrs": [
+        "001", 
+        "101", 
+        "102", 
+        "201"
       ], 
-      "housenumber": "3", 
-      "lat": 50.96858409246633, 
-      "lon": 4.187617557666233, 
+      "hnrlbls": [
+        "29"
+      ], 
+      "housenumber": "29", 
+      "lat": 50.967844595240635, 
+      "lon": 4.186732878198899, 
       "municipality": "Opwijk", 
       "pcode": "1745", 
       "source": "afgeleidVanGebouw", 
@@ -229,11 +342,11 @@
     }, 
     {
       "hnrlbls": [
-        "11-41"
+        "37"
       ], 
       "housenumber": "37", 
-      "lat": 50.967736644895396, 
-      "lon": 4.18619493810376, 
+      "lat": 50.96775392935755, 
+      "lon": 4.1863879704409355, 
       "municipality": "Opwijk", 
       "pcode": "1745", 
       "source": "afgeleidVanGebouw", 
@@ -253,42 +366,33 @@
     }, 
     {
       "busnrs": [
-        "1", 
+        "001", 
+        "002", 
+        "003", 
+        "004", 
         "101", 
         "102", 
         "103", 
         "104", 
-        "2", 
         "201", 
         "202", 
-        "203", 
-        "3", 
-        "4"
+        "203"
       ], 
       "hnrlbls": [
-        "11-41"
+        "39"
       ], 
       "housenumber": "39", 
-      "lat": 50.967736644895396, 
-      "lon": 4.18619493810376, 
+      "lat": 50.9678932631659, 
+      "lon": 4.18598508251048, 
       "municipality": "Opwijk", 
       "pcode": "1745", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Kloosterstraat"
     }, 
     {
-      "hnrlbls": [
-        "4-10"
+      "busnrs": [
+        "101"
       ], 
-      "housenumber": "4", 
-      "lat": 50.968655416081454, 
-      "lon": 4.187174960955897, 
-      "municipality": "Opwijk", 
-      "pcode": "1745", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Kloosterstraat"
-    }, 
-    {
       "hnrlbls": [
         "40"
       ], 
@@ -302,19 +406,19 @@
     }, 
     {
       "busnrs": [
-        "1", 
+        "001", 
+        "002", 
         "101", 
         "102", 
-        "2", 
         "201", 
         "202"
       ], 
       "hnrlbls": [
-        "11-41"
+        "41"
       ], 
       "housenumber": "41", 
-      "lat": 50.967736644895396, 
-      "lon": 4.18619493810376, 
+      "lat": 50.96778198365772, 
+      "lon": 4.185768535983732, 
       "municipality": "Opwijk", 
       "pcode": "1745", 
       "source": "afgeleidVanGebouw", 
@@ -554,8 +658,54 @@
         "75"
       ], 
       "housenumber": "75", 
-      "lat": 50.96630590269568, 
-      "lon": 4.183815882456719, 
+      "lat": 50.96598141420766, 
+      "lon": 4.1846095427362195, 
+      "municipality": "Opwijk", 
+      "pcode": "1745", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Kloosterstraat"
+    }, 
+    {
+      "busnrs": [
+        "001", 
+        "002", 
+        "003", 
+        "004", 
+        "005", 
+        "006", 
+        "007", 
+        "008", 
+        "101", 
+        "102", 
+        "103", 
+        "104", 
+        "105", 
+        "106", 
+        "107", 
+        "108", 
+        "109", 
+        "110", 
+        "111", 
+        "112", 
+        "201", 
+        "202", 
+        "203", 
+        "204", 
+        "205", 
+        "206", 
+        "207", 
+        "208", 
+        "209", 
+        "210", 
+        "211", 
+        "212"
+      ], 
+      "hnrlbls": [
+        "77"
+      ], 
+      "housenumber": "77", 
+      "lat": 50.9660990076453, 
+      "lon": 4.183957328689547, 
       "municipality": "Opwijk", 
       "pcode": "1745", 
       "source": "afgeleidVanGebouw", 
@@ -575,20 +725,21 @@
     }, 
     {
       "busnrs": [
-        "1", 
+        "001", 
+        "002", 
+        "003", 
+        "004", 
+        "005", 
         "101", 
         "102", 
         "103", 
         "104", 
-        "2", 
         "201", 
         "202", 
         "203", 
         "204", 
         "205", 
-        "206", 
-        "4", 
-        "5"
+        "206"
       ], 
       "hnrlbls": [
         "95"
@@ -623,18 +774,6 @@
       "municipality": "Opwijk", 
       "pcode": "1745", 
       "source": "afgeleidVanGebouw", 
-      "street": "Kloosterstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "/ZN-102"
-      ], 
-      "housenumber": "ZN", 
-      "lat": 50.967934488047334, 
-      "lon": 4.186130677696848, 
-      "municipality": "Opwijk", 
-      "pcode": "1745", 
-      "source": "afgeleidVanStraat", 
       "street": "Kloosterstraat"
     }
   ]

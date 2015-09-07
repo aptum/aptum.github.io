@@ -249,10 +249,10 @@
     {
       "busnrs": [
         "0001", 
+        "0002", 
         "0003", 
-        "101", 
-        "2", 
-        "201"
+        "0101", 
+        "0201"
       ], 
       "hnrlbls": [
         "122"
@@ -423,8 +423,7 @@
         "0001", 
         "0101", 
         "0102", 
-        "0201", 
-        "7777"
+        "0201"
       ], 
       "hnrlbls": [
         "138"
@@ -454,10 +453,8 @@
         "0304", 
         "0401", 
         "0402", 
-        "0403"
-      ], 
-      "busnrs": [
-        "404"
+        "0403", 
+        "0404"
       ], 
       "hnrlbls": [
         "137-141"
@@ -750,11 +747,11 @@
         "168"
       ], 
       "housenumber": "168", 
-      "lat": 50.875170872892326, 
-      "lon": 4.673977891237991, 
+      "lat": 50.87521951906698, 
+      "lon": 4.674076385807087, 
       "municipality": "Leuven", 
       "pcode": "3001", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Tervuursesteenweg"
     }, 
     {
@@ -891,6 +888,18 @@
       "housenumber": "180", 
       "lat": 50.87479131454994, 
       "lon": 4.673157184118056, 
+      "municipality": "Leuven", 
+      "pcode": "3001", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Tervuursesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "183"
+      ], 
+      "housenumber": "183", 
+      "lat": 50.875371830546705, 
+      "lon": 4.677465995243155, 
       "municipality": "Leuven", 
       "pcode": "3001", 
       "source": "afgeleidVanGebouw", 
@@ -1223,9 +1232,9 @@
         "0001", 
         "0101", 
         "0102", 
+        "0103", 
         "0201", 
-        "103", 
-        "202"
+        "0202"
       ], 
       "hnrlbls": [
         "21"
@@ -1614,6 +1623,12 @@
       "street": "Tervuursesteenweg"
     }, 
     {
+      "apptnrs": [
+        "0001"
+      ], 
+      "busnrs": [
+        "0002"
+      ], 
       "hnrlbls": [
         "24"
       ], 
@@ -2183,11 +2198,11 @@
         "308A"
       ], 
       "housenumber": "308A", 
-      "lat": 50.87296313371443, 
-      "lon": 4.662020927483514, 
+      "lat": 50.872715693046864, 
+      "lon": 4.662144534684896, 
       "municipality": "Leuven", 
       "pcode": "3001", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Tervuursesteenweg"
     }, 
     {
@@ -2231,11 +2246,11 @@
         "312"
       ], 
       "housenumber": "312", 
-      "lat": 50.87255155851479, 
-      "lon": 4.661927283790504, 
+      "lat": 50.87253188889194, 
+      "lon": 4.661851268478524, 
       "municipality": "Leuven", 
       "pcode": "3001", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Tervuursesteenweg"
     }, 
     {
@@ -2275,8 +2290,12 @@
       "street": "Tervuursesteenweg"
     }, 
     {
-      "busnrs": [
-        "102"
+      "apptnrs": [
+        "0001", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202"
       ], 
       "hnrlbls": [
         "317"
@@ -2457,8 +2476,10 @@
     }, 
     {
       "apptnrs": [
-        "0001", 
-        "0002"
+        "0001"
+      ], 
+      "busnrs": [
+        "0201"
       ], 
       "hnrlbls": [
         "33"
@@ -2999,11 +3020,11 @@
     }, 
     {
       "busnrs": [
+        "0001", 
         "0002", 
         "0101", 
         "0102", 
-        "0103", 
-        "1"
+        "0103"
       ], 
       "hnrlbls": [
         "40"
@@ -3815,6 +3836,18 @@
     }, 
     {
       "hnrlbls": [
+        "5C"
+      ], 
+      "housenumber": "5C", 
+      "lat": 50.876666585581155, 
+      "lon": 4.682927914979163, 
+      "municipality": "Leuven", 
+      "pcode": "3001", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Tervuursesteenweg"
+    }, 
+    {
+      "hnrlbls": [
         "601"
       ], 
       "housenumber": "601", 
@@ -4018,8 +4051,7 @@
       "busnrs": [
         "0002", 
         "0101", 
-        "0102", 
-        "7777"
+        "0102"
       ], 
       "hnrlbls": [
         "75"
@@ -4123,11 +4155,11 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "101", 
-        "102", 
-        "2", 
-        "201"
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102", 
+        "0201"
       ], 
       "hnrlbls": [
         "83"
@@ -4190,16 +4222,16 @@
     }, 
     {
       "busnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102", 
         "0103", 
-        "1", 
-        "101", 
-        "102", 
-        "2", 
-        "201", 
-        "202", 
-        "203", 
-        "204", 
-        "205"
+        "0201", 
+        "0202", 
+        "0203", 
+        "0204", 
+        "0205"
       ], 
       "hnrlbls": [
         "9"

@@ -154,7 +154,7 @@
         "2"
       ], 
       "hnrlbls": [
-        "9-11"
+        "9-11L"
       ], 
       "housenumber": "11", 
       "lat": 51.227684835712466, 
@@ -267,6 +267,9 @@
       "apptnrs": [
         "1.0"
       ], 
+      "busnrs": [
+        "glvl"
+      ], 
       "hnrlbls": [
         "118"
       ], 
@@ -276,6 +279,21 @@
       "municipality": "Wijnegem", 
       "pcode": "2110", 
       "source": "afgeleidVanGebouw", 
+      "street": "Merksemsebaan"
+    }, 
+    {
+      "busnrs": [
+        "1"
+      ], 
+      "hnrlbls": [
+        "9-11L"
+      ], 
+      "housenumber": "11L", 
+      "lat": 51.227684835712466, 
+      "lon": 4.5178029874652905, 
+      "municipality": "Wijnegem", 
+      "pcode": "2110", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Merksemsebaan"
     }, 
     {
@@ -343,7 +361,8 @@
     }, 
     {
       "busnrs": [
-        "1"
+        "1", 
+        "glvl"
       ], 
       "hnrlbls": [
         "124"
@@ -554,6 +573,9 @@
         "2.0", 
         "3.0"
       ], 
+      "busnrs": [
+        "GLVL"
+      ], 
       "hnrlbls": [
         "143"
       ], 
@@ -681,6 +703,9 @@
     {
       "apptnrs": [
         "1.0"
+      ], 
+      "busnrs": [
+        "glvl"
       ], 
       "hnrlbls": [
         "154"
@@ -900,7 +925,8 @@
     {
       "busnrs": [
         "1", 
-        "2"
+        "2", 
+        "GLVL"
       ], 
       "hnrlbls": [
         "171"
@@ -916,11 +942,12 @@
     {
       "busnrs": [
         "1", 
+        "2", 
         "3", 
         "4"
       ], 
       "hnrlbls": [
-        "172-174"
+        "172"
       ], 
       "housenumber": "172", 
       "lat": 51.229826364235876, 
@@ -931,39 +958,12 @@
       "street": "Merksemsebaan"
     }, 
     {
-      "busnrs": [
-        "3"
-      ], 
-      "hnrlbls": [
-        "172-174"
-      ], 
-      "housenumber": "172b", 
-      "lat": 51.229826364235876, 
-      "lon": 4.511898913092992, 
-      "municipality": "Wijnegem", 
-      "pcode": "2110", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Merksemsebaan"
-    }, 
-    {
       "hnrlbls": [
         "173"
       ], 
       "housenumber": "173", 
       "lat": 51.229796139601135, 
       "lon": 4.50832682540479, 
-      "municipality": "Wijnegem", 
-      "pcode": "2110", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Merksemsebaan"
-    }, 
-    {
-      "hnrlbls": [
-        "172-174"
-      ], 
-      "housenumber": "174", 
-      "lat": 51.229826364235876, 
-      "lon": 4.511898913092992, 
       "municipality": "Wijnegem", 
       "pcode": "2110", 
       "source": "afgeleidVanGebouw", 
@@ -1120,9 +1120,6 @@
       "street": "Merksemsebaan"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
         "186"
       ], 
@@ -1222,6 +1219,9 @@
       "apptnrs": [
         "1.0"
       ], 
+      "busnrs": [
+        "glvl"
+      ], 
       "hnrlbls": [
         "193"
       ], 
@@ -1307,14 +1307,14 @@
     }, 
     {
       "hnrlbls": [
-        "/zn-700"
+        "2"
       ], 
       "housenumber": "2", 
-      "lat": 51.23087835066878, 
-      "lon": 4.507252059097511, 
+      "lat": 51.22769389527169, 
+      "lon": 4.51901953881058, 
       "municipality": "Wijnegem", 
       "pcode": "2110", 
-      "source": "afgeleidVanStraat", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Merksemsebaan"
     }, 
     {
@@ -1322,11 +1322,11 @@
         "20"
       ], 
       "housenumber": "20", 
-      "lat": 51.22795238945628, 
-      "lon": 4.518393644365383, 
+      "lat": 51.22796272393414, 
+      "lon": 4.518362520569389, 
       "municipality": "Wijnegem", 
       "pcode": "2110", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Merksemsebaan"
     }, 
     {
@@ -1371,7 +1371,8 @@
     }, 
     {
       "apptnrs": [
-        "1.0"
+        "1.0", 
+        "glvl"
       ], 
       "hnrlbls": [
         "204"
@@ -1422,11 +1423,11 @@
     }, 
     {
       "hnrlbls": [
-        "208-210"
+        "208"
       ], 
       "housenumber": "208", 
-      "lat": 51.230226656397804, 
-      "lon": 4.510155722903965, 
+      "lat": 51.23016211206289, 
+      "lon": 4.510215975370827, 
       "municipality": "Wijnegem", 
       "pcode": "2110", 
       "source": "afgeleidVanGebouw", 
@@ -1439,18 +1440,6 @@
       "housenumber": "209", 
       "lat": 51.23043992480552, 
       "lon": 4.505924780488821, 
-      "municipality": "Wijnegem", 
-      "pcode": "2110", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Merksemsebaan"
-    }, 
-    {
-      "hnrlbls": [
-        "20A"
-      ], 
-      "housenumber": "20A", 
-      "lat": 51.22798975276129, 
-      "lon": 4.518345235352015, 
       "municipality": "Wijnegem", 
       "pcode": "2110", 
       "source": "afgeleidVanGebouw", 
@@ -1474,7 +1463,7 @@
         "2.0"
       ], 
       "hnrlbls": [
-        "208-210"
+        "210"
       ], 
       "housenumber": "210", 
       "lat": 51.230226656397804, 
@@ -1549,10 +1538,8 @@
     }, 
     {
       "apptnrs": [
-        "1.0"
-      ], 
-      "busnrs": [
-        "1"
+        "1.0", 
+        "GLVL"
       ], 
       "hnrlbls": [
         "216"
@@ -1843,18 +1830,6 @@
     }, 
     {
       "hnrlbls": [
-        "1-262"
-      ], 
-      "housenumber": "256", 
-      "lat": 51.23165349969573, 
-      "lon": 4.506492730143885, 
-      "municipality": "Wijnegem", 
-      "pcode": "2110", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Merksemsebaan"
-    }, 
-    {
-      "hnrlbls": [
         "7-257"
       ], 
       "housenumber": "257", 
@@ -1863,18 +1838,6 @@
       "municipality": "Wijnegem", 
       "pcode": "2110", 
       "source": "afgeleidVanGebouw", 
-      "street": "Merksemsebaan"
-    }, 
-    {
-      "hnrlbls": [
-        "258-260"
-      ], 
-      "housenumber": "258", 
-      "lat": 51.23131711127825, 
-      "lon": 4.505451207793969, 
-      "municipality": "Wijnegem", 
-      "pcode": "2110", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Merksemsebaan"
     }, 
     {
@@ -1894,30 +1857,6 @@
     }, 
     {
       "hnrlbls": [
-        "258-260"
-      ], 
-      "housenumber": "260", 
-      "lat": 51.23131711127825, 
-      "lon": 4.505451207793969, 
-      "municipality": "Wijnegem", 
-      "pcode": "2110", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Merksemsebaan"
-    }, 
-    {
-      "hnrlbls": [
-        "1-262"
-      ], 
-      "housenumber": "262", 
-      "lat": 51.23165349969573, 
-      "lon": 4.506492730143885, 
-      "municipality": "Wijnegem", 
-      "pcode": "2110", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Merksemsebaan"
-    }, 
-    {
-      "hnrlbls": [
         "264"
       ], 
       "housenumber": "264", 
@@ -1933,8 +1872,8 @@
         "266"
       ], 
       "housenumber": "266", 
-      "lat": 51.23398665119905, 
-      "lon": 4.500409213519855, 
+      "lat": 51.23388145970976, 
+      "lon": 4.501553582077219, 
       "municipality": "Wijnegem", 
       "pcode": "2110", 
       "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
@@ -1969,8 +1908,8 @@
         "270A"
       ], 
       "housenumber": "270A", 
-      "lat": 51.23626964100108, 
-      "lon": 4.496045263018135, 
+      "lat": 51.23605924169908, 
+      "lon": 4.498334126509977, 
       "municipality": "Wijnegem", 
       "pcode": "2110", 
       "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
@@ -1981,8 +1920,8 @@
         "274"
       ], 
       "housenumber": "274", 
-      "lat": 51.23627675416369, 
-      "lon": 4.495534415504848, 
+      "lat": 51.236171520052956, 
+      "lon": 4.49667885103729, 
       "municipality": "Wijnegem", 
       "pcode": "2110", 
       "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
@@ -2416,34 +2355,20 @@
       "street": "Merksemsebaan"
     }, 
     {
-      "apptnrs": [
-        "1.0"
-      ], 
-      "hnrlbls": [
-        "50-52"
-      ], 
-      "housenumber": "50", 
-      "lat": 51.22859109258448, 
-      "lon": 4.5167672965176235, 
-      "municipality": "Wijnegem", 
-      "pcode": "2110", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Merksemsebaan"
-    }, 
-    {
       "busnrs": [
         "1", 
+        "2", 
         "3"
       ], 
       "hnrlbls": [
-        "50b"
+        "50"
       ], 
-      "housenumber": "50b", 
-      "lat": 51.22859966260104, 
-      "lon": 4.516599544175752, 
+      "housenumber": "50", 
+      "lat": 51.22857555748883, 
+      "lon": 4.516706487522431, 
       "municipality": "Wijnegem", 
       "pcode": "2110", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Merksemsebaan"
     }, 
     {
@@ -2463,14 +2388,16 @@
     }, 
     {
       "busnrs": [
-        "2"
+        "4", 
+        "5", 
+        "6"
       ], 
       "hnrlbls": [
-        "50-52"
+        "52"
       ], 
       "housenumber": "52", 
-      "lat": 51.22859109258448, 
-      "lon": 4.5167672965176235, 
+      "lat": 51.22859966260104, 
+      "lon": 4.516599544175752, 
       "municipality": "Wijnegem", 
       "pcode": "2110", 
       "source": "afgeleidVanGebouw", 
@@ -2478,24 +2405,8 @@
     }, 
     {
       "busnrs": [
-        "4", 
-        "5", 
-        "6"
-      ], 
-      "hnrlbls": [
-        "52b"
-      ], 
-      "housenumber": "52b", 
-      "lat": 51.22857552918241, 
-      "lon": 4.51670654845485, 
-      "municipality": "Wijnegem", 
-      "pcode": "2110", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Merksemsebaan"
-    }, 
-    {
-      "busnrs": [
-        "1"
+        "1", 
+        "glvl"
       ], 
       "hnrlbls": [
         "51-53"
@@ -2588,11 +2499,11 @@
         "6"
       ], 
       "housenumber": "6", 
-      "lat": 51.22777317228248, 
-      "lon": 4.51894950680369, 
+      "lat": 51.22775394135757, 
+      "lon": 4.518886343775408, 
       "municipality": "Wijnegem", 
       "pcode": "2110", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Merksemsebaan"
     }, 
     {
@@ -2609,11 +2520,11 @@
     }, 
     {
       "hnrlbls": [
-        "61-63"
+        "61"
       ], 
       "housenumber": "61", 
-      "lat": 51.228553427943744, 
-      "lon": 4.514972136055451, 
+      "lat": 51.22854590852045, 
+      "lon": 4.515015102943798, 
       "municipality": "Wijnegem", 
       "pcode": "2110", 
       "source": "afgeleidVanGebouw", 
@@ -2633,11 +2544,11 @@
     }, 
     {
       "hnrlbls": [
-        "61-63"
+        "63"
       ], 
       "housenumber": "63", 
-      "lat": 51.228553427943744, 
-      "lon": 4.514972136055451, 
+      "lat": 51.228560838725436, 
+      "lon": 4.514929113349978, 
       "municipality": "Wijnegem", 
       "pcode": "2110", 
       "source": "afgeleidVanGebouw", 
@@ -2719,6 +2630,9 @@
       "apptnrs": [
         "1.0"
       ], 
+      "busnrs": [
+        "glvl"
+      ], 
       "hnrlbls": [
         "7"
       ], 
@@ -2740,18 +2654,6 @@
       "municipality": "Wijnegem", 
       "pcode": "2110", 
       "source": "afgeleidVanGebouw", 
-      "street": "Merksemsebaan"
-    }, 
-    {
-      "hnrlbls": [
-        "/zn-700"
-      ], 
-      "housenumber": "700", 
-      "lat": 51.23087835066878, 
-      "lon": 4.507252059097511, 
-      "municipality": "Wijnegem", 
-      "pcode": "2110", 
-      "source": "afgeleidVanStraat", 
       "street": "Merksemsebaan"
     }, 
     {
@@ -2792,7 +2694,7 @@
     }, 
     {
       "hnrlbls": [
-        "75-75E"
+        "75"
       ], 
       "housenumber": "75", 
       "lat": 51.22867586284985, 
@@ -2807,35 +2709,11 @@
         "75B"
       ], 
       "housenumber": "75B", 
-      "lat": 51.2282648033923, 
-      "lon": 4.51396197894257, 
+      "lat": 51.228325520776245, 
+      "lon": 4.514079607542459, 
       "municipality": "Wijnegem", 
       "pcode": "2110", 
       "source": "afgeleidVanGebouw", 
-      "street": "Merksemsebaan"
-    }, 
-    {
-      "hnrlbls": [
-        "75-75E"
-      ], 
-      "housenumber": "75D", 
-      "lat": 51.22867586284985, 
-      "lon": 4.514236122541094, 
-      "municipality": "Wijnegem", 
-      "pcode": "2110", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Merksemsebaan"
-    }, 
-    {
-      "hnrlbls": [
-        "75-75E"
-      ], 
-      "housenumber": "75E", 
-      "lat": 51.22867586284985, 
-      "lon": 4.514236122541094, 
-      "municipality": "Wijnegem", 
-      "pcode": "2110", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Merksemsebaan"
     }, 
     {
@@ -2859,8 +2737,8 @@
         "77"
       ], 
       "housenumber": "77", 
-      "lat": 51.22863295515167, 
-      "lon": 4.514117454161512, 
+      "lat": 51.228695443269665, 
+      "lon": 4.514174912736559, 
       "municipality": "Wijnegem", 
       "pcode": "2110", 
       "source": "afgeleidVanGebouw", 
@@ -3031,7 +2909,7 @@
         "1"
       ], 
       "hnrlbls": [
-        "9-11"
+        "9-11L"
       ], 
       "housenumber": "9", 
       "lat": 51.227684835712466, 
@@ -3169,7 +3047,7 @@
         "eR"
       ], 
       "hnrlbls": [
-        "9-11"
+        "9-11L"
       ], 
       "housenumber": "9_1", 
       "lat": 51.227684835712466, 
@@ -3184,7 +3062,7 @@
         "1"
       ], 
       "hnrlbls": [
-        "9-11"
+        "9-11L"
       ], 
       "housenumber": "9b", 
       "lat": 51.227684835712466, 

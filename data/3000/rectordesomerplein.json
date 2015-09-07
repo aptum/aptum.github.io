@@ -28,6 +28,9 @@
       "busnrs": [
         "0001", 
         "0101", 
+        "0102", 
+        "0103", 
+        "0104", 
         "0201", 
         "0301", 
         "0401", 
@@ -102,6 +105,18 @@
       "housenumber": "13", 
       "lat": 50.87899697541642, 
       "lon": 4.703243270516011, 
+      "municipality": "Leuven", 
+      "pcode": "3000", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Rector De Somerplein"
+    }, 
+    {
+      "hnrlbls": [
+        "13C"
+      ], 
+      "housenumber": "13C", 
+      "lat": 50.8789970160363, 
+      "lon": 4.703243257569772, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanGebouw", 
@@ -303,13 +318,13 @@
     }, 
     {
       "apptnrs": [
-        "0301"
+        "0101", 
+        "0201", 
+        "0301", 
+        "0401"
       ], 
       "busnrs": [
-        "0001", 
-        "101", 
-        "201", 
-        "401"
+        "0001"
       ], 
       "hnrlbls": [
         "3"
@@ -414,10 +429,8 @@
       "apptnrs": [
         "0201", 
         "0301", 
+        "0401", 
         "0501"
-      ], 
-      "busnrs": [
-        "401"
       ], 
       "hnrlbls": [
         "9"

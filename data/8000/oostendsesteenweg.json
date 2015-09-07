@@ -40,6 +40,9 @@
       "street": "Oostendse Steenweg"
     }, 
     {
+      "busnrs": [
+        "101"
+      ], 
       "hnrlbls": [
         "101"
       ], 
@@ -73,6 +76,22 @@
       "municipality": "Brugge", 
       "pcode": "8000", 
       "source": "afgeleidVanGebouw", 
+      "street": "Oostendse Steenweg"
+    }, 
+    {
+      "busnrs": [
+        "101", 
+        "102"
+      ], 
+      "hnrlbls": [
+        "103A"
+      ], 
+      "housenumber": "103A", 
+      "lat": 51.22277404910456, 
+      "lon": 3.2030113623668903, 
+      "municipality": "Brugge", 
+      "pcode": "8000", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
       "street": "Oostendse Steenweg"
     }, 
     {
@@ -593,8 +612,8 @@
         "162-164"
       ], 
       "housenumber": "162", 
-      "lat": 51.227133289974034, 
-      "lon": 3.1944725867355195, 
+      "lat": 51.227096926759806, 
+      "lon": 3.194155721187975, 
       "municipality": "Brugge", 
       "pcode": "8000", 
       "source": "afgeleidVanGebouw", 
@@ -629,8 +648,8 @@
         "162-164"
       ], 
       "housenumber": "164", 
-      "lat": 51.227133289974034, 
-      "lon": 3.1944725867355195, 
+      "lat": 51.227096926759806, 
+      "lon": 3.194155721187975, 
       "municipality": "Brugge", 
       "pcode": "8000", 
       "source": "afgeleidVanGebouw", 
@@ -734,7 +753,7 @@
     }, 
     {
       "hnrlbls": [
-        "173-173A"
+        "173"
       ], 
       "housenumber": "173", 
       "lat": 51.22781103321744, 
@@ -746,14 +765,14 @@
     }, 
     {
       "hnrlbls": [
-        "173-173A"
+        "173A"
       ], 
       "housenumber": "173A", 
-      "lat": 51.22781103321744, 
-      "lon": 3.1917520085134385, 
+      "lat": 51.22781107491972, 
+      "lon": 3.191751996691259, 
       "municipality": "Brugge", 
       "pcode": "8000", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Oostendse Steenweg"
     }, 
     {
@@ -1007,18 +1026,6 @@
     }, 
     {
       "hnrlbls": [
-        "193A"
-      ], 
-      "housenumber": "193A", 
-      "lat": 51.228517094507055, 
-      "lon": 3.190157004749058, 
-      "municipality": "Brugge", 
-      "pcode": "8000", 
-      "source": "manueleAanduidingVanIngangVanGebouw", 
-      "street": "Oostendse Steenweg"
-    }, 
-    {
-      "hnrlbls": [
         "195"
       ], 
       "housenumber": "195", 
@@ -1163,7 +1170,7 @@
     }, 
     {
       "hnrlbls": [
-        "213-213A"
+        "213"
       ], 
       "housenumber": "213", 
       "lat": 51.22490327131743, 
@@ -1171,18 +1178,6 @@
       "municipality": "Brugge", 
       "pcode": "8000", 
       "source": "afgeleidVanGebouw", 
-      "street": "Oostendse Steenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "213-213A"
-      ], 
-      "housenumber": "213A", 
-      "lat": 51.22490327131743, 
-      "lon": 3.1862059362250075, 
-      "municipality": "Brugge", 
-      "pcode": "8000", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Oostendse Steenweg"
     }, 
     {
@@ -1216,6 +1211,18 @@
       "housenumber": "217", 
       "lat": 51.22981224428645, 
       "lon": 3.186681251104496, 
+      "municipality": "Brugge", 
+      "pcode": "8000", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Oostendse Steenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "217A"
+      ], 
+      "housenumber": "217A", 
+      "lat": 51.22981221648203, 
+      "lon": 3.1866812107707347, 
       "municipality": "Brugge", 
       "pcode": "8000", 
       "source": "afgeleidVanGebouw", 
@@ -1322,8 +1329,8 @@
         "225"
       ], 
       "housenumber": "225", 
-      "lat": 51.23097029847684, 
-      "lon": 3.181897545538589, 
+      "lat": 51.23096705962662, 
+      "lon": 3.181888321126303, 
       "municipality": "Brugge", 
       "pcode": "8000", 
       "source": "afgeleidVanPerceelGrb", 
@@ -1661,8 +1668,8 @@
         "295"
       ], 
       "housenumber": "295", 
-      "lat": 51.23836840196361, 
-      "lon": 3.1636031333324075, 
+      "lat": 51.238323376829335, 
+      "lon": 3.1632390211657118, 
       "municipality": "Brugge", 
       "pcode": "8000", 
       "source": "afgeleidVanGebouw", 
@@ -2211,11 +2218,11 @@
         "66"
       ], 
       "housenumber": "66", 
-      "lat": 51.222687006343136, 
-      "lon": 3.2054106827922944, 
+      "lat": 51.2227455985697, 
+      "lon": 3.2053748772158523, 
       "municipality": "Brugge", 
       "pcode": "8000", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Oostendse Steenweg"
     }, 
     {

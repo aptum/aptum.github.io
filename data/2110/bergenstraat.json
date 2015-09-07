@@ -2,7 +2,8 @@
   "addresses": [
     {
       "apptnrs": [
-        "2.0"
+        "2.0", 
+        "glvl"
       ], 
       "hnrlbls": [
         "1"
@@ -32,8 +33,8 @@
         "12"
       ], 
       "housenumber": "12", 
-      "lat": 51.22843846173826, 
-      "lon": 4.519956187389679, 
+      "lat": 51.228438440681664, 
+      "lon": 4.519956169321766, 
       "municipality": "Wijnegem", 
       "pcode": "2110", 
       "source": "afgeleidVanGebouw", 
@@ -116,11 +117,11 @@
         "2"
       ], 
       "housenumber": "2", 
-      "lat": 51.22844294033783, 
-      "lon": 4.520805691200853, 
+      "lat": 51.22833178594941, 
+      "lon": 4.520923855116597, 
       "municipality": "Wijnegem", 
       "pcode": "2110", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Bergenstraat"
     }, 
     {
@@ -176,11 +177,11 @@
         "24"
       ], 
       "housenumber": "24", 
-      "lat": 51.22862675247683, 
-      "lon": 4.519407651326603, 
+      "lat": 51.22850234859561, 
+      "lon": 4.519401726574683, 
       "municipality": "Wijnegem", 
       "pcode": "2110", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Bergenstraat"
     }, 
     {
@@ -188,11 +189,11 @@
         "25"
       ], 
       "housenumber": "25", 
-      "lat": 51.228099096533, 
-      "lon": 4.519858165617278, 
+      "lat": 51.22819810401466, 
+      "lon": 4.519805892613099, 
       "municipality": "Wijnegem", 
       "pcode": "2110", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Bergenstraat"
     }, 
     {
@@ -241,18 +242,6 @@
       "municipality": "Wijnegem", 
       "pcode": "2110", 
       "source": "afgeleidVanGebouw", 
-      "street": "Bergenstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "2A"
-      ], 
-      "housenumber": "2A", 
-      "lat": 51.22847647068569, 
-      "lon": 4.520524212500766, 
-      "municipality": "Wijnegem", 
-      "pcode": "2110", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Bergenstraat"
     }, 
     {
@@ -331,6 +320,9 @@
       "apptnrs": [
         "1.0"
       ], 
+      "busnrs": [
+        "glvR"
+      ], 
       "hnrlbls": [
         "36"
       ], 
@@ -347,8 +339,8 @@
         "37"
       ], 
       "housenumber": "37", 
-      "lat": 51.22831360994751, 
-      "lon": 4.518481991088422, 
+      "lat": 51.228316354880164, 
+      "lon": 4.518443920486553, 
       "municipality": "Wijnegem", 
       "pcode": "2110", 
       "source": "afgeleidVanGebouw", 
@@ -364,18 +356,6 @@
       "municipality": "Wijnegem", 
       "pcode": "2110", 
       "source": "afgeleidVanGebouw", 
-      "street": "Bergenstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "39"
-      ], 
-      "housenumber": "39", 
-      "lat": 51.22832008578809, 
-      "lon": 4.5184080003979785, 
-      "municipality": "Wijnegem", 
-      "pcode": "2110", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Bergenstraat"
     }, 
     {
@@ -511,18 +491,6 @@
       "street": "Bergenstraat"
     }, 
     {
-      "hnrlbls": [
-        "2A-60"
-      ], 
-      "housenumber": "54", 
-      "lat": 51.2284213084337, 
-      "lon": 4.51775968618643, 
-      "municipality": "Wijnegem", 
-      "pcode": "2110", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Bergenstraat"
-    }, 
-    {
       "busnrs": [
         "1", 
         "2", 
@@ -530,14 +498,14 @@
         "4"
       ], 
       "hnrlbls": [
-        "54b"
+        "54"
       ], 
-      "housenumber": "54b", 
-      "lat": 51.22838511636801, 
-      "lon": 4.51766408487469, 
+      "housenumber": "54", 
+      "lat": 51.228455130308056, 
+      "lon": 4.517956342118247, 
       "municipality": "Wijnegem", 
       "pcode": "2110", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Bergenstraat"
     }, 
     {
@@ -557,47 +525,11 @@
     }, 
     {
       "hnrlbls": [
-        "2A-60"
-      ], 
-      "housenumber": "56", 
-      "lat": 51.2284213084337, 
-      "lon": 4.51775968618643, 
-      "municipality": "Wijnegem", 
-      "pcode": "2110", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Bergenstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "2A-60"
-      ], 
-      "housenumber": "58", 
-      "lat": 51.2284213084337, 
-      "lon": 4.51775968618643, 
-      "municipality": "Wijnegem", 
-      "pcode": "2110", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Bergenstraat"
-    }, 
-    {
-      "hnrlbls": [
         "6"
       ], 
       "housenumber": "6", 
       "lat": 51.228468122611346, 
       "lon": 4.520166580680919, 
-      "municipality": "Wijnegem", 
-      "pcode": "2110", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Bergenstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "2A-60"
-      ], 
-      "housenumber": "60", 
-      "lat": 51.2284213084337, 
-      "lon": 4.51775968618643, 
       "municipality": "Wijnegem", 
       "pcode": "2110", 
       "source": "afgeleidVanGebouw", 

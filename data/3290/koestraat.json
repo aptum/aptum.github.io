@@ -1,8 +1,8 @@
 {
   "addresses": [
     {
-      "busnrs": [
-        "1"
+      "apptnrs": [
+        "0001"
       ], 
       "hnrlbls": [
         "1"
@@ -41,8 +41,8 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "2"
+        "0001", 
+        "0002"
       ], 
       "hnrlbls": [
         "12-14"
@@ -84,11 +84,11 @@
         "18"
       ], 
       "housenumber": "18", 
-      "lat": 50.985114866671786, 
-      "lon": 5.054044215182739, 
+      "lat": 50.98508997821884, 
+      "lon": 5.053949569725529, 
       "municipality": "Diest", 
       "pcode": "3290", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Koestraat"
     }, 
     {
@@ -120,8 +120,8 @@
         "3"
       ], 
       "housenumber": "3", 
-      "lat": 50.985156041700535, 
-      "lon": 5.0534422435907524, 
+      "lat": 50.985163365732795, 
+      "lon": 5.053481231056339, 
       "municipality": "Diest", 
       "pcode": "3290", 
       "source": "afgeleidVanGebouw", 
@@ -152,24 +152,17 @@
       "street": "Koestraat"
     }, 
     {
-      "hnrlbls": [
-        "51"
+      "apptnrs": [
+        "B003"
       ], 
-      "housenumber": "51", 
-      "lat": 50.98471052189672, 
-      "lon": 5.0543517578514034, 
-      "municipality": "Diest", 
-      "pcode": "3290", 
-      "source": "afgeleidVanStraat", 
-      "street": "Koestraat"
-    }, 
-    {
       "busnrs": [
-        "1", 
-        "2"
+        "0001", 
+        "0002", 
+        "0003", 
+        "A003"
       ], 
       "hnrlbls": [
-        "6-6B"
+        "6"
       ], 
       "housenumber": "6", 
       "lat": 50.98522893686442, 
@@ -177,36 +170,6 @@
       "municipality": "Diest", 
       "pcode": "3290", 
       "source": "afgeleidVanGebouw", 
-      "street": "Koestraat"
-    }, 
-    {
-      "busnrs": [
-        "3"
-      ], 
-      "hnrlbls": [
-        "6-6B"
-      ], 
-      "housenumber": "6A", 
-      "lat": 50.98522893686442, 
-      "lon": 5.053721596531994, 
-      "municipality": "Diest", 
-      "pcode": "3290", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Koestraat"
-    }, 
-    {
-      "busnrs": [
-        "3"
-      ], 
-      "hnrlbls": [
-        "6-6B"
-      ], 
-      "housenumber": "6B", 
-      "lat": 50.98522893686442, 
-      "lon": 5.053721596531994, 
-      "municipality": "Diest", 
-      "pcode": "3290", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Koestraat"
     }, 
     {
@@ -223,9 +186,9 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "2", 
-        "3"
+        "0001", 
+        "0002", 
+        "0003"
       ], 
       "hnrlbls": [
         "9"

@@ -149,8 +149,8 @@
         "109A"
       ], 
       "housenumber": "109A", 
-      "lat": 51.05728333486511, 
-      "lon": 4.37088615581179, 
+      "lat": 51.05732971759892, 
+      "lon": 4.370891293381, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
       "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
@@ -386,7 +386,7 @@
     }, 
     {
       "hnrlbls": [
-        "125-125A"
+        "125"
       ], 
       "housenumber": "125", 
       "lat": 51.057130508783516, 
@@ -398,11 +398,11 @@
     }, 
     {
       "hnrlbls": [
-        "125-125A"
+        "125A"
       ], 
       "housenumber": "125A", 
-      "lat": 51.057130508783516, 
-      "lon": 4.371431428169339, 
+      "lat": 51.05710740767433, 
+      "lon": 4.371416307536083, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
       "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
@@ -966,8 +966,8 @@
         "168"
       ], 
       "housenumber": "168", 
-      "lat": 51.054605603835185, 
-      "lon": 4.37157986068359, 
+      "lat": 51.0545917618857, 
+      "lon": 4.371545915102582, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
       "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
@@ -1338,8 +1338,8 @@
         "200"
       ], 
       "housenumber": "200", 
-      "lat": 51.05344728888718, 
-      "lon": 4.371602307642263, 
+      "lat": 51.053452143379765, 
+      "lon": 4.371586762359324, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
       "source": "afgeleidVanPerceelGrb", 
@@ -1659,8 +1659,8 @@
         "228"
       ], 
       "housenumber": "228", 
-      "lat": 51.05252573068161, 
-      "lon": 4.371986450316114, 
+      "lat": 51.052519439568314, 
+      "lon": 4.37195193628016, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
       "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
@@ -1820,11 +1820,11 @@
         "243"
       ], 
       "housenumber": "243", 
-      "lat": 51.051136082585316, 
-      "lon": 4.373217659464505, 
+      "lat": 51.051134019504715, 
+      "lon": 4.37311668882189, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Mechelsesteenweg"
     }, 
     {
@@ -1880,11 +1880,11 @@
         "249"
       ], 
       "housenumber": "249", 
-      "lat": 51.05116339372973, 
-      "lon": 4.373554943804462, 
+      "lat": 51.05139610744226, 
+      "lon": 4.373766468248708, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Mechelsesteenweg"
     }, 
     {
@@ -2291,6 +2291,7 @@
     {
       "busnrs": [
         "1", 
+        "101", 
         "201"
       ], 
       "hnrlbls": [
@@ -2380,7 +2381,9 @@
       "busnrs": [
         "1", 
         "101", 
-        "104"
+        "104", 
+        "2", 
+        "201"
       ], 
       "hnrlbls": [
         "291-291A"
@@ -2397,8 +2400,13 @@
       "busnrs": [
         "1", 
         "101", 
+        "102", 
         "103", 
-        "2"
+        "104", 
+        "2", 
+        "201", 
+        "202", 
+        "3"
       ], 
       "hnrlbls": [
         "291-291A"
@@ -2428,8 +2436,8 @@
         "293"
       ], 
       "housenumber": "293", 
-      "lat": 51.04895018830457, 
-      "lon": 4.375804878698902, 
+      "lat": 51.04895926646994, 
+      "lon": 4.375815147901706, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
       "source": "afgeleidVanPerceelGrb", 
@@ -2440,8 +2448,20 @@
         "295"
       ], 
       "housenumber": "295", 
-      "lat": 51.04916743979894, 
-      "lon": 4.3759771846129025, 
+      "lat": 51.04917570925005, 
+      "lon": 4.37598289031618, 
+      "municipality": "Willebroek", 
+      "pcode": "2830", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Mechelsesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "296"
+      ], 
+      "housenumber": "296", 
+      "lat": 51.05034598160585, 
+      "lon": 4.372549153808701, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
       "source": "afgeleidVanPerceelGrb", 
@@ -2500,8 +2520,8 @@
         "300C-300E"
       ], 
       "housenumber": "300C", 
-      "lat": 51.05009015554535, 
-      "lon": 4.372565244250114, 
+      "lat": 51.050006815425334, 
+      "lon": 4.3728828290244754, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
       "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
@@ -2512,8 +2532,8 @@
         "300C-300E"
       ], 
       "housenumber": "300D", 
-      "lat": 51.05009015554535, 
-      "lon": 4.372565244250114, 
+      "lat": 51.050006815425334, 
+      "lon": 4.3728828290244754, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
       "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
@@ -2524,8 +2544,8 @@
         "300C-300E"
       ], 
       "housenumber": "300E", 
-      "lat": 51.05009015554535, 
-      "lon": 4.372565244250114, 
+      "lat": 51.050006815425334, 
+      "lon": 4.3728828290244754, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
       "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
@@ -2548,8 +2568,8 @@
         "301A"
       ], 
       "housenumber": "301A", 
-      "lat": 51.049364269373946, 
-      "lon": 4.376389640787051, 
+      "lat": 51.0493889865616, 
+      "lon": 4.376423871168997, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
       "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
@@ -2572,8 +2592,8 @@
         "302A"
       ], 
       "housenumber": "302A", 
-      "lat": 51.04907361857513, 
-      "lon": 4.374058530090355, 
+      "lat": 51.049072898841224, 
+      "lon": 4.374070651618671, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
       "source": "afgeleidVanPerceelGrb", 
@@ -3173,8 +3193,8 @@
         "363"
       ], 
       "housenumber": "363", 
-      "lat": 51.047525012075184, 
-      "lon": 4.381542828327674, 
+      "lat": 51.04752402306157, 
+      "lon": 4.3815448244789525, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
       "source": "afgeleidVanPerceelGrb", 
@@ -4710,8 +4730,8 @@
         "53"
       ], 
       "housenumber": "53", 
-      "lat": 51.05796481811906, 
-      "lon": 4.368549560237637, 
+      "lat": 51.05794881788265, 
+      "lon": 4.36853786405379, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
       "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
@@ -5007,11 +5027,11 @@
         "66"
       ], 
       "housenumber": "66", 
-      "lat": 51.05858099910108, 
-      "lon": 4.366473495661538, 
+      "lat": 51.05862441592893, 
+      "lon": 4.366498598196891, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelKadaster", 
       "street": "Mechelsesteenweg"
     }, 
     {
@@ -5019,11 +5039,11 @@
         "68"
       ], 
       "housenumber": "68", 
-      "lat": 51.05845497380381, 
-      "lon": 4.366428854901841, 
+      "lat": 51.058515559517275, 
+      "lon": 4.366456381551946, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Mechelsesteenweg"
     }, 
     {
@@ -5031,11 +5051,11 @@
         "70"
       ], 
       "housenumber": "70", 
-      "lat": 51.05852661727415, 
-      "lon": 4.366561361350776, 
+      "lat": 51.058571202738264, 
+      "lon": 4.366594023622767, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelKadaster", 
       "street": "Mechelsesteenweg"
     }, 
     {
@@ -5055,8 +5075,8 @@
         "73-91"
       ], 
       "housenumber": "73", 
-      "lat": 51.057736403344435, 
-      "lon": 4.369365707897854, 
+      "lat": 51.057720403189364, 
+      "lon": 4.3693538688583855, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
       "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
@@ -5181,8 +5201,8 @@
         "84A"
       ], 
       "housenumber": "84A", 
-      "lat": 51.05832356352448, 
-      "lon": 4.36714817027279, 
+      "lat": 51.05832572084932, 
+      "lon": 4.367146030698234, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
       "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
@@ -5241,8 +5261,8 @@
         "73-91"
       ], 
       "housenumber": "91", 
-      "lat": 51.057736403344435, 
-      "lon": 4.369365707897854, 
+      "lat": 51.057720403189364, 
+      "lon": 4.3693538688583855, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
       "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 

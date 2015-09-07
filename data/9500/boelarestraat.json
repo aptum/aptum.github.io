@@ -2,18 +2,6 @@
   "addresses": [
     {
       "hnrlbls": [
-        "1"
-      ], 
-      "housenumber": "1", 
-      "lat": 50.77421075810445, 
-      "lon": 3.882865049915427, 
-      "municipality": "Geraardsbergen", 
-      "pcode": "9500", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Boelarestraat"
-    }, 
-    {
-      "hnrlbls": [
         "10"
       ], 
       "housenumber": "10", 
@@ -161,23 +149,23 @@
     }, 
     {
       "hnrlbls": [
-        "1A-4B"
+        "1A"
       ], 
       "housenumber": "1A", 
-      "lat": 50.774052344093974, 
-      "lon": 3.8830573729131057, 
+      "lat": 50.77377961428932, 
+      "lon": 3.882650732000529, 
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "geinterpoleerdObvWegverbinding", 
       "street": "Boelarestraat"
     }, 
     {
       "hnrlbls": [
-        "2-4"
+        "2"
       ], 
       "housenumber": "2", 
-      "lat": 50.77371052822332, 
-      "lon": 3.882466709817548, 
+      "lat": 50.77369711222784, 
+      "lon": 3.8825049859929766, 
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
       "source": "afgeleidVanGebouw", 
@@ -212,11 +200,11 @@
         "23"
       ], 
       "housenumber": "23", 
-      "lat": 50.77695932729731, 
-      "lon": 3.8822373928967497, 
+      "lat": 50.77680792221425, 
+      "lon": 3.8829924403280796, 
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
-      "source": "geinterpoleerdObvWegverbinding", 
+      "source": "afgeleidVanGebouw", 
       "street": "Boelarestraat"
     }, 
     {
@@ -257,14 +245,14 @@
     }, 
     {
       "hnrlbls": [
-        "3-5"
+        "3"
       ], 
       "housenumber": "3", 
-      "lat": 50.77498168120253, 
-      "lon": 3.8828315845172288, 
+      "lat": 50.77404459453249, 
+      "lon": 3.8825756936094677, 
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "geinterpoleerdObvWegverbinding", 
       "street": "Boelarestraat"
     }, 
     {
@@ -329,11 +317,11 @@
     }, 
     {
       "hnrlbls": [
-        "2-4"
+        "4"
       ], 
       "housenumber": "4", 
-      "lat": 50.77371052822332, 
-      "lon": 3.882466709817548, 
+      "lat": 50.77373642327418, 
+      "lon": 3.882506738535829, 
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
       "source": "afgeleidVanGebouw", 
@@ -401,14 +389,26 @@
     }, 
     {
       "hnrlbls": [
-        "3-5"
+        "49-95"
       ], 
-      "housenumber": "5", 
-      "lat": 50.77498168120253, 
-      "lon": 3.8828315845172288, 
+      "housenumber": "49", 
+      "lat": 50.774830583388386, 
+      "lon": 3.8824898933184473, 
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanStraat", 
+      "street": "Boelarestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "5"
+      ], 
+      "housenumber": "5", 
+      "lat": 50.774909545584705, 
+      "lon": 3.882410674652679, 
+      "municipality": "Geraardsbergen", 
+      "pcode": "9500", 
+      "source": "geinterpoleerdObvWegverbinding", 
       "street": "Boelarestraat"
     }, 
     {
@@ -461,7 +461,7 @@
     }, 
     {
       "hnrlbls": [
-        "56-64"
+        "56"
       ], 
       "housenumber": "56", 
       "lat": 50.775092824908505, 
@@ -508,8 +508,8 @@
         "6"
       ], 
       "housenumber": "6", 
-      "lat": 50.77376164063279, 
-      "lon": 3.8823920335794457, 
+      "lat": 50.77376944048272, 
+      "lon": 3.88246121555735, 
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
       "source": "afgeleidVanGebouw", 
@@ -583,14 +583,14 @@
     }, 
     {
       "hnrlbls": [
-        "56-64"
+        "64"
       ], 
       "housenumber": "64", 
-      "lat": 50.775092824908505, 
-      "lon": 3.8820364686397344, 
+      "lat": 50.775194756404595, 
+      "lon": 3.8819439870834573, 
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Boelarestraat"
     }, 
     {
@@ -636,7 +636,7 @@
     }, 
     {
       "hnrlbls": [
-        "68-68B"
+        "68"
       ], 
       "housenumber": "68", 
       "lat": 50.775489560237865, 
@@ -651,6 +651,7 @@
         "1", 
         "10", 
         "11", 
+        "2", 
         "3", 
         "4", 
         "5", 
@@ -660,11 +661,11 @@
         "9"
       ], 
       "hnrlbls": [
-        "68-68B"
+        "68B"
       ], 
       "housenumber": "68B", 
-      "lat": 50.775489560237865, 
-      "lon": 3.882191026570499, 
+      "lat": 50.775492119785724, 
+      "lon": 3.8821145798572037, 
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
       "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
@@ -675,11 +676,11 @@
         "70"
       ], 
       "housenumber": "70", 
-      "lat": 50.77540706778999, 
-      "lon": 3.881896121963349, 
+      "lat": 50.775615810702746, 
+      "lon": 3.8821555541701076, 
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
       "street": "Boelarestraat"
     }, 
     {
@@ -852,7 +853,7 @@
     }, 
     {
       "hnrlbls": [
-        "95"
+        "49-95"
       ], 
       "housenumber": "95", 
       "lat": 50.774830583388386, 

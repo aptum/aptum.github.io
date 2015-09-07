@@ -12,6 +12,8 @@
         "19", 
         "2", 
         "20", 
+        "3a", 
+        "4c", 
         "5", 
         "6", 
         "7", 
@@ -61,7 +63,9 @@
     {
       "busnrs": [
         "1", 
-        "2"
+        "101", 
+        "2", 
+        "4"
       ], 
       "hnrlbls": [
         "12"
@@ -99,8 +103,11 @@
       "street": "Edmond Laponstraat"
     }, 
     {
+      "busnrs": [
+        "2a"
+      ], 
       "hnrlbls": [
-        "15-15_2"
+        "15"
       ], 
       "housenumber": "15", 
       "lat": 51.22542736825119, 
@@ -108,21 +115,6 @@
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
-      "street": "Edmond Laponstraat"
-    }, 
-    {
-      "busnrs": [
-        "A"
-      ], 
-      "hnrlbls": [
-        "15-15_2"
-      ], 
-      "housenumber": "15_2", 
-      "lat": 51.22542736825119, 
-      "lon": 2.908616588804045, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Edmond Laponstraat"
     }, 
     {
@@ -185,12 +177,12 @@
     }, 
     {
       "busnrs": [
-        "A"
+        "12"
       ], 
       "hnrlbls": [
         "1-55"
       ], 
-      "housenumber": "1_3", 
+      "housenumber": "1C", 
       "lat": 51.22520314301745, 
       "lon": 2.909045398178142, 
       "municipality": "Oostende", 
@@ -200,21 +192,7 @@
     }, 
     {
       "busnrs": [
-        "C"
-      ], 
-      "hnrlbls": [
-        "1-55"
-      ], 
-      "housenumber": "1_4", 
-      "lat": 51.22520314301745, 
-      "lon": 2.909045398178142, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Edmond Laponstraat"
-    }, 
-    {
-      "busnrs": [
+        "1", 
         "101", 
         "2", 
         "201"
@@ -309,6 +287,9 @@
     {
       "busnrs": [
         "1", 
+        "101", 
+        "2", 
+        "3", 
         "4"
       ], 
       "hnrlbls": [
@@ -470,11 +451,12 @@
       "busnrs": [
         "1", 
         "2", 
+        "2a", 
         "3", 
         "4"
       ], 
       "hnrlbls": [
-        "38-38_2"
+        "38-38B"
       ], 
       "housenumber": "38", 
       "lat": 51.22554985646539, 
@@ -486,24 +468,9 @@
     }, 
     {
       "hnrlbls": [
-        "38-38_2"
+        "38-38B"
       ], 
       "housenumber": "38B", 
-      "lat": 51.22554985646539, 
-      "lon": 2.907768166143319, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Edmond Laponstraat"
-    }, 
-    {
-      "busnrs": [
-        "A"
-      ], 
-      "hnrlbls": [
-        "38-38_2"
-      ], 
-      "housenumber": "38_2", 
       "lat": 51.22554985646539, 
       "lon": 2.907768166143319, 
       "municipality": "Oostende", 
@@ -527,19 +494,15 @@
       "street": "Edmond Laponstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
       "hnrlbls": [
         "4"
       ], 
       "housenumber": "4", 
-      "lat": 51.22496519065083, 
-      "lon": 2.908857271181267, 
+      "lat": 51.22502228285971, 
+      "lon": 2.9089378086663684, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Edmond Laponstraat"
     }, 
     {
@@ -586,7 +549,9 @@
     {
       "busnrs": [
         "1", 
-        "2"
+        "101", 
+        "2", 
+        "201"
       ], 
       "hnrlbls": [
         "43"
@@ -606,7 +571,7 @@
         "3"
       ], 
       "hnrlbls": [
-        "44-44O"
+        "44"
       ], 
       "housenumber": "44", 
       "lat": 51.225645988273584, 
@@ -614,18 +579,6 @@
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
-      "street": "Edmond Laponstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "44-44O"
-      ], 
-      "housenumber": "44O", 
-      "lat": 51.225645988273584, 
-      "lon": 2.9075738728993836, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Edmond Laponstraat"
     }, 
     {
@@ -656,6 +609,9 @@
       "street": "Edmond Laponstraat"
     }, 
     {
+      "apptnrs": [
+        "2.0"
+      ], 
       "busnrs": [
         "1", 
         "2"
@@ -915,7 +871,8 @@
         "1", 
         "2", 
         "3", 
-        "4"
+        "4", 
+        "401"
       ], 
       "hnrlbls": [
         "9"

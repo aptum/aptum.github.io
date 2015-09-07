@@ -1,8 +1,11 @@
 {
   "addresses": [
     {
-      "busnrs": [
+      "apptnrs": [
         "0001", 
+        "0101", 
+        "0102", 
+        "0201", 
         "0202", 
         "0301"
       ], 
@@ -10,11 +13,11 @@
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 51.05755982975917, 
-      "lon": 3.2790038839026874, 
+      "lat": 51.05752183344798, 
+      "lon": 3.2790100603947034, 
       "municipality": "Wingene", 
       "pcode": "8750", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "afgeleidVanGebouw", 
       "street": "Tieltstraat"
     }, 
     {
@@ -171,10 +174,14 @@
       "street": "Tieltstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "0001", 
+        "0101", 
         "0102", 
-        "0301"
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302"
       ], 
       "hnrlbls": [
         "2"
@@ -521,6 +528,18 @@
       "municipality": "Wingene", 
       "pcode": "8750", 
       "source": "manueleAanduidingVanPerceel", 
+      "street": "Tieltstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "45A"
+      ], 
+      "housenumber": "45A", 
+      "lat": 51.05674286345579, 
+      "lon": 3.282999355668716, 
+      "municipality": "Wingene", 
+      "pcode": "8750", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Tieltstraat"
     }, 
     {

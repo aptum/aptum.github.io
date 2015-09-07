@@ -31,7 +31,11 @@
     {
       "apptnrs": [
         "1.0", 
-        "2.0"
+        "2.0", 
+        "glvl"
+      ], 
+      "busnrs": [
+        "glvl"
       ], 
       "hnrlbls": [
         "9-11"
@@ -59,6 +63,9 @@
     {
       "apptnrs": [
         "1.0"
+      ], 
+      "busnrs": [
+        "glvl"
       ], 
       "hnrlbls": [
         "13"
@@ -97,7 +104,8 @@
     }, 
     {
       "busnrs": [
-        "1"
+        "1", 
+        "GLVL"
       ], 
       "hnrlbls": [
         "17"
@@ -112,7 +120,8 @@
     }, 
     {
       "busnrs": [
-        "2"
+        "2", 
+        "glvl"
       ], 
       "hnrlbls": [
         "19"
@@ -123,21 +132,6 @@
       "municipality": "Wijnegem", 
       "pcode": "2110", 
       "source": "afgeleidVanGebouw", 
-      "street": "Pastorijlaan"
-    }, 
-    {
-      "busnrs": [
-        "5"
-      ], 
-      "hnrlbls": [
-        "1-3"
-      ], 
-      "housenumber": "1b", 
-      "lat": 51.22711094513063, 
-      "lon": 4.52493069482583, 
-      "municipality": "Wijnegem", 
-      "pcode": "2110", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Pastorijlaan"
     }, 
     {
@@ -188,12 +182,15 @@
       "street": "Pastorijlaan"
     }, 
     {
+      "apptnrs": [
+        "01eL"
+      ], 
       "busnrs": [
         "1", 
         "3"
       ], 
       "hnrlbls": [
-        "5-7_1"
+        "5-7"
       ], 
       "housenumber": "5", 
       "lat": 51.22717922394984, 
@@ -204,24 +201,6 @@
       "street": "Pastorijlaan"
     }, 
     {
-      "busnrs": [
-        "eL"
-      ], 
-      "hnrlbls": [
-        "5-7_1"
-      ], 
-      "housenumber": "5_1", 
-      "lat": 51.22717922394984, 
-      "lon": 4.5252262479578, 
-      "municipality": "Wijnegem", 
-      "pcode": "2110", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Pastorijlaan"
-    }, 
-    {
-      "apptnrs": [
-        "1.0"
-      ], 
       "busnrs": [
         "1", 
         "2"
@@ -239,10 +218,12 @@
     }, 
     {
       "busnrs": [
-        "3"
+        "1stR", 
+        "3", 
+        "4"
       ], 
       "hnrlbls": [
-        "5-7_1"
+        "5-7"
       ], 
       "housenumber": "7", 
       "lat": 51.22717922394984, 
@@ -250,37 +231,6 @@
       "municipality": "Wijnegem", 
       "pcode": "2110", 
       "source": "afgeleidVanGebouw", 
-      "street": "Pastorijlaan"
-    }, 
-    {
-      "busnrs": [
-        "stR"
-      ], 
-      "hnrlbls": [
-        "5-7_1"
-      ], 
-      "housenumber": "7_1", 
-      "lat": 51.22717922394984, 
-      "lon": 4.5252262479578, 
-      "municipality": "Wijnegem", 
-      "pcode": "2110", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Pastorijlaan"
-    }, 
-    {
-      "busnrs": [
-        "4", 
-        "6"
-      ], 
-      "hnrlbls": [
-        "5-7_1"
-      ], 
-      "housenumber": "7b", 
-      "lat": 51.22717922394984, 
-      "lon": 4.5252262479578, 
-      "municipality": "Wijnegem", 
-      "pcode": "2110", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Pastorijlaan"
     }, 
     {
@@ -309,7 +259,12 @@
     }, 
     {
       "apptnrs": [
-        "1.0"
+        "1.0", 
+        "2.0", 
+        "glvl"
+      ], 
+      "busnrs": [
+        "glvl"
       ], 
       "hnrlbls": [
         "9-11"
@@ -320,21 +275,6 @@
       "municipality": "Wijnegem", 
       "pcode": "2110", 
       "source": "afgeleidVanGebouw", 
-      "street": "Pastorijlaan"
-    }, 
-    {
-      "busnrs": [
-        "eL"
-      ], 
-      "hnrlbls": [
-        "9-11"
-      ], 
-      "housenumber": "9_2", 
-      "lat": 51.227252630721416, 
-      "lon": 4.525517811004073, 
-      "municipality": "Wijnegem", 
-      "pcode": "2110", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Pastorijlaan"
     }
   ]

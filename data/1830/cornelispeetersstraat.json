@@ -115,18 +115,6 @@
     }, 
     {
       "hnrlbls": [
-        "19"
-      ], 
-      "housenumber": "19", 
-      "lat": 50.911643843413266, 
-      "lon": 4.4343308758203595, 
-      "municipality": "Machelen", 
-      "pcode": "1830", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Cornelis Peetersstraat"
-    }, 
-    {
-      "hnrlbls": [
         "1A"
       ], 
       "housenumber": "1A", 
@@ -246,6 +234,9 @@
       "street": "Cornelis Peetersstraat"
     }, 
     {
+      "busnrs": [
+        "BS02"
+      ], 
       "hnrlbls": [
         "30"
       ], 
@@ -259,7 +250,12 @@
     }, 
     {
       "busnrs": [
-        "1"
+        "1", 
+        "BS01", 
+        "BS02", 
+        "BS03", 
+        "BS04", 
+        "BS05"
       ], 
       "hnrlbls": [
         "31"
@@ -286,7 +282,10 @@
     }, 
     {
       "busnrs": [
-        "3"
+        "3", 
+        "BS02", 
+        "BS03", 
+        "BS04"
       ], 
       "hnrlbls": [
         "34"
@@ -297,18 +296,6 @@
       "municipality": "Machelen", 
       "pcode": "1830", 
       "source": "afgeleidVanGebouw", 
-      "street": "Cornelis Peetersstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "35"
-      ], 
-      "housenumber": "35", 
-      "lat": 50.91136894270489, 
-      "lon": 4.433862685886515, 
-      "municipality": "Machelen", 
-      "pcode": "1830", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Cornelis Peetersstraat"
     }, 
     {
@@ -373,7 +360,7 @@
     }, 
     {
       "hnrlbls": [
-        "43"
+        "43-45"
       ], 
       "housenumber": "43", 
       "lat": 50.91073969521444, 
@@ -397,14 +384,14 @@
     }, 
     {
       "hnrlbls": [
-        "45"
+        "43-45"
       ], 
       "housenumber": "45", 
-      "lat": 50.91069485558684, 
-      "lon": 4.433497600186524, 
+      "lat": 50.91073969521444, 
+      "lon": 4.433528517291714, 
       "municipality": "Machelen", 
       "pcode": "1830", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Cornelis Peetersstraat"
     }, 
     {
@@ -579,6 +566,11 @@
       "apptnrs": [
         "0.0"
       ], 
+      "busnrs": [
+        "BS01", 
+        "BS02", 
+        "BS03"
+      ], 
       "hnrlbls": [
         "70"
       ], 
@@ -593,6 +585,9 @@
     {
       "apptnrs": [
         "0.0"
+      ], 
+      "busnrs": [
+        "BS03"
       ], 
       "hnrlbls": [
         "72"
@@ -646,11 +641,11 @@
         "9"
       ], 
       "housenumber": "9", 
-      "lat": 50.91190901472421, 
-      "lon": 4.434674214015712, 
+      "lat": 50.911939892165755, 
+      "lon": 4.434596621684243, 
       "municipality": "Machelen", 
       "pcode": "1830", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Cornelis Peetersstraat"
     }
   ]

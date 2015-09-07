@@ -2,18 +2,6 @@
   "addresses": [
     {
       "hnrlbls": [
-        "1-128"
-      ], 
-      "housenumber": "1", 
-      "lat": 50.84692710803604, 
-      "lon": 5.49009894385526, 
-      "municipality": "Hoeselt", 
-      "pcode": "3730", 
-      "source": "afgeleidVanStraat", 
-      "street": "Bilzersteenweg"
-    }, 
-    {
-      "hnrlbls": [
         "10"
       ], 
       "housenumber": "10", 
@@ -38,10 +26,13 @@
     }, 
     {
       "busnrs": [
-        "1"
+        "1", 
+        "Abu1", 
+        "Abu2", 
+        "BBU2"
       ], 
       "hnrlbls": [
-        "11-11B"
+        "11"
       ], 
       "housenumber": "11", 
       "lat": 50.85129416367406, 
@@ -52,30 +43,36 @@
       "street": "Bilzersteenweg"
     }, 
     {
-      "hnrlbls": [
-        "11A"
+      "apptnrs": [
+        "2"
       ], 
-      "housenumber": "11A", 
-      "lat": 50.85132969115282, 
-      "lon": 5.49319492175564, 
-      "municipality": "Hoeselt", 
-      "pcode": "3730", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Bilzersteenweg"
-    }, 
-    {
       "busnrs": [
         "1"
       ], 
       "hnrlbls": [
-        "11-11B"
+        "11A"
       ], 
-      "housenumber": "11B", 
-      "lat": 50.85129416367406, 
-      "lon": 5.492905905558255, 
+      "housenumber": "11A", 
+      "lat": 50.85139338686132, 
+      "lon": 5.492984262992897, 
       "municipality": "Hoeselt", 
       "pcode": "3730", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Bilzersteenweg"
+    }, 
+    {
+      "busnrs": [
+        "2"
+      ], 
+      "hnrlbls": [
+        "11B"
+      ], 
+      "housenumber": "11B", 
+      "lat": 50.851460349575994, 
+      "lon": 5.493042249250888, 
+      "municipality": "Hoeselt", 
+      "pcode": "3730", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Bilzersteenweg"
     }, 
     {
@@ -91,27 +88,19 @@
       "street": "Bilzersteenweg"
     }, 
     {
-      "hnrlbls": [
-        "1-128"
+      "busnrs": [
+        "1", 
+        "2"
       ], 
-      "housenumber": "128", 
-      "lat": 50.84692710803604, 
-      "lon": 5.49009894385526, 
-      "municipality": "Hoeselt", 
-      "pcode": "3730", 
-      "source": "afgeleidVanStraat", 
-      "street": "Bilzersteenweg"
-    }, 
-    {
       "hnrlbls": [
         "13"
       ], 
       "housenumber": "13", 
-      "lat": 50.851717634898485, 
-      "lon": 5.492932231341933, 
+      "lat": 50.851633039619216, 
+      "lon": 5.493222209122337, 
       "municipality": "Hoeselt", 
       "pcode": "3730", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Bilzersteenweg"
     }, 
     {
@@ -175,23 +164,11 @@
         "17A"
       ], 
       "housenumber": "17A", 
-      "lat": 50.85223000435424, 
-      "lon": 5.492707310351576, 
+      "lat": 50.85213028714377, 
+      "lon": 5.49285859637971, 
       "municipality": "Hoeselt", 
       "pcode": "3730", 
       "source": "afgeleidVanGebouw", 
-      "street": "Bilzersteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "18"
-      ], 
-      "housenumber": "18", 
-      "lat": 50.85199748379539, 
-      "lon": 5.493225536914303, 
-      "municipality": "Hoeselt", 
-      "pcode": "3730", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Bilzersteenweg"
     }, 
     {
@@ -207,6 +184,19 @@
       "street": "Bilzersteenweg"
     }, 
     {
+      "apptnrs": [
+        "E1"
+      ], 
+      "busnrs": [
+        "ABU2", 
+        "ABU3", 
+        "ABU4", 
+        "BB2", 
+        "BBU1", 
+        "BBU3", 
+        "EBU2", 
+        "EBU3"
+      ], 
       "hnrlbls": [
         "19"
       ], 
@@ -228,6 +218,30 @@
       "municipality": "Hoeselt", 
       "pcode": "3730", 
       "source": "afgeleidVanGebouw", 
+      "street": "Bilzersteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "19D-19E"
+      ], 
+      "housenumber": "19D", 
+      "lat": 50.85245467955869, 
+      "lon": 5.493072725131009, 
+      "municipality": "Hoeselt", 
+      "pcode": "3730", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Bilzersteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "19D-19E"
+      ], 
+      "housenumber": "19E", 
+      "lat": 50.85245467955869, 
+      "lon": 5.493072725131009, 
+      "municipality": "Hoeselt", 
+      "pcode": "3730", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Bilzersteenweg"
     }, 
     {
@@ -311,11 +325,11 @@
         "27"
       ], 
       "housenumber": "27", 
-      "lat": 50.85325255315103, 
-      "lon": 5.494855972019736, 
+      "lat": 50.85325433174504, 
+      "lon": 5.49485800307496, 
       "municipality": "Hoeselt", 
       "pcode": "3730", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Bilzersteenweg"
     }, 
     {
@@ -464,18 +478,17 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "3"
+        "1"
       ], 
       "hnrlbls": [
         "36"
       ], 
       "housenumber": "36", 
-      "lat": 50.853943256724286, 
-      "lon": 5.495748724950497, 
+      "lat": 50.853925053690986, 
+      "lon": 5.4956315382499055, 
       "municipality": "Hoeselt", 
       "pcode": "3730", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Bilzersteenweg"
     }, 
     {
@@ -499,22 +512,14 @@
       "lon": 5.4957851154272035, 
       "municipality": "Hoeselt", 
       "pcode": "3730", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Bilzersteenweg"
     }, 
     {
-      "hnrlbls": [
-        "37"
+      "busnrs": [
+        "ABU2", 
+        "Abu1"
       ], 
-      "housenumber": "37", 
-      "lat": 50.85390638581378, 
-      "lon": 5.4957123323740635, 
-      "municipality": "Hoeselt", 
-      "pcode": "3730", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Bilzersteenweg"
-    }, 
-    {
       "hnrlbls": [
         "38"
       ], 
@@ -527,6 +532,10 @@
       "street": "Bilzersteenweg"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "38A"
       ], 
@@ -583,8 +592,8 @@
         "41"
       ], 
       "housenumber": "41", 
-      "lat": 50.854208112898526, 
-      "lon": 5.496067125313524, 
+      "lat": 50.854246603695294, 
+      "lon": 5.495916358425394, 
       "municipality": "Hoeselt", 
       "pcode": "3730", 
       "source": "afgeleidVanGebouw", 
@@ -592,53 +601,35 @@
     }, 
     {
       "busnrs": [
-        "3"
+        "1", 
+        "2"
       ], 
       "hnrlbls": [
         "42"
       ], 
       "housenumber": "42", 
-      "lat": 50.854322414243526, 
-      "lon": 5.496035780876784, 
+      "lat": 50.85431516672332, 
+      "lon": 5.495910618130704, 
       "municipality": "Hoeselt", 
       "pcode": "3730", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Bilzersteenweg"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3"
+      ], 
       "hnrlbls": [
-        "42A-42C"
+        "42A"
       ], 
       "housenumber": "42A", 
-      "lat": 50.85427844455572, 
-      "lon": 5.496027055799884, 
+      "lat": 50.85438272091022, 
+      "lon": 5.496000441770068, 
       "municipality": "Hoeselt", 
       "pcode": "3730", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Bilzersteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "42A-42C"
-      ], 
-      "housenumber": "42B", 
-      "lat": 50.85427844455572, 
-      "lon": 5.496027055799884, 
-      "municipality": "Hoeselt", 
-      "pcode": "3730", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Bilzersteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "42A-42C"
-      ], 
-      "housenumber": "42C", 
-      "lat": 50.85427844455572, 
-      "lon": 5.496027055799884, 
-      "municipality": "Hoeselt", 
-      "pcode": "3730", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Bilzersteenweg"
     }, 
     {
@@ -646,11 +637,11 @@
         "44"
       ], 
       "housenumber": "44", 
-      "lat": 50.854481644190365, 
-      "lon": 5.496212599046017, 
+      "lat": 50.854486141915324, 
+      "lon": 5.496184300363511, 
       "municipality": "Hoeselt", 
       "pcode": "3730", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Bilzersteenweg"
     }, 
     {
@@ -663,6 +654,22 @@
       "municipality": "Hoeselt", 
       "pcode": "3730", 
       "source": "afgeleidVanGebouw", 
+      "street": "Bilzersteenweg"
+    }, 
+    {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
+      "hnrlbls": [
+        "44B"
+      ], 
+      "housenumber": "44B", 
+      "lat": 50.85481605685808, 
+      "lon": 5.496319056362682, 
+      "municipality": "Hoeselt", 
+      "pcode": "3730", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Bilzersteenweg"
     }, 
     {
@@ -754,11 +761,11 @@
         "49"
       ], 
       "housenumber": "49", 
-      "lat": 50.85567516429181, 
-      "lon": 5.496546203159844, 
+      "lat": 50.85567797285296, 
+      "lon": 5.496534623578063, 
       "municipality": "Hoeselt", 
       "pcode": "3730", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Bilzersteenweg"
     }, 
     {
@@ -789,6 +796,9 @@
       "street": "Bilzersteenweg"
     }, 
     {
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "50A"
       ], 

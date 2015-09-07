@@ -73,9 +73,10 @@
       "street": "Christiaan Pallemansstraat"
     }, 
     {
-      "busnrs": [
-        "2", 
-        "3"
+      "apptnrs": [
+        "0001", 
+        "0002", 
+        "0003"
       ], 
       "hnrlbls": [
         "11"
@@ -113,9 +114,12 @@
       "street": "Christiaan Pallemansstraat"
     }, 
     {
+      "apptnrs": [
+        "0002", 
+        "0003"
+      ], 
       "busnrs": [
-        "2", 
-        "3"
+        "0001"
       ], 
       "hnrlbls": [
         "13"
@@ -179,9 +183,6 @@
         "bus 2 - 1st", 
         "bus 3 - 2de"
       ], 
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
         "18"
       ], 
@@ -207,10 +208,12 @@
     }, 
     {
       "busnrs": [
-        "3"
+        "0001", 
+        "0002", 
+        "0003"
       ], 
       "hnrlbls": [
-        "2-2B"
+        "2"
       ], 
       "housenumber": "2", 
       "lat": 51.31507750752659, 
@@ -246,21 +249,9 @@
     }, 
     {
       "hnrlbls": [
-        "24-24A"
+        "24"
       ], 
       "housenumber": "24", 
-      "lat": 51.31577084568811, 
-      "lon": 4.4304407246736615, 
-      "municipality": "Kapellen", 
-      "pcode": "2950", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Christiaan Pallemansstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "24-24A"
-      ], 
-      "housenumber": "24A", 
       "lat": 51.31577084568811, 
       "lon": 4.4304407246736615, 
       "municipality": "Kapellen", 
@@ -326,18 +317,6 @@
       "housenumber": "28", 
       "lat": 51.31585491989613, 
       "lon": 4.43054295593816, 
-      "municipality": "Kapellen", 
-      "pcode": "2950", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Christiaan Pallemansstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "2-2B"
-      ], 
-      "housenumber": "2B", 
-      "lat": 51.31507750752659, 
-      "lon": 4.429927346447839, 
       "municipality": "Kapellen", 
       "pcode": "2950", 
       "source": "afgeleidVanGebouw", 
@@ -548,6 +527,10 @@
       "street": "Christiaan Pallemansstraat"
     }, 
     {
+      "apptnrs": [
+        "0001 - glv", 
+        "0002 - 1ste"
+      ], 
       "hnrlbls": [
         "46"
       ], 

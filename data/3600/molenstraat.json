@@ -442,6 +442,10 @@
       "street": "Molenstraat"
     }, 
     {
+      "busnrs": [
+        "AB12", 
+        "AB21"
+      ], 
       "hnrlbls": [
         "2-11A"
       ], 
@@ -544,11 +548,11 @@
         "27-27B"
       ], 
       "housenumber": "27", 
-      "lat": 50.964457131405254, 
-      "lon": 5.502140327975162, 
+      "lat": 50.96432268030868, 
+      "lon": 5.502145190694856, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "geinterpoleerdObvWegverbinding", 
       "street": "Molenstraat"
     }, 
     {
@@ -556,11 +560,11 @@
         "27-27B"
       ], 
       "housenumber": "27B", 
-      "lat": 50.964457131405254, 
-      "lon": 5.502140327975162, 
+      "lat": 50.96432268030868, 
+      "lon": 5.502145190694856, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "geinterpoleerdObvWegverbinding", 
       "street": "Molenstraat"
     }, 
     {
@@ -601,7 +605,11 @@
     }, 
     {
       "busnrs": [
-        "3"
+        "3", 
+        "AB11", 
+        "AB21", 
+        "AB31", 
+        "AB32"
       ], 
       "hnrlbls": [
         "3-3B"
@@ -666,6 +674,9 @@
       "street": "Molenstraat"
     }, 
     {
+      "busnrs": [
+        "AB02"
+      ], 
       "hnrlbls": [
         "35-35A"
       ], 
@@ -725,8 +736,8 @@
         "38"
       ], 
       "housenumber": "38", 
-      "lat": 50.96411870842125, 
-      "lon": 5.502628001206246, 
+      "lat": 50.96411816501179, 
+      "lon": 5.502628415153037, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
@@ -1106,7 +1117,29 @@
     }, 
     {
       "busnrs": [
-        "1"
+        "1", 
+        "12", 
+        "AB11", 
+        "AB12", 
+        "AB21", 
+        "AB22", 
+        "AB31", 
+        "AB41", 
+        "BB21", 
+        "BB22", 
+        "BB32", 
+        "BB41", 
+        "BB42", 
+        "BB51", 
+        "BB52", 
+        "CB11", 
+        "CB12", 
+        "CB21", 
+        "CB22", 
+        "CB31", 
+        "CB32", 
+        "CB41", 
+        "CB42"
       ], 
       "hnrlbls": [
         "60-60C"

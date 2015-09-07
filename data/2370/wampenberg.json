@@ -1,6 +1,30 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "Ab01", 
+        "Ab02", 
+        "Ab03", 
+        "Ab04", 
+        "Ab05", 
+        "Ab06", 
+        "Ab07", 
+        "Ab08", 
+        "Ab09", 
+        "Ab10", 
+        "Ab11", 
+        "Ab12", 
+        "Ab13", 
+        "Ab14", 
+        "Ab15", 
+        "Bb01", 
+        "Bb02", 
+        "Bb03", 
+        "Bb04", 
+        "Bb06", 
+        "Bb07", 
+        "Bb08"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -14,7 +38,7 @@
     }, 
     {
       "hnrlbls": [
-        "10-10B"
+        "10"
       ], 
       "housenumber": "10", 
       "lat": 51.3243016172945, 
@@ -173,23 +197,23 @@
         "10A"
       ], 
       "housenumber": "10A", 
-      "lat": 51.324519013439776, 
-      "lon": 5.093553584762016, 
+      "lat": 51.32431282137986, 
+      "lon": 5.093141944895444, 
       "municipality": "Arendonk", 
       "pcode": "2370", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Wampenberg"
     }, 
     {
       "hnrlbls": [
-        "10-10B"
+        "10B"
       ], 
       "housenumber": "10B", 
-      "lat": 51.3243016172945, 
-      "lon": 5.091504343711996, 
+      "lat": 51.324518976025345, 
+      "lon": 5.093553560453475, 
       "municipality": "Arendonk", 
       "pcode": "2370", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Wampenberg"
     }, 
     {
@@ -229,15 +253,19 @@
       "street": "Wampenberg"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "112"
       ], 
       "housenumber": "112", 
-      "lat": 51.330164237774696, 
-      "lon": 5.0960236190246215, 
+      "lat": 51.330165975950194, 
+      "lon": 5.095967293685231, 
       "municipality": "Arendonk", 
       "pcode": "2370", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Wampenberg"
     }, 
     {
@@ -541,12 +569,41 @@
       "street": "Wampenberg"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "Ab01", 
+        "Ab03", 
+        "Ab04"
+      ], 
       "hnrlbls": [
         "137"
       ], 
       "housenumber": "137", 
-      "lat": 51.330090225296296, 
-      "lon": 5.095077960556863, 
+      "lat": 51.3300122781045, 
+      "lon": 5.09497718847669, 
+      "municipality": "Arendonk", 
+      "pcode": "2370", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Wampenberg"
+    }, 
+    {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5"
+      ], 
+      "hnrlbls": [
+        "137A"
+      ], 
+      "housenumber": "137A", 
+      "lat": 51.330090225260996, 
+      "lon": 5.095077946968639, 
       "municipality": "Arendonk", 
       "pcode": "2370", 
       "source": "afgeleidVanGebouw", 
@@ -1265,7 +1322,7 @@
     }, 
     {
       "hnrlbls": [
-        "199-201"
+        "199"
       ], 
       "housenumber": "199", 
       "lat": 51.332466448620735, 
@@ -1310,18 +1367,6 @@
       "housenumber": "20", 
       "lat": 51.325010908595864, 
       "lon": 5.091693407720431, 
-      "municipality": "Arendonk", 
-      "pcode": "2370", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Wampenberg"
-    }, 
-    {
-      "hnrlbls": [
-        "199-201"
-      ], 
-      "housenumber": "201", 
-      "lat": 51.332466448620735, 
-      "lon": 5.09733808399573, 
       "municipality": "Arendonk", 
       "pcode": "2370", 
       "source": "afgeleidVanGebouw", 
@@ -1485,18 +1530,6 @@
     }, 
     {
       "hnrlbls": [
-        "24"
-      ], 
-      "housenumber": "24", 
-      "lat": 51.325334635462816, 
-      "lon": 5.092096690868994, 
-      "municipality": "Arendonk", 
-      "pcode": "2370", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Wampenberg"
-    }, 
-    {
-      "hnrlbls": [
         "25"
       ], 
       "housenumber": "25", 
@@ -1578,20 +1611,19 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4"
+        "bus2", 
+        "bus3", 
+        "bus4"
       ], 
       "hnrlbls": [
         "30"
       ], 
       "housenumber": "30", 
-      "lat": 51.32591905422284, 
-      "lon": 5.093200694377298, 
+      "lat": 51.32603660037288, 
+      "lon": 5.093237326877567, 
       "municipality": "Arendonk", 
       "pcode": "2370", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Wampenberg"
     }, 
     {
@@ -1604,30 +1636,6 @@
       "municipality": "Arendonk", 
       "pcode": "2370", 
       "source": "afgeleidVanGebouw", 
-      "street": "Wampenberg"
-    }, 
-    {
-      "hnrlbls": [
-        "32-32A"
-      ], 
-      "housenumber": "32", 
-      "lat": 51.32603657810772, 
-      "lon": 5.0932373878641535, 
-      "municipality": "Arendonk", 
-      "pcode": "2370", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Wampenberg"
-    }, 
-    {
-      "hnrlbls": [
-        "32-32A"
-      ], 
-      "housenumber": "32A", 
-      "lat": 51.32603657810772, 
-      "lon": 5.0932373878641535, 
-      "municipality": "Arendonk", 
-      "pcode": "2370", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Wampenberg"
     }, 
     {
@@ -1697,18 +1705,6 @@
       "street": "Wampenberg"
     }, 
     {
-      "hnrlbls": [
-        "38A"
-      ], 
-      "housenumber": "38A", 
-      "lat": 51.3258295801874, 
-      "lon": 5.094586581788728, 
-      "municipality": "Arendonk", 
-      "pcode": "2370", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Wampenberg"
-    }, 
-    {
       "busnrs": [
         "1", 
         "2", 
@@ -1730,8 +1726,8 @@
         "4"
       ], 
       "housenumber": "4", 
-      "lat": 51.324079033354536, 
-      "lon": 5.091730126693326, 
+      "lat": 51.324034389256646, 
+      "lon": 5.091740191493523, 
       "municipality": "Arendonk", 
       "pcode": "2370", 
       "source": "afgeleidVanGebouw", 
@@ -1871,54 +1867,6 @@
     }, 
     {
       "hnrlbls": [
-        "4A-4F"
-      ], 
-      "housenumber": "4A", 
-      "lat": 51.324034389256646, 
-      "lon": 5.091740191493523, 
-      "municipality": "Arendonk", 
-      "pcode": "2370", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Wampenberg"
-    }, 
-    {
-      "hnrlbls": [
-        "4A-4F"
-      ], 
-      "housenumber": "4C", 
-      "lat": 51.324034389256646, 
-      "lon": 5.091740191493523, 
-      "municipality": "Arendonk", 
-      "pcode": "2370", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Wampenberg"
-    }, 
-    {
-      "hnrlbls": [
-        "4A-4F"
-      ], 
-      "housenumber": "4D", 
-      "lat": 51.324034389256646, 
-      "lon": 5.091740191493523, 
-      "municipality": "Arendonk", 
-      "pcode": "2370", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Wampenberg"
-    }, 
-    {
-      "hnrlbls": [
-        "4A-4F"
-      ], 
-      "housenumber": "4F", 
-      "lat": 51.324034389256646, 
-      "lon": 5.091740191493523, 
-      "municipality": "Arendonk", 
-      "pcode": "2370", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Wampenberg"
-    }, 
-    {
-      "hnrlbls": [
         "50"
       ], 
       "housenumber": "50", 
@@ -2030,8 +1978,8 @@
         "60"
       ], 
       "housenumber": "60", 
-      "lat": 51.32701809288629, 
-      "lon": 5.094224384884357, 
+      "lat": 51.32707947400932, 
+      "lon": 5.094209547923338, 
       "municipality": "Arendonk", 
       "pcode": "2370", 
       "source": "afgeleidVanGebouw", 
@@ -2042,11 +1990,11 @@
         "61"
       ], 
       "housenumber": "61", 
-      "lat": 51.32651638519276, 
-      "lon": 5.0927370029244505, 
+      "lat": 51.32635895295931, 
+      "lon": 5.0929065179765285, 
       "municipality": "Arendonk", 
       "pcode": "2370", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Wampenberg"
     }, 
     {
@@ -2172,11 +2120,11 @@
         "70"
       ], 
       "housenumber": "70", 
-      "lat": 51.32768996359772, 
-      "lon": 5.094358686193532, 
+      "lat": 51.3275939015349, 
+      "lon": 5.094105093972196, 
       "municipality": "Arendonk", 
       "pcode": "2370", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Wampenberg"
     }, 
     {
@@ -2186,18 +2134,6 @@
       "housenumber": "71", 
       "lat": 51.326729427892914, 
       "lon": 5.093395383999371, 
-      "municipality": "Arendonk", 
-      "pcode": "2370", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Wampenberg"
-    }, 
-    {
-      "hnrlbls": [
-        "72"
-      ], 
-      "housenumber": "72", 
-      "lat": 51.32763861145148, 
-      "lon": 5.09408457776156, 
       "municipality": "Arendonk", 
       "pcode": "2370", 
       "source": "afgeleidVanGebouw", 
@@ -2469,11 +2405,11 @@
     }, 
     {
       "hnrlbls": [
-        "95-97"
+        "95"
       ], 
       "housenumber": "95", 
-      "lat": 51.3276729100215, 
-      "lon": 5.093620993586394, 
+      "lat": 51.32764178866843, 
+      "lon": 5.093619251620339, 
       "municipality": "Arendonk", 
       "pcode": "2370", 
       "source": "afgeleidVanGebouw", 
@@ -2493,11 +2429,11 @@
     }, 
     {
       "hnrlbls": [
-        "95-97"
+        "97"
       ], 
       "housenumber": "97", 
-      "lat": 51.3276729100215, 
-      "lon": 5.093620993586394, 
+      "lat": 51.32770398951216, 
+      "lon": 5.093622820920584, 
       "municipality": "Arendonk", 
       "pcode": "2370", 
       "source": "afgeleidVanGebouw", 
@@ -2508,8 +2444,8 @@
         "98"
       ], 
       "housenumber": "98", 
-      "lat": 51.32965638570713, 
-      "lon": 5.0955855352250055, 
+      "lat": 51.32963182158677, 
+      "lon": 5.09551097037239, 
       "municipality": "Arendonk", 
       "pcode": "2370", 
       "source": "afgeleidVanGebouw", 
@@ -2517,7 +2453,7 @@
     }, 
     {
       "hnrlbls": [
-        "99-99A"
+        "99"
       ], 
       "housenumber": "99", 
       "lat": 51.327722164769575, 
@@ -2525,18 +2461,6 @@
       "municipality": "Arendonk", 
       "pcode": "2370", 
       "source": "afgeleidVanGebouw", 
-      "street": "Wampenberg"
-    }, 
-    {
-      "hnrlbls": [
-        "99-99A"
-      ], 
-      "housenumber": "99A", 
-      "lat": 51.327722164769575, 
-      "lon": 5.093342285586063, 
-      "municipality": "Arendonk", 
-      "pcode": "2370", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Wampenberg"
     }
   ]

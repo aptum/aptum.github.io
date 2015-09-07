@@ -355,6 +355,7 @@
     }, 
     {
       "busnrs": [
+        "1", 
         "2"
       ], 
       "hnrlbls": [
@@ -764,7 +765,7 @@
     }, 
     {
       "hnrlbls": [
-        "32-32A"
+        "32"
       ], 
       "housenumber": "32", 
       "lat": 51.19488333386122, 
@@ -776,14 +777,26 @@
     }, 
     {
       "hnrlbls": [
-        "32-32A"
+        "32A-62"
       ], 
       "housenumber": "32A", 
-      "lat": 51.19488333386122, 
-      "lon": 4.421505352758063, 
+      "lat": 51.19501750845706, 
+      "lon": 4.4219526914837175, 
       "municipality": "Antwerpen", 
       "pcode": "2600", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Vredestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "32A-62"
+      ], 
+      "housenumber": "32B", 
+      "lat": 51.19501750845706, 
+      "lon": 4.4219526914837175, 
+      "municipality": "Antwerpen", 
+      "pcode": "2600", 
+      "source": "afgeleidVanGebouw", 
       "street": "Vredestraat"
     }, 
     {
@@ -805,6 +818,11 @@
       "street": "Vredestraat"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3"
+      ], 
       "hnrlbls": [
         "34"
       ], 
@@ -871,8 +889,11 @@
       "street": "Vredestraat"
     }, 
     {
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
-        "39-39B"
+        "39"
       ], 
       "housenumber": "39", 
       "lat": 51.195012698277466, 
@@ -883,18 +904,15 @@
       "street": "Vredestraat"
     }, 
     {
-      "busnrs": [
-        "3"
-      ], 
       "hnrlbls": [
-        "39-39B"
+        "39B"
       ], 
       "housenumber": "39B", 
-      "lat": 51.195012698277466, 
-      "lon": 4.422641058959321, 
+      "lat": 51.19502566260704, 
+      "lon": 4.422634686789775, 
       "municipality": "Antwerpen", 
       "pcode": "2600", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Vredestraat"
     }, 
     {
@@ -1099,23 +1117,15 @@
       "street": "Vredestraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6"
-      ], 
       "hnrlbls": [
-        "54-56C"
+        "54"
       ], 
       "housenumber": "54", 
-      "lat": 51.19534341151765, 
-      "lon": 4.422776775360167, 
+      "lat": 51.195343770814084, 
+      "lon": 4.422773416863532, 
       "municipality": "Antwerpen", 
       "pcode": "2600", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Vredestraat"
     }, 
     {
@@ -1148,14 +1158,14 @@
     }, 
     {
       "hnrlbls": [
-        "54-56C"
+        "56C"
       ], 
       "housenumber": "56C", 
-      "lat": 51.19534341151765, 
-      "lon": 4.422776775360167, 
+      "lat": 51.19542099760213, 
+      "lon": 4.423111066379141, 
       "municipality": "Antwerpen", 
       "pcode": "2600", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Vredestraat"
     }, 
     {
@@ -1459,6 +1469,11 @@
       "street": "Vredestraat"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3"
+      ], 
       "hnrlbls": [
         "8"
       ], 
@@ -1629,9 +1644,6 @@
       "street": "Vredestraat"
     }, 
     {
-      "busnrs": [
-        "5"
-      ], 
       "hnrlbls": [
         "93"
       ], 

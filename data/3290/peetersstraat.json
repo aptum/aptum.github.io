@@ -57,7 +57,7 @@
       "lon": 5.055032456800057, 
       "municipality": "Diest", 
       "pcode": "3290", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Peetersstraat"
     }, 
     {
@@ -69,23 +69,23 @@
       "lon": 5.055032456800057, 
       "municipality": "Diest", 
       "pcode": "3290", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Peetersstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2"
+      "apptnrs": [
+        "0001", 
+        "0002"
       ], 
       "hnrlbls": [
-        "15-37"
+        "15"
       ], 
       "housenumber": "15", 
-      "lat": 50.98242483161284, 
-      "lon": 5.054954579818713, 
+      "lat": 50.982630980195175, 
+      "lon": 5.054889813301114, 
       "municipality": "Diest", 
       "pcode": "3290", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Peetersstraat"
     }, 
     {
@@ -101,96 +101,44 @@
       "street": "Peetersstraat"
     }, 
     {
-      "busnrs": [
-        "1"
+      "apptnrs": [
+        "0001", 
+        "A000", 
+        "A002", 
+        "B000", 
+        "B002"
       ], 
       "hnrlbls": [
-        "17-17B"
+        "17"
       ], 
       "housenumber": "17", 
-      "lat": 50.98256779937864, 
-      "lon": 5.054301869182794, 
+      "lat": 50.98264233046638, 
+      "lon": 5.054392964350707, 
       "municipality": "Diest", 
       "pcode": "3290", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Peetersstraat"
     }, 
     {
-      "busnrs": [
-        "2"
+      "apptnrs": [
+        "A001", 
+        "A002", 
+        "A003", 
+        "A004", 
+        "B001", 
+        "B002", 
+        "B003", 
+        "B004"
       ], 
       "hnrlbls": [
-        "17-17B"
-      ], 
-      "housenumber": "17A", 
-      "lat": 50.98256779937864, 
-      "lon": 5.054301869182794, 
-      "municipality": "Diest", 
-      "pcode": "3290", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
-      "street": "Peetersstraat"
-    }, 
-    {
-      "busnrs": [
-        "2"
-      ], 
-      "hnrlbls": [
-        "17-17B"
-      ], 
-      "housenumber": "17B", 
-      "lat": 50.98256779937864, 
-      "lon": 5.054301869182794, 
-      "municipality": "Diest", 
-      "pcode": "3290", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
-      "street": "Peetersstraat"
-    }, 
-    {
-      "busnrs": [
-        "3A"
-      ], 
-      "hnrlbls": [
-        "15-37"
+        "19"
       ], 
       "housenumber": "19", 
-      "lat": 50.98242483161284, 
-      "lon": 5.054954579818713, 
+      "lat": 50.9824506204952, 
+      "lon": 5.0546177292898316, 
       "municipality": "Diest", 
       "pcode": "3290", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Peetersstraat"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4"
-      ], 
-      "hnrlbls": [
-        "19A-23B"
-      ], 
-      "housenumber": "19A", 
-      "lat": 50.982460982609105, 
-      "lon": 5.05502930561031, 
-      "municipality": "Diest", 
-      "pcode": "3290", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Peetersstraat"
-    }, 
-    {
-      "busnrs": [
-        "3"
-      ], 
-      "hnrlbls": [
-        "19A-23B"
-      ], 
-      "housenumber": "19B", 
-      "lat": 50.982460982609105, 
-      "lon": 5.05502930561031, 
-      "municipality": "Diest", 
-      "pcode": "3290", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Peetersstraat"
     }, 
     {
@@ -219,7 +167,7 @@
         "9"
       ], 
       "hnrlbls": [
-        "1-3D"
+        "2-2B"
       ], 
       "housenumber": "2", 
       "lat": 50.98320056276968, 
@@ -242,163 +190,65 @@
       "street": "Peetersstraat"
     }, 
     {
+      "apptnrs": [
+        "A001", 
+        "A002", 
+        "B001"
+      ], 
       "busnrs": [
-        "1A", 
-        "1B", 
         "2", 
-        "2A", 
-        "2B"
+        "B002"
       ], 
       "hnrlbls": [
-        "15-37"
+        "21"
       ], 
       "housenumber": "21", 
-      "lat": 50.98242483161284, 
-      "lon": 5.054954579818713, 
+      "lat": 50.982327081200786, 
+      "lon": 5.054791084317073, 
       "municipality": "Diest", 
       "pcode": "3290", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Peetersstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
       "hnrlbls": [
-        "19A-23B"
-      ], 
-      "housenumber": "21A", 
-      "lat": 50.982460982609105, 
-      "lon": 5.05502930561031, 
-      "municipality": "Diest", 
-      "pcode": "3290", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Peetersstraat"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
-      "hnrlbls": [
-        "19A-23B"
-      ], 
-      "housenumber": "21B", 
-      "lat": 50.982460982609105, 
-      "lon": 5.05502930561031, 
-      "municipality": "Diest", 
-      "pcode": "3290", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Peetersstraat"
-    }, 
-    {
-      "busnrs": [
-        "1A", 
-        "1B", 
-        "2A", 
-        "2B"
-      ], 
-      "hnrlbls": [
-        "15-37"
+        "23"
       ], 
       "housenumber": "23", 
-      "lat": 50.98242483161284, 
-      "lon": 5.054954579818713, 
+      "lat": 50.98226463322901, 
+      "lon": 5.054893843892002, 
       "municipality": "Diest", 
       "pcode": "3290", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Peetersstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2"
+      "apptnrs": [
+        "0002", 
+        "A001", 
+        "B001"
       ], 
       "hnrlbls": [
-        "19A-23B"
-      ], 
-      "housenumber": "23A", 
-      "lat": 50.982460982609105, 
-      "lon": 5.05502930561031, 
-      "municipality": "Diest", 
-      "pcode": "3290", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Peetersstraat"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
-      "hnrlbls": [
-        "19A-23B"
-      ], 
-      "housenumber": "23B", 
-      "lat": 50.982460982609105, 
-      "lon": 5.05502930561031, 
-      "municipality": "Diest", 
-      "pcode": "3290", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Peetersstraat"
-    }, 
-    {
-      "busnrs": [
-        "1A", 
-        "1B", 
-        "2"
-      ], 
-      "hnrlbls": [
-        "15-37"
+        "25"
       ], 
       "housenumber": "25", 
-      "lat": 50.98242483161284, 
-      "lon": 5.054954579818713, 
+      "lat": 50.98245575295704, 
+      "lon": 5.054955032987038, 
       "municipality": "Diest", 
       "pcode": "3290", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Peetersstraat"
-    }, 
-    {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "25A-25B"
-      ], 
-      "housenumber": "25A", 
-      "lat": 50.98218980455889, 
-      "lon": 5.05494615104916, 
-      "municipality": "Diest", 
-      "pcode": "3290", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Peetersstraat"
-    }, 
-    {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "25A-25B"
-      ], 
-      "housenumber": "25B", 
-      "lat": 50.98218980455889, 
-      "lon": 5.05494615104916, 
-      "municipality": "Diest", 
-      "pcode": "3290", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Peetersstraat"
     }, 
     {
       "hnrlbls": [
-        "15-37"
+        "27"
       ], 
       "housenumber": "27", 
-      "lat": 50.98242483161284, 
-      "lon": 5.054954579818713, 
+      "lat": 50.982503509436256, 
+      "lon": 5.055028220001369, 
       "municipality": "Diest", 
       "pcode": "3290", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Peetersstraat"
     }, 
     {
@@ -422,7 +272,7 @@
       "lon": 5.0555063206216895, 
       "municipality": "Diest", 
       "pcode": "3290", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Peetersstraat"
     }, 
     {
@@ -445,14 +295,14 @@
         "4"
       ], 
       "hnrlbls": [
-        "1-3D"
+        "2-2B"
       ], 
       "housenumber": "2A", 
       "lat": 50.98320056276968, 
       "lon": 5.054611625314241, 
       "municipality": "Diest", 
       "pcode": "3290", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Peetersstraat"
     }, 
     {
@@ -463,14 +313,14 @@
         "4"
       ], 
       "hnrlbls": [
-        "1-3D"
+        "2-2B"
       ], 
       "housenumber": "2B", 
       "lat": 50.98320056276968, 
       "lon": 5.054611625314241, 
       "municipality": "Diest", 
       "pcode": "3290", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Peetersstraat"
     }, 
     {
@@ -531,18 +381,6 @@
       "municipality": "Diest", 
       "pcode": "3290", 
       "source": "afgeleidVanGebouw", 
-      "street": "Peetersstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "/zn-71"
-      ], 
-      "housenumber": "71", 
-      "lat": 50.982754251878646, 
-      "lon": 5.054885496054048, 
-      "municipality": "Diest", 
-      "pcode": "3290", 
-      "source": "afgeleidVanStraat", 
       "street": "Peetersstraat"
     }, 
     {

@@ -2,7 +2,7 @@
   "addresses": [
     {
       "hnrlbls": [
-        "1-1z"
+        "1"
       ], 
       "housenumber": "1", 
       "lat": 50.99898465171136, 
@@ -57,18 +57,6 @@
       "street": "Amersveldestraat"
     }, 
     {
-      "hnrlbls": [
-        "104-104B"
-      ], 
-      "housenumber": "104", 
-      "lat": 51.001285632378746, 
-      "lon": 3.0346622481872805, 
-      "municipality": "Hooglede", 
-      "pcode": "8830", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Amersveldestraat"
-    }, 
-    {
       "busnrs": [
         "1", 
         "11", 
@@ -80,11 +68,11 @@
         "32"
       ], 
       "hnrlbls": [
-        "104-104B"
+        "104A"
       ], 
       "housenumber": "104A", 
-      "lat": 51.001285632378746, 
-      "lon": 3.0346622481872805, 
+      "lat": 51.001274032387016, 
+      "lon": 3.034783841671436, 
       "municipality": "Hooglede", 
       "pcode": "8830", 
       "source": "afgeleidVanGebouw", 
@@ -97,14 +85,15 @@
         "12", 
         "21", 
         "22", 
+        "31", 
         "32"
       ], 
       "hnrlbls": [
-        "104-104B"
+        "104B"
       ], 
       "housenumber": "104B", 
-      "lat": 51.001285632378746, 
-      "lon": 3.0346622481872805, 
+      "lat": 51.0012972164445, 
+      "lon": 3.0345406116048634, 
       "municipality": "Hooglede", 
       "pcode": "8830", 
       "source": "afgeleidVanGebouw", 
@@ -139,11 +128,11 @@
         "112"
       ], 
       "housenumber": "112", 
-      "lat": 51.00179845324238, 
-      "lon": 3.0343132359148326, 
+      "lat": 51.00190387122151, 
+      "lon": 3.034341887345984, 
       "municipality": "Hooglede", 
       "pcode": "8830", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Amersveldestraat"
     }, 
     {
@@ -166,11 +155,11 @@
     }, 
     {
       "hnrlbls": [
-        "118"
+        "116"
       ], 
-      "housenumber": "118", 
-      "lat": 51.00137208407062, 
-      "lon": 3.033929266319632, 
+      "housenumber": "116", 
+      "lat": 51.001372087640235, 
+      "lon": 3.0339292811236573, 
       "municipality": "Hooglede", 
       "pcode": "8830", 
       "source": "afgeleidVanGebouw", 
@@ -253,8 +242,8 @@
         "126"
       ], 
       "housenumber": "126", 
-      "lat": 51.00215474197931, 
-      "lon": 3.0321649240873785, 
+      "lat": 51.002135559498925, 
+      "lon": 3.0321620514149163, 
       "municipality": "Hooglede", 
       "pcode": "8830", 
       "source": "afgeleidVanGebouw", 
@@ -406,14 +395,26 @@
     }, 
     {
       "hnrlbls": [
-        "146"
+        "146A"
       ], 
-      "housenumber": "146", 
-      "lat": 51.0029418838451, 
-      "lon": 3.0301092869820327, 
+      "housenumber": "146A", 
+      "lat": 51.00288609504268, 
+      "lon": 3.030166479651699, 
       "municipality": "Hooglede", 
       "pcode": "8830", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Amersveldestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "146B"
+      ], 
+      "housenumber": "146B", 
+      "lat": 51.00291916810166, 
+      "lon": 3.030064196014855, 
+      "municipality": "Hooglede", 
+      "pcode": "8830", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Amersveldestraat"
     }, 
     {
@@ -481,8 +482,8 @@
         "154"
       ], 
       "housenumber": "154", 
-      "lat": 51.00309638511037, 
-      "lon": 3.027088206681833, 
+      "lat": 51.002850071258365, 
+      "lon": 3.0262172462871746, 
       "municipality": "Hooglede", 
       "pcode": "8830", 
       "source": "afgeleidVanGebouw", 
@@ -589,8 +590,8 @@
         "1A"
       ], 
       "housenumber": "1A", 
-      "lat": 50.99945886746183, 
-      "lon": 3.059262209309904, 
+      "lat": 50.999932955173946, 
+      "lon": 3.0553578372376373, 
       "municipality": "Hooglede", 
       "pcode": "8830", 
       "source": "afgeleidVanGebouw", 
@@ -697,8 +698,8 @@
         "27"
       ], 
       "housenumber": "27", 
-      "lat": 51.000003496592335, 
-      "lon": 3.0407695641569035, 
+      "lat": 51.00000350748712, 
+      "lon": 3.0407695122576666, 
       "municipality": "Hooglede", 
       "pcode": "8830", 
       "source": "afgeleidVanGebouw", 
@@ -706,14 +707,14 @@
     }, 
     {
       "hnrlbls": [
-        "27B"
+        "27A"
       ], 
-      "housenumber": "27B", 
-      "lat": 50.99950639693867, 
-      "lon": 3.0396770116302387, 
+      "housenumber": "27A", 
+      "lat": 50.99996641030174, 
+      "lon": 3.040562845573326, 
       "municipality": "Hooglede", 
       "pcode": "8830", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Amersveldestraat"
     }, 
     {
@@ -757,8 +758,8 @@
         "30"
       ], 
       "housenumber": "30", 
-      "lat": 51.00150344908589, 
-      "lon": 3.05010899948214, 
+      "lat": 51.0015135179478, 
+      "lon": 3.050065665354368, 
       "municipality": "Hooglede", 
       "pcode": "8830", 
       "source": "afgeleidVanGebouw", 
@@ -1021,11 +1022,11 @@
         "49"
       ], 
       "housenumber": "49", 
-      "lat": 51.000953529900976, 
-      "lon": 3.035440685959861, 
+      "lat": 51.00094762758795, 
+      "lon": 3.0355089827399615, 
       "municipality": "Hooglede", 
       "pcode": "8830", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Amersveldestraat"
     }, 
     {
@@ -1069,11 +1070,11 @@
         "53"
       ], 
       "housenumber": "53", 
-      "lat": 51.0008252298605, 
-      "lon": 3.0349164345549178, 
+      "lat": 51.00043734729731, 
+      "lon": 3.0349121150082903, 
       "municipality": "Hooglede", 
       "pcode": "8830", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Amersveldestraat"
     }, 
     {
@@ -1252,8 +1253,8 @@
         "7"
       ], 
       "housenumber": "7", 
-      "lat": 51.00105339717306, 
-      "lon": 3.0500780609286857, 
+      "lat": 51.001029672351095, 
+      "lon": 3.050062912728765, 
       "municipality": "Hooglede", 
       "pcode": "8830", 
       "source": "afgeleidVanGebouw", 
@@ -1317,6 +1318,23 @@
       "municipality": "Hooglede", 
       "pcode": "8830", 
       "source": "afgeleidVanPerceelGrb", 
+      "street": "Amersveldestraat"
+    }, 
+    {
+      "apptnrs": [
+        "0001", 
+        "0010", 
+        "0020"
+      ], 
+      "hnrlbls": [
+        "75"
+      ], 
+      "housenumber": "75", 
+      "lat": 51.0020102102459, 
+      "lon": 3.031653501361793, 
+      "municipality": "Hooglede", 
+      "pcode": "8830", 
+      "source": "afgeleidVanGebouw", 
       "street": "Amersveldestraat"
     }, 
     {
@@ -1417,6 +1435,18 @@
     }, 
     {
       "hnrlbls": [
+        "81A"
+      ], 
+      "housenumber": "81A", 
+      "lat": 51.002395548834315, 
+      "lon": 3.0304656177553837, 
+      "municipality": "Hooglede", 
+      "pcode": "8830", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Amersveldestraat"
+    }, 
+    {
+      "hnrlbls": [
         "82"
       ], 
       "housenumber": "82", 
@@ -1504,11 +1534,11 @@
         "9"
       ], 
       "housenumber": "9", 
-      "lat": 51.00106718004916, 
-      "lon": 3.049911964681002, 
+      "lat": 51.00106784874737, 
+      "lon": 3.0499130413482174, 
       "municipality": "Hooglede", 
       "pcode": "8830", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Amersveldestraat"
     }, 
     {

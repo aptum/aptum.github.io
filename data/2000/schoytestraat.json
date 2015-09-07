@@ -18,19 +18,19 @@
     }, 
     {
       "hnrlbls": [
-        "10-12"
+        "10"
       ], 
       "housenumber": "10", 
-      "lat": 51.21493725726532, 
-      "lon": 4.399181576147984, 
+      "lat": 51.2149968986556, 
+      "lon": 4.399244078358949, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Schoytestraat"
     }, 
     {
       "hnrlbls": [
-        "10-12"
+        "12"
       ], 
       "housenumber": "12", 
       "lat": 51.21493725726532, 
@@ -74,21 +74,6 @@
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanPerceelGrb", 
-      "street": "Schoytestraat"
-    }, 
-    {
-      "busnrs": [
-        "19"
-      ], 
-      "hnrlbls": [
-        "17"
-      ], 
-      "housenumber": "17", 
-      "lat": 51.215089991018615, 
-      "lon": 4.399780041803349, 
-      "municipality": "Antwerpen", 
-      "pcode": "2000", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
       "street": "Schoytestraat"
     }, 
     {
@@ -188,7 +173,12 @@
     }, 
     {
       "busnrs": [
-        "1"
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6"
       ], 
       "hnrlbls": [
         "28-32"
@@ -214,21 +204,15 @@
       "street": "Schoytestraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "11", 
-        "21", 
-        "31"
-      ], 
       "hnrlbls": [
         "34"
       ], 
       "housenumber": "34", 
-      "lat": 51.214841326385724, 
-      "lon": 4.399948318090028, 
+      "lat": 51.21484943310118, 
+      "lon": 4.399958053970764, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Schoytestraat"
     }, 
     {
@@ -280,10 +264,13 @@
     }, 
     {
       "busnrs": [
+        "1", 
         "2", 
         "3", 
         "4", 
+        "5", 
         "6", 
+        "7", 
         "8", 
         "9"
       ], 
@@ -335,18 +322,15 @@
       "street": "Schoytestraat"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
         "47R"
       ], 
       "housenumber": "47R", 
-      "lat": 51.21481635074549, 
-      "lon": 4.4008891333616935, 
+      "lat": 51.21481635168049, 
+      "lon": 4.400889003128485, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Schoytestraat"
     }, 
     {
@@ -366,41 +350,23 @@
         "49B-49R"
       ], 
       "housenumber": "49B", 
-      "lat": 51.21479907295248, 
-      "lon": 4.4009612506978275, 
+      "lat": 51.214799813106474, 
+      "lon": 4.40096301438561, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Schoytestraat"
     }, 
     {
-      "busnrs": [
-        "2"
-      ], 
       "hnrlbls": [
         "49B-49R"
       ], 
       "housenumber": "49R", 
-      "lat": 51.21479907295248, 
-      "lon": 4.4009612506978275, 
+      "lat": 51.214799813106474, 
+      "lon": 4.40096301438561, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Schoytestraat"
-    }, 
-    {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "5"
-      ], 
-      "housenumber": "5", 
-      "lat": 51.215290503269166, 
-      "lon": 4.399175514813183, 
-      "municipality": "Antwerpen", 
-      "pcode": "2000", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Schoytestraat"
     }, 
     {
@@ -484,7 +450,7 @@
         "3"
       ], 
       "hnrlbls": [
-        "59-59_3"
+        "59"
       ], 
       "housenumber": "59", 
       "lat": 51.21474396628332, 
@@ -495,18 +461,15 @@
       "street": "Schoytestraat"
     }, 
     {
-      "busnrs": [
-        "A"
-      ], 
       "hnrlbls": [
-        "59-59_3"
+        "59_3"
       ], 
       "housenumber": "59_3", 
-      "lat": 51.21474396628332, 
-      "lon": 4.401310123548914, 
+      "lat": 51.214744171528544, 
+      "lon": 4.401309023149226, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Schoytestraat"
     }, 
     {
@@ -593,7 +556,7 @@
         "5"
       ], 
       "hnrlbls": [
-        "65-67_10"
+        "65"
       ], 
       "housenumber": "65", 
       "lat": 51.21468405300183, 
@@ -654,63 +617,51 @@
       "street": "Schoytestraat"
     }, 
     {
-      "busnrs": [
-        "0"
-      ], 
       "hnrlbls": [
-        "65-67_10"
+        "67G-67_10"
       ], 
       "housenumber": "67G", 
-      "lat": 51.21468405300183, 
-      "lon": 4.401489116110697, 
+      "lat": 51.21485384719865, 
+      "lon": 4.401430218941855, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Schoytestraat"
     }, 
     {
-      "busnrs": [
-        "G"
-      ], 
       "hnrlbls": [
-        "65-67_10"
+        "67G-67_10"
       ], 
       "housenumber": "67_10", 
-      "lat": 51.21468405300183, 
-      "lon": 4.401489116110697, 
+      "lat": 51.21485384719865, 
+      "lon": 4.401430218941855, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Schoytestraat"
     }, 
     {
-      "busnrs": [
-        "D"
-      ], 
       "hnrlbls": [
-        "65-67_10"
+        "67G-67_10"
       ], 
       "housenumber": "67_4", 
-      "lat": 51.21468405300183, 
-      "lon": 4.401489116110697, 
+      "lat": 51.21485384719865, 
+      "lon": 4.401430218941855, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Schoytestraat"
     }, 
     {
-      "busnrs": [
-        "G"
-      ], 
       "hnrlbls": [
-        "65-67_10"
+        "67G-67_10"
       ], 
       "housenumber": "67_8", 
-      "lat": 51.21468405300183, 
-      "lon": 4.401489116110697, 
+      "lat": 51.21485384719865, 
+      "lon": 4.401430218941855, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Schoytestraat"
     }, 
     {

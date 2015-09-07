@@ -123,6 +123,10 @@
       "street": "Laarbeeklaan"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101"
+      ], 
       "hnrlbls": [
         "21"
       ], 
@@ -156,8 +160,10 @@
         "1", 
         "2", 
         "3", 
+        "4", 
         "5", 
-        "6"
+        "6", 
+        "7"
       ], 
       "hnrlbls": [
         "23"
@@ -279,12 +285,8 @@
       "street": "Laarbeeklaan"
     }, 
     {
-      "apptnrs": [
-        "0.0", 
-        "1.0"
-      ], 
       "busnrs": [
-        "1", 
+        "1V", 
         "2"
       ], 
       "hnrlbls": [
@@ -371,8 +373,9 @@
     }, 
     {
       "busnrs": [
-        "1L", 
-        "3VR", 
+        "1", 
+        "2", 
+        "3", 
         "4", 
         "5", 
         "6"
@@ -445,13 +448,6 @@
       "street": "Laarbeeklaan"
     }, 
     {
-      "apptnrs": [
-        "0.0"
-      ], 
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
       "hnrlbls": [
         "43"
       ], 
@@ -617,11 +613,6 @@
       "street": "Laarbeeklaan"
     }, 
     {
-      "apptnrs": [
-        "0.0", 
-        "1.0", 
-        "2.0"
-      ], 
       "busnrs": [
         "2"
       ], 
@@ -685,6 +676,23 @@
       "street": "Laarbeeklaan"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3"
+      ], 
+      "hnrlbls": [
+        "60"
+      ], 
+      "housenumber": "60", 
+      "lat": 50.8856415709423, 
+      "lon": 4.279402182375802, 
+      "municipality": "Asse", 
+      "pcode": "1731", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Laarbeeklaan"
+    }, 
+    {
       "apptnrs": [
         "0.0", 
         "1.0", 
@@ -702,10 +710,6 @@
       "street": "Laarbeeklaan"
     }, 
     {
-      "apptnrs": [
-        "0.0", 
-        "1.0"
-      ], 
       "busnrs": [
         "2"
       ], 
@@ -729,8 +733,7 @@
         "5", 
         "6", 
         "7", 
-        "8", 
-        "9"
+        "8"
       ], 
       "hnrlbls": [
         "67"

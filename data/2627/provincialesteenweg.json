@@ -29,11 +29,11 @@
     }, 
     {
       "hnrlbls": [
-        "90-100"
+        "100"
       ], 
       "housenumber": "100", 
-      "lat": 51.12654227181834, 
-      "lon": 4.338473956225812, 
+      "lat": 51.126570179584384, 
+      "lon": 4.338245893937298, 
       "municipality": "Schelle", 
       "pcode": "2627", 
       "source": "afgeleidVanGebouw", 
@@ -112,30 +112,6 @@
     }, 
     {
       "hnrlbls": [
-        "106-108"
-      ], 
-      "housenumber": "106", 
-      "lat": 51.1260538331381, 
-      "lon": 4.33886579613948, 
-      "municipality": "Schelle", 
-      "pcode": "2627", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Provinciale Steenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "106B"
-      ], 
-      "housenumber": "106B", 
-      "lat": 51.12605762935764, 
-      "lon": 4.338950642076973, 
-      "municipality": "Schelle", 
-      "pcode": "2627", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Provinciale Steenweg"
-    }, 
-    {
-      "hnrlbls": [
         "107"
       ], 
       "housenumber": "107", 
@@ -156,7 +132,7 @@
         "6"
       ], 
       "hnrlbls": [
-        "106-108"
+        "108"
       ], 
       "housenumber": "108", 
       "lat": 51.1260538331381, 
@@ -168,7 +144,8 @@
     }, 
     {
       "busnrs": [
-        "1"
+        "1", 
+        "GLVL"
       ], 
       "hnrlbls": [
         "109"
@@ -214,27 +191,19 @@
       "street": "Provinciale Steenweg"
     }, 
     {
+      "apptnrs": [
+        "A", 
+        "B"
+      ], 
       "hnrlbls": [
-        "112-112B"
+        "112"
       ], 
       "housenumber": "112", 
-      "lat": 51.12584960482032, 
-      "lon": 4.338846211597339, 
+      "lat": 51.125849594804286, 
+      "lon": 4.338846171031225, 
       "municipality": "Schelle", 
       "pcode": "2627", 
       "source": "afgeleidVanGebouw", 
-      "street": "Provinciale Steenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "112-112B"
-      ], 
-      "housenumber": "112B", 
-      "lat": 51.12584960482032, 
-      "lon": 4.338846211597339, 
-      "municipality": "Schelle", 
-      "pcode": "2627", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Provinciale Steenweg"
     }, 
     {
@@ -289,15 +258,15 @@
       "street": "Provinciale Steenweg"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "3"
       ], 
       "hnrlbls": [
         "117"
       ], 
       "housenumber": "117", 
-      "lat": 51.12688443769009, 
-      "lon": 4.33906040315511, 
+      "lat": 51.12690200557097, 
+      "lon": 4.339040354906097, 
       "municipality": "Schelle", 
       "pcode": "2627", 
       "source": "afgeleidVanGebouw", 
@@ -308,8 +277,8 @@
         "118"
       ], 
       "housenumber": "118", 
-      "lat": 51.12564824277801, 
-      "lon": 4.338785915742349, 
+      "lat": 51.125637852251806, 
+      "lon": 4.338866968365178, 
       "municipality": "Schelle", 
       "pcode": "2627", 
       "source": "afgeleidVanGebouw", 
@@ -320,28 +289,23 @@
         "119"
       ], 
       "housenumber": "119", 
-      "lat": 51.126928032498576, 
-      "lon": 4.339426773349383, 
+      "lat": 51.12684720022808, 
+      "lon": 4.339602720490309, 
       "municipality": "Schelle", 
       "pcode": "2627", 
       "source": "afgeleidVanGebouw", 
       "street": "Provinciale Steenweg"
     }, 
     {
-      "busnrs": [
-        "5", 
-        "7", 
-        "9"
-      ], 
       "hnrlbls": [
         "121"
       ], 
       "housenumber": "121", 
-      "lat": 51.12682698804435, 
-      "lon": 4.339379839389877, 
+      "lat": 51.12677115546371, 
+      "lon": 4.339481456386907, 
       "municipality": "Schelle", 
       "pcode": "2627", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Provinciale Steenweg"
     }, 
     {
@@ -407,7 +371,8 @@
     {
       "busnrs": [
         "1", 
-        "2"
+        "2", 
+        "GLVL"
       ], 
       "hnrlbls": [
         "127"
@@ -436,10 +401,11 @@
       "busnrs": [
         "1", 
         "2", 
-        "4"
+        "4", 
+        "glvl"
       ], 
       "hnrlbls": [
-        "129-131"
+        "129"
       ], 
       "housenumber": "129", 
       "lat": 51.12650058906431, 
@@ -450,39 +416,12 @@
       "street": "Provinciale Steenweg"
     }, 
     {
-      "busnrs": [
-        "L"
-      ], 
-      "hnrlbls": [
-        "129-131"
-      ], 
-      "housenumber": "129_2", 
-      "lat": 51.12650058906431, 
-      "lon": 4.339301618588214, 
-      "municipality": "Schelle", 
-      "pcode": "2627", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Provinciale Steenweg"
-    }, 
-    {
       "hnrlbls": [
         "130"
       ], 
       "housenumber": "130", 
       "lat": 51.12526556533692, 
       "lon": 4.338673169171987, 
-      "municipality": "Schelle", 
-      "pcode": "2627", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Provinciale Steenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "129-131"
-      ], 
-      "housenumber": "131", 
-      "lat": 51.12650058906431, 
-      "lon": 4.339301618588214, 
       "municipality": "Schelle", 
       "pcode": "2627", 
       "source": "afgeleidVanGebouw", 
@@ -526,11 +465,11 @@
     }, 
     {
       "hnrlbls": [
-        "137-139"
+        "137"
       ], 
       "housenumber": "137", 
-      "lat": 51.126309323237656, 
-      "lon": 4.339358587840151, 
+      "lat": 51.12633988456182, 
+      "lon": 4.3393574263222225, 
       "municipality": "Schelle", 
       "pcode": "2627", 
       "source": "afgeleidVanGebouw", 
@@ -550,11 +489,11 @@
     }, 
     {
       "hnrlbls": [
-        "137-139"
+        "139"
       ], 
       "housenumber": "139", 
-      "lat": 51.126309323237656, 
-      "lon": 4.339358587840151, 
+      "lat": 51.12627877922936, 
+      "lon": 4.339359793613125, 
       "municipality": "Schelle", 
       "pcode": "2627", 
       "source": "afgeleidVanGebouw", 
@@ -585,6 +524,9 @@
       "street": "Provinciale Steenweg"
     }, 
     {
+      "busnrs": [
+        "glvl"
+      ], 
       "hnrlbls": [
         "143"
       ], 
@@ -613,8 +555,8 @@
         "145"
       ], 
       "housenumber": "145", 
-      "lat": 51.12601502107632, 
-      "lon": 4.339309916607122, 
+      "lat": 51.12604670966473, 
+      "lon": 4.339307835283348, 
       "municipality": "Schelle", 
       "pcode": "2627", 
       "source": "afgeleidVanGebouw", 
@@ -637,8 +579,8 @@
         "147"
       ], 
       "housenumber": "147", 
-      "lat": 51.125871533573466, 
-      "lon": 4.339566262909688, 
+      "lat": 51.125872070826, 
+      "lon": 4.339557692079825, 
       "municipality": "Schelle", 
       "pcode": "2627", 
       "source": "afgeleidVanPerceelGrb", 
@@ -657,7 +599,7 @@
       "street": "Provinciale Steenweg"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3", 
@@ -666,14 +608,14 @@
         "6"
       ], 
       "hnrlbls": [
-        "149-151"
+        "149"
       ], 
       "housenumber": "149", 
-      "lat": 51.12590346950817, 
-      "lon": 4.339302985997072, 
+      "lat": 51.125848289868046, 
+      "lon": 4.339348300754655, 
       "municipality": "Schelle", 
       "pcode": "2627", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Provinciale Steenweg"
     }, 
     {
@@ -683,18 +625,6 @@
       "housenumber": "150", 
       "lat": 51.12464386441912, 
       "lon": 4.338506725443291, 
-      "municipality": "Schelle", 
-      "pcode": "2627", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Provinciale Steenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "149-151"
-      ], 
-      "housenumber": "151", 
-      "lat": 51.12590346950817, 
-      "lon": 4.339302985997072, 
       "municipality": "Schelle", 
       "pcode": "2627", 
       "source": "afgeleidVanGebouw", 
@@ -793,18 +723,6 @@
     }, 
     {
       "hnrlbls": [
-        "16"
-      ], 
-      "housenumber": "16", 
-      "lat": 51.12922414699898, 
-      "lon": 4.336084058985908, 
-      "municipality": "Schelle", 
-      "pcode": "2627", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Provinciale Steenweg"
-    }, 
-    {
-      "hnrlbls": [
         "160"
       ], 
       "housenumber": "160", 
@@ -859,18 +777,6 @@
     }, 
     {
       "hnrlbls": [
-        "165-167"
-      ], 
-      "housenumber": "165", 
-      "lat": 51.12524572454563, 
-      "lon": 4.339135125530241, 
-      "municipality": "Schelle", 
-      "pcode": "2627", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Provinciale Steenweg"
-    }, 
-    {
-      "hnrlbls": [
         "166"
       ], 
       "housenumber": "166", 
@@ -879,18 +785,6 @@
       "municipality": "Schelle", 
       "pcode": "2627", 
       "source": "afgeleidVanGebouw", 
-      "street": "Provinciale Steenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "165-167"
-      ], 
-      "housenumber": "167", 
-      "lat": 51.12524572454563, 
-      "lon": 4.339135125530241, 
-      "municipality": "Schelle", 
-      "pcode": "2627", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Provinciale Steenweg"
     }, 
     {
@@ -906,7 +800,7 @@
       "street": "Provinciale Steenweg"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3", 
@@ -917,11 +811,11 @@
         "169"
       ], 
       "housenumber": "169", 
-      "lat": 51.12511342950939, 
-      "lon": 4.339211912175246, 
+      "lat": 51.12514747132233, 
+      "lon": 4.339108189688985, 
       "municipality": "Schelle", 
       "pcode": "2627", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Provinciale Steenweg"
     }, 
     {
@@ -931,18 +825,6 @@
       "housenumber": "170", 
       "lat": 51.12408778257223, 
       "lon": 4.338347529056508, 
-      "municipality": "Schelle", 
-      "pcode": "2627", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Provinciale Steenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "171"
-      ], 
-      "housenumber": "171", 
-      "lat": 51.12507159503074, 
-      "lon": 4.339061099747846, 
       "municipality": "Schelle", 
       "pcode": "2627", 
       "source": "afgeleidVanGebouw", 
@@ -965,15 +847,16 @@
         "173"
       ], 
       "housenumber": "173", 
-      "lat": 51.1249990813663, 
-      "lon": 4.339163988856699, 
+      "lat": 51.125015765336364, 
+      "lon": 4.339021282291572, 
       "municipality": "Schelle", 
       "pcode": "2627", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Provinciale Steenweg"
     }, 
     {
       "busnrs": [
+        "1", 
         "2"
       ], 
       "hnrlbls": [
@@ -982,18 +865,6 @@
       "housenumber": "174", 
       "lat": 51.12380966455744, 
       "lon": 4.33831913882413, 
-      "municipality": "Schelle", 
-      "pcode": "2627", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Provinciale Steenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "175"
-      ], 
-      "housenumber": "175", 
-      "lat": 51.124947646534075, 
-      "lon": 4.33908488792617, 
       "municipality": "Schelle", 
       "pcode": "2627", 
       "source": "afgeleidVanGebouw", 
@@ -1040,8 +911,8 @@
         "179"
       ], 
       "housenumber": "179", 
-      "lat": 51.124815157033716, 
-      "lon": 4.339101682185073, 
+      "lat": 51.12485201639208, 
+      "lon": 4.339124656353941, 
       "municipality": "Schelle", 
       "pcode": "2627", 
       "source": "afgeleidVanPerceelGrb", 
@@ -1076,8 +947,8 @@
         "181"
       ], 
       "housenumber": "181", 
-      "lat": 51.12473164306373, 
-      "lon": 4.339065738711523, 
+      "lat": 51.124767551268604, 
+      "lon": 4.339060093179042, 
       "municipality": "Schelle", 
       "pcode": "2627", 
       "source": "afgeleidVanGebouw", 
@@ -1160,8 +1031,8 @@
         "189"
       ], 
       "housenumber": "189", 
-      "lat": 51.12451232371064, 
-      "lon": 4.339455535631249, 
+      "lat": 51.12456203447491, 
+      "lon": 4.339468646268131, 
       "municipality": "Schelle", 
       "pcode": "2627", 
       "source": "afgeleidVanPerceelGrb", 
@@ -1189,18 +1060,6 @@
       "municipality": "Schelle", 
       "pcode": "2627", 
       "source": "afgeleidVanGebouw", 
-      "street": "Provinciale Steenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "2"
-      ], 
-      "housenumber": "2", 
-      "lat": 51.12997303075778, 
-      "lon": 4.3358835505045015, 
-      "municipality": "Schelle", 
-      "pcode": "2627", 
-      "source": "afgeleidVanPerceelGrb", 
       "street": "Provinciale Steenweg"
     }, 
     {
@@ -1256,8 +1115,8 @@
         "207"
       ], 
       "housenumber": "207", 
-      "lat": 51.123422265930486, 
-      "lon": 4.338738460983189, 
+      "lat": 51.12342280504044, 
+      "lon": 4.338737603639591, 
       "municipality": "Schelle", 
       "pcode": "2627", 
       "source": "afgeleidVanPerceelGrb", 
@@ -1324,13 +1183,13 @@
       "street": "Provinciale Steenweg"
     }, 
     {
-      "busnrs": [
-        "11"
+      "apptnrs": [
+        "01"
       ], 
       "hnrlbls": [
-        "213-215"
+        "213A-213B"
       ], 
-      "housenumber": "213", 
+      "housenumber": "213A", 
       "lat": 51.123210835546345, 
       "lon": 4.338675175550577, 
       "municipality": "Schelle", 
@@ -1339,34 +1198,19 @@
       "street": "Provinciale Steenweg"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "213-215"
-      ], 
-      "housenumber": "213A", 
-      "lat": 51.123210835546345, 
-      "lon": 4.338675175550577, 
-      "municipality": "Schelle", 
-      "pcode": "2627", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Provinciale Steenweg"
-    }, 
-    {
-      "busnrs": [
+      "apptnrs": [
         "11", 
         "21"
       ], 
       "hnrlbls": [
-        "213-215"
+        "213A-213B"
       ], 
       "housenumber": "213B", 
       "lat": 51.123210835546345, 
       "lon": 4.338675175550577, 
       "municipality": "Schelle", 
       "pcode": "2627", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Provinciale Steenweg"
     }, 
     {
@@ -1376,18 +1220,6 @@
       "housenumber": "214", 
       "lat": 51.12271227865383, 
       "lon": 4.338148153153131, 
-      "municipality": "Schelle", 
-      "pcode": "2627", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Provinciale Steenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "213-215"
-      ], 
-      "housenumber": "215", 
-      "lat": 51.123210835546345, 
-      "lon": 4.338675175550577, 
       "municipality": "Schelle", 
       "pcode": "2627", 
       "source": "afgeleidVanGebouw", 
@@ -1418,7 +1250,7 @@
       "street": "Provinciale Steenweg"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3", 
@@ -1429,11 +1261,11 @@
         "8"
       ], 
       "hnrlbls": [
-        "22-26"
+        "22"
       ], 
       "housenumber": "22", 
-      "lat": 51.128702960161746, 
-      "lon": 4.336335403763254, 
+      "lat": 51.128795116153576, 
+      "lon": 4.336390505226806, 
       "municipality": "Schelle", 
       "pcode": "2627", 
       "source": "afgeleidVanGebouw", 
@@ -1469,18 +1301,6 @@
     }, 
     {
       "hnrlbls": [
-        "222-224"
-      ], 
-      "housenumber": "222", 
-      "lat": 51.12243291828839, 
-      "lon": 4.338183896944332, 
-      "municipality": "Schelle", 
-      "pcode": "2627", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Provinciale Steenweg"
-    }, 
-    {
-      "hnrlbls": [
         "223"
       ], 
       "housenumber": "223", 
@@ -1489,18 +1309,6 @@
       "municipality": "Schelle", 
       "pcode": "2627", 
       "source": "afgeleidVanGebouw", 
-      "street": "Provinciale Steenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "222-224"
-      ], 
-      "housenumber": "224", 
-      "lat": 51.12243291828839, 
-      "lon": 4.338183896944332, 
-      "municipality": "Schelle", 
-      "pcode": "2627", 
-      "source": "afgeleidVanPerceelGrb", 
       "street": "Provinciale Steenweg"
     }, 
     {
@@ -1516,21 +1324,21 @@
       "street": "Provinciale Steenweg"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3", 
         "4"
       ], 
       "hnrlbls": [
-        "226-228"
+        "226"
       ], 
       "housenumber": "226", 
-      "lat": 51.12227011153782, 
-      "lon": 4.338101016401949, 
+      "lat": 51.12243700678075, 
+      "lon": 4.338162747412777, 
       "municipality": "Schelle", 
       "pcode": "2627", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Provinciale Steenweg"
     }, 
     {
@@ -1553,7 +1361,7 @@
         "4"
       ], 
       "hnrlbls": [
-        "226-228"
+        "228"
       ], 
       "housenumber": "228", 
       "lat": 51.12227011153782, 
@@ -1689,20 +1497,22 @@
       "street": "Provinciale Steenweg"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
+        "2", 
         "3", 
         "4", 
         "5", 
         "6", 
-        "7"
+        "7", 
+        "8"
       ], 
       "hnrlbls": [
-        "22-26"
+        "24"
       ], 
       "housenumber": "24", 
-      "lat": 51.128702960161746, 
-      "lon": 4.336335403763254, 
+      "lat": 51.1286835656864, 
+      "lon": 4.336492536673387, 
       "municipality": "Schelle", 
       "pcode": "2627", 
       "source": "afgeleidVanGebouw", 
@@ -1722,18 +1532,6 @@
     }, 
     {
       "hnrlbls": [
-        "241"
-      ], 
-      "housenumber": "241", 
-      "lat": 51.122450976213415, 
-      "lon": 4.338864476290744, 
-      "municipality": "Schelle", 
-      "pcode": "2627", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Provinciale Steenweg"
-    }, 
-    {
-      "hnrlbls": [
         "242"
       ], 
       "housenumber": "242", 
@@ -1746,119 +1544,11 @@
     }, 
     {
       "hnrlbls": [
-        "243"
-      ], 
-      "housenumber": "243", 
-      "lat": 51.12237870174892, 
-      "lon": 4.338843668117377, 
-      "municipality": "Schelle", 
-      "pcode": "2627", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Provinciale Steenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "249"
-      ], 
-      "housenumber": "249", 
-      "lat": 51.122251091371005, 
-      "lon": 4.338600650161522, 
-      "municipality": "Schelle", 
-      "pcode": "2627", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Provinciale Steenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "251"
-      ], 
-      "housenumber": "251", 
-      "lat": 51.12221107871805, 
-      "lon": 4.338549256401947, 
-      "municipality": "Schelle", 
-      "pcode": "2627", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Provinciale Steenweg"
-    }, 
-    {
-      "hnrlbls": [
         "252"
       ], 
       "housenumber": "252", 
       "lat": 51.12176291712281, 
       "lon": 4.33652665025282, 
-      "municipality": "Schelle", 
-      "pcode": "2627", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Provinciale Steenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "253"
-      ], 
-      "housenumber": "253", 
-      "lat": 51.122178347442166, 
-      "lon": 4.338500000580138, 
-      "municipality": "Schelle", 
-      "pcode": "2627", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Provinciale Steenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "255"
-      ], 
-      "housenumber": "255", 
-      "lat": 51.12214302288166, 
-      "lon": 4.338504450665482, 
-      "municipality": "Schelle", 
-      "pcode": "2627", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Provinciale Steenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "257"
-      ], 
-      "housenumber": "257", 
-      "lat": 51.122105359535986, 
-      "lon": 4.338502046373987, 
-      "municipality": "Schelle", 
-      "pcode": "2627", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Provinciale Steenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "259"
-      ], 
-      "housenumber": "259", 
-      "lat": 51.122068924166754, 
-      "lon": 4.338378378572264, 
-      "municipality": "Schelle", 
-      "pcode": "2627", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Provinciale Steenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "22-26"
-      ], 
-      "housenumber": "26", 
-      "lat": 51.128702960161746, 
-      "lon": 4.336335403763254, 
-      "municipality": "Schelle", 
-      "pcode": "2627", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Provinciale Steenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "261"
-      ], 
-      "housenumber": "261", 
-      "lat": 51.12180490897936, 
-      "lon": 4.339034989605316, 
       "municipality": "Schelle", 
       "pcode": "2627", 
       "source": "afgeleidVanGebouw", 
@@ -1902,18 +1592,6 @@
     }, 
     {
       "hnrlbls": [
-        "269-271"
-      ], 
-      "housenumber": "269", 
-      "lat": 51.12175072765176, 
-      "lon": 4.338395291691292, 
-      "municipality": "Schelle", 
-      "pcode": "2627", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Provinciale Steenweg"
-    }, 
-    {
-      "hnrlbls": [
         "270"
       ], 
       "housenumber": "270", 
@@ -1922,50 +1600,6 @@
       "municipality": "Schelle", 
       "pcode": "2627", 
       "source": "afgeleidVanGebouw", 
-      "street": "Provinciale Steenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "269-271"
-      ], 
-      "housenumber": "271", 
-      "lat": 51.12175072765176, 
-      "lon": 4.338395291691292, 
-      "municipality": "Schelle", 
-      "pcode": "2627", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Provinciale Steenweg"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "3", 
-        "6"
-      ], 
-      "hnrlbls": [
-        "271A-271B"
-      ], 
-      "housenumber": "271A", 
-      "lat": 51.121825042258195, 
-      "lon": 4.338307404474274, 
-      "municipality": "Schelle", 
-      "pcode": "2627", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Provinciale Steenweg"
-    }, 
-    {
-      "busnrs": [
-        "6"
-      ], 
-      "hnrlbls": [
-        "271A-271B"
-      ], 
-      "housenumber": "271B", 
-      "lat": 51.121825042258195, 
-      "lon": 4.338307404474274, 
-      "municipality": "Schelle", 
-      "pcode": "2627", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Provinciale Steenweg"
     }, 
     {
@@ -1985,8 +1619,8 @@
         "273"
       ], 
       "housenumber": "273", 
-      "lat": 51.12135179624518, 
-      "lon": 4.3379933416085645, 
+      "lat": 51.12140410105984, 
+      "lon": 4.33800952957598, 
       "municipality": "Schelle", 
       "pcode": "2627", 
       "source": "afgeleidVanGebouw", 
@@ -2009,8 +1643,8 @@
         "275"
       ], 
       "housenumber": "275", 
-      "lat": 51.1213507992189, 
-      "lon": 4.337960920320255, 
+      "lat": 51.121402126946975, 
+      "lon": 4.3379447147852925, 
       "municipality": "Schelle", 
       "pcode": "2627", 
       "source": "afgeleidVanGebouw", 
@@ -2306,7 +1940,7 @@
       "street": "Provinciale Steenweg"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3"
@@ -2315,8 +1949,8 @@
         "302"
       ], 
       "housenumber": "302", 
-      "lat": 51.12031448108231, 
-      "lon": 4.336218554953282, 
+      "lat": 51.12031447970539, 
+      "lon": 4.336218584506978, 
       "municipality": "Schelle", 
       "pcode": "2627", 
       "source": "afgeleidVanGebouw", 
@@ -2364,7 +1998,7 @@
       "street": "Provinciale Steenweg"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2"
       ], 
@@ -2372,8 +2006,8 @@
         "306"
       ], 
       "housenumber": "306", 
-      "lat": 51.12021988016056, 
-      "lon": 4.336072510021215, 
+      "lat": 51.12021991384361, 
+      "lon": 4.336072484919132, 
       "municipality": "Schelle", 
       "pcode": "2627", 
       "source": "afgeleidVanGebouw", 
@@ -2396,8 +2030,8 @@
         "31"
       ], 
       "housenumber": "31", 
-      "lat": 51.12958084429648, 
-      "lon": 4.336851792834999, 
+      "lat": 51.129499611935515, 
+      "lon": 4.336609140193594, 
       "municipality": "Schelle", 
       "pcode": "2627", 
       "source": "afgeleidVanGebouw", 
@@ -2747,11 +2381,11 @@
         "354"
       ], 
       "housenumber": "354", 
-      "lat": 51.11862093138481, 
-      "lon": 4.333715510986897, 
+      "lat": 51.118521280951576, 
+      "lon": 4.333706437556168, 
       "municipality": "Schelle", 
       "pcode": "2627", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Provinciale Steenweg"
     }, 
     {
@@ -2767,7 +2401,7 @@
       "street": "Provinciale Steenweg"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "3", 
         "4", 
         "5", 
@@ -2775,14 +2409,14 @@
         "7"
       ], 
       "hnrlbls": [
-        "356-360"
+        "356"
       ], 
       "housenumber": "356", 
-      "lat": 51.11835134438356, 
-      "lon": 4.333664437189928, 
+      "lat": 51.11843521766402, 
+      "lon": 4.333722668484834, 
       "municipality": "Schelle", 
       "pcode": "2627", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Provinciale Steenweg"
     }, 
     {
@@ -2798,7 +2432,7 @@
       "street": "Provinciale Steenweg"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "3", 
         "4", 
         "5", 
@@ -2806,14 +2440,14 @@
         "7"
       ], 
       "hnrlbls": [
-        "356-360"
+        "358"
       ], 
       "housenumber": "358", 
-      "lat": 51.11835134438356, 
-      "lon": 4.333664437189928, 
+      "lat": 51.11827915840269, 
+      "lon": 4.3336727965761215, 
       "municipality": "Schelle", 
       "pcode": "2627", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Provinciale Steenweg"
     }, 
     {
@@ -2849,14 +2483,14 @@
     }, 
     {
       "hnrlbls": [
-        "356-360"
+        "360"
       ], 
       "housenumber": "360", 
-      "lat": 51.11835134438356, 
-      "lon": 4.333664437189928, 
+      "lat": 51.11816336521261, 
+      "lon": 4.333610898580308, 
       "municipality": "Schelle", 
       "pcode": "2627", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Provinciale Steenweg"
     }, 
     {
@@ -2869,6 +2503,18 @@
       "municipality": "Schelle", 
       "pcode": "2627", 
       "source": "afgeleidVanGebouw", 
+      "street": "Provinciale Steenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "362"
+      ], 
+      "housenumber": "362", 
+      "lat": 51.11823293556747, 
+      "lon": 4.333251562400931, 
+      "municipality": "Schelle", 
+      "pcode": "2627", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Provinciale Steenweg"
     }, 
     {
@@ -2900,7 +2546,7 @@
         "2"
       ], 
       "hnrlbls": [
-        "366-368"
+        "366"
       ], 
       "housenumber": "366", 
       "lat": 51.117962629811686, 
@@ -2924,18 +2570,6 @@
     }, 
     {
       "hnrlbls": [
-        "366-368"
-      ], 
-      "housenumber": "368", 
-      "lat": 51.117962629811686, 
-      "lon": 4.333521762934296, 
-      "municipality": "Schelle", 
-      "pcode": "2627", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Provinciale Steenweg"
-    }, 
-    {
-      "hnrlbls": [
         "370"
       ], 
       "housenumber": "370", 
@@ -2951,8 +2585,8 @@
         "371"
       ], 
       "housenumber": "371", 
-      "lat": 51.11889791050865, 
-      "lon": 4.335426581349314, 
+      "lat": 51.118938712198975, 
+      "lon": 4.335425359266157, 
       "municipality": "Schelle", 
       "pcode": "2627", 
       "source": "afgeleidVanGebouw", 
@@ -3132,8 +2766,8 @@
         "387"
       ], 
       "housenumber": "387", 
-      "lat": 51.11852109340631, 
-      "lon": 4.335069510747785, 
+      "lat": 51.11857852943726, 
+      "lon": 4.334824692869223, 
       "municipality": "Schelle", 
       "pcode": "2627", 
       "source": "afgeleidVanGebouw", 
@@ -3248,18 +2882,6 @@
       "street": "Provinciale Steenweg"
     }, 
     {
-      "hnrlbls": [
-        "4"
-      ], 
-      "housenumber": "4", 
-      "lat": 51.12988729083402, 
-      "lon": 4.3359284657036525, 
-      "municipality": "Schelle", 
-      "pcode": "2627", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Provinciale Steenweg"
-    }, 
-    {
       "busnrs": [
         "1", 
         "2", 
@@ -3269,7 +2891,7 @@
         "6"
       ], 
       "hnrlbls": [
-        "40-42"
+        "40"
       ], 
       "housenumber": "40", 
       "lat": 51.128304574680094, 
@@ -3369,18 +2991,6 @@
     }, 
     {
       "hnrlbls": [
-        "41"
-      ], 
-      "housenumber": "41", 
-      "lat": 51.129662076118535, 
-      "lon": 4.337094303466913, 
-      "municipality": "Schelle", 
-      "pcode": "2627", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Provinciale Steenweg"
-    }, 
-    {
-      "hnrlbls": [
         "411"
       ], 
       "housenumber": "411", 
@@ -3456,19 +3066,7 @@
       "street": "Provinciale Steenweg"
     }, 
     {
-      "hnrlbls": [
-        "40-42"
-      ], 
-      "housenumber": "42", 
-      "lat": 51.128304574680094, 
-      "lon": 4.337330761396045, 
-      "municipality": "Schelle", 
-      "pcode": "2627", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Provinciale Steenweg"
-    }, 
-    {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2"
       ], 
@@ -3476,11 +3074,11 @@
         "420"
       ], 
       "housenumber": "420", 
-      "lat": 51.11643706533187, 
-      "lon": 4.332626311166752, 
+      "lat": 51.11643820763442, 
+      "lon": 4.332626235786336, 
       "municipality": "Schelle", 
       "pcode": "2627", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Provinciale Steenweg"
     }, 
     {
@@ -3490,18 +3088,6 @@
       "housenumber": "422", 
       "lat": 51.116367657677046, 
       "lon": 4.33257780748662, 
-      "municipality": "Schelle", 
-      "pcode": "2627", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Provinciale Steenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "424-428"
-      ], 
-      "housenumber": "424", 
-      "lat": 51.11627001748651, 
-      "lon": 4.332503190752561, 
       "municipality": "Schelle", 
       "pcode": "2627", 
       "source": "afgeleidVanGebouw", 
@@ -3529,7 +3115,7 @@
         "6"
       ], 
       "hnrlbls": [
-        "424-428"
+        "426"
       ], 
       "housenumber": "426", 
       "lat": 51.11627001748651, 
@@ -3546,18 +3132,6 @@
       "housenumber": "427", 
       "lat": 51.11754812004823, 
       "lon": 4.3340055023391795, 
-      "municipality": "Schelle", 
-      "pcode": "2627", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Provinciale Steenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "424-428"
-      ], 
-      "housenumber": "428", 
-      "lat": 51.11627001748651, 
-      "lon": 4.332503190752561, 
       "municipality": "Schelle", 
       "pcode": "2627", 
       "source": "afgeleidVanGebouw", 
@@ -3604,8 +3178,8 @@
         "433"
       ], 
       "housenumber": "433", 
-      "lat": 51.11727561111055, 
-      "lon": 4.33379719038204, 
+      "lat": 51.11727552163797, 
+      "lon": 4.3337986186019695, 
       "municipality": "Schelle", 
       "pcode": "2627", 
       "source": "afgeleidVanPerceelGrb", 
@@ -3724,8 +3298,11 @@
       "street": "Provinciale Steenweg"
     }, 
     {
+      "apptnrs": [
+        "B"
+      ], 
       "hnrlbls": [
-        "45-45B"
+        "45"
       ], 
       "housenumber": "45", 
       "lat": 51.12904426136964, 
@@ -3793,18 +3370,6 @@
       "municipality": "Schelle", 
       "pcode": "2627", 
       "source": "afgeleidVanPerceelGrb", 
-      "street": "Provinciale Steenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "45-45B"
-      ], 
-      "housenumber": "45B", 
-      "lat": 51.12904426136964, 
-      "lon": 4.336672587034209, 
-      "municipality": "Schelle", 
-      "pcode": "2627", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Provinciale Steenweg"
     }, 
     {
@@ -3931,6 +3496,10 @@
       "street": "Provinciale Steenweg"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "52-54"
       ], 
@@ -3971,23 +3540,23 @@
         "57"
       ], 
       "housenumber": "57", 
-      "lat": 51.1287448250071, 
-      "lon": 4.337268474730549, 
+      "lat": 51.12874500496744, 
+      "lon": 4.3372691888643935, 
       "municipality": "Schelle", 
       "pcode": "2627", 
       "source": "afgeleidVanPerceelGrb", 
       "street": "Provinciale Steenweg"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "6"
       ], 
       "hnrlbls": [
-        "58-60"
+        "58"
       ], 
       "housenumber": "58", 
-      "lat": 51.12798064024363, 
-      "lon": 4.338101354527357, 
+      "lat": 51.127966643321656, 
+      "lon": 4.338115002745495, 
       "municipality": "Schelle", 
       "pcode": "2627", 
       "source": "afgeleidVanGebouw", 
@@ -3998,35 +3567,11 @@
         "59"
       ], 
       "housenumber": "59", 
-      "lat": 51.128726005975984, 
-      "lon": 4.337488619647008, 
+      "lat": 51.12873500037183, 
+      "lon": 4.337510612732349, 
       "municipality": "Schelle", 
       "pcode": "2627", 
       "source": "afgeleidVanPerceelGrb", 
-      "street": "Provinciale Steenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "6"
-      ], 
-      "housenumber": "6", 
-      "lat": 51.12960712074871, 
-      "lon": 4.335956371890997, 
-      "municipality": "Schelle", 
-      "pcode": "2627", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Provinciale Steenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "58-60"
-      ], 
-      "housenumber": "60", 
-      "lat": 51.12798064024363, 
-      "lon": 4.338101354527357, 
-      "municipality": "Schelle", 
-      "pcode": "2627", 
-      "source": "afgeleidVanGebouw", 
       "street": "Provinciale Steenweg"
     }, 
     {
@@ -4135,7 +3680,7 @@
         "2"
       ], 
       "hnrlbls": [
-        "69-71"
+        "69"
       ], 
       "housenumber": "69", 
       "lat": 51.128414474814235, 
@@ -4152,18 +3697,6 @@
       "housenumber": "70", 
       "lat": 51.12759774393236, 
       "lon": 4.338189879471918, 
-      "municipality": "Schelle", 
-      "pcode": "2627", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Provinciale Steenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "69-71"
-      ], 
-      "housenumber": "71", 
-      "lat": 51.128414474814235, 
-      "lon": 4.3379048011681185, 
       "municipality": "Schelle", 
       "pcode": "2627", 
       "source": "afgeleidVanGebouw", 
@@ -4213,11 +3746,11 @@
         "78"
       ], 
       "housenumber": "78", 
-      "lat": 51.127312005464034, 
-      "lon": 4.338239058357678, 
+      "lat": 51.127311573197275, 
+      "lon": 4.338418182372284, 
       "municipality": "Schelle", 
       "pcode": "2627", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Provinciale Steenweg"
     }, 
     {
@@ -4237,16 +3770,19 @@
         "80"
       ], 
       "housenumber": "80", 
-      "lat": 51.12727707283486, 
-      "lon": 4.338371641741385, 
+      "lat": 51.1272820055773, 
+      "lon": 4.338439199536453, 
       "municipality": "Schelle", 
       "pcode": "2627", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Provinciale Steenweg"
     }, 
     {
+      "apptnrs": [
+        "A"
+      ], 
       "hnrlbls": [
-        "82-82A"
+        "82"
       ], 
       "housenumber": "82", 
       "lat": 51.12718729230846, 
@@ -4258,26 +3794,14 @@
     }, 
     {
       "hnrlbls": [
-        "82-82A"
-      ], 
-      "housenumber": "82A", 
-      "lat": 51.12718729230846, 
-      "lon": 4.338437836359169, 
-      "municipality": "Schelle", 
-      "pcode": "2627", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Provinciale Steenweg"
-    }, 
-    {
-      "hnrlbls": [
         "84"
       ], 
       "housenumber": "84", 
-      "lat": 51.127071539716695, 
-      "lon": 4.338525331112017, 
+      "lat": 51.12705380309687, 
+      "lon": 4.338629044565308, 
       "municipality": "Schelle", 
       "pcode": "2627", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Provinciale Steenweg"
     }, 
     {
@@ -4293,18 +3817,15 @@
       "street": "Provinciale Steenweg"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
         "86"
       ], 
       "housenumber": "86", 
-      "lat": 51.12707275944787, 
-      "lon": 4.33873059914544, 
+      "lat": 51.12701039679083, 
+      "lon": 4.33866606888339, 
       "municipality": "Schelle", 
       "pcode": "2627", 
-      "source": "geinterpoleerdObvWegverbinding", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Provinciale Steenweg"
     }, 
     {
@@ -4314,18 +3835,6 @@
       "housenumber": "87", 
       "lat": 51.12795979976536, 
       "lon": 4.338510627661165, 
-      "municipality": "Schelle", 
-      "pcode": "2627", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Provinciale Steenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "88"
-      ], 
-      "housenumber": "88", 
-      "lat": 51.12696683220957, 
-      "lon": 4.338568965039444, 
       "municipality": "Schelle", 
       "pcode": "2627", 
       "source": "afgeleidVanGebouw", 
@@ -4345,35 +3854,11 @@
     }, 
     {
       "hnrlbls": [
-        "90-100"
-      ], 
-      "housenumber": "90", 
-      "lat": 51.12654227181834, 
-      "lon": 4.338473956225812, 
-      "municipality": "Schelle", 
-      "pcode": "2627", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Provinciale Steenweg"
-    }, 
-    {
-      "hnrlbls": [
         "91"
       ], 
       "housenumber": "91", 
       "lat": 51.12776897074255, 
       "lon": 4.338515176620886, 
-      "municipality": "Schelle", 
-      "pcode": "2627", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Provinciale Steenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "90-100"
-      ], 
-      "housenumber": "92", 
-      "lat": 51.12654227181834, 
-      "lon": 4.338473956225812, 
       "municipality": "Schelle", 
       "pcode": "2627", 
       "source": "afgeleidVanGebouw", 
@@ -4393,59 +3878,11 @@
     }, 
     {
       "hnrlbls": [
-        "90-100"
-      ], 
-      "housenumber": "94", 
-      "lat": 51.12654227181834, 
-      "lon": 4.338473956225812, 
-      "municipality": "Schelle", 
-      "pcode": "2627", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Provinciale Steenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "95-97"
+        "95"
       ], 
       "housenumber": "95", 
       "lat": 51.12758111455515, 
       "lon": 4.338546007498966, 
-      "municipality": "Schelle", 
-      "pcode": "2627", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Provinciale Steenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "90-100"
-      ], 
-      "housenumber": "96", 
-      "lat": 51.12654227181834, 
-      "lon": 4.338473956225812, 
-      "municipality": "Schelle", 
-      "pcode": "2627", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Provinciale Steenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "95-97"
-      ], 
-      "housenumber": "97", 
-      "lat": 51.12758111455515, 
-      "lon": 4.338546007498966, 
-      "municipality": "Schelle", 
-      "pcode": "2627", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Provinciale Steenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "90-100"
-      ], 
-      "housenumber": "98", 
-      "lat": 51.12654227181834, 
-      "lon": 4.338473956225812, 
       "municipality": "Schelle", 
       "pcode": "2627", 
       "source": "afgeleidVanGebouw", 

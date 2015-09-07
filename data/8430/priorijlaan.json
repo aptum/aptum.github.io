@@ -2,26 +2,399 @@
   "addresses": [
     {
       "apptnrs": [
-        "5C"
-      ], 
-      "busnrs": [
-        "501", 
-        "502", 
-        "601", 
-        "603", 
-        "604", 
-        "7", 
-        "703"
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302", 
+        "0303", 
+        "0401", 
+        "0402", 
+        "0403", 
+        "0501", 
+        "0502", 
+        "0503", 
+        "0601", 
+        "0602", 
+        "0603", 
+        "0701", 
+        "0702", 
+        "0703", 
+        "0801"
       ], 
       "hnrlbls": [
-        "/zn-37"
+        "10"
       ], 
-      "housenumber": "34", 
-      "lat": 51.17036472256751, 
-      "lon": 2.7777024464641524, 
+      "housenumber": "10", 
+      "lat": 51.17138867377282, 
+      "lon": 2.7785712588322102, 
       "municipality": "Middelkerke", 
       "pcode": "8430", 
-      "source": "afgeleidVanStraat", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Priorijlaan"
+    }, 
+    {
+      "apptnrs": [
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0301", 
+        "0302", 
+        "0303", 
+        "0401", 
+        "0402", 
+        "0403", 
+        "0501", 
+        "0502", 
+        "0503", 
+        "0601", 
+        "0602", 
+        "0603", 
+        "0701", 
+        "0702", 
+        "0703", 
+        "0801", 
+        "0802"
+      ], 
+      "hnrlbls": [
+        "12-14"
+      ], 
+      "housenumber": "12", 
+      "lat": 51.171477829799166, 
+      "lon": 2.7784821279873455, 
+      "municipality": "Middelkerke", 
+      "pcode": "8430", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Priorijlaan"
+    }, 
+    {
+      "hnrlbls": [
+        "12-14"
+      ], 
+      "housenumber": "14", 
+      "lat": 51.171477829799166, 
+      "lon": 2.7784821279873455, 
+      "municipality": "Middelkerke", 
+      "pcode": "8430", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Priorijlaan"
+    }, 
+    {
+      "apptnrs": [
+        "0101", 
+        "0201", 
+        "0301", 
+        "0401", 
+        "0501", 
+        "0601", 
+        "0701", 
+        "0801"
+      ], 
+      "hnrlbls": [
+        "16"
+      ], 
+      "housenumber": "16", 
+      "lat": 51.171549645820875, 
+      "lon": 2.778440639110127, 
+      "municipality": "Middelkerke", 
+      "pcode": "8430", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Priorijlaan"
+    }, 
+    {
+      "hnrlbls": [
+        "18-20"
+      ], 
+      "housenumber": "18", 
+      "lat": 51.171591470802376, 
+      "lon": 2.7783217997341385, 
+      "municipality": "Middelkerke", 
+      "pcode": "8430", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Priorijlaan"
+    }, 
+    {
+      "apptnrs": [
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302", 
+        "0401", 
+        "0402", 
+        "0501", 
+        "0502", 
+        "0601", 
+        "0602", 
+        "0701", 
+        "0702", 
+        "0801", 
+        "0802", 
+        "0901", 
+        "0902", 
+        "1001"
+      ], 
+      "hnrlbls": [
+        "18-20"
+      ], 
+      "housenumber": "20", 
+      "lat": 51.171591470802376, 
+      "lon": 2.7783217997341385, 
+      "municipality": "Middelkerke", 
+      "pcode": "8430", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Priorijlaan"
+    }, 
+    {
+      "apptnrs": [
+        "0101", 
+        "0102", 
+        "0103", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0301", 
+        "0302", 
+        "0303", 
+        "0401", 
+        "0402", 
+        "0403", 
+        "0501", 
+        "0502", 
+        "0503", 
+        "0601", 
+        "0602", 
+        "0603", 
+        "0701", 
+        "0702", 
+        "0703", 
+        "0801", 
+        "0802", 
+        "0803", 
+        "0901", 
+        "0902", 
+        "0903", 
+        "1001", 
+        "1002"
+      ], 
+      "hnrlbls": [
+        "22-24"
+      ], 
+      "housenumber": "22", 
+      "lat": 51.1717066003389, 
+      "lon": 2.7782854137779895, 
+      "municipality": "Middelkerke", 
+      "pcode": "8430", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Priorijlaan"
+    }, 
+    {
+      "hnrlbls": [
+        "22-24"
+      ], 
+      "housenumber": "24", 
+      "lat": 51.1717066003389, 
+      "lon": 2.7782854137779895, 
+      "municipality": "Middelkerke", 
+      "pcode": "8430", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Priorijlaan"
+    }, 
+    {
+      "apptnrs": [
+        "0101", 
+        "0102", 
+        "0103", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0301", 
+        "0302", 
+        "0303", 
+        "0401", 
+        "0402", 
+        "0403", 
+        "0501", 
+        "0502", 
+        "0503", 
+        "0601", 
+        "0602", 
+        "0603", 
+        "0701", 
+        "0702", 
+        "0703", 
+        "0801", 
+        "0802", 
+        "0803", 
+        "0901", 
+        "0902", 
+        "0903", 
+        "1001", 
+        "1002"
+      ], 
+      "hnrlbls": [
+        "26"
+      ], 
+      "housenumber": "26", 
+      "lat": 51.17181062777522, 
+      "lon": 2.778239108740649, 
+      "municipality": "Middelkerke", 
+      "pcode": "8430", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Priorijlaan"
+    }, 
+    {
+      "apptnrs": [
+        "0101", 
+        "0102", 
+        "0103", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0301", 
+        "0302", 
+        "0303", 
+        "0401", 
+        "0402", 
+        "0403", 
+        "0501", 
+        "0502", 
+        "0503", 
+        "0601", 
+        "0602", 
+        "0603", 
+        "0701", 
+        "0702", 
+        "0703", 
+        "0801", 
+        "0802", 
+        "0803", 
+        "0901", 
+        "0902", 
+        "0903", 
+        "1001", 
+        "1002"
+      ], 
+      "hnrlbls": [
+        "28-30"
+      ], 
+      "housenumber": "28", 
+      "lat": 51.17189539009251, 
+      "lon": 2.778110796906347, 
+      "municipality": "Middelkerke", 
+      "pcode": "8430", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Priorijlaan"
+    }, 
+    {
+      "hnrlbls": [
+        "28-30"
+      ], 
+      "housenumber": "30", 
+      "lat": 51.17189539009251, 
+      "lon": 2.778110796906347, 
+      "municipality": "Middelkerke", 
+      "pcode": "8430", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Priorijlaan"
+    }, 
+    {
+      "apptnrs": [
+        "0001", 
+        "0101", 
+        "0201", 
+        "0301", 
+        "0401", 
+        "0501", 
+        "0601", 
+        "0701", 
+        "0801", 
+        "0901", 
+        "1001"
+      ], 
+      "hnrlbls": [
+        "32"
+      ], 
+      "housenumber": "32", 
+      "lat": 51.17197034236225, 
+      "lon": 2.7780551847096655, 
+      "municipality": "Middelkerke", 
+      "pcode": "8430", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Priorijlaan"
+    }, 
+    {
+      "apptnrs": [
+        "0001", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0104", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0204", 
+        "0301", 
+        "0302", 
+        "0303", 
+        "0304", 
+        "0401", 
+        "0402", 
+        "0403", 
+        "0404", 
+        "0501", 
+        "0502", 
+        "0503", 
+        "0504", 
+        "0601", 
+        "0602", 
+        "0603", 
+        "0604", 
+        "0701", 
+        "0702", 
+        "0703", 
+        "0704", 
+        "0801"
+      ], 
+      "hnrlbls": [
+        "34-367"
+      ], 
+      "housenumber": "34", 
+      "lat": 51.17206017697149, 
+      "lon": 2.7778829364248923, 
+      "municipality": "Middelkerke", 
+      "pcode": "8430", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Priorijlaan"
+    }, 
+    {
+      "apptnrs": [
+        "0001", 
+        "0101", 
+        "0201", 
+        "0301", 
+        "0401", 
+        "0501", 
+        "0601", 
+        "0701", 
+        "0801"
+      ], 
+      "hnrlbls": [
+        "6"
+      ], 
+      "housenumber": "6", 
+      "lat": 51.171320066224126, 
+      "lon": 2.77863737944088, 
+      "municipality": "Middelkerke", 
+      "pcode": "8430", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Priorijlaan"
     }
   ]

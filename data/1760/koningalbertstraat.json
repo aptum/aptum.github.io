@@ -125,11 +125,11 @@
         "112"
       ], 
       "housenumber": "112", 
-      "lat": 50.82300312151873, 
-      "lon": 4.106032959834709, 
+      "lat": 50.822994139135346, 
+      "lon": 4.1060765258307335, 
       "municipality": "Roosdaal", 
       "pcode": "1760", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Koning Albertstraat"
     }, 
     {
@@ -149,11 +149,11 @@
         "114"
       ], 
       "housenumber": "114", 
-      "lat": 50.82296543946866, 
-      "lon": 4.106066237734766, 
+      "lat": 50.82298219566143, 
+      "lon": 4.106166506583719, 
       "municipality": "Roosdaal", 
       "pcode": "1760", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Koning Albertstraat"
     }, 
     {
@@ -383,11 +383,11 @@
         "134"
       ], 
       "housenumber": "134", 
-      "lat": 50.821954442402074, 
-      "lon": 4.111953865508847, 
+      "lat": 50.82220515372029, 
+      "lon": 4.11197275691381, 
       "municipality": "Roosdaal", 
       "pcode": "1760", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Koning Albertstraat"
     }, 
     {
@@ -571,8 +571,11 @@
       "street": "Koning Albertstraat"
     }, 
     {
+      "busnrs": [
+        "A"
+      ], 
       "hnrlbls": [
-        "15-15A"
+        "15"
       ], 
       "housenumber": "15", 
       "lat": 50.83062273279952, 
@@ -692,18 +695,6 @@
       "municipality": "Roosdaal", 
       "pcode": "1760", 
       "source": "afgeleidVanGebouw", 
-      "street": "Koning Albertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "15-15A"
-      ], 
-      "housenumber": "15A", 
-      "lat": 50.83062273279952, 
-      "lon": 4.094275294538185, 
-      "municipality": "Roosdaal", 
-      "pcode": "1760", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Koning Albertstraat"
     }, 
     {
@@ -903,11 +894,11 @@
         "175"
       ], 
       "housenumber": "175", 
-      "lat": 50.822506841179006, 
-      "lon": 4.111906436169089, 
+      "lat": 50.82244999905649, 
+      "lon": 4.111939422010189, 
       "municipality": "Roosdaal", 
       "pcode": "1760", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Koning Albertstraat"
     }, 
     {
@@ -927,11 +918,23 @@
         "177"
       ], 
       "housenumber": "177", 
-      "lat": 50.822541311700355, 
-      "lon": 4.112007154446303, 
+      "lat": 50.82246773156372, 
+      "lon": 4.112052353842725, 
       "municipality": "Roosdaal", 
       "pcode": "1760", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Koning Albertstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "177A"
+      ], 
+      "housenumber": "177A", 
+      "lat": 50.82246585026999, 
+      "lon": 4.112055344430783, 
+      "municipality": "Roosdaal", 
+      "pcode": "1760", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Koning Albertstraat"
     }, 
     {
@@ -963,11 +966,11 @@
         "18"
       ], 
       "housenumber": "18", 
-      "lat": 50.830449845922665, 
-      "lon": 4.093537759976954, 
+      "lat": 50.83036218996919, 
+      "lon": 4.093189370914482, 
       "municipality": "Roosdaal", 
       "pcode": "1760", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Koning Albertstraat"
     }, 
     {
@@ -1119,11 +1122,23 @@
     }, 
     {
       "hnrlbls": [
-        "191"
+        "191C"
       ], 
-      "housenumber": "191", 
-      "lat": 50.82263334869476, 
-      "lon": 4.113609515174732, 
+      "housenumber": "191C", 
+      "lat": 50.82245247341246, 
+      "lon": 4.113607655320137, 
+      "municipality": "Roosdaal", 
+      "pcode": "1760", 
+      "source": "geinterpoleerdObvWegverbinding", 
+      "street": "Koning Albertstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "191H"
+      ], 
+      "housenumber": "191H", 
+      "lat": 50.82271443150412, 
+      "lon": 4.113773563835292, 
       "municipality": "Roosdaal", 
       "pcode": "1760", 
       "source": "afgeleidVanGebouw", 
@@ -1136,18 +1151,6 @@
       "housenumber": "192", 
       "lat": 50.82103729221891, 
       "lon": 4.117767084532535, 
-      "municipality": "Roosdaal", 
-      "pcode": "1760", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Koning Albertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "193"
-      ], 
-      "housenumber": "193", 
-      "lat": 50.82279551377442, 
-      "lon": 4.113937471141131, 
       "municipality": "Roosdaal", 
       "pcode": "1760", 
       "source": "afgeleidVanGebouw", 
@@ -1563,6 +1566,18 @@
     }, 
     {
       "hnrlbls": [
+        "229C"
+      ], 
+      "housenumber": "229C", 
+      "lat": 50.82105388685075, 
+      "lon": 4.118419720108112, 
+      "municipality": "Roosdaal", 
+      "pcode": "1760", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Koning Albertstraat"
+    }, 
+    {
+      "hnrlbls": [
         "23"
       ], 
       "housenumber": "23", 
@@ -1583,18 +1598,6 @@
       "municipality": "Roosdaal", 
       "pcode": "1760", 
       "source": "afgeleidVanGebouw", 
-      "street": "Koning Albertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "235"
-      ], 
-      "housenumber": "235", 
-      "lat": 50.81970000292098, 
-      "lon": 4.119460406901724, 
-      "municipality": "Roosdaal", 
-      "pcode": "1760", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Koning Albertstraat"
     }, 
     {
@@ -1631,18 +1634,6 @@
       "municipality": "Roosdaal", 
       "pcode": "1760", 
       "source": "afgeleidVanGebouw", 
-      "street": "Koning Albertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "27"
-      ], 
-      "housenumber": "27", 
-      "lat": 50.82982098221581, 
-      "lon": 4.095485487322269, 
-      "municipality": "Roosdaal", 
-      "pcode": "1760", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
       "street": "Koning Albertstraat"
     }, 
     {
@@ -1698,11 +1689,11 @@
         "33"
       ], 
       "housenumber": "33", 
-      "lat": 50.82928757072402, 
-      "lon": 4.095654083233337, 
+      "lat": 50.829043599528774, 
+      "lon": 4.095968828009888, 
       "municipality": "Roosdaal", 
       "pcode": "1760", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Koning Albertstraat"
     }, 
     {
@@ -1878,7 +1869,7 @@
     }, 
     {
       "hnrlbls": [
-        "48-48A"
+        "48"
       ], 
       "housenumber": "48", 
       "lat": 50.827505342994456, 
@@ -1890,14 +1881,14 @@
     }, 
     {
       "hnrlbls": [
-        "48-48A"
+        "48A"
       ], 
       "housenumber": "48A", 
-      "lat": 50.827505342994456, 
-      "lon": 4.0989861431027945, 
+      "lat": 50.82750537459675, 
+      "lon": 4.098986129310527, 
       "municipality": "Roosdaal", 
       "pcode": "1760", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Koning Albertstraat"
     }, 
     {
@@ -2046,7 +2037,7 @@
     }, 
     {
       "hnrlbls": [
-        "6-6A"
+        "6"
       ], 
       "housenumber": "6", 
       "lat": 50.831117603328195, 
@@ -2154,18 +2145,6 @@
     }, 
     {
       "hnrlbls": [
-        "6-6A"
-      ], 
-      "housenumber": "6A", 
-      "lat": 50.831117603328195, 
-      "lon": 4.09223930244045, 
-      "municipality": "Roosdaal", 
-      "pcode": "1760", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Koning Albertstraat"
-    }, 
-    {
-      "hnrlbls": [
         "7"
       ], 
       "housenumber": "7", 
@@ -2190,7 +2169,7 @@
     }, 
     {
       "hnrlbls": [
-        "72-72B"
+        "72"
       ], 
       "housenumber": "72", 
       "lat": 50.82561228100298, 
@@ -2198,18 +2177,6 @@
       "municipality": "Roosdaal", 
       "pcode": "1760", 
       "source": "afgeleidVanGebouw", 
-      "street": "Koning Albertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "72-72B"
-      ], 
-      "housenumber": "72B", 
-      "lat": 50.82561228100298, 
-      "lon": 4.101571453506361, 
-      "municipality": "Roosdaal", 
-      "pcode": "1760", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Koning Albertstraat"
     }, 
     {
@@ -2370,6 +2337,18 @@
     }, 
     {
       "hnrlbls": [
+        "85A"
+      ], 
+      "housenumber": "85A", 
+      "lat": 50.82514874339154, 
+      "lon": 4.102904950182393, 
+      "municipality": "Roosdaal", 
+      "pcode": "1760", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "street": "Koning Albertstraat"
+    }, 
+    {
+      "hnrlbls": [
         "86"
       ], 
       "housenumber": "86", 
@@ -2409,11 +2388,11 @@
         "89"
       ], 
       "housenumber": "89", 
-      "lat": 50.825033456747796, 
-      "lon": 4.103285117899866, 
+      "lat": 50.82534504452865, 
+      "lon": 4.103527340942202, 
       "municipality": "Roosdaal", 
       "pcode": "1760", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Koning Albertstraat"
     }, 
     {

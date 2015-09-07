@@ -609,14 +609,14 @@
     }, 
     {
       "hnrlbls": [
-        "43"
+        "43-45"
       ], 
       "housenumber": "43", 
-      "lat": 51.22238058965328, 
-      "lon": 2.951041475295105, 
+      "lat": 51.22240085040128, 
+      "lon": 2.951126757577874, 
       "municipality": "Bredene", 
       "pcode": "8450", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Prinses Elisabethlaan"
     }, 
     {
@@ -628,26 +628,26 @@
         "203"
       ], 
       "hnrlbls": [
-        "44"
+        "43-45"
       ], 
       "housenumber": "44", 
-      "lat": 51.222369234560574, 
-      "lon": 2.9511441822548186, 
+      "lat": 51.22240085040128, 
+      "lon": 2.951126757577874, 
       "municipality": "Bredene", 
       "pcode": "8450", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Prinses Elisabethlaan"
     }, 
     {
       "hnrlbls": [
-        "45"
+        "43-45"
       ], 
       "housenumber": "45", 
-      "lat": 51.22237865487109, 
-      "lon": 2.951277610586218, 
+      "lat": 51.22240085040128, 
+      "lon": 2.951126757577874, 
       "municipality": "Bredene", 
       "pcode": "8450", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Prinses Elisabethlaan"
     }, 
     {
@@ -842,13 +842,15 @@
     }, 
     {
       "busnrs": [
+        "101", 
         "102", 
         "201", 
+        "202", 
         "301", 
         "302"
       ], 
       "hnrlbls": [
-        "64"
+        "64-64A"
       ], 
       "housenumber": "64", 
       "lat": 51.22156105683374, 
@@ -860,20 +862,21 @@
     }, 
     {
       "busnrs": [
+        "101", 
         "102", 
         "202", 
         "301", 
         "302"
       ], 
       "hnrlbls": [
-        "64A"
+        "64-64A"
       ], 
       "housenumber": "64A", 
-      "lat": 51.22157165872714, 
-      "lon": 2.95523232953647, 
+      "lat": 51.22156105683374, 
+      "lon": 2.955240381496882, 
       "municipality": "Bredene", 
       "pcode": "8450", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Prinses Elisabethlaan"
     }, 
     {
@@ -889,6 +892,14 @@
       "street": "Prinses Elisabethlaan"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "101", 
+        "102", 
+        "202", 
+        "301", 
+        "302"
+      ], 
       "hnrlbls": [
         "65-69"
       ], 
@@ -901,6 +912,13 @@
       "street": "Prinses Elisabethlaan"
     }, 
     {
+      "busnrs": [
+        "101", 
+        "102", 
+        "201", 
+        "203", 
+        "303"
+      ], 
       "hnrlbls": [
         "65-69"
       ], 
@@ -913,6 +931,9 @@
       "street": "Prinses Elisabethlaan"
     }, 
     {
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "65-69"
       ], 
@@ -1117,11 +1138,11 @@
         "81"
       ], 
       "housenumber": "81", 
-      "lat": 51.22121839017615, 
-      "lon": 2.957177837896517, 
+      "lat": 51.221086985570125, 
+      "lon": 2.957308367211447, 
       "municipality": "Bredene", 
       "pcode": "8450", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Prinses Elisabethlaan"
     }, 
     {

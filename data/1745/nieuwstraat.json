@@ -138,6 +138,9 @@
       "street": "Nieuwstraat"
     }, 
     {
+      "busnrs": [
+        "A"
+      ], 
       "hnrlbls": [
         "120"
       ], 
@@ -147,18 +150,6 @@
       "municipality": "Opwijk", 
       "pcode": "1745", 
       "source": "afgeleidVanGebouw", 
-      "street": "Nieuwstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "120A"
-      ], 
-      "housenumber": "120A", 
-      "lat": 50.96813107496899, 
-      "lon": 4.168344683308768, 
-      "municipality": "Opwijk", 
-      "pcode": "1745", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Nieuwstraat"
     }, 
     {
@@ -378,11 +369,11 @@
         "20"
       ], 
       "housenumber": "20", 
-      "lat": 50.96964149265703, 
-      "lon": 4.1773080305049906, 
+      "lat": 50.96946313720198, 
+      "lon": 4.177418685345749, 
       "municipality": "Opwijk", 
       "pcode": "1745", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Nieuwstraat"
     }, 
     {
@@ -395,11 +386,11 @@
         "22"
       ], 
       "housenumber": "22", 
-      "lat": 50.96949072309716, 
-      "lon": 4.177184643408556, 
+      "lat": 50.96946043310918, 
+      "lon": 4.177186902212203, 
       "municipality": "Opwijk", 
       "pcode": "1745", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Nieuwstraat"
     }, 
     {
@@ -431,11 +422,11 @@
         "25"
       ], 
       "housenumber": "25", 
-      "lat": 50.969134257223345, 
-      "lon": 4.177324045993522, 
+      "lat": 50.96916572186942, 
+      "lon": 4.177220295935255, 
       "municipality": "Opwijk", 
       "pcode": "1745", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Nieuwstraat"
     }, 
     {
@@ -452,38 +443,26 @@
     }, 
     {
       "hnrlbls": [
-        "27"
-      ], 
-      "housenumber": "27", 
-      "lat": 50.969108867892295, 
-      "lon": 4.177244140411312, 
-      "municipality": "Opwijk", 
-      "pcode": "1745", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Nieuwstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "28-28A"
+        "28"
       ], 
       "housenumber": "28", 
-      "lat": 50.96946766598504, 
-      "lon": 4.176604170222019, 
+      "lat": 50.969313445756306, 
+      "lon": 4.17674134670717, 
       "municipality": "Opwijk", 
       "pcode": "1745", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Nieuwstraat"
     }, 
     {
       "hnrlbls": [
-        "28-28A"
+        "28A"
       ], 
       "housenumber": "28A", 
-      "lat": 50.96946766598504, 
-      "lon": 4.176604170222019, 
+      "lat": 50.969290653571576, 
+      "lon": 4.176655735755461, 
       "municipality": "Opwijk", 
       "pcode": "1745", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Nieuwstraat"
     }, 
     {
@@ -831,18 +810,6 @@
     }, 
     {
       "hnrlbls": [
-        "50C"
-      ], 
-      "housenumber": "50C", 
-      "lat": 50.96881104016089, 
-      "lon": 4.174812927317793, 
-      "municipality": "Opwijk", 
-      "pcode": "1745", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Nieuwstraat"
-    }, 
-    {
-      "hnrlbls": [
         "51"
       ], 
       "housenumber": "51", 
@@ -858,11 +825,11 @@
         "52"
       ], 
       "housenumber": "52", 
-      "lat": 50.968705338031754, 
-      "lon": 4.174710291951076, 
+      "lat": 50.968674677781195, 
+      "lon": 4.174766808787483, 
       "municipality": "Opwijk", 
       "pcode": "1745", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Nieuwstraat"
     }, 
     {
@@ -870,11 +837,11 @@
         "52A"
       ], 
       "housenumber": "52A", 
-      "lat": 50.968704529475765, 
-      "lon": 4.174710580012221, 
+      "lat": 50.96865060928144, 
+      "lon": 4.174671239778963, 
       "municipality": "Opwijk", 
       "pcode": "1745", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Nieuwstraat"
     }, 
     {
@@ -930,21 +897,9 @@
         "2"
       ], 
       "hnrlbls": [
-        "58-58A"
+        "58"
       ], 
       "housenumber": "58", 
-      "lat": 50.968665520928035, 
-      "lon": 4.174112957758258, 
-      "municipality": "Opwijk", 
-      "pcode": "1745", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Nieuwstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "58-58A"
-      ], 
-      "housenumber": "58A", 
       "lat": 50.968665520928035, 
       "lon": 4.174112957758258, 
       "municipality": "Opwijk", 
@@ -995,21 +950,6 @@
       "housenumber": "64", 
       "lat": 50.9685772479291, 
       "lon": 4.173623736748258, 
-      "municipality": "Opwijk", 
-      "pcode": "1745", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Nieuwstraat"
-    }, 
-    {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "7-7A"
-      ], 
-      "housenumber": "7", 
-      "lat": 50.96933176543226, 
-      "lon": 4.178835730527027, 
       "municipality": "Opwijk", 
       "pcode": "1745", 
       "source": "afgeleidVanGebouw", 
@@ -1077,14 +1017,14 @@
     }, 
     {
       "hnrlbls": [
-        "7-7A"
+        "7A"
       ], 
       "housenumber": "7A", 
-      "lat": 50.96933176543226, 
-      "lon": 4.178835730527027, 
+      "lat": 50.96933172973171, 
+      "lon": 4.1788357927709665, 
       "municipality": "Opwijk", 
       "pcode": "1745", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Nieuwstraat"
     }, 
     {

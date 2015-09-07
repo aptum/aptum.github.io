@@ -615,8 +615,8 @@
         "148"
       ], 
       "housenumber": "148", 
-      "lat": 50.814563824067775, 
-      "lon": 5.1698231536240895, 
+      "lat": 50.81454247727197, 
+      "lon": 5.169829033576802, 
       "municipality": "Sint-Truiden", 
       "pcode": "3800", 
       "source": "afgeleidVanPerceelGrb", 
@@ -651,8 +651,8 @@
         "150"
       ], 
       "housenumber": "150", 
-      "lat": 50.8145603113947, 
-      "lon": 5.169692683429887, 
+      "lat": 50.81453756711633, 
+      "lon": 5.169692579635435, 
       "municipality": "Sint-Truiden", 
       "pcode": "3800", 
       "source": "afgeleidVanPerceelGrb", 
@@ -805,12 +805,15 @@
       "street": "Tiensesteenweg"
     }, 
     {
+      "busnrs": [
+        "101"
+      ], 
       "hnrlbls": [
         "168"
       ], 
       "housenumber": "168", 
-      "lat": 50.81383835534717, 
-      "lon": 5.166512977107701, 
+      "lat": 50.813838859891675, 
+      "lon": 5.166518094156456, 
       "municipality": "Sint-Truiden", 
       "pcode": "3800", 
       "source": "afgeleidVanPerceelGrb", 
@@ -821,8 +824,8 @@
         "169"
       ], 
       "housenumber": "169", 
-      "lat": 50.815157118804905, 
-      "lon": 5.168146992715954, 
+      "lat": 50.815152891037634, 
+      "lon": 5.168147346524207, 
       "municipality": "Sint-Truiden", 
       "pcode": "3800", 
       "source": "afgeleidVanPerceelGrb", 
@@ -936,6 +939,23 @@
       "municipality": "Sint-Truiden", 
       "pcode": "3800", 
       "source": "afgeleidVanGebouw", 
+      "street": "Tiensesteenweg"
+    }, 
+    {
+      "busnrs": [
+        "101", 
+        "202", 
+        "203"
+      ], 
+      "hnrlbls": [
+        "184"
+      ], 
+      "housenumber": "184", 
+      "lat": 50.81384016444458, 
+      "lon": 5.163814876960987, 
+      "municipality": "Sint-Truiden", 
+      "pcode": "3800", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
       "street": "Tiensesteenweg"
     }, 
     {
@@ -1391,6 +1411,9 @@
       "street": "Tiensesteenweg"
     }, 
     {
+      "busnrs": [
+        "101"
+      ], 
       "hnrlbls": [
         "227A"
       ], 
@@ -1503,8 +1526,8 @@
         "238"
       ], 
       "housenumber": "238", 
-      "lat": 50.81318627215957, 
-      "lon": 5.1581872609145005, 
+      "lat": 50.81318820476955, 
+      "lon": 5.158207301306801, 
       "municipality": "Sint-Truiden", 
       "pcode": "3800", 
       "source": "afgeleidVanPerceelGrb", 
@@ -1966,8 +1989,8 @@
         "291"
       ], 
       "housenumber": "291", 
-      "lat": 50.81324667799778, 
-      "lon": 5.1538963575097165, 
+      "lat": 50.81321875093053, 
+      "lon": 5.153904972588716, 
       "municipality": "Sint-Truiden", 
       "pcode": "3800", 
       "source": "afgeleidVanPerceelGrb", 
@@ -2114,8 +2137,8 @@
         "32"
       ], 
       "housenumber": "32", 
-      "lat": 50.81520984672503, 
-      "lon": 5.180217475483517, 
+      "lat": 50.81520999897499, 
+      "lon": 5.180221451501833, 
       "municipality": "Sint-Truiden", 
       "pcode": "3800", 
       "source": "afgeleidVanPerceelGrb", 
@@ -2172,6 +2195,7 @@
     {
       "busnrs": [
         "1", 
+        "101", 
         "102", 
         "2", 
         "201", 
@@ -2224,6 +2248,7 @@
     }, 
     {
       "busnrs": [
+        "1", 
         "101", 
         "102", 
         "103", 
@@ -2396,6 +2421,7 @@
     }, 
     {
       "busnrs": [
+        "0OO1", 
         "101", 
         "201", 
         "301"
@@ -2580,7 +2606,8 @@
     }, 
     {
       "busnrs": [
-        "101"
+        "101", 
+        "OO1"
       ], 
       "hnrlbls": [
         "71"

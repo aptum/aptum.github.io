@@ -113,8 +113,8 @@
         "106"
       ], 
       "housenumber": "106", 
-      "lat": 51.25320064416168, 
-      "lon": 4.502621440050176, 
+      "lat": 51.253199106873105, 
+      "lon": 4.502629599848766, 
       "municipality": "Schoten", 
       "pcode": "2900", 
       "source": "afgeleidVanPerceelGrb", 
@@ -125,11 +125,11 @@
         "108"
       ], 
       "housenumber": "108", 
-      "lat": 51.25328115093842, 
-      "lon": 4.502567244197347, 
+      "lat": 51.253245162696814, 
+      "lon": 4.502677142783444, 
       "municipality": "Schoten", 
       "pcode": "2900", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Paalstraat"
     }, 
     {
@@ -2246,8 +2246,8 @@
         "309"
       ], 
       "housenumber": "309", 
-      "lat": 51.26029153312381, 
-      "lon": 4.50540271331716, 
+      "lat": 51.26029225334599, 
+      "lon": 4.505401712661963, 
       "municipality": "Schoten", 
       "pcode": "2900", 
       "source": "afgeleidVanPerceelGrb", 
@@ -2429,6 +2429,10 @@
       "street": "Paalstraat"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "343"
       ], 
@@ -2438,6 +2442,34 @@
       "municipality": "Schoten", 
       "pcode": "2900", 
       "source": "afgeleidVanGebouw", 
+      "street": "Paalstraat"
+    }, 
+    {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
+      "hnrlbls": [
+        "345"
+      ], 
+      "housenumber": "345", 
+      "lat": 51.26164357378671, 
+      "lon": 4.507468926625607, 
+      "municipality": "Schoten", 
+      "pcode": "2900", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Paalstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "347"
+      ], 
+      "housenumber": "347", 
+      "lat": 51.26173975118819, 
+      "lon": 4.50700792107061, 
+      "municipality": "Schoten", 
+      "pcode": "2900", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Paalstraat"
     }, 
     {
@@ -3324,6 +3356,7 @@
     }, 
     {
       "busnrs": [
+        "1", 
         "2"
       ], 
       "hnrlbls": [

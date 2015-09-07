@@ -65,6 +65,9 @@
       "street": "Nieuwstraat"
     }, 
     {
+      "apptnrs": [
+        "101"
+      ], 
       "busnrs": [
         "1"
       ], 
@@ -96,9 +99,8 @@
       "street": "Nieuwstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "101", 
-        "2", 
         "201"
       ], 
       "hnrlbls": [
@@ -141,8 +143,7 @@
       "street": "Nieuwstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
+      "apptnrs": [
         "2"
       ], 
       "hnrlbls": [
@@ -166,6 +167,22 @@
       "municipality": "Mol", 
       "pcode": "2400", 
       "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Nieuwstraat"
+    }, 
+    {
+      "apptnrs": [
+        "101", 
+        "102"
+      ], 
+      "hnrlbls": [
+        "23"
+      ], 
+      "housenumber": "23", 
+      "lat": 51.1825235307798, 
+      "lon": 5.110863904693573, 
+      "municipality": "Mol", 
+      "pcode": "2400", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Nieuwstraat"
     }, 
     {
@@ -599,6 +616,25 @@
       "municipality": "Mol", 
       "pcode": "2400", 
       "source": "manueleAanduidingVanGebouw", 
+      "street": "Nieuwstraat"
+    }, 
+    {
+      "apptnrs": [
+        "101", 
+        "201"
+      ], 
+      "busnrs": [
+        "1"
+      ], 
+      "hnrlbls": [
+        "9"
+      ], 
+      "housenumber": "9", 
+      "lat": 51.182850451534776, 
+      "lon": 5.111579648011939, 
+      "municipality": "Mol", 
+      "pcode": "2400", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Nieuwstraat"
     }
   ]

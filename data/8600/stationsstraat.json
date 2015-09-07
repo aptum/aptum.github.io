@@ -2,7 +2,7 @@
   "addresses": [
     {
       "hnrlbls": [
-        "1"
+        "1-1A"
       ], 
       "housenumber": "1", 
       "lat": 51.03296319605148, 
@@ -166,14 +166,14 @@
         "23"
       ], 
       "hnrlbls": [
-        "1A"
+        "1-1A"
       ], 
       "housenumber": "1A", 
-      "lat": 51.032963194236245, 
-      "lon": 2.868534938107671, 
+      "lat": 51.03296319605148, 
+      "lon": 2.8685350806368537, 
       "municipality": "Diksmuide", 
       "pcode": "8600", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Stationsstraat"
     }, 
     {
@@ -354,11 +354,11 @@
         "2B"
       ], 
       "housenumber": "2B", 
-      "lat": 51.03324380250128, 
-      "lon": 2.8685846958538375, 
+      "lat": 51.03324380431645, 
+      "lon": 2.8685848383838777, 
       "municipality": "Diksmuide", 
       "pcode": "8600", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Stationsstraat"
     }, 
     {
@@ -427,11 +427,11 @@
         "/zn-34"
       ], 
       "housenumber": "34", 
-      "lat": 51.03327919975499, 
-      "lon": 2.8677709512756073, 
+      "lat": 51.03324342521476, 
+      "lon": 2.867729321343846, 
       "municipality": "Diksmuide", 
       "pcode": "8600", 
-      "source": "afgeleidVanStraat", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Stationsstraat"
     }, 
     {
@@ -511,6 +511,18 @@
       "municipality": "Diksmuide", 
       "pcode": "8600", 
       "source": "afgeleidVanGebouw", 
+      "street": "Stationsstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "/zn-34"
+      ], 
+      "housenumber": "zn", 
+      "lat": 51.03324342521476, 
+      "lon": 2.867729321343846, 
+      "municipality": "Diksmuide", 
+      "pcode": "8600", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Stationsstraat"
     }
   ]

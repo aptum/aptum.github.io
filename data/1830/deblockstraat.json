@@ -64,7 +64,7 @@
       "lon": 4.433440363433249, 
       "municipality": "Machelen", 
       "pcode": "1830", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Deblockstraat"
     }, 
     {
@@ -153,7 +153,7 @@
     }, 
     {
       "hnrlbls": [
-        "2-2A"
+        "2-2B"
       ], 
       "housenumber": "2", 
       "lat": 50.90883988695645, 
@@ -161,6 +161,21 @@
       "municipality": "Machelen", 
       "pcode": "1830", 
       "source": "afgeleidVanGebouw", 
+      "street": "Deblockstraat"
+    }, 
+    {
+      "busnrs": [
+        "1"
+      ], 
+      "hnrlbls": [
+        "20"
+      ], 
+      "housenumber": "20", 
+      "lat": 50.908621711280546, 
+      "lon": 4.4336940478615094, 
+      "municipality": "Machelen", 
+      "pcode": "1830", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Deblockstraat"
     }, 
     {
@@ -261,7 +276,7 @@
     }, 
     {
       "hnrlbls": [
-        "2-2A"
+        "2-2B"
       ], 
       "housenumber": "2A", 
       "lat": 50.90883988695645, 
@@ -273,14 +288,14 @@
     }, 
     {
       "hnrlbls": [
-        "2B"
+        "2-2B"
       ], 
       "housenumber": "2B", 
-      "lat": 50.90883511056402, 
-      "lon": 4.433061923604585, 
+      "lat": 50.90883988695645, 
+      "lon": 4.433040176470793, 
       "municipality": "Machelen", 
       "pcode": "1830", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Deblockstraat"
     }, 
     {
@@ -332,6 +347,11 @@
       "street": "Deblockstraat"
     }, 
     {
+      "busnrs": [
+        "BS01", 
+        "BS02", 
+        "BS03"
+      ], 
       "hnrlbls": [
         "33"
       ], 
@@ -396,7 +416,10 @@
         "0.0"
       ], 
       "busnrs": [
-        "2"
+        "2", 
+        "BS01", 
+        "BS02", 
+        "BS03"
       ], 
       "hnrlbls": [
         "38"
@@ -434,6 +457,12 @@
       "street": "Deblockstraat"
     }, 
     {
+      "busnrs": [
+        "BS01", 
+        "BS02", 
+        "BS03", 
+        "BS04"
+      ], 
       "hnrlbls": [
         "40"
       ], 

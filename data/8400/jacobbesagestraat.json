@@ -85,6 +85,9 @@
       "street": "Jacob Besagestraat"
     }, 
     {
+      "busnrs": [
+        "2"
+      ], 
       "hnrlbls": [
         "15"
       ], 
@@ -138,7 +141,7 @@
         "3"
       ], 
       "hnrlbls": [
-        "19-19O"
+        "19"
       ], 
       "housenumber": "19", 
       "lat": 51.22930642913755, 
@@ -146,18 +149,6 @@
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
-      "street": "Jacob Besagestraat"
-    }, 
-    {
-      "hnrlbls": [
-        "19-19O"
-      ], 
-      "housenumber": "19O", 
-      "lat": 51.22930642913755, 
-      "lon": 2.9428528199514212, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Jacob Besagestraat"
     }, 
     {
@@ -270,7 +261,8 @@
       "busnrs": [
         "1", 
         "2", 
-        "3"
+        "3", 
+        "4"
       ], 
       "hnrlbls": [
         "29"
@@ -384,8 +376,8 @@
         "35"
       ], 
       "housenumber": "35", 
-      "lat": 51.23003751350118, 
-      "lon": 2.943107820597746, 
+      "lat": 51.23003758784466, 
+      "lon": 2.9431065296399224, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanPerceelGrb", 
@@ -429,7 +421,8 @@
     }, 
     {
       "busnrs": [
-        "2"
+        "2", 
+        "3"
       ], 
       "hnrlbls": [
         "39"
@@ -495,11 +488,11 @@
         "43"
       ], 
       "housenumber": "43", 
-      "lat": 51.23022068190258, 
-      "lon": 2.943156059780795, 
+      "lat": 51.230192498468185, 
+      "lon": 2.9429210911417805, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "geinterpoleerdObvWegverbinding", 
       "street": "Jacob Besagestraat"
     }, 
     {
@@ -543,11 +536,11 @@
         "47"
       ], 
       "housenumber": "47", 
-      "lat": 51.23028499454653, 
-      "lon": 2.9431961910880515, 
+      "lat": 51.23033442488758, 
+      "lon": 2.942971163393082, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "geinterpoleerdObvWegverbinding", 
       "street": "Jacob Besagestraat"
     }, 
     {
@@ -603,7 +596,8 @@
         "1", 
         "101", 
         "2", 
-        "201"
+        "201", 
+        "301"
       ], 
       "hnrlbls": [
         "5"
@@ -758,18 +752,6 @@
     }, 
     {
       "hnrlbls": [
-        "63"
-      ], 
-      "housenumber": "63", 
-      "lat": 51.23101888233657, 
-      "lon": 2.943467583637561, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Jacob Besagestraat"
-    }, 
-    {
-      "hnrlbls": [
         "64"
       ], 
       "housenumber": "64", 
@@ -785,11 +767,11 @@
         "67"
       ], 
       "housenumber": "67", 
-      "lat": 51.23158491525201, 
-      "lon": 2.9436783887701163, 
+      "lat": 51.23210712478697, 
+      "lon": 2.943796173438728, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Jacob Besagestraat"
     }, 
     {
@@ -821,7 +803,7 @@
     }, 
     {
       "hnrlbls": [
-        "1-346A"
+        "1A-346A"
       ], 
       "housenumber": "71", 
       "lat": 51.21019494141423, 
@@ -882,6 +864,7 @@
     {
       "busnrs": [
         "1", 
+        "2", 
         "3"
       ], 
       "hnrlbls": [
@@ -1046,6 +1029,7 @@
     {
       "busnrs": [
         "1", 
+        "101", 
         "102", 
         "2"
       ], 
@@ -1118,18 +1102,6 @@
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
-      "street": "Jacob Besagestraat"
-    }, 
-    {
-      "hnrlbls": [
-        "ZN"
-      ], 
-      "housenumber": "ZN", 
-      "lat": 51.23059219671923, 
-      "lon": 2.943092868524065, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "afgeleidVanStraat", 
       "street": "Jacob Besagestraat"
     }
   ]

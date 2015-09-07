@@ -25,8 +25,15 @@
       "street": "Heilaarstraat"
     }, 
     {
+      "busnrs": [
+        "B1", 
+        "B2", 
+        "B3", 
+        "B4", 
+        "B5"
+      ], 
       "hnrlbls": [
-        "12-12B"
+        "12"
       ], 
       "housenumber": "12", 
       "lat": 51.324992105303295, 
@@ -34,25 +41,6 @@
       "municipality": "Beerse", 
       "pcode": "2340", 
       "source": "afgeleidVanGebouw", 
-      "street": "Heilaarstraat"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5"
-      ], 
-      "hnrlbls": [
-        "12-12B"
-      ], 
-      "housenumber": "12B", 
-      "lat": 51.324992105303295, 
-      "lon": 4.855904608200382, 
-      "municipality": "Beerse", 
-      "pcode": "2340", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Heilaarstraat"
     }, 
     {
@@ -116,15 +104,12 @@
       "street": "Heilaarstraat"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
         "19"
       ], 
       "housenumber": "19", 
-      "lat": 51.32505598240002, 
-      "lon": 4.855234332796154, 
+      "lat": 51.32505946332449, 
+      "lon": 4.85531116644926, 
       "municipality": "Beerse", 
       "pcode": "2340", 
       "source": "afgeleidVanGebouw", 
@@ -143,15 +128,12 @@
       "street": "Heilaarstraat"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
         "20"
       ], 
       "housenumber": "20", 
-      "lat": 51.32530008639852, 
-      "lon": 4.855587785112487, 
+      "lat": 51.325257319451715, 
+      "lon": 4.855573644328577, 
       "municipality": "Beerse", 
       "pcode": "2340", 
       "source": "afgeleidVanGebouw", 
@@ -159,11 +141,11 @@
     }, 
     {
       "hnrlbls": [
-        "21-23"
+        "20_1"
       ], 
-      "housenumber": "21", 
-      "lat": 51.325179141907135, 
-      "lon": 4.855076098685084, 
+      "housenumber": "20_1", 
+      "lat": 51.325342816989114, 
+      "lon": 4.855601813708797, 
       "municipality": "Beerse", 
       "pcode": "2340", 
       "source": "afgeleidVanGebouw", 
@@ -171,21 +153,21 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5"
+        "B1", 
+        "B2", 
+        "B3", 
+        "B4", 
+        "B5"
       ], 
       "hnrlbls": [
-        "21B-23B"
+        "21"
       ], 
-      "housenumber": "21B", 
-      "lat": 51.32513426320015, 
-      "lon": 4.855126555942561, 
+      "housenumber": "21", 
+      "lat": 51.32513426492787, 
+      "lon": 4.855126613958836, 
       "municipality": "Beerse", 
       "pcode": "2340", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Heilaarstraat"
     }, 
     {
@@ -193,8 +175,8 @@
         "22"
       ], 
       "housenumber": "22", 
-      "lat": 51.32536106682331, 
-      "lon": 4.855577951793248, 
+      "lat": 51.32537925459834, 
+      "lon": 4.855553834783645, 
       "municipality": "Beerse", 
       "pcode": "2340", 
       "source": "afgeleidVanGebouw", 
@@ -202,34 +184,19 @@
     }, 
     {
       "busnrs": [
-        "3"
+        "B1", 
+        "B2", 
+        "B3"
       ], 
       "hnrlbls": [
-        "21-23"
+        "23"
       ], 
       "housenumber": "23", 
-      "lat": 51.325179141907135, 
-      "lon": 4.855076098685084, 
+      "lat": 51.32522394914431, 
+      "lon": 4.855025485071652, 
       "municipality": "Beerse", 
       "pcode": "2340", 
       "source": "afgeleidVanGebouw", 
-      "street": "Heilaarstraat"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3"
-      ], 
-      "hnrlbls": [
-        "21B-23B"
-      ], 
-      "housenumber": "23B", 
-      "lat": 51.32513426320015, 
-      "lon": 4.855126555942561, 
-      "municipality": "Beerse", 
-      "pcode": "2340", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Heilaarstraat"
     }, 
     {
@@ -285,11 +252,11 @@
         "28"
       ], 
       "housenumber": "28", 
-      "lat": 51.325534249294776, 
-      "lon": 4.855364293057755, 
+      "lat": 51.325492421024464, 
+      "lon": 4.855313858588134, 
       "municipality": "Beerse", 
       "pcode": "2340", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Heilaarstraat"
     }, 
     {
@@ -321,8 +288,8 @@
         "30"
       ], 
       "housenumber": "30", 
-      "lat": 51.325629687235754, 
-      "lon": 4.85523718469489, 
+      "lat": 51.32557609308263, 
+      "lon": 4.855274256878284, 
       "municipality": "Beerse", 
       "pcode": "2340", 
       "source": "afgeleidVanGebouw", 
@@ -357,11 +324,11 @@
         "33"
       ], 
       "housenumber": "33", 
-      "lat": 51.32560948742638, 
-      "lon": 4.854684516288475, 
+      "lat": 51.32563239493444, 
+      "lon": 4.85465547271031, 
       "municipality": "Beerse", 
       "pcode": "2340", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Heilaarstraat"
     }, 
     {
@@ -381,8 +348,8 @@
         "35"
       ], 
       "housenumber": "35", 
-      "lat": 51.32563243662241, 
-      "lon": 4.854655490895343, 
+      "lat": 51.3261187514144, 
+      "lon": 4.854210722851291, 
       "municipality": "Beerse", 
       "pcode": "2340", 
       "source": "afgeleidVanGebouw", 
@@ -395,18 +362,6 @@
       "housenumber": "36", 
       "lat": 51.325886232407946, 
       "lon": 4.855297398342705, 
-      "municipality": "Beerse", 
-      "pcode": "2340", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Heilaarstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "37"
-      ], 
-      "housenumber": "37", 
-      "lat": 51.32611872576339, 
-      "lon": 4.85421068815618, 
       "municipality": "Beerse", 
       "pcode": "2340", 
       "source": "afgeleidVanGebouw", 
@@ -429,8 +384,8 @@
         "39"
       ], 
       "housenumber": "39", 
-      "lat": 51.326459478363844, 
-      "lon": 4.854799425134046, 
+      "lat": 51.32637975323802, 
+      "lon": 4.854811748092539, 
       "municipality": "Beerse", 
       "pcode": "2340", 
       "source": "afgeleidVanGebouw", 
@@ -441,11 +396,11 @@
         "4"
       ], 
       "housenumber": "4", 
-      "lat": 51.32457738036653, 
-      "lon": 4.856365196427423, 
+      "lat": 51.32456452675394, 
+      "lon": 4.856248867810638, 
       "municipality": "Beerse", 
       "pcode": "2340", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Heilaarstraat"
     }, 
     {
@@ -465,11 +420,11 @@
         "41"
       ], 
       "housenumber": "41", 
-      "lat": 51.326379792201735, 
-      "lon": 4.8548117897292595, 
+      "lat": 51.32642238785213, 
+      "lon": 4.854862925675667, 
       "municipality": "Beerse", 
       "pcode": "2340", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Heilaarstraat"
     }, 
     {
@@ -477,8 +432,8 @@
         "42"
       ], 
       "housenumber": "42", 
-      "lat": 51.32615948731324, 
-      "lon": 4.855206581135981, 
+      "lat": 51.326170255553265, 
+      "lon": 4.855120544202309, 
       "municipality": "Beerse", 
       "pcode": "2340", 
       "source": "afgeleidVanGebouw", 
@@ -489,20 +444,20 @@
         "43"
       ], 
       "housenumber": "43", 
-      "lat": 51.326475830066265, 
-      "lon": 4.854910491343551, 
+      "lat": 51.326447372255515, 
+      "lon": 4.854907373080362, 
       "municipality": "Beerse", 
       "pcode": "2340", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Heilaarstraat"
     }, 
     {
       "hnrlbls": [
-        "44-46"
+        "44"
       ], 
       "housenumber": "44", 
-      "lat": 51.326190574162446, 
-      "lon": 4.8552314383004, 
+      "lat": 51.32623235138509, 
+      "lon": 4.855170188025391, 
       "municipality": "Beerse", 
       "pcode": "2340", 
       "source": "afgeleidVanGebouw", 
@@ -513,59 +468,47 @@
         "45"
       ], 
       "housenumber": "45", 
-      "lat": 51.326519009547894, 
-      "lon": 4.854967323345261, 
+      "lat": 51.326487716693016, 
+      "lon": 4.854930198090707, 
       "municipality": "Beerse", 
       "pcode": "2340", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Heilaarstraat"
     }, 
     {
       "hnrlbls": [
-        "44-46"
-      ], 
-      "housenumber": "46", 
-      "lat": 51.326190574162446, 
-      "lon": 4.8552314383004, 
-      "municipality": "Beerse", 
-      "pcode": "2340", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Heilaarstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "47-49"
+        "47"
       ], 
       "housenumber": "47", 
-      "lat": 51.32662191723067, 
-      "lon": 4.854859656900756, 
+      "lat": 51.32651898429491, 
+      "lon": 4.854976719815312, 
       "municipality": "Beerse", 
       "pcode": "2340", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Heilaarstraat"
     }, 
     {
       "hnrlbls": [
-        "48-50"
+        "48"
       ], 
       "housenumber": "48", 
-      "lat": 51.32630666488193, 
-      "lon": 4.855305962194848, 
+      "lat": 51.32630788439652, 
+      "lon": 4.855241156486964, 
       "municipality": "Beerse", 
       "pcode": "2340", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Heilaarstraat"
     }, 
     {
       "hnrlbls": [
-        "47-49"
+        "49"
       ], 
       "housenumber": "49", 
-      "lat": 51.32662191723067, 
-      "lon": 4.854859656900756, 
+      "lat": 51.32656540093426, 
+      "lon": 4.855011349435417, 
       "municipality": "Beerse", 
       "pcode": "2340", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Heilaarstraat"
     }, 
     {
@@ -582,14 +525,14 @@
     }, 
     {
       "hnrlbls": [
-        "48-50"
+        "50"
       ], 
       "housenumber": "50", 
-      "lat": 51.32630666488193, 
-      "lon": 4.855305962194848, 
+      "lat": 51.32634798471617, 
+      "lon": 4.855281745406886, 
       "municipality": "Beerse", 
       "pcode": "2340", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Heilaarstraat"
     }, 
     {
@@ -597,11 +540,11 @@
         "51"
       ], 
       "housenumber": "51", 
-      "lat": 51.32665066259727, 
-      "lon": 4.855016904299963, 
+      "lat": 51.32663055994038, 
+      "lon": 4.855078310696094, 
       "municipality": "Beerse", 
       "pcode": "2340", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Heilaarstraat"
     }, 
     {
@@ -641,8 +584,12 @@
       "street": "Heilaarstraat"
     }, 
     {
+      "busnrs": [
+        "B1", 
+        "B2"
+      ], 
       "hnrlbls": [
-        "55-55B"
+        "55"
       ], 
       "housenumber": "55", 
       "lat": 51.326803260670765, 
@@ -653,31 +600,15 @@
       "street": "Heilaarstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
-      "hnrlbls": [
-        "55-55B"
-      ], 
-      "housenumber": "55B", 
-      "lat": 51.326803260670765, 
-      "lon": 4.855262673506301, 
-      "municipality": "Beerse", 
-      "pcode": "2340", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Heilaarstraat"
-    }, 
-    {
       "hnrlbls": [
         "56"
       ], 
       "housenumber": "56", 
-      "lat": 51.32656382867205, 
-      "lon": 4.855587256946732, 
+      "lat": 51.32661235855823, 
+      "lon": 4.855501917851793, 
       "municipality": "Beerse", 
       "pcode": "2340", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Heilaarstraat"
     }, 
     {
@@ -697,11 +628,11 @@
         "58"
       ], 
       "housenumber": "58", 
-      "lat": 51.326646215141025, 
-      "lon": 4.855617673376439, 
+      "lat": 51.32667000882344, 
+      "lon": 4.8555587588693765, 
       "municipality": "Beerse", 
       "pcode": "2340", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Heilaarstraat"
     }, 
     {
@@ -724,8 +655,8 @@
         "6"
       ], 
       "housenumber": "6", 
-      "lat": 51.3249825947487, 
-      "lon": 4.856576887263168, 
+      "lat": 51.324861481852984, 
+      "lon": 4.856292154264572, 
       "municipality": "Beerse", 
       "pcode": "2340", 
       "source": "afgeleidVanGebouw", 
@@ -733,19 +664,19 @@
     }, 
     {
       "hnrlbls": [
-        "2B-60"
+        "60"
       ], 
       "housenumber": "60", 
-      "lat": 51.32668733314687, 
-      "lon": 4.855694856151332, 
+      "lat": 51.32672765905998, 
+      "lon": 4.855615600027841, 
       "municipality": "Beerse", 
       "pcode": "2340", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Heilaarstraat"
     }, 
     {
       "hnrlbls": [
-        "62-64"
+        "62"
       ], 
       "housenumber": "62", 
       "lat": 51.32700812877981, 
@@ -757,19 +688,19 @@
     }, 
     {
       "hnrlbls": [
-        "62-64"
+        "64"
       ], 
       "housenumber": "64", 
-      "lat": 51.32700812877981, 
-      "lon": 4.855824178823894, 
+      "lat": 51.327031389609395, 
+      "lon": 4.855807580281764, 
       "municipality": "Beerse", 
       "pcode": "2340", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Heilaarstraat"
     }, 
     {
       "hnrlbls": [
-        "66-66B"
+        "66"
       ], 
       "housenumber": "66", 
       "lat": 51.32711622133758, 
@@ -777,23 +708,6 @@
       "municipality": "Beerse", 
       "pcode": "2340", 
       "source": "afgeleidVanGebouw", 
-      "street": "Heilaarstraat"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3"
-      ], 
-      "hnrlbls": [
-        "66-66B"
-      ], 
-      "housenumber": "66B", 
-      "lat": 51.32711622133758, 
-      "lon": 4.855832772262823, 
-      "municipality": "Beerse", 
-      "pcode": "2340", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Heilaarstraat"
     }, 
     {
@@ -806,18 +720,6 @@
       "municipality": "Beerse", 
       "pcode": "2340", 
       "source": "afgeleidVanGebouw", 
-      "street": "Heilaarstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "9"
-      ], 
-      "housenumber": "9", 
-      "lat": 51.324622005442734, 
-      "lon": 4.855350146917863, 
-      "municipality": "Beerse", 
-      "pcode": "2340", 
-      "source": "afgeleidVanPerceelGrb", 
       "street": "Heilaarstraat"
     }
   ]

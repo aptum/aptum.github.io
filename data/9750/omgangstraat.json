@@ -2,14 +2,14 @@
   "addresses": [
     {
       "hnrlbls": [
-        "1-1B"
+        "1"
       ], 
       "housenumber": "1", 
-      "lat": 50.90472088476657, 
-      "lon": 3.658372004473383, 
+      "lat": 50.904683369187985, 
+      "lon": 3.658115393693547, 
       "municipality": "Zingem", 
       "pcode": "9750", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Omgangstraat"
     }, 
     {
@@ -537,8 +537,8 @@
         "141A"
       ], 
       "housenumber": "141A", 
-      "lat": 50.89689031231371, 
-      "lon": 3.652414935217281, 
+      "lat": 50.896892324542065, 
+      "lon": 3.6524205906187, 
       "municipality": "Zingem", 
       "pcode": "9750", 
       "source": "afgeleidVanPerceelGrb", 
@@ -573,8 +573,20 @@
         "144"
       ], 
       "housenumber": "144", 
-      "lat": 50.897592638164156, 
-      "lon": 3.65613349440841, 
+      "lat": 50.897704257471034, 
+      "lon": 3.656203475482975, 
+      "municipality": "Zingem", 
+      "pcode": "9750", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Omgangstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "144A"
+      ], 
+      "housenumber": "144A", 
+      "lat": 50.89764823458545, 
+      "lon": 3.6561631984173992, 
       "municipality": "Zingem", 
       "pcode": "9750", 
       "source": "afgeleidVanGebouw", 
@@ -582,26 +594,14 @@
     }, 
     {
       "hnrlbls": [
-        "144A-144B"
-      ], 
-      "housenumber": "144A", 
-      "lat": 50.89770126525049, 
-      "lon": 3.6561978069242262, 
-      "municipality": "Zingem", 
-      "pcode": "9750", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Omgangstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "144A-144B"
+        "144B"
       ], 
       "housenumber": "144B", 
-      "lat": 50.89770126525049, 
-      "lon": 3.6561978069242262, 
+      "lat": 50.89760369943334, 
+      "lon": 3.6561177335509814, 
       "municipality": "Zingem", 
       "pcode": "9750", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Omgangstraat"
     }, 
     {
@@ -722,18 +722,6 @@
       "municipality": "Zingem", 
       "pcode": "9750", 
       "source": "afgeleidVanGebouw", 
-      "street": "Omgangstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "162"
-      ], 
-      "housenumber": "162", 
-      "lat": 50.89722899661964, 
-      "lon": 3.6546961579392723, 
-      "municipality": "Zingem", 
-      "pcode": "9750", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Omgangstraat"
     }, 
     {
@@ -882,26 +870,74 @@
     }, 
     {
       "hnrlbls": [
-        "1-1B"
+        "1A"
       ], 
       "housenumber": "1A", 
-      "lat": 50.90472088476657, 
-      "lon": 3.658372004473383, 
+      "lat": 50.904764167186926, 
+      "lon": 3.6581450209999296, 
       "municipality": "Zingem", 
       "pcode": "9750", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Omgangstraat"
     }, 
     {
       "hnrlbls": [
-        "1-1B"
+        "1B"
       ], 
       "housenumber": "1B", 
-      "lat": 50.90472088476657, 
-      "lon": 3.658372004473383, 
+      "lat": 50.90483133458592, 
+      "lon": 3.658221633405249, 
       "municipality": "Zingem", 
       "pcode": "9750", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Omgangstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "1C"
+      ], 
+      "housenumber": "1C", 
+      "lat": 50.90478924925622, 
+      "lon": 3.65854671495005, 
+      "municipality": "Zingem", 
+      "pcode": "9750", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Omgangstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "1D"
+      ], 
+      "housenumber": "1D", 
+      "lat": 50.90467646921999, 
+      "lon": 3.658628037637887, 
+      "municipality": "Zingem", 
+      "pcode": "9750", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Omgangstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "1E"
+      ], 
+      "housenumber": "1E", 
+      "lat": 50.90457015766488, 
+      "lon": 3.6585301215060424, 
+      "municipality": "Zingem", 
+      "pcode": "9750", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Omgangstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "1F"
+      ], 
+      "housenumber": "1F", 
+      "lat": 50.904610423804826, 
+      "lon": 3.65832051529824, 
+      "municipality": "Zingem", 
+      "pcode": "9750", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Omgangstraat"
     }, 
     {
@@ -1473,11 +1509,11 @@
         "63"
       ], 
       "housenumber": "63", 
-      "lat": 50.89934205872417, 
-      "lon": 3.659955214400661, 
+      "lat": 50.899208054628474, 
+      "lon": 3.65996078928272, 
       "municipality": "Zingem", 
       "pcode": "9750", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Omgangstraat"
     }, 
     {

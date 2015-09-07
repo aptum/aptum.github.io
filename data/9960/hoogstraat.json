@@ -133,15 +133,19 @@
       "street": "Hoogstraat"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "19"
       ], 
       "housenumber": "19", 
-      "lat": 51.22848798876745, 
-      "lon": 3.7547681862274898, 
+      "lat": 51.228490107494764, 
+      "lon": 3.75476572589299, 
       "municipality": "Assenede", 
       "pcode": "9960", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Hoogstraat"
     }, 
     {
@@ -251,8 +255,8 @@
         "26"
       ], 
       "housenumber": "26", 
-      "lat": 51.228138385724726, 
-      "lon": 3.754640362394233, 
+      "lat": 51.22812147828954, 
+      "lon": 3.754612447588126, 
       "municipality": "Assenede", 
       "pcode": "9960", 
       "source": "afgeleidVanGebouw", 
@@ -299,8 +303,8 @@
         "3"
       ], 
       "housenumber": "3", 
-      "lat": 51.22814441655002, 
-      "lon": 3.753776169637269, 
+      "lat": 51.228086075843436, 
+      "lon": 3.753861563573814, 
       "municipality": "Assenede", 
       "pcode": "9960", 
       "source": "afgeleidVanGebouw", 
@@ -350,8 +354,8 @@
         "32"
       ], 
       "housenumber": "32", 
-      "lat": 51.22820942591158, 
-      "lon": 3.7547847351868664, 
+      "lat": 51.22824096574355, 
+      "lon": 3.754814307228402, 
       "municipality": "Assenede", 
       "pcode": "9960", 
       "source": "afgeleidVanGebouw", 
@@ -398,11 +402,11 @@
         "35"
       ], 
       "housenumber": "35", 
-      "lat": 51.22903503441453, 
-      "lon": 3.754940658754422, 
+      "lat": 51.229017534221605, 
+      "lon": 3.754807318195531, 
       "municipality": "Assenede", 
       "pcode": "9960", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Hoogstraat"
     }, 
     {
@@ -591,7 +595,7 @@
     }, 
     {
       "hnrlbls": [
-        "44-44C"
+        "44"
       ], 
       "housenumber": "44", 
       "lat": 51.22840879192557, 
@@ -603,38 +607,38 @@
     }, 
     {
       "hnrlbls": [
-        "44-44C"
+        "44A-44C"
       ], 
       "housenumber": "44A", 
-      "lat": 51.22840879192557, 
-      "lon": 3.7553564734337783, 
+      "lat": 51.22840877843165, 
+      "lon": 3.7553564941832964, 
       "municipality": "Assenede", 
       "pcode": "9960", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Hoogstraat"
     }, 
     {
       "hnrlbls": [
-        "44-44C"
+        "44A-44C"
       ], 
       "housenumber": "44B", 
-      "lat": 51.22840879192557, 
-      "lon": 3.7553564734337783, 
+      "lat": 51.22840877843165, 
+      "lon": 3.7553564941832964, 
       "municipality": "Assenede", 
       "pcode": "9960", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Hoogstraat"
     }, 
     {
       "hnrlbls": [
-        "44-44C"
+        "44A-44C"
       ], 
       "housenumber": "44C", 
-      "lat": 51.22840879192557, 
-      "lon": 3.7553564734337783, 
+      "lat": 51.22840877843165, 
+      "lon": 3.7553564941832964, 
       "municipality": "Assenede", 
       "pcode": "9960", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Hoogstraat"
     }, 
     {
@@ -763,11 +767,11 @@
         "53"
       ], 
       "housenumber": "53", 
-      "lat": 51.22922904030168, 
-      "lon": 3.7559703142767096, 
+      "lat": 51.22926525671432, 
+      "lon": 3.7558841801048857, 
       "municipality": "Assenede", 
       "pcode": "9960", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Hoogstraat"
     }, 
     {
@@ -808,23 +812,11 @@
         "57"
       ], 
       "housenumber": "57", 
-      "lat": 51.22934265770794, 
-      "lon": 3.756213632251001, 
+      "lat": 51.22930987119469, 
+      "lon": 3.7560646148160903, 
       "municipality": "Assenede", 
       "pcode": "9960", 
       "source": "afgeleidVanGebouw", 
-      "street": "Hoogstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "57A"
-      ], 
-      "housenumber": "57A", 
-      "lat": 51.22930988691424, 
-      "lon": 3.756064599668551, 
-      "municipality": "Assenede", 
-      "pcode": "9960", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Hoogstraat"
     }, 
     {
@@ -845,12 +837,16 @@
       "street": "Hoogstraat"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "59"
       ], 
       "housenumber": "59", 
-      "lat": 51.22944269197491, 
-      "lon": 3.756385547659901, 
+      "lat": 51.22939938310315, 
+      "lon": 3.756384383958938, 
       "municipality": "Assenede", 
       "pcode": "9960", 
       "source": "afgeleidVanGebouw", 
@@ -946,8 +942,8 @@
         "65"
       ], 
       "housenumber": "65", 
-      "lat": 51.22961396870997, 
-      "lon": 3.756463329265305, 
+      "lat": 51.22961399196733, 
+      "lon": 3.7564633551954536, 
       "municipality": "Assenede", 
       "pcode": "9960", 
       "source": "afgeleidVanGebouw", 
@@ -958,23 +954,8 @@
         "66"
       ], 
       "housenumber": "66", 
-      "lat": 51.229003409832394, 
-      "lon": 3.7566624612140957, 
-      "municipality": "Assenede", 
-      "pcode": "9960", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Hoogstraat"
-    }, 
-    {
-      "busnrs": [
-        "6"
-      ], 
-      "hnrlbls": [
-        "67"
-      ], 
-      "housenumber": "67", 
-      "lat": 51.229580975501776, 
-      "lon": 3.7566883869202603, 
+      "lat": 51.22908328288894, 
+      "lon": 3.7576124440250886, 
       "municipality": "Assenede", 
       "pcode": "9960", 
       "source": "afgeleidVanPerceelGrb", 
@@ -982,11 +963,23 @@
     }, 
     {
       "hnrlbls": [
+        "67-69"
+      ], 
+      "housenumber": "67", 
+      "lat": 51.22972897421507, 
+      "lon": 3.7566321162920024, 
+      "municipality": "Assenede", 
+      "pcode": "9960", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Hoogstraat"
+    }, 
+    {
+      "hnrlbls": [
         "68"
       ], 
       "housenumber": "68", 
-      "lat": 51.22926714322324, 
-      "lon": 3.7566114721559396, 
+      "lat": 51.22926711282274, 
+      "lon": 3.756611446513771, 
       "municipality": "Assenede", 
       "pcode": "9960", 
       "source": "afgeleidVanGebouw", 
@@ -995,18 +988,17 @@
     {
       "busnrs": [
         "1", 
-        "2", 
-        "3"
+        "2"
       ], 
       "hnrlbls": [
-        "69"
+        "67-69"
       ], 
       "housenumber": "69", 
-      "lat": 51.229617181253666, 
-      "lon": 3.756789129350747, 
+      "lat": 51.22972897421507, 
+      "lon": 3.7566321162920024, 
       "municipality": "Assenede", 
       "pcode": "9960", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Hoogstraat"
     }, 
     {
@@ -1023,7 +1015,7 @@
     }, 
     {
       "hnrlbls": [
-        "70-70A"
+        "70"
       ], 
       "housenumber": "70", 
       "lat": 51.22921360742545, 
@@ -1035,14 +1027,14 @@
     }, 
     {
       "hnrlbls": [
-        "70-70A"
+        "70A"
       ], 
       "housenumber": "70A", 
-      "lat": 51.22921360742545, 
-      "lon": 3.7568619940841987, 
+      "lat": 51.22921357115151, 
+      "lon": 3.756861927240636, 
       "municipality": "Assenede", 
       "pcode": "9960", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Hoogstraat"
     }, 
     {
@@ -1050,8 +1042,8 @@
         "71"
       ], 
       "housenumber": "71", 
-      "lat": 51.22961253345501, 
-      "lon": 3.7568985679010343, 
+      "lat": 51.22961251356875, 
+      "lon": 3.7568986331359238, 
       "municipality": "Assenede", 
       "pcode": "9960", 
       "source": "afgeleidVanGebouw", 
@@ -1074,11 +1066,11 @@
         "73"
       ], 
       "housenumber": "73", 
-      "lat": 51.22972899784546, 
-      "lon": 3.756632186243912, 
+      "lat": 51.22972840161044, 
+      "lon": 3.756847227540728, 
       "municipality": "Assenede", 
       "pcode": "9960", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Hoogstraat"
     }, 
     {
@@ -1278,8 +1270,8 @@
         "92"
       ], 
       "housenumber": "92", 
-      "lat": 51.22963788850351, 
-      "lon": 3.7578050392973337, 
+      "lat": 51.2296378905561, 
+      "lon": 3.7578051043086624, 
       "municipality": "Assenede", 
       "pcode": "9960", 
       "source": "afgeleidVanGebouw", 
@@ -1295,18 +1287,6 @@
       "municipality": "Assenede", 
       "pcode": "9960", 
       "source": "afgeleidVanGebouw", 
-      "street": "Hoogstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "95"
-      ], 
-      "housenumber": "95", 
-      "lat": 51.228818465469494, 
-      "lon": 3.755645716575109, 
-      "municipality": "Assenede", 
-      "pcode": "9960", 
-      "source": "afgeleidVanStraat", 
       "street": "Hoogstraat"
     }, 
     {

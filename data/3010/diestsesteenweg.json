@@ -124,8 +124,13 @@
       "street": "Diestsesteenweg"
     }, 
     {
+      "apptnrs": [
+        "0101", 
+        "0201"
+      ], 
       "busnrs": [
-        "2"
+        "0001", 
+        "0002"
       ], 
       "hnrlbls": [
         "105"
@@ -183,7 +188,7 @@
     }, 
     {
       "hnrlbls": [
-        "109"
+        "109-109A"
       ], 
       "housenumber": "109", 
       "lat": 50.884074352035164, 
@@ -194,15 +199,19 @@
       "street": "Diestsesteenweg"
     }, 
     {
+      "busnrs": [
+        "0101", 
+        "0201"
+      ], 
       "hnrlbls": [
-        "109A"
+        "109-109A"
       ], 
       "housenumber": "109A", 
-      "lat": 50.8842064959212, 
-      "lon": 4.720339546767152, 
+      "lat": 50.884074352035164, 
+      "lon": 4.720368824671977, 
       "municipality": "Leuven", 
       "pcode": "3010", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Diestsesteenweg"
     }, 
     {
@@ -387,6 +396,13 @@
       "street": "Diestsesteenweg"
     }, 
     {
+      "apptnrs": [
+        "0001", 
+        "0002"
+      ], 
+      "busnrs": [
+        "0003"
+      ], 
       "hnrlbls": [
         "125"
       ], 
@@ -444,6 +460,12 @@
       "street": "Diestsesteenweg"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0201", 
+        "0301"
+      ], 
       "hnrlbls": [
         "129"
       ], 
@@ -873,11 +895,43 @@
     }, 
     {
       "hnrlbls": [
+        "160-162"
+      ], 
+      "housenumber": "160", 
+      "lat": 50.883965786172, 
+      "lon": 4.727010270491945, 
+      "municipality": "Leuven", 
+      "pcode": "3010", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Diestsesteenweg"
+    }, 
+    {
+      "hnrlbls": [
         "161"
       ], 
       "housenumber": "161", 
       "lat": 50.88418475970158, 
       "lon": 4.723018977352282, 
+      "municipality": "Leuven", 
+      "pcode": "3010", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Diestsesteenweg"
+    }, 
+    {
+      "apptnrs": [
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302"
+      ], 
+      "hnrlbls": [
+        "160-162"
+      ], 
+      "housenumber": "162", 
+      "lat": 50.883965786172, 
+      "lon": 4.727010270491945, 
       "municipality": "Leuven", 
       "pcode": "3010", 
       "source": "afgeleidVanGebouw", 
@@ -896,17 +950,6 @@
       "street": "Diestsesteenweg"
     }, 
     {
-      "apptnrs": [
-        "11", 
-        "12", 
-        "21", 
-        "22", 
-        "31", 
-        "32"
-      ], 
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
         "164"
       ], 
@@ -1364,9 +1407,9 @@
         "0101"
       ], 
       "busnrs": [
+        "0201", 
         "0202", 
-        "0301", 
-        "201"
+        "0301"
       ], 
       "hnrlbls": [
         "2"
@@ -2061,6 +2104,12 @@
       "street": "Diestsesteenweg"
     }, 
     {
+      "apptnrs": [
+        "0101"
+      ], 
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "253"
       ], 
@@ -3535,18 +3584,17 @@
         "0103", 
         "0201", 
         "0202", 
-        "0301", 
-        "0302"
+        "0301"
       ], 
       "hnrlbls": [
         "4"
       ], 
       "housenumber": "4", 
-      "lat": 50.884303613955886, 
-      "lon": 4.715989051892082, 
+      "lat": 50.88432722217429, 
+      "lon": 4.715998793050464, 
       "municipality": "Leuven", 
       "pcode": "3010", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Diestsesteenweg"
     }, 
     {
@@ -3592,11 +3640,13 @@
       "street": "Diestsesteenweg"
     }, 
     {
+      "apptnrs": [
+        "0001", 
+        "0101", 
+        "0201"
+      ], 
       "busnrs": [
-        "0301", 
-        "1", 
-        "101", 
-        "201"
+        "0301"
       ], 
       "hnrlbls": [
         "41"
@@ -3969,12 +4019,12 @@
     }, 
     {
       "apptnrs": [
-        "1", 
-        "11", 
-        "12", 
-        "2", 
-        "21", 
-        "22"
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202"
       ], 
       "hnrlbls": [
         "441"
@@ -4012,12 +4062,12 @@
     }, 
     {
       "apptnrs": [
-        "1", 
-        "11", 
-        "12", 
-        "2", 
-        "21", 
-        "22"
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202"
       ], 
       "hnrlbls": [
         "445"
@@ -4044,12 +4094,12 @@
     }, 
     {
       "apptnrs": [
-        "1", 
-        "11", 
-        "12", 
-        "2", 
-        "21", 
-        "22"
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202"
       ], 
       "hnrlbls": [
         "447"
@@ -5227,11 +5277,11 @@
         "571A"
       ], 
       "housenumber": "571A", 
-      "lat": 50.88666517803055, 
-      "lon": 4.742538580162218, 
+      "lat": 50.88657876570368, 
+      "lon": 4.742601666870837, 
       "municipality": "Leuven", 
       "pcode": "3010", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Diestsesteenweg"
     }, 
     {
@@ -5330,13 +5380,13 @@
     }, 
     {
       "apptnrs": [
-        "0002", 
-        "0111", 
-        "0221", 
-        "0331"
+        "0002"
       ], 
       "busnrs": [
-        "0001"
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
       ], 
       "hnrlbls": [
         "58"
@@ -5388,7 +5438,7 @@
     {
       "busnrs": [
         "0201", 
-        "202"
+        "0202"
       ], 
       "hnrlbls": [
         "587-589"
@@ -7055,6 +7105,10 @@
       "street": "Diestsesteenweg"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0201"
+      ], 
       "hnrlbls": [
         "743"
       ], 
@@ -7417,12 +7471,12 @@
     }, 
     {
       "apptnrs": [
+        "0101", 
         "0201"
       ], 
       "busnrs": [
         "0001", 
-        "0002", 
-        "101"
+        "0002"
       ], 
       "hnrlbls": [
         "8"
@@ -7514,10 +7568,8 @@
     }, 
     {
       "apptnrs": [
-        "0101"
-      ], 
-      "busnrs": [
-        "201"
+        "0101", 
+        "0201"
       ], 
       "hnrlbls": [
         "84A"
@@ -7646,9 +7698,9 @@
     }, 
     {
       "busnrs": [
+        "0101", 
         "0102", 
-        "0201", 
-        "101"
+        "0201"
       ], 
       "hnrlbls": [
         "92A"
@@ -7662,6 +7714,10 @@
       "street": "Diestsesteenweg"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "93"
       ], 

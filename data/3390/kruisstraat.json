@@ -1,6 +1,10 @@
 {
   "addresses": [
     {
+      "apptnrs": [
+        "5", 
+        "7"
+      ], 
       "busnrs": [
         "1", 
         "11", 
@@ -88,7 +92,7 @@
     }, 
     {
       "hnrlbls": [
-        "15-15A"
+        "15"
       ], 
       "housenumber": "15", 
       "lat": 50.93583509744372, 
@@ -96,18 +100,6 @@
       "municipality": "Tielt-Winge", 
       "pcode": "3390", 
       "source": "afgeleidVanGebouw", 
-      "street": "Kruisstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "15-15A"
-      ], 
-      "housenumber": "15A", 
-      "lat": 50.93583509744372, 
-      "lon": 4.911497569533126, 
-      "municipality": "Tielt-Winge", 
-      "pcode": "3390", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Kruisstraat"
     }, 
     {
@@ -187,11 +179,11 @@
         "22"
       ], 
       "housenumber": "22", 
-      "lat": 50.935357732952006, 
-      "lon": 4.912065512415411, 
+      "lat": 50.93528158097754, 
+      "lon": 4.911970734386519, 
       "municipality": "Tielt-Winge", 
       "pcode": "3390", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Kruisstraat"
     }, 
     {
@@ -240,6 +232,18 @@
       "municipality": "Tielt-Winge", 
       "pcode": "3390", 
       "source": "afgeleidVanGebouw", 
+      "street": "Kruisstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "28A"
+      ], 
+      "housenumber": "28A", 
+      "lat": 50.935005492204525, 
+      "lon": 4.912460479908374, 
+      "municipality": "Tielt-Winge", 
+      "pcode": "3390", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kruisstraat"
     }, 
     {
@@ -309,7 +313,7 @@
     }, 
     {
       "hnrlbls": [
-        "32-32A"
+        "32"
       ], 
       "housenumber": "32", 
       "lat": 50.934898308084435, 
@@ -321,14 +325,14 @@
     }, 
     {
       "hnrlbls": [
-        "32-32A"
+        "32A"
       ], 
       "housenumber": "32A", 
-      "lat": 50.934898308084435, 
-      "lon": 4.913571599147329, 
+      "lat": 50.934755404971014, 
+      "lon": 4.913603796388351, 
       "municipality": "Tielt-Winge", 
       "pcode": "3390", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kruisstraat"
     }, 
     {
@@ -372,11 +376,11 @@
         "36A"
       ], 
       "housenumber": "36A", 
-      "lat": 50.93444696369227, 
-      "lon": 4.914302703385946, 
+      "lat": 50.93437752347284, 
+      "lon": 4.914253525680801, 
       "municipality": "Tielt-Winge", 
       "pcode": "3390", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Kruisstraat"
     }, 
     {
@@ -393,7 +397,7 @@
     }, 
     {
       "hnrlbls": [
-        "38-38C"
+        "38-38B"
       ], 
       "housenumber": "38", 
       "lat": 50.93426290615813, 
@@ -405,26 +409,14 @@
     }, 
     {
       "hnrlbls": [
-        "38-38C"
+        "38-38B"
       ], 
       "housenumber": "38B", 
       "lat": 50.93426290615813, 
       "lon": 4.914582381918422, 
       "municipality": "Tielt-Winge", 
       "pcode": "3390", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Kruisstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "38-38C"
-      ], 
-      "housenumber": "38C", 
-      "lat": 50.93426290615813, 
-      "lon": 4.914582381918422, 
-      "municipality": "Tielt-Winge", 
-      "pcode": "3390", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Kruisstraat"
     }, 
     {
@@ -437,21 +429,6 @@
       "municipality": "Tielt-Winge", 
       "pcode": "3390", 
       "source": "afgeleidVanGebouw", 
-      "street": "Kruisstraat"
-    }, 
-    {
-      "busnrs": [
-        "24"
-      ], 
-      "hnrlbls": [
-        "4"
-      ], 
-      "housenumber": "4", 
-      "lat": 50.935913669353866, 
-      "lon": 4.909900535154636, 
-      "municipality": "Tielt-Winge", 
-      "pcode": "3390", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Kruisstraat"
     }, 
     {
@@ -540,30 +517,6 @@
     }, 
     {
       "hnrlbls": [
-        "/zn-60B"
-      ], 
-      "housenumber": "56", 
-      "lat": 50.93551725103669, 
-      "lon": 4.911686942864409, 
-      "municipality": "Tielt-Winge", 
-      "pcode": "3390", 
-      "source": "afgeleidVanStraat", 
-      "street": "Kruisstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "/zn-60B"
-      ], 
-      "housenumber": "58", 
-      "lat": 50.93551725103669, 
-      "lon": 4.911686942864409, 
-      "municipality": "Tielt-Winge", 
-      "pcode": "3390", 
-      "source": "afgeleidVanStraat", 
-      "street": "Kruisstraat"
-    }, 
-    {
-      "hnrlbls": [
         "5-5B"
       ], 
       "housenumber": "5A", 
@@ -587,18 +540,11 @@
       "street": "Kruisstraat"
     }, 
     {
-      "hnrlbls": [
-        "/zn-60B"
+      "busnrs": [
+        "2", 
+        "3", 
+        "7"
       ], 
-      "housenumber": "60B", 
-      "lat": 50.93551725103669, 
-      "lon": 4.911686942864409, 
-      "municipality": "Tielt-Winge", 
-      "pcode": "3390", 
-      "source": "afgeleidVanStraat", 
-      "street": "Kruisstraat"
-    }, 
-    {
       "hnrlbls": [
         "7"
       ], 

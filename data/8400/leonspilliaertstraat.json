@@ -14,7 +14,7 @@
     }, 
     {
       "hnrlbls": [
-        "10-10A"
+        "10"
       ], 
       "housenumber": "10", 
       "lat": 51.228953362626605, 
@@ -26,11 +26,11 @@
     }, 
     {
       "hnrlbls": [
-        "10-10A"
+        "10A"
       ], 
       "housenumber": "10A", 
-      "lat": 51.228953362626605, 
-      "lon": 2.911765516550151, 
+      "lat": 51.22893309493185, 
+      "lon": 2.911725771567893, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
@@ -64,7 +64,7 @@
         "9"
       ], 
       "hnrlbls": [
-        "2-13"
+        "13"
       ], 
       "housenumber": "13", 
       "lat": 51.228396145578856, 
@@ -79,11 +79,11 @@
         "15"
       ], 
       "housenumber": "15", 
-      "lat": 51.228335725544625, 
-      "lon": 2.9117859576983234, 
+      "lat": 51.22836244362804, 
+      "lon": 2.911882941488427, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Leon Spilliaertstraat"
     }, 
     {
@@ -103,11 +103,11 @@
         "18"
       ], 
       "housenumber": "18", 
-      "lat": 51.22793668440821, 
-      "lon": 2.91270104287862, 
+      "lat": 51.227073811220706, 
+      "lon": 2.913448947228152, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Leon Spilliaertstraat"
     }, 
     {
@@ -269,8 +269,8 @@
         "31A"
       ], 
       "housenumber": "31A", 
-      "lat": 51.22763513588282, 
-      "lon": 2.91170632891788, 
+      "lat": 51.22763567860661, 
+      "lon": 2.911706598324223, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
@@ -301,6 +301,7 @@
         "10", 
         "11", 
         "13", 
+        "1A", 
         "2", 
         "3", 
         "4", 
@@ -321,21 +322,6 @@
       "street": "Leon Spilliaertstraat"
     }, 
     {
-      "busnrs": [
-        "A"
-      ], 
-      "hnrlbls": [
-        "37-39"
-      ], 
-      "housenumber": "37_1", 
-      "lat": 51.22752635341725, 
-      "lon": 2.9123559019405105, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Leon Spilliaertstraat"
-    }, 
-    {
       "hnrlbls": [
         "37-39"
       ], 
@@ -350,12 +336,15 @@
     {
       "busnrs": [
         "1", 
+        "10", 
         "101", 
         "102", 
         "201", 
         "21", 
         "22", 
         "3", 
+        "301", 
+        "401", 
         "402", 
         "7"
       ], 
@@ -381,12 +370,13 @@
         "201", 
         "3", 
         "4", 
+        "4A", 
         "6", 
         "8", 
         "9"
       ], 
       "hnrlbls": [
-        "41-41_4"
+        "41"
       ], 
       "housenumber": "41", 
       "lat": 51.22748564525014, 
@@ -394,21 +384,6 @@
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
-      "street": "Leon Spilliaertstraat"
-    }, 
-    {
-      "busnrs": [
-        "A"
-      ], 
-      "hnrlbls": [
-        "41-41_4"
-      ], 
-      "housenumber": "41_4", 
-      "lat": 51.22748564525014, 
-      "lon": 2.9126640090839637, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Leon Spilliaertstraat"
     }, 
     {
@@ -449,6 +424,7 @@
         "2", 
         "3", 
         "4", 
+        "401", 
         "5", 
         "7", 
         "8"
@@ -570,6 +546,10 @@
       "street": "Leon Spilliaertstraat"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "6"
       ], 
@@ -662,6 +642,9 @@
       "street": "Leon Spilliaertstraat"
     }, 
     {
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "71"
       ], 
@@ -723,6 +706,9 @@
       "street": "Leon Spilliaertstraat"
     }, 
     {
+      "busnrs": [
+        "3"
+      ], 
       "hnrlbls": [
         "79"
       ], 
@@ -757,6 +743,7 @@
       "busnrs": [
         "1", 
         "2", 
+        "201", 
         "3"
       ], 
       "hnrlbls": [
@@ -832,6 +819,7 @@
     }, 
     {
       "busnrs": [
+        "101", 
         "2"
       ], 
       "hnrlbls": [

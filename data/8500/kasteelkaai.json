@@ -21,7 +21,7 @@
       "lon": 3.2626262685440413, 
       "municipality": "Kortrijk", 
       "pcode": "8500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kasteelkaai"
     }, 
     {
@@ -33,7 +33,7 @@
       "lon": 3.2626262685440413, 
       "municipality": "Kortrijk", 
       "pcode": "8500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kasteelkaai"
     }, 
     {
@@ -46,18 +46,6 @@
       "municipality": "Kortrijk", 
       "pcode": "8500", 
       "source": "afgeleidVanGebouw", 
-      "street": "Kasteelkaai"
-    }, 
-    {
-      "hnrlbls": [
-        "29"
-      ], 
-      "housenumber": "29", 
-      "lat": 50.82914363547775, 
-      "lon": 3.2611439524993444, 
-      "municipality": "Kortrijk", 
-      "pcode": "8500", 
-      "source": "geinterpoleerdObvWegverbinding", 
       "street": "Kasteelkaai"
     }, 
     {
@@ -110,6 +98,7 @@
     }, 
     {
       "busnrs": [
+        "1", 
         "11", 
         "21", 
         "31"

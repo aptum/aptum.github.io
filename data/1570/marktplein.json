@@ -44,11 +44,11 @@
         "12"
       ], 
       "housenumber": "12", 
-      "lat": 50.75323506204068, 
-      "lon": 3.969941810589096, 
+      "lat": 50.75328546432905, 
+      "lon": 3.9704087566368966, 
       "municipality": "Galmaarden", 
       "pcode": "1570", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Marktplein"
     }, 
     {
@@ -224,18 +224,6 @@
     }, 
     {
       "hnrlbls": [
-        "25"
-      ], 
-      "housenumber": "25", 
-      "lat": 50.75417918909204, 
-      "lon": 3.9703154728675125, 
-      "municipality": "Galmaarden", 
-      "pcode": "1570", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Marktplein"
-    }, 
-    {
-      "hnrlbls": [
         "26"
       ], 
       "housenumber": "26", 
@@ -355,6 +343,10 @@
       "street": "Marktplein"
     }, 
     {
+      "apptnrs": [
+        "BUS1", 
+        "BUS2"
+      ], 
       "hnrlbls": [
         "36"
       ], 
@@ -423,16 +415,16 @@
         "40"
       ], 
       "housenumber": "40", 
-      "lat": 50.754184220431505, 
-      "lon": 3.969574536563835, 
+      "lat": 50.754071241634186, 
+      "lon": 3.9698192441750715, 
       "municipality": "Galmaarden", 
       "pcode": "1570", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Marktplein"
     }, 
     {
       "hnrlbls": [
-        "41-41B"
+        "41"
       ], 
       "housenumber": "41", 
       "lat": 50.754806913919516, 
@@ -448,26 +440,26 @@
         "2"
       ], 
       "hnrlbls": [
-        "41A-43"
+        "41A"
       ], 
       "housenumber": "41A", 
-      "lat": 50.75502618806383, 
-      "lon": 3.96893463770296, 
+      "lat": 50.75493441854045, 
+      "lon": 3.9690978250519704, 
       "municipality": "Galmaarden", 
       "pcode": "1570", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Marktplein"
     }, 
     {
       "hnrlbls": [
-        "41-41B"
+        "41B"
       ], 
       "housenumber": "41B", 
-      "lat": 50.754806913919516, 
-      "lon": 3.969326929938906, 
+      "lat": 50.754925858772, 
+      "lon": 3.968986648352945, 
       "municipality": "Galmaarden", 
       "pcode": "1570", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Marktplein"
     }, 
     {
@@ -478,14 +470,14 @@
         "4"
       ], 
       "hnrlbls": [
-        "41A-43"
+        "41C"
       ], 
       "housenumber": "41C", 
-      "lat": 50.75502618806383, 
-      "lon": 3.96893463770296, 
+      "lat": 50.75500807113721, 
+      "lon": 3.968894401316045, 
       "municipality": "Galmaarden", 
       "pcode": "1570", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Marktplein"
     }, 
     {
@@ -502,14 +494,14 @@
     }, 
     {
       "hnrlbls": [
-        "41A-43"
+        "43"
       ], 
       "housenumber": "43", 
-      "lat": 50.75502618806383, 
-      "lon": 3.96893463770296, 
+      "lat": 50.754979701703036, 
+      "lon": 3.9688529763869664, 
       "municipality": "Galmaarden", 
       "pcode": "1570", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Marktplein"
     }, 
     {
@@ -517,11 +509,11 @@
         "44"
       ], 
       "housenumber": "44", 
-      "lat": 50.754339633260095, 
-      "lon": 3.969647339699433, 
+      "lat": 50.75432696726277, 
+      "lon": 3.969544560350607, 
       "municipality": "Galmaarden", 
       "pcode": "1570", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Marktplein"
     }, 
     {
@@ -586,7 +578,8 @@
     }, 
     {
       "busnrs": [
-        "2"
+        "2", 
+        "3"
       ], 
       "hnrlbls": [
         "5"
@@ -700,6 +693,9 @@
       "street": "Marktplein"
     }, 
     {
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "64"
       ], 
@@ -737,22 +733,18 @@
     }, 
     {
       "busnrs": [
-        "01", 
-        "02", 
-        "03", 
-        "04", 
-        "05", 
-        "2", 
-        "3", 
-        "4", 
-        "5"
+        "BUS1", 
+        "BUS2", 
+        "BUS3", 
+        "BUS4", 
+        "BUS5"
       ], 
       "hnrlbls": [
         "68"
       ], 
       "housenumber": "68", 
-      "lat": 50.754944678645074, 
-      "lon": 3.968310773691329, 
+      "lat": 50.75491901194834, 
+      "lon": 3.9683237462147876, 
       "municipality": "Galmaarden", 
       "pcode": "1570", 
       "source": "afgeleidVanGebouw", 

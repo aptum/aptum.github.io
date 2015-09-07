@@ -1,6 +1,11 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3"
+      ], 
       "hnrlbls": [
         "10-12"
       ], 
@@ -64,18 +69,15 @@
       "street": "Kioskplaats"
     }, 
     {
-      "busnrs": [
-        "2"
-      ], 
       "hnrlbls": [
-        "107-109"
+        "107B"
       ], 
       "housenumber": "107B", 
-      "lat": 51.177046952438396, 
-      "lon": 4.3497030595728265, 
+      "lat": 51.17704615632234, 
+      "lon": 4.349704787305569, 
       "municipality": "Antwerpen", 
       "pcode": "2660", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kioskplaats"
     }, 
     {
@@ -208,6 +210,18 @@
     }, 
     {
       "hnrlbls": [
+        "125"
+      ], 
+      "housenumber": "125", 
+      "lat": 51.17732476956256, 
+      "lon": 4.349751924695004, 
+      "municipality": "Antwerpen", 
+      "pcode": "2660", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Kioskplaats"
+    }, 
+    {
+      "hnrlbls": [
         "13"
       ], 
       "housenumber": "13", 
@@ -283,11 +297,11 @@
         "2"
       ], 
       "housenumber": "2", 
-      "lat": 51.17460528030833, 
-      "lon": 4.351355420981666, 
+      "lat": 51.174654045450865, 
+      "lon": 4.351435278293817, 
       "municipality": "Antwerpen", 
       "pcode": "2660", 
-      "source": "geinterpoleerdObvWegverbinding", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kioskplaats"
     }, 
     {
@@ -477,7 +491,7 @@
         "1"
       ], 
       "hnrlbls": [
-        "34-34A"
+        "34"
       ], 
       "housenumber": "34", 
       "lat": 51.17536763273425, 
@@ -489,14 +503,14 @@
     }, 
     {
       "hnrlbls": [
-        "34-34A"
+        "34A"
       ], 
       "housenumber": "34A", 
-      "lat": 51.17536763273425, 
-      "lon": 4.350964061828944, 
+      "lat": 51.175365545264334, 
+      "lon": 4.350961781852536, 
       "municipality": "Antwerpen", 
       "pcode": "2660", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kioskplaats"
     }, 
     {
@@ -712,11 +726,11 @@
         "49"
       ], 
       "housenumber": "49", 
-      "lat": 51.17553879464235, 
-      "lon": 4.349893834321163, 
+      "lat": 51.1756561418572, 
+      "lon": 4.350140896676771, 
       "municipality": "Antwerpen", 
       "pcode": "2660", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kioskplaats"
     }, 
     {
@@ -796,7 +810,8 @@
     }, 
     {
       "busnrs": [
-        "1"
+        "1", 
+        "2"
       ], 
       "hnrlbls": [
         "56-58"
@@ -835,9 +850,14 @@
     }, 
     {
       "busnrs": [
+        "1", 
+        "2", 
+        "3", 
         "4", 
         "5", 
-        "6"
+        "6", 
+        "7", 
+        "8"
       ], 
       "hnrlbls": [
         "60-62"
@@ -956,18 +976,15 @@
       "street": "Kioskplaats"
     }, 
     {
-      "busnrs": [
-        "R"
-      ], 
       "hnrlbls": [
-        "68-70"
+        "68_1"
       ], 
       "housenumber": "68_1", 
-      "lat": 51.17619012055741, 
-      "lon": 4.350596833632802, 
+      "lat": 51.17619860304013, 
+      "lon": 4.350463551301255, 
       "municipality": "Antwerpen", 
       "pcode": "2660", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kioskplaats"
     }, 
     {
@@ -1156,7 +1173,7 @@
         "8"
       ], 
       "hnrlbls": [
-        "3-80B"
+        "3-80"
       ], 
       "housenumber": "80", 
       "lat": 51.17656969151259, 
@@ -1168,14 +1185,14 @@
     }, 
     {
       "hnrlbls": [
-        "3-80B"
+        "80B"
       ], 
       "housenumber": "80B", 
-      "lat": 51.17656969151259, 
-      "lon": 4.350494877859396, 
+      "lat": 51.176532127750825, 
+      "lon": 4.350394056415326, 
       "municipality": "Antwerpen", 
       "pcode": "2660", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kioskplaats"
     }, 
     {
@@ -1340,6 +1357,15 @@
       "street": "Kioskplaats"
     }, 
     {
+      "busnrs": [
+        "02", 
+        "11", 
+        "12", 
+        "21", 
+        "22", 
+        "31", 
+        "32"
+      ], 
       "hnrlbls": [
         "95-101"
       ], 
@@ -1352,18 +1378,15 @@
       "street": "Kioskplaats"
     }, 
     {
-      "busnrs": [
-        "L"
-      ], 
       "hnrlbls": [
-        "95-101"
+        "97_2"
       ], 
       "housenumber": "97_2", 
-      "lat": 51.17683986308807, 
-      "lon": 4.349745468333677, 
+      "lat": 51.17683883168599, 
+      "lon": 4.349748578937895, 
       "municipality": "Antwerpen", 
       "pcode": "2660", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kioskplaats"
     }, 
     {

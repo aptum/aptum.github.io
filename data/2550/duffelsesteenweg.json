@@ -249,15 +249,12 @@
       "street": "Duffelsesteenweg"
     }, 
     {
-      "apptnrs": [
-        "3.0"
-      ], 
       "busnrs": [
-        "102", 
-        "2", 
-        "201", 
-        "3", 
-        "301"
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301"
       ], 
       "hnrlbls": [
         "12"
@@ -285,6 +282,9 @@
     {
       "apptnrs": [
         "1.0"
+      ], 
+      "busnrs": [
+        "Glvl"
       ], 
       "hnrlbls": [
         "121"
@@ -431,7 +431,8 @@
     }, 
     {
       "busnrs": [
-        "0001"
+        "0001", 
+        "Glvl"
       ], 
       "hnrlbls": [
         "137"
@@ -1134,6 +1135,18 @@
       "municipality": "Kontich", 
       "pcode": "2550", 
       "source": "afgeleidVanGebouw", 
+      "street": "Duffelsesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "200"
+      ], 
+      "housenumber": "200", 
+      "lat": 51.12072759368962, 
+      "lon": 4.466502865118887, 
+      "municipality": "Kontich", 
+      "pcode": "2550", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Duffelsesteenweg"
     }, 
     {
@@ -2436,7 +2449,8 @@
       "busnrs": [
         "0001", 
         "0101", 
-        "0201"
+        "0201", 
+        "Glvl"
       ], 
       "hnrlbls": [
         "5"

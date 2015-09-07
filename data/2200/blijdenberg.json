@@ -1,15 +1,27 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "001", 
+        "101", 
+        "102", 
+        "103", 
+        "201", 
+        "202", 
+        "203", 
+        "301", 
+        "302", 
+        "303"
+      ], 
       "hnrlbls": [
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 51.179473454990315, 
-      "lon": 4.831039699372883, 
+      "lat": 51.179554622542625, 
+      "lon": 4.832047858392585, 
       "municipality": "Herentals", 
       "pcode": "2200", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Blijdenberg"
     }, 
     {
@@ -29,11 +41,11 @@
         "11"
       ], 
       "housenumber": "11", 
-      "lat": 51.1794010169844, 
-      "lon": 4.830325369378925, 
+      "lat": 51.179473454990315, 
+      "lon": 4.831039699372883, 
       "municipality": "Herentals", 
       "pcode": "2200", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Blijdenberg"
     }, 
     {
@@ -49,15 +61,23 @@
       "street": "Blijdenberg"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "101", 
+        "102", 
+        "2", 
+        "201", 
+        "202"
+      ], 
       "hnrlbls": [
         "13"
       ], 
       "housenumber": "13", 
-      "lat": 51.17939795540141, 
-      "lon": 4.830257839145989, 
+      "lat": 51.17947473568286, 
+      "lon": 4.8308046060673755, 
       "municipality": "Herentals", 
       "pcode": "2200", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Blijdenberg"
     }, 
     {
@@ -65,8 +85,8 @@
         "15"
       ], 
       "housenumber": "15", 
-      "lat": 51.17939655531882, 
-      "lon": 4.830179170729352, 
+      "lat": 51.179376038220596, 
+      "lon": 4.830552505023648, 
       "municipality": "Herentals", 
       "pcode": "2200", 
       "source": "afgeleidVanGebouw", 
@@ -77,8 +97,8 @@
         "17"
       ], 
       "housenumber": "17", 
-      "lat": 51.179386001434736, 
-      "lon": 4.83011971780582, 
+      "lat": 51.17940947252885, 
+      "lon": 4.830461597048109, 
       "municipality": "Herentals", 
       "pcode": "2200", 
       "source": "afgeleidVanGebouw", 
@@ -89,11 +109,11 @@
         "18"
       ], 
       "housenumber": "18", 
-      "lat": 51.17963354202195, 
-      "lon": 4.830305649173363, 
+      "lat": 51.179555109289055, 
+      "lon": 4.830318744174593, 
       "municipality": "Herentals", 
       "pcode": "2200", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Blijdenberg"
     }, 
     {
@@ -101,8 +121,8 @@
         "19"
       ], 
       "housenumber": "19", 
-      "lat": 51.179394415188334, 
-      "lon": 4.830059880643786, 
+      "lat": 51.179400938760786, 
+      "lon": 4.8303912954254775, 
       "municipality": "Herentals", 
       "pcode": "2200", 
       "source": "afgeleidVanGebouw", 
@@ -125,11 +145,11 @@
         "20"
       ], 
       "housenumber": "20", 
-      "lat": 51.17957234274738, 
-      "lon": 4.830210228172659, 
+      "lat": 51.17955193582478, 
+      "lon": 4.830210884143521, 
       "municipality": "Herentals", 
       "pcode": "2200", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Blijdenberg"
     }, 
     {
@@ -137,8 +157,44 @@
         "21"
       ], 
       "housenumber": "21", 
-      "lat": 51.179392516347924, 
-      "lon": 4.829993792030618, 
+      "lat": 51.1794010169844, 
+      "lon": 4.830325369378925, 
+      "municipality": "Herentals", 
+      "pcode": "2200", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Blijdenberg"
+    }, 
+    {
+      "hnrlbls": [
+        "23"
+      ], 
+      "housenumber": "23", 
+      "lat": 51.17939795540141, 
+      "lon": 4.830257839145989, 
+      "municipality": "Herentals", 
+      "pcode": "2200", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Blijdenberg"
+    }, 
+    {
+      "hnrlbls": [
+        "24"
+      ], 
+      "housenumber": "24", 
+      "lat": 51.179536106091895, 
+      "lon": 4.830006510963529, 
+      "municipality": "Herentals", 
+      "pcode": "2200", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Blijdenberg"
+    }, 
+    {
+      "hnrlbls": [
+        "25"
+      ], 
+      "housenumber": "25", 
+      "lat": 51.17939655531882, 
+      "lon": 4.830179170729352, 
       "municipality": "Herentals", 
       "pcode": "2200", 
       "source": "afgeleidVanGebouw", 
@@ -149,28 +205,44 @@
         "26"
       ], 
       "housenumber": "26", 
-      "lat": 51.179571823110784, 
-      "lon": 4.830044332807139, 
+      "lat": 51.17953619500359, 
+      "lon": 4.829983773460395, 
+      "municipality": "Herentals", 
+      "pcode": "2200", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Blijdenberg"
+    }, 
+    {
+      "hnrlbls": [
+        "27"
+      ], 
+      "housenumber": "27", 
+      "lat": 51.179386001434736, 
+      "lon": 4.83011971780582, 
       "municipality": "Herentals", 
       "pcode": "2200", 
       "source": "afgeleidVanGebouw", 
       "street": "Blijdenberg"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "101", 
-        "102", 
-        "2", 
-        "201", 
-        "202"
-      ], 
       "hnrlbls": [
-        "1-301"
+        "29"
       ], 
-      "housenumber": "3", 
-      "lat": 51.178885209640626, 
-      "lon": 4.830655897094775, 
+      "housenumber": "29", 
+      "lat": 51.179394415188334, 
+      "lon": 4.830059880643786, 
+      "municipality": "Herentals", 
+      "pcode": "2200", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Blijdenberg"
+    }, 
+    {
+      "hnrlbls": [
+        "31"
+      ], 
+      "housenumber": "31", 
+      "lat": 51.179392516347924, 
+      "lon": 4.829993792030618, 
       "municipality": "Herentals", 
       "pcode": "2200", 
       "source": "afgeleidVanGebouw", 
@@ -190,35 +262,11 @@
     }, 
     {
       "hnrlbls": [
-        "5"
-      ], 
-      "housenumber": "5", 
-      "lat": 51.179376038220596, 
-      "lon": 4.830552505023648, 
-      "municipality": "Herentals", 
-      "pcode": "2200", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Blijdenberg"
-    }, 
-    {
-      "hnrlbls": [
         "6"
       ], 
       "housenumber": "6", 
       "lat": 51.17963393209788, 
       "lon": 4.830734108016389, 
-      "municipality": "Herentals", 
-      "pcode": "2200", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Blijdenberg"
-    }, 
-    {
-      "hnrlbls": [
-        "7"
-      ], 
-      "housenumber": "7", 
-      "lat": 51.17940947252885, 
-      "lon": 4.830461597048109, 
       "municipality": "Herentals", 
       "pcode": "2200", 
       "source": "afgeleidVanGebouw", 
@@ -237,15 +285,21 @@
       "street": "Blijdenberg"
     }, 
     {
+      "busnrs": [
+        "101", 
+        "102", 
+        "201", 
+        "202"
+      ], 
       "hnrlbls": [
         "9"
       ], 
       "housenumber": "9", 
-      "lat": 51.179400938760786, 
-      "lon": 4.8303912954254775, 
+      "lat": 51.1795098229961, 
+      "lon": 4.831507412372422, 
       "municipality": "Herentals", 
       "pcode": "2200", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Blijdenberg"
     }
   ]

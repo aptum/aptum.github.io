@@ -1,18 +1,27 @@
 {
   "addresses": [
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 51.08432685691942, 
-      "lon": 4.821449639217471, 
+      "lat": 51.08210953859045, 
+      "lon": 4.82150626632873, 
       "municipality": "Westerlo", 
       "pcode": "2260", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Kempische Ardennen"
+    }, 
+    {
+      "hnrlbls": [
+        "1_1"
+      ], 
+      "housenumber": "1_1", 
+      "lat": 51.08688296772086, 
+      "lon": 4.8227825695680755, 
+      "municipality": "Westerlo", 
+      "pcode": "2260", 
+      "source": "afgeleidVanGebouw", 
       "street": "Kempische Ardennen"
     }, 
     {
@@ -29,18 +38,6 @@
     }, 
     {
       "hnrlbls": [
-        "3"
-      ], 
-      "housenumber": "3", 
-      "lat": 51.078990102553114, 
-      "lon": 4.819428773462452, 
-      "municipality": "Westerlo", 
-      "pcode": "2260", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
-      "street": "Kempische Ardennen"
-    }, 
-    {
-      "hnrlbls": [
         "4"
       ], 
       "housenumber": "4", 
@@ -49,18 +46,6 @@
       "municipality": "Westerlo", 
       "pcode": "2260", 
       "source": "afgeleidVanGebouw", 
-      "street": "Kempische Ardennen"
-    }, 
-    {
-      "hnrlbls": [
-        "8-43"
-      ], 
-      "housenumber": "43", 
-      "lat": 51.086234282631075, 
-      "lon": 4.821530502044376, 
-      "municipality": "Westerlo", 
-      "pcode": "2260", 
-      "source": "afgeleidVanStraat", 
       "street": "Kempische Ardennen"
     }, 
     {
@@ -78,17 +63,14 @@
         "5"
       ], 
       "housenumber": "5", 
-      "lat": 51.07603023783147, 
-      "lon": 4.817865700476036, 
+      "lat": 51.07603027210958, 
+      "lon": 4.817865735687877, 
       "municipality": "Westerlo", 
       "pcode": "2260", 
       "source": "afgeleidVanGebouw", 
       "street": "Kempische Ardennen"
     }, 
     {
-      "busnrs": [
-        "3"
-      ], 
       "hnrlbls": [
         "6"
       ], 
@@ -102,14 +84,14 @@
     }, 
     {
       "hnrlbls": [
-        "8-43"
+        "8"
       ], 
       "housenumber": "8", 
-      "lat": 51.086234282631075, 
-      "lon": 4.821530502044376, 
+      "lat": 51.076062691069026, 
+      "lon": 4.817367314853706, 
       "municipality": "Westerlo", 
       "pcode": "2260", 
-      "source": "afgeleidVanStraat", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kempische Ardennen"
     }
   ]

@@ -203,6 +203,7 @@
         "4", 
         "401", 
         "402", 
+        "403", 
         "404", 
         "405", 
         "406", 
@@ -221,6 +222,7 @@
         "603", 
         "604", 
         "605", 
+        "606", 
         "607", 
         "7", 
         "701", 
@@ -573,15 +575,19 @@
       "street": "Zwartzustersvest"
     }, 
     {
+      "busnrs": [
+        "52/0100", 
+        "52/0200"
+      ], 
       "hnrlbls": [
-        "19-52"
+        "52"
       ], 
       "housenumber": "52", 
-      "lat": 51.02917469704099, 
-      "lon": 4.488114202093834, 
+      "lat": 51.029313171259055, 
+      "lon": 4.488239736483337, 
       "municipality": "Mechelen", 
       "pcode": "2800", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Zwartzustersvest"
     }, 
     {

@@ -28,9 +28,6 @@
       "apptnrs": [
         "2.0"
       ], 
-      "busnrs": [
-        "2"
-      ], 
       "hnrlbls": [
         "12"
       ], 
@@ -56,26 +53,16 @@
     }, 
     {
       "busnrs": [
-        "2"
+        "1", 
+        "2", 
+        "3"
       ], 
       "hnrlbls": [
         "16"
       ], 
       "housenumber": "16", 
-      "lat": 51.22930442964543, 
-      "lon": 4.509647704321864, 
-      "municipality": "Wijnegem", 
-      "pcode": "2110", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "De Wijngaardstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "18"
-      ], 
-      "housenumber": "18", 
-      "lat": 51.229128964126566, 
-      "lon": 4.509583036486523, 
+      "lat": 51.2291354992395, 
+      "lon": 4.509675123582805, 
       "municipality": "Wijnegem", 
       "pcode": "2110", 
       "source": "afgeleidVanGebouw", 
@@ -88,14 +75,14 @@
         "3"
       ], 
       "hnrlbls": [
-        "18b"
+        "18"
       ], 
-      "housenumber": "18b", 
-      "lat": 51.22912878401712, 
-      "lon": 4.509583322256403, 
+      "housenumber": "18", 
+      "lat": 51.229128964126566, 
+      "lon": 4.509583036486523, 
       "municipality": "Wijnegem", 
       "pcode": "2110", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "De Wijngaardstraat"
     }, 
     {
@@ -286,29 +273,14 @@
         "2"
       ], 
       "hnrlbls": [
-        "36-40"
+        "36"
       ], 
       "housenumber": "36", 
-      "lat": 51.22903050262123, 
-      "lon": 4.508635890462534, 
+      "lat": 51.22904173777702, 
+      "lon": 4.50871966115234, 
       "municipality": "Wijnegem", 
       "pcode": "2110", 
       "source": "afgeleidVanGebouw", 
-      "street": "De Wijngaardstraat"
-    }, 
-    {
-      "busnrs": [
-        "2"
-      ], 
-      "hnrlbls": [
-        "36b"
-      ], 
-      "housenumber": "36b", 
-      "lat": 51.22901927683247, 
-      "lon": 4.508552109193773, 
-      "municipality": "Wijnegem", 
-      "pcode": "2110", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "De Wijngaardstraat"
     }, 
     {
@@ -325,32 +297,18 @@
     }, 
     {
       "busnrs": [
-        "2"
+        "2", 
+        "glvR"
       ], 
       "hnrlbls": [
-        "36-40"
+        "38-40"
       ], 
       "housenumber": "38", 
-      "lat": 51.22903050262123, 
-      "lon": 4.508635890462534, 
+      "lat": 51.22901930704204, 
+      "lon": 4.508552178605046, 
       "municipality": "Wijnegem", 
       "pcode": "2110", 
       "source": "afgeleidVanGebouw", 
-      "street": "De Wijngaardstraat"
-    }, 
-    {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "38R-40L"
-      ], 
-      "housenumber": "38R", 
-      "lat": 51.229041728350595, 
-      "lon": 4.508719671771642, 
-      "municipality": "Wijnegem", 
-      "pcode": "2110", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "De Wijngaardstraat"
     }, 
     {
@@ -367,7 +325,7 @@
     }, 
     {
       "hnrlbls": [
-        "4-4A"
+        "4"
       ], 
       "housenumber": "4", 
       "lat": 51.22918207879296, 
@@ -379,32 +337,21 @@
     }, 
     {
       "apptnrs": [
+        "1.0", 
         "2.0"
       ], 
+      "busnrs": [
+        "GLVL"
+      ], 
       "hnrlbls": [
-        "36-40"
+        "38-40"
       ], 
       "housenumber": "40", 
-      "lat": 51.22903050262123, 
-      "lon": 4.508635890462534, 
+      "lat": 51.22901930704204, 
+      "lon": 4.508552178605046, 
       "municipality": "Wijnegem", 
       "pcode": "2110", 
       "source": "afgeleidVanGebouw", 
-      "street": "De Wijngaardstraat"
-    }, 
-    {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "38R-40L"
-      ], 
-      "housenumber": "40L", 
-      "lat": 51.229041728350595, 
-      "lon": 4.508719671771642, 
-      "municipality": "Wijnegem", 
-      "pcode": "2110", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "De Wijngaardstraat"
     }, 
     {
@@ -424,8 +371,11 @@
         "1.0", 
         "2.0"
       ], 
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
-        "42-42b"
+        "42"
       ], 
       "housenumber": "42", 
       "lat": 51.22899474178983, 
@@ -433,21 +383,6 @@
       "municipality": "Wijnegem", 
       "pcode": "2110", 
       "source": "afgeleidVanGebouw", 
-      "street": "De Wijngaardstraat"
-    }, 
-    {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "42-42b"
-      ], 
-      "housenumber": "42b", 
-      "lat": 51.22899474178983, 
-      "lon": 4.508397997349607, 
-      "municipality": "Wijnegem", 
-      "pcode": "2110", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "De Wijngaardstraat"
     }, 
     {
@@ -476,11 +411,9 @@
     }, 
     {
       "apptnrs": [
-        "2.0"
-      ], 
-      "busnrs": [
-        "1", 
-        "2"
+        "1.0", 
+        "2.0", 
+        "glvl"
       ], 
       "hnrlbls": [
         "46"
@@ -509,6 +442,10 @@
       "apptnrs": [
         "2.0"
       ], 
+      "busnrs": [
+        "2", 
+        "GLVL"
+      ], 
       "hnrlbls": [
         "48-50"
       ], 
@@ -518,21 +455,6 @@
       "municipality": "Wijnegem", 
       "pcode": "2110", 
       "source": "afgeleidVanGebouw", 
-      "street": "De Wijngaardstraat"
-    }, 
-    {
-      "busnrs": [
-        "2"
-      ], 
-      "hnrlbls": [
-        "48-50"
-      ], 
-      "housenumber": "48b", 
-      "lat": 51.228953279660566, 
-      "lon": 4.508192297969281, 
-      "municipality": "Wijnegem", 
-      "pcode": "2110", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "De Wijngaardstraat"
     }, 
     {
@@ -549,14 +471,14 @@
     }, 
     {
       "hnrlbls": [
-        "4-4A"
+        "4A"
       ], 
       "housenumber": "4A", 
-      "lat": 51.22918207879296, 
-      "lon": 4.510262914215809, 
+      "lat": 51.22918205534797, 
+      "lon": 4.510262971699486, 
       "municipality": "Wijnegem", 
       "pcode": "2110", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "De Wijngaardstraat"
     }, 
     {
@@ -649,6 +571,7 @@
     }, 
     {
       "busnrs": [
+        "1", 
         "bus 1", 
         "bus 2"
       ], 
@@ -680,6 +603,9 @@
       "street": "De Wijngaardstraat"
     }, 
     {
+      "apptnrs": [
+        "glvl"
+      ], 
       "busnrs": [
         "3"
       ], 
@@ -689,21 +615,6 @@
       "housenumber": "6", 
       "lat": 51.22918912182019, 
       "lon": 4.510161436317092, 
-      "municipality": "Wijnegem", 
-      "pcode": "2110", 
-      "source": "afgeleidVanGebouw", 
-      "street": "De Wijngaardstraat"
-    }, 
-    {
-      "apptnrs": [
-        "2.0"
-      ], 
-      "hnrlbls": [
-        "60-62_2"
-      ], 
-      "housenumber": "60", 
-      "lat": 51.22889312245714, 
-      "lon": 4.507681474018444, 
       "municipality": "Wijnegem", 
       "pcode": "2110", 
       "source": "afgeleidVanGebouw", 
@@ -722,8 +633,16 @@
       "street": "De Wijngaardstraat"
     }, 
     {
+      "apptnrs": [
+        "001R", 
+        "002L", 
+        "002R", 
+        "L001", 
+        "glvL", 
+        "glvR"
+      ], 
       "hnrlbls": [
-        "60-62_2"
+        "62"
       ], 
       "housenumber": "62", 
       "lat": 51.22889312245714, 
@@ -731,51 +650,6 @@
       "municipality": "Wijnegem", 
       "pcode": "2110", 
       "source": "afgeleidVanGebouw", 
-      "street": "De Wijngaardstraat"
-    }, 
-    {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "60-62_2"
-      ], 
-      "housenumber": "62L", 
-      "lat": 51.22889312245714, 
-      "lon": 4.507681474018444, 
-      "municipality": "Wijnegem", 
-      "pcode": "2110", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "De Wijngaardstraat"
-    }, 
-    {
-      "busnrs": [
-        "R"
-      ], 
-      "hnrlbls": [
-        "60-62_2"
-      ], 
-      "housenumber": "62_1", 
-      "lat": 51.22889312245714, 
-      "lon": 4.507681474018444, 
-      "municipality": "Wijnegem", 
-      "pcode": "2110", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "De Wijngaardstraat"
-    }, 
-    {
-      "busnrs": [
-        "L"
-      ], 
-      "hnrlbls": [
-        "60-62_2"
-      ], 
-      "housenumber": "62_2", 
-      "lat": 51.22889312245714, 
-      "lon": 4.507681474018444, 
-      "municipality": "Wijnegem", 
-      "pcode": "2110", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "De Wijngaardstraat"
     }, 
     {
@@ -795,7 +669,7 @@
         "2"
       ], 
       "hnrlbls": [
-        "64-64B"
+        "64"
       ], 
       "housenumber": "64", 
       "lat": 51.22885856497941, 
@@ -803,18 +677,6 @@
       "municipality": "Wijnegem", 
       "pcode": "2110", 
       "source": "afgeleidVanGebouw", 
-      "street": "De Wijngaardstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "64-64B"
-      ], 
-      "housenumber": "64B", 
-      "lat": 51.22885856497941, 
-      "lon": 4.507564840330293, 
-      "municipality": "Wijnegem", 
-      "pcode": "2110", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "De Wijngaardstraat"
     }, 
     {
@@ -866,6 +728,9 @@
       "street": "De Wijngaardstraat"
     }, 
     {
+      "apptnrs": [
+        "glvl"
+      ], 
       "busnrs": [
         "1"
       ], 
@@ -919,7 +784,8 @@
     {
       "apptnrs": [
         "1.0", 
-        "2.0"
+        "2.0", 
+        "glvl"
       ], 
       "hnrlbls": [
         "73"
@@ -1080,6 +946,10 @@
       "street": "De Wijngaardstraat"
     }, 
     {
+      "busnrs": [
+        "bus 1", 
+        "bus 2"
+      ], 
       "hnrlbls": [
         "87"
       ], 
@@ -1092,6 +962,10 @@
       "street": "De Wijngaardstraat"
     }, 
     {
+      "busnrs": [
+        "bus 1", 
+        "bus 2"
+      ], 
       "hnrlbls": [
         "89"
       ], 

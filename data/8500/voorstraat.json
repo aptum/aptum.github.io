@@ -60,10 +60,11 @@
     {
       "busnrs": [
         "11", 
-        "21"
+        "21", 
+        "A000"
       ], 
       "hnrlbls": [
-        "13-13A"
+        "13"
       ], 
       "housenumber": "13", 
       "lat": 50.82778138317421, 
@@ -71,18 +72,6 @@
       "municipality": "Kortrijk", 
       "pcode": "8500", 
       "source": "afgeleidVanGebouw", 
-      "street": "Voorstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "13-13A"
-      ], 
-      "housenumber": "13A", 
-      "lat": 50.82778138317421, 
-      "lon": 3.2709752411899085, 
-      "municipality": "Kortrijk", 
-      "pcode": "8500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Voorstraat"
     }, 
     {
@@ -184,7 +173,8 @@
     {
       "busnrs": [
         "11", 
-        "21"
+        "21", 
+        "31"
       ], 
       "hnrlbls": [
         "22"
@@ -248,7 +238,8 @@
     {
       "busnrs": [
         "1", 
-        "11"
+        "11", 
+        "21"
       ], 
       "hnrlbls": [
         "26"
@@ -349,18 +340,15 @@
       "street": "Voorstraat"
     }, 
     {
-      "busnrs": [
-        "3"
-      ], 
       "hnrlbls": [
         "33"
       ], 
       "housenumber": "33", 
-      "lat": 50.827789184125066, 
-      "lon": 3.271866800074889, 
+      "lat": 50.82794135403694, 
+      "lon": 3.271228158600131, 
       "municipality": "Kortrijk", 
       "pcode": "8500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Voorstraat"
     }, 
     {
@@ -394,10 +382,12 @@
         "22", 
         "31", 
         "32", 
-        "41"
+        "41", 
+        "A000", 
+        "A031"
       ], 
       "hnrlbls": [
-        "36-36A"
+        "36"
       ], 
       "housenumber": "36", 
       "lat": 50.82791724948831, 
@@ -405,21 +395,6 @@
       "municipality": "Kortrijk", 
       "pcode": "8500", 
       "source": "afgeleidVanGebouw", 
-      "street": "Voorstraat"
-    }, 
-    {
-      "busnrs": [
-        "31"
-      ], 
-      "hnrlbls": [
-        "36-36A"
-      ], 
-      "housenumber": "36A", 
-      "lat": 50.82791724948831, 
-      "lon": 3.272024930334241, 
-      "municipality": "Kortrijk", 
-      "pcode": "8500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Voorstraat"
     }, 
     {
@@ -568,6 +543,9 @@
       "street": "Voorstraat"
     }, 
     {
+      "busnrs": [
+        "A000"
+      ], 
       "hnrlbls": [
         "47"
       ], 
@@ -581,26 +559,14 @@
     }, 
     {
       "hnrlbls": [
-        "47A"
-      ], 
-      "housenumber": "47A", 
-      "lat": 50.82845765713516, 
-      "lon": 3.272350468107005, 
-      "municipality": "Kortrijk", 
-      "pcode": "8500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Voorstraat"
-    }, 
-    {
-      "hnrlbls": [
         "49-51"
       ], 
       "housenumber": "49", 
-      "lat": 50.82850693422037, 
-      "lon": 3.272466857694605, 
+      "lat": 50.82851158409822, 
+      "lon": 3.272454541321499, 
       "municipality": "Kortrijk", 
       "pcode": "8500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Voorstraat"
     }, 
     {
@@ -620,11 +586,11 @@
         "49-51"
       ], 
       "housenumber": "51", 
-      "lat": 50.82850693422037, 
-      "lon": 3.272466857694605, 
+      "lat": 50.82851158409822, 
+      "lon": 3.272454541321499, 
       "municipality": "Kortrijk", 
       "pcode": "8500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Voorstraat"
     }, 
     {
@@ -632,8 +598,8 @@
         "53"
       ], 
       "housenumber": "53", 
-      "lat": 50.82855293876183, 
-      "lon": 3.2725986547967985, 
+      "lat": 50.828555509344085, 
+      "lon": 3.272585109279106, 
       "municipality": "Kortrijk", 
       "pcode": "8500", 
       "source": "afgeleidVanPerceelGrb", 
@@ -668,11 +634,11 @@
         "7"
       ], 
       "housenumber": "7", 
-      "lat": 50.827790628213606, 
-      "lon": 3.270800708728276, 
+      "lat": 50.8276505347917, 
+      "lon": 3.2707792781411125, 
       "municipality": "Kortrijk", 
       "pcode": "8500", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Voorstraat"
     }, 
     {

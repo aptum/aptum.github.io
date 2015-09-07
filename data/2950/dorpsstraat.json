@@ -33,12 +33,17 @@
     }, 
     {
       "apptnrs": [
-        "bus 1 - glv", 
         "bus 2 - glv", 
         "bus 3 - 1st", 
         "bus 4 - 1st", 
         "bus 5 - 2de", 
         "bus 6 - 2de"
+      ], 
+      "busnrs": [
+        "4", 
+        "5", 
+        "6", 
+        "bus 1 - glv"
       ], 
       "hnrlbls": [
         "102"
@@ -325,11 +330,7 @@
         "0002 - glv", 
         "0003 - glv", 
         "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6", 
-        "7"
+        "6"
       ], 
       "hnrlbls": [
         "25"
@@ -410,8 +411,12 @@
       "street": "Dorpsstraat"
     }, 
     {
+      "apptnrs": [
+        "0002 - 1ste", 
+        "0003 - 2de"
+      ], 
       "busnrs": [
-        "2"
+        "0001 - glv"
       ], 
       "hnrlbls": [
         "30"
@@ -615,10 +620,12 @@
       "street": "Dorpsstraat"
     }, 
     {
+      "apptnrs": [
+        "0002 - 1ste", 
+        "0003 - 2de"
+      ], 
       "busnrs": [
-        "1", 
-        "2", 
-        "3"
+        "0001 - glv"
       ], 
       "hnrlbls": [
         "44"
@@ -644,9 +651,6 @@
       "street": "Dorpsstraat"
     }, 
     {
-      "busnrs": [
-        "2"
-      ], 
       "hnrlbls": [
         "46"
       ], 
@@ -683,9 +687,11 @@
       "street": "Dorpsstraat"
     }, 
     {
+      "apptnrs": [
+        "0002 - 1ste"
+      ], 
       "busnrs": [
-        "1", 
-        "2"
+        "0001 - glv"
       ], 
       "hnrlbls": [
         "49"
@@ -739,7 +745,7 @@
     }, 
     {
       "hnrlbls": [
-        "52-58"
+        "52-56"
       ], 
       "housenumber": "52", 
       "lat": 51.3167111091308, 
@@ -763,7 +769,7 @@
     }, 
     {
       "hnrlbls": [
-        "52-58"
+        "52-56"
       ], 
       "housenumber": "54", 
       "lat": 51.3167111091308, 
@@ -798,7 +804,7 @@
         "6"
       ], 
       "hnrlbls": [
-        "52-58"
+        "52-56"
       ], 
       "housenumber": "56", 
       "lat": 51.3167111091308, 
@@ -826,14 +832,14 @@
     }, 
     {
       "hnrlbls": [
-        "52-58"
+        "58"
       ], 
       "housenumber": "58", 
-      "lat": 51.3167111091308, 
-      "lon": 4.428309217379686, 
+      "lat": 51.3167200824585, 
+      "lon": 4.428161211724822, 
       "municipality": "Kapellen", 
       "pcode": "2950", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Dorpsstraat"
     }, 
     {
@@ -901,12 +907,15 @@
       "street": "Dorpsstraat"
     }, 
     {
+      "apptnrs": [
+        "0002 - 1ste", 
+        "0003 - 1ste", 
+        "0004 - 2de", 
+        "0005 - 2de"
+      ], 
       "busnrs": [
-        "3", 
-        "4", 
-        "5", 
-        "6", 
-        "7"
+        "0001 - glv", 
+        "5"
       ], 
       "hnrlbls": [
         "62"
@@ -932,8 +941,12 @@
       "street": "Dorpsstraat"
     }, 
     {
+      "apptnrs": [
+        "0001 - glv", 
+        "0002 - 1ste"
+      ], 
       "busnrs": [
-        "3"
+        "1"
       ], 
       "hnrlbls": [
         "64"
@@ -1025,14 +1038,14 @@
     }, 
     {
       "apptnrs": [
-        "0003 - app", 
-        "0004 - app", 
-        "0005 - app", 
-        "0006 - app"
+        "0003", 
+        "0004", 
+        "0005", 
+        "0006"
       ], 
       "busnrs": [
-        "0001 - hand", 
-        "0002 - glv"
+        "0001", 
+        "0002"
       ], 
       "hnrlbls": [
         "72"
@@ -1046,18 +1059,18 @@
       "street": "Dorpsstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "10", 
-        "11", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6", 
-        "7", 
-        "8", 
-        "9"
+      "apptnrs": [
+        "0001 - glv", 
+        "0002 - glv", 
+        "0003 - 1ste", 
+        "0004 - 1ste", 
+        "0005 - 2de", 
+        "0006 - 2de", 
+        "0007 - woni", 
+        "0008 - woni", 
+        "0009 - woni", 
+        "0010 - woni", 
+        "0011 - woni"
       ], 
       "hnrlbls": [
         "74"
@@ -1075,41 +1088,26 @@
         "76"
       ], 
       "housenumber": "76", 
-      "lat": 51.3173686486798, 
-      "lon": 4.427648284700963, 
+      "lat": 51.31732979398972, 
+      "lon": 4.427521873576938, 
       "municipality": "Kapellen", 
       "pcode": "2950", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Dorpsstraat"
     }, 
     {
       "hnrlbls": [
-        "78-78B"
+        "78"
       ], 
       "housenumber": "78", 
-      "lat": 51.31754833707522, 
-      "lon": 4.427969941780949, 
+      "lat": 51.31735829748946, 
+      "lon": 4.427499104704257, 
       "municipality": "Kapellen", 
       "pcode": "2950", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Dorpsstraat"
     }, 
     {
-      "hnrlbls": [
-        "78-78B"
-      ], 
-      "housenumber": "78B", 
-      "lat": 51.31754833707522, 
-      "lon": 4.427969941780949, 
-      "municipality": "Kapellen", 
-      "pcode": "2950", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dorpsstraat"
-    }, 
-    {
-      "busnrs": [
-        "2"
-      ], 
       "hnrlbls": [
         "8"
       ], 
@@ -1188,10 +1186,11 @@
       "street": "Dorpsstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3"
+      "apptnrs": [
+        "0001 - glv", 
+        "0002 - 1ste", 
+        "0003 - 2de", 
+        "0004 - 3de"
       ], 
       "hnrlbls": [
         "88"
@@ -1253,8 +1252,10 @@
       "street": "Dorpsstraat"
     }, 
     {
-      "busnrs": [
-        "1"
+      "apptnrs": [
+        "0001 - voor", 
+        "0002 - midd", 
+        "0003 - acht"
       ], 
       "hnrlbls": [
         "96"

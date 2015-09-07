@@ -237,6 +237,9 @@
       "street": "Koning Albertlaan"
     }, 
     {
+      "busnrs": [
+        "21"
+      ], 
       "hnrlbls": [
         "28"
       ], 
@@ -246,6 +249,21 @@
       "municipality": "Maaseik", 
       "pcode": "3680", 
       "source": "afgeleidVanGebouw", 
+      "street": "Koning Albertlaan"
+    }, 
+    {
+      "busnrs": [
+        "11"
+      ], 
+      "hnrlbls": [
+        "28B"
+      ], 
+      "housenumber": "28B", 
+      "lat": 51.09676115020768, 
+      "lon": 5.784172019413092, 
+      "municipality": "Maaseik", 
+      "pcode": "3680", 
+      "source": "geinterpoleerdObvWegverbinding", 
       "street": "Koning Albertlaan"
     }, 
     {
@@ -470,8 +488,32 @@
     }, 
     {
       "busnrs": [
+        "1A", 
+        "1B", 
+        "1C", 
         "2", 
+        "2A", 
+        "2B", 
+        "2C", 
+        "3A", 
+        "3B", 
+        "3C", 
+        "4A", 
+        "4B", 
+        "4C", 
+        "5A", 
+        "5B", 
+        "5C", 
         "6", 
+        "6A", 
+        "6B", 
+        "6C", 
+        "7A", 
+        "7B", 
+        "7C", 
+        "8A", 
+        "8B", 
+        "8C", 
         "C1"
       ], 
       "hnrlbls": [
@@ -1058,6 +1100,8 @@
         "1/1"
       ], 
       "busnrs": [
+        "1", 
+        "11", 
         "22"
       ], 
       "hnrlbls": [
@@ -1077,7 +1121,7 @@
         "2"
       ], 
       "hnrlbls": [
-        "/zn-802"
+        "82-802"
       ], 
       "housenumber": "801", 
       "lat": 51.09698411825201, 
@@ -1092,7 +1136,7 @@
         "1"
       ], 
       "hnrlbls": [
-        "/zn-802"
+        "82-802"
       ], 
       "housenumber": "802", 
       "lat": 51.09698411825201, 
@@ -1116,7 +1160,7 @@
     }, 
     {
       "hnrlbls": [
-        "/zn-802"
+        "82-802"
       ], 
       "housenumber": "82", 
       "lat": 51.09698411825201, 

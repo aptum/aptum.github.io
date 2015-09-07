@@ -128,11 +128,11 @@
         "108"
       ], 
       "housenumber": "108", 
-      "lat": 51.25170704343843, 
-      "lon": 4.459660449704824, 
+      "lat": 51.251617118361374, 
+      "lon": 4.459826991290277, 
       "municipality": "Antwerpen", 
       "pcode": "2170", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Van Praetlei"
     }, 
     {
@@ -236,11 +236,11 @@
         "118"
       ], 
       "housenumber": "118", 
-      "lat": 51.25178462544384, 
-      "lon": 4.45987544388198, 
+      "lat": 51.251724488093544, 
+      "lon": 4.459999691561973, 
       "municipality": "Antwerpen", 
       "pcode": "2170", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Van Praetlei"
     }, 
     {
@@ -555,11 +555,11 @@
         "143"
       ], 
       "housenumber": "143", 
-      "lat": 51.25144626487724, 
-      "lon": 4.461307760662646, 
+      "lat": 51.2511818527167, 
+      "lon": 4.461862647834984, 
       "municipality": "Antwerpen", 
       "pcode": "2170", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Van Praetlei"
     }, 
     {
@@ -603,11 +603,11 @@
         "147"
       ], 
       "housenumber": "147", 
-      "lat": 51.25128934821405, 
-      "lon": 4.461852565778126, 
+      "lat": 51.251867329310734, 
+      "lon": 4.461309786363045, 
       "municipality": "Antwerpen", 
       "pcode": "2170", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Van Praetlei"
     }, 
     {
@@ -917,12 +917,14 @@
       "busnrs": [
         "1", 
         "10", 
+        "11", 
         "2", 
         "3", 
         "4", 
         "5", 
         "6", 
         "7", 
+        "8", 
         "9"
       ], 
       "hnrlbls": [
@@ -956,68 +958,37 @@
       "street": "Van Praetlei"
     }, 
     {
-      "busnrs": [
-        "L"
-      ], 
       "hnrlbls": [
         "176_2"
       ], 
       "housenumber": "176_2", 
-      "lat": 51.25252593067131, 
-      "lon": 4.4618847035506155, 
+      "lat": 51.2525245432283, 
+      "lon": 4.4618842653374715, 
       "municipality": "Antwerpen", 
       "pcode": "2170", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Van Praetlei"
     }, 
     {
       "busnrs": [
         "1", 
         "2", 
+        "3", 
         "4", 
         "5", 
-        "6"
+        "6", 
+        "7", 
+        "8"
       ], 
       "hnrlbls": [
         "177"
       ], 
       "housenumber": "177", 
-      "lat": 51.25273503270011, 
-      "lon": 4.463192104769703, 
+      "lat": 51.252784791613855, 
+      "lon": 4.4630657172134, 
       "municipality": "Antwerpen", 
       "pcode": "2170", 
       "source": "afgeleidVanGebouw", 
-      "street": "Van Praetlei"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
-      "hnrlbls": [
-        "177A-177B"
-      ], 
-      "housenumber": "177A", 
-      "lat": 51.25262448624541, 
-      "lon": 4.462956551580171, 
-      "municipality": "Antwerpen", 
-      "pcode": "2170", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Van Praetlei"
-    }, 
-    {
-      "busnrs": [
-        "3"
-      ], 
-      "hnrlbls": [
-        "177A-177B"
-      ], 
-      "housenumber": "177B", 
-      "lat": 51.25262448624541, 
-      "lon": 4.462956551580171, 
-      "municipality": "Antwerpen", 
-      "pcode": "2170", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Van Praetlei"
     }, 
     {
@@ -1117,21 +1088,15 @@
       "street": "Van Praetlei"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "6"
-      ], 
       "hnrlbls": [
-        "2-731"
+        "2"
       ], 
       "housenumber": "2", 
-      "lat": 51.24986294136019, 
-      "lon": 4.455469447009751, 
+      "lat": 51.249611012214075, 
+      "lon": 4.455194024328333, 
       "municipality": "Antwerpen", 
       "pcode": "2170", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Van Praetlei"
     }, 
     {
@@ -1310,10 +1275,11 @@
         "1", 
         "2", 
         "3", 
+        "4", 
         "5", 
         "6", 
-        "8", 
-        "B"
+        "7", 
+        "8"
       ], 
       "hnrlbls": [
         "254-258"
@@ -1398,7 +1364,7 @@
         "2"
       ], 
       "hnrlbls": [
-        "2-731"
+        "2A-731"
       ], 
       "housenumber": "2A", 
       "lat": 51.24986294136019, 

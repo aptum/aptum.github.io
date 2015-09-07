@@ -145,6 +145,18 @@
     }, 
     {
       "hnrlbls": [
+        "11"
+      ], 
+      "housenumber": "11", 
+      "lat": 50.80740757345403, 
+      "lon": 4.289267497504396, 
+      "municipality": "Sint-Pieters-Leeuw", 
+      "pcode": "1600", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Bergensesteenweg"
+    }, 
+    {
+      "hnrlbls": [
         "110"
       ], 
       "housenumber": "110", 
@@ -220,15 +232,12 @@
       "street": "Bergensesteenweg"
     }, 
     {
-      "apptnrs": [
-        "1.0"
-      ], 
       "busnrs": [
-        "1", 
-        "eVr"
+        "1eR", 
+        "1eV"
       ], 
       "hnrlbls": [
-        "12-12_1"
+        "12"
       ], 
       "housenumber": "12", 
       "lat": 50.80742870729191, 
@@ -359,22 +368,6 @@
       "municipality": "Sint-Pieters-Leeuw", 
       "pcode": "1600", 
       "source": "afgeleidVanGebouw", 
-      "street": "Bergensesteenweg"
-    }, 
-    {
-      "busnrs": [
-        "eR", 
-        "eVr"
-      ], 
-      "hnrlbls": [
-        "12-12_1"
-      ], 
-      "housenumber": "12_1", 
-      "lat": 50.80742870729191, 
-      "lon": 4.288532952808998, 
-      "municipality": "Sint-Pieters-Leeuw", 
-      "pcode": "1600", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Bergensesteenweg"
     }, 
     {
@@ -658,7 +651,10 @@
         "6", 
         "7", 
         "8", 
-        "9"
+        "9", 
+        "bs10", 
+        "bs11", 
+        "bs12"
       ], 
       "hnrlbls": [
         "155"
@@ -691,23 +687,27 @@
         "159"
       ], 
       "housenumber": "159", 
-      "lat": 50.79890455613974, 
-      "lon": 4.287989466652407, 
-      "municipality": "Sint-Pieters-Leeuw", 
-      "pcode": "1600", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
-      "street": "Bergensesteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "16-18"
-      ], 
-      "housenumber": "16", 
-      "lat": 50.807151216246176, 
-      "lon": 4.288559952334255, 
+      "lat": 50.79899412549919, 
+      "lon": 4.287993492920894, 
       "municipality": "Sint-Pieters-Leeuw", 
       "pcode": "1600", 
       "source": "afgeleidVanGebouw", 
+      "street": "Bergensesteenweg"
+    }, 
+    {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
+      "hnrlbls": [
+        "16"
+      ], 
+      "housenumber": "16", 
+      "lat": 50.807123023014746, 
+      "lon": 4.28849078794859, 
+      "municipality": "Sint-Pieters-Leeuw", 
+      "pcode": "1600", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Bergensesteenweg"
     }, 
     {
@@ -846,7 +846,7 @@
     }, 
     {
       "hnrlbls": [
-        "16-18"
+        "18"
       ], 
       "housenumber": "18", 
       "lat": 50.807151216246176, 
@@ -913,8 +913,8 @@
         "187"
       ], 
       "housenumber": "187", 
-      "lat": 50.798198824381835, 
-      "lon": 4.287268524051149, 
+      "lat": 50.798224850462546, 
+      "lon": 4.287289242469468, 
       "municipality": "Sint-Pieters-Leeuw", 
       "pcode": "1600", 
       "source": "afgeleidVanGebouw", 
@@ -940,35 +940,23 @@
         "189"
       ], 
       "housenumber": "189", 
-      "lat": 50.79746951806477, 
-      "lon": 4.287432188613237, 
+      "lat": 50.79765662638088, 
+      "lon": 4.287493735362263, 
+      "municipality": "Sint-Pieters-Leeuw", 
+      "pcode": "1600", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Bergensesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "189B"
+      ], 
+      "housenumber": "189B", 
+      "lat": 50.79738118969659, 
+      "lon": 4.287133791207813, 
       "municipality": "Sint-Pieters-Leeuw", 
       "pcode": "1600", 
       "source": "afgeleidVanGebouw", 
-      "street": "Bergensesteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "189A-189B"
-      ], 
-      "housenumber": "189A", 
-      "lat": 50.79755773161675, 
-      "lon": 4.287730621505673, 
-      "municipality": "Sint-Pieters-Leeuw", 
-      "pcode": "1600", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Bergensesteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "189A-189B"
-      ], 
-      "housenumber": "189B", 
-      "lat": 50.79755773161675, 
-      "lon": 4.287730621505673, 
-      "municipality": "Sint-Pieters-Leeuw", 
-      "pcode": "1600", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Bergensesteenweg"
     }, 
     {
@@ -988,8 +976,8 @@
         "191"
       ], 
       "housenumber": "191", 
-      "lat": 50.79737863438585, 
-      "lon": 4.286654468485077, 
+      "lat": 50.79741420843369, 
+      "lon": 4.286669538789231, 
       "municipality": "Sint-Pieters-Leeuw", 
       "pcode": "1600", 
       "source": "afgeleidVanGebouw", 
@@ -1000,8 +988,8 @@
         "193"
       ], 
       "housenumber": "193", 
-      "lat": 50.79741424385144, 
-      "lon": 4.286669584266576, 
+      "lat": 50.79737860911744, 
+      "lon": 4.286654408055981, 
       "municipality": "Sint-Pieters-Leeuw", 
       "pcode": "1600", 
       "source": "afgeleidVanGebouw", 
@@ -1036,6 +1024,7 @@
         "0.0"
       ], 
       "busnrs": [
+        "1", 
         "2", 
         "2eR", 
         "3", 
@@ -1044,7 +1033,8 @@
         "6", 
         "7", 
         "8", 
-        "9"
+        "9", 
+        "bs10"
       ], 
       "hnrlbls": [
         "199"
@@ -1169,11 +1159,11 @@
     }, 
     {
       "hnrlbls": [
-        "1-212"
+        "212"
       ], 
       "housenumber": "212", 
-      "lat": 50.79543230707006, 
-      "lon": 4.284385578688149, 
+      "lat": 50.79537329091266, 
+      "lon": 4.284472821824374, 
       "municipality": "Sint-Pieters-Leeuw", 
       "pcode": "1600", 
       "source": "afgeleidVanGebouw", 
@@ -1208,11 +1198,11 @@
         "214"
       ], 
       "housenumber": "214", 
-      "lat": 50.79526475816028, 
-      "lon": 4.2843916677408895, 
+      "lat": 50.79523176784297, 
+      "lon": 4.284425956317031, 
       "municipality": "Sint-Pieters-Leeuw", 
       "pcode": "1600", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Bergensesteenweg"
     }, 
     {
@@ -1301,8 +1291,8 @@
         "223"
       ], 
       "housenumber": "223", 
-      "lat": 50.7960524795964, 
-      "lon": 4.286133938124856, 
+      "lat": 50.79596866605272, 
+      "lon": 4.286609169882662, 
       "municipality": "Sint-Pieters-Leeuw", 
       "pcode": "1600", 
       "source": "afgeleidVanGebouw", 
@@ -1346,11 +1336,11 @@
     }, 
     {
       "hnrlbls": [
-        "226-228"
+        "226"
       ], 
       "housenumber": "226", 
-      "lat": 50.79481110657275, 
-      "lon": 4.284111661531479, 
+      "lat": 50.79484686083509, 
+      "lon": 4.284138874640888, 
       "municipality": "Sint-Pieters-Leeuw", 
       "pcode": "1600", 
       "source": "afgeleidVanGebouw", 
@@ -1358,6 +1348,7 @@
     }, 
     {
       "apptnrs": [
+        "0.0", 
         "1.0", 
         "2.0"
       ], 
@@ -1374,11 +1365,11 @@
     }, 
     {
       "hnrlbls": [
-        "226-228"
+        "228"
       ], 
       "housenumber": "228", 
-      "lat": 50.79481110657275, 
-      "lon": 4.284111661531479, 
+      "lat": 50.79477535349956, 
+      "lon": 4.284084396154005, 
       "municipality": "Sint-Pieters-Leeuw", 
       "pcode": "1600", 
       "source": "afgeleidVanGebouw", 
@@ -1451,7 +1442,10 @@
         "4", 
         "5", 
         "6", 
-        "9"
+        "9", 
+        "bs10", 
+        "bs11", 
+        "bs12"
       ], 
       "hnrlbls": [
         "24"
@@ -1651,18 +1645,6 @@
       "street": "Bergensesteenweg"
     }, 
     {
-      "hnrlbls": [
-        "264"
-      ], 
-      "housenumber": "264", 
-      "lat": 50.793345316433346, 
-      "lon": 4.282950966428951, 
-      "municipality": "Sint-Pieters-Leeuw", 
-      "pcode": "1600", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Bergensesteenweg"
-    }, 
-    {
       "apptnrs": [
         "0.0", 
         "1.0", 
@@ -1672,11 +1654,11 @@
         "266"
       ], 
       "housenumber": "266", 
-      "lat": 50.793449452671645, 
-      "lon": 4.282630094183219, 
+      "lat": 50.793345316433346, 
+      "lon": 4.282950966428951, 
       "municipality": "Sint-Pieters-Leeuw", 
       "pcode": "1600", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Bergensesteenweg"
     }, 
     {
@@ -1705,14 +1687,14 @@
     }, 
     {
       "hnrlbls": [
-        "270-274"
+        "270"
       ], 
       "housenumber": "270", 
-      "lat": 50.79317435039868, 
-      "lon": 4.28235785074475, 
+      "lat": 50.7931827200875, 
+      "lon": 4.282493568703316, 
       "municipality": "Sint-Pieters-Leeuw", 
       "pcode": "1600", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Bergensesteenweg"
     }, 
     {
@@ -1729,14 +1711,14 @@
     }, 
     {
       "hnrlbls": [
-        "270-274"
+        "274"
       ], 
       "housenumber": "274", 
-      "lat": 50.79317435039868, 
-      "lon": 4.28235785074475, 
+      "lat": 50.793130508702276, 
+      "lon": 4.282531696974805, 
       "municipality": "Sint-Pieters-Leeuw", 
       "pcode": "1600", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Bergensesteenweg"
     }, 
     {
@@ -1771,7 +1753,7 @@
         "5"
       ], 
       "hnrlbls": [
-        "276-276_1"
+        "276"
       ], 
       "housenumber": "276", 
       "lat": 50.79279502281503, 
@@ -1791,21 +1773,6 @@
       "municipality": "Sint-Pieters-Leeuw", 
       "pcode": "1600", 
       "source": "afgeleidVanGebouw", 
-      "street": "Bergensesteenweg"
-    }, 
-    {
-      "busnrs": [
-        "eL"
-      ], 
-      "hnrlbls": [
-        "276-276_1"
-      ], 
-      "housenumber": "276_1", 
-      "lat": 50.79279502281503, 
-      "lon": 4.282406480351954, 
-      "municipality": "Sint-Pieters-Leeuw", 
-      "pcode": "1600", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Bergensesteenweg"
     }, 
     {
@@ -1903,11 +1870,11 @@
         "284"
       ], 
       "housenumber": "284", 
-      "lat": 50.79235209436753, 
-      "lon": 4.282149440523032, 
+      "lat": 50.79257098600392, 
+      "lon": 4.282140814783888, 
       "municipality": "Sint-Pieters-Leeuw", 
       "pcode": "1600", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Bergensesteenweg"
     }, 
     {
@@ -2184,6 +2151,9 @@
       "street": "Bergensesteenweg"
     }, 
     {
+      "apptnrs": [
+        "0.0"
+      ], 
       "hnrlbls": [
         "312"
       ], 
@@ -2227,6 +2197,7 @@
     {
       "apptnrs": [
         "0.0", 
+        "1.0", 
         "2.0", 
         "3.0"
       ], 
@@ -2291,6 +2262,7 @@
     }, 
     {
       "apptnrs": [
+        "0.0", 
         "1.0", 
         "2.0"
       ], 
@@ -2430,7 +2402,8 @@
     }, 
     {
       "apptnrs": [
-        "0.0"
+        "0.0", 
+        "1.0"
       ], 
       "hnrlbls": [
         "330"
@@ -2469,21 +2442,6 @@
       "municipality": "Sint-Pieters-Leeuw", 
       "pcode": "1600", 
       "source": "afgeleidVanGebouw", 
-      "street": "Bergensesteenweg"
-    }, 
-    {
-      "busnrs": [
-        "338"
-      ], 
-      "hnrlbls": [
-        "336"
-      ], 
-      "housenumber": "336", 
-      "lat": 50.788913722085404, 
-      "lon": 4.279362589384519, 
-      "municipality": "Sint-Pieters-Leeuw", 
-      "pcode": "1600", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Bergensesteenweg"
     }, 
     {
@@ -2693,7 +2651,7 @@
     }, 
     {
       "hnrlbls": [
-        "35-37"
+        "35"
       ], 
       "housenumber": "35", 
       "lat": 50.80675262509685, 
@@ -2844,7 +2802,8 @@
     }, 
     {
       "apptnrs": [
-        "0.0"
+        "0.0", 
+        "1.0"
       ], 
       "busnrs": [
         "1"
@@ -2929,18 +2888,6 @@
     }, 
     {
       "hnrlbls": [
-        "35-37"
-      ], 
-      "housenumber": "37", 
-      "lat": 50.80675262509685, 
-      "lon": 4.289237643215043, 
-      "municipality": "Sint-Pieters-Leeuw", 
-      "pcode": "1600", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Bergensesteenweg"
-    }, 
-    {
-      "hnrlbls": [
         "371"
       ], 
       "housenumber": "371", 
@@ -3001,14 +2948,14 @@
     }, 
     {
       "hnrlbls": [
-        "38-40"
+        "38"
       ], 
       "housenumber": "38", 
-      "lat": 50.80622868900262, 
-      "lon": 4.2882763499301175, 
+      "lat": 50.80632149451307, 
+      "lon": 4.288469160885144, 
       "municipality": "Sint-Pieters-Leeuw", 
       "pcode": "1600", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Bergensesteenweg"
     }, 
     {
@@ -3189,8 +3136,8 @@
         "390"
       ], 
       "housenumber": "390", 
-      "lat": 50.78589184918972, 
-      "lon": 4.276790745148357, 
+      "lat": 50.785979409897436, 
+      "lon": 4.276843377642688, 
       "municipality": "Sint-Pieters-Leeuw", 
       "pcode": "1600", 
       "source": "afgeleidVanGebouw", 
@@ -3218,22 +3165,6 @@
       "municipality": "Sint-Pieters-Leeuw", 
       "pcode": "1600", 
       "source": "afgeleidVanGebouw", 
-      "street": "Bergensesteenweg"
-    }, 
-    {
-      "apptnrs": [
-        "0.0", 
-        "0.00"
-      ], 
-      "hnrlbls": [
-        "393B"
-      ], 
-      "housenumber": "393B", 
-      "lat": 50.7880543459325, 
-      "lon": 4.279290464331336, 
-      "municipality": "Sint-Pieters-Leeuw", 
-      "pcode": "1600", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Bergensesteenweg"
     }, 
     {
@@ -3291,26 +3222,26 @@
         "2.0"
       ], 
       "hnrlbls": [
-        "3-399"
+        "399"
       ], 
       "housenumber": "399", 
-      "lat": 50.78773458717523, 
-      "lon": 4.279295038256092, 
+      "lat": 50.787825287479265, 
+      "lon": 4.279059398249962, 
       "municipality": "Sint-Pieters-Leeuw", 
       "pcode": "1600", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Bergensesteenweg"
     }, 
     {
       "hnrlbls": [
-        "38-40"
+        "40"
       ], 
       "housenumber": "40", 
-      "lat": 50.80622868900262, 
-      "lon": 4.2882763499301175, 
+      "lat": 50.80629506097266, 
+      "lon": 4.288463246989184, 
       "municipality": "Sint-Pieters-Leeuw", 
       "pcode": "1600", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Bergensesteenweg"
     }, 
     {
@@ -3358,11 +3289,11 @@
         "409"
       ], 
       "housenumber": "409", 
-      "lat": 50.787613149635945, 
-      "lon": 4.2789270203900065, 
+      "lat": 50.78760792248263, 
+      "lon": 4.27892229682251, 
       "municipality": "Sint-Pieters-Leeuw", 
       "pcode": "1600", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Bergensesteenweg"
     }, 
     {
@@ -3417,11 +3348,11 @@
         "412A"
       ], 
       "housenumber": "412A", 
-      "lat": 50.78422118796007, 
-      "lon": 4.27538968982722, 
+      "lat": 50.784175622223195, 
+      "lon": 4.275556468286967, 
       "municipality": "Sint-Pieters-Leeuw", 
       "pcode": "1600", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Bergensesteenweg"
     }, 
     {
@@ -3522,8 +3453,8 @@
         "421A"
       ], 
       "housenumber": "421A", 
-      "lat": 50.78620176733713, 
-      "lon": 4.278048754462129, 
+      "lat": 50.78619567846079, 
+      "lon": 4.27803789918834, 
       "municipality": "Sint-Pieters-Leeuw", 
       "pcode": "1600", 
       "source": "manueleAanduidingVanIngangVanGebouw", 
@@ -3597,8 +3528,8 @@
         "423A"
       ], 
       "housenumber": "423A", 
-      "lat": 50.785599186025244, 
-      "lon": 4.277576406372315, 
+      "lat": 50.78559623965737, 
+      "lon": 4.277562566056306, 
       "municipality": "Sint-Pieters-Leeuw", 
       "pcode": "1600", 
       "source": "manueleAanduidingVanIngangVanGebouw", 
@@ -3606,7 +3537,7 @@
     }, 
     {
       "hnrlbls": [
-        "424-424A"
+        "424"
       ], 
       "housenumber": "424", 
       "lat": 50.78284423782501, 
@@ -3618,23 +3549,23 @@
     }, 
     {
       "hnrlbls": [
-        "424-424A"
+        "424A"
       ], 
       "housenumber": "424A", 
-      "lat": 50.78284423782501, 
-      "lon": 4.274257710343795, 
+      "lat": 50.78332587995078, 
+      "lon": 4.2716809117683665, 
       "municipality": "Sint-Pieters-Leeuw", 
       "pcode": "1600", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Bergensesteenweg"
     }, 
     {
       "hnrlbls": [
-        "426-426A"
+        "426"
       ], 
       "housenumber": "426", 
-      "lat": 50.782382039647196, 
-      "lon": 4.274096838224329, 
+      "lat": 50.782556994122615, 
+      "lon": 4.273890541315148, 
       "municipality": "Sint-Pieters-Leeuw", 
       "pcode": "1600", 
       "source": "afgeleidVanGebouw", 
@@ -3642,14 +3573,14 @@
     }, 
     {
       "hnrlbls": [
-        "426-426A"
+        "426A"
       ], 
       "housenumber": "426A", 
-      "lat": 50.782382039647196, 
-      "lon": 4.274096838224329, 
+      "lat": 50.78245069243973, 
+      "lon": 4.274004175342603, 
       "municipality": "Sint-Pieters-Leeuw", 
       "pcode": "1600", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Bergensesteenweg"
     }, 
     {
@@ -3843,8 +3774,8 @@
         "440"
       ], 
       "housenumber": "440", 
-      "lat": 50.78166377325729, 
-      "lon": 4.273437638425265, 
+      "lat": 50.7816856413872, 
+      "lon": 4.273466379330104, 
       "municipality": "Sint-Pieters-Leeuw", 
       "pcode": "1600", 
       "source": "afgeleidVanGebouw", 
@@ -3911,15 +3842,18 @@
       "street": "Bergensesteenweg"
     }, 
     {
+      "busnrs": [
+        "cara"
+      ], 
       "hnrlbls": [
         "446"
       ], 
       "housenumber": "446", 
-      "lat": 50.781366045600784, 
-      "lon": 4.2732282364428915, 
+      "lat": 50.78141498547027, 
+      "lon": 4.273183026813604, 
       "municipality": "Sint-Pieters-Leeuw", 
       "pcode": "1600", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Bergensesteenweg"
     }, 
     {
@@ -4333,7 +4267,7 @@
     }, 
     {
       "hnrlbls": [
-        "490-492B"
+        "490"
       ], 
       "housenumber": "490", 
       "lat": 50.777704891273125, 
@@ -4372,14 +4306,14 @@
     }, 
     {
       "hnrlbls": [
-        "490-492B"
+        "492B"
       ], 
       "housenumber": "492B", 
-      "lat": 50.777704891273125, 
-      "lon": 4.269719901551509, 
+      "lat": 50.77751148574042, 
+      "lon": 4.2701345136037165, 
       "municipality": "Sint-Pieters-Leeuw", 
       "pcode": "1600", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Bergensesteenweg"
     }, 
     {
@@ -4396,7 +4330,7 @@
     }, 
     {
       "hnrlbls": [
-        "2_1-5"
+        "5"
       ], 
       "housenumber": "5", 
       "lat": 50.80790243845635, 
@@ -4600,11 +4534,11 @@
         "59"
       ], 
       "housenumber": "59", 
-      "lat": 50.80617525090118, 
-      "lon": 4.289280462529019, 
+      "lat": 50.80618280147062, 
+      "lon": 4.289145814163895, 
       "municipality": "Sint-Pieters-Leeuw", 
       "pcode": "1600", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Bergensesteenweg"
     }, 
     {
@@ -4632,23 +4566,11 @@
       "street": "Bergensesteenweg"
     }, 
     {
-      "hnrlbls": [
-        "63"
-      ], 
-      "housenumber": "63", 
-      "lat": 50.805821781557874, 
-      "lon": 4.289150392077566, 
-      "municipality": "Sint-Pieters-Leeuw", 
-      "pcode": "1600", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Bergensesteenweg"
-    }, 
-    {
       "busnrs": [
         "6"
       ], 
       "hnrlbls": [
-        "65-67"
+        "65"
       ], 
       "housenumber": "65", 
       "lat": 50.80476696025623, 
@@ -4660,14 +4582,14 @@
     }, 
     {
       "hnrlbls": [
-        "65-67"
+        "67"
       ], 
       "housenumber": "67", 
-      "lat": 50.80476696025623, 
-      "lon": 4.291073038773694, 
+      "lat": 50.8049095040845, 
+      "lon": 4.289207286717735, 
       "municipality": "Sint-Pieters-Leeuw", 
       "pcode": "1600", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Bergensesteenweg"
     }, 
     {
@@ -4687,11 +4609,11 @@
         "690"
       ], 
       "housenumber": "690", 
-      "lat": 50.77164822492728, 
-      "lon": 4.2630473805295415, 
+      "lat": 50.77103351601575, 
+      "lon": 4.262256141741449, 
       "municipality": "Sint-Pieters-Leeuw", 
       "pcode": "1600", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Bergensesteenweg"
     }, 
     {
@@ -5242,7 +5164,7 @@
     }, 
     {
       "hnrlbls": [
-        "747-747B"
+        "747"
       ], 
       "housenumber": "747", 
       "lat": 50.76281698221885, 
@@ -5250,18 +5172,6 @@
       "municipality": "Sint-Pieters-Leeuw", 
       "pcode": "1600", 
       "source": "afgeleidVanGebouw", 
-      "street": "Bergensesteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "747-747B"
-      ], 
-      "housenumber": "747B", 
-      "lat": 50.76281698221885, 
-      "lon": 4.252163679591668, 
-      "municipality": "Sint-Pieters-Leeuw", 
-      "pcode": "1600", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Bergensesteenweg"
     }, 
     {
@@ -5700,8 +5610,12 @@
       "street": "Bergensesteenweg"
     }, 
     {
+      "busnrs": [
+        "1eL", 
+        "1eR"
+      ], 
       "hnrlbls": [
-        "777-777_1"
+        "777-777D"
       ], 
       "housenumber": "777", 
       "lat": 50.76064052724875, 
@@ -5713,54 +5627,38 @@
     }, 
     {
       "hnrlbls": [
-        "777-777_1"
+        "777-777D"
       ], 
       "housenumber": "777B", 
       "lat": 50.76064052724875, 
       "lon": 4.252211556023498, 
       "municipality": "Sint-Pieters-Leeuw", 
       "pcode": "1600", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Bergensesteenweg"
     }, 
     {
       "hnrlbls": [
-        "777-777_1"
+        "777-777D"
       ], 
       "housenumber": "777C", 
       "lat": 50.76064052724875, 
       "lon": 4.252211556023498, 
       "municipality": "Sint-Pieters-Leeuw", 
       "pcode": "1600", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Bergensesteenweg"
     }, 
     {
       "hnrlbls": [
-        "777-777_1"
+        "777-777D"
       ], 
       "housenumber": "777D", 
       "lat": 50.76064052724875, 
       "lon": 4.252211556023498, 
       "municipality": "Sint-Pieters-Leeuw", 
       "pcode": "1600", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Bergensesteenweg"
-    }, 
-    {
-      "busnrs": [
-        "eL", 
-        "eR"
-      ], 
-      "hnrlbls": [
-        "777-777_1"
-      ], 
-      "housenumber": "777_1", 
-      "lat": 50.76064052724875, 
-      "lon": 4.252211556023498, 
-      "municipality": "Sint-Pieters-Leeuw", 
-      "pcode": "1600", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Bergensesteenweg"
     }, 
     {
@@ -5813,19 +5711,7 @@
     }, 
     {
       "hnrlbls": [
-        "77E"
-      ], 
-      "housenumber": "77E", 
-      "lat": 50.80373753896196, 
-      "lon": 4.289017982196919, 
-      "municipality": "Sint-Pieters-Leeuw", 
-      "pcode": "1600", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Bergensesteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "780-780A"
+        "780"
       ], 
       "housenumber": "780", 
       "lat": 50.7565890972012, 
@@ -5848,14 +5734,14 @@
         "9"
       ], 
       "hnrlbls": [
-        "780-780A"
+        "780A"
       ], 
       "housenumber": "780A", 
-      "lat": 50.7565890972012, 
-      "lon": 4.249136378302707, 
+      "lat": 50.756444659273384, 
+      "lon": 4.248986234851362, 
       "municipality": "Sint-Pieters-Leeuw", 
       "pcode": "1600", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Bergensesteenweg"
     }, 
     {
@@ -5911,11 +5797,11 @@
         "789"
       ], 
       "housenumber": "789", 
-      "lat": 50.75857300734673, 
-      "lon": 4.2514250918989225, 
+      "lat": 50.75773599173499, 
+      "lon": 4.251589790197706, 
       "municipality": "Sint-Pieters-Leeuw", 
       "pcode": "1600", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Bergensesteenweg"
     }, 
     {
@@ -6018,11 +5904,11 @@
         "795"
       ], 
       "housenumber": "795", 
-      "lat": 50.757110496822015, 
-      "lon": 4.251184099133667, 
+      "lat": 50.75623001961053, 
+      "lon": 4.2498481056418, 
       "municipality": "Sint-Pieters-Leeuw", 
       "pcode": "1600", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Bergensesteenweg"
     }, 
     {

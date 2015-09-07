@@ -42,12 +42,16 @@
       "street": "Groenendaallaan"
     }, 
     {
+      "busnrs": [
+        "202", 
+        "303"
+      ], 
       "hnrlbls": [
         "13-17A"
       ], 
       "housenumber": "13", 
-      "lat": 51.21218660059641, 
-      "lon": 2.882956379654341, 
+      "lat": 51.21218482843941, 
+      "lon": 2.8829584399799724, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanPerceelGrb", 
@@ -58,8 +62,8 @@
         "13-17A"
       ], 
       "housenumber": "13A", 
-      "lat": 51.21218660059641, 
-      "lon": 2.882956379654341, 
+      "lat": 51.21218482843941, 
+      "lon": 2.8829584399799724, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
@@ -68,11 +72,12 @@
     {
       "busnrs": [
         "1", 
+        "2", 
         "3", 
         "4"
       ], 
       "hnrlbls": [
-        "14-14_4"
+        "14"
       ], 
       "housenumber": "14", 
       "lat": 51.212006999557396, 
@@ -80,54 +85,6 @@
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
-      "street": "Groenendaallaan"
-    }, 
-    {
-      "hnrlbls": [
-        "14-14_4"
-      ], 
-      "housenumber": "14_1", 
-      "lat": 51.212006999557396, 
-      "lon": 2.8833947941082507, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Groenendaallaan"
-    }, 
-    {
-      "hnrlbls": [
-        "14-14_4"
-      ], 
-      "housenumber": "14_2", 
-      "lat": 51.212006999557396, 
-      "lon": 2.8833947941082507, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Groenendaallaan"
-    }, 
-    {
-      "hnrlbls": [
-        "14-14_4"
-      ], 
-      "housenumber": "14_3", 
-      "lat": 51.212006999557396, 
-      "lon": 2.8833947941082507, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Groenendaallaan"
-    }, 
-    {
-      "hnrlbls": [
-        "14-14_4"
-      ], 
-      "housenumber": "14_4", 
-      "lat": 51.212006999557396, 
-      "lon": 2.8833947941082507, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Groenendaallaan"
     }, 
     {
@@ -168,8 +125,8 @@
         "13-17A"
       ], 
       "housenumber": "17", 
-      "lat": 51.21218660059641, 
-      "lon": 2.882956379654341, 
+      "lat": 51.21218482843941, 
+      "lon": 2.8829584399799724, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
@@ -180,8 +137,8 @@
         "13-17A"
       ], 
       "housenumber": "17A", 
-      "lat": 51.21218660059641, 
-      "lon": 2.882956379654341, 
+      "lat": 51.21218482843941, 
+      "lon": 2.8829584399799724, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanPerceelGrb", 
@@ -263,13 +220,18 @@
       "busnrs": [
         "1", 
         "10", 
+        "103", 
         "2", 
+        "201", 
         "3", 
+        "301", 
         "302", 
         "4", 
         "5", 
         "6", 
-        "7"
+        "7", 
+        "8", 
+        "9"
       ], 
       "hnrlbls": [
         "3"
@@ -284,11 +246,15 @@
     }, 
     {
       "busnrs": [
+        "1", 
         "101", 
-        "3"
+        "2", 
+        "201", 
+        "3", 
+        "4"
       ], 
       "hnrlbls": [
-        "30-30_4"
+        "30-30A"
       ], 
       "housenumber": "30", 
       "lat": 51.21166060945631, 
@@ -303,57 +269,9 @@
         "10"
       ], 
       "hnrlbls": [
-        "30-30_4"
+        "30-30A"
       ], 
       "housenumber": "30A", 
-      "lat": 51.21166060945631, 
-      "lon": 2.88277245867801, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Groenendaallaan"
-    }, 
-    {
-      "hnrlbls": [
-        "30-30_4"
-      ], 
-      "housenumber": "30_1", 
-      "lat": 51.21166060945631, 
-      "lon": 2.88277245867801, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Groenendaallaan"
-    }, 
-    {
-      "hnrlbls": [
-        "30-30_4"
-      ], 
-      "housenumber": "30_2", 
-      "lat": 51.21166060945631, 
-      "lon": 2.88277245867801, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Groenendaallaan"
-    }, 
-    {
-      "hnrlbls": [
-        "30-30_4"
-      ], 
-      "housenumber": "30_3", 
-      "lat": 51.21166060945631, 
-      "lon": 2.88277245867801, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Groenendaallaan"
-    }, 
-    {
-      "hnrlbls": [
-        "30-30_4"
-      ], 
-      "housenumber": "30_4", 
       "lat": 51.21166060945631, 
       "lon": 2.88277245867801, 
       "municipality": "Oostende", 
@@ -424,126 +342,6 @@
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
-      "street": "Groenendaallaan"
-    }, 
-    {
-      "hnrlbls": [
-        "3_1-3_10"
-      ], 
-      "housenumber": "3_1", 
-      "lat": 51.21246248053228, 
-      "lon": 2.883612457939345, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Groenendaallaan"
-    }, 
-    {
-      "hnrlbls": [
-        "3_1-3_10"
-      ], 
-      "housenumber": "3_10", 
-      "lat": 51.21246248053228, 
-      "lon": 2.883612457939345, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Groenendaallaan"
-    }, 
-    {
-      "hnrlbls": [
-        "3_1-3_10"
-      ], 
-      "housenumber": "3_2", 
-      "lat": 51.21246248053228, 
-      "lon": 2.883612457939345, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Groenendaallaan"
-    }, 
-    {
-      "hnrlbls": [
-        "3_1-3_10"
-      ], 
-      "housenumber": "3_3", 
-      "lat": 51.21246248053228, 
-      "lon": 2.883612457939345, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Groenendaallaan"
-    }, 
-    {
-      "hnrlbls": [
-        "3_1-3_10"
-      ], 
-      "housenumber": "3_4", 
-      "lat": 51.21246248053228, 
-      "lon": 2.883612457939345, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Groenendaallaan"
-    }, 
-    {
-      "hnrlbls": [
-        "3_1-3_10"
-      ], 
-      "housenumber": "3_5", 
-      "lat": 51.21246248053228, 
-      "lon": 2.883612457939345, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Groenendaallaan"
-    }, 
-    {
-      "hnrlbls": [
-        "3_1-3_10"
-      ], 
-      "housenumber": "3_6", 
-      "lat": 51.21246248053228, 
-      "lon": 2.883612457939345, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Groenendaallaan"
-    }, 
-    {
-      "hnrlbls": [
-        "3_1-3_10"
-      ], 
-      "housenumber": "3_7", 
-      "lat": 51.21246248053228, 
-      "lon": 2.883612457939345, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Groenendaallaan"
-    }, 
-    {
-      "hnrlbls": [
-        "3_1-3_10"
-      ], 
-      "housenumber": "3_8", 
-      "lat": 51.21246248053228, 
-      "lon": 2.883612457939345, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Groenendaallaan"
-    }, 
-    {
-      "hnrlbls": [
-        "3_1-3_10"
-      ], 
-      "housenumber": "3_9", 
-      "lat": 51.21246248053228, 
-      "lon": 2.883612457939345, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Groenendaallaan"
     }, 
     {
@@ -668,11 +466,15 @@
     }, 
     {
       "busnrs": [
+        "1", 
         "101", 
-        "201"
+        "2", 
+        "201", 
+        "3", 
+        "4"
       ], 
       "hnrlbls": [
-        "5-5_4"
+        "5"
       ], 
       "housenumber": "5", 
       "lat": 51.21235163270422, 
@@ -723,6 +525,7 @@
     }, 
     {
       "busnrs": [
+        "1", 
         "2"
       ], 
       "hnrlbls": [
@@ -793,10 +596,12 @@
         "13", 
         "2", 
         "202", 
+        "203", 
         "21", 
         "23", 
         "3", 
         "301", 
+        "302", 
         "31", 
         "32", 
         "6"
@@ -810,54 +615,6 @@
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
-      "street": "Groenendaallaan"
-    }, 
-    {
-      "hnrlbls": [
-        "5-5_4"
-      ], 
-      "housenumber": "5_1", 
-      "lat": 51.21235163270422, 
-      "lon": 2.8834908865278397, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Groenendaallaan"
-    }, 
-    {
-      "hnrlbls": [
-        "5-5_4"
-      ], 
-      "housenumber": "5_2", 
-      "lat": 51.21235163270422, 
-      "lon": 2.8834908865278397, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Groenendaallaan"
-    }, 
-    {
-      "hnrlbls": [
-        "5-5_4"
-      ], 
-      "housenumber": "5_3", 
-      "lat": 51.21235163270422, 
-      "lon": 2.8834908865278397, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Groenendaallaan"
-    }, 
-    {
-      "hnrlbls": [
-        "5-5_4"
-      ], 
-      "housenumber": "5_4", 
-      "lat": 51.21235163270422, 
-      "lon": 2.8834908865278397, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Groenendaallaan"
     }, 
     {
