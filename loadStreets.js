@@ -277,10 +277,37 @@ function getOsmInfo() {
 	var req = new XMLHttpRequest();
 	req.onreadystatechange = function()
 	{
+		switch(req.readyState) {
+			case 0:
+				// 0: request not initialized 
+					overpasserror.innerHTML = 'Overpass request not initialized';
+					break;
+			case 1:
+				// 1: server connection established
+					overpasserror.innerHTML = 'Overpass server connection established';
+					break;
+			case 2:
+				// 2: request received 
+					overpasserror.innerHTML = 'Overpass request received';
+					break;
+			case 3:
+				// 3: processing request 
+					overpasserror.innerHTML = 'Overpass processing request';
+					break;
+			case 4:
+				// 4: request finished and response is ready
+					overpasserror.innerHTML = 'Overpass request finished and response is ready';
+					break;
+			default:
+					overpasserror.innerHTML = 'Overpass Unknown status';
+				// unknown status
+		}
 		if (req.readyState != 4)
 			return;
-		if (req.status != 200)
+		if (req.status != 200) {
+	        overpasserror.innerHTML = 'non "HTTP 200 OK" status: ' + req.status ;
 			return;
+        }
 		var data = JSON.parse(req.responseText).elements;
 		for (var i = 0; i < data.length; i++)
 		{
