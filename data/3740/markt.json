@@ -1,19 +1,27 @@
 {
   "addresses": [
     {
-      "busnrs": [
-        "1", 
-        "2"
+      "hnrlbls": [
+        "1"
       ], 
+      "housenumber": "1", 
+      "lat": 50.87037870360796, 
+      "lon": 5.5172659304377545, 
+      "municipality": "Bilzen", 
+      "pcode": "3740", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Markt"
+    }, 
+    {
       "hnrlbls": [
         "11"
       ], 
       "housenumber": "11", 
-      "lat": 50.870063728185414, 
-      "lon": 5.51660863169615, 
+      "lat": 50.87009150116922, 
+      "lon": 5.516655344917342, 
       "municipality": "Bilzen", 
       "pcode": "3740", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Markt"
     }, 
     {
@@ -27,7 +35,7 @@
         "12"
       ], 
       "housenumber": "12", 
-      "lat": 50.870640495783576, 
+      "lat": 50.8706404957836, 
       "lon": 5.516872371457781, 
       "municipality": "Bilzen", 
       "pcode": "3740", 
@@ -35,22 +43,7 @@
       "street": "Markt"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "13"
-      ], 
-      "housenumber": "13", 
-      "lat": 50.8700139330229, 
-      "lon": 5.516726762211647, 
-      "municipality": "Bilzen", 
-      "pcode": "3740", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Markt"
-    }, 
-    {
-      "busnrs": [
+      "apptnrs": [
         "11", 
         "12", 
         "21", 
@@ -62,7 +55,7 @@
         "14"
       ], 
       "housenumber": "14", 
-      "lat": 50.870667045908185, 
+      "lat": 50.870667045908206, 
       "lon": 5.51699805352865, 
       "municipality": "Bilzen", 
       "pcode": "3740", 
@@ -70,14 +63,14 @@
       "street": "Markt"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1"
       ], 
       "hnrlbls": [
         "15"
       ], 
       "housenumber": "15", 
-      "lat": 50.870013265576794, 
+      "lat": 50.87001326557683, 
       "lon": 5.516868400441164, 
       "municipality": "Bilzen", 
       "pcode": "3740", 
@@ -89,8 +82,8 @@
         "16"
       ], 
       "housenumber": "16", 
-      "lat": 50.87068596519836, 
-      "lon": 5.51710422584126, 
+      "lat": 50.87068596519839, 
+      "lon": 5.517104225841261, 
       "municipality": "Bilzen", 
       "pcode": "3740", 
       "source": "afgeleidVanGebouw", 
@@ -105,8 +98,8 @@
         "17"
       ], 
       "housenumber": "17", 
-      "lat": 50.86997505838615, 
-      "lon": 5.516959960697548, 
+      "lat": 50.869975058386174, 
+      "lon": 5.516959960697549, 
       "municipality": "Bilzen", 
       "pcode": "3740", 
       "source": "manueleAanduidingVanGebouw", 
@@ -117,7 +110,7 @@
         "18"
       ], 
       "housenumber": "18", 
-      "lat": 50.87070870008873, 
+      "lat": 50.87070870008875, 
       "lon": 5.51717880708444, 
       "municipality": "Bilzen", 
       "pcode": "3740", 
@@ -125,11 +118,19 @@
       "street": "Markt"
     }, 
     {
+      "apptnrs": [
+        "1", 
+        "2", 
+        "3"
+      ], 
+      "busnrs": [
+        "4"
+      ], 
       "hnrlbls": [
         "19"
       ], 
       "housenumber": "19", 
-      "lat": 50.86993894627, 
+      "lat": 50.86993894627001, 
       "lon": 5.517048730433467, 
       "municipality": "Bilzen", 
       "pcode": "3740", 
@@ -138,11 +139,11 @@
     }, 
     {
       "hnrlbls": [
-        "2"
+        "1A"
       ], 
-      "housenumber": "2", 
-      "lat": 50.87046229536896, 
-      "lon": 5.5165058465439705, 
+      "housenumber": "1A", 
+      "lat": 50.87057768222748, 
+      "lon": 5.517530240403588, 
       "municipality": "Bilzen", 
       "pcode": "3740", 
       "source": "manueleAanduidingVanGebouw", 
@@ -153,11 +154,26 @@
         "1"
       ], 
       "hnrlbls": [
+        "2"
+      ], 
+      "housenumber": "2", 
+      "lat": 50.87046229536896, 
+      "lon": 5.516505846543972, 
+      "municipality": "Bilzen", 
+      "pcode": "3740", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Markt"
+    }, 
+    {
+      "apptnrs": [
+        "1"
+      ], 
+      "hnrlbls": [
         "20"
       ], 
       "housenumber": "20", 
-      "lat": 50.87073984002975, 
-      "lon": 5.517248905259583, 
+      "lat": 50.870739840029785, 
+      "lon": 5.517248905259584, 
       "municipality": "Bilzen", 
       "pcode": "3740", 
       "source": "afgeleidVanGebouw", 
@@ -168,7 +184,7 @@
         "21"
       ], 
       "housenumber": "21", 
-      "lat": 50.86993694137256, 
+      "lat": 50.869936941372565, 
       "lon": 5.517235091108784, 
       "municipality": "Bilzen", 
       "pcode": "3740", 
@@ -180,33 +196,35 @@
         "22"
       ], 
       "housenumber": "22", 
-      "lat": 50.87077039164198, 
-      "lon": 5.517305633325638, 
+      "lat": 50.870770391642004, 
+      "lon": 5.5173056333256385, 
       "municipality": "Bilzen", 
       "pcode": "3740", 
       "source": "manueleAanduidingVanGebouw", 
       "street": "Markt"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "11", 
-        "21", 
+        "21"
+      ], 
+      "busnrs": [
         "31"
       ], 
       "hnrlbls": [
         "23"
       ], 
       "housenumber": "23", 
-      "lat": 50.86965721736093, 
-      "lon": 5.517394056034825, 
+      "lat": 50.869657217360945, 
+      "lon": 5.517394056034824, 
       "municipality": "Bilzen", 
       "pcode": "3740", 
       "source": "afgeleidVanGebouw", 
       "street": "Markt"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2"
       ], 
@@ -214,8 +232,8 @@
         "25"
       ], 
       "housenumber": "25", 
-      "lat": 50.86981082029922, 
-      "lon": 5.517756566241382, 
+      "lat": 50.86981082029925, 
+      "lon": 5.517756566241383, 
       "municipality": "Bilzen", 
       "pcode": "3740", 
       "source": "afgeleidVanGebouw", 
@@ -226,7 +244,7 @@
         "27"
       ], 
       "housenumber": "27", 
-      "lat": 50.86989686296893, 
+      "lat": 50.86989686296895, 
       "lon": 5.517664472483377, 
       "municipality": "Bilzen", 
       "pcode": "3740", 
@@ -235,25 +253,37 @@
     }, 
     {
       "hnrlbls": [
-        "3"
+        "29"
       ], 
-      "housenumber": "3", 
-      "lat": 50.870278187734904, 
-      "lon": 5.51638455496417, 
+      "housenumber": "29", 
+      "lat": 50.869918057206654, 
+      "lon": 5.517648509754988, 
       "municipality": "Bilzen", 
       "pcode": "3740", 
       "source": "manueleAanduidingVanGebouw", 
       "street": "Markt"
     }, 
     {
-      "busnrs": [
+      "hnrlbls": [
+        "3"
+      ], 
+      "housenumber": "3", 
+      "lat": 50.870278187734925, 
+      "lon": 5.516384554964171, 
+      "municipality": "Bilzen", 
+      "pcode": "3740", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Markt"
+    }, 
+    {
+      "apptnrs": [
         "1"
       ], 
       "hnrlbls": [
         "33"
       ], 
       "housenumber": "33", 
-      "lat": 50.86995810898066, 
+      "lat": 50.86995810898068, 
       "lon": 5.517809188442282, 
       "municipality": "Bilzen", 
       "pcode": "3740", 
@@ -261,11 +291,15 @@
       "street": "Markt"
     }, 
     {
+      "apptnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "35"
       ], 
       "housenumber": "35", 
-      "lat": 50.87012882722613, 
+      "lat": 50.870128827226154, 
       "lon": 5.517792054205671, 
       "municipality": "Bilzen", 
       "pcode": "3740", 
@@ -277,8 +311,8 @@
         "37"
       ], 
       "housenumber": "37", 
-      "lat": 50.87017232124542, 
-      "lon": 5.517858333925205, 
+      "lat": 50.87017232124544, 
+      "lon": 5.517858333925206, 
       "municipality": "Bilzen", 
       "pcode": "3740", 
       "source": "afgeleidVanGebouw", 
@@ -289,8 +323,8 @@
         "39"
       ], 
       "housenumber": "39", 
-      "lat": 50.87025468732878, 
-      "lon": 5.517976288286526, 
+      "lat": 50.8702546873288, 
+      "lon": 5.517976288286524, 
       "municipality": "Bilzen", 
       "pcode": "3740", 
       "source": "manueleAanduidingVanGebouw", 
@@ -301,71 +335,8 @@
         "4"
       ], 
       "housenumber": "4", 
-      "lat": 50.87049197801434, 
-      "lon": 5.516605461373888, 
-      "municipality": "Bilzen", 
-      "pcode": "3740", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Markt"
-    }, 
-    {
-      "hnrlbls": [
-        "41"
-      ], 
-      "housenumber": "41", 
-      "lat": 50.87032076172284, 
-      "lon": 5.518059460476423, 
-      "municipality": "Bilzen", 
-      "pcode": "3740", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Markt"
-    }, 
-    {
-      "hnrlbls": [
-        "43-47"
-      ], 
-      "housenumber": "43", 
-      "lat": 50.870390112665795, 
-      "lon": 5.518276128083275, 
-      "municipality": "Bilzen", 
-      "pcode": "3740", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Markt"
-    }, 
-    {
-      "hnrlbls": [
-        "43A"
-      ], 
-      "housenumber": "43A", 
-      "lat": 50.87039556291183, 
-      "lon": 5.518041115831958, 
-      "municipality": "Bilzen", 
-      "pcode": "3740", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Markt"
-    }, 
-    {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "43-47"
-      ], 
-      "housenumber": "45", 
-      "lat": 50.870390112665795, 
-      "lon": 5.518276128083275, 
-      "municipality": "Bilzen", 
-      "pcode": "3740", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Markt"
-    }, 
-    {
-      "hnrlbls": [
-        "43-47"
-      ], 
-      "housenumber": "47", 
-      "lat": 50.870390112665795, 
-      "lon": 5.518276128083275, 
+      "lat": 50.87049197801436, 
+      "lon": 5.516605461373886, 
       "municipality": "Bilzen", 
       "pcode": "3740", 
       "source": "afgeleidVanGebouw", 
@@ -374,67 +345,14 @@
     {
       "busnrs": [
         "1", 
-        "11", 
-        "12", 
-        "21", 
-        "22", 
-        "31", 
-        "32"
+        "2"
       ], 
       "hnrlbls": [
-        "49-51"
+        "41"
       ], 
-      "housenumber": "49", 
-      "lat": 50.87048499734663, 
-      "lon": 5.518410161387871, 
-      "municipality": "Bilzen", 
-      "pcode": "3740", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Markt"
-    }, 
-    {
-      "hnrlbls": [
-        "49-51"
-      ], 
-      "housenumber": "51", 
-      "lat": 50.87048499734663, 
-      "lon": 5.518410161387871, 
-      "municipality": "Bilzen", 
-      "pcode": "3740", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Markt"
-    }, 
-    {
-      "hnrlbls": [
-        "53"
-      ], 
-      "housenumber": "53", 
-      "lat": 50.870601424201865, 
-      "lon": 5.518456063220894, 
-      "municipality": "Bilzen", 
-      "pcode": "3740", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Markt"
-    }, 
-    {
-      "hnrlbls": [
-        "6"
-      ], 
-      "housenumber": "6", 
-      "lat": 50.870593782934755, 
-      "lon": 5.516611360213772, 
-      "municipality": "Bilzen", 
-      "pcode": "3740", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Markt"
-    }, 
-    {
-      "hnrlbls": [
-        "8"
-      ], 
-      "housenumber": "8", 
-      "lat": 50.870609892156615, 
-      "lon": 5.516701550240809, 
+      "housenumber": "41", 
+      "lat": 50.87032076172285, 
+      "lon": 5.518059460476424, 
       "municipality": "Bilzen", 
       "pcode": "3740", 
       "source": "manueleAanduidingVanGebouw", 
@@ -442,10 +360,103 @@
     }, 
     {
       "hnrlbls": [
+        "43"
+      ], 
+      "housenumber": "43", 
+      "lat": 50.870413196219964, 
+      "lon": 5.518049077804556, 
+      "municipality": "Bilzen", 
+      "pcode": "3740", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Markt"
+    }, 
+    {
+      "hnrlbls": [
+        "45"
+      ], 
+      "housenumber": "45", 
+      "lat": 50.87045316636145, 
+      "lon": 5.518098790373861, 
+      "municipality": "Bilzen", 
+      "pcode": "3740", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Markt"
+    }, 
+    {
+      "hnrlbls": [
+        "47"
+      ], 
+      "housenumber": "47", 
+      "lat": 50.870504100285814, 
+      "lon": 5.518158148855977, 
+      "municipality": "Bilzen", 
+      "pcode": "3740", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Markt"
+    }, 
+    {
+      "hnrlbls": [
+        "49"
+      ], 
+      "housenumber": "49", 
+      "lat": 50.870538923337136, 
+      "lon": 5.518210151008515, 
+      "municipality": "Bilzen", 
+      "pcode": "3740", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Markt"
+    }, 
+    {
+      "hnrlbls": [
+        "51"
+      ], 
+      "housenumber": "51", 
+      "lat": 50.87058399364605, 
+      "lon": 5.5183357187197, 
+      "municipality": "Bilzen", 
+      "pcode": "3740", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Markt"
+    }, 
+    {
+      "hnrlbls": [
+        "6"
+      ], 
+      "housenumber": "6", 
+      "lat": 50.870593782934776, 
+      "lon": 5.516611360213772, 
+      "municipality": "Bilzen", 
+      "pcode": "3740", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Markt"
+    }, 
+    {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4"
+      ], 
+      "hnrlbls": [
+        "8"
+      ], 
+      "housenumber": "8", 
+      "lat": 50.87060989215664, 
+      "lon": 5.516701550240809, 
+      "municipality": "Bilzen", 
+      "pcode": "3740", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Markt"
+    }, 
+    {
+      "busnrs": [
+        "3"
+      ], 
+      "hnrlbls": [
         "8B"
       ], 
       "housenumber": "8B", 
-      "lat": 50.87068596501688, 
+      "lat": 50.870685965016904, 
       "lon": 5.516663484905907, 
       "municipality": "Bilzen", 
       "pcode": "3740", 
