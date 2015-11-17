@@ -1,11 +1,29 @@
 {
   "addresses": [
     {
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301", 
+        "401"
+      ], 
+      "hnrlbls": [
+        "1"
+      ], 
+      "housenumber": "1", 
+      "lat": 51.220128154185254, 
+      "lon": 4.405474513015275, 
+      "municipality": "Antwerpen", 
+      "pcode": "2000", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Lange Nieuwstraat"
+    }, 
+    {
       "hnrlbls": [
         "10"
       ], 
       "housenumber": "10", 
-      "lat": 51.21985164450825, 
+      "lat": 51.21985164450827, 
       "lon": 4.4057381879106785, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
@@ -17,7 +35,7 @@
         "104"
       ], 
       "housenumber": "104", 
-      "lat": 51.219368235610496, 
+      "lat": 51.21936823561052, 
       "lon": 4.412265441350686, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
@@ -29,7 +47,7 @@
         "105-107"
       ], 
       "housenumber": "105", 
-      "lat": 51.21985659084575, 
+      "lat": 51.21985659084576, 
       "lon": 4.4119816489091, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
@@ -41,7 +59,7 @@
         "106"
       ], 
       "housenumber": "106", 
-      "lat": 51.21933724940673, 
+      "lat": 51.219337249406735, 
       "lon": 4.412680769506929, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
@@ -53,7 +71,7 @@
         "105-107"
       ], 
       "housenumber": "107", 
-      "lat": 51.21985659084575, 
+      "lat": 51.21985659084576, 
       "lon": 4.4119816489091, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
@@ -65,7 +83,7 @@
         "109"
       ], 
       "housenumber": "109", 
-      "lat": 51.21966309342807, 
+      "lat": 51.21966309342809, 
       "lon": 4.412641577712022, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
@@ -83,7 +101,7 @@
         "11"
       ], 
       "housenumber": "11", 
-      "lat": 51.220052861406394, 
+      "lat": 51.22005286140642, 
       "lon": 4.406122368877192, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
@@ -95,8 +113,8 @@
         "113"
       ], 
       "housenumber": "113", 
-      "lat": 51.21959941321474, 
-      "lon": 4.412753872959372, 
+      "lat": 51.21960255893454, 
+      "lon": 4.4127544484899595, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanPerceelGrb", 
@@ -113,8 +131,8 @@
         "115-117"
       ], 
       "housenumber": "115", 
-      "lat": 51.21954841758365, 
-      "lon": 4.412836981839343, 
+      "lat": 51.21954841758366, 
+      "lon": 4.412836981839345, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
@@ -125,8 +143,8 @@
         "115-117"
       ], 
       "housenumber": "117", 
-      "lat": 51.21954841758365, 
-      "lon": 4.412836981839343, 
+      "lat": 51.21954841758366, 
+      "lon": 4.412836981839345, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
@@ -137,7 +155,7 @@
         "119"
       ], 
       "housenumber": "119", 
-      "lat": 51.21953597866211, 
+      "lat": 51.219535978662115, 
       "lon": 4.4129291447363475, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
@@ -146,13 +164,20 @@
     }, 
     {
       "busnrs": [
-        "1"
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6", 
+        "7", 
+        "8"
       ], 
       "hnrlbls": [
         "12"
       ], 
       "housenumber": "12", 
-      "lat": 51.21977999454483, 
+      "lat": 51.21977999454485, 
       "lon": 4.405777347462574, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
@@ -164,7 +189,7 @@
         "121"
       ], 
       "housenumber": "121", 
-      "lat": 51.21953271549856, 
+      "lat": 51.21953271549858, 
       "lon": 4.413001135295586, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
@@ -179,7 +204,7 @@
         "123"
       ], 
       "housenumber": "123", 
-      "lat": 51.21961465861638, 
+      "lat": 51.2196146586164, 
       "lon": 4.413318101611134, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
@@ -191,7 +216,7 @@
         "124"
       ], 
       "housenumber": "124", 
-      "lat": 51.21934297373129, 
+      "lat": 51.21934297373131, 
       "lon": 4.413463256004317, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
@@ -206,7 +231,7 @@
         "125-129"
       ], 
       "housenumber": "125", 
-      "lat": 51.21970215339745, 
+      "lat": 51.21970215339747, 
       "lon": 4.4134541592252665, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
@@ -218,7 +243,7 @@
         "126"
       ], 
       "housenumber": "126", 
-      "lat": 51.219418505690605, 
+      "lat": 51.219418505690626, 
       "lon": 4.4136203412715345, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
@@ -230,7 +255,7 @@
         "125-129"
       ], 
       "housenumber": "127", 
-      "lat": 51.21970215339745, 
+      "lat": 51.21970215339747, 
       "lon": 4.4134541592252665, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
@@ -254,7 +279,7 @@
         "125-129"
       ], 
       "housenumber": "129", 
-      "lat": 51.21970215339745, 
+      "lat": 51.21970215339747, 
       "lon": 4.4134541592252665, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
@@ -266,7 +291,7 @@
         "13"
       ], 
       "housenumber": "13", 
-      "lat": 51.22008195993828, 
+      "lat": 51.220081959938305, 
       "lon": 4.406196390998515, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
@@ -278,7 +303,7 @@
         "130"
       ], 
       "housenumber": "130", 
-      "lat": 51.219552047904756, 
+      "lat": 51.21955204790476, 
       "lon": 4.4140340134711415, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
@@ -290,7 +315,7 @@
         "131-133"
       ], 
       "housenumber": "131", 
-      "lat": 51.21968699064217, 
+      "lat": 51.21968699064218, 
       "lon": 4.41361602347704, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
@@ -302,7 +327,7 @@
         "131-133"
       ], 
       "housenumber": "133", 
-      "lat": 51.21968699064217, 
+      "lat": 51.21968699064218, 
       "lon": 4.41361602347704, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
@@ -317,8 +342,8 @@
         "135"
       ], 
       "housenumber": "135", 
-      "lat": 51.219703312189694, 
-      "lon": 4.413712794729598, 
+      "lat": 51.219703312189715, 
+      "lon": 4.413712794729596, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
@@ -336,7 +361,7 @@
         "25-136"
       ], 
       "housenumber": "136", 
-      "lat": 51.21946556242376, 
+      "lat": 51.21946556242378, 
       "lon": 4.4139624641782405, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
@@ -348,7 +373,7 @@
         "137"
       ], 
       "housenumber": "137", 
-      "lat": 51.21970131090857, 
+      "lat": 51.219701310908604, 
       "lon": 4.413774481431772, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
@@ -360,7 +385,7 @@
         "139"
       ], 
       "housenumber": "139", 
-      "lat": 51.2197096500655, 
+      "lat": 51.21970965006552, 
       "lon": 4.4138263023674025, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
@@ -375,7 +400,7 @@
         "141"
       ], 
       "housenumber": "141", 
-      "lat": 51.21972499820141, 
+      "lat": 51.219724998201436, 
       "lon": 4.4138831397314515, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
@@ -390,8 +415,8 @@
         "142"
       ], 
       "housenumber": "142", 
-      "lat": 51.21956210194078, 
-      "lon": 4.414182691183876, 
+      "lat": 51.21956210194079, 
+      "lon": 4.414182691183875, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
@@ -406,7 +431,7 @@
         "143"
       ], 
       "housenumber": "143", 
-      "lat": 51.21976118525835, 
+      "lat": 51.219761185258356, 
       "lon": 4.413976352487181, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
@@ -418,7 +443,7 @@
         "144"
       ], 
       "housenumber": "144", 
-      "lat": 51.219620143803795, 
+      "lat": 51.219620143803816, 
       "lon": 4.414242003959715, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
@@ -430,7 +455,7 @@
         "145"
       ], 
       "housenumber": "145", 
-      "lat": 51.21977912798494, 
+      "lat": 51.219779127984964, 
       "lon": 4.41406396533932, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
@@ -438,11 +463,23 @@
       "street": "Lange Nieuwstraat"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "10", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6", 
+        "7", 
+        "8", 
+        "9"
+      ], 
       "hnrlbls": [
         "146"
       ], 
       "housenumber": "146", 
-      "lat": 51.21965609984109, 
+      "lat": 51.219656099841124, 
       "lon": 4.414309274422796, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
@@ -454,7 +491,7 @@
         "147"
       ], 
       "housenumber": "147", 
-      "lat": 51.21978252183997, 
+      "lat": 51.21978252183999, 
       "lon": 4.414119789151774, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
@@ -466,8 +503,8 @@
         "148"
       ], 
       "housenumber": "148", 
-      "lat": 51.21967556763586, 
-      "lon": 4.414330369487513, 
+      "lat": 51.21967556763589, 
+      "lon": 4.414330369487512, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "manueleAanduidingVanGebouw", 
@@ -478,7 +515,7 @@
         "149"
       ], 
       "housenumber": "149", 
-      "lat": 51.21978951219627, 
+      "lat": 51.21978951219629, 
       "lon": 4.414172610811611, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
@@ -493,7 +530,7 @@
         "15-27"
       ], 
       "housenumber": "15", 
-      "lat": 51.220048006591725, 
+      "lat": 51.22004800659173, 
       "lon": 4.406403902020312, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
@@ -505,7 +542,7 @@
         "150"
       ], 
       "housenumber": "150", 
-      "lat": 51.21969091614657, 
+      "lat": 51.21969091614659, 
       "lon": 4.414385632556287, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
@@ -529,7 +566,7 @@
         "92-153"
       ], 
       "housenumber": "153", 
-      "lat": 51.21985331702329, 
+      "lat": 51.219853317023315, 
       "lon": 4.414435030490936, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
@@ -558,7 +595,7 @@
         "16-18"
       ], 
       "housenumber": "16", 
-      "lat": 51.2198709444876, 
+      "lat": 51.219870944487624, 
       "lon": 4.406097172687486, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
@@ -585,7 +622,7 @@
         "16-18"
       ], 
       "housenumber": "18", 
-      "lat": 51.2198709444876, 
+      "lat": 51.219870944487624, 
       "lon": 4.406097172687486, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
@@ -601,23 +638,20 @@
         "19"
       ], 
       "housenumber": "19", 
-      "lat": 51.220066116552246, 
-      "lon": 4.406822429785387, 
+      "lat": 51.22006611655227, 
+      "lon": 4.406822429785389, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
       "street": "Lange Nieuwstraat"
     }, 
     {
-      "busnrs": [
-        "4"
-      ], 
       "hnrlbls": [
         "2"
       ], 
       "housenumber": "2", 
-      "lat": 51.21991320627353, 
-      "lon": 4.405482607857101, 
+      "lat": 51.21995417436346, 
+      "lon": 4.405441623123148, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
@@ -628,7 +662,7 @@
         "20"
       ], 
       "housenumber": "20", 
-      "lat": 51.219728383392855, 
+      "lat": 51.21972838339288, 
       "lon": 4.406391616326963, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
@@ -651,18 +685,22 @@
       ], 
       "housenumber": "21", 
       "lat": 51.22015072922218, 
-      "lon": 4.40699883692321, 
+      "lon": 4.4069988369232105, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
       "street": "Lange Nieuwstraat"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "3"
+      ], 
       "hnrlbls": [
         "21_2"
       ], 
       "housenumber": "21_2", 
-      "lat": 51.220123013218775, 
+      "lat": 51.220123013218796, 
       "lon": 4.407013398768476, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
@@ -674,7 +712,7 @@
         "22"
       ], 
       "housenumber": "22", 
-      "lat": 51.21948750245262, 
+      "lat": 51.21948750245263, 
       "lon": 4.406643467560879, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
@@ -687,7 +725,7 @@
       ], 
       "housenumber": "23", 
       "lat": 51.22015072922218, 
-      "lon": 4.40699883692321, 
+      "lon": 4.4069988369232105, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
@@ -698,7 +736,7 @@
         "24"
       ], 
       "housenumber": "24", 
-      "lat": 51.21958085341681, 
+      "lat": 51.21958085341683, 
       "lon": 4.406761053524857, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
@@ -713,7 +751,7 @@
         "25"
       ], 
       "housenumber": "25", 
-      "lat": 51.219993485497824, 
+      "lat": 51.21999348549783, 
       "lon": 4.407110347035613, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
@@ -728,8 +766,8 @@
         "26"
       ], 
       "housenumber": "26", 
-      "lat": 51.21976176644972, 
-      "lon": 4.4073765166445975, 
+      "lat": 51.21976176644974, 
+      "lon": 4.407376516644597, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
@@ -740,8 +778,8 @@
         "26A"
       ], 
       "housenumber": "26A", 
-      "lat": 51.21976129511862, 
-      "lon": 4.407382942753748, 
+      "lat": 51.21976129511864, 
+      "lon": 4.40738294275375, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "manueleAanduidingVanGebouw", 
@@ -752,7 +790,7 @@
         "27"
       ], 
       "housenumber": "27", 
-      "lat": 51.22000645805644, 
+      "lat": 51.22000645805646, 
       "lon": 4.4072934212657175, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
@@ -764,7 +802,7 @@
         "28"
       ], 
       "housenumber": "28", 
-      "lat": 51.2196431742334, 
+      "lat": 51.219643174233404, 
       "lon": 4.407482618336315, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
@@ -784,7 +822,7 @@
         "29"
       ], 
       "housenumber": "29", 
-      "lat": 51.22002684743927, 
+      "lat": 51.22002684743929, 
       "lon": 4.407606034642352, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
@@ -792,12 +830,15 @@
       "street": "Lange Nieuwstraat"
     }, 
     {
+      "busnrs": [
+        "9"
+      ], 
       "hnrlbls": [
         "29P"
       ], 
       "housenumber": "29P", 
       "lat": 51.22002702897957, 
-      "lon": 4.40760879720799, 
+      "lon": 4.407608797207991, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "manueleAanduidingVanGebouw", 
@@ -808,8 +849,8 @@
         "3"
       ], 
       "housenumber": "3", 
-      "lat": 51.22010199199453, 
-      "lon": 4.405672836500952, 
+      "lat": 51.220101991994554, 
+      "lon": 4.405672836500953, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
@@ -824,7 +865,7 @@
         "30"
       ], 
       "housenumber": "30", 
-      "lat": 51.21964475347819, 
+      "lat": 51.2196447534782, 
       "lon": 4.407598411004101, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
@@ -841,8 +882,8 @@
         "31-33"
       ], 
       "housenumber": "31", 
-      "lat": 51.21995397613149, 
-      "lon": 4.407800915781552, 
+      "lat": 51.219953976131514, 
+      "lon": 4.407800915781551, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
@@ -853,7 +894,7 @@
         "9A-36"
       ], 
       "housenumber": "32", 
-      "lat": 51.21945673406695, 
+      "lat": 51.21945673406696, 
       "lon": 4.4078135166681545, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
@@ -865,8 +906,8 @@
         "31-33"
       ], 
       "housenumber": "33", 
-      "lat": 51.21995397613149, 
-      "lon": 4.407800915781552, 
+      "lat": 51.219953976131514, 
+      "lon": 4.407800915781551, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
@@ -922,7 +963,7 @@
         "9A-36"
       ], 
       "housenumber": "34", 
-      "lat": 51.21945673406695, 
+      "lat": 51.21945673406696, 
       "lon": 4.4078135166681545, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
@@ -934,7 +975,7 @@
         "9A-36"
       ], 
       "housenumber": "34A", 
-      "lat": 51.21945673406695, 
+      "lat": 51.21945673406696, 
       "lon": 4.4078135166681545, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
@@ -946,7 +987,7 @@
         "35"
       ], 
       "housenumber": "35", 
-      "lat": 51.21992634357442, 
+      "lat": 51.21992634357444, 
       "lon": 4.407914394185053, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
@@ -958,7 +999,7 @@
         "9A-36"
       ], 
       "housenumber": "36", 
-      "lat": 51.21945673406695, 
+      "lat": 51.21945673406696, 
       "lon": 4.4078135166681545, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
@@ -970,7 +1011,7 @@
         "37"
       ], 
       "housenumber": "37", 
-      "lat": 51.21994815550853, 
+      "lat": 51.219948155508554, 
       "lon": 4.40800286710462, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
@@ -1051,7 +1092,7 @@
         "39"
       ], 
       "housenumber": "39", 
-      "lat": 51.220046782671346, 
+      "lat": 51.22004678267137, 
       "lon": 4.408195891101143, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
@@ -1063,8 +1104,8 @@
         "4"
       ], 
       "housenumber": "4", 
-      "lat": 51.21990195759741, 
-      "lon": 4.405524249587019, 
+      "lat": 51.21993275405422, 
+      "lon": 4.405524251637882, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
@@ -1114,7 +1155,7 @@
         "41"
       ], 
       "housenumber": "41", 
-      "lat": 51.21999629235709, 
+      "lat": 51.21999629235711, 
       "lon": 4.4083882144203965, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
@@ -1126,7 +1167,7 @@
         "42"
       ], 
       "housenumber": "42", 
-      "lat": 51.2195886211468, 
+      "lat": 51.219588621146826, 
       "lon": 4.408527698660074, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
@@ -1138,7 +1179,7 @@
         "43"
       ], 
       "housenumber": "43", 
-      "lat": 51.21999611268698, 
+      "lat": 51.21999611268699, 
       "lon": 4.408387928004914, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
@@ -1150,7 +1191,7 @@
         "8-44"
       ], 
       "housenumber": "44", 
-      "lat": 51.21950946214355, 
+      "lat": 51.219509462143556, 
       "lon": 4.408705968133586, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
@@ -1162,7 +1203,7 @@
         "45"
       ], 
       "housenumber": "45", 
-      "lat": 51.219978339399816, 
+      "lat": 51.21997833939983, 
       "lon": 4.408581424379102, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
@@ -1193,7 +1234,7 @@
         "46-48"
       ], 
       "housenumber": "46", 
-      "lat": 51.21959108003323, 
+      "lat": 51.21959108003324, 
       "lon": 4.408957087198151, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
@@ -1213,7 +1254,7 @@
         "47-49"
       ], 
       "housenumber": "47", 
-      "lat": 51.22006939529683, 
+      "lat": 51.220069395296846, 
       "lon": 4.4088326971337395, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
@@ -1225,7 +1266,7 @@
         "47F"
       ], 
       "housenumber": "47F", 
-      "lat": 51.22004417214451, 
+      "lat": 51.22004417214453, 
       "lon": 4.408814247065536, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
@@ -1237,7 +1278,7 @@
         "46-48"
       ], 
       "housenumber": "48", 
-      "lat": 51.21959108003323, 
+      "lat": 51.21959108003324, 
       "lon": 4.408957087198151, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
@@ -1249,7 +1290,7 @@
         "47-49"
       ], 
       "housenumber": "49", 
-      "lat": 51.22006939529683, 
+      "lat": 51.220069395296846, 
       "lon": 4.4088326971337395, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
@@ -1261,7 +1302,7 @@
         "51"
       ], 
       "housenumber": "51", 
-      "lat": 51.21986011513422, 
+      "lat": 51.21986011513425, 
       "lon": 4.40892082511304, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
@@ -1276,8 +1317,8 @@
         "53"
       ], 
       "housenumber": "53", 
-      "lat": 51.219958557057666, 
-      "lon": 4.409125300919286, 
+      "lat": 51.21995855705768, 
+      "lon": 4.409125300919287, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
@@ -1288,7 +1329,7 @@
         "55-57"
       ], 
       "housenumber": "55", 
-      "lat": 51.21988298692717, 
+      "lat": 51.21988298692719, 
       "lon": 4.409319604493997, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
@@ -1300,7 +1341,7 @@
         "55-57"
       ], 
       "housenumber": "57", 
-      "lat": 51.21988298692717, 
+      "lat": 51.21988298692719, 
       "lon": 4.409319604493997, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
@@ -1336,19 +1377,22 @@
         "1-58"
       ], 
       "housenumber": "58", 
-      "lat": 51.21953163140019, 
-      "lon": 4.409317576048292, 
+      "lat": 51.219531631400194, 
+      "lon": 4.409317576048293, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
       "street": "Lange Nieuwstraat"
     }, 
     {
+      "busnrs": [
+        "8"
+      ], 
       "hnrlbls": [
         "58D"
       ], 
       "housenumber": "58D", 
-      "lat": 51.21933747060746, 
+      "lat": 51.219337470607464, 
       "lon": 4.409412269505377, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
@@ -1360,7 +1404,7 @@
         "59"
       ], 
       "housenumber": "59", 
-      "lat": 51.21974667044132, 
+      "lat": 51.21974667044134, 
       "lon": 4.409725541638386, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
@@ -1375,8 +1419,8 @@
         "59A"
       ], 
       "housenumber": "59A", 
-      "lat": 51.219756411354524, 
-      "lon": 4.409630512480902, 
+      "lat": 51.21975641135456, 
+      "lon": 4.4096305124809, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
@@ -1387,7 +1431,7 @@
         "6"
       ], 
       "housenumber": "6", 
-      "lat": 51.219925307162825, 
+      "lat": 51.219925307162846, 
       "lon": 4.405588104249427, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
@@ -1402,8 +1446,8 @@
         "60"
       ], 
       "housenumber": "60", 
-      "lat": 51.21946239102094, 
-      "lon": 4.409659019162405, 
+      "lat": 51.219462391020954, 
+      "lon": 4.4096590191624045, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
@@ -1420,7 +1464,7 @@
         "61-65"
       ], 
       "housenumber": "61", 
-      "lat": 51.219796521356955, 
+      "lat": 51.21979652135697, 
       "lon": 4.409823772975029, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
@@ -1440,7 +1484,7 @@
         "62"
       ], 
       "housenumber": "62", 
-      "lat": 51.2194467098704, 
+      "lat": 51.21944670987044, 
       "lon": 4.409776370427162, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
@@ -1452,7 +1496,7 @@
         "61-65"
       ], 
       "housenumber": "63", 
-      "lat": 51.219796521356955, 
+      "lat": 51.21979652135697, 
       "lon": 4.409823772975029, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
@@ -1464,7 +1508,7 @@
         "64"
       ], 
       "housenumber": "64", 
-      "lat": 51.21946418922762, 
+      "lat": 51.219464189227644, 
       "lon": 4.409912214929193, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
@@ -1476,7 +1520,7 @@
         "61-65"
       ], 
       "housenumber": "65", 
-      "lat": 51.219796521356955, 
+      "lat": 51.21979652135697, 
       "lon": 4.409823772975029, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
@@ -1488,7 +1532,7 @@
         "66-68"
       ], 
       "housenumber": "66", 
-      "lat": 51.21933090438188, 
+      "lat": 51.2193309043819, 
       "lon": 4.410128791094916, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
@@ -1500,7 +1544,7 @@
         "67"
       ], 
       "housenumber": "67", 
-      "lat": 51.21977624272812, 
+      "lat": 51.21977624272814, 
       "lon": 4.409978477661799, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
@@ -1512,7 +1556,7 @@
         "66-68"
       ], 
       "housenumber": "68", 
-      "lat": 51.21933090438188, 
+      "lat": 51.2193309043819, 
       "lon": 4.410128791094916, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
@@ -1524,8 +1568,8 @@
         "69"
       ], 
       "housenumber": "69", 
-      "lat": 51.21973036287102, 
-      "lon": 4.410088502793913, 
+      "lat": 51.219730362871026, 
+      "lon": 4.410088502793914, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
@@ -1548,7 +1592,7 @@
         "71"
       ], 
       "housenumber": "71", 
-      "lat": 51.21972858193282, 
+      "lat": 51.21972858193283, 
       "lon": 4.410089452997993, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
@@ -1560,7 +1604,7 @@
         "73"
       ], 
       "housenumber": "73", 
-      "lat": 51.21973606064554, 
+      "lat": 51.21973606064556, 
       "lon": 4.410242371871117, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
@@ -1584,8 +1628,8 @@
         "77"
       ], 
       "housenumber": "77", 
-      "lat": 51.21963246222604, 
-      "lon": 4.410638602157804, 
+      "lat": 51.21963246222606, 
+      "lon": 4.410638602157803, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
@@ -1596,7 +1640,7 @@
         "79"
       ], 
       "housenumber": "79", 
-      "lat": 51.21966074087158, 
+      "lat": 51.2196607408716, 
       "lon": 4.410735096938198, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
@@ -1608,8 +1652,8 @@
         "8"
       ], 
       "housenumber": "8", 
-      "lat": 51.21986866162821, 
-      "lon": 4.405646884944711, 
+      "lat": 51.21986866162823, 
+      "lon": 4.405646884944712, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
@@ -1620,7 +1664,7 @@
         "81"
       ], 
       "housenumber": "81", 
-      "lat": 51.21964596940328, 
+      "lat": 51.219645969403295, 
       "lon": 4.4108195295124855, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
@@ -1632,7 +1676,7 @@
         "83"
       ], 
       "housenumber": "83", 
-      "lat": 51.21963883069062, 
+      "lat": 51.21963883069064, 
       "lon": 4.410924150228635, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
@@ -1651,7 +1695,7 @@
         "84"
       ], 
       "housenumber": "84", 
-      "lat": 51.219215063529276, 
+      "lat": 51.2192150635293, 
       "lon": 4.411320081134619, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
@@ -1663,7 +1707,7 @@
         "85"
       ], 
       "housenumber": "85", 
-      "lat": 51.219630721305805, 
+      "lat": 51.21963072130582, 
       "lon": 4.410978818023361, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
@@ -1675,7 +1719,7 @@
         "87"
       ], 
       "housenumber": "87", 
-      "lat": 51.219634834908376, 
+      "lat": 51.2196348349084, 
       "lon": 4.41103678902965, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
@@ -1687,7 +1731,7 @@
         "89"
       ], 
       "housenumber": "89", 
-      "lat": 51.219622410627885, 
+      "lat": 51.2196224106279, 
       "lon": 4.411092597849279, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
@@ -1702,7 +1746,7 @@
         "9"
       ], 
       "housenumber": "9", 
-      "lat": 51.2201203875843, 
+      "lat": 51.220120387584345, 
       "lon": 4.40604971374433, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
@@ -1714,8 +1758,8 @@
         "91"
       ], 
       "housenumber": "91", 
-      "lat": 51.21961447853338, 
-      "lon": 4.41115384968764, 
+      "lat": 51.2196144785334, 
+      "lon": 4.411153849687641, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
@@ -1729,7 +1773,7 @@
         "93"
       ], 
       "housenumber": "93", 
-      "lat": 51.21958020979961, 
+      "lat": 51.21958020979963, 
       "lon": 4.411216794675453, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
@@ -1741,7 +1785,7 @@
         "94"
       ], 
       "housenumber": "94", 
-      "lat": 51.21881176798742, 
+      "lat": 51.21881176798744, 
       "lon": 4.4117715570601055, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
@@ -1753,7 +1797,7 @@
         "94A"
       ], 
       "housenumber": "94A", 
-      "lat": 51.219201914883456, 
+      "lat": 51.21920191488347, 
       "lon": 4.411814639235346, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
@@ -1765,7 +1809,7 @@
         "95"
       ], 
       "housenumber": "95", 
-      "lat": 51.21958152971621, 
+      "lat": 51.21958152971622, 
       "lon": 4.411294371693011, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 

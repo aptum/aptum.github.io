@@ -5,7 +5,7 @@
         "14"
       ], 
       "housenumber": "14", 
-      "lat": 50.88939360333666, 
+      "lat": 50.88939360333667, 
       "lon": 4.446041356566731, 
       "municipality": "Machelen", 
       "pcode": "1831", 
@@ -17,7 +17,7 @@
         "16-16B"
       ], 
       "housenumber": "16", 
-      "lat": 50.88832944747868, 
+      "lat": 50.888329447478725, 
       "lon": 4.444660179959751, 
       "municipality": "Machelen", 
       "pcode": "1831", 
@@ -29,11 +29,11 @@
         "16-16B"
       ], 
       "housenumber": "16A", 
-      "lat": 50.88832944747868, 
+      "lat": 50.888329447478725, 
       "lon": 4.444660179959751, 
       "municipality": "Machelen", 
       "pcode": "1831", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Jan Emiel Mommaertslaan"
     }, 
     {
@@ -41,11 +41,11 @@
         "16-16B"
       ], 
       "housenumber": "16B", 
-      "lat": 50.88832944747868, 
+      "lat": 50.888329447478725, 
       "lon": 4.444660179959751, 
       "municipality": "Machelen", 
       "pcode": "1831", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Jan Emiel Mommaertslaan"
     }, 
     {
@@ -53,8 +53,8 @@
         "18-18B"
       ], 
       "housenumber": "18", 
-      "lat": 50.88805436681525, 
-      "lon": 4.444252988327431, 
+      "lat": 50.88805436681526, 
+      "lon": 4.44425298832743, 
       "municipality": "Machelen", 
       "pcode": "1831", 
       "source": "afgeleidVanGebouw", 
@@ -65,32 +65,8 @@
         "18-18B"
       ], 
       "housenumber": "18A", 
-      "lat": 50.88805436681525, 
-      "lon": 4.444252988327431, 
-      "municipality": "Machelen", 
-      "pcode": "1831", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Jan Emiel Mommaertslaan"
-    }, 
-    {
-      "hnrlbls": [
-        "18-18B"
-      ], 
-      "housenumber": "18B", 
-      "lat": 50.88805436681525, 
-      "lon": 4.444252988327431, 
-      "municipality": "Machelen", 
-      "pcode": "1831", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Jan Emiel Mommaertslaan"
-    }, 
-    {
-      "hnrlbls": [
-        "20"
-      ], 
-      "housenumber": "20", 
-      "lat": 50.88903844744978, 
-      "lon": 4.443960109169669, 
+      "lat": 50.88805436681526, 
+      "lon": 4.44425298832743, 
       "municipality": "Machelen", 
       "pcode": "1831", 
       "source": "afgeleidVanGebouw", 
@@ -98,26 +74,50 @@
     }, 
     {
       "hnrlbls": [
-        "20A-22D"
+        "18-18B"
       ], 
-      "housenumber": "20A", 
-      "lat": 50.88937758998214, 
-      "lon": 4.444003151851148, 
+      "housenumber": "18B", 
+      "lat": 50.88805436681526, 
+      "lon": 4.44425298832743, 
       "municipality": "Machelen", 
       "pcode": "1831", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Jan Emiel Mommaertslaan"
     }, 
     {
       "hnrlbls": [
-        "20A-22D"
+        "20"
       ], 
-      "housenumber": "20B", 
-      "lat": 50.88937758998214, 
-      "lon": 4.444003151851148, 
+      "housenumber": "20", 
+      "lat": 50.88881221706472, 
+      "lon": 4.4440480005575616, 
       "municipality": "Machelen", 
       "pcode": "1831", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Jan Emiel Mommaertslaan"
+    }, 
+    {
+      "hnrlbls": [
+        "20A"
+      ], 
+      "housenumber": "20A", 
+      "lat": 50.88901114679744, 
+      "lon": 4.443778860337608, 
+      "municipality": "Machelen", 
+      "pcode": "1831", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Jan Emiel Mommaertslaan"
+    }, 
+    {
+      "hnrlbls": [
+        "20B"
+      ], 
+      "housenumber": "20B", 
+      "lat": 50.88900407000743, 
+      "lon": 4.443740334050301, 
+      "municipality": "Machelen", 
+      "pcode": "1831", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Jan Emiel Mommaertslaan"
     }, 
     {
@@ -125,7 +125,7 @@
         "22"
       ], 
       "housenumber": "22", 
-      "lat": 50.88930722928018, 
+      "lat": 50.8893072292802, 
       "lon": 4.443962391120427, 
       "municipality": "Machelen", 
       "pcode": "1831", 
@@ -134,14 +134,14 @@
     }, 
     {
       "hnrlbls": [
-        "20A-22D"
+        "22D"
       ], 
       "housenumber": "22D", 
-      "lat": 50.88937758998214, 
+      "lat": 50.88937758998216, 
       "lon": 4.444003151851148, 
       "municipality": "Machelen", 
       "pcode": "1831", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Jan Emiel Mommaertslaan"
     }, 
     {
@@ -149,7 +149,7 @@
         "29"
       ], 
       "housenumber": "29", 
-      "lat": 50.888799480917456, 
+      "lat": 50.88879948091746, 
       "lon": 4.445788958593234, 
       "municipality": "Machelen", 
       "pcode": "1831", 

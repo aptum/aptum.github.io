@@ -1,18 +1,21 @@
 {
   "addresses": [
     {
-      "busnrs": [
+      "apptnrs": [
         "101", 
         "102", 
         "201", 
         "202"
       ], 
+      "busnrs": [
+        "001"
+      ], 
       "hnrlbls": [
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 50.83507547426757, 
-      "lon": 4.192705535781094, 
+      "lat": 50.83507538437243, 
+      "lon": 4.192705536116352, 
       "municipality": "Dilbeek", 
       "pcode": "1703", 
       "source": "afgeleidVanGebouw", 
@@ -23,8 +26,8 @@
         "10"
       ], 
       "housenumber": "10", 
-      "lat": 50.83574872661993, 
-      "lon": 4.193022294450588, 
+      "lat": 50.83574872661995, 
+      "lon": 4.193022294450589, 
       "municipality": "Dilbeek", 
       "pcode": "1703", 
       "source": "afgeleidVanGebouw", 
@@ -47,7 +50,7 @@
         "12"
       ], 
       "housenumber": "12", 
-      "lat": 50.835793263109245, 
+      "lat": 50.835793263109274, 
       "lon": 4.1929876321751705, 
       "municipality": "Dilbeek", 
       "pcode": "1703", 
@@ -59,7 +62,7 @@
         "13"
       ], 
       "housenumber": "13", 
-      "lat": 50.83540950609293, 
+      "lat": 50.835409506092944, 
       "lon": 4.192211690023125, 
       "municipality": "Dilbeek", 
       "pcode": "1703", 
@@ -71,7 +74,7 @@
         "14"
       ], 
       "housenumber": "14", 
-      "lat": 50.83574400665536, 
+      "lat": 50.83574400665538, 
       "lon": 4.1928113584792035, 
       "municipality": "Dilbeek", 
       "pcode": "1703", 
@@ -83,8 +86,8 @@
         "15"
       ], 
       "housenumber": "15", 
-      "lat": 50.835474523108196, 
-      "lon": 4.1921667295080685, 
+      "lat": 50.83547452310821, 
+      "lon": 4.192166729508069, 
       "municipality": "Dilbeek", 
       "pcode": "1703", 
       "source": "afgeleidVanGebouw", 
@@ -99,7 +102,7 @@
         "16"
       ], 
       "housenumber": "16", 
-      "lat": 50.83576190450998, 
+      "lat": 50.83576190451001, 
       "lon": 4.192696871432388, 
       "municipality": "Dilbeek", 
       "pcode": "1703", 
@@ -111,7 +114,7 @@
         "18"
       ], 
       "housenumber": "18", 
-      "lat": 50.83580697098007, 
+      "lat": 50.83580697098009, 
       "lon": 4.192595911143401, 
       "municipality": "Dilbeek", 
       "pcode": "1703", 
@@ -119,19 +122,32 @@
       "street": "Marktplein_01"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "101", 
+        "201", 
         "202"
       ], 
       "hnrlbls": [
         "19"
       ], 
       "housenumber": "19", 
-      "lat": 50.83558109377801, 
-      "lon": 4.192016562850942, 
+      "lat": 50.83559176920889, 
+      "lon": 4.1920831088417465, 
       "municipality": "Dilbeek", 
       "pcode": "1703", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanLigplaats", 
+      "street": "Marktplein_01"
+    }, 
+    {
+      "hnrlbls": [
+        "19A"
+      ], 
+      "housenumber": "19A", 
+      "lat": 50.83565315051866, 
+      "lon": 4.192099125083053, 
+      "municipality": "Dilbeek", 
+      "pcode": "1703", 
+      "source": "manueleAanduidingVanLigplaats", 
       "street": "Marktplein_01"
     }, 
     {
@@ -139,8 +155,8 @@
         "2"
       ], 
       "housenumber": "2", 
-      "lat": 50.83567318888958, 
-      "lon": 4.193246305322411, 
+      "lat": 50.83567318888959, 
+      "lon": 4.193246305322412, 
       "municipality": "Dilbeek", 
       "pcode": "1703", 
       "source": "afgeleidVanGebouw", 
@@ -151,7 +167,7 @@
         "20"
       ], 
       "housenumber": "20", 
-      "lat": 50.83580085594971, 
+      "lat": 50.83580085594972, 
       "lon": 4.192414366055961, 
       "municipality": "Dilbeek", 
       "pcode": "1703", 
@@ -169,7 +185,7 @@
         "21"
       ], 
       "housenumber": "21", 
-      "lat": 50.835677996201106, 
+      "lat": 50.83567799620112, 
       "lon": 4.191953311548059, 
       "municipality": "Dilbeek", 
       "pcode": "1703", 
@@ -181,8 +197,8 @@
         "22"
       ], 
       "housenumber": "22", 
-      "lat": 50.835915293238926, 
-      "lon": 4.192354456817833, 
+      "lat": 50.83591529323895, 
+      "lon": 4.192354456817835, 
       "municipality": "Dilbeek", 
       "pcode": "1703", 
       "source": "afgeleidVanGebouw", 
@@ -193,7 +209,7 @@
         "23-25"
       ], 
       "housenumber": "23", 
-      "lat": 50.835757578803275, 
+      "lat": 50.83575757880331, 
       "lon": 4.191432017674307, 
       "municipality": "Dilbeek", 
       "pcode": "1703", 
@@ -211,7 +227,7 @@
         "3-5"
       ], 
       "housenumber": "3", 
-      "lat": 50.8351118175389, 
+      "lat": 50.83511181753892, 
       "lon": 4.192482241079553, 
       "municipality": "Dilbeek", 
       "pcode": "1703", 
@@ -223,7 +239,7 @@
         "4"
       ], 
       "housenumber": "4", 
-      "lat": 50.83569817734008, 
+      "lat": 50.8356981773401, 
       "lon": 4.193184317628231, 
       "municipality": "Dilbeek", 
       "pcode": "1703", 
@@ -235,7 +251,7 @@
         "3-5"
       ], 
       "housenumber": "5", 
-      "lat": 50.8351118175389, 
+      "lat": 50.83511181753892, 
       "lon": 4.192482241079553, 
       "municipality": "Dilbeek", 
       "pcode": "1703", 
@@ -250,7 +266,7 @@
         "6-8"
       ], 
       "housenumber": "6", 
-      "lat": 50.835717403996306, 
+      "lat": 50.83571740399631, 
       "lon": 4.1931166728823275, 
       "municipality": "Dilbeek", 
       "pcode": "1703", 
@@ -262,7 +278,7 @@
         "6A"
       ], 
       "housenumber": "6A", 
-      "lat": 50.835723075650705, 
+      "lat": 50.83572307565072, 
       "lon": 4.193122188242822, 
       "municipality": "Dilbeek", 
       "pcode": "1703", 
@@ -274,7 +290,7 @@
         "7"
       ], 
       "housenumber": "7", 
-      "lat": 50.83521406982634, 
+      "lat": 50.83521406982637, 
       "lon": 4.192329537173788, 
       "municipality": "Dilbeek", 
       "pcode": "1703", 
@@ -292,7 +308,7 @@
         "6-8"
       ], 
       "housenumber": "8", 
-      "lat": 50.835717403996306, 
+      "lat": 50.83571740399631, 
       "lon": 4.1931166728823275, 
       "municipality": "Dilbeek", 
       "pcode": "1703", 
@@ -304,8 +320,8 @@
         "9"
       ], 
       "housenumber": "9", 
-      "lat": 50.83531986620937, 
-      "lon": 4.192322327714047, 
+      "lat": 50.835319866209396, 
+      "lon": 4.192322327714046, 
       "municipality": "Dilbeek", 
       "pcode": "1703", 
       "source": "afgeleidVanGebouw", 
