@@ -276,8 +276,8 @@ for pcode in sorted(hier_addr_dic.keys()):
             
             addr = dict()
             addr['housenumber'] = housenumber
-            addr['lat']         = address.lat
-            addr['lon']         = address.lon
+            addr['lat']         = round(float(address.lat), 12)
+            addr['lon']         = round(float(address.lon), 12)
             addr['pcode']       = pcode
             addr['street']      = hier_addr_dic[pcode][str_id].original
             addr['source']      = address.source
