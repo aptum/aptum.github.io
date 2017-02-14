@@ -26,8 +26,8 @@ if (!Array.prototype.find) {
 }
 
 // GLOBAL VARIABLES
-//var overpassapi = "http://overpass-api.de/api/interpreter?data=";
-var overpassapi = "http://api.openstreetmap.fr/api/interpreter?data=";
+var overpassapi = "http://overpass-api.de/api/interpreter?data=";
+//var overpassapi = "http://api.openstreetmap.fr/api/interpreter?data=";
 
 var osmInfo = []; // list of all addresses returned by overpass
 var streets = []; // list of streets with the addresses divided in several categories + extra info
