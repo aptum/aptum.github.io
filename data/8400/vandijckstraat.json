@@ -29,8 +29,8 @@
         "12"
       ], 
       "housenumber": "12", 
-      "lat": 51.210705210333, 
-      "lon": 2.906426305078, 
+      "lat": 51.210701411157, 
+      "lon": 2.906424420348, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -129,11 +129,11 @@
         "2"
       ], 
       "housenumber": "2", 
-      "lat": 51.210809806316, 
-      "lon": 2.905848075073, 
+      "lat": 51.210822984476, 
+      "lon": 2.905837785912, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Van Dijckstraat"
     }, 
     {
@@ -177,8 +177,8 @@
         "23"
       ], 
       "housenumber": "23", 
-      "lat": 51.210898884138, 
-      "lon": 2.90686465279, 
+      "lat": 51.210898168741, 
+      "lon": 2.906864961466, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -225,11 +225,11 @@
         "28"
       ], 
       "housenumber": "28", 
-      "lat": 51.210554779101, 
-      "lon": 2.906998668903, 
+      "lat": 51.210688208748, 
+      "lon": 2.907079936497, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Van Dijckstraat"
     }, 
     {
@@ -252,6 +252,11 @@
       "street": "Van Dijckstraat"
     }, 
     {
+      "busnrs": [
+        "A", 
+        "B", 
+        "C"
+      ], 
       "hnrlbls": [
         "30"
       ], 
@@ -261,42 +266,6 @@
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
-      "street": "Van Dijckstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "30A-30C"
-      ], 
-      "housenumber": "30A", 
-      "lat": 51.210467693855, 
-      "lon": 2.907102875501, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Van Dijckstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "30A-30C"
-      ], 
-      "housenumber": "30B", 
-      "lat": 51.210467693855, 
-      "lon": 2.907102875501, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Van Dijckstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "30A-30C"
-      ], 
-      "housenumber": "30C", 
-      "lat": 51.210467693855, 
-      "lon": 2.907102875501, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Van Dijckstraat"
     }, 
     {
@@ -458,7 +427,9 @@
     {
       "busnrs": [
         "1", 
+        "102", 
         "2", 
+        "201", 
         "202", 
         "3", 
         "301", 
@@ -540,19 +511,20 @@
         "3"
       ], 
       "hnrlbls": [
-        "54-56"
+        "54"
       ], 
       "housenumber": "54", 
-      "lat": 51.210508089276, 
-      "lon": 2.908458755392, 
+      "lat": 51.210561152488, 
+      "lon": 2.908387677076, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Van Dijckstraat"
     }, 
     {
       "busnrs": [
         "1", 
+        "101", 
         "2", 
         "4", 
         "5", 
@@ -560,7 +532,7 @@
         "8"
       ], 
       "hnrlbls": [
-        "54-56"
+        "56"
       ], 
       "housenumber": "56", 
       "lat": 51.210508089276, 
@@ -571,11 +543,9 @@
       "street": "Van Dijckstraat"
     }, 
     {
-      "apptnrs": [
-        "0.0"
-      ], 
       "busnrs": [
-        "1"
+        "1", 
+        "101"
       ], 
       "hnrlbls": [
         "57-76"

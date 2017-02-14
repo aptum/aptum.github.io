@@ -2,11 +2,11 @@
   "addresses": [
     {
       "busnrs": [
-        "1", 
-        "2"
+        "BU01", 
+        "BU02"
       ], 
       "hnrlbls": [
-        "12-12A"
+        "12"
       ], 
       "housenumber": "12", 
       "lat": 50.999879823543, 
@@ -18,14 +18,14 @@
     }, 
     {
       "hnrlbls": [
-        "12-12A"
+        "12A"
       ], 
       "housenumber": "12A", 
-      "lat": 50.999879823543, 
-      "lon": 5.488574730783, 
+      "lat": 50.999982546106, 
+      "lon": 5.488644435413, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Wolfsbergstraat"
     }, 
     {
@@ -57,8 +57,8 @@
         "18"
       ], 
       "housenumber": "18", 
-      "lat": 50.999765570181, 
-      "lon": 5.487931437663, 
+      "lat": 50.999819488327, 
+      "lon": 5.487914917305, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
@@ -69,8 +69,8 @@
         "20"
       ], 
       "housenumber": "20", 
-      "lat": 50.999772143655, 
-      "lon": 5.48783585265, 
+      "lat": 50.999788101348, 
+      "lon": 5.487831105019, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
@@ -78,8 +78,8 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "2"
+        "BU01", 
+        "BU02"
       ], 
       "hnrlbls": [
         "24"
@@ -109,8 +109,8 @@
         "28"
       ], 
       "housenumber": "28", 
-      "lat": 50.999604375688, 
-      "lon": 5.486485473884, 
+      "lat": 50.999605892401, 
+      "lon": 5.486429945669, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
@@ -133,8 +133,8 @@
         "32"
       ], 
       "housenumber": "32", 
-      "lat": 50.999493817928, 
-      "lon": 5.485934600281, 
+      "lat": 50.999537976684, 
+      "lon": 5.485913855629, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
@@ -145,11 +145,35 @@
         "34"
       ], 
       "housenumber": "34", 
-      "lat": 50.999468555379, 
-      "lon": 5.485679114294, 
+      "lat": 50.999504216589, 
+      "lon": 5.485663295718, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
+      "street": "Wolfsbergstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "36"
+      ], 
+      "housenumber": "36", 
+      "lat": 50.999414130919, 
+      "lon": 5.485436610426, 
+      "municipality": "Genk", 
+      "pcode": "3600", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Wolfsbergstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "38"
+      ], 
+      "housenumber": "38", 
+      "lat": 50.999449596534, 
+      "lon": 5.48513840678, 
+      "municipality": "Genk", 
+      "pcode": "3600", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Wolfsbergstraat"
     }, 
     {
@@ -193,8 +217,8 @@
         "46"
       ], 
       "housenumber": "46", 
-      "lat": 50.999197254348, 
-      "lon": 5.484076248163, 
+      "lat": 50.999214840556, 
+      "lon": 5.484070398333, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
@@ -225,18 +249,12 @@
       "street": "Wolfsbergstraat"
     }, 
     {
-      "busnrs": [
-        "11A", 
-        "1A", 
-        "AB01", 
-        "AB11"
-      ], 
       "hnrlbls": [
         "50"
       ], 
       "housenumber": "50", 
-      "lat": 50.999439165382, 
-      "lon": 5.483518247878, 
+      "lat": 50.999438360506, 
+      "lon": 5.483517801297, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
@@ -247,8 +265,32 @@
         "50A"
       ], 
       "housenumber": "50A", 
-      "lat": 50.99953843117, 
-      "lon": 5.483393383301, 
+      "lat": 50.999553953675, 
+      "lon": 5.4834819434, 
+      "municipality": "Genk", 
+      "pcode": "3600", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Wolfsbergstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "50B"
+      ], 
+      "housenumber": "50B", 
+      "lat": 50.999709469947, 
+      "lon": 5.483872033108, 
+      "municipality": "Genk", 
+      "pcode": "3600", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Wolfsbergstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "52"
+      ], 
+      "housenumber": "52", 
+      "lat": 50.999924138932, 
+      "lon": 5.483408977084, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
@@ -256,32 +298,31 @@
     }, 
     {
       "busnrs": [
-        "11A", 
-        "11B", 
-        "1A", 
-        "AB01", 
-        "AB11", 
-        "BB01", 
-        "BB11"
+        "BU01", 
+        "BU11"
       ], 
-      "hnrlbls": [
-        "52"
-      ], 
-      "housenumber": "52", 
-      "lat": 50.999919312956, 
-      "lon": 5.483396466976, 
-      "municipality": "Genk", 
-      "pcode": "3600", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Wolfsbergstraat"
-    }, 
-    {
       "hnrlbls": [
         "52A-52B"
       ], 
       "housenumber": "52A", 
-      "lat": 51.000001129363, 
-      "lon": 5.483253518721, 
+      "lat": 51.000006072236, 
+      "lon": 5.483263182139, 
+      "municipality": "Genk", 
+      "pcode": "3600", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Wolfsbergstraat"
+    }, 
+    {
+      "busnrs": [
+        "BU01", 
+        "BU11"
+      ], 
+      "hnrlbls": [
+        "52A-52B"
+      ], 
+      "housenumber": "52B", 
+      "lat": 51.000006072236, 
+      "lon": 5.483263182139, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
@@ -289,14 +330,26 @@
     }, 
     {
       "hnrlbls": [
-        "52A-52B"
+        "54"
       ], 
-      "housenumber": "52B", 
-      "lat": 51.000001129363, 
-      "lon": 5.483253518721, 
+      "housenumber": "54", 
+      "lat": 51.000281460812, 
+      "lon": 5.483611819652, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Wolfsbergstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "54A"
+      ], 
+      "housenumber": "54A", 
+      "lat": 51.00044051546, 
+      "lon": 5.483543372022, 
+      "municipality": "Genk", 
+      "pcode": "3600", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Wolfsbergstraat"
     }, 
     {
@@ -304,8 +357,8 @@
         "54B"
       ], 
       "housenumber": "54B", 
-      "lat": 51.000510206533, 
-      "lon": 5.483010320691, 
+      "lat": 51.000514924569, 
+      "lon": 5.483034226392, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
@@ -352,11 +405,11 @@
         "58"
       ], 
       "housenumber": "58", 
-      "lat": 51.001095775524, 
-      "lon": 5.48321446399, 
+      "lat": 51.001259271906, 
+      "lon": 5.482885955072, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Wolfsbergstraat"
     }, 
     {
@@ -373,11 +426,11 @@
     }, 
     {
       "hnrlbls": [
-        "61-151"
+        "61-67"
       ], 
       "housenumber": "61", 
-      "lat": 51.000673163411, 
-      "lon": 5.480354172206, 
+      "lat": 51.000631280576, 
+      "lon": 5.480457612591, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
@@ -385,11 +438,11 @@
     }, 
     {
       "hnrlbls": [
-        "61-151"
+        "61-67"
       ], 
       "housenumber": "63", 
-      "lat": 51.000673163411, 
-      "lon": 5.480354172206, 
+      "lat": 51.000631280576, 
+      "lon": 5.480457612591, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
@@ -397,11 +450,11 @@
     }, 
     {
       "hnrlbls": [
-        "61-151"
+        "61-67"
       ], 
       "housenumber": "65", 
-      "lat": 51.000673163411, 
-      "lon": 5.480354172206, 
+      "lat": 51.000631280576, 
+      "lon": 5.480457612591, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
@@ -409,11 +462,11 @@
     }, 
     {
       "hnrlbls": [
-        "61-151"
+        "61-67"
       ], 
       "housenumber": "67", 
-      "lat": 51.000673163411, 
-      "lon": 5.480354172206, 
+      "lat": 51.000631280576, 
+      "lon": 5.480457612591, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 

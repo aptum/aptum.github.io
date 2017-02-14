@@ -104,8 +104,8 @@
         "16"
       ], 
       "housenumber": "16", 
-      "lat": 51.042481839347, 
-      "lon": 5.348527333168, 
+      "lat": 51.04251042275, 
+      "lon": 5.348495419169, 
       "municipality": "Houthalen-Helchteren", 
       "pcode": "3530", 
       "source": "afgeleidVanGebouw", 
@@ -220,8 +220,8 @@
         "20"
       ], 
       "housenumber": "20", 
-      "lat": 51.042270681504, 
-      "lon": 5.347773980374, 
+      "lat": 51.042270920835, 
+      "lon": 5.347773414802, 
       "municipality": "Houthalen-Helchteren", 
       "pcode": "3530", 
       "source": "afgeleidVanGebouw", 
@@ -281,8 +281,8 @@
         "28"
       ], 
       "housenumber": "28", 
-      "lat": 51.041711005667, 
-      "lon": 5.34710717401, 
+      "lat": 51.041711005664, 
+      "lon": 5.347107174017, 
       "municipality": "Houthalen-Helchteren", 
       "pcode": "3530", 
       "source": "manueleAanduidingVanPerceel", 
@@ -317,8 +317,8 @@
         "2E"
       ], 
       "housenumber": "2E", 
-      "lat": 51.04461958602, 
-      "lon": 5.354429380213, 
+      "lat": 51.044627547822, 
+      "lon": 5.354412577848, 
       "municipality": "Houthalen-Helchteren", 
       "pcode": "3530", 
       "source": "afgeleidVanGebouw", 
@@ -491,8 +491,8 @@
         "42"
       ], 
       "housenumber": "42", 
-      "lat": 51.040991855608, 
-      "lon": 5.345869950189, 
+      "lat": 51.040991855682, 
+      "lon": 5.34586995011, 
       "municipality": "Houthalen-Helchteren", 
       "pcode": "3530", 
       "source": "manueleAanduidingVanPerceel", 
@@ -537,8 +537,8 @@
         "47"
       ], 
       "housenumber": "47", 
-      "lat": 51.040701279773, 
-      "lon": 5.346078912002, 
+      "lat": 51.040701279733, 
+      "lon": 5.346078912111, 
       "municipality": "Houthalen-Helchteren", 
       "pcode": "3530", 
       "source": "manueleAanduidingVanPerceel", 
@@ -573,8 +573,8 @@
         "5"
       ], 
       "housenumber": "5", 
-      "lat": 51.043296325086, 
-      "lon": 5.35303992814, 
+      "lat": 51.043321151817, 
+      "lon": 5.353016636004, 
       "municipality": "Houthalen-Helchteren", 
       "pcode": "3530", 
       "source": "afgeleidVanGebouw", 
@@ -669,11 +669,17 @@
     }, 
     {
       "apptnrs": [
-        "01-1", 
-        "01-2"
+        "64", 
+        "64/1-1", 
+        "64/1-2", 
+        "64/1-3", 
+        "64/2", 
+        "64/3"
       ], 
       "busnrs": [
-        "1"
+        "2", 
+        "3", 
+        "64/1"
       ], 
       "hnrlbls": [
         "64"
@@ -781,8 +787,8 @@
         "7"
       ], 
       "housenumber": "7", 
-      "lat": 51.043303876114, 
-      "lon": 5.35265292193, 
+      "lat": 51.04329707896, 
+      "lon": 5.352659481253, 
       "municipality": "Houthalen-Helchteren", 
       "pcode": "3530", 
       "source": "afgeleidVanGebouw", 
@@ -851,38 +857,59 @@
         "76"
       ], 
       "housenumber": "76", 
-      "lat": 51.037407407906, 
-      "lon": 5.34088305774, 
+      "lat": 51.037580431321, 
+      "lon": 5.341104237399, 
       "municipality": "Houthalen-Helchteren", 
       "pcode": "3530", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Lillo Steenweg"
     }, 
     {
-      "busnrs": [
-        "11A"
+      "apptnrs": [
+        "76A", 
+        "76A/1-1"
+      ], 
+      "hnrlbls": [
+        "76A"
+      ], 
+      "housenumber": "76A", 
+      "lat": 51.037484249593, 
+      "lon": 5.3409399773, 
+      "municipality": "Houthalen-Helchteren", 
+      "pcode": "3530", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Lillo Steenweg"
+    }, 
+    {
+      "apptnrs": [
+        "78", 
+        "78/1-1"
       ], 
       "hnrlbls": [
         "78"
       ], 
       "housenumber": "78", 
-      "lat": 51.037276617679, 
-      "lon": 5.340653204087, 
+      "lat": 51.03727876974, 
+      "lon": 5.340642982781, 
       "municipality": "Houthalen-Helchteren", 
       "pcode": "3530", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Lillo Steenweg"
     }, 
     {
+      "apptnrs": [
+        "78A", 
+        "78A/1-1"
+      ], 
       "hnrlbls": [
         "78A"
       ], 
       "housenumber": "78A", 
-      "lat": 51.03731569665, 
-      "lon": 5.340536669625, 
+      "lat": 51.037271735356, 
+      "lon": 5.340613036667, 
       "municipality": "Houthalen-Helchteren", 
       "pcode": "3530", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Lillo Steenweg"
     }, 
     {
@@ -913,6 +940,23 @@
       "street": "Lillo Steenweg"
     }, 
     {
+      "apptnrs": [
+        "01-1", 
+        "80", 
+        "80/1-1"
+      ], 
+      "hnrlbls": [
+        "80"
+      ], 
+      "housenumber": "80", 
+      "lat": 51.037150331438, 
+      "lon": 5.340476628814, 
+      "municipality": "Houthalen-Helchteren", 
+      "pcode": "3530", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Lillo Steenweg"
+    }, 
+    {
       "hnrlbls": [
         "87"
       ], 
@@ -929,8 +973,8 @@
         "8A"
       ], 
       "housenumber": "8A", 
-      "lat": 51.043640358052, 
-      "lon": 5.352072617228, 
+      "lat": 51.04364201166, 
+      "lon": 5.352068373894, 
       "municipality": "Houthalen-Helchteren", 
       "pcode": "3530", 
       "source": "afgeleidVanGebouw", 
@@ -965,23 +1009,11 @@
         "93"
       ], 
       "housenumber": "93", 
-      "lat": 51.037493881513, 
-      "lon": 5.340851347615, 
+      "lat": 51.037608707495, 
+      "lon": 5.342283572216, 
       "municipality": "Houthalen-Helchteren", 
       "pcode": "3530", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Lillo Steenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "95"
-      ], 
-      "housenumber": "95", 
-      "lat": 51.037409978766, 
-      "lon": 5.340647990398, 
-      "municipality": "Houthalen-Helchteren", 
-      "pcode": "3530", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Lillo Steenweg"
     }
   ]

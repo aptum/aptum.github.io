@@ -57,8 +57,8 @@
         "11"
       ], 
       "housenumber": "11", 
-      "lat": 50.886354471501, 
-      "lon": 4.468923521239, 
+      "lat": 50.886356000799, 
+      "lon": 4.468922245503, 
       "municipality": "Zaventem", 
       "pcode": "1930", 
       "source": "afgeleidVanGebouw", 
@@ -81,26 +81,26 @@
     }, 
     {
       "hnrlbls": [
-        "2B-112"
+        "112"
       ], 
       "housenumber": "112", 
-      "lat": 50.889727969972, 
-      "lon": 4.462944237439, 
+      "lat": 50.889671566755, 
+      "lon": 4.46288201557, 
       "municipality": "Zaventem", 
       "pcode": "1930", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Diegemstraat"
     }, 
     {
       "hnrlbls": [
-        "2-114"
+        "114"
       ], 
       "housenumber": "114", 
-      "lat": 50.889702247219, 
-      "lon": 4.462849104866, 
+      "lat": 50.889726644847, 
+      "lon": 4.462804100941, 
       "municipality": "Zaventem", 
       "pcode": "1930", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Diegemstraat"
     }, 
     {
@@ -128,9 +128,9 @@
       "street": "Diegemstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "101"
+      "apptnrs": [
+        "001", 
+        "011"
       ], 
       "hnrlbls": [
         "118-120"
@@ -141,6 +141,21 @@
       "municipality": "Zaventem", 
       "pcode": "1930", 
       "source": "afgeleidVanGebouw", 
+      "street": "Diegemstraat"
+    }, 
+    {
+      "busnrs": [
+        "12"
+      ], 
+      "hnrlbls": [
+        "120X"
+      ], 
+      "housenumber": "120X", 
+      "lat": 50.889963779093, 
+      "lon": 4.462700544348, 
+      "municipality": "Zaventem", 
+      "pcode": "1930", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Diegemstraat"
     }, 
     {
@@ -305,11 +320,11 @@
         "135b"
       ], 
       "housenumber": "135b", 
-      "lat": 50.891042025896, 
-      "lon": 4.461619705395, 
+      "lat": 50.891022965543, 
+      "lon": 4.461510371399, 
       "municipality": "Zaventem", 
       "pcode": "1930", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelKadaster", 
       "street": "Diegemstraat"
     }, 
     {
@@ -455,8 +470,8 @@
         "149"
       ], 
       "housenumber": "149", 
-      "lat": 50.891660602204, 
-      "lon": 4.461261350314, 
+      "lat": 50.891667611784, 
+      "lon": 4.461264064683, 
       "municipality": "Zaventem", 
       "pcode": "1930", 
       "source": "afgeleidVanGebouw", 
@@ -492,7 +507,7 @@
     {
       "apptnrs": [
         "-11", 
-        "-12", 
+        "-11", 
         "-12", 
         "001", 
         "002", 
@@ -503,8 +518,8 @@
         "151"
       ], 
       "housenumber": "151", 
-      "lat": 50.891843541414, 
-      "lon": 4.461042769413, 
+      "lat": 50.891843530055, 
+      "lon": 4.461042833213, 
       "municipality": "Zaventem", 
       "pcode": "1930", 
       "source": "afgeleidVanGebouw", 
@@ -525,11 +540,16 @@
     {
       "apptnrs": [
         "-11", 
+        "-11", 
+        "-12", 
         "-12", 
         "001", 
         "002", 
         "011", 
         "012"
+      ], 
+      "busnrs": [
+        "GVLO"
       ], 
       "hnrlbls": [
         "153"
@@ -579,6 +599,21 @@
       "street": "Diegemstraat"
     }, 
     {
+      "busnrs": [
+        "11"
+      ], 
+      "hnrlbls": [
+        "15X-17"
+      ], 
+      "housenumber": "15X", 
+      "lat": 50.886469710936, 
+      "lon": 4.468824573339, 
+      "municipality": "Zaventem", 
+      "pcode": "1930", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "street": "Diegemstraat"
+    }, 
+    {
       "hnrlbls": [
         "160"
       ], 
@@ -591,16 +626,16 @@
       "street": "Diegemstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6", 
-        "7", 
-        "8", 
-        "9"
+      "apptnrs": [
+        "001", 
+        "002", 
+        "003", 
+        "011", 
+        "012", 
+        "013", 
+        "021", 
+        "022", 
+        "023"
       ], 
       "hnrlbls": [
         "160A"
@@ -663,7 +698,7 @@
     }, 
     {
       "hnrlbls": [
-        "17"
+        "15X-17"
       ], 
       "housenumber": "17", 
       "lat": 50.886469710936, 
@@ -780,7 +815,8 @@
         "2.0"
       ], 
       "busnrs": [
-        "2"
+        "2", 
+        "3"
       ], 
       "hnrlbls": [
         "19"
@@ -884,6 +920,7 @@
     }, 
     {
       "apptnrs": [
+        "0.0", 
         "1.0"
       ], 
       "busnrs": [
@@ -905,8 +942,8 @@
         "33"
       ], 
       "housenumber": "33", 
-      "lat": 50.886799500033, 
-      "lon": 4.468337827405, 
+      "lat": 50.886786830318, 
+      "lon": 4.46833154731, 
       "municipality": "Zaventem", 
       "pcode": "1930", 
       "source": "afgeleidVanGebouw", 
@@ -941,8 +978,8 @@
         "36"
       ], 
       "housenumber": "36", 
-      "lat": 50.88772703969, 
-      "lon": 4.466946487643, 
+      "lat": 50.887730719717, 
+      "lon": 4.466953174914, 
       "municipality": "Zaventem", 
       "pcode": "1930", 
       "source": "afgeleidVanGebouw", 
@@ -1287,8 +1324,8 @@
         "64"
       ], 
       "housenumber": "64", 
-      "lat": 50.888764839641, 
-      "lon": 4.464494675465, 
+      "lat": 50.88876331086, 
+      "lon": 4.464495382929, 
       "municipality": "Zaventem", 
       "pcode": "1930", 
       "source": "afgeleidVanGebouw", 
@@ -1567,8 +1604,8 @@
         "88"
       ], 
       "housenumber": "88", 
-      "lat": 50.889158183454, 
-      "lon": 4.463655543068, 
+      "lat": 50.88915432056, 
+      "lon": 4.463652408526, 
       "municipality": "Zaventem", 
       "pcode": "1930", 
       "source": "afgeleidVanGebouw", 
@@ -1641,14 +1678,8 @@
     }, 
     {
       "apptnrs": [
-        "1.0"
-      ], 
-      "busnrs": [
-        "1", 
-        "12", 
-        "2", 
-        "3", 
-        "4"
+        "011", 
+        "012"
       ], 
       "hnrlbls": [
         "98"

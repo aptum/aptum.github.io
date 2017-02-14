@@ -1,9 +1,6 @@
 {
   "addresses": [
     {
-      "busnrs": [
-        "2"
-      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -38,11 +35,11 @@
         "202"
       ], 
       "hnrlbls": [
-        "100"
+        "100-100A"
       ], 
       "housenumber": "100", 
-      "lat": 51.202859295829, 
-      "lon": 4.400625610755, 
+      "lat": 51.202892120162, 
+      "lon": 4.400890899459, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "afgeleidVanGebouw", 
@@ -50,14 +47,14 @@
     }, 
     {
       "hnrlbls": [
-        "100A"
+        "100-100A"
       ], 
       "housenumber": "100A", 
-      "lat": 51.202950183898, 
-      "lon": 4.40089666329, 
+      "lat": 51.202892120162, 
+      "lon": 4.400890899459, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Ballaarstraat"
     }, 
     {
@@ -85,9 +82,6 @@
       "street": "Ballaarstraat"
     }, 
     {
-      "busnrs": [
-        "2"
-      ], 
       "hnrlbls": [
         "103"
       ], 
@@ -148,9 +142,6 @@
       "street": "Ballaarstraat"
     }, 
     {
-      "busnrs": [
-        "2"
-      ], 
       "hnrlbls": [
         "108"
       ], 
@@ -175,8 +166,11 @@
       "street": "Ballaarstraat"
     }, 
     {
-      "busnrs": [
-        "4"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301"
       ], 
       "hnrlbls": [
         "11"
@@ -202,6 +196,10 @@
       "street": "Ballaarstraat"
     }, 
     {
+      "apptnrs": [
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
         "109-111"
       ], 
@@ -215,10 +213,10 @@
     }, 
     {
       "apptnrs": [
-        "0.0"
-      ], 
-      "busnrs": [
-        "3"
+        "001", 
+        "101", 
+        "201", 
+        "301"
       ], 
       "hnrlbls": [
         "112"
@@ -338,8 +336,8 @@
         "124"
       ], 
       "housenumber": "124", 
-      "lat": 51.202203513756, 
-      "lon": 4.400872394441, 
+      "lat": 51.20220352005, 
+      "lon": 4.400872387292, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "manueleAanduidingVanGebouw", 
@@ -406,9 +404,6 @@
       "street": "Ballaarstraat"
     }, 
     {
-      "busnrs": [
-        "2"
-      ], 
       "hnrlbls": [
         "18"
       ], 
@@ -441,11 +436,11 @@
         "7"
       ], 
       "hnrlbls": [
-        "2"
+        "2-70"
       ], 
       "housenumber": "2", 
-      "lat": 51.204634435612, 
-      "lon": 4.40427374439, 
+      "lat": 51.204634441401, 
+      "lon": 4.404273747115, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "afgeleidVanGebouw", 
@@ -556,17 +551,14 @@
         "28"
       ], 
       "housenumber": "28", 
-      "lat": 51.204113402796, 
-      "lon": 4.403610589986, 
+      "lat": 51.20411349268, 
+      "lon": 4.403610590055, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "afgeleidVanGebouw", 
       "street": "Ballaarstraat"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
         "29"
       ], 
@@ -591,18 +583,27 @@
       "street": "Ballaarstraat"
     }, 
     {
-      "busnrs": [
-        "32"
-      ], 
       "hnrlbls": [
         "30"
       ], 
       "housenumber": "30", 
-      "lat": 51.204110372773, 
-      "lon": 4.403523880413, 
+      "lat": 51.204112260733, 
+      "lon": 4.403522594116, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "afgeleidVanPerceelGrb", 
+      "street": "Ballaarstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "30A"
+      ], 
+      "housenumber": "30A", 
+      "lat": 51.204236109748, 
+      "lon": 4.403261278048, 
+      "municipality": "Antwerpen", 
+      "pcode": "2018", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Ballaarstraat"
     }, 
     {
@@ -682,8 +683,8 @@
         "36A"
       ], 
       "housenumber": "36A", 
-      "lat": 51.204030437655, 
-      "lon": 4.403451806945, 
+      "lat": 51.204030397194, 
+      "lon": 4.403451849839, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "manueleAanduidingVanGebouw", 
@@ -714,9 +715,6 @@
       "street": "Ballaarstraat"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
         "39"
       ], 
@@ -813,9 +811,6 @@
       "street": "Ballaarstraat"
     }, 
     {
-      "busnrs": [
-        "3"
-      ], 
       "hnrlbls": [
         "46"
       ], 
@@ -864,30 +859,12 @@
       "street": "Ballaarstraat"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
-        "4A-4_1"
+        "4A"
       ], 
       "housenumber": "4A", 
-      "lat": 51.2045896869, 
-      "lon": 4.404168432069, 
-      "municipality": "Antwerpen", 
-      "pcode": "2018", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Ballaarstraat"
-    }, 
-    {
-      "busnrs": [
-        "A"
-      ], 
-      "hnrlbls": [
-        "4A-4_1"
-      ], 
-      "housenumber": "4_1", 
-      "lat": 51.2045896869, 
-      "lon": 4.404168432069, 
+      "lat": 51.204589711178, 
+      "lon": 4.404168403471, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1002,10 +979,6 @@
       "street": "Ballaarstraat"
     }, 
     {
-      "busnrs": [
-        "2", 
-        "4"
-      ], 
       "hnrlbls": [
         "58"
       ], 
@@ -1120,10 +1093,6 @@
       "street": "Ballaarstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
       "hnrlbls": [
         "66"
       ], 
@@ -1160,9 +1129,6 @@
       "street": "Ballaarstraat"
     }, 
     {
-      "busnrs": [
-        "71"
-      ], 
       "hnrlbls": [
         "69"
       ], 
@@ -1199,9 +1165,6 @@
       "street": "Ballaarstraat"
     }, 
     {
-      "busnrs": [
-        "5"
-      ], 
       "hnrlbls": [
         "71"
       ], 
@@ -1262,15 +1225,21 @@
       "street": "Ballaarstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
         "76"
       ], 
       "housenumber": "76", 
-      "lat": 51.203236867159, 
-      "lon": 4.402021892389, 
+      "lat": 51.203225065121, 
+      "lon": 4.402116315657, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Ballaarstraat"
     }, 
     {
@@ -1355,9 +1324,6 @@
       "street": "Ballaarstraat"
     }, 
     {
-      "busnrs": [
-        "10"
-      ], 
       "hnrlbls": [
         "8"
       ], 
@@ -1382,8 +1348,9 @@
       "street": "Ballaarstraat"
     }, 
     {
-      "busnrs": [
-        "83"
+      "apptnrs": [
+        "001", 
+        "201"
       ], 
       "hnrlbls": [
         "81-83"
@@ -1449,22 +1416,22 @@
         "87"
       ], 
       "housenumber": "87", 
-      "lat": 51.202777823305, 
-      "lon": 4.402000444261, 
+      "lat": 51.20277783321, 
+      "lon": 4.402000382745, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "manueleAanduidingVanGebouw", 
       "street": "Ballaarstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6", 
-        "7"
+      "apptnrs": [
+        "101", 
+        "102", 
+        "201", 
+        "202", 
+        "301", 
+        "302", 
+        "401"
       ], 
       "hnrlbls": [
         "88-98"
@@ -1478,6 +1445,12 @@
       "street": "Ballaarstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
         "89"
       ], 
@@ -1516,8 +1489,13 @@
     {
       "busnrs": [
         "1", 
+        "2", 
+        "3", 
         "4", 
+        "5", 
         "6", 
+        "7", 
+        "8", 
         "9"
       ], 
       "hnrlbls": [
@@ -1533,7 +1511,14 @@
     }, 
     {
       "apptnrs": [
-        "4.0"
+        "101", 
+        "102", 
+        "201", 
+        "202", 
+        "301", 
+        "302", 
+        "401", 
+        "402"
       ], 
       "hnrlbls": [
         "88-98"
@@ -1595,15 +1580,15 @@
       "street": "Ballaarstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6", 
-        "7", 
-        "8"
+      "apptnrs": [
+        "101", 
+        "102", 
+        "201", 
+        "202", 
+        "301", 
+        "302", 
+        "401", 
+        "402"
       ], 
       "hnrlbls": [
         "88-98"

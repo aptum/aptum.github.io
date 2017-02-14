@@ -38,7 +38,7 @@
         "9"
       ], 
       "hnrlbls": [
-        "2-293"
+        "4-293"
       ], 
       "housenumber": "10", 
       "lat": 51.220520006469, 
@@ -284,7 +284,7 @@
         "7"
       ], 
       "hnrlbls": [
-        "2-293"
+        "4-293"
       ], 
       "housenumber": "12", 
       "lat": 51.220520006469, 
@@ -403,8 +403,10 @@
       "street": "Ter Rivierenlaan"
     }, 
     {
-      "busnrs": [
-        "2"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "128"
@@ -530,7 +532,7 @@
         "7"
       ], 
       "hnrlbls": [
-        "2-293"
+        "4-293"
       ], 
       "housenumber": "14", 
       "lat": 51.220520006469, 
@@ -565,19 +567,19 @@
       "street": "Ter Rivierenlaan"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "102", 
+        "201", 
+        "202"
       ], 
       "hnrlbls": [
         "143"
       ], 
       "housenumber": "143", 
-      "lat": 51.225066035835, 
-      "lon": 4.468902989453, 
+      "lat": 51.225066019657, 
+      "lon": 4.468902987986, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "manueleAanduidingVanGebouw", 
@@ -815,23 +817,22 @@
       "street": "Ter Rivierenlaan"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "10", 
-        "11", 
-        "12", 
-        "13", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6", 
-        "7", 
-        "8", 
-        "9"
+      "apptnrs": [
+        "101", 
+        "102", 
+        "201", 
+        "202", 
+        "301", 
+        "401", 
+        "402", 
+        "501", 
+        "502", 
+        "601", 
+        "602", 
+        "701"
       ], 
       "hnrlbls": [
-        "2-293"
+        "4-293"
       ], 
       "housenumber": "16", 
       "lat": 51.220520006469, 
@@ -1056,7 +1057,7 @@
         "9"
       ], 
       "hnrlbls": [
-        "2-293"
+        "4-293"
       ], 
       "housenumber": "18", 
       "lat": 51.220520006469, 
@@ -1315,11 +1316,11 @@
         "9"
       ], 
       "hnrlbls": [
-        "2-293"
+        "2-8"
       ], 
       "housenumber": "2", 
-      "lat": 51.220520006469, 
-      "lon": 4.469482429707, 
+      "lat": 51.220520006592, 
+      "lon": 4.469482286576, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "afgeleidVanGebouw", 
@@ -1330,7 +1331,7 @@
         "2"
       ], 
       "hnrlbls": [
-        "2-293"
+        "4-293"
       ], 
       "housenumber": "20", 
       "lat": 51.220520006469, 
@@ -1627,10 +1628,10 @@
       "street": "Ter Rivierenlaan"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3"
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301"
       ], 
       "hnrlbls": [
         "223"
@@ -2081,7 +2082,7 @@
     }, 
     {
       "hnrlbls": [
-        "2-293"
+        "4-293"
       ], 
       "housenumber": "4", 
       "lat": 51.220520006469, 
@@ -2357,7 +2358,7 @@
         "9"
       ], 
       "hnrlbls": [
-        "2-293"
+        "4-293"
       ], 
       "housenumber": "6", 
       "lat": 51.220520006469, 
@@ -2420,8 +2421,8 @@
         "62_2"
       ], 
       "housenumber": "62_2", 
-      "lat": 51.222573718958, 
-      "lon": 4.469399976433, 
+      "lat": 51.222573744994, 
+      "lon": 4.469400012274, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "manueleAanduidingVanGebouw", 
@@ -2630,6 +2631,10 @@
       "street": "Ter Rivierenlaan"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101"
+      ], 
       "hnrlbls": [
         "77"
       ], 
@@ -2680,11 +2685,11 @@
         "8"
       ], 
       "hnrlbls": [
-        "2-293"
+        "2-8"
       ], 
       "housenumber": "8", 
-      "lat": 51.220520006469, 
-      "lon": 4.469482429707, 
+      "lat": 51.220520006592, 
+      "lon": 4.469482286576, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "afgeleidVanGebouw", 
@@ -2731,18 +2736,6 @@
     }, 
     {
       "hnrlbls": [
-        "83-85"
-      ], 
-      "housenumber": "83", 
-      "lat": 51.223114181861, 
-      "lon": 4.468809733563, 
-      "municipality": "Antwerpen", 
-      "pcode": "2100", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Ter Rivierenlaan"
-    }, 
-    {
-      "hnrlbls": [
         "84"
       ], 
       "housenumber": "84", 
@@ -2754,14 +2747,16 @@
       "street": "Ter Rivierenlaan"
     }, 
     {
-      "busnrs": [
-        "2", 
-        "3", 
-        "4", 
-        "5"
+      "apptnrs": [
+        "001", 
+        "002", 
+        "101", 
+        "102", 
+        "201", 
+        "202"
       ], 
       "hnrlbls": [
-        "83-85"
+        "85"
       ], 
       "housenumber": "85", 
       "lat": 51.223114181861, 
@@ -2772,11 +2767,11 @@
       "street": "Ter Rivierenlaan"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301"
       ], 
       "hnrlbls": [
         "87"

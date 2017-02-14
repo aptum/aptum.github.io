@@ -198,6 +198,11 @@
       "street": "Moeshofstraat"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3"
+      ], 
       "hnrlbls": [
         "116"
       ], 
@@ -306,6 +311,11 @@
       "street": "Moeshofstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "125"
       ], 
@@ -574,9 +584,11 @@
     }, 
     {
       "busnrs": [
+        "1", 
         "2", 
         "3", 
-        "4"
+        "4", 
+        "5"
       ], 
       "hnrlbls": [
         "150"
@@ -800,8 +812,8 @@
         "17"
       ], 
       "housenumber": "17", 
-      "lat": 51.251156343554, 
-      "lon": 4.443718516038, 
+      "lat": 51.251156364253, 
+      "lon": 4.443718475968, 
       "municipality": "Antwerpen", 
       "pcode": "2170", 
       "source": "manueleAanduidingVanGebouw", 
@@ -892,11 +904,13 @@
       "street": "Moeshofstraat"
     }, 
     {
-      "busnrs": [
-        "3", 
-        "4", 
-        "5", 
-        "6"
+      "apptnrs": [
+        "001", 
+        "002", 
+        "101", 
+        "102", 
+        "201", 
+        "202"
       ], 
       "hnrlbls": [
         "177-181"
@@ -917,8 +931,8 @@
         "177A"
       ], 
       "housenumber": "177A", 
-      "lat": 51.255673121127, 
-      "lon": 4.446013606327, 
+      "lat": 51.255673100435, 
+      "lon": 4.44601363494, 
       "municipality": "Antwerpen", 
       "pcode": "2170", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1641,19 +1655,22 @@
       "street": "Moeshofstraat"
     }, 
     {
-      "busnrs": [
-        "5", 
-        "56"
+      "apptnrs": [
+        "002", 
+        "101", 
+        "102", 
+        "201", 
+        "202"
       ], 
       "hnrlbls": [
-        "54-56"
+        "54"
       ], 
       "housenumber": "54", 
-      "lat": 51.252188032131, 
-      "lon": 4.443729461009, 
+      "lat": 51.252159677018, 
+      "lon": 4.443795157023, 
       "municipality": "Antwerpen", 
       "pcode": "2170", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Moeshofstraat"
     }, 
     {
@@ -1670,7 +1687,7 @@
     }, 
     {
       "hnrlbls": [
-        "54-56"
+        "56"
       ], 
       "housenumber": "56", 
       "lat": 51.252188032131, 

@@ -1,15 +1,23 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6", 
+        "7"
+      ], 
       "hnrlbls": [
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 50.769073529868, 
-      "lon": 3.878211335645, 
+      "lat": 50.769048277685, 
+      "lon": 3.878321038829, 
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Guilleminlaan"
     }, 
     {
@@ -389,8 +397,8 @@
         "179"
       ], 
       "housenumber": "179", 
-      "lat": 50.766595155692, 
-      "lon": 3.890231559594, 
+      "lat": 50.766467133257, 
+      "lon": 3.890185938007, 
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
       "source": "afgeleidVanGebouw", 
@@ -517,26 +525,6 @@
       "street": "Guilleminlaan"
     }, 
     {
-      "busnrs": [
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6", 
-        "7"
-      ], 
-      "hnrlbls": [
-        "1B"
-      ], 
-      "housenumber": "1B", 
-      "lat": 50.769012115342, 
-      "lon": 3.878294054855, 
-      "municipality": "Geraardsbergen", 
-      "pcode": "9500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Guilleminlaan"
-    }, 
-    {
       "hnrlbls": [
         "20"
       ], 
@@ -609,8 +597,12 @@
       "street": "Guilleminlaan"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "3"
+      ], 
       "hnrlbls": [
-        "21-21B"
+        "21"
       ], 
       "housenumber": "21", 
       "lat": 50.768478932963, 
@@ -669,31 +661,15 @@
       "street": "Guilleminlaan"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "3"
-      ], 
-      "hnrlbls": [
-        "21-21B"
-      ], 
-      "housenumber": "21B", 
-      "lat": 50.768478932963, 
-      "lon": 3.877909333893, 
-      "municipality": "Geraardsbergen", 
-      "pcode": "9500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Guilleminlaan"
-    }, 
-    {
       "hnrlbls": [
         "221"
       ], 
       "housenumber": "221", 
-      "lat": 50.769965902682, 
-      "lon": 3.891353728597, 
+      "lat": 50.769912944075, 
+      "lon": 3.891351713006, 
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Guilleminlaan"
     }, 
     {
@@ -746,18 +722,6 @@
     }, 
     {
       "hnrlbls": [
-        "22A"
-      ], 
-      "housenumber": "22A", 
-      "lat": 50.766878053938, 
-      "lon": 3.889523880036, 
-      "municipality": "Geraardsbergen", 
-      "pcode": "9500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Guilleminlaan"
-    }, 
-    {
-      "hnrlbls": [
         "23"
       ], 
       "housenumber": "23", 
@@ -773,11 +737,11 @@
         "231"
       ], 
       "housenumber": "231", 
-      "lat": 50.770648557894, 
-      "lon": 3.892317353381, 
+      "lat": 50.770679281354, 
+      "lon": 3.892267708029, 
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Guilleminlaan"
     }, 
     {
@@ -817,8 +781,12 @@
       "street": "Guilleminlaan"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
-        "24-24B"
+        "24"
       ], 
       "housenumber": "24", 
       "lat": 50.767171599229, 
@@ -833,8 +801,8 @@
         "241"
       ], 
       "housenumber": "241", 
-      "lat": 50.771352988057, 
-      "lon": 3.893265617167, 
+      "lat": 50.771329132646, 
+      "lon": 3.893302008812, 
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
       "source": "afgeleidVanGebouw", 
@@ -845,11 +813,11 @@
         "243"
       ], 
       "housenumber": "243", 
-      "lat": 50.771618939535, 
-      "lon": 3.893761256208, 
+      "lat": 50.771626985302, 
+      "lon": 3.89375011711, 
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Guilleminlaan"
     }, 
     {
@@ -857,11 +825,11 @@
         "245"
       ], 
       "housenumber": "245", 
-      "lat": 50.771675203523, 
-      "lon": 3.893913517475, 
+      "lat": 50.771679192202, 
+      "lon": 3.893921699967, 
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Guilleminlaan"
     }, 
     {
@@ -869,8 +837,8 @@
         "247"
       ], 
       "housenumber": "247", 
-      "lat": 50.771755673929, 
-      "lon": 3.894027257451, 
+      "lat": 50.771755069916, 
+      "lon": 3.894033501422, 
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
       "source": "afgeleidVanGebouw", 
@@ -881,26 +849,11 @@
         "249"
       ], 
       "housenumber": "249", 
-      "lat": 50.771796221367, 
-      "lon": 3.894250137522, 
+      "lat": 50.771812602583, 
+      "lon": 3.894210560502, 
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Guilleminlaan"
-    }, 
-    {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "24-24B"
-      ], 
-      "housenumber": "24B", 
-      "lat": 50.767171599229, 
-      "lon": 3.889662086293, 
-      "municipality": "Geraardsbergen", 
-      "pcode": "9500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Guilleminlaan"
     }, 
     {
@@ -913,21 +866,6 @@
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
       "source": "afgeleidVanGebouw", 
-      "street": "Guilleminlaan"
-    }, 
-    {
-      "busnrs": [
-        "2"
-      ], 
-      "hnrlbls": [
-        "26"
-      ], 
-      "housenumber": "26", 
-      "lat": 50.767323187278, 
-      "lon": 3.889864676186, 
-      "municipality": "Geraardsbergen", 
-      "pcode": "9500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Guilleminlaan"
     }, 
     {
@@ -1039,6 +977,9 @@
       "street": "Guilleminlaan"
     }, 
     {
+      "busnrs": [
+        "2"
+      ], 
       "hnrlbls": [
         "35"
       ], 
@@ -1283,8 +1224,8 @@
         "52"
       ], 
       "housenumber": "52", 
-      "lat": 50.768523569396, 
-      "lon": 3.890582410499, 
+      "lat": 50.768495107901, 
+      "lon": 3.890591346499, 
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
       "source": "afgeleidVanGebouw", 
@@ -1459,12 +1400,16 @@
       "street": "Guilleminlaan"
     }, 
     {
+      "busnrs": [
+        "2", 
+        "3"
+      ], 
       "hnrlbls": [
-        "8-8B"
+        "8"
       ], 
       "housenumber": "8", 
-      "lat": 50.766882452645, 
-      "lon": 3.887678318839, 
+      "lat": 50.76688254254, 
+      "lon": 3.887678317921, 
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
       "source": "afgeleidVanGebouw", 
@@ -1528,22 +1473,6 @@
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
       "source": "afgeleidVanGebouw", 
-      "street": "Guilleminlaan"
-    }, 
-    {
-      "busnrs": [
-        "2", 
-        "3"
-      ], 
-      "hnrlbls": [
-        "8-8B"
-      ], 
-      "housenumber": "8B", 
-      "lat": 50.766882452645, 
-      "lon": 3.887678318839, 
-      "municipality": "Geraardsbergen", 
-      "pcode": "9500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Guilleminlaan"
     }, 
     {

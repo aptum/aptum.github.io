@@ -17,8 +17,8 @@
         "10"
       ], 
       "housenumber": "10", 
-      "lat": 50.977587170144, 
-      "lon": 5.480254053535, 
+      "lat": 50.977586551745, 
+      "lon": 5.480252899615, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
@@ -86,8 +86,8 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "2"
+        "BU01", 
+        "BU02"
       ], 
       "hnrlbls": [
         "105"
@@ -174,8 +174,7 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "2"
+        "BU01"
       ], 
       "hnrlbls": [
         "111"
@@ -349,8 +348,8 @@
         "124"
       ], 
       "housenumber": "124", 
-      "lat": 50.974484455255, 
-      "lon": 5.46296432011, 
+      "lat": 50.974494415168, 
+      "lon": 5.462956720978, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
@@ -433,8 +432,8 @@
         "131"
       ], 
       "housenumber": "131", 
-      "lat": 50.974307332072, 
-      "lon": 5.464307527635, 
+      "lat": 50.974305498602, 
+      "lon": 5.464311329432, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
@@ -442,31 +441,33 @@
     }, 
     {
       "hnrlbls": [
-        "131A-131B"
+        "131A"
       ], 
       "housenumber": "131A", 
-      "lat": 50.974317659576, 
-      "lon": 5.464154409324, 
+      "lat": 50.974261961559, 
+      "lon": 5.464198246217, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Noordlaan"
     }, 
     {
       "hnrlbls": [
-        "131A-131B"
+        "131B"
       ], 
       "housenumber": "131B", 
-      "lat": 50.974317659576, 
-      "lon": 5.464154409324, 
+      "lat": 50.974338953052, 
+      "lon": 5.464097949051, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Noordlaan"
     }, 
     {
       "busnrs": [
-        "3"
+        "BU01", 
+        "BU02", 
+        "BU03A"
       ], 
       "hnrlbls": [
         "133"
@@ -484,8 +485,8 @@
         "135"
       ], 
       "housenumber": "135", 
-      "lat": 50.97368684837, 
-      "lon": 5.46323474878, 
+      "lat": 50.973829184544, 
+      "lon": 5.463184106933, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanPerceelGrb", 
@@ -496,11 +497,11 @@
         "137"
       ], 
       "housenumber": "137", 
-      "lat": 50.974389195123, 
-      "lon": 5.463105344994, 
+      "lat": 50.973740002053, 
+      "lon": 5.462479168658, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "geinterpoleerdObvWegverbinding", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Noordlaan"
     }, 
     {
@@ -529,10 +530,10 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4"
+        "BU01", 
+        "BU02", 
+        "BU03", 
+        "BU04"
       ], 
       "hnrlbls": [
         "14-18"
@@ -598,59 +599,11 @@
         "20"
       ], 
       "housenumber": "20", 
-      "lat": 50.977341497831, 
-      "lon": 5.478319490813, 
+      "lat": 50.977343126451, 
+      "lon": 5.47831839015, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
-      "street": "Noordlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "20A-20D"
-      ], 
-      "housenumber": "20A", 
-      "lat": 50.977373192499, 
-      "lon": 5.478533279554, 
-      "municipality": "Genk", 
-      "pcode": "3600", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Noordlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "20A-20D"
-      ], 
-      "housenumber": "20B", 
-      "lat": 50.977373192499, 
-      "lon": 5.478533279554, 
-      "municipality": "Genk", 
-      "pcode": "3600", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Noordlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "20A-20D"
-      ], 
-      "housenumber": "20C", 
-      "lat": 50.977373192499, 
-      "lon": 5.478533279554, 
-      "municipality": "Genk", 
-      "pcode": "3600", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Noordlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "20A-20D"
-      ], 
-      "housenumber": "20D", 
-      "lat": 50.977373192499, 
-      "lon": 5.478533279554, 
-      "municipality": "Genk", 
-      "pcode": "3600", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Noordlaan"
     }, 
     {
@@ -679,9 +632,9 @@
     }, 
     {
       "busnrs": [
-        "2", 
-        "3", 
-        "4"
+        "BU02", 
+        "BU03", 
+        "BU04"
       ], 
       "hnrlbls": [
         "24"
@@ -771,8 +724,8 @@
         "2C"
       ], 
       "housenumber": "2C", 
-      "lat": 50.978336662738, 
-      "lon": 5.485254698358, 
+      "lat": 50.978337647376, 
+      "lon": 5.485255149052, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
@@ -791,20 +744,15 @@
       "street": "Noordlaan"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "4"
-      ], 
       "hnrlbls": [
-        "28-32"
+        "30"
       ], 
       "housenumber": "30", 
-      "lat": 50.976854044397, 
-      "lon": 5.476328109289, 
+      "lat": 50.976862080115, 
+      "lon": 5.476286290265, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Noordlaan"
     }, 
     {
@@ -917,7 +865,7 @@
     }, 
     {
       "busnrs": [
-        "1"
+        "BU01"
       ], 
       "hnrlbls": [
         "42"
@@ -959,11 +907,11 @@
         "46"
       ], 
       "housenumber": "46", 
-      "lat": 50.976214123349, 
-      "lon": 5.472744968565, 
+      "lat": 50.976668562288, 
+      "lon": 5.473291825062, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Noordlaan"
     }, 
     {
@@ -971,8 +919,8 @@
         "47"
       ], 
       "housenumber": "47", 
-      "lat": 50.977369312317, 
-      "lon": 5.482479091188, 
+      "lat": 50.977364977769, 
+      "lon": 5.482481124209, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
@@ -1007,8 +955,8 @@
         "4A"
       ], 
       "housenumber": "4A", 
-      "lat": 50.978135419568, 
-      "lon": 5.484369253232, 
+      "lat": 50.978185867348, 
+      "lon": 5.484348951151, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
@@ -1043,8 +991,8 @@
         "5"
       ], 
       "housenumber": "5", 
-      "lat": 50.97812484215, 
-      "lon": 5.486863697051, 
+      "lat": 50.978133122073, 
+      "lon": 5.486862755428, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
@@ -1160,18 +1108,6 @@
     }, 
     {
       "hnrlbls": [
-        "62"
-      ], 
-      "housenumber": "62", 
-      "lat": 50.976651766283, 
-      "lon": 5.479728606503, 
-      "municipality": "Genk", 
-      "pcode": "3600", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Noordlaan"
-    }, 
-    {
-      "hnrlbls": [
         "63"
       ], 
       "housenumber": "63", 
@@ -1231,9 +1167,6 @@
       "street": "Noordlaan"
     }, 
     {
-      "apptnrs": [
-        "1.3"
-      ], 
       "hnrlbls": [
         "6B"
       ], 
@@ -1315,18 +1248,6 @@
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
-      "street": "Noordlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "8"
-      ], 
-      "housenumber": "8", 
-      "lat": 50.977789621522, 
-      "lon": 5.481641908462, 
-      "municipality": "Genk", 
-      "pcode": "3600", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Noordlaan"
     }, 
     {
@@ -1415,8 +1336,8 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "2"
+        "BU01", 
+        "BU02"
       ], 
       "hnrlbls": [
         "87"
@@ -1518,8 +1439,8 @@
         "94"
       ], 
       "housenumber": "94", 
-      "lat": 50.975501347191, 
-      "lon": 5.466433274343, 
+      "lat": 50.975508929177, 
+      "lon": 5.466430034429, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
@@ -1551,26 +1472,14 @@
     }, 
     {
       "hnrlbls": [
-        "97-97A"
+        "97"
       ], 
       "housenumber": "97", 
-      "lat": 50.976250075854, 
-      "lon": 5.478006842105, 
+      "lat": 50.976250664715, 
+      "lon": 5.478011128098, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
-      "street": "Noordlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "97-97A"
-      ], 
-      "housenumber": "97A", 
-      "lat": 50.976250075854, 
-      "lon": 5.478006842105, 
-      "municipality": "Genk", 
-      "pcode": "3600", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Noordlaan"
     }, 
     {

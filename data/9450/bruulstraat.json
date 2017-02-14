@@ -101,7 +101,7 @@
     }, 
     {
       "hnrlbls": [
-        "116"
+        "116-116A"
       ], 
       "housenumber": "116", 
       "lat": 50.905871090845, 
@@ -113,14 +113,14 @@
     }, 
     {
       "hnrlbls": [
-        "116A"
+        "116-116A"
       ], 
       "housenumber": "116A", 
-      "lat": 50.90595680618, 
-      "lon": 4.001876752592, 
+      "lat": 50.905871090845, 
+      "lon": 4.001890927692, 
       "municipality": "Haaltert", 
       "pcode": "9450", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Bruulstraat"
     }, 
     {
@@ -287,8 +287,8 @@
         "144"
       ], 
       "housenumber": "144", 
-      "lat": 50.906380482401, 
-      "lon": 3.999721762477, 
+      "lat": 50.906380845092, 
+      "lon": 3.99972275486, 
       "municipality": "Haaltert", 
       "pcode": "9450", 
       "source": "afgeleidVanGebouw", 
@@ -423,6 +423,7 @@
         "10", 
         "101", 
         "102", 
+        "103", 
         "104", 
         "105", 
         "106", 
@@ -488,8 +489,8 @@
         "174"
       ], 
       "housenumber": "174", 
-      "lat": 50.908012925431, 
-      "lon": 3.99777269876, 
+      "lat": 50.908012953223, 
+      "lon": 3.997772739082, 
       "municipality": "Haaltert", 
       "pcode": "9450", 
       "source": "afgeleidVanGebouw", 
@@ -623,8 +624,8 @@
         "21"
       ], 
       "housenumber": "21", 
-      "lat": 50.904635109719, 
-      "lon": 4.00272601135, 
+      "lat": 50.904635122545, 
+      "lon": 4.002726008158, 
       "municipality": "Haaltert", 
       "pcode": "9450", 
       "source": "afgeleidVanGebouw", 
@@ -695,8 +696,8 @@
         "27"
       ], 
       "housenumber": "27", 
-      "lat": 50.904707818948, 
-      "lon": 4.002312579292, 
+      "lat": 50.904709360848, 
+      "lon": 4.002316974567, 
       "municipality": "Haaltert", 
       "pcode": "9450", 
       "source": "afgeleidVanGebouw", 
@@ -835,12 +836,34 @@
       "street": "Bruulstraat"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "10", 
+        "3", 
+        "4", 
+        "5", 
+        "6", 
+        "7", 
+        "9"
+      ], 
+      "hnrlbls": [
+        "40"
+      ], 
+      "housenumber": "40", 
+      "lat": 50.90366745851, 
+      "lon": 4.004655071867, 
+      "municipality": "Haaltert", 
+      "pcode": "9450", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Bruulstraat"
+    }, 
+    {
       "hnrlbls": [
         "41"
       ], 
       "housenumber": "41", 
-      "lat": 50.905285774184, 
-      "lon": 4.001650020145, 
+      "lat": 50.905285753984, 
+      "lon": 4.001649961478, 
       "municipality": "Haaltert", 
       "pcode": "9450", 
       "source": "afgeleidVanGebouw", 
@@ -856,18 +879,6 @@
       "municipality": "Haaltert", 
       "pcode": "9450", 
       "source": "afgeleidVanGebouw", 
-      "street": "Bruulstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "44"
-      ], 
-      "housenumber": "44", 
-      "lat": 50.903880594542, 
-      "lon": 4.005351466938, 
-      "municipality": "Haaltert", 
-      "pcode": "9450", 
-      "source": "afgeleidVanPerceelGrb", 
       "street": "Bruulstraat"
     }, 
     {
@@ -929,18 +940,6 @@
     }, 
     {
       "hnrlbls": [
-        "50"
-      ], 
-      "housenumber": "50", 
-      "lat": 50.904406597524, 
-      "lon": 4.003995512701, 
-      "municipality": "Haaltert", 
-      "pcode": "9450", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Bruulstraat"
-    }, 
-    {
-      "hnrlbls": [
         "51"
       ], 
       "housenumber": "51", 
@@ -972,7 +971,7 @@
       "lon": 4.003940251309, 
       "municipality": "Haaltert", 
       "pcode": "9450", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Bruulstraat"
     }, 
     {
@@ -985,18 +984,6 @@
       "municipality": "Haaltert", 
       "pcode": "9450", 
       "source": "afgeleidVanGebouw", 
-      "street": "Bruulstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "56"
-      ], 
-      "housenumber": "56", 
-      "lat": 50.904337003662, 
-      "lon": 4.003816634608, 
-      "municipality": "Haaltert", 
-      "pcode": "9450", 
-      "source": "afgeleidVanPerceelGrb", 
       "street": "Bruulstraat"
     }, 
     {
@@ -1088,8 +1075,8 @@
         "64"
       ], 
       "housenumber": "64", 
-      "lat": 50.904707248528, 
-      "lon": 4.003777508651, 
+      "lat": 50.904704697577, 
+      "lon": 4.003766581316, 
       "municipality": "Haaltert", 
       "pcode": "9450", 
       "source": "afgeleidVanGebouw", 
@@ -1453,8 +1440,8 @@
         "91"
       ], 
       "housenumber": "91", 
-      "lat": 50.907503059376, 
-      "lon": 3.998073039709, 
+      "lat": 50.907503028395, 
+      "lon": 3.998073062216, 
       "municipality": "Haaltert", 
       "pcode": "9450", 
       "source": "afgeleidVanGebouw", 
@@ -1464,14 +1451,15 @@
       "busnrs": [
         "1", 
         "2", 
-        "3"
+        "3", 
+        "4"
       ], 
       "hnrlbls": [
         "92"
       ], 
       "housenumber": "92", 
-      "lat": 50.905176096396, 
-      "lon": 4.002353678694, 
+      "lat": 50.905176118738, 
+      "lon": 4.002353715192, 
       "municipality": "Haaltert", 
       "pcode": "9450", 
       "source": "afgeleidVanGebouw", 
@@ -1482,8 +1470,8 @@
         "93"
       ], 
       "housenumber": "93", 
-      "lat": 50.907552661459, 
-      "lon": 3.998010270206, 
+      "lat": 50.907552632148, 
+      "lon": 3.998010254625, 
       "municipality": "Haaltert", 
       "pcode": "9450", 
       "source": "afgeleidVanGebouw", 

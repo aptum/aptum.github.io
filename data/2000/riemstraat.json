@@ -103,6 +103,9 @@
         "401", 
         "402"
       ], 
+      "busnrs": [
+        "202"
+      ], 
       "hnrlbls": [
         "15-17"
       ], 
@@ -224,66 +227,36 @@
       "street": "Riemstraat"
     }, 
     {
-      "busnrs": [
-        "2"
-      ], 
       "hnrlbls": [
-        "19A-19_2"
+        "19A"
       ], 
       "housenumber": "19A", 
-      "lat": 51.213548076732, 
-      "lon": 4.393413496571, 
+      "lat": 51.213548038092, 
+      "lon": 4.393413449323, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "manueleAanduidingVanGebouw", 
       "street": "Riemstraat"
     }, 
     {
-      "busnrs": [
-        "B"
-      ], 
       "hnrlbls": [
-        "19A-19_2"
-      ], 
-      "housenumber": "19_2", 
-      "lat": 51.213548076732, 
-      "lon": 4.393413496571, 
-      "municipality": "Antwerpen", 
-      "pcode": "2000", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Riemstraat"
-    }, 
-    {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "1B-1_1"
+        "1B"
       ], 
       "housenumber": "1B", 
-      "lat": 51.213923629844, 
-      "lon": 4.393696053808, 
+      "lat": 51.213923602888, 
+      "lon": 4.393696012291, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "manueleAanduidingVanGebouw", 
       "street": "Riemstraat"
     }, 
     {
-      "busnrs": [
-        "A"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301"
       ], 
-      "hnrlbls": [
-        "1B-1_1"
-      ], 
-      "housenumber": "1_1", 
-      "lat": 51.213923629844, 
-      "lon": 4.393696053808, 
-      "municipality": "Antwerpen", 
-      "pcode": "2000", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Riemstraat"
-    }, 
-    {
       "hnrlbls": [
         "2-20"
       ], 
@@ -568,9 +541,11 @@
       "street": "Riemstraat"
     }, 
     {
-      "busnrs": [
-        "2", 
-        "5"
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301", 
+        "401"
       ], 
       "hnrlbls": [
         "4"
@@ -611,12 +586,17 @@
       "street": "Riemstraat"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
         "45"
       ], 
       "housenumber": "45", 
-      "lat": 51.212801393264, 
-      "lon": 4.393724732515, 
+      "lat": 51.212961397116, 
+      "lon": 4.393260147461, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
@@ -642,6 +622,7 @@
         "103", 
         "201", 
         "202", 
+        "3.1", 
         "301", 
         "302", 
         "303", 
@@ -696,6 +677,9 @@
     }, 
     {
       "busnrs": [
+        "1", 
+        "2", 
+        "3", 
         "4"
       ], 
       "hnrlbls": [
@@ -736,11 +720,11 @@
         "9"
       ], 
       "housenumber": "9", 
-      "lat": 51.213772910585, 
-      "lon": 4.393495287924, 
+      "lat": 51.21377129341, 
+      "lon": 4.393491852379, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Riemstraat"
     }
   ]

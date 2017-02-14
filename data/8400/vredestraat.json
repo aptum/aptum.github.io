@@ -13,6 +13,25 @@
       "street": "Vredestraat"
     }, 
     {
+      "busnrs": [
+        "102", 
+        "201", 
+        "202", 
+        "203", 
+        "204"
+      ], 
+      "hnrlbls": [
+        "10"
+      ], 
+      "housenumber": "10", 
+      "lat": 51.216012022953, 
+      "lon": 2.893239265688, 
+      "municipality": "Oostende", 
+      "pcode": "8400", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Vredestraat"
+    }, 
+    {
       "hnrlbls": [
         "11"
       ], 
@@ -44,17 +63,27 @@
     }, 
     {
       "busnrs": [
-        "402"
+        "101", 
+        "102", 
+        "104", 
+        "201", 
+        "203", 
+        "204", 
+        "302", 
+        "303", 
+        "401", 
+        "402", 
+        "404"
       ], 
       "hnrlbls": [
         "12"
       ], 
       "housenumber": "12", 
-      "lat": 51.215775023731, 
-      "lon": 2.892726285534, 
+      "lat": 51.215928365689, 
+      "lon": 2.892839099484, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Vredestraat"
     }, 
     {
@@ -97,6 +126,7 @@
       "busnrs": [
         "1", 
         "2", 
+        "202", 
         "3", 
         "4", 
         "5"
@@ -113,6 +143,9 @@
       "street": "Vredestraat"
     }, 
     {
+      "busnrs": [
+        "201"
+      ], 
       "hnrlbls": [
         "17A-17B"
       ], 
@@ -199,13 +232,19 @@
     {
       "busnrs": [
         "1", 
+        "101", 
+        "102", 
         "103", 
         "104", 
         "105", 
         "106", 
         "201", 
+        "202", 
         "203", 
+        "204", 
         "205", 
+        "206", 
+        "3", 
         "301", 
         "302", 
         "303", 
@@ -218,6 +257,7 @@
         "403", 
         "404", 
         "405", 
+        "406", 
         "5"
       ], 
       "hnrlbls": [
@@ -375,8 +415,8 @@
         "33"
       ], 
       "housenumber": "33", 
-      "lat": 51.215232443951, 
-      "lon": 2.89068017954, 
+      "lat": 51.215236411037, 
+      "lon": 2.890673898663, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -387,11 +427,11 @@
         "34"
       ], 
       "housenumber": "34", 
-      "lat": 51.214122994319, 
-      "lon": 2.889302106116, 
+      "lat": 51.214154822491, 
+      "lon": 2.889137057718, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Vredestraat"
     }, 
     {
@@ -411,8 +451,8 @@
         "36"
       ], 
       "housenumber": "36", 
-      "lat": 51.214065750658, 
-      "lon": 2.889066881272, 
+      "lat": 51.214062387303, 
+      "lon": 2.88907829603, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -432,23 +472,11 @@
     }, 
     {
       "hnrlbls": [
-        "38"
-      ], 
-      "housenumber": "38", 
-      "lat": 51.215321839317, 
-      "lon": 2.890236892872, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Vredestraat"
-    }, 
-    {
-      "hnrlbls": [
         "39"
       ], 
       "housenumber": "39", 
-      "lat": 51.215111982384, 
-      "lon": 2.890472144077, 
+      "lat": 51.215118446041, 
+      "lon": 2.890464209506, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -471,8 +499,8 @@
         "40"
       ], 
       "housenumber": "40", 
-      "lat": 51.214004493964, 
-      "lon": 2.88896361629, 
+      "lat": 51.214000212609, 
+      "lon": 2.888966328617, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -519,8 +547,8 @@
         "44"
       ], 
       "housenumber": "44", 
-      "lat": 51.213954135201, 
-      "lon": 2.888804467581, 
+      "lat": 51.213951503673, 
+      "lon": 2.8888097041, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -531,8 +559,8 @@
         "45"
       ], 
       "housenumber": "45", 
-      "lat": 51.215013609389, 
-      "lon": 2.890326678867, 
+      "lat": 51.215032337278, 
+      "lon": 2.890300176432, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -559,8 +587,8 @@
         "47"
       ], 
       "housenumber": "47", 
-      "lat": 51.215009120352, 
-      "lon": 2.890255249589, 
+      "lat": 51.215015950615, 
+      "lon": 2.890247875959, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -679,11 +707,11 @@
         "63"
       ], 
       "housenumber": "63", 
-      "lat": 51.214833030872, 
-      "lon": 2.889761406072, 
+      "lat": 51.214769321048, 
+      "lon": 2.889828555701, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Vredestraat"
     }, 
     {
@@ -696,11 +724,11 @@
         "65"
       ], 
       "housenumber": "65", 
-      "lat": 51.214775604105, 
-      "lon": 2.889705540341, 
+      "lat": 51.214724441794, 
+      "lon": 2.88979834405, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Vredestraat"
     }, 
     {
@@ -760,8 +788,8 @@
         "7B"
       ], 
       "housenumber": "7B", 
-      "lat": 51.216391545147, 
-      "lon": 2.893134931286, 
+      "lat": 51.21638088916, 
+      "lon": 2.893109501869, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -780,27 +808,18 @@
       "street": "Vredestraat"
     }, 
     {
+      "busnrs": [
+        "A"
+      ], 
       "hnrlbls": [
-        "9-9A"
+        "9"
       ], 
       "housenumber": "9", 
-      "lat": 51.216387394641, 
-      "lon": 2.89298962501, 
+      "lat": 51.216336614244, 
+      "lon": 2.89308442022, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Vredestraat"
-    }, 
-    {
-      "hnrlbls": [
-        "9-9A"
-      ], 
-      "housenumber": "9A", 
-      "lat": 51.216387394641, 
-      "lon": 2.89298962501, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Vredestraat"
     }
   ]

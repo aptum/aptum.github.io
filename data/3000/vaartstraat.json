@@ -5,8 +5,8 @@
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 50.880103113364, 
-      "lon": 4.702999227504, 
+      "lat": 50.880104917313, 
+      "lon": 4.70299710893, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanPerceelGrb", 
@@ -39,8 +39,8 @@
         "103"
       ], 
       "housenumber": "103", 
-      "lat": 50.884485337086, 
-      "lon": 4.700685820225, 
+      "lat": 50.884486143307, 
+      "lon": 4.700686820697, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanPerceelGrb", 
@@ -127,15 +127,6 @@
         "0108", 
         "0109", 
         "0110", 
-        "0111", 
-        "0112", 
-        "0113", 
-        "0114", 
-        "0115", 
-        "0116", 
-        "0117", 
-        "0118", 
-        "0119", 
         "0201", 
         "0202", 
         "0203", 
@@ -146,15 +137,6 @@
         "0208", 
         "0209", 
         "0210", 
-        "0211", 
-        "0212", 
-        "0213", 
-        "0214", 
-        "0215", 
-        "0216", 
-        "0217", 
-        "0218", 
-        "0219", 
         "0301", 
         "0302", 
         "0303", 
@@ -189,7 +171,8 @@
         "0510", 
         "0511", 
         "0601", 
-        "0602"
+        "0602", 
+        "112"
       ], 
       "hnrlbls": [
         "11"
@@ -427,18 +410,6 @@
       "street": "Vaartstraat"
     }, 
     {
-      "hnrlbls": [
-        "11B-31"
-      ], 
-      "housenumber": "11B", 
-      "lat": 50.88116367639, 
-      "lon": 4.701554112053, 
-      "municipality": "Leuven", 
-      "pcode": "3000", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Vaartstraat"
-    }, 
-    {
       "busnrs": [
         "0001", 
         "0101", 
@@ -576,6 +547,12 @@
       "street": "Vaartstraat"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0201", 
+        "0202"
+      ], 
       "hnrlbls": [
         "14"
       ], 
@@ -1007,7 +984,7 @@
     }, 
     {
       "hnrlbls": [
-        "24"
+        "19-24"
       ], 
       "housenumber": "24", 
       "lat": 50.881387529684, 
@@ -1106,7 +1083,8 @@
         "0001"
       ], 
       "busnrs": [
-        "0201"
+        "0201", 
+        "0202"
       ], 
       "hnrlbls": [
         "29"
@@ -1144,14 +1122,14 @@
     }, 
     {
       "hnrlbls": [
-        "30"
+        "30-32"
       ], 
       "housenumber": "30", 
-      "lat": 50.881571801157, 
-      "lon": 4.701680352582, 
+      "lat": 50.881685673811, 
+      "lon": 4.70175221162, 
       "municipality": "Leuven", 
       "pcode": "3000", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Vaartstraat"
     }, 
     {
@@ -1168,7 +1146,7 @@
     }, 
     {
       "hnrlbls": [
-        "32"
+        "30-32"
       ], 
       "housenumber": "32", 
       "lat": 50.881685673811, 
@@ -1185,6 +1163,7 @@
         "0003", 
         "0101", 
         "0102", 
+        "0103", 
         "0201", 
         "0202", 
         "0301"
@@ -1286,8 +1265,8 @@
         "37"
       ], 
       "housenumber": "37", 
-      "lat": 50.882104888489, 
-      "lon": 4.701075658902, 
+      "lat": 50.882104080659, 
+      "lon": 4.701075226869, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanPerceelGrb", 
@@ -1868,7 +1847,8 @@
         "0301", 
         "0302", 
         "0401", 
-        "0402"
+        "0402", 
+        "3"
       ], 
       "hnrlbls": [
         "67"
@@ -1922,8 +1902,8 @@
         "70"
       ], 
       "housenumber": "70", 
-      "lat": 50.884041538968, 
-      "lon": 4.701124774348, 
+      "lat": 50.884041720368, 
+      "lon": 4.701124207204, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanGebouw", 
@@ -1989,11 +1969,7 @@
       "street": "Vaartstraat"
     }, 
     {
-      "apptnrs": [
-        "0001"
-      ], 
       "busnrs": [
-        "0002", 
         "0101", 
         "0102", 
         "0201", 
@@ -2016,8 +1992,8 @@
         "76"
       ], 
       "housenumber": "76", 
-      "lat": 50.884414259905, 
-      "lon": 4.701285499908, 
+      "lat": 50.884414237381, 
+      "lon": 4.701285442122, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanGebouw", 
@@ -2135,8 +2111,8 @@
         "82"
       ], 
       "housenumber": "82", 
-      "lat": 50.884693101386, 
-      "lon": 4.701011934939, 
+      "lat": 50.884693059111, 
+      "lon": 4.701011869638, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanGebouw", 
@@ -2159,8 +2135,8 @@
         "84"
       ], 
       "housenumber": "84", 
-      "lat": 50.884700643294, 
-      "lon": 4.701288824335, 
+      "lat": 50.884700633234, 
+      "lon": 4.701288895042, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanGebouw", 
@@ -2191,8 +2167,8 @@
         "86"
       ], 
       "housenumber": "86", 
-      "lat": 50.884784976174, 
-      "lon": 4.701018282494, 
+      "lat": 50.884785003374, 
+      "lon": 4.701018347905, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanGebouw", 
@@ -2223,8 +2199,8 @@
         "88"
       ], 
       "housenumber": "88", 
-      "lat": 50.884826800143, 
-      "lon": 4.700996649467, 
+      "lat": 50.884826776317, 
+      "lon": 4.700996616969, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanGebouw", 
@@ -2294,8 +2270,8 @@
         "90"
       ], 
       "housenumber": "90", 
-      "lat": 50.884916483724, 
-      "lon": 4.70119639014, 
+      "lat": 50.884916464258, 
+      "lon": 4.701196349246, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanGebouw", 
@@ -2720,8 +2696,8 @@
         "94"
       ], 
       "housenumber": "94", 
-      "lat": 50.885766549149, 
-      "lon": 4.70146812975, 
+      "lat": 50.885766738623, 
+      "lon": 4.701464720386, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanGebouw", 

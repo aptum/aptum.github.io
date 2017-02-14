@@ -1,6 +1,9 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -61,6 +64,10 @@
       "street": "Honor\u00e9 Borgersstraat"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "101"
+      ], 
       "hnrlbls": [
         "109"
       ], 
@@ -279,7 +286,9 @@
     }, 
     {
       "busnrs": [
-        "2"
+        "101", 
+        "2", 
+        "201"
       ], 
       "hnrlbls": [
         "26"
@@ -346,18 +355,6 @@
     }, 
     {
       "hnrlbls": [
-        "29B"
-      ], 
-      "housenumber": "29B", 
-      "lat": 51.216954847873, 
-      "lon": 2.901486449563, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Honor\u00e9 Borgersstraat"
-    }, 
-    {
-      "hnrlbls": [
         "3"
       ], 
       "housenumber": "3", 
@@ -397,8 +394,8 @@
         "32"
       ], 
       "housenumber": "32", 
-      "lat": 51.21683024528, 
-      "lon": 2.902370873567, 
+      "lat": 51.216825433975, 
+      "lon": 2.902403376302, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -421,8 +418,8 @@
         "34"
       ], 
       "housenumber": "34", 
-      "lat": 51.216778930411, 
-      "lon": 2.902401402546, 
+      "lat": 51.216778865315, 
+      "lon": 2.902381650161, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -466,14 +463,14 @@
     }, 
     {
       "hnrlbls": [
-        "5-38"
+        "38"
       ], 
       "housenumber": "38", 
-      "lat": 51.216645875135, 
-      "lon": 2.902945251608, 
+      "lat": 51.216650005125, 
+      "lon": 2.902255865881, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Honor\u00e9 Borgersstraat"
     }, 
     {
@@ -517,11 +514,11 @@
         "41"
       ], 
       "housenumber": "41", 
-      "lat": 51.216393912943, 
-      "lon": 2.901439819968, 
+      "lat": 51.216525482828, 
+      "lon": 2.901805717285, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Honor\u00e9 Borgersstraat"
     }, 
     {
@@ -544,11 +541,11 @@
         "45"
       ], 
       "housenumber": "45", 
-      "lat": 51.216417405386, 
-      "lon": 2.901843505246, 
+      "lat": 51.216416658858, 
+      "lon": 2.901838484564, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Honor\u00e9 Borgersstraat"
     }, 
     {
@@ -565,14 +562,14 @@
     }, 
     {
       "hnrlbls": [
-        "47-89"
+        "47"
       ], 
       "housenumber": "47", 
-      "lat": 51.216238817548, 
-      "lon": 2.901293678907, 
+      "lat": 51.216375237118, 
+      "lon": 2.901427237896, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Honor\u00e9 Borgersstraat"
     }, 
     {
@@ -580,11 +577,11 @@
         "48"
       ], 
       "housenumber": "48", 
-      "lat": 51.216357008153, 
-      "lon": 2.902218983558, 
+      "lat": 51.216337717436, 
+      "lon": 2.902185807391, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Honor\u00e9 Borgersstraat"
     }, 
     {
@@ -616,14 +613,17 @@
         "50"
       ], 
       "housenumber": "50", 
-      "lat": 51.216303551334, 
-      "lon": 2.902258025382, 
+      "lat": 51.21628855095, 
+      "lon": 2.9021793369, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Honor\u00e9 Borgersstraat"
     }, 
     {
+      "busnrs": [
+        "101"
+      ], 
       "hnrlbls": [
         "51"
       ], 
@@ -640,20 +640,21 @@
         "1", 
         "2", 
         "3", 
+        "301", 
         "4", 
         "5", 
         "6", 
         "7"
       ], 
       "hnrlbls": [
-        "52-54"
+        "52"
       ], 
       "housenumber": "52", 
-      "lat": 51.216208493027, 
-      "lon": 2.902211914528, 
+      "lat": 51.216234894058, 
+      "lon": 2.902165993422, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Honor\u00e9 Borgersstraat"
     }, 
     {
@@ -670,18 +671,19 @@
     }, 
     {
       "busnrs": [
+        "302", 
         "4", 
         "6"
       ], 
       "hnrlbls": [
-        "52-54"
+        "54"
       ], 
       "housenumber": "54", 
-      "lat": 51.216208493027, 
-      "lon": 2.902211914528, 
+      "lat": 51.216195076608, 
+      "lon": 2.902152214876, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Honor\u00e9 Borgersstraat"
     }, 
     {
@@ -699,6 +701,7 @@
     {
       "busnrs": [
         "1", 
+        "101", 
         "2", 
         "3", 
         "4"
@@ -730,7 +733,8 @@
       "busnrs": [
         "1", 
         "2", 
-        "3"
+        "3", 
+        "301"
       ], 
       "hnrlbls": [
         "58"
@@ -758,6 +762,7 @@
     {
       "busnrs": [
         "2", 
+        "201", 
         "3"
       ], 
       "hnrlbls": [
@@ -808,6 +813,10 @@
       "street": "Honor\u00e9 Borgersstraat"
     }, 
     {
+      "busnrs": [
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "63"
       ], 
@@ -872,8 +881,8 @@
         "68"
       ], 
       "housenumber": "68", 
-      "lat": 51.215848056199, 
-      "lon": 2.902123187282, 
+      "lat": 51.215841972521, 
+      "lon": 2.902132826133, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -909,6 +918,7 @@
         "2", 
         "3", 
         "4", 
+        "402", 
         "5", 
         "6", 
         "7", 

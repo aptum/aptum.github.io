@@ -73,8 +73,8 @@
         "14"
       ], 
       "housenumber": "14", 
-      "lat": 51.219412701353, 
-      "lon": 4.420818549701, 
+      "lat": 51.219412726384, 
+      "lon": 4.420818542263, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
       "source": "manueleAanduidingVanToegangTotDeWeg", 
@@ -189,8 +189,8 @@
         "21A-21F"
       ], 
       "housenumber": "21A", 
-      "lat": 51.219836888259, 
-      "lon": 4.420435296108, 
+      "lat": 51.219836879272, 
+      "lon": 4.420435291804, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
       "source": "manueleAanduidingVanGebouw", 
@@ -201,8 +201,8 @@
         "21A-21F"
       ], 
       "housenumber": "21B", 
-      "lat": 51.219836888259, 
-      "lon": 4.420435296108, 
+      "lat": 51.219836879272, 
+      "lon": 4.420435291804, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
       "source": "manueleAanduidingVanGebouw", 
@@ -213,8 +213,8 @@
         "21A-21F"
       ], 
       "housenumber": "21D", 
-      "lat": 51.219836888259, 
-      "lon": 4.420435296108, 
+      "lat": 51.219836879272, 
+      "lon": 4.420435291804, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
       "source": "manueleAanduidingVanGebouw", 
@@ -225,8 +225,8 @@
         "21A-21F"
       ], 
       "housenumber": "21F", 
-      "lat": 51.219836888259, 
-      "lon": 4.420435296108, 
+      "lat": 51.219836879272, 
+      "lon": 4.420435291804, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
       "source": "manueleAanduidingVanGebouw", 
@@ -328,8 +328,8 @@
         "27_3"
       ], 
       "housenumber": "27_3", 
-      "lat": 51.2199709651, 
-      "lon": 4.420525186347, 
+      "lat": 51.219970946225, 
+      "lon": 4.420525184894, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
       "source": "manueleAanduidingVanGebouw", 
@@ -378,8 +378,8 @@
         "29C"
       ], 
       "housenumber": "29C", 
-      "lat": 51.220024254045, 
-      "lon": 4.4204838316, 
+      "lat": 51.220024265709, 
+      "lon": 4.420483880277, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
       "source": "manueleAanduidingVanGebouw", 
@@ -387,7 +387,7 @@
     }, 
     {
       "hnrlbls": [
-        "3"
+        "3-3A"
       ], 
       "housenumber": "3", 
       "lat": 51.219334371155, 
@@ -514,8 +514,10 @@
       "street": "Van Wesenbekestraat"
     }, 
     {
-      "apptnrs": [
-        "0.0"
+      "busnrs": [
+        "1", 
+        "2", 
+        "3"
       ], 
       "hnrlbls": [
         "38"
@@ -548,8 +550,8 @@
         "39C"
       ], 
       "housenumber": "39C", 
-      "lat": 51.22026151728, 
-      "lon": 4.42050551646, 
+      "lat": 51.220261549657, 
+      "lon": 4.420505473557, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
       "source": "manueleAanduidingVanGebouw", 
@@ -605,11 +607,23 @@
         "43"
       ], 
       "housenumber": "43", 
-      "lat": 51.22035241843, 
-      "lon": 4.420514163633, 
+      "lat": 51.220364744614, 
+      "lon": 4.420689226945, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Van Wesenbekestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "43A"
+      ], 
+      "housenumber": "43A", 
+      "lat": 51.220348115527, 
+      "lon": 4.420690496356, 
+      "municipality": "Antwerpen", 
+      "pcode": "2060", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Van Wesenbekestraat"
     }, 
     {
@@ -627,9 +641,7 @@
     {
       "busnrs": [
         "1", 
-        "2", 
-        "4", 
-        "5"
+        "2"
       ], 
       "hnrlbls": [
         "45-47"
@@ -693,21 +705,6 @@
       "municipality": "Antwerpen", 
       "pcode": "2060", 
       "source": "afgeleidVanGebouw", 
-      "street": "Van Wesenbekestraat"
-    }, 
-    {
-      "busnrs": [
-        "L"
-      ], 
-      "hnrlbls": [
-        "48_1"
-      ], 
-      "housenumber": "48_1", 
-      "lat": 51.220462337417, 
-      "lon": 4.420996256817, 
-      "municipality": "Antwerpen", 
-      "pcode": "2060", 
-      "source": "manueleAanduidingVanGebouw", 
       "street": "Van Wesenbekestraat"
     }, 
     {
@@ -808,6 +805,12 @@
       "street": "Van Wesenbekestraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
         "54"
       ], 
@@ -882,6 +885,10 @@
       "street": "Van Wesenbekestraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101"
+      ], 
       "hnrlbls": [
         "59"
       ], 
@@ -901,8 +908,8 @@
         "59B"
       ], 
       "housenumber": "59B", 
-      "lat": 51.220722920624, 
-      "lon": 4.420550910274, 
+      "lat": 51.220722903535, 
+      "lon": 4.420550936019, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1091,21 +1098,6 @@
     }, 
     {
       "busnrs": [
-        "C"
-      ], 
-      "hnrlbls": [
-        "70_2"
-      ], 
-      "housenumber": "70_2", 
-      "lat": 51.221024075296, 
-      "lon": 4.421003354169, 
-      "municipality": "Antwerpen", 
-      "pcode": "2060", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Van Wesenbekestraat"
-    }, 
-    {
-      "busnrs": [
         "101", 
         "201", 
         "301", 
@@ -1135,9 +1127,6 @@
       "street": "Van Wesenbekestraat"
     }, 
     {
-      "apptnrs": [
-        "VER2"
-      ], 
       "hnrlbls": [
         "68-72"
       ], 
@@ -1219,6 +1208,12 @@
       "street": "Van Wesenbekestraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
         "78"
       ], 

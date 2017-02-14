@@ -1,9 +1,15 @@
 {
   "addresses": [
     {
+      "apptnrs": [
+        "1"
+      ], 
       "busnrs": [
         "aAp1", 
-        "aAp3"
+        "aAp2", 
+        "aAp3", 
+        "aAp4", 
+        "aAp5"
       ], 
       "hnrlbls": [
         "1"
@@ -321,7 +327,7 @@
     }, 
     {
       "hnrlbls": [
-        "30"
+        "30-30a"
       ], 
       "housenumber": "30", 
       "lat": 50.894564362811, 
@@ -329,6 +335,18 @@
       "municipality": "Herzele", 
       "pcode": "9550", 
       "source": "manueleAanduidingVanGebouw", 
+      "street": "Melkerijstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "30-30a"
+      ], 
+      "housenumber": "30a", 
+      "lat": 50.894564362811, 
+      "lon": 3.882180289328, 
+      "municipality": "Herzele", 
+      "pcode": "9550", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Melkerijstraat"
     }, 
     {

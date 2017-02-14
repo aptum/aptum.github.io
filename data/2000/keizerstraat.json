@@ -189,18 +189,6 @@
     }, 
     {
       "hnrlbls": [
-        "13D"
-      ], 
-      "housenumber": "13D", 
-      "lat": 51.221889610887, 
-      "lon": 4.406768898568, 
-      "municipality": "Antwerpen", 
-      "pcode": "2000", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Keizerstraat"
-    }, 
-    {
-      "hnrlbls": [
         "14"
       ], 
       "housenumber": "14", 
@@ -372,8 +360,8 @@
         "25"
       ], 
       "housenumber": "25", 
-      "lat": 51.221696365752, 
-      "lon": 4.407684135372, 
+      "lat": 51.221696324394, 
+      "lon": 4.407684171121, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "manueleAanduidingVanGebouw", 
@@ -432,8 +420,8 @@
         "2A"
       ], 
       "housenumber": "2A", 
-      "lat": 51.221740494134, 
-      "lon": 4.405499972518, 
+      "lat": 51.221740450094, 
+      "lon": 4.405499962463, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "manueleAanduidingVanGebouw", 
@@ -448,11 +436,14 @@
         "13", 
         "14", 
         "15", 
+        "17", 
         "18", 
         "19", 
         "2", 
         "20", 
         "22", 
+        "23", 
+        "24", 
         "25", 
         "26", 
         "27", 
@@ -465,8 +456,8 @@
         "5", 
         "6", 
         "7", 
-        "9", 
-        "B4"
+        "8", 
+        "9"
       ], 
       "hnrlbls": [
         "3-18"
@@ -518,8 +509,8 @@
         "33"
       ], 
       "housenumber": "33", 
-      "lat": 51.221675913916, 
-      "lon": 4.40799572046, 
+      "lat": 51.221675905814, 
+      "lon": 4.407995759099, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "manueleAanduidingVanGebouw", 
@@ -542,8 +533,8 @@
         "35"
       ], 
       "housenumber": "35", 
-      "lat": 51.221664493797, 
-      "lon": 4.407986187896, 
+      "lat": 51.221664493807, 
+      "lon": 4.407986159269, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "manueleAanduidingVanGebouw", 
@@ -593,11 +584,11 @@
     }, 
     {
       "hnrlbls": [
-        "38A-40_6"
+        "38A"
       ], 
       "housenumber": "38A", 
-      "lat": 51.221471193647, 
-      "lon": 4.407688238052, 
+      "lat": 51.221471163973, 
+      "lon": 4.40768827381, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "manueleAanduidingVanGebouw", 
@@ -623,8 +614,8 @@
         "3S"
       ], 
       "housenumber": "3S", 
-      "lat": 51.221998574564, 
-      "lon": 4.40557761357, 
+      "lat": 51.221998571869, 
+      "lon": 4.405577606411, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "manueleAanduidingVanGebouw", 
@@ -643,10 +634,14 @@
       "street": "Keizerstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301", 
+        "401"
+      ], 
       "busnrs": [
-        "4", 
-        "5", 
-        "6", 
         "A"
       ], 
       "hnrlbls": [
@@ -658,21 +653,6 @@
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
-      "street": "Keizerstraat"
-    }, 
-    {
-      "busnrs": [
-        "A"
-      ], 
-      "hnrlbls": [
-        "38A-40_6"
-      ], 
-      "housenumber": "40_6", 
-      "lat": 51.221471193647, 
-      "lon": 4.407688238052, 
-      "municipality": "Antwerpen", 
-      "pcode": "2000", 
-      "source": "manueleAanduidingVanGebouw", 
       "street": "Keizerstraat"
     }, 
     {
@@ -782,33 +762,6 @@
       "street": "Keizerstraat"
     }, 
     {
-      "apptnrs": [
-        "3.0"
-      ], 
-      "busnrs": [
-        "1A", 
-        "1B", 
-        "1C", 
-        "1D", 
-        "2", 
-        "2A", 
-        "2B", 
-        "2C", 
-        "2D", 
-        "3", 
-        "3A", 
-        "3B", 
-        "3C", 
-        "3D", 
-        "3E", 
-        "4", 
-        "4A", 
-        "4B", 
-        "4C", 
-        "5", 
-        "A", 
-        "D"
-      ], 
       "hnrlbls": [
         "55"
       ], 
@@ -822,143 +775,17 @@
     }, 
     {
       "busnrs": [
-        "4"
-      ], 
-      "hnrlbls": [
-        "55A-55_4"
-      ], 
-      "housenumber": "55A", 
-      "lat": 51.221499933975, 
-      "lon": 4.409425628127, 
-      "municipality": "Antwerpen", 
-      "pcode": "2000", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Keizerstraat"
-    }, 
-    {
-      "busnrs": [
-        "2"
-      ], 
-      "hnrlbls": [
-        "55A-55_4"
-      ], 
-      "housenumber": "55C", 
-      "lat": 51.221499933975, 
-      "lon": 4.409425628127, 
-      "municipality": "Antwerpen", 
-      "pcode": "2000", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Keizerstraat"
-    }, 
-    {
-      "busnrs": [
-        "3"
-      ], 
-      "hnrlbls": [
-        "55A-55_4"
-      ], 
-      "housenumber": "55D", 
-      "lat": 51.221499933975, 
-      "lon": 4.409425628127, 
-      "municipality": "Antwerpen", 
-      "pcode": "2000", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Keizerstraat"
-    }, 
-    {
-      "busnrs": [
-        "A", 
-        "B", 
-        "C", 
-        "D"
-      ], 
-      "hnrlbls": [
-        "55A-55_4"
-      ], 
-      "housenumber": "55_1", 
-      "lat": 51.221499933975, 
-      "lon": 4.409425628127, 
-      "municipality": "Antwerpen", 
-      "pcode": "2000", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Keizerstraat"
-    }, 
-    {
-      "busnrs": [
-        "C", 
-        "D"
-      ], 
-      "hnrlbls": [
-        "55A-55_4"
-      ], 
-      "housenumber": "55_2", 
-      "lat": 51.221499933975, 
-      "lon": 4.409425628127, 
-      "municipality": "Antwerpen", 
-      "pcode": "2000", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Keizerstraat"
-    }, 
-    {
-      "busnrs": [
-        "A", 
-        "B", 
-        "C", 
-        "D"
-      ], 
-      "hnrlbls": [
-        "55A-55_4"
-      ], 
-      "housenumber": "55_3", 
-      "lat": 51.221499933975, 
-      "lon": 4.409425628127, 
-      "municipality": "Antwerpen", 
-      "pcode": "2000", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Keizerstraat"
-    }, 
-    {
-      "busnrs": [
-        "A", 
-        "B", 
-        "C"
-      ], 
-      "hnrlbls": [
-        "55A-55_4"
-      ], 
-      "housenumber": "55_4", 
-      "lat": 51.221499933975, 
-      "lon": 4.409425628127, 
-      "municipality": "Antwerpen", 
-      "pcode": "2000", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Keizerstraat"
-    }, 
-    {
-      "busnrs": [
         "1"
       ], 
       "hnrlbls": [
         "56"
       ], 
       "housenumber": "56", 
-      "lat": 51.221394363241, 
-      "lon": 4.408601405601, 
+      "lat": 51.221326412438, 
+      "lon": 4.408597338762, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanPerceelGrb", 
-      "street": "Keizerstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "56D"
-      ], 
-      "housenumber": "56D", 
-      "lat": 51.221381913529, 
-      "lon": 4.408577511387, 
-      "municipality": "Antwerpen", 
-      "pcode": "2000", 
-      "source": "manueleAanduidingVanGebouw", 
       "street": "Keizerstraat"
     }, 
     {
@@ -1058,6 +885,18 @@
       "street": "Keizerstraat"
     }, 
     {
+      "hnrlbls": [
+        "65"
+      ], 
+      "housenumber": "65", 
+      "lat": 51.221525123322, 
+      "lon": 4.409950707344, 
+      "municipality": "Antwerpen", 
+      "pcode": "2000", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Keizerstraat"
+    }, 
+    {
       "busnrs": [
         "1", 
         "2", 
@@ -1076,6 +915,26 @@
       "street": "Keizerstraat"
     }, 
     {
+      "hnrlbls": [
+        "67"
+      ], 
+      "housenumber": "67", 
+      "lat": 51.221393525738, 
+      "lon": 4.409972202396, 
+      "municipality": "Antwerpen", 
+      "pcode": "2000", 
+      "source": "manueleAanduidingVanToegangTotDeWeg", 
+      "street": "Keizerstraat"
+    }, 
+    {
+      "apptnrs": [
+        "001", 
+        "002", 
+        "101", 
+        "201", 
+        "202", 
+        "301"
+      ], 
       "hnrlbls": [
         "68"
       ], 
@@ -1182,8 +1041,8 @@
         "76"
       ], 
       "housenumber": "76", 
-      "lat": 51.221228526264, 
-      "lon": 4.409668422857, 
+      "lat": 51.221228516361, 
+      "lon": 4.409668467219, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1209,8 +1068,8 @@
         "7A"
       ], 
       "housenumber": "7A", 
-      "lat": 51.221972573492, 
-      "lon": 4.406096429553, 
+      "lat": 51.221972609437, 
+      "lon": 4.406096453915, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "manueleAanduidingVanGebouw", 

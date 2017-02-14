@@ -1,10 +1,6 @@
 {
   "addresses": [
     {
-      "busnrs": [
-        "1", 
-        "11"
-      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -18,10 +14,9 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "11", 
-        "21", 
-        "31"
+        "BU11", 
+        "BU21", 
+        "BU31"
       ], 
       "hnrlbls": [
         "11"
@@ -59,13 +54,25 @@
       "street": "Zaveldriesstraat"
     }, 
     {
+      "hnrlbls": [
+        "15"
+      ], 
+      "housenumber": "15", 
+      "lat": 51.005886497184, 
+      "lon": 5.497028698936, 
+      "municipality": "Genk", 
+      "pcode": "3600", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Zaveldriesstraat"
+    }, 
+    {
       "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6"
+        "BU01", 
+        "BU02", 
+        "BU03", 
+        "BU04", 
+        "BU05", 
+        "BU06"
       ], 
       "hnrlbls": [
         "16-18"
@@ -116,15 +123,14 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "11"
+        "BU11"
       ], 
       "hnrlbls": [
         "2"
       ], 
       "housenumber": "2", 
-      "lat": 51.005187244265, 
-      "lon": 5.496250806607, 
+      "lat": 51.005203092162, 
+      "lon": 5.496238791643, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
@@ -132,9 +138,7 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "11", 
-        "12"
+        "BU12"
       ], 
       "hnrlbls": [
         "23"
@@ -149,9 +153,9 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "2", 
-        "3"
+        "BU01", 
+        "BU02", 
+        "BU03"
       ], 
       "hnrlbls": [
         "24"
@@ -166,7 +170,7 @@
     }, 
     {
       "busnrs": [
-        "11"
+        "BU11"
       ], 
       "hnrlbls": [
         "26"
@@ -193,8 +197,8 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "2"
+        "BU01", 
+        "BU02"
       ], 
       "hnrlbls": [
         "28"
@@ -212,8 +216,8 @@
         "29"
       ], 
       "housenumber": "29", 
-      "lat": 51.005998300541, 
-      "lon": 5.497650524023, 
+      "lat": 51.005976993047, 
+      "lon": 5.497659984688, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
@@ -221,8 +225,8 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "2"
+        "BU01", 
+        "BU02"
       ], 
       "hnrlbls": [
         "3"
@@ -261,8 +265,8 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "2"
+        "BU01", 
+        "BU02"
       ], 
       "hnrlbls": [
         "32"
@@ -277,7 +281,7 @@
     }, 
     {
       "busnrs": [
-        "11"
+        "BU11"
       ], 
       "hnrlbls": [
         "33"
@@ -328,18 +332,6 @@
     }, 
     {
       "hnrlbls": [
-        "37A"
-      ], 
-      "housenumber": "37A", 
-      "lat": 51.006039273261, 
-      "lon": 5.498027407998, 
-      "municipality": "Genk", 
-      "pcode": "3600", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Zaveldriesstraat"
-    }, 
-    {
-      "hnrlbls": [
         "38"
       ], 
       "housenumber": "38", 
@@ -376,9 +368,9 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "2", 
-        "3"
+        "BU01", 
+        "BU02", 
+        "BU03"
       ], 
       "hnrlbls": [
         "41"
@@ -408,8 +400,8 @@
         "43"
       ], 
       "housenumber": "43", 
-      "lat": 51.006169554742, 
-      "lon": 5.498372249362, 
+      "lat": 51.0061801159, 
+      "lon": 5.498367801925, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
@@ -429,8 +421,7 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "11"
+        "BU11"
       ], 
       "hnrlbls": [
         "45"
@@ -481,8 +472,10 @@
     }, 
     {
       "busnrs": [
-        "11", 
-        "12"
+        "BU01", 
+        "BU02", 
+        "BU11", 
+        "BU12"
       ], 
       "hnrlbls": [
         "49"
@@ -509,8 +502,8 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "11"
+        "BU01", 
+        "BU11"
       ], 
       "hnrlbls": [
         "51"
@@ -588,8 +581,8 @@
         "57"
       ], 
       "housenumber": "57", 
-      "lat": 51.006460578593, 
-      "lon": 5.499297076177, 
+      "lat": 51.006486719427, 
+      "lon": 5.499336608383, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanPerceelGrb", 
@@ -684,8 +677,8 @@
         "65"
       ], 
       "housenumber": "65", 
-      "lat": 51.006567437137, 
-      "lon": 5.499712035673, 
+      "lat": 51.006617386775, 
+      "lon": 5.499725069441, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanPerceelGrb", 
@@ -708,8 +701,8 @@
         "67"
       ], 
       "housenumber": "67", 
-      "lat": 51.006581481554, 
-      "lon": 5.499784762163, 
+      "lat": 51.006581568694, 
+      "lon": 5.499785049258, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
@@ -740,17 +733,12 @@
       "street": "Zaveldriesstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "11", 
-        "12"
-      ], 
       "hnrlbls": [
         "9"
       ], 
       "housenumber": "9", 
-      "lat": 51.005619754109, 
-      "lon": 5.496551335892, 
+      "lat": 51.00566796228, 
+      "lon": 5.496521006614, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 

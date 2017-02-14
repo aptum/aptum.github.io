@@ -41,11 +41,11 @@
         "14"
       ], 
       "housenumber": "14", 
-      "lat": 50.97650970914, 
-      "lon": 5.529225447733, 
+      "lat": 50.976518841654, 
+      "lon": 5.529247461777, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Bonderstraat"
     }, 
     {
@@ -77,8 +77,8 @@
         "19A"
       ], 
       "housenumber": "19A", 
-      "lat": 50.977208907398, 
-      "lon": 5.529841871356, 
+      "lat": 50.977206060622, 
+      "lon": 5.529847924256, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
@@ -137,8 +137,8 @@
         "23"
       ], 
       "housenumber": "23", 
-      "lat": 50.97693869529, 
-      "lon": 5.531002612357, 
+      "lat": 50.976949244442, 
+      "lon": 5.531026798186, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
@@ -161,8 +161,8 @@
         "25"
       ], 
       "housenumber": "25", 
-      "lat": 50.976781923937, 
-      "lon": 5.531164339556, 
+      "lat": 50.976790156109, 
+      "lon": 5.531177360268, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
@@ -209,8 +209,8 @@
         "29"
       ], 
       "housenumber": "29", 
-      "lat": 50.97647219599, 
-      "lon": 5.531447442705, 
+      "lat": 50.976472683163, 
+      "lon": 5.531452723741, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
@@ -301,6 +301,10 @@
       "street": "Bonderstraat"
     }, 
     {
+      "busnrs": [
+        "BU1", 
+        "BU2"
+      ], 
       "hnrlbls": [
         "38"
       ], 
@@ -425,17 +429,14 @@
         "49"
       ], 
       "housenumber": "49", 
-      "lat": 50.975325518465, 
-      "lon": 5.533369299227, 
+      "lat": 50.975325147657, 
+      "lon": 5.533370429213, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
       "street": "Bonderstraat"
     }, 
     {
-      "busnrs": [
-        "2"
-      ], 
       "hnrlbls": [
         "5"
       ], 
@@ -524,8 +525,8 @@
         "55A"
       ], 
       "housenumber": "55A", 
-      "lat": 50.974560854876, 
-      "lon": 5.534008311538, 
+      "lat": 50.974563318853, 
+      "lon": 5.534022755041, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
@@ -536,11 +537,23 @@
         "57"
       ], 
       "housenumber": "57", 
-      "lat": 50.974299849625, 
-      "lon": 5.534037276362, 
+      "lat": 50.974317961823, 
+      "lon": 5.534096537026, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
+      "street": "Bonderstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "57A"
+      ], 
+      "housenumber": "57A", 
+      "lat": 50.974117409972, 
+      "lon": 5.534148791758, 
+      "municipality": "Genk", 
+      "pcode": "3600", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Bonderstraat"
     }, 
     {
@@ -556,9 +569,6 @@
       "street": "Bonderstraat"
     }, 
     {
-      "busnrs": [
-        "2"
-      ], 
       "hnrlbls": [
         "58A-60"
       ], 
@@ -647,8 +657,8 @@
         "64"
       ], 
       "housenumber": "64", 
-      "lat": 50.973127291301, 
-      "lon": 5.533824280302, 
+      "lat": 50.973125703085, 
+      "lon": 5.533821250535, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
@@ -659,8 +669,8 @@
         "65"
       ], 
       "housenumber": "65", 
-      "lat": 50.973347923444, 
-      "lon": 5.534376277252, 
+      "lat": 50.973362104335, 
+      "lon": 5.534387736859, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
@@ -683,18 +693,14 @@
         "68"
       ], 
       "housenumber": "68", 
-      "lat": 50.972680847084, 
-      "lon": 5.534040578547, 
+      "lat": 50.972671897584, 
+      "lon": 5.534027398232, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
       "street": "Bonderstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
       "hnrlbls": [
         "69"
       ], 
@@ -711,8 +717,8 @@
         "70"
       ], 
       "housenumber": "70", 
-      "lat": 50.972489031468, 
-      "lon": 5.53410031099, 
+      "lat": 50.972483757201, 
+      "lon": 5.534088218879, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
@@ -747,8 +753,8 @@
         "74"
       ], 
       "housenumber": "74", 
-      "lat": 50.972310538859, 
-      "lon": 5.53427613852, 
+      "lat": 50.972301800205, 
+      "lon": 5.5342598309, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
@@ -771,8 +777,8 @@
         "76"
       ], 
       "housenumber": "76", 
-      "lat": 50.972035989589, 
-      "lon": 5.534329112289, 
+      "lat": 50.972008951514, 
+      "lon": 5.534317760323, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
@@ -855,8 +861,8 @@
         "87"
       ], 
       "housenumber": "87", 
-      "lat": 50.971561058634, 
-      "lon": 5.53551336481, 
+      "lat": 50.971568895212, 
+      "lon": 5.535511851304, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 

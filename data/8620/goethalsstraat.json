@@ -47,6 +47,7 @@
         "301", 
         "304", 
         "305", 
+        "306", 
         "402", 
         "501", 
         "503"
@@ -113,6 +114,7 @@
     {
       "busnrs": [
         "2", 
+        "503", 
         "602"
       ], 
       "hnrlbls": [
@@ -172,6 +174,11 @@
       "street": "Goethalsstraat"
     }, 
     {
+      "busnrs": [
+        "101", 
+        "103", 
+        "401"
+      ], 
       "hnrlbls": [
         "5"
       ], 
@@ -218,6 +225,7 @@
         "2", 
         "3", 
         "301", 
+        "402", 
         "403", 
         "405", 
         "604"
@@ -243,6 +251,18 @@
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
       "source": "afgeleidVanGebouw", 
+      "street": "Goethalsstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "zn"
+      ], 
+      "housenumber": "zn", 
+      "lat": 51.148399753329, 
+      "lon": 2.716986199614, 
+      "municipality": "Nieuwpoort", 
+      "pcode": "8620", 
+      "source": "afgeleidVanStraat", 
       "street": "Goethalsstraat"
     }
   ]

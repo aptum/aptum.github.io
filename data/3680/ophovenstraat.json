@@ -1,25 +1,25 @@
 {
   "addresses": [
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6", 
-        "7", 
-        "8"
+      "apptnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0005", 
+        "0006", 
+        "0007", 
+        "0008"
       ], 
       "hnrlbls": [
-        "1"
+        "1-7"
       ], 
       "housenumber": "1", 
-      "lat": 51.088943325549, 
-      "lon": 5.700902055089, 
+      "lat": 51.089093581208, 
+      "lon": 5.700613267699, 
       "municipality": "Maaseik", 
       "pcode": "3680", 
-      "source": "geinterpoleerdObvWegverbinding", 
+      "source": "afgeleidVanGebouw", 
       "street": "Ophovenstraat"
     }, 
     {
@@ -143,7 +143,7 @@
       "lon": 5.69768739644, 
       "municipality": "Maaseik", 
       "pcode": "3680", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Ophovenstraat"
     }, 
     {
@@ -230,7 +230,7 @@
       "lon": 5.697413025291, 
       "municipality": "Maaseik", 
       "pcode": "3680", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Ophovenstraat"
     }, 
     {
@@ -238,8 +238,8 @@
         "12"
       ], 
       "housenumber": "12", 
-      "lat": 51.090805629619, 
-      "lon": 5.70057869144, 
+      "lat": 51.090812780346, 
+      "lon": 5.700590315838, 
       "municipality": "Maaseik", 
       "pcode": "3680", 
       "source": "afgeleidVanGebouw", 
@@ -262,11 +262,11 @@
         "123"
       ], 
       "housenumber": "123", 
-      "lat": 51.097213668358, 
-      "lon": 5.697021299186, 
+      "lat": 51.097115376556, 
+      "lon": 5.69703977872, 
       "municipality": "Maaseik", 
       "pcode": "3680", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Ophovenstraat"
     }, 
     {
@@ -288,6 +288,21 @@
       "housenumber": "127", 
       "lat": 51.098089727408, 
       "lon": 5.697096605113, 
+      "municipality": "Maaseik", 
+      "pcode": "3680", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Ophovenstraat"
+    }, 
+    {
+      "busnrs": [
+        "13A"
+      ], 
+      "hnrlbls": [
+        "9-13"
+      ], 
+      "housenumber": "13", 
+      "lat": 51.089256591454, 
+      "lon": 5.700532261722, 
       "municipality": "Maaseik", 
       "pcode": "3680", 
       "source": "afgeleidVanGebouw", 
@@ -358,8 +373,8 @@
         "141"
       ], 
       "housenumber": "141", 
-      "lat": 51.098958708017, 
-      "lon": 5.697018221628, 
+      "lat": 51.098956765841, 
+      "lon": 5.697086844705, 
       "municipality": "Maaseik", 
       "pcode": "3680", 
       "source": "afgeleidVanGebouw", 
@@ -414,16 +429,12 @@
       "street": "Ophovenstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
       "hnrlbls": [
-        "15-19"
+        "15"
       ], 
       "housenumber": "15", 
-      "lat": 51.089498759189, 
-      "lon": 5.700431526822, 
+      "lat": 51.089392764226, 
+      "lon": 5.700487177997, 
       "municipality": "Maaseik", 
       "pcode": "3680", 
       "source": "afgeleidVanGebouw", 
@@ -434,8 +445,8 @@
         "151"
       ], 
       "housenumber": "151", 
-      "lat": 51.099720309846, 
-      "lon": 5.697014743153, 
+      "lat": 51.099726971617, 
+      "lon": 5.697077757791, 
       "municipality": "Maaseik", 
       "pcode": "3680", 
       "source": "afgeleidVanGebouw", 
@@ -470,8 +481,8 @@
         "157"
       ], 
       "housenumber": "157", 
-      "lat": 51.100081440307, 
-      "lon": 5.696736154259, 
+      "lat": 51.100072217307, 
+      "lon": 5.696724897612, 
       "municipality": "Maaseik", 
       "pcode": "3680", 
       "source": "afgeleidVanGebouw", 
@@ -498,7 +509,7 @@
       "lon": 5.696930976919, 
       "municipality": "Maaseik", 
       "pcode": "3680", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Ophovenstraat"
     }, 
     {
@@ -510,7 +521,7 @@
       "lon": 5.696930976919, 
       "municipality": "Maaseik", 
       "pcode": "3680", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Ophovenstraat"
     }, 
     {
@@ -538,36 +549,12 @@
       "street": "Ophovenstraat"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
-        "163"
-      ], 
-      "housenumber": "163", 
-      "lat": 51.100439108207, 
-      "lon": 5.697275345641, 
-      "municipality": "Maaseik", 
-      "pcode": "3680", 
-      "source": "geinterpoleerdObvWegverbinding", 
-      "street": "Ophovenstraat"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6", 
-        "7"
-      ], 
-      "hnrlbls": [
-        "15-19"
+        "17"
       ], 
       "housenumber": "17", 
-      "lat": 51.089498759189, 
-      "lon": 5.700431526822, 
+      "lat": 51.089482119191, 
+      "lon": 5.700440188877, 
       "municipality": "Maaseik", 
       "pcode": "3680", 
       "source": "afgeleidVanGebouw", 
@@ -586,21 +573,12 @@
       "street": "Ophovenstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6", 
-        "7"
-      ], 
       "hnrlbls": [
-        "15-19"
+        "19"
       ], 
       "housenumber": "19", 
-      "lat": 51.089498759189, 
-      "lon": 5.700431526822, 
+      "lat": 51.089621304241, 
+      "lon": 5.700367210734, 
       "municipality": "Maaseik", 
       "pcode": "3680", 
       "source": "afgeleidVanGebouw", 
@@ -611,8 +589,8 @@
         "2"
       ], 
       "housenumber": "2", 
-      "lat": 51.089780770301, 
-      "lon": 5.700719076129, 
+      "lat": 51.089778803224, 
+      "lon": 5.70071016929, 
       "municipality": "Maaseik", 
       "pcode": "3680", 
       "source": "afgeleidVanGebouw", 
@@ -752,8 +730,8 @@
         "32"
       ], 
       "housenumber": "32", 
-      "lat": 51.09254271592, 
-      "lon": 5.699481671506, 
+      "lat": 51.092543747281, 
+      "lon": 5.699493835716, 
       "municipality": "Maaseik", 
       "pcode": "3680", 
       "source": "afgeleidVanGebouw", 
@@ -776,8 +754,8 @@
         "34"
       ], 
       "housenumber": "34", 
-      "lat": 51.092654017295, 
-      "lon": 5.699433731873, 
+      "lat": 51.09266016226, 
+      "lon": 5.699470739756, 
       "municipality": "Maaseik", 
       "pcode": "3680", 
       "source": "afgeleidVanGebouw", 
@@ -828,8 +806,8 @@
         "38"
       ], 
       "housenumber": "38", 
-      "lat": 51.093205559665, 
-      "lon": 5.699474421828, 
+      "lat": 51.093213332317, 
+      "lon": 5.699470788523, 
       "municipality": "Maaseik", 
       "pcode": "3680", 
       "source": "afgeleidVanGebouw", 
@@ -852,8 +830,8 @@
         "40"
       ], 
       "housenumber": "40", 
-      "lat": 51.093348745213, 
-      "lon": 5.699429245402, 
+      "lat": 51.093354026429, 
+      "lon": 5.699439246598, 
       "municipality": "Maaseik", 
       "pcode": "3680", 
       "source": "afgeleidVanGebouw", 
@@ -948,18 +926,6 @@
     }, 
     {
       "hnrlbls": [
-        "5"
-      ], 
-      "housenumber": "5", 
-      "lat": 51.089133340554, 
-      "lon": 5.700810114413, 
-      "municipality": "Maaseik", 
-      "pcode": "3680", 
-      "source": "geinterpoleerdObvWegverbinding", 
-      "street": "Ophovenstraat"
-    }, 
-    {
-      "hnrlbls": [
         "50"
       ], 
       "housenumber": "50", 
@@ -1014,11 +980,11 @@
         "5"
       ], 
       "hnrlbls": [
-        "53-57"
+        "53-59"
       ], 
       "housenumber": "53", 
-      "lat": 51.091357256077, 
-      "lon": 5.699545703689, 
+      "lat": 51.091331612523, 
+      "lon": 5.699491867025, 
       "municipality": "Maaseik", 
       "pcode": "3680", 
       "source": "afgeleidVanGebouw", 
@@ -1042,11 +1008,11 @@
         "2"
       ], 
       "hnrlbls": [
-        "53-57"
+        "53-59"
       ], 
       "housenumber": "55", 
-      "lat": 51.091357256077, 
-      "lon": 5.699545703689, 
+      "lat": 51.091331612523, 
+      "lon": 5.699491867025, 
       "municipality": "Maaseik", 
       "pcode": "3680", 
       "source": "afgeleidVanGebouw", 
@@ -1058,11 +1024,11 @@
         "2"
       ], 
       "hnrlbls": [
-        "53-57"
+        "53-59"
       ], 
       "housenumber": "57", 
-      "lat": 51.091357256077, 
-      "lon": 5.699545703689, 
+      "lat": 51.091331612523, 
+      "lon": 5.699491867025, 
       "municipality": "Maaseik", 
       "pcode": "3680", 
       "source": "afgeleidVanGebouw", 
@@ -1070,14 +1036,14 @@
     }, 
     {
       "hnrlbls": [
-        "57A"
+        "53-59"
       ], 
       "housenumber": "57A", 
       "lat": 51.091331612523, 
       "lon": 5.699491867025, 
       "municipality": "Maaseik", 
       "pcode": "3680", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Ophovenstraat"
     }, 
     {
@@ -1094,14 +1060,14 @@
     }, 
     {
       "hnrlbls": [
-        "59"
+        "53-59"
       ], 
       "housenumber": "59", 
-      "lat": 51.091579295474, 
-      "lon": 5.699316615935, 
+      "lat": 51.091331612523, 
+      "lon": 5.699491867025, 
       "municipality": "Maaseik", 
       "pcode": "3680", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Ophovenstraat"
     }, 
     {
@@ -1142,7 +1108,7 @@
     }, 
     {
       "hnrlbls": [
-        "65"
+        "65-67"
       ], 
       "housenumber": "65", 
       "lat": 51.091904804847, 
@@ -1154,14 +1120,14 @@
     }, 
     {
       "hnrlbls": [
-        "65A"
+        "65-67"
       ], 
       "housenumber": "65A", 
-      "lat": 51.091904806458, 
-      "lon": 5.699088044763, 
+      "lat": 51.091904804847, 
+      "lon": 5.699088187478, 
       "municipality": "Maaseik", 
       "pcode": "3680", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Ophovenstraat"
     }, 
     {
@@ -1178,14 +1144,14 @@
     }, 
     {
       "hnrlbls": [
-        "67"
+        "65-67"
       ], 
       "housenumber": "67", 
-      "lat": 51.09199969413, 
-      "lon": 5.699084464589, 
+      "lat": 51.091904804847, 
+      "lon": 5.699088187478, 
       "municipality": "Maaseik", 
       "pcode": "3680", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Ophovenstraat"
     }, 
     {
@@ -1213,25 +1179,15 @@
       "street": "Ophovenstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6", 
-        "7", 
-        "8"
-      ], 
       "hnrlbls": [
-        "7"
+        "1-7"
       ], 
       "housenumber": "7", 
-      "lat": 51.089228349637, 
-      "lon": 5.700764001087, 
+      "lat": 51.089093581208, 
+      "lon": 5.700613267699, 
       "municipality": "Maaseik", 
       "pcode": "3680", 
-      "source": "geinterpoleerdObvWegverbinding", 
+      "source": "afgeleidVanGebouw", 
       "street": "Ophovenstraat"
     }, 
     {
@@ -1267,7 +1223,7 @@
       "lon": 5.698718033471, 
       "municipality": "Maaseik", 
       "pcode": "3680", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Ophovenstraat"
     }, 
     {
@@ -1339,7 +1295,7 @@
       "lon": 5.698870530561, 
       "municipality": "Maaseik", 
       "pcode": "3680", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Ophovenstraat"
     }, 
     {
@@ -1360,38 +1316,38 @@
     }, 
     {
       "hnrlbls": [
-        "81-81A"
+        "81"
       ], 
       "housenumber": "81", 
-      "lat": 51.094489825626, 
-      "lon": 5.698828703816, 
+      "lat": 51.094476114295, 
+      "lon": 5.698808896988, 
       "municipality": "Maaseik", 
       "pcode": "3680", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Ophovenstraat"
     }, 
     {
       "hnrlbls": [
-        "81-81A"
+        "81A"
       ], 
       "housenumber": "81A", 
-      "lat": 51.094489825626, 
-      "lon": 5.698828703816, 
+      "lat": 51.094492834274, 
+      "lon": 5.698840924799, 
       "municipality": "Maaseik", 
       "pcode": "3680", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelKadaster", 
+      "source": "afgeleidVanGebouw", 
       "street": "Ophovenstraat"
     }, 
     {
       "hnrlbls": [
-        "83-87"
+        "83"
       ], 
       "housenumber": "83", 
-      "lat": 51.094719043874, 
-      "lon": 5.698712161199, 
+      "lat": 51.094613348468, 
+      "lon": 5.698805093719, 
       "municipality": "Maaseik", 
       "pcode": "3680", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelKadaster", 
+      "source": "afgeleidVanGebouw", 
       "street": "Ophovenstraat"
     }, 
     {
@@ -1408,14 +1364,14 @@
     }, 
     {
       "hnrlbls": [
-        "83-87"
+        "85"
       ], 
       "housenumber": "85", 
-      "lat": 51.094719043874, 
-      "lon": 5.698712161199, 
+      "lat": 51.094672035956, 
+      "lon": 5.69880676421, 
       "municipality": "Maaseik", 
       "pcode": "3680", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelKadaster", 
+      "source": "afgeleidVanGebouw", 
       "street": "Ophovenstraat"
     }, 
     {
@@ -1432,14 +1388,14 @@
     }, 
     {
       "hnrlbls": [
-        "83-87"
+        "87"
       ], 
       "housenumber": "87", 
-      "lat": 51.094719043874, 
-      "lon": 5.698712161199, 
+      "lat": 51.094742589986, 
+      "lon": 5.698808486938, 
       "municipality": "Maaseik", 
       "pcode": "3680", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelKadaster", 
+      "source": "afgeleidVanGebouw", 
       "street": "Ophovenstraat"
     }, 
     {
@@ -1467,27 +1423,19 @@
       "street": "Ophovenstraat"
     }, 
     {
+      "busnrs": [
+        "A2", 
+        "A3"
+      ], 
       "hnrlbls": [
-        "9"
+        "9-13"
       ], 
       "housenumber": "9", 
-      "lat": 51.089323357087, 
-      "lon": 5.700718030282, 
+      "lat": 51.089256591454, 
+      "lon": 5.700532261722, 
       "municipality": "Maaseik", 
       "pcode": "3680", 
-      "source": "geinterpoleerdObvWegverbinding", 
-      "street": "Ophovenstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "90"
-      ], 
-      "housenumber": "90", 
-      "lat": 51.098411098063, 
-      "lon": 5.698398763367, 
-      "municipality": "Maaseik", 
-      "pcode": "3680", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Ophovenstraat"
     }, 
     {
@@ -1543,8 +1491,8 @@
         "94"
       ], 
       "housenumber": "94", 
-      "lat": 51.098669486027, 
-      "lon": 5.69778430327, 
+      "lat": 51.098669232235, 
+      "lon": 5.697790863998, 
       "municipality": "Maaseik", 
       "pcode": "3680", 
       "source": "afgeleidVanGebouw", 
@@ -1579,8 +1527,8 @@
         "99"
       ], 
       "housenumber": "99", 
-      "lat": 51.095355089176, 
-      "lon": 5.698410742394, 
+      "lat": 51.095348970027, 
+      "lon": 5.698403286928, 
       "municipality": "Maaseik", 
       "pcode": "3680", 
       "source": "afgeleidVanGebouw", 

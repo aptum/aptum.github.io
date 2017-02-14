@@ -2,17 +2,42 @@
   "addresses": [
     {
       "busnrs": [
-        "1"
+        "1", 
+        "2"
       ], 
       "hnrlbls": [
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 51.162105176168, 
-      "lon": 5.36243603572, 
+      "lat": 51.162209570256, 
+      "lon": 5.362318024911, 
       "municipality": "Hechtel-Eksel", 
       "pcode": "3940", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Zandstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "2"
+      ], 
+      "housenumber": "2", 
+      "lat": 51.162091352226, 
+      "lon": 5.362841905497, 
+      "municipality": "Hechtel-Eksel", 
+      "pcode": "3940", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Zandstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "6"
+      ], 
+      "housenumber": "6", 
+      "lat": 51.162522178529, 
+      "lon": 5.362547281654, 
+      "municipality": "Hechtel-Eksel", 
+      "pcode": "3940", 
+      "source": "afgeleidVanGebouw", 
       "street": "Zandstraat"
     }
   ]

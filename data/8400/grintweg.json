@@ -1,15 +1,19 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "1", 
+        "101"
+      ], 
       "hnrlbls": [
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 51.200909207247, 
-      "lon": 2.974074884635, 
+      "lat": 51.201235615114, 
+      "lon": 2.974332292863, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Grintweg"
     }, 
     {
@@ -125,11 +129,11 @@
         "115"
       ], 
       "housenumber": "115", 
-      "lat": 51.202625330737, 
-      "lon": 2.960205358257, 
+      "lat": 51.202703242581, 
+      "lon": 2.960278135421, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Grintweg"
     }, 
     {
@@ -161,11 +165,11 @@
         "120"
       ], 
       "housenumber": "120", 
-      "lat": 51.203235262299, 
-      "lon": 2.94790914827, 
+      "lat": 51.203576158607, 
+      "lon": 2.948432266798, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Grintweg"
     }, 
     {
@@ -185,8 +189,8 @@
         "127"
       ], 
       "housenumber": "127", 
-      "lat": 51.202800608619, 
-      "lon": 2.956893957413, 
+      "lat": 51.202789846425, 
+      "lon": 2.956835896971, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -209,11 +213,11 @@
         "13"
       ], 
       "housenumber": "13", 
-      "lat": 51.201391586549, 
-      "lon": 2.973287880855, 
+      "lat": 51.201450910674, 
+      "lon": 2.973340341147, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Grintweg"
     }, 
     {
@@ -257,11 +261,11 @@
         "15"
       ], 
       "housenumber": "15", 
-      "lat": 51.20137721707, 
-      "lon": 2.973167249505, 
+      "lat": 51.201472139383, 
+      "lon": 2.973219503659, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Grintweg"
     }, 
     {
@@ -281,11 +285,11 @@
         "17"
       ], 
       "housenumber": "17", 
-      "lat": 51.201174809327, 
-      "lon": 2.972889540242, 
+      "lat": 51.201505287656, 
+      "lon": 2.973042214935, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Grintweg"
     }, 
     {
@@ -326,23 +330,11 @@
     }, 
     {
       "hnrlbls": [
-        "1A"
-      ], 
-      "housenumber": "1A", 
-      "lat": 51.201061917469, 
-      "lon": 2.974049428502, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Grintweg"
-    }, 
-    {
-      "hnrlbls": [
         "2"
       ], 
       "housenumber": "2", 
-      "lat": 51.201547258866, 
-      "lon": 2.97447366347, 
+      "lat": 51.201546436552, 
+      "lon": 2.97447254325, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -353,8 +345,8 @@
         "20"
       ], 
       "housenumber": "20", 
-      "lat": 51.201901674983, 
-      "lon": 2.973127381031, 
+      "lat": 51.201897319826, 
+      "lon": 2.973108765212, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -377,11 +369,11 @@
         "22"
       ], 
       "housenumber": "22", 
-      "lat": 51.201853890554, 
-      "lon": 2.972734999928, 
+      "lat": 51.20177527451, 
+      "lon": 2.97265521271, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Grintweg"
     }, 
     {
@@ -401,11 +393,11 @@
         "24"
       ], 
       "housenumber": "24", 
-      "lat": 51.201875439264, 
-      "lon": 2.972610860234, 
+      "lat": 51.201786791961, 
+      "lon": 2.972564715491, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Grintweg"
     }, 
     {
@@ -425,11 +417,11 @@
         "26"
       ], 
       "housenumber": "26", 
-      "lat": 51.201886435712, 
-      "lon": 2.972529536782, 
+      "lat": 51.201803389288, 
+      "lon": 2.972478073016, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Grintweg"
     }, 
     {
@@ -446,26 +438,26 @@
     }, 
     {
       "hnrlbls": [
-        "28-28A"
+        "28"
       ], 
       "housenumber": "28", 
-      "lat": 51.201822959519, 
-      "lon": 2.972300616396, 
+      "lat": 51.201824021203, 
+      "lon": 2.972413347083, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Grintweg"
     }, 
     {
       "hnrlbls": [
-        "28-28A"
+        "28A"
       ], 
       "housenumber": "28A", 
-      "lat": 51.201822959519, 
-      "lon": 2.972300616396, 
+      "lat": 51.202122148671, 
+      "lon": 2.972612780612, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Grintweg"
     }, 
     {
@@ -493,15 +485,19 @@
       "street": "Grintweg"
     }, 
     {
+      "busnrs": [
+        "A", 
+        "B"
+      ], 
       "hnrlbls": [
-        "3-3B"
+        "3"
       ], 
       "housenumber": "3", 
-      "lat": 51.201243361857, 
-      "lon": 2.974112549485, 
+      "lat": 51.201275365169, 
+      "lon": 2.974142931468, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Grintweg"
     }, 
     {
@@ -509,11 +505,11 @@
         "30"
       ], 
       "housenumber": "30", 
-      "lat": 51.20187177384, 
-      "lon": 2.97208736805, 
+      "lat": 51.201884019885, 
+      "lon": 2.972165134, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Grintweg"
     }, 
     {
@@ -521,11 +517,11 @@
         "30A"
       ], 
       "housenumber": "30A", 
-      "lat": 51.201735748703, 
-      "lon": 2.972284766354, 
+      "lat": 51.201903014955, 
+      "lon": 2.972068402442, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "geinterpoleerdObvWegverbinding", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Grintweg"
     }, 
     {
@@ -545,8 +541,8 @@
         "32A"
       ], 
       "housenumber": "32A", 
-      "lat": 51.202021092106, 
-      "lon": 2.971721571047, 
+      "lat": 51.20203392304, 
+      "lon": 2.971719469719, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -569,8 +565,8 @@
         "34"
       ], 
       "housenumber": "34", 
-      "lat": 51.202139650328, 
-      "lon": 2.971407922792, 
+      "lat": 51.202135826551, 
+      "lon": 2.971411471706, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -617,35 +613,11 @@
         "39"
       ], 
       "housenumber": "39", 
-      "lat": 51.201665832608, 
-      "lon": 2.971914085472, 
+      "lat": 51.201735399889, 
+      "lon": 2.971943198757, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Grintweg"
-    }, 
-    {
-      "hnrlbls": [
-        "3-3B"
-      ], 
-      "housenumber": "3A", 
-      "lat": 51.201243361857, 
-      "lon": 2.974112549485, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Grintweg"
-    }, 
-    {
-      "hnrlbls": [
-        "3-3B"
-      ], 
-      "housenumber": "3B", 
-      "lat": 51.201243361857, 
-      "lon": 2.974112549485, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Grintweg"
     }, 
     {
@@ -737,8 +709,8 @@
         "47"
       ], 
       "housenumber": "47", 
-      "lat": 51.20177962487, 
-      "lon": 2.971508999149, 
+      "lat": 51.201762610958, 
+      "lon": 2.971507075887, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -773,11 +745,11 @@
         "5"
       ], 
       "housenumber": "5", 
-      "lat": 51.201159603958, 
-      "lon": 2.974031197524, 
+      "lat": 51.201305519954, 
+      "lon": 2.974031844899, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Grintweg"
     }, 
     {
@@ -866,18 +838,6 @@
     }, 
     {
       "hnrlbls": [
-        "591"
-      ], 
-      "housenumber": "591", 
-      "lat": 51.2029013358, 
-      "lon": 2.961814523471, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "afgeleidVanStraat", 
-      "street": "Grintweg"
-    }, 
-    {
-      "hnrlbls": [
         "5A"
       ], 
       "housenumber": "5A", 
@@ -905,8 +865,8 @@
         "60"
       ], 
       "housenumber": "60", 
-      "lat": 51.202300706087, 
-      "lon": 2.970111469685, 
+      "lat": 51.202304227884, 
+      "lon": 2.97011279514, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -922,18 +882,6 @@
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
-      "street": "Grintweg"
-    }, 
-    {
-      "hnrlbls": [
-        "61B"
-      ], 
-      "housenumber": "61B", 
-      "lat": 51.201909682086, 
-      "lon": 2.970829673596, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Grintweg"
     }, 
     {
@@ -986,38 +934,26 @@
     }, 
     {
       "hnrlbls": [
-        "67"
-      ], 
-      "housenumber": "67", 
-      "lat": 51.202046589565, 
-      "lon": 2.970334595146, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Grintweg"
-    }, 
-    {
-      "hnrlbls": [
-        "67A-67B"
+        "67A"
       ], 
       "housenumber": "67A", 
-      "lat": 51.20204623855, 
-      "lon": 2.970335321166, 
+      "lat": 51.202050560997, 
+      "lon": 2.97038914046, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Grintweg"
     }, 
     {
       "hnrlbls": [
-        "67A-67B"
+        "67B"
       ], 
       "housenumber": "67B", 
-      "lat": 51.20204623855, 
-      "lon": 2.970335321166, 
+      "lat": 51.20206181615, 
+      "lon": 2.970276612499, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Grintweg"
     }, 
     {
@@ -1037,11 +973,11 @@
         "69"
       ], 
       "housenumber": "69", 
-      "lat": 51.201971261276, 
-      "lon": 2.970054086729, 
+      "lat": 51.202066590876, 
+      "lon": 2.970148251461, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Grintweg"
     }, 
     {
@@ -1073,8 +1009,8 @@
         "72"
       ], 
       "housenumber": "72", 
-      "lat": 51.202365974355, 
-      "lon": 2.969655596073, 
+      "lat": 51.202356039722, 
+      "lon": 2.969651743995, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -1085,11 +1021,11 @@
         "73"
       ], 
       "housenumber": "73", 
-      "lat": 51.201524280675, 
-      "lon": 2.970449700699, 
+      "lat": 51.201599047116, 
+      "lon": 2.970416694093, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Grintweg"
     }, 
     {
@@ -1169,8 +1105,8 @@
         "80"
       ], 
       "housenumber": "80", 
-      "lat": 51.203148042348, 
-      "lon": 2.96965762022, 
+      "lat": 51.203150407861, 
+      "lon": 2.969652397562, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -1229,8 +1165,8 @@
         "88"
       ], 
       "housenumber": "88", 
-      "lat": 51.203255546574, 
-      "lon": 2.967803631795, 
+      "lat": 51.203260765727, 
+      "lon": 2.967804047521, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -1286,18 +1222,6 @@
     }, 
     {
       "hnrlbls": [
-        "90A"
-      ], 
-      "housenumber": "90A", 
-      "lat": 51.203171218877, 
-      "lon": 2.967416634761, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Grintweg"
-    }, 
-    {
-      "hnrlbls": [
         "91"
       ], 
       "housenumber": "91", 
@@ -1313,8 +1237,8 @@
         "92"
       ], 
       "housenumber": "92", 
-      "lat": 51.20353047378, 
-      "lon": 2.966924727104, 
+      "lat": 51.20353963021, 
+      "lon": 2.966931177969, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 

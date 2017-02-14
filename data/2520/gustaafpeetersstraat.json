@@ -17,11 +17,11 @@
         "10"
       ], 
       "housenumber": "10", 
-      "lat": 51.180717283333, 
-      "lon": 4.60310507495, 
+      "lat": 51.180771461006, 
+      "lon": 4.603207171245, 
       "municipality": "Ranst", 
       "pcode": "2520", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Gustaaf Peetersstraat"
     }, 
     {
@@ -125,8 +125,8 @@
         "19"
       ], 
       "housenumber": "19", 
-      "lat": 51.180828132748, 
-      "lon": 4.603591297278, 
+      "lat": 51.180828575614, 
+      "lon": 4.603594588757, 
       "municipality": "Ranst", 
       "pcode": "2520", 
       "source": "afgeleidVanGebouw", 
@@ -141,7 +141,7 @@
       "lon": 4.602439873221, 
       "municipality": "Ranst", 
       "pcode": "2520", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Gustaaf Peetersstraat"
     }, 
     {
@@ -354,54 +354,65 @@
         "1", 
         "11", 
         "21", 
-        "3", 
-        "A"
+        "3"
       ], 
       "hnrlbls": [
-        "32-32C"
+        "32"
       ], 
       "housenumber": "32", 
-      "lat": 51.180148105692, 
-      "lon": 4.60361217676, 
+      "lat": 51.180199548382, 
+      "lon": 4.603913469694, 
       "municipality": "Ranst", 
       "pcode": "2520", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
       "street": "Gustaaf Peetersstraat"
     }, 
     {
       "hnrlbls": [
-        "32A-32D"
+        "32A"
       ], 
       "housenumber": "32A", 
-      "lat": 51.179909608101, 
-      "lon": 4.603221562774, 
+      "lat": 51.179983513569, 
+      "lon": 4.603798114506, 
       "municipality": "Ranst", 
       "pcode": "2520", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Gustaaf Peetersstraat"
     }, 
     {
       "hnrlbls": [
-        "32-32C"
+        "32B"
+      ], 
+      "housenumber": "32B", 
+      "lat": 51.1800154391, 
+      "lon": 4.603294029128, 
+      "municipality": "Ranst", 
+      "pcode": "2520", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Gustaaf Peetersstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "32C"
       ], 
       "housenumber": "32C", 
-      "lat": 51.180148105692, 
-      "lon": 4.60361217676, 
-      "municipality": "Ranst", 
-      "pcode": "2520", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Gustaaf Peetersstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "32A-32D"
-      ], 
-      "housenumber": "32D", 
       "lat": 51.179909608101, 
       "lon": 4.603221562774, 
       "municipality": "Ranst", 
       "pcode": "2520", 
       "source": "afgeleidVanGebouw", 
+      "street": "Gustaaf Peetersstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "32D"
+      ], 
+      "housenumber": "32D", 
+      "lat": 51.179796726761, 
+      "lon": 4.603168796262, 
+      "municipality": "Ranst", 
+      "pcode": "2520", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Gustaaf Peetersstraat"
     }, 
     {
@@ -425,7 +436,7 @@
       "lon": 4.604164103081, 
       "municipality": "Ranst", 
       "pcode": "2520", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Gustaaf Peetersstraat"
     }, 
     {
@@ -453,6 +464,9 @@
       "street": "Gustaaf Peetersstraat"
     }, 
     {
+      "busnrs": [
+        "11"
+      ], 
       "hnrlbls": [
         "35"
       ], 
@@ -469,23 +483,11 @@
         "36"
       ], 
       "housenumber": "36", 
-      "lat": 51.180246292944, 
-      "lon": 4.604496037902, 
+      "lat": 51.180237761615, 
+      "lon": 4.604492133443, 
       "municipality": "Ranst", 
       "pcode": "2520", 
       "source": "afgeleidVanGebouw", 
-      "street": "Gustaaf Peetersstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "36A"
-      ], 
-      "housenumber": "36A", 
-      "lat": 51.18023767173, 
-      "lon": 4.604492132988, 
-      "municipality": "Ranst", 
-      "pcode": "2520", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Gustaaf Peetersstraat"
     }, 
     {
@@ -663,8 +665,13 @@
     {
       "busnrs": [
         "1", 
+        "11", 
+        "12", 
         "2", 
+        "21", 
+        "22", 
         "3", 
+        "31", 
         "4", 
         "5", 
         "6"
@@ -692,8 +699,8 @@
         "50"
       ], 
       "housenumber": "50", 
-      "lat": 51.179969119095, 
-      "lon": 4.605241696664, 
+      "lat": 51.179969118648, 
+      "lon": 4.605241707424, 
       "municipality": "Ranst", 
       "pcode": "2520", 
       "source": "afgeleidVanGebouw", 
@@ -727,8 +734,8 @@
         "52"
       ], 
       "housenumber": "52", 
-      "lat": 51.180000593362, 
-      "lon": 4.60538646966, 
+      "lat": 51.180000557621, 
+      "lon": 4.605386448379, 
       "municipality": "Ranst", 
       "pcode": "2520", 
       "source": "afgeleidVanGebouw", 
@@ -739,8 +746,8 @@
         "53"
       ], 
       "housenumber": "53", 
-      "lat": 51.180372664354, 
-      "lon": 4.604993492176, 
+      "lat": 51.180373296989, 
+      "lon": 4.604991779277, 
       "municipality": "Ranst", 
       "pcode": "2520", 
       "source": "afgeleidVanGebouw", 
@@ -815,8 +822,8 @@
         "57"
       ], 
       "housenumber": "57", 
-      "lat": 51.180258137908, 
-      "lon": 4.605402488163, 
+      "lat": 51.18025716354, 
+      "lon": 4.605395332764, 
       "municipality": "Ranst", 
       "pcode": "2520", 
       "source": "afgeleidVanGebouw", 
@@ -927,7 +934,7 @@
       "lon": 4.606663395759, 
       "municipality": "Ranst", 
       "pcode": "2520", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Gustaaf Peetersstraat"
     }, 
     {
@@ -944,7 +951,7 @@
     }, 
     {
       "hnrlbls": [
-        "8-8A"
+        "8"
       ], 
       "housenumber": "8", 
       "lat": 51.180819065069, 
@@ -956,14 +963,14 @@
     }, 
     {
       "hnrlbls": [
-        "8-8A"
+        "8A"
       ], 
       "housenumber": "8A", 
-      "lat": 51.180819065069, 
-      "lon": 4.602953853342, 
+      "lat": 51.180810670228, 
+      "lon": 4.603107261416, 
       "municipality": "Ranst", 
       "pcode": "2520", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Gustaaf Peetersstraat"
     }, 
     {

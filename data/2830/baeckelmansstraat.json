@@ -218,18 +218,6 @@
     }, 
     {
       "hnrlbls": [
-        "115"
-      ], 
-      "housenumber": "115", 
-      "lat": 51.038533689451, 
-      "lon": 4.349222006341, 
-      "municipality": "Willebroek", 
-      "pcode": "2830", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Baeckelmansstraat"
-    }, 
-    {
-      "hnrlbls": [
         "3-116"
       ], 
       "housenumber": "116", 
@@ -238,6 +226,18 @@
       "municipality": "Willebroek", 
       "pcode": "2830", 
       "source": "afgeleidVanGebouw", 
+      "street": "Baeckelmansstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "117"
+      ], 
+      "housenumber": "117", 
+      "lat": 51.03855866884, 
+      "lon": 4.349159690893, 
+      "municipality": "Willebroek", 
+      "pcode": "2830", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Baeckelmansstraat"
     }, 
     {
@@ -269,11 +269,11 @@
         "121"
       ], 
       "housenumber": "121", 
-      "lat": 51.038751497567, 
-      "lon": 4.348698950423, 
+      "lat": 51.039365900539, 
+      "lon": 4.348735909091, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
       "street": "Baeckelmansstraat"
     }, 
     {
@@ -281,8 +281,8 @@
         "122"
       ], 
       "housenumber": "122", 
-      "lat": 51.038559177178, 
-      "lon": 4.347889059814, 
+      "lat": 51.038523579659, 
+      "lon": 4.347882374119, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
       "source": "afgeleidVanGebouw", 
@@ -293,8 +293,8 @@
         "124"
       ], 
       "housenumber": "124", 
-      "lat": 51.038580528723, 
-      "lon": 4.347643963598, 
+      "lat": 51.038574775675, 
+      "lon": 4.347643395806, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
       "source": "afgeleidVanGebouw", 
@@ -305,8 +305,8 @@
         "125"
       ], 
       "housenumber": "125", 
-      "lat": 51.03964329933, 
-      "lon": 4.348188863145, 
+      "lat": 51.039636017776, 
+      "lon": 4.348186014665, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
       "source": "afgeleidVanGebouw", 
@@ -317,8 +317,8 @@
         "126"
       ], 
       "housenumber": "126", 
-      "lat": 51.038651046213, 
-      "lon": 4.347380168061, 
+      "lat": 51.038646550119, 
+      "lon": 4.347371045212, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
       "source": "afgeleidVanGebouw", 
@@ -362,14 +362,14 @@
     }, 
     {
       "hnrlbls": [
-        "130-132"
+        "130"
       ], 
       "housenumber": "130", 
-      "lat": 51.040096756577, 
-      "lon": 4.343255831695, 
+      "lat": 51.039538929719, 
+      "lon": 4.34660871257, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Baeckelmansstraat"
     }, 
     {
@@ -377,8 +377,8 @@
         "131"
       ], 
       "housenumber": "131", 
-      "lat": 51.04112443017, 
-      "lon": 4.34577259164, 
+      "lat": 51.041122093549, 
+      "lon": 4.345775301831, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
       "source": "afgeleidVanGebouw", 
@@ -386,14 +386,14 @@
     }, 
     {
       "hnrlbls": [
-        "130-132"
+        "132"
       ], 
       "housenumber": "132", 
-      "lat": 51.040096756577, 
-      "lon": 4.343255831695, 
+      "lat": 51.039771133665, 
+      "lon": 4.346220791361, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Baeckelmansstraat"
     }, 
     {
@@ -401,8 +401,8 @@
         "133"
       ], 
       "housenumber": "133", 
-      "lat": 51.041628811446, 
-      "lon": 4.345824965212, 
+      "lat": 51.041624228093, 
+      "lon": 4.345830385605, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
       "source": "afgeleidVanGebouw", 
@@ -449,8 +449,8 @@
         "147"
       ], 
       "housenumber": "147", 
-      "lat": 51.042230522221, 
-      "lon": 4.341437721681, 
+      "lat": 51.04223168924, 
+      "lon": 4.341430876867, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
       "source": "afgeleidVanGebouw", 
@@ -601,12 +601,16 @@
       "street": "Baeckelmansstraat"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "201"
+      ], 
       "hnrlbls": [
         "29"
       ], 
       "housenumber": "29", 
-      "lat": 51.035283715159, 
-      "lon": 4.355189101704, 
+      "lat": 51.035284164796, 
+      "lon": 4.355190812364, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
       "source": "afgeleidVanGebouw", 
@@ -661,7 +665,11 @@
       "street": "Baeckelmansstraat"
     }, 
     {
+      "busnrs": [
+        "2"
+      ], 
       "hnrlbls": [
+        "33-33A", 
         "33"
       ], 
       "housenumber": "33", 
@@ -749,8 +757,8 @@
         "43"
       ], 
       "housenumber": "43", 
-      "lat": 51.035531171393, 
-      "lon": 4.354299278928, 
+      "lat": 51.035552657663, 
+      "lon": 4.354321370361, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
       "source": "afgeleidVanGebouw", 
@@ -773,8 +781,8 @@
         "45"
       ], 
       "housenumber": "45", 
-      "lat": 51.035546174708, 
-      "lon": 4.354228419166, 
+      "lat": 51.035550130299, 
+      "lon": 4.354232124717, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
       "source": "afgeleidVanGebouw", 
@@ -785,8 +793,8 @@
         "46"
       ], 
       "housenumber": "46", 
-      "lat": 51.034998183672, 
-      "lon": 4.354818797818, 
+      "lat": 51.035029288504, 
+      "lon": 4.354844735763, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
       "source": "afgeleidVanGebouw", 
@@ -797,8 +805,8 @@
         "47"
       ], 
       "housenumber": "47", 
-      "lat": 51.035593450462, 
-      "lon": 4.354174515158, 
+      "lat": 51.035593360522, 
+      "lon": 4.354174087486, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
       "source": "afgeleidVanGebouw", 
@@ -821,8 +829,8 @@
         "49"
       ], 
       "housenumber": "49", 
-      "lat": 51.035573435152, 
-      "lon": 4.354051384654, 
+      "lat": 51.035573390421, 
+      "lon": 4.354051343927, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
       "source": "afgeleidVanGebouw", 
@@ -883,8 +891,8 @@
         "51"
       ], 
       "housenumber": "51", 
-      "lat": 51.035607788691, 
-      "lon": 4.353946888326, 
+      "lat": 51.035607805781, 
+      "lon": 4.35394683254, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
       "source": "afgeleidVanGebouw", 
@@ -927,8 +935,8 @@
         "53"
       ], 
       "housenumber": "53", 
-      "lat": 51.035641560013, 
-      "lon": 4.353840653103, 
+      "lat": 51.035641591612, 
+      "lon": 4.353840610394, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
       "source": "afgeleidVanGebouw", 
@@ -951,8 +959,8 @@
         "55"
       ], 
       "housenumber": "55", 
-      "lat": 51.03567343779, 
-      "lon": 4.353728039961, 
+      "lat": 51.035673398988, 
+      "lon": 4.353727973207, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
       "source": "afgeleidVanGebouw", 
@@ -963,8 +971,8 @@
         "56"
       ], 
       "housenumber": "56", 
-      "lat": 51.03543775306, 
-      "lon": 4.353367353954, 
+      "lat": 51.035438112798, 
+      "lon": 4.353368779499, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
       "source": "afgeleidVanGebouw", 
@@ -975,8 +983,8 @@
         "57"
       ], 
       "housenumber": "57", 
-      "lat": 51.035751852805, 
-      "lon": 4.353647490238, 
+      "lat": 51.035751863069, 
+      "lon": 4.353647541552, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
       "source": "afgeleidVanGebouw", 
@@ -1107,8 +1115,8 @@
         "70"
       ], 
       "housenumber": "70", 
-      "lat": 51.035828390126, 
-      "lon": 4.352477328391, 
+      "lat": 51.035815443639, 
+      "lon": 4.352459654402, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
       "source": "afgeleidVanGebouw", 
@@ -1131,8 +1139,8 @@
         "72"
       ], 
       "housenumber": "72", 
-      "lat": 51.035861725465, 
-      "lon": 4.35237324334, 
+      "lat": 51.035852196773, 
+      "lon": 4.352370537759, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
       "source": "afgeleidVanGebouw", 
@@ -1263,8 +1271,8 @@
         "83"
       ], 
       "housenumber": "83", 
-      "lat": 51.037109102258, 
-      "lon": 4.351531372128, 
+      "lat": 51.037119717173, 
+      "lon": 4.351587826454, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
       "source": "afgeleidVanGebouw", 
@@ -1347,8 +1355,8 @@
         "9"
       ], 
       "housenumber": "9", 
-      "lat": 51.034899009989, 
-      "lon": 4.356274548181, 
+      "lat": 51.034899549699, 
+      "lon": 4.356278254713, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
       "source": "afgeleidVanGebouw", 
@@ -1359,8 +1367,8 @@
         "90"
       ], 
       "housenumber": "90", 
-      "lat": 51.036537615956, 
-      "lon": 4.351134946617, 
+      "lat": 51.036539324376, 
+      "lon": 4.351138510228, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
       "source": "afgeleidVanGebouw", 
@@ -1456,7 +1464,8 @@
         "1", 
         "101", 
         "102", 
-        "2"
+        "2", 
+        "201"
       ], 
       "hnrlbls": [
         "96A-96B"
@@ -1474,8 +1483,8 @@
         "98"
       ], 
       "housenumber": "98", 
-      "lat": 51.037105119119, 
-      "lon": 4.3507118763, 
+      "lat": 51.037109884794, 
+      "lon": 4.350722139636, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
       "source": "afgeleidVanGebouw", 

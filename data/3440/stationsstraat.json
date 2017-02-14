@@ -45,11 +45,11 @@
         "12"
       ], 
       "housenumber": "12", 
-      "lat": 50.831391630642, 
-      "lon": 5.104112628184, 
+      "lat": 50.831467556176, 
+      "lon": 5.104161939179, 
       "municipality": "Zoutleeuw", 
       "pcode": "3440", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Stationsstraat"
     }, 
     {
@@ -96,8 +96,8 @@
         "16"
       ], 
       "housenumber": "16", 
-      "lat": 50.829808641985, 
-      "lon": 5.103128840674, 
+      "lat": 50.829808818207, 
+      "lon": 5.103129411225, 
       "municipality": "Zoutleeuw", 
       "pcode": "3440", 
       "source": "afgeleidVanPerceelGrb", 
@@ -132,11 +132,23 @@
         "19"
       ], 
       "housenumber": "19", 
-      "lat": 50.829500091582, 
-      "lon": 5.104277206075, 
+      "lat": 50.829507195397, 
+      "lon": 5.104205349453, 
       "municipality": "Zoutleeuw", 
       "pcode": "3440", 
       "source": "afgeleidVanGebouw", 
+      "street": "Stationsstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "1D"
+      ], 
+      "housenumber": "1D", 
+      "lat": 50.831203401628, 
+      "lon": 5.104624547237, 
+      "municipality": "Zoutleeuw", 
+      "pcode": "3440", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Stationsstraat"
     }, 
     {
@@ -373,6 +385,7 @@
     }, 
     {
       "busnrs": [
+        "103", 
         "602", 
         "604", 
         "605", 
@@ -395,7 +408,8 @@
         "629", 
         "631", 
         "632", 
-        "638"
+        "638", 
+        "639"
       ], 
       "hnrlbls": [
         "36"
@@ -406,21 +420,6 @@
       "municipality": "Zoutleeuw", 
       "pcode": "3440", 
       "source": "afgeleidVanGebouw", 
-      "street": "Stationsstraat"
-    }, 
-    {
-      "busnrs": [
-        "2"
-      ], 
-      "hnrlbls": [
-        "36L"
-      ], 
-      "housenumber": "36L", 
-      "lat": 50.828679001785, 
-      "lon": 5.102849576571, 
-      "municipality": "Zoutleeuw", 
-      "pcode": "3440", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Stationsstraat"
     }, 
     {
@@ -453,18 +452,6 @@
     }, 
     {
       "hnrlbls": [
-        "40A"
-      ], 
-      "housenumber": "40A", 
-      "lat": 50.828020831878, 
-      "lon": 5.102794154358, 
-      "municipality": "Zoutleeuw", 
-      "pcode": "3440", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Stationsstraat"
-    }, 
-    {
-      "hnrlbls": [
         "41"
       ], 
       "housenumber": "41", 
@@ -492,8 +479,8 @@
         "44"
       ], 
       "housenumber": "44", 
-      "lat": 50.827103368961, 
-      "lon": 5.102885566287, 
+      "lat": 50.827066702424, 
+      "lon": 5.102955254147, 
       "municipality": "Zoutleeuw", 
       "pcode": "3440", 
       "source": "afgeleidVanGebouw", 
@@ -516,11 +503,11 @@
         "46"
       ], 
       "housenumber": "46", 
-      "lat": 50.822124283512, 
-      "lon": 5.10212042492, 
+      "lat": 50.826629018036, 
+      "lon": 5.102418269726, 
       "municipality": "Zoutleeuw", 
       "pcode": "3440", 
-      "source": "geinterpoleerdObvWegverbinding", 
+      "source": "afgeleidVanGebouw", 
       "street": "Stationsstraat"
     }, 
     {
@@ -561,6 +548,18 @@
     }, 
     {
       "hnrlbls": [
+        "47E"
+      ], 
+      "housenumber": "47E", 
+      "lat": 50.826852486105, 
+      "lon": 5.103554869264, 
+      "municipality": "Zoutleeuw", 
+      "pcode": "3440", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Stationsstraat"
+    }, 
+    {
+      "hnrlbls": [
         "49"
       ], 
       "housenumber": "49", 
@@ -588,8 +587,8 @@
         "51"
       ], 
       "housenumber": "51", 
-      "lat": 50.825399272311, 
-      "lon": 5.103150334146, 
+      "lat": 50.825399350633, 
+      "lon": 5.103152180538, 
       "municipality": "Zoutleeuw", 
       "pcode": "3440", 
       "source": "afgeleidVanGebouw", 
@@ -621,7 +620,7 @@
     }, 
     {
       "hnrlbls": [
-        "7-7A"
+        "7"
       ], 
       "housenumber": "7", 
       "lat": 50.830659889387, 
@@ -633,14 +632,14 @@
     }, 
     {
       "hnrlbls": [
-        "7-7A"
+        "7A"
       ], 
       "housenumber": "7A", 
-      "lat": 50.830659889387, 
-      "lon": 5.104334685095, 
+      "lat": 50.830027324339, 
+      "lon": 5.104181837092, 
       "municipality": "Zoutleeuw", 
       "pcode": "3440", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Stationsstraat"
     }, 
     {
@@ -648,11 +647,11 @@
         "7B"
       ], 
       "housenumber": "7B", 
-      "lat": 50.829986714947, 
-      "lon": 5.104177794587, 
+      "lat": 50.829959453997, 
+      "lon": 5.104166863558, 
       "municipality": "Zoutleeuw", 
       "pcode": "3440", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Stationsstraat"
     }, 
     {
@@ -677,18 +676,6 @@
       "municipality": "Zoutleeuw", 
       "pcode": "3440", 
       "source": "afgeleidVanGebouw", 
-      "street": "Stationsstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "ZN"
-      ], 
-      "housenumber": "ZN", 
-      "lat": 50.829031826504, 
-      "lon": 5.103743535612, 
-      "municipality": "Zoutleeuw", 
-      "pcode": "3440", 
-      "source": "afgeleidVanStraat", 
       "street": "Stationsstraat"
     }
   ]

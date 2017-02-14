@@ -29,8 +29,8 @@
         "60A-100"
       ], 
       "housenumber": "100", 
-      "lat": 50.88065061002, 
-      "lon": 4.707834728398, 
+      "lat": 50.880687214875, 
+      "lon": 4.707983911424, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanPerceelGrb", 
@@ -259,8 +259,8 @@
         "117"
       ], 
       "housenumber": "117", 
-      "lat": 50.880841217086, 
-      "lon": 4.706891723602, 
+      "lat": 50.880840846437, 
+      "lon": 4.706895557575, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanPerceelGrb", 
@@ -388,7 +388,7 @@
     }, 
     {
       "hnrlbls": [
-        "126"
+        "1C-126"
       ], 
       "housenumber": "126", 
       "lat": 50.881118363615, 
@@ -428,8 +428,8 @@
         "127A"
       ], 
       "housenumber": "127A", 
-      "lat": 50.881024870034, 
-      "lon": 4.707266199218, 
+      "lat": 50.88102477973, 
+      "lon": 4.707266340664, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanPerceelGrb", 
@@ -460,8 +460,8 @@
         "128A"
       ], 
       "housenumber": "128A", 
-      "lat": 50.881139190668, 
-      "lon": 4.708888799939, 
+      "lat": 50.881139375406, 
+      "lon": 4.708887096092, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanPerceelGrb", 
@@ -757,6 +757,9 @@
       "street": "Diestsestraat"
     }, 
     {
+      "busnrs": [
+        "202"
+      ], 
       "hnrlbls": [
         "143"
       ], 
@@ -782,8 +785,8 @@
         "143A"
       ], 
       "housenumber": "143A", 
-      "lat": 50.881172370915, 
-      "lon": 4.708203981202, 
+      "lat": 50.881174165899, 
+      "lon": 4.708204988893, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanPerceelGrb", 
@@ -812,7 +815,7 @@
         "0203"
       ], 
       "hnrlbls": [
-        "145"
+        "145-145A"
       ], 
       "housenumber": "145", 
       "lat": 50.88120893969, 
@@ -824,11 +827,11 @@
     }, 
     {
       "hnrlbls": [
-        "145A"
+        "145-145A"
       ], 
       "housenumber": "145A", 
-      "lat": 50.881209037822, 
-      "lon": 4.708300589939, 
+      "lat": 50.88120893969, 
+      "lon": 4.708303431212, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanPerceelGrb", 
@@ -916,17 +919,29 @@
       "street": "Diestsestraat"
     }, 
     {
+      "hnrlbls": [
+        "150-150C"
+      ], 
+      "housenumber": "150", 
+      "lat": 50.881323760301, 
+      "lon": 4.709749414865, 
+      "municipality": "Leuven", 
+      "pcode": "3000", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Diestsestraat"
+    }, 
+    {
       "busnrs": [
-        "0001", 
         "0101", 
         "0102", 
         "0201", 
-        "0202"
+        "0202", 
+        "0301"
       ], 
       "hnrlbls": [
-        "150"
+        "150-150C"
       ], 
-      "housenumber": "150", 
+      "housenumber": "150C", 
       "lat": 50.881323760301, 
       "lon": 4.709749414865, 
       "municipality": "Leuven", 
@@ -1117,8 +1132,8 @@
         "162"
       ], 
       "housenumber": "162", 
-      "lat": 50.881371707108, 
-      "lon": 4.7101394009, 
+      "lat": 50.881372520289, 
+      "lon": 4.710137985825, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanPerceelGrb", 
@@ -1211,8 +1226,8 @@
         "167"
       ], 
       "housenumber": "167", 
-      "lat": 50.881520423095, 
-      "lon": 4.709728109405, 
+      "lat": 50.881522858073, 
+      "lon": 4.709725427215, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanPerceelGrb", 
@@ -1309,14 +1324,14 @@
     }, 
     {
       "hnrlbls": [
-        "174"
+        "2-174"
       ], 
       "housenumber": "174", 
-      "lat": 50.881484342685, 
-      "lon": 4.71051039167, 
+      "lat": 50.881486222981, 
+      "lon": 4.710512963178, 
       "municipality": "Leuven", 
       "pcode": "3000", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Diestsestraat"
     }, 
     {
@@ -1394,13 +1409,6 @@
       "street": "Diestsestraat"
     }, 
     {
-      "apptnrs": [
-        "12", 
-        "21", 
-        "22", 
-        "31", 
-        "32"
-      ], 
       "hnrlbls": [
         "178-178A"
       ], 
@@ -1414,7 +1422,12 @@
     }, 
     {
       "apptnrs": [
-        "11"
+        "11", 
+        "12", 
+        "21", 
+        "22", 
+        "31", 
+        "32"
       ], 
       "hnrlbls": [
         "178-178A"
@@ -1465,7 +1478,7 @@
     }, 
     {
       "hnrlbls": [
-        "180"
+        "180-180C"
       ], 
       "housenumber": "180", 
       "lat": 50.881550495681, 
@@ -1476,6 +1489,28 @@
       "street": "Diestsestraat"
     }, 
     {
+      "busnrs": [
+        "0101", 
+        "0201"
+      ], 
+      "hnrlbls": [
+        "180-180C"
+      ], 
+      "housenumber": "180C", 
+      "lat": 50.881550495681, 
+      "lon": 4.710944847979, 
+      "municipality": "Leuven", 
+      "pcode": "3000", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Diestsestraat"
+    }, 
+    {
+      "busnrs": [
+        "102", 
+        "106", 
+        "204", 
+        "303"
+      ], 
       "hnrlbls": [
         "181-183"
       ], 
@@ -1516,8 +1551,8 @@
         "186-188"
       ], 
       "housenumber": "186", 
-      "lat": 50.881272492735, 
-      "lon": 4.711760032156, 
+      "lat": 50.881273471575, 
+      "lon": 4.711763449703, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanPerceelGrb", 
@@ -1528,8 +1563,8 @@
         "186-188"
       ], 
       "housenumber": "188", 
-      "lat": 50.881272492735, 
-      "lon": 4.711760032156, 
+      "lat": 50.881273471575, 
+      "lon": 4.711763449703, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanPerceelGrb", 
@@ -1564,8 +1599,8 @@
         "191A"
       ], 
       "housenumber": "191A", 
-      "lat": 50.881739323466, 
-      "lon": 4.710528165869, 
+      "lat": 50.8817358984, 
+      "lon": 4.710531267114, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanPerceelGrb", 
@@ -1681,13 +1716,8 @@
       "street": "Diestsestraat"
     }, 
     {
-      "busnrs": [
-        "bus 1", 
-        "bus 2", 
-        "bus 3"
-      ], 
       "hnrlbls": [
-        "2"
+        "2-2C"
       ], 
       "housenumber": "2", 
       "lat": 50.87955504235, 
@@ -1759,6 +1789,29 @@
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanGebouw", 
+      "street": "Diestsestraat"
+    }, 
+    {
+      "busnrs": [
+        "101", 
+        "102", 
+        "103", 
+        "104", 
+        "201", 
+        "203", 
+        "301", 
+        "302", 
+        "304"
+      ], 
+      "hnrlbls": [
+        "203C"
+      ], 
+      "housenumber": "203C", 
+      "lat": 50.881792087227, 
+      "lon": 4.710899291902, 
+      "municipality": "Leuven", 
+      "pcode": "3000", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Diestsestraat"
     }, 
     {
@@ -1988,8 +2041,8 @@
         "216"
       ], 
       "housenumber": "216", 
-      "lat": 50.881871125937, 
-      "lon": 4.712550089841, 
+      "lat": 50.881872024453, 
+      "lon": 4.712550238532, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanPerceelGrb", 
@@ -2038,16 +2091,31 @@
       "street": "Diestsestraat"
     }, 
     {
-      "apptnrs": [
-        "bus 1", 
-        "bus 2", 
-        "bus 3", 
-        "bus 4"
+      "busnrs": [
+        "3"
       ], 
       "hnrlbls": [
-        "219"
+        "219-219C"
       ], 
       "housenumber": "219", 
+      "lat": 50.881947249438, 
+      "lon": 4.711697471202, 
+      "municipality": "Leuven", 
+      "pcode": "3000", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Diestsestraat"
+    }, 
+    {
+      "apptnrs": [
+        "0101", 
+        "0201", 
+        "0301", 
+        "0401"
+      ], 
+      "hnrlbls": [
+        "219-219C"
+      ], 
+      "housenumber": "219C", 
       "lat": 50.881947249438, 
       "lon": 4.711697471202, 
       "municipality": "Leuven", 
@@ -2136,16 +2204,6 @@
       "street": "Diestsestraat"
     }, 
     {
-      "busnrs": [
-        "0001", 
-        "0101", 
-        "0102", 
-        "0103", 
-        "0104", 
-        "0201", 
-        "0301", 
-        "0302"
-      ], 
       "hnrlbls": [
         "224"
       ], 
@@ -2161,18 +2219,22 @@
       "apptnrs": [
         "0101", 
         "0102", 
+        "0103", 
         "0201", 
         "0202", 
+        "0203", 
         "0301", 
         "0302", 
-        "0401"
+        "0303", 
+        "0401", 
+        "0402"
       ], 
       "hnrlbls": [
-        "226"
+        "226-228"
       ], 
       "housenumber": "226", 
-      "lat": 50.881856347871, 
-      "lon": 4.712969369589, 
+      "lat": 50.881856320566, 
+      "lon": 4.712969321752, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanGebouw", 
@@ -2180,7 +2242,7 @@
     }, 
     {
       "hnrlbls": [
-        "228"
+        "226-228"
       ], 
       "housenumber": "228", 
       "lat": 50.881856320566, 
@@ -2203,6 +2265,10 @@
       "street": "Diestsestraat"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101"
+      ], 
       "hnrlbls": [
         "229A"
       ], 
@@ -2455,8 +2521,8 @@
         "241-243"
       ], 
       "housenumber": "241", 
-      "lat": 50.882298551253, 
-      "lon": 4.712620296913, 
+      "lat": 50.88229459887, 
+      "lon": 4.712619273204, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanPerceelGrb", 
@@ -2464,7 +2530,7 @@
     }, 
     {
       "hnrlbls": [
-        "242"
+        "242-244"
       ], 
       "housenumber": "242", 
       "lat": 50.882012223066, 
@@ -2479,8 +2545,8 @@
         "241-243"
       ], 
       "housenumber": "243", 
-      "lat": 50.882298551253, 
-      "lon": 4.712620296913, 
+      "lat": 50.88229459887, 
+      "lon": 4.712619273204, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanPerceelGrb", 
@@ -2496,11 +2562,11 @@
         "0401"
       ], 
       "hnrlbls": [
-        "244"
+        "242-244"
       ], 
       "housenumber": "244", 
-      "lat": 50.882012217456, 
-      "lon": 4.713450216377, 
+      "lat": 50.882012223066, 
+      "lon": 4.713450201597, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanGebouw", 
@@ -2514,7 +2580,6 @@
         "0104", 
         "0105", 
         "0106", 
-        "0107", 
         "0201", 
         "0202", 
         "0203", 
@@ -2566,7 +2631,7 @@
     }, 
     {
       "hnrlbls": [
-        "248"
+        "248-248C"
       ], 
       "housenumber": "248", 
       "lat": 50.882092396866, 
@@ -2578,11 +2643,11 @@
     }, 
     {
       "hnrlbls": [
-        "248C"
+        "248-248C"
       ], 
       "housenumber": "248C", 
-      "lat": 50.882092421431, 
-      "lon": 4.713576700779, 
+      "lat": 50.882092396866, 
+      "lon": 4.713576693375, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanGebouw", 
@@ -2680,19 +2745,27 @@
       "street": "Diestsestraat"
     }, 
     {
-      "apptnrs": [
-        "2", 
-        "3", 
-        "4", 
-        "5"
-      ], 
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
-        "253"
+        "253-253C"
       ], 
       "housenumber": "253", 
+      "lat": 50.882281892434, 
+      "lon": 4.71299717248, 
+      "municipality": "Leuven", 
+      "pcode": "3000", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Diestsestraat"
+    }, 
+    {
+      "apptnrs": [
+        "0201", 
+        "0301", 
+        "0302"
+      ], 
+      "hnrlbls": [
+        "253-253C"
+      ], 
+      "housenumber": "253C", 
       "lat": 50.882281892434, 
       "lon": 4.71299717248, 
       "municipality": "Leuven", 
@@ -2751,6 +2824,10 @@
       "street": "Diestsestraat"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "259"
       ], 
@@ -2764,6 +2841,7 @@
     }, 
     {
       "busnrs": [
+        "6", 
         "bus 1", 
         "bus 10", 
         "bus 11", 
@@ -2818,6 +2896,13 @@
       "street": "Diestsestraat"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0301"
+      ], 
       "hnrlbls": [
         "263"
       ], 
@@ -2903,6 +2988,27 @@
       "street": "Diestsestraat"
     }, 
     {
+      "busnrs": [
+        "0101", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0301", 
+        "0302", 
+        "0303"
+      ], 
+      "hnrlbls": [
+        "2-2C"
+      ], 
+      "housenumber": "2C", 
+      "lat": 50.87955504235, 
+      "lon": 4.70229849021, 
+      "municipality": "Leuven", 
+      "pcode": "3000", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Diestsestraat"
+    }, 
+    {
       "hnrlbls": [
         "3"
       ], 
@@ -2960,8 +3066,8 @@
         "32A"
       ], 
       "housenumber": "32A", 
-      "lat": 50.879999707205, 
-      "lon": 4.704172056538, 
+      "lat": 50.879996737876, 
+      "lon": 4.70417302996, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanPerceelGrb", 
@@ -3026,8 +3132,8 @@
         "39"
       ], 
       "housenumber": "39", 
-      "lat": 50.880188655852, 
-      "lon": 4.703295823454, 
+      "lat": 50.880187850465, 
+      "lon": 4.703294538842, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanPerceelGrb", 
@@ -3071,8 +3177,8 @@
         "42-44"
       ], 
       "housenumber": "42", 
-      "lat": 50.88019252132, 
-      "lon": 4.704709138248, 
+      "lat": 50.880191697607, 
+      "lon": 4.704714247802, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanPerceelGrb", 
@@ -3085,7 +3191,7 @@
         "0301"
       ], 
       "hnrlbls": [
-        "43"
+        "43-43C"
       ], 
       "housenumber": "43", 
       "lat": 50.880247254865, 
@@ -3097,11 +3203,11 @@
     }, 
     {
       "hnrlbls": [
-        "43C"
+        "43-43C"
       ], 
       "housenumber": "43C", 
-      "lat": 50.880247239911, 
-      "lon": 4.703426148962, 
+      "lat": 50.880247254865, 
+      "lon": 4.703426117577, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanGebouw", 
@@ -3112,8 +3218,8 @@
         "42-44"
       ], 
       "housenumber": "44", 
-      "lat": 50.88019252132, 
-      "lon": 4.704709138248, 
+      "lat": 50.880191697607, 
+      "lon": 4.704714247802, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanPerceelGrb", 
@@ -3133,8 +3239,11 @@
     }, 
     {
       "apptnrs": [
-        "1", 
-        "2"
+        "0101", 
+        "0201"
+      ], 
+      "busnrs": [
+        "0001"
       ], 
       "hnrlbls": [
         "47"
@@ -3398,6 +3507,11 @@
       "street": "Diestsestraat"
     }, 
     {
+      "busnrs": [
+        "0101", 
+        "0201", 
+        "0301"
+      ], 
       "hnrlbls": [
         "63"
       ], 
@@ -3548,8 +3662,8 @@
         "72"
       ], 
       "housenumber": "72", 
-      "lat": 50.880300550806, 
-      "lon": 4.706343452437, 
+      "lat": 50.880299302948, 
+      "lon": 4.706339748944, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanPerceelGrb", 
@@ -3606,8 +3720,8 @@
         "76A"
       ], 
       "housenumber": "76A", 
-      "lat": 50.88047344001, 
-      "lon": 4.706834931842, 
+      "lat": 50.88047316787, 
+      "lon": 4.70683578246, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanPerceelGrb", 
@@ -3619,7 +3733,7 @@
         "0101"
       ], 
       "hnrlbls": [
-        "77"
+        "27-77"
       ], 
       "housenumber": "77", 
       "lat": 50.880550228045, 
@@ -3630,6 +3744,22 @@
       "street": "Diestsestraat"
     }, 
     {
+      "busnrs": [
+        "0101", 
+        "0102", 
+        "0103", 
+        "0104", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0204", 
+        "0205", 
+        "0206", 
+        "0301", 
+        "0302", 
+        "0303", 
+        "0304"
+      ], 
       "hnrlbls": [
         "78"
       ], 
@@ -3667,19 +3797,7 @@
     }, 
     {
       "busnrs": [
-        "0101", 
-        "0102", 
-        "0103", 
-        "0104", 
-        "0105", 
-        "0106", 
-        "0201", 
-        "0202", 
-        "0203", 
-        "0204", 
-        "0301", 
-        "0302", 
-        "0303"
+        "204"
       ], 
       "hnrlbls": [
         "80"
@@ -3705,25 +3823,17 @@
       "street": "Diestsestraat"
     }, 
     {
-      "hnrlbls": [
-        "82"
-      ], 
-      "housenumber": "82", 
-      "lat": 50.880442060987, 
-      "lon": 4.707148171123, 
-      "municipality": "Leuven", 
-      "pcode": "3000", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Diestsestraat"
-    }, 
-    {
       "busnrs": [
         "0101", 
         "0102", 
+        "0103", 
+        "0104", 
+        "0105", 
         "0201", 
         "0202", 
         "0203", 
         "0204", 
+        "0205", 
         "0301", 
         "0302", 
         "0303", 
@@ -3810,6 +3920,18 @@
     }, 
     {
       "hnrlbls": [
+        "88A-90"
+      ], 
+      "housenumber": "88A", 
+      "lat": 50.880583436202, 
+      "lon": 4.707376263065, 
+      "municipality": "Leuven", 
+      "pcode": "3000", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Diestsestraat"
+    }, 
+    {
+      "hnrlbls": [
         "89-91"
       ], 
       "housenumber": "89", 
@@ -3821,8 +3943,17 @@
       "street": "Diestsestraat"
     }, 
     {
+      "busnrs": [
+        "0101", 
+        "0102", 
+        "0103", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0204"
+      ], 
       "hnrlbls": [
-        "90"
+        "88A-90"
       ], 
       "housenumber": "90", 
       "lat": 50.880583436202, 

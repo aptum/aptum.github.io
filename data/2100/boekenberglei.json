@@ -75,6 +75,12 @@
       "street": "Boekenberglei"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
         "104"
       ], 
@@ -183,9 +189,13 @@
       "street": "Boekenberglei"
     }, 
     {
-      "busnrs": [
-        "2", 
-        "3"
+      "apptnrs": [
+        "101", 
+        "102", 
+        "201", 
+        "202", 
+        "301", 
+        "302"
       ], 
       "hnrlbls": [
         "116-118"
@@ -319,8 +329,8 @@
         "126"
       ], 
       "housenumber": "126", 
-      "lat": 51.199520605705, 
-      "lon": 4.459449387252, 
+      "lat": 51.19952212821, 
+      "lon": 4.4594565436, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "afgeleidVanGebouw", 
@@ -450,13 +460,16 @@
       "street": "Boekenberglei"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
+        "101", 
+        "102", 
+        "103", 
         "201", 
         "202", 
+        "203", 
         "301", 
         "302", 
-        "303", 
-        "401"
+        "303"
       ], 
       "hnrlbls": [
         "104-146"
@@ -522,6 +535,24 @@
       "street": "Boekenberglei"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301"
+      ], 
+      "hnrlbls": [
+        "159"
+      ], 
+      "housenumber": "159", 
+      "lat": 51.198516267601, 
+      "lon": 4.460216533021, 
+      "municipality": "Antwerpen", 
+      "pcode": "2100", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Boekenberglei"
+    }, 
+    {
       "hnrlbls": [
         "14-16"
       ], 
@@ -568,9 +599,6 @@
       "street": "Boekenberglei"
     }, 
     {
-      "busnrs": [
-        "2"
-      ], 
       "hnrlbls": [
         "162"
       ], 
@@ -629,6 +657,11 @@
       "street": "Boekenberglei"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "168"
       ], 
@@ -1198,7 +1231,9 @@
     {
       "busnrs": [
         "1", 
-        "3"
+        "2", 
+        "3", 
+        "4"
       ], 
       "hnrlbls": [
         "206"
@@ -1240,8 +1275,8 @@
         "21"
       ], 
       "housenumber": "21", 
-      "lat": 51.202439066633, 
-      "lon": 4.463879594749, 
+      "lat": 51.202439066494, 
+      "lon": 4.46387959548, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "manueleAanduidingVanPerceel", 
@@ -1472,12 +1507,15 @@
         "501", 
         "502"
       ], 
+      "busnrs": [
+        "404"
+      ], 
       "hnrlbls": [
         "23"
       ], 
       "housenumber": "23", 
-      "lat": 51.202367722674, 
-      "lon": 4.463404579538, 
+      "lat": 51.202367722748, 
+      "lon": 4.463404579517, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "manueleAanduidingVanPerceel", 
@@ -1687,8 +1725,8 @@
         "246"
       ], 
       "housenumber": "246", 
-      "lat": 51.195395860745, 
-      "lon": 4.458310746351, 
+      "lat": 51.195395771078, 
+      "lon": 4.458310460069, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "afgeleidVanGebouw", 
@@ -1723,8 +1761,8 @@
         "25"
       ], 
       "housenumber": "25", 
-      "lat": 51.202338905836, 
-      "lon": 4.463248281771, 
+      "lat": 51.202338905894, 
+      "lon": 4.463248281667, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "manueleAanduidingVanPerceel", 
@@ -1767,7 +1805,9 @@
     {
       "busnrs": [
         "1", 
-        "2"
+        "2", 
+        "3", 
+        "4"
       ], 
       "hnrlbls": [
         "253"
@@ -1943,28 +1983,34 @@
         "0001", 
         "0002", 
         "0003", 
-        "0004", 
         "0101", 
         "0102", 
         "0103", 
         "0104", 
         "0105", 
         "0106", 
+        "0107", 
         "0201", 
         "0202", 
         "0203", 
         "0204", 
         "0205", 
         "0206", 
+        "0207", 
         "0301", 
         "0302", 
         "0303", 
         "0304", 
         "0305", 
+        "0306", 
+        "0307", 
         "0401", 
         "0402", 
         "0403", 
         "0404", 
+        "0405", 
+        "0406", 
+        "0407", 
         "0501", 
         "0502"
       ], 
@@ -1972,8 +2018,8 @@
         "27"
       ], 
       "housenumber": "27", 
-      "lat": 51.202313859104, 
-      "lon": 4.463098001063, 
+      "lat": 51.202313859148, 
+      "lon": 4.463098000877, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "manueleAanduidingVanPerceel", 
@@ -2144,8 +2190,8 @@
         "284"
       ], 
       "housenumber": "284", 
-      "lat": 51.194213721482, 
-      "lon": 4.4576860443, 
+      "lat": 51.194213721389, 
+      "lon": 4.457686044541, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "manueleAanduidingVanPerceel", 
@@ -2180,8 +2226,8 @@
         "29"
       ], 
       "housenumber": "29", 
-      "lat": 51.202288805747, 
-      "lon": 4.462955732744, 
+      "lat": 51.202288805778, 
+      "lon": 4.462955732482, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "manueleAanduidingVanPerceel", 
@@ -2192,8 +2238,8 @@
         "2A"
       ], 
       "housenumber": "2A", 
-      "lat": 51.202880056768, 
-      "lon": 4.463581537804, 
+      "lat": 51.202880101766, 
+      "lon": 4.463581469219, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "manueleAanduidingVanGebouw", 
@@ -2291,24 +2337,27 @@
       "street": "Boekenberglei"
     }, 
     {
-      "busnrs": [
-        "2", 
-        "4", 
-        "42", 
-        "5", 
-        "6", 
-        "7", 
-        "9"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "102", 
+        "201", 
+        "202", 
+        "301", 
+        "302", 
+        "401", 
+        "402", 
+        "501"
       ], 
       "hnrlbls": [
-        "40"
+        "40-42"
       ], 
       "housenumber": "40", 
-      "lat": 51.202552784108, 
-      "lon": 4.462002861316, 
+      "lat": 51.202536151516, 
+      "lon": 4.461963713549, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Boekenberglei"
     }, 
     {
@@ -2328,7 +2377,7 @@
     }, 
     {
       "hnrlbls": [
-        "42"
+        "40-42"
       ], 
       "housenumber": "42", 
       "lat": 51.202536151516, 
@@ -2370,8 +2419,12 @@
       "street": "Boekenberglei"
     }, 
     {
-      "busnrs": [
-        "4"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301", 
+        "401"
       ], 
       "hnrlbls": [
         "45"
@@ -2398,6 +2451,7 @@
     }, 
     {
       "busnrs": [
+        "1", 
         "10", 
         "11", 
         "12", 
@@ -2407,29 +2461,15 @@
         "3", 
         "4", 
         "5", 
-        "50", 
+        "6", 
         "7", 
-        "8"
+        "8", 
+        "9"
       ], 
       "hnrlbls": [
-        "48-50"
+        "48"
       ], 
       "housenumber": "48", 
-      "lat": 51.202382020045, 
-      "lon": 4.461597700782, 
-      "municipality": "Antwerpen", 
-      "pcode": "2100", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Boekenberglei"
-    }, 
-    {
-      "busnrs": [
-        "5"
-      ], 
-      "hnrlbls": [
-        "48-50"
-      ], 
-      "housenumber": "50", 
       "lat": 51.202382020045, 
       "lon": 4.461597700782, 
       "municipality": "Antwerpen", 
@@ -2455,15 +2495,15 @@
       "street": "Boekenberglei"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6", 
-        "7", 
-        "8"
+      "apptnrs": [
+        "101", 
+        "102", 
+        "201", 
+        "202", 
+        "301", 
+        "302", 
+        "401", 
+        "402"
       ], 
       "hnrlbls": [
         "53"
@@ -2495,8 +2535,11 @@
       "street": "Boekenberglei"
     }, 
     {
-      "busnrs": [
-        "4"
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301", 
+        "401"
       ], 
       "hnrlbls": [
         "55"
@@ -2522,11 +2565,11 @@
       "street": "Boekenberglei"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4"
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301", 
+        "401"
       ], 
       "hnrlbls": [
         "57"
@@ -2555,8 +2598,10 @@
       "street": "Boekenberglei"
     }, 
     {
-      "busnrs": [
-        "2"
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301"
       ], 
       "hnrlbls": [
         "59"
@@ -2832,7 +2877,7 @@
         "83"
       ], 
       "housenumber": "83", 
-      "lat": 51.201232425255, 
+      "lat": 51.201232425256, 
       "lon": 4.460990914041, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 

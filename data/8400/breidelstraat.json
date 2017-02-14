@@ -4,6 +4,7 @@
       "busnrs": [
         "1", 
         "2", 
+        "201", 
         "3", 
         "4"
       ], 
@@ -20,7 +21,7 @@
     }, 
     {
       "hnrlbls": [
-        "2-16"
+        "2"
       ], 
       "housenumber": "2", 
       "lat": 51.232133625314, 
@@ -31,6 +32,9 @@
       "street": "Breidelstraat"
     }, 
     {
+      "busnrs": [
+        "201"
+      ], 
       "hnrlbls": [
         "2A"
       ], 
@@ -44,7 +48,8 @@
     }, 
     {
       "busnrs": [
-        "1"
+        "1", 
+        "101"
       ], 
       "hnrlbls": [
         "3"
@@ -55,18 +60,6 @@
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
-      "street": "Breidelstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "3A"
-      ], 
-      "housenumber": "3A", 
-      "lat": 51.232036873755, 
-      "lon": 2.918834768564, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Breidelstraat"
     }, 
     {
@@ -108,7 +101,8 @@
     {
       "busnrs": [
         "1", 
-        "2"
+        "2", 
+        "301"
       ], 
       "hnrlbls": [
         "8"

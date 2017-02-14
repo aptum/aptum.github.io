@@ -25,8 +25,11 @@
       "street": "Kattestraat"
     }, 
     {
+      "busnrs": [
+        "2"
+      ], 
       "hnrlbls": [
-        "12-12B"
+        "12"
       ], 
       "housenumber": "12", 
       "lat": 50.771188482475, 
@@ -34,21 +37,6 @@
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
       "source": "afgeleidVanGebouw", 
-      "street": "Kattestraat"
-    }, 
-    {
-      "busnrs": [
-        "2"
-      ], 
-      "hnrlbls": [
-        "12-12B"
-      ], 
-      "housenumber": "12B", 
-      "lat": 50.771188482475, 
-      "lon": 3.878961829818, 
-      "municipality": "Geraardsbergen", 
-      "pcode": "9500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Kattestraat"
     }, 
     {
@@ -80,7 +68,7 @@
         "1"
       ], 
       "hnrlbls": [
-        "15-15B"
+        "15"
       ], 
       "housenumber": "15", 
       "lat": 50.769134763972, 
@@ -88,21 +76,6 @@
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
       "source": "afgeleidVanPerceelGrb", 
-      "street": "Kattestraat"
-    }, 
-    {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "15-15B"
-      ], 
-      "housenumber": "15B", 
-      "lat": 50.769134763972, 
-      "lon": 3.877248414468, 
-      "municipality": "Geraardsbergen", 
-      "pcode": "9500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
       "street": "Kattestraat"
     }, 
     {
@@ -142,8 +115,12 @@
       "street": "Kattestraat"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "3"
+      ], 
       "hnrlbls": [
-        "19-19B"
+        "19"
       ], 
       "housenumber": "19", 
       "lat": 50.769076440415, 
@@ -154,41 +131,11 @@
       "street": "Kattestraat"
     }, 
     {
-      "hnrlbls": [
-        "19-19B"
-      ], 
-      "housenumber": "19A", 
-      "lat": 50.769076440415, 
-      "lon": 3.8771032907, 
-      "municipality": "Geraardsbergen", 
-      "pcode": "9500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Kattestraat"
-    }, 
-    {
       "busnrs": [
-        "1", 
-        "2", 
-        "3"
+        "AB01"
       ], 
       "hnrlbls": [
-        "19-19B"
-      ], 
-      "housenumber": "19B", 
-      "lat": 50.769076440415, 
-      "lon": 3.8771032907, 
-      "municipality": "Geraardsbergen", 
-      "pcode": "9500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Kattestraat"
-    }, 
-    {
-      "busnrs": [
-        "AB02", 
-        "AB03"
-      ], 
-      "hnrlbls": [
-        "2-2A"
+        "2"
       ], 
       "housenumber": "2", 
       "lat": 50.771399325982, 
@@ -223,18 +170,6 @@
       "street": "Kattestraat"
     }, 
     {
-      "hnrlbls": [
-        "22-22B"
-      ], 
-      "housenumber": "22", 
-      "lat": 50.770842970894, 
-      "lon": 3.878739441252, 
-      "municipality": "Geraardsbergen", 
-      "pcode": "9500", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Kattestraat"
-    }, 
-    {
       "busnrs": [
         "1", 
         "2", 
@@ -243,14 +178,14 @@
         "5"
       ], 
       "hnrlbls": [
-        "22-22B"
+        "22"
       ], 
-      "housenumber": "22B", 
+      "housenumber": "22", 
       "lat": 50.770842970894, 
       "lon": 3.878739441252, 
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Kattestraat"
     }, 
     {
@@ -326,15 +261,19 @@
       "street": "Kattestraat"
     }, 
     {
+      "busnrs": [
+        "2", 
+        "3"
+      ], 
       "hnrlbls": [
-        "2-2A"
+        "2A-20"
       ], 
       "housenumber": "2A", 
-      "lat": 50.771399325982, 
-      "lon": 3.87899068708, 
+      "lat": 50.771514869108, 
+      "lon": 3.878931644861, 
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Kattestraat"
     }, 
     {
@@ -342,11 +281,11 @@
         "3"
       ], 
       "housenumber": "3", 
-      "lat": 50.770153439756, 
-      "lon": 3.877964060989, 
+      "lat": 50.770921511985, 
+      "lon": 3.877872423053, 
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Kattestraat"
     }, 
     {
@@ -362,8 +301,13 @@
       "street": "Kattestraat"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3"
+      ], 
       "hnrlbls": [
-        "34-34B"
+        "34"
       ], 
       "housenumber": "34", 
       "lat": 50.770526973016, 
@@ -371,23 +315,6 @@
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
       "source": "afgeleidVanGebouw", 
-      "street": "Kattestraat"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3"
-      ], 
-      "hnrlbls": [
-        "34-34B"
-      ], 
-      "housenumber": "34B", 
-      "lat": 50.770526973016, 
-      "lon": 3.87860960629, 
-      "municipality": "Geraardsbergen", 
-      "pcode": "9500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Kattestraat"
     }, 
     {
@@ -440,7 +367,7 @@
     }, 
     {
       "hnrlbls": [
-        "42"
+        "42-44"
       ], 
       "housenumber": "42", 
       "lat": 50.770346489974, 
@@ -452,14 +379,14 @@
     }, 
     {
       "hnrlbls": [
-        "44"
+        "42-44"
       ], 
       "housenumber": "44", 
-      "lat": 50.770318102505, 
-      "lon": 3.878407634355, 
+      "lat": 50.770346489974, 
+      "lon": 3.878424209316, 
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Kattestraat"
     }, 
     {
@@ -547,6 +474,9 @@
       "street": "Kattestraat"
     }, 
     {
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "58"
       ], 
@@ -556,21 +486,6 @@
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
       "source": "afgeleidVanGebouw", 
-      "street": "Kattestraat"
-    }, 
-    {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "58B"
-      ], 
-      "housenumber": "58B", 
-      "lat": 50.769750710302, 
-      "lon": 3.877775028025, 
-      "municipality": "Geraardsbergen", 
-      "pcode": "9500", 
-      "source": "geinterpoleerdObvWegverbinding", 
       "street": "Kattestraat"
     }, 
     {
@@ -599,7 +514,9 @@
     }, 
     {
       "busnrs": [
-        "2"
+        "1", 
+        "2", 
+        "3"
       ], 
       "hnrlbls": [
         "62"
@@ -610,21 +527,6 @@
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
       "source": "afgeleidVanGebouw", 
-      "street": "Kattestraat"
-    }, 
-    {
-      "busnrs": [
-        "3"
-      ], 
-      "hnrlbls": [
-        "62B"
-      ], 
-      "housenumber": "62B", 
-      "lat": 50.769868655015, 
-      "lon": 3.878075049985, 
-      "municipality": "Geraardsbergen", 
-      "pcode": "9500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Kattestraat"
     }, 
     {
@@ -653,35 +555,11 @@
     }, 
     {
       "hnrlbls": [
-        "68"
-      ], 
-      "housenumber": "68", 
-      "lat": 50.769209785633, 
-      "lon": 3.877645560556, 
-      "municipality": "Geraardsbergen", 
-      "pcode": "9500", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Kattestraat"
-    }, 
-    {
-      "hnrlbls": [
         "7"
       ], 
       "housenumber": "7", 
       "lat": 50.769316986407, 
       "lon": 3.877333557552, 
-      "municipality": "Geraardsbergen", 
-      "pcode": "9500", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Kattestraat"
-    }, 
-    {
-      "hnrlbls": [
-        "70-72"
-      ], 
-      "housenumber": "70", 
-      "lat": 50.769162906859, 
-      "lon": 3.877592746068, 
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
       "source": "afgeleidVanGebouw", 
@@ -698,21 +576,9 @@
         "7"
       ], 
       "hnrlbls": [
-        "70-72"
+        "70"
       ], 
-      "housenumber": "70B", 
-      "lat": 50.769162906859, 
-      "lon": 3.877592746068, 
-      "municipality": "Geraardsbergen", 
-      "pcode": "9500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Kattestraat"
-    }, 
-    {
-      "hnrlbls": [
-        "70-72"
-      ], 
-      "housenumber": "72", 
+      "housenumber": "70", 
       "lat": 50.769162906859, 
       "lon": 3.877592746068, 
       "municipality": "Geraardsbergen", 
@@ -733,18 +599,6 @@
       "street": "Kattestraat"
     }, 
     {
-      "hnrlbls": [
-        "76-82"
-      ], 
-      "housenumber": "76", 
-      "lat": 50.768644254871, 
-      "lon": 3.877350775478, 
-      "municipality": "Geraardsbergen", 
-      "pcode": "9500", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Kattestraat"
-    }, 
-    {
       "busnrs": [
         "1", 
         "10", 
@@ -758,23 +612,11 @@
         "9"
       ], 
       "hnrlbls": [
-        "76B-82B"
-      ], 
-      "housenumber": "76B", 
-      "lat": 50.768646074159, 
-      "lon": 3.877355859917, 
-      "municipality": "Geraardsbergen", 
-      "pcode": "9500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Kattestraat"
-    }, 
-    {
-      "hnrlbls": [
         "76-82"
       ], 
-      "housenumber": "78", 
-      "lat": 50.768644254871, 
-      "lon": 3.877350775478, 
+      "housenumber": "76", 
+      "lat": 50.768646074159, 
+      "lon": 3.877355859917, 
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
       "source": "afgeleidVanGebouw", 
@@ -799,14 +641,14 @@
         "9"
       ], 
       "hnrlbls": [
-        "76B-82B"
+        "76-82"
       ], 
-      "housenumber": "78B", 
+      "housenumber": "78", 
       "lat": 50.768646074159, 
       "lon": 3.877355859917, 
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Kattestraat"
     }, 
     {
@@ -822,18 +664,6 @@
       "street": "Kattestraat"
     }, 
     {
-      "hnrlbls": [
-        "76-82"
-      ], 
-      "housenumber": "80", 
-      "lat": 50.768644254871, 
-      "lon": 3.877350775478, 
-      "municipality": "Geraardsbergen", 
-      "pcode": "9500", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Kattestraat"
-    }, 
-    {
       "busnrs": [
         "1", 
         "10", 
@@ -852,23 +682,11 @@
         "9"
       ], 
       "hnrlbls": [
-        "76B-82B"
-      ], 
-      "housenumber": "80B", 
-      "lat": 50.768646074159, 
-      "lon": 3.877355859917, 
-      "municipality": "Geraardsbergen", 
-      "pcode": "9500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Kattestraat"
-    }, 
-    {
-      "hnrlbls": [
         "76-82"
       ], 
-      "housenumber": "82", 
-      "lat": 50.768644254871, 
-      "lon": 3.877350775478, 
+      "housenumber": "80", 
+      "lat": 50.768646074159, 
+      "lon": 3.877355859917, 
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
       "source": "afgeleidVanGebouw", 
@@ -888,14 +706,14 @@
         "9"
       ], 
       "hnrlbls": [
-        "76B-82B"
+        "76-82"
       ], 
-      "housenumber": "82B", 
+      "housenumber": "82", 
       "lat": 50.768646074159, 
       "lon": 3.877355859917, 
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Kattestraat"
     }, 
     {

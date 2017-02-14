@@ -41,11 +41,11 @@
         "13"
       ], 
       "housenumber": "13", 
-      "lat": 51.231087051793, 
-      "lon": 2.942544642297, 
+      "lat": 51.231097423971, 
+      "lon": 2.942480318928, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Werktuigkundigenstraat"
     }, 
     {
@@ -62,14 +62,14 @@
     }, 
     {
       "hnrlbls": [
-        "16A"
+        "16"
       ], 
-      "housenumber": "16A", 
-      "lat": 51.231370618279, 
-      "lon": 2.942240709481, 
+      "housenumber": "16", 
+      "lat": 51.231247929201, 
+      "lon": 2.942242744143, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Werktuigkundigenstraat"
     }, 
     {
@@ -86,17 +86,21 @@
     }, 
     {
       "busnrs": [
-        "4"
+        "0001", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202"
       ], 
       "hnrlbls": [
         "18"
       ], 
       "housenumber": "18", 
-      "lat": 51.231574445852, 
-      "lon": 2.942294901546, 
+      "lat": 51.231518442341, 
+      "lon": 2.942347447686, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Werktuigkundigenstraat"
     }, 
     {
@@ -104,8 +108,8 @@
         "19"
       ], 
       "housenumber": "19", 
-      "lat": 51.231682899811, 
-      "lon": 2.942663168191, 
+      "lat": 51.231683445766, 
+      "lon": 2.942671170265, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -144,8 +148,8 @@
         "21"
       ], 
       "housenumber": "21", 
-      "lat": 51.231736218211, 
-      "lon": 2.942678720789, 
+      "lat": 51.231732597057, 
+      "lon": 2.94270646767, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -156,8 +160,8 @@
         "22"
       ], 
       "housenumber": "22", 
-      "lat": 51.231720516565, 
-      "lon": 2.94235315178, 
+      "lat": 51.231722493765, 
+      "lon": 2.942345645296, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -168,11 +172,11 @@
         "23"
       ], 
       "housenumber": "23", 
-      "lat": 51.231810347629, 
-      "lon": 2.942697932808, 
+      "lat": 51.231787494713, 
+      "lon": 2.94265166446, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Werktuigkundigenstraat"
     }, 
     {
@@ -214,6 +218,7 @@
     {
       "busnrs": [
         "1", 
+        "102", 
         "2", 
         "3", 
         "4"
@@ -222,11 +227,11 @@
         "33"
       ], 
       "housenumber": "33", 
-      "lat": 51.232274030872, 
-      "lon": 2.942882650003, 
+      "lat": 51.232322104047, 
+      "lon": 2.942821038521, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Werktuigkundigenstraat"
     }, 
     {
@@ -236,18 +241,6 @@
       "housenumber": "34", 
       "lat": 51.232177839623, 
       "lon": 2.942494958378, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Werktuigkundigenstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "35"
-      ], 
-      "housenumber": "35", 
-      "lat": 51.232321761673, 
-      "lon": 2.942829927035, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -267,7 +260,7 @@
     }, 
     {
       "hnrlbls": [
-        "37-37A"
+        "37"
       ], 
       "housenumber": "37", 
       "lat": 51.232391351072, 
@@ -278,20 +271,9 @@
       "street": "Werktuigkundigenstraat"
     }, 
     {
-      "hnrlbls": [
-        "37-37A"
-      ], 
-      "housenumber": "37A", 
-      "lat": 51.232391351072, 
-      "lon": 2.942927462538, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Werktuigkundigenstraat"
-    }, 
-    {
       "busnrs": [
         "1", 
+        "201", 
         "3", 
         "4"
       ], 
@@ -444,7 +426,9 @@
     }, 
     {
       "busnrs": [
+        "01B", 
         "101", 
+        "102", 
         "201", 
         "202"
       ], 
@@ -457,21 +441,6 @@
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
-      "street": "Werktuigkundigenstraat"
-    }, 
-    {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "1A-346A"
-      ], 
-      "housenumber": "56B", 
-      "lat": 51.210194941414, 
-      "lon": 2.924232651409, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "manueleAanduidingVanPerceel", 
       "street": "Werktuigkundigenstraat"
     }, 
     {
@@ -508,6 +477,18 @@
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
+      "street": "Werktuigkundigenstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "9"
+      ], 
+      "housenumber": "9", 
+      "lat": 51.230990594214, 
+      "lon": 2.942410845574, 
+      "municipality": "Oostende", 
+      "pcode": "8400", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Werktuigkundigenstraat"
     }
   ]

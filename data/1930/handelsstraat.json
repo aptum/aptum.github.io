@@ -118,6 +118,9 @@
         "1.0", 
         "2.0"
       ], 
+      "busnrs": [
+        "2"
+      ], 
       "hnrlbls": [
         "22"
       ], 
@@ -479,8 +482,8 @@
         "5"
       ], 
       "housenumber": "5", 
-      "lat": 50.88698418301, 
-      "lon": 4.472619017898, 
+      "lat": 50.887000907219, 
+      "lon": 4.472614649553, 
       "municipality": "Zaventem", 
       "pcode": "1930", 
       "source": "afgeleidVanGebouw", 
@@ -590,15 +593,11 @@
     }, 
     {
       "apptnrs": [
-        "0.0", 
-        "1.0"
-      ], 
-      "busnrs": [
-        "1", 
-        "2"
+        "001", 
+        "011"
       ], 
       "hnrlbls": [
-        "60"
+        "60-60X"
       ], 
       "housenumber": "60", 
       "lat": 50.887171901465, 
@@ -606,6 +605,21 @@
       "municipality": "Zaventem", 
       "pcode": "1930", 
       "source": "afgeleidVanGebouw", 
+      "street": "Handelsstraat"
+    }, 
+    {
+      "busnrs": [
+        "21"
+      ], 
+      "hnrlbls": [
+        "60-60X"
+      ], 
+      "housenumber": "60X", 
+      "lat": 50.887171901465, 
+      "lon": 4.475484775529, 
+      "municipality": "Zaventem", 
+      "pcode": "1930", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Handelsstraat"
     }, 
     {

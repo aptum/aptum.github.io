@@ -65,8 +65,8 @@
         "11"
       ], 
       "housenumber": "11", 
-      "lat": 50.909957649537, 
-      "lon": 3.652571835875, 
+      "lat": 50.909957649698, 
+      "lon": 3.652571769163, 
       "municipality": "Gavere", 
       "pcode": "9890", 
       "source": "afgeleidVanGebouw", 
@@ -188,21 +188,24 @@
       "street": "Steenweg"
     }, 
     {
+      "apptnrs": [
+        "0001", 
+        "0002"
+      ], 
       "busnrs": [
-        "1", 
         "1002", 
-        "2", 
+        "2001", 
         "2002"
       ], 
       "hnrlbls": [
         "121"
       ], 
       "housenumber": "121", 
-      "lat": 50.916729944082, 
-      "lon": 3.65136923479, 
+      "lat": 50.916647085396, 
+      "lon": 3.651373628666, 
       "municipality": "Gavere", 
       "pcode": "9890", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Steenweg"
     }, 
     {
@@ -342,8 +345,8 @@
         "149"
       ], 
       "housenumber": "149", 
-      "lat": 50.920584584851, 
-      "lon": 3.6502826637, 
+      "lat": 50.920580948063, 
+      "lon": 3.650290683839, 
       "municipality": "Gavere", 
       "pcode": "9890", 
       "source": "afgeleidVanGebouw", 
@@ -366,8 +369,8 @@
         "153"
       ], 
       "housenumber": "153", 
-      "lat": 50.920922702253, 
-      "lon": 3.650196566694, 
+      "lat": 50.920947103887, 
+      "lon": 3.650203020228, 
       "municipality": "Gavere", 
       "pcode": "9890", 
       "source": "afgeleidVanGebouw", 
@@ -390,8 +393,8 @@
         "16"
       ], 
       "housenumber": "16", 
-      "lat": 50.91010883778, 
-      "lon": 3.652081747041, 
+      "lat": 50.910140129558, 
+      "lon": 3.652127197739, 
       "municipality": "Gavere", 
       "pcode": "9890", 
       "source": "afgeleidVanGebouw", 
@@ -570,8 +573,8 @@
         "33"
       ], 
       "housenumber": "33", 
-      "lat": 50.911718741079, 
-      "lon": 3.65255644387, 
+      "lat": 50.911717122205, 
+      "lon": 3.652556326349, 
       "municipality": "Gavere", 
       "pcode": "9890", 
       "source": "afgeleidVanPerceelGrb", 
@@ -582,8 +585,8 @@
         "36"
       ], 
       "housenumber": "36", 
-      "lat": 50.911785883614, 
-      "lon": 3.651935157813, 
+      "lat": 50.911785884481, 
+      "lon": 3.651935299997, 
       "municipality": "Gavere", 
       "pcode": "9890", 
       "source": "afgeleidVanGebouw", 
@@ -594,8 +597,8 @@
         "37"
       ], 
       "housenumber": "37", 
-      "lat": 50.912446491667, 
-      "lon": 3.652756579499, 
+      "lat": 50.912446512276, 
+      "lon": 3.652756515763, 
       "municipality": "Gavere", 
       "pcode": "9890", 
       "source": "afgeleidVanGebouw", 
@@ -630,8 +633,8 @@
         "40"
       ], 
       "housenumber": "40", 
-      "lat": 50.912296807195, 
-      "lon": 3.652117908942, 
+      "lat": 50.91229617537, 
+      "lon": 3.652117491983, 
       "municipality": "Gavere", 
       "pcode": "9890", 
       "source": "afgeleidVanGebouw", 
@@ -698,8 +701,17 @@
       "street": "Steenweg"
     }, 
     {
+      "busnrs": [
+        "A", 
+        "B", 
+        "C", 
+        "D", 
+        "E", 
+        "F", 
+        "G"
+      ], 
       "hnrlbls": [
-        "47-47D"
+        "47"
       ], 
       "housenumber": "47", 
       "lat": 50.913404986084, 
@@ -711,11 +723,35 @@
     }, 
     {
       "hnrlbls": [
-        "47-47D"
+        "47B-47F"
       ], 
-      "housenumber": "47D", 
-      "lat": 50.913404986084, 
-      "lon": 3.652060763233, 
+      "housenumber": "47B", 
+      "lat": 50.913405078574, 
+      "lon": 3.652061188428, 
+      "municipality": "Gavere", 
+      "pcode": "9890", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "street": "Steenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "47B-47F"
+      ], 
+      "housenumber": "47C", 
+      "lat": 50.913405078574, 
+      "lon": 3.652061188428, 
+      "municipality": "Gavere", 
+      "pcode": "9890", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "street": "Steenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "47B-47F"
+      ], 
+      "housenumber": "47F", 
+      "lat": 50.913405078574, 
+      "lon": 3.652061188428, 
       "municipality": "Gavere", 
       "pcode": "9890", 
       "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
@@ -782,8 +818,8 @@
         "51"
       ], 
       "housenumber": "51", 
-      "lat": 50.913707155578, 
-      "lon": 3.65182856813, 
+      "lat": 50.913707154832, 
+      "lon": 3.651828629708, 
       "municipality": "Gavere", 
       "pcode": "9890", 
       "source": "afgeleidVanGebouw", 
@@ -836,8 +872,8 @@
         "57"
       ], 
       "housenumber": "57", 
-      "lat": 50.913851164662, 
-      "lon": 3.651753484098, 
+      "lat": 50.913851161945, 
+      "lon": 3.651753482122, 
       "municipality": "Gavere", 
       "pcode": "9890", 
       "source": "afgeleidVanGebouw", 
@@ -848,8 +884,8 @@
         "58"
       ], 
       "housenumber": "58", 
-      "lat": 50.913292785826, 
-      "lon": 3.651484596211, 
+      "lat": 50.913292785839, 
+      "lon": 3.651484568162, 
       "municipality": "Gavere", 
       "pcode": "9890", 
       "source": "afgeleidVanGebouw", 
@@ -1044,8 +1080,8 @@
         "73"
       ], 
       "housenumber": "73", 
-      "lat": 50.914650405486, 
-      "lon": 3.651785335624, 
+      "lat": 50.914650365947, 
+      "lon": 3.65178536936, 
       "municipality": "Gavere", 
       "pcode": "9890", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1056,8 +1092,8 @@
         "73A"
       ], 
       "housenumber": "73A", 
-      "lat": 50.914711757972, 
-      "lon": 3.651939688325, 
+      "lat": 50.91471171831, 
+      "lon": 3.651939721753, 
       "municipality": "Gavere", 
       "pcode": "9890", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1097,8 +1133,8 @@
         "76"
       ], 
       "housenumber": "76", 
-      "lat": 50.914355063303, 
-      "lon": 3.651065200838, 
+      "lat": 50.914419968199, 
+      "lon": 3.651330132443, 
       "municipality": "Gavere", 
       "pcode": "9890", 
       "source": "afgeleidVanGebouw", 
@@ -1201,12 +1237,34 @@
       "street": "Steenweg"
     }, 
     {
-      "hnrlbls": [
-        "1-87"
+      "apptnrs": [
+        "B001", 
+        "B002", 
+        "B003", 
+        "B004", 
+        "B005", 
+        "C001", 
+        "C002", 
+        "C003", 
+        "C004", 
+        "C005", 
+        "D001", 
+        "D002", 
+        "D003", 
+        "D004", 
+        "D005", 
+        "E001", 
+        "E002", 
+        "E003", 
+        "E004", 
+        "E005"
       ], 
-      "housenumber": "87", 
-      "lat": 50.915297951699, 
-      "lon": 3.651337345711, 
+      "hnrlbls": [
+        "88"
+      ], 
+      "housenumber": "88", 
+      "lat": 50.916659775141, 
+      "lon": 3.650860477559, 
       "municipality": "Gavere", 
       "pcode": "9890", 
       "source": "afgeleidVanGebouw", 

@@ -26,14 +26,14 @@
     }, 
     {
       "hnrlbls": [
-        "12-14"
+        "12"
       ], 
       "housenumber": "12", 
-      "lat": 51.211592860007, 
-      "lon": 4.403602696638, 
+      "lat": 51.211651523739, 
+      "lon": 4.403704488597, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Kapucinessenstraat"
     }, 
     {
@@ -49,15 +49,25 @@
       "street": "Kapucinessenstraat"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6", 
+        "7", 
+        "8"
+      ], 
       "hnrlbls": [
-        "12-14"
+        "14"
       ], 
       "housenumber": "14", 
-      "lat": 51.211592860007, 
-      "lon": 4.403602696638, 
+      "lat": 51.211594891269, 
+      "lon": 4.403722476448, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Kapucinessenstraat"
     }, 
     {
@@ -77,8 +87,8 @@
         "16"
       ], 
       "housenumber": "16", 
-      "lat": 51.211503165487, 
-      "lon": 4.403569714365, 
+      "lat": 51.211516165067, 
+      "lon": 4.403681488499, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
@@ -110,10 +120,10 @@
     }, 
     {
       "busnrs": [
-        "1", 
+        "01", 
+        "02", 
         "11", 
         "12", 
-        "2", 
         "21", 
         "22", 
         "31", 
@@ -136,8 +146,8 @@
         "1A"
       ], 
       "housenumber": "1A", 
-      "lat": 51.212005586186, 
-      "lon": 4.403869283332, 
+      "lat": 51.212005617632, 
+      "lon": 4.403869330581, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "manueleAanduidingVanGebouw", 
@@ -164,9 +174,11 @@
       "street": "Kapucinessenstraat"
     }, 
     {
-      "busnrs": [
-        "2", 
-        "3"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301"
       ], 
       "hnrlbls": [
         "20"
@@ -205,12 +217,10 @@
     }, 
     {
       "apptnrs": [
-        "1A"
-      ], 
-      "busnrs": [
-        "1", 
-        "2", 
-        "A"
+        "001", 
+        "101", 
+        "201", 
+        "301"
       ], 
       "hnrlbls": [
         "23"
@@ -224,71 +234,18 @@
       "street": "Kapucinessenstraat"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
-        "23A-23_3"
+        "23A"
       ], 
       "housenumber": "23A", 
-      "lat": 51.211183727312, 
-      "lon": 4.404191267964, 
+      "lat": 51.211183708441, 
+      "lon": 4.404191253639, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "manueleAanduidingVanGebouw", 
       "street": "Kapucinessenstraat"
     }, 
     {
-      "busnrs": [
-        "A"
-      ], 
-      "hnrlbls": [
-        "23A-23_3"
-      ], 
-      "housenumber": "23_1", 
-      "lat": 51.211183727312, 
-      "lon": 4.404191267964, 
-      "municipality": "Antwerpen", 
-      "pcode": "2000", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Kapucinessenstraat"
-    }, 
-    {
-      "busnrs": [
-        "A"
-      ], 
-      "hnrlbls": [
-        "23A-23_3"
-      ], 
-      "housenumber": "23_2", 
-      "lat": 51.211183727312, 
-      "lon": 4.404191267964, 
-      "municipality": "Antwerpen", 
-      "pcode": "2000", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Kapucinessenstraat"
-    }, 
-    {
-      "busnrs": [
-        "B"
-      ], 
-      "hnrlbls": [
-        "23A-23_3"
-      ], 
-      "housenumber": "23_3", 
-      "lat": 51.211183727312, 
-      "lon": 4.404191267964, 
-      "municipality": "Antwerpen", 
-      "pcode": "2000", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Kapucinessenstraat"
-    }, 
-    {
-      "busnrs": [
-        "2", 
-        "3", 
-        "4"
-      ], 
       "hnrlbls": [
         "24"
       ], 
@@ -349,12 +306,6 @@
       "street": "Kapucinessenstraat"
     }, 
     {
-      "busnrs": [
-        "10", 
-        "5", 
-        "6", 
-        "9"
-      ], 
       "hnrlbls": [
         "29"
       ], 
@@ -391,6 +342,16 @@
       "street": "Kapucinessenstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "002", 
+        "101", 
+        "102", 
+        "201", 
+        "202", 
+        "301", 
+        "302"
+      ], 
       "hnrlbls": [
         "31"
       ], 
@@ -403,9 +364,6 @@
       "street": "Kapucinessenstraat"
     }, 
     {
-      "busnrs": [
-        "4"
-      ], 
       "hnrlbls": [
         "32"
       ], 
@@ -478,18 +436,18 @@
       "street": "Kapucinessenstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6", 
-        "7", 
-        "8"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "202", 
+        "301", 
+        "302", 
+        "401", 
+        "402"
       ], 
       "hnrlbls": [
-        "37-39"
+        "37"
       ], 
       "housenumber": "37", 
       "lat": 51.210635377919, 
@@ -500,39 +458,6 @@
       "street": "Kapucinessenstraat"
     }, 
     {
-      "busnrs": [
-        "2"
-      ], 
-      "hnrlbls": [
-        "37R-37_4"
-      ], 
-      "housenumber": "37R", 
-      "lat": 51.210635503641, 
-      "lon": 4.40431169802, 
-      "municipality": "Antwerpen", 
-      "pcode": "2000", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Kapucinessenstraat"
-    }, 
-    {
-      "busnrs": [
-        "L"
-      ], 
-      "hnrlbls": [
-        "37R-37_4"
-      ], 
-      "housenumber": "37_4", 
-      "lat": 51.210635503641, 
-      "lon": 4.40431169802, 
-      "municipality": "Antwerpen", 
-      "pcode": "2000", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Kapucinessenstraat"
-    }, 
-    {
-      "busnrs": [
-        "2"
-      ], 
       "hnrlbls": [
         "38"
       ], 
@@ -546,26 +471,11 @@
     }, 
     {
       "hnrlbls": [
-        "37-39"
-      ], 
-      "housenumber": "39", 
-      "lat": 51.210635377919, 
-      "lon": 4.404311320135, 
-      "municipality": "Antwerpen", 
-      "pcode": "2000", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Kapucinessenstraat"
-    }, 
-    {
-      "busnrs": [
-        "2"
-      ], 
-      "hnrlbls": [
         "4"
       ], 
       "housenumber": "4", 
-      "lat": 51.21191475853, 
-      "lon": 4.403633057034, 
+      "lat": 51.21191472619, 
+      "lon": 4.403632994043, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "manueleAanduidingVanGebouw", 
@@ -608,9 +518,6 @@
       "street": "Kapucinessenstraat"
     }, 
     {
-      "busnrs": [
-        "3"
-      ], 
       "hnrlbls": [
         "43"
       ], 
@@ -728,9 +635,6 @@
       "street": "Kapucinessenstraat"
     }, 
     {
-      "busnrs": [
-        "4"
-      ], 
       "hnrlbls": [
         "48-50"
       ], 
@@ -816,8 +720,8 @@
         "56A"
       ], 
       "housenumber": "56A", 
-      "lat": 51.209920125269, 
-      "lon": 4.404148662924, 
+      "lat": 51.209920128874, 
+      "lon": 4.404148632876, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "manueleAanduidingVanGebouw", 
@@ -902,9 +806,6 @@
       "street": "Kapucinessenstraat"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
         "8"
       ], 

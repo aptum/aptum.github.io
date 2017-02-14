@@ -2,21 +2,22 @@
   "addresses": [
     {
       "busnrs": [
-        "1", 
-        "102", 
-        "2", 
-        "3", 
-        "4"
+        "0001", 
+        "0101", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0401"
       ], 
       "hnrlbls": [
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 51.212942035502, 
-      "lon": 2.883542226919, 
+      "lat": 51.212942847892, 
+      "lon": 2.883542487329, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Derbylaan"
     }, 
     {
@@ -35,6 +36,7 @@
         "4", 
         "401", 
         "402", 
+        "403", 
         "A", 
         "C"
       ], 
@@ -47,18 +49,6 @@
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
-      "street": "Derbylaan"
-    }, 
-    {
-      "hnrlbls": [
-        "10B"
-      ], 
-      "housenumber": "10B", 
-      "lat": 51.21273805232, 
-      "lon": 2.884523622639, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Derbylaan"
     }, 
     {
@@ -205,18 +195,6 @@
     }, 
     {
       "hnrlbls": [
-        "76"
-      ], 
-      "housenumber": "76", 
-      "lat": 51.212256282561, 
-      "lon": 2.884582176642, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "afgeleidVanStraat", 
-      "street": "Derbylaan"
-    }, 
-    {
-      "hnrlbls": [
         "7B"
       ], 
       "housenumber": "7B", 
@@ -229,7 +207,9 @@
     }, 
     {
       "busnrs": [
-        "101"
+        "1", 
+        "101", 
+        "102"
       ], 
       "hnrlbls": [
         "7C"
@@ -247,6 +227,7 @@
         "1", 
         "2", 
         "3", 
+        "301", 
         "4", 
         "5", 
         "6"

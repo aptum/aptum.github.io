@@ -1,6 +1,13 @@
 {
   "addresses": [
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301", 
+        "401"
+      ], 
       "hnrlbls": [
         "12"
       ], 
@@ -14,7 +21,7 @@
     }, 
     {
       "hnrlbls": [
-        "5B-17"
+        "13-17"
       ], 
       "housenumber": "13", 
       "lat": 51.227366579443, 
@@ -37,16 +44,8 @@
       "street": "Brouwersvliet"
     }, 
     {
-      "apptnrs": [
-        "3.0"
-      ], 
-      "busnrs": [
-        "3", 
-        "7", 
-        "8"
-      ], 
       "hnrlbls": [
-        "5B-17"
+        "13-17"
       ], 
       "housenumber": "15", 
       "lat": 51.227366579443, 
@@ -70,7 +69,7 @@
     }, 
     {
       "hnrlbls": [
-        "5B-17"
+        "13-17"
       ], 
       "housenumber": "17", 
       "lat": 51.227366579443, 
@@ -81,9 +80,6 @@
       "street": "Brouwersvliet"
     }, 
     {
-      "busnrs": [
-        "3"
-      ], 
       "hnrlbls": [
         "18"
       ], 
@@ -136,9 +132,6 @@
       "street": "Brouwersvliet"
     }, 
     {
-      "busnrs": [
-        "4"
-      ], 
       "hnrlbls": [
         "19-21"
       ], 
@@ -174,33 +167,37 @@
         "8"
       ], 
       "hnrlbls": [
-        "23-23C"
+        "23"
       ], 
       "housenumber": "23", 
-      "lat": 51.227260807042, 
-      "lon": 4.402814032168, 
+      "lat": 51.227260851097, 
+      "lon": 4.402813990687, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "manueleAanduidingVanGebouw", 
       "street": "Brouwersvliet"
     }, 
     {
-      "hnrlbls": [
-        "23-23C"
+      "apptnrs": [
+        "101", 
+        "301"
       ], 
-      "housenumber": "23C", 
-      "lat": 51.227260807042, 
-      "lon": 4.402814032168, 
-      "municipality": "Antwerpen", 
-      "pcode": "2000", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Brouwersvliet"
-    }, 
-    {
       "hnrlbls": [
-        "24"
+        "24-24A"
       ], 
       "housenumber": "24", 
+      "lat": 51.2267527996, 
+      "lon": 4.403815953729, 
+      "municipality": "Antwerpen", 
+      "pcode": "2000", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Brouwersvliet"
+    }, 
+    {
+      "hnrlbls": [
+        "24-24A"
+      ], 
+      "housenumber": "24A", 
       "lat": 51.2267527996, 
       "lon": 4.403815953729, 
       "municipality": "Antwerpen", 
@@ -298,12 +295,6 @@
       "street": "Brouwersvliet"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "6", 
-        "7", 
-        "8"
-      ], 
       "hnrlbls": [
         "33-35"
       ], 
@@ -346,12 +337,6 @@
       "street": "Brouwersvliet"
     }, 
     {
-      "busnrs": [
-        "38", 
-        "4", 
-        "5", 
-        "6"
-      ], 
       "hnrlbls": [
         "36-38"
       ], 
@@ -361,30 +346,6 @@
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
-      "street": "Brouwersvliet"
-    }, 
-    {
-      "hnrlbls": [
-        "36a-36_6"
-      ], 
-      "housenumber": "36_6", 
-      "lat": 51.226747491752, 
-      "lon": 4.404450153363, 
-      "municipality": "Antwerpen", 
-      "pcode": "2000", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Brouwersvliet"
-    }, 
-    {
-      "hnrlbls": [
-        "36a-36_6"
-      ], 
-      "housenumber": "36a", 
-      "lat": 51.226747491752, 
-      "lon": 4.404450153363, 
-      "municipality": "Antwerpen", 
-      "pcode": "2000", 
-      "source": "manueleAanduidingVanGebouw", 
       "street": "Brouwersvliet"
     }, 
     {
@@ -412,10 +373,6 @@
       "street": "Brouwersvliet"
     }, 
     {
-      "busnrs": [
-        "11", 
-        "8"
-      ], 
       "hnrlbls": [
         "36-38"
       ], 
@@ -425,21 +382,6 @@
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
-      "street": "Brouwersvliet"
-    }, 
-    {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "38D"
-      ], 
-      "housenumber": "38D", 
-      "lat": 51.226744490741, 
-      "lon": 4.404548664509, 
-      "municipality": "Antwerpen", 
-      "pcode": "2000", 
-      "source": "manueleAanduidingVanGebouw", 
       "street": "Brouwersvliet"
     }, 
     {
@@ -501,10 +443,6 @@
       "street": "Brouwersvliet"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "4"
-      ], 
       "hnrlbls": [
         "44"
       ], 
@@ -517,27 +455,12 @@
       "street": "Brouwersvliet"
     }, 
     {
-      "busnrs": [
-        "4"
-      ], 
       "hnrlbls": [
         "5"
       ], 
       "housenumber": "5", 
       "lat": 51.227362302684, 
       "lon": 4.401978484281, 
-      "municipality": "Antwerpen", 
-      "pcode": "2000", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Brouwersvliet"
-    }, 
-    {
-      "hnrlbls": [
-        "5B-17"
-      ], 
-      "housenumber": "5B", 
-      "lat": 51.227366579443, 
-      "lon": 4.40242025652, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 

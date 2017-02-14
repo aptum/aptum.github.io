@@ -211,6 +211,11 @@
       "street": "Esplanadeplein"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "11", 
+        "21"
+      ], 
       "hnrlbls": [
         "22"
       ], 
@@ -331,7 +336,7 @@
       "street": "Esplanadeplein"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "10A", 
         "10B", 
         "10C", 
@@ -384,6 +389,21 @@
       "municipality": "Aalst", 
       "pcode": "9300", 
       "source": "manueleAanduidingVanGebouw", 
+      "street": "Esplanadeplein"
+    }, 
+    {
+      "busnrs": [
+        "C"
+      ], 
+      "hnrlbls": [
+        "9_300"
+      ], 
+      "housenumber": "9_300", 
+      "lat": 50.941840973769, 
+      "lon": 4.035699438677, 
+      "municipality": "Aalst", 
+      "pcode": "9300", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Esplanadeplein"
     }
   ]

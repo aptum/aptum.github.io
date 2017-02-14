@@ -198,6 +198,9 @@
       "street": "Stationsstraat"
     }, 
     {
+      "busnrs": [
+        "101"
+      ], 
       "hnrlbls": [
         "115"
       ], 
@@ -671,8 +674,8 @@
         "24"
       ], 
       "housenumber": "24", 
-      "lat": 50.753547876362, 
-      "lon": 5.080867024711, 
+      "lat": 50.75354795331, 
+      "lon": 5.080869151661, 
       "municipality": "Landen", 
       "pcode": "3400", 
       "source": "afgeleidVanGebouw", 
@@ -756,7 +759,8 @@
     }, 
     {
       "busnrs": [
-        "11"
+        "11", 
+        "21"
       ], 
       "hnrlbls": [
         "3"
@@ -789,8 +793,8 @@
         "31"
       ], 
       "housenumber": "31", 
-      "lat": 50.752916449415, 
-      "lon": 5.081066927223, 
+      "lat": 50.752916449484, 
+      "lon": 5.081066927121, 
       "municipality": "Landen", 
       "pcode": "3400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -801,8 +805,8 @@
         "31A"
       ], 
       "housenumber": "31A", 
-      "lat": 50.752927064123, 
-      "lon": 5.081390486361, 
+      "lat": 50.752927064198, 
+      "lon": 5.081390486434, 
       "municipality": "Landen", 
       "pcode": "3400", 
       "source": "manueleAanduidingVanIngangVanGebouw", 
@@ -866,6 +870,9 @@
       "street": "Stationsstraat"
     }, 
     {
+      "busnrs": [
+        "101"
+      ], 
       "hnrlbls": [
         "2-4"
       ], 
@@ -948,6 +955,9 @@
       "street": "Stationsstraat"
     }, 
     {
+      "busnrs": [
+        "11"
+      ], 
       "hnrlbls": [
         "45"
       ], 
@@ -1144,8 +1154,8 @@
         "57"
       ], 
       "housenumber": "57", 
-      "lat": 50.751587710712, 
-      "lon": 5.081007134348, 
+      "lat": 50.751587710063, 
+      "lon": 5.081007134214, 
       "municipality": "Landen", 
       "pcode": "3400", 
       "source": "manueleAanduidingVanIngangVanGebouw", 
@@ -1191,8 +1201,8 @@
         "60"
       ], 
       "housenumber": "60", 
-      "lat": 50.751682302853, 
-      "lon": 5.080664910853, 
+      "lat": 50.751682302835, 
+      "lon": 5.080664910862, 
       "municipality": "Landen", 
       "pcode": "3400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1223,6 +1233,9 @@
       "street": "Stationsstraat"
     }, 
     {
+      "busnrs": [
+        "101"
+      ], 
       "hnrlbls": [
         "63"
       ], 
@@ -1254,8 +1267,8 @@
         "66-68"
       ], 
       "housenumber": "66", 
-      "lat": 50.751406201923, 
-      "lon": 5.080667110944, 
+      "lat": 50.751402034913, 
+      "lon": 5.080672291269, 
       "municipality": "Landen", 
       "pcode": "3400", 
       "source": "afgeleidVanGebouw", 
@@ -1278,8 +1291,8 @@
         "66-68"
       ], 
       "housenumber": "68", 
-      "lat": 50.751406201923, 
-      "lon": 5.080667110944, 
+      "lat": 50.751402034913, 
+      "lon": 5.080672291269, 
       "municipality": "Landen", 
       "pcode": "3400", 
       "source": "afgeleidVanGebouw", 
@@ -1302,11 +1315,11 @@
         "7"
       ], 
       "housenumber": "7", 
-      "lat": 50.754295961686, 
-      "lon": 5.081410509529, 
+      "lat": 50.753093465693, 
+      "lon": 5.080978340522, 
       "municipality": "Landen", 
       "pcode": "3400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "geinterpoleerdObvWegverbinding", 
       "street": "Stationsstraat"
     }, 
     {
@@ -1483,8 +1496,8 @@
         "82"
       ], 
       "housenumber": "82", 
-      "lat": 50.750907742542, 
-      "lon": 5.080541666431, 
+      "lat": 50.750907555855, 
+      "lon": 5.080542797297, 
       "municipality": "Landen", 
       "pcode": "3400", 
       "source": "afgeleidVanGebouw", 
@@ -1588,11 +1601,11 @@
         "9"
       ], 
       "housenumber": "9", 
-      "lat": 50.754195208732, 
-      "lon": 5.081406149183, 
+      "lat": 50.753195472143, 
+      "lon": 5.080998307802, 
       "municipality": "Landen", 
       "pcode": "3400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "geinterpoleerdObvWegverbinding", 
       "street": "Stationsstraat"
     }, 
     {
@@ -1650,8 +1663,8 @@
         "93"
       ], 
       "housenumber": "93", 
-      "lat": 50.750438598418, 
-      "lon": 5.081035089025, 
+      "lat": 50.750438598355, 
+      "lon": 5.081035089022, 
       "municipality": "Landen", 
       "pcode": "3400", 
       "source": "manueleAanduidingVanIngangVanGebouw", 
@@ -1695,10 +1708,10 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "2", 
-        "22", 
-        "3"
+        "0101", 
+        "0201", 
+        "0301", 
+        "22"
       ], 
       "hnrlbls": [
         "98"

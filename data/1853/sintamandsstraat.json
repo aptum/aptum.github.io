@@ -5,8 +5,8 @@
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 50.9097909997, 
-      "lon": 4.357263145993, 
+      "lat": 50.909790999708, 
+      "lon": 4.357263146108, 
       "municipality": "Grimbergen", 
       "pcode": "1853", 
       "source": "manueleAanduidingVanGebouw", 
@@ -123,6 +123,8 @@
       "busnrs": [
         "101", 
         "301", 
+        "AB02", 
+        "Ab01", 
         "Ab03", 
         "Ab04", 
         "Bb01", 
@@ -252,6 +254,7 @@
     }, 
     {
       "busnrs": [
+        "101", 
         "AB02", 
         "Ab01", 
         "Ab03", 
@@ -260,6 +263,7 @@
         "Db01", 
         "Db02", 
         "Db03", 
+        "Db04", 
         "Db05", 
         "Db06"
       ], 
@@ -698,11 +702,23 @@
         "150A"
       ], 
       "housenumber": "150A", 
-      "lat": 50.905393814433, 
-      "lon": 4.360112550859, 
+      "lat": 50.905430940339, 
+      "lon": 4.360110269836, 
       "municipality": "Grimbergen", 
       "pcode": "1853", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Sint-Amandsstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "150B"
+      ], 
+      "housenumber": "150B", 
+      "lat": 50.905404421917, 
+      "lon": 4.360113117746, 
+      "municipality": "Grimbergen", 
+      "pcode": "1853", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Sint-Amandsstraat"
     }, 
     {
@@ -881,6 +897,7 @@
     }, 
     {
       "busnrs": [
+        "101", 
         "B002", 
         "B003"
       ], 
@@ -1043,8 +1060,8 @@
         "188"
       ], 
       "housenumber": "188", 
-      "lat": 50.904583340904, 
-      "lon": 4.360221873437, 
+      "lat": 50.904583430817, 
+      "lon": 4.360222157759, 
       "municipality": "Grimbergen", 
       "pcode": "1853", 
       "source": "afgeleidVanGebouw", 
@@ -1666,7 +1683,7 @@
     }, 
     {
       "hnrlbls": [
-        "36"
+        "36-36B"
       ], 
       "housenumber": "36", 
       "lat": 50.908875385203, 
@@ -1674,6 +1691,21 @@
       "municipality": "Grimbergen", 
       "pcode": "1853", 
       "source": "afgeleidVanGebouw", 
+      "street": "Sint-Amandsstraat"
+    }, 
+    {
+      "busnrs": [
+        "1"
+      ], 
+      "hnrlbls": [
+        "36-36B"
+      ], 
+      "housenumber": "36B", 
+      "lat": 50.908875385203, 
+      "lon": 4.357715635801, 
+      "municipality": "Grimbergen", 
+      "pcode": "1853", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Sint-Amandsstraat"
     }, 
     {
@@ -1739,8 +1771,8 @@
         "43"
       ], 
       "housenumber": "43", 
-      "lat": 50.908600289052, 
-      "lon": 4.358525698625, 
+      "lat": 50.908600289712, 
+      "lon": 4.358525699173, 
       "municipality": "Grimbergen", 
       "pcode": "1853", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1857,8 +1889,8 @@
         "53"
       ], 
       "housenumber": "53", 
-      "lat": 50.908337645343, 
-      "lon": 4.358832576494, 
+      "lat": 50.908353830346, 
+      "lon": 4.358885748568, 
       "municipality": "Grimbergen", 
       "pcode": "1853", 
       "source": "afgeleidVanGebouw", 
@@ -1878,6 +1910,7 @@
     }, 
     {
       "busnrs": [
+        "101", 
         "B001", 
         "B002"
       ], 
@@ -1929,8 +1962,8 @@
         "58"
       ], 
       "housenumber": "58", 
-      "lat": 50.908519724692, 
-      "lon": 4.358284861639, 
+      "lat": 50.908519725309, 
+      "lon": 4.358284862058, 
       "municipality": "Grimbergen", 
       "pcode": "1853", 
       "source": "manueleAanduidingVanGebouw", 
@@ -2100,6 +2133,7 @@
     }, 
     {
       "busnrs": [
+        "1", 
         "B002", 
         "B003"
       ], 
@@ -2123,8 +2157,8 @@
         "69"
       ], 
       "housenumber": "69", 
-      "lat": 50.907958677034, 
-      "lon": 4.359104781575, 
+      "lat": 50.907958675272, 
+      "lon": 4.359104780905, 
       "municipality": "Grimbergen", 
       "pcode": "1853", 
       "source": "manueleAanduidingVanGebouw", 
@@ -2173,6 +2207,7 @@
     }, 
     {
       "busnrs": [
+        "202", 
         "B002", 
         "B003", 
         "B004", 
@@ -2183,8 +2218,8 @@
         "75"
       ], 
       "housenumber": "75", 
-      "lat": 50.907837967267, 
-      "lon": 4.359357739074, 
+      "lat": 50.907824210756, 
+      "lon": 4.359320064395, 
       "municipality": "Grimbergen", 
       "pcode": "1853", 
       "source": "afgeleidVanGebouw", 
@@ -2407,8 +2442,8 @@
         "93"
       ], 
       "housenumber": "93", 
-      "lat": 50.906660431177, 
-      "lon": 4.360352895963, 
+      "lat": 50.906670410511, 
+      "lon": 4.360370381816, 
       "municipality": "Grimbergen", 
       "pcode": "1853", 
       "source": "afgeleidVanGebouw", 

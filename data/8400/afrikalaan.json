@@ -13,6 +13,18 @@
       "street": "Afrikalaan"
     }, 
     {
+      "hnrlbls": [
+        "13"
+      ], 
+      "housenumber": "13", 
+      "lat": 51.232410033033, 
+      "lon": 2.947341576308, 
+      "municipality": "Oostende", 
+      "pcode": "8400", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Afrikalaan"
+    }, 
+    {
       "busnrs": [
         "101"
       ], 
@@ -35,8 +47,8 @@
         "17"
       ], 
       "housenumber": "17", 
-      "lat": 51.232491382279, 
-      "lon": 2.947244181548, 
+      "lat": 51.232491390744, 
+      "lon": 2.947244158448, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -152,6 +164,7 @@
     }, 
     {
       "busnrs": [
+        "1", 
         "105", 
         "5"
       ], 
@@ -180,10 +193,11 @@
     }, 
     {
       "busnrs": [
-        "6"
+        "6", 
+        "D106"
       ], 
       "hnrlbls": [
-        "36-36D"
+        "36"
       ], 
       "housenumber": "36", 
       "lat": 51.233006892199, 
@@ -191,21 +205,6 @@
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
-      "street": "Afrikalaan"
-    }, 
-    {
-      "busnrs": [
-        "106"
-      ], 
-      "hnrlbls": [
-        "36-36D"
-      ], 
-      "housenumber": "36D", 
-      "lat": 51.233006892199, 
-      "lon": 2.946168362769, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Afrikalaan"
     }, 
     {
@@ -305,6 +304,8 @@
     }, 
     {
       "busnrs": [
+        "1", 
+        "101", 
         "104", 
         "4"
       ], 

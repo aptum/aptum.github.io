@@ -33,12 +33,43 @@
       "street": "Dr. H. Folletlaan"
     }, 
     {
+      "busnrs": [
+        "B"
+      ], 
       "hnrlbls": [
-        "11A"
+        "117_2"
+      ], 
+      "housenumber": "117_2", 
+      "lat": 50.907000913661, 
+      "lon": 4.302401861331, 
+      "municipality": "Wemmel", 
+      "pcode": "1780", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
+      "street": "Dr. H. Folletlaan"
+    }, 
+    {
+      "hnrlbls": [
+        "11A-11_2"
       ], 
       "housenumber": "11A", 
-      "lat": 50.908979969796, 
-      "lon": 4.302168474435, 
+      "lat": 50.908866647567, 
+      "lon": 4.302068111222, 
+      "municipality": "Wemmel", 
+      "pcode": "1780", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "street": "Dr. H. Folletlaan"
+    }, 
+    {
+      "busnrs": [
+        "A", 
+        "B"
+      ], 
+      "hnrlbls": [
+        "11A-11_2"
+      ], 
+      "housenumber": "11_2", 
+      "lat": 50.908866647567, 
+      "lon": 4.302068111222, 
       "municipality": "Wemmel", 
       "pcode": "1780", 
       "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
@@ -122,9 +153,12 @@
       "street": "Dr. H. Folletlaan"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2"
+      ], 
+      "busnrs": [
+        "0"
       ], 
       "hnrlbls": [
         "175"
@@ -172,12 +206,17 @@
       "street": "Dr. H. Folletlaan"
     }, 
     {
-      "busnrs": [
-        "2", 
-        "A"
+      "apptnrs": [
+        "0", 
+        "1A", 
+        "1B", 
+        "2A", 
+        "2B", 
+        "3A", 
+        "3B"
       ], 
       "hnrlbls": [
-        "181"
+        "181-181_3"
       ], 
       "housenumber": "181", 
       "lat": 50.904908462419, 
@@ -188,15 +227,30 @@
       "street": "Dr. H. Folletlaan"
     }, 
     {
+      "busnrs": [
+        "B"
+      ], 
+      "hnrlbls": [
+        "181-181_3"
+      ], 
+      "housenumber": "181_3", 
+      "lat": 50.904908462419, 
+      "lon": 4.303215722268, 
+      "municipality": "Wemmel", 
+      "pcode": "1780", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "street": "Dr. H. Folletlaan"
+    }, 
+    {
       "hnrlbls": [
         "183"
       ], 
       "housenumber": "183", 
-      "lat": 50.904787795414, 
-      "lon": 4.303324790453, 
+      "lat": 50.904832368211, 
+      "lon": 4.303298569856, 
       "municipality": "Wemmel", 
       "pcode": "1780", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Dr. H. Folletlaan"
     }, 
     {
@@ -204,11 +258,11 @@
         "185"
       ], 
       "housenumber": "185", 
-      "lat": 50.904748914961, 
-      "lon": 4.303403747841, 
+      "lat": 50.904796712589, 
+      "lon": 4.303356908376, 
       "municipality": "Wemmel", 
       "pcode": "1780", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Dr. H. Folletlaan"
     }, 
     {
@@ -216,11 +270,11 @@
         "187"
       ], 
       "housenumber": "187", 
-      "lat": 50.904684563827, 
-      "lon": 4.303426867806, 
+      "lat": 50.904749186834, 
+      "lon": 4.303407728197, 
       "municipality": "Wemmel", 
       "pcode": "1780", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Dr. H. Folletlaan"
     }, 
     {
@@ -228,11 +282,11 @@
         "189"
       ], 
       "housenumber": "189", 
-      "lat": 50.904565297481, 
-      "lon": 4.303304625, 
+      "lat": 50.904701662151, 
+      "lon": 4.303460538278, 
       "municipality": "Wemmel", 
       "pcode": "1780", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Dr. H. Folletlaan"
     }, 
     {
@@ -240,8 +294,8 @@
         "191"
       ], 
       "housenumber": "191", 
-      "lat": 50.904523202259, 
-      "lon": 4.30325933138, 
+      "lat": 50.904528576491, 
+      "lon": 4.303224208393, 
       "municipality": "Wemmel", 
       "pcode": "1780", 
       "source": "afgeleidVanPerceelGrb", 
@@ -252,8 +306,8 @@
         "193"
       ], 
       "housenumber": "193", 
-      "lat": 50.904488355709, 
-      "lon": 4.303345477541, 
+      "lat": 50.904488371054, 
+      "lon": 4.303345533372, 
       "municipality": "Wemmel", 
       "pcode": "1780", 
       "source": "afgeleidVanGebouw", 
@@ -279,8 +333,8 @@
         "195"
       ], 
       "housenumber": "195", 
-      "lat": 50.904571853382, 
-      "lon": 4.303611133934, 
+      "lat": 50.904571848557, 
+      "lon": 4.303611131098, 
       "municipality": "Wemmel", 
       "pcode": "1780", 
       "source": "afgeleidVanGebouw", 
@@ -300,11 +354,23 @@
     }, 
     {
       "hnrlbls": [
+        "196A"
+      ], 
+      "housenumber": "196A", 
+      "lat": 50.905830889016, 
+      "lon": 4.303429412606, 
+      "municipality": "Wemmel", 
+      "pcode": "1780", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "street": "Dr. H. Folletlaan"
+    }, 
+    {
+      "hnrlbls": [
         "197"
       ], 
       "housenumber": "197", 
-      "lat": 50.904518666012, 
-      "lon": 4.303628690326, 
+      "lat": 50.904518641143, 
+      "lon": 4.303628690837, 
       "municipality": "Wemmel", 
       "pcode": "1780", 
       "source": "afgeleidVanGebouw", 
@@ -315,8 +381,8 @@
         "199"
       ], 
       "housenumber": "199", 
-      "lat": 50.904472937064, 
-      "lon": 4.303675892566, 
+      "lat": 50.90447291119, 
+      "lon": 4.303675953416, 
       "municipality": "Wemmel", 
       "pcode": "1780", 
       "source": "afgeleidVanGebouw", 
@@ -327,8 +393,8 @@
         "200"
       ], 
       "housenumber": "200", 
-      "lat": 50.905178432702, 
-      "lon": 4.303577883559, 
+      "lat": 50.905178611709, 
+      "lon": 4.30357646161, 
       "municipality": "Wemmel", 
       "pcode": "1780", 
       "source": "afgeleidVanPerceelGrb", 
@@ -339,8 +405,8 @@
         "201"
       ], 
       "housenumber": "201", 
-      "lat": 50.904418441383, 
-      "lon": 4.303735796096, 
+      "lat": 50.904418468392, 
+      "lon": 4.303735738624, 
       "municipality": "Wemmel", 
       "pcode": "1780", 
       "source": "afgeleidVanGebouw", 
@@ -551,8 +617,8 @@
         "3"
       ], 
       "housenumber": "3", 
-      "lat": 50.90925007479, 
-      "lon": 4.302123734331, 
+      "lat": 50.909248540853, 
+      "lon": 4.302113499339, 
       "municipality": "Wemmel", 
       "pcode": "1780", 
       "source": "afgeleidVanGebouw", 
@@ -563,8 +629,8 @@
         "5"
       ], 
       "housenumber": "5", 
-      "lat": 50.909192370684, 
-      "lon": 4.302137180531, 
+      "lat": 50.909183818271, 
+      "lon": 4.302114869904, 
       "municipality": "Wemmel", 
       "pcode": "1780", 
       "source": "afgeleidVanGebouw", 

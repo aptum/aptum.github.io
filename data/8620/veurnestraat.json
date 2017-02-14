@@ -110,6 +110,7 @@
         "205", 
         "304", 
         "401", 
+        "405", 
         "504", 
         "601", 
         "602"
@@ -280,6 +281,7 @@
       "busnrs": [
         "101", 
         "201", 
+        "202", 
         "302"
       ], 
       "hnrlbls": [
@@ -346,6 +348,18 @@
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
       "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "street": "Veurnestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "/zn-126"
+      ], 
+      "housenumber": "zn", 
+      "lat": 51.148604739215, 
+      "lon": 2.71921120457, 
+      "municipality": "Nieuwpoort", 
+      "pcode": "8620", 
+      "source": "afgeleidVanStraat", 
       "street": "Veurnestraat"
     }
   ]

@@ -17,11 +17,11 @@
         "100"
       ], 
       "housenumber": "100", 
-      "lat": 50.737500830528, 
-      "lon": 3.917522825045, 
+      "lat": 50.737578696744, 
+      "lon": 3.917502955429, 
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Kouterstraat"
     }, 
     {
@@ -41,11 +41,11 @@
         "102"
       ], 
       "housenumber": "102", 
-      "lat": 50.737342343503, 
-      "lon": 3.917197516074, 
+      "lat": 50.737431165222, 
+      "lon": 3.917594607851, 
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Kouterstraat"
     }, 
     {
@@ -65,11 +65,11 @@
         "106"
       ], 
       "housenumber": "106", 
-      "lat": 50.737549364889, 
-      "lon": 3.917286485351, 
+      "lat": 50.737440755305, 
+      "lon": 3.91695701598, 
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Kouterstraat"
     }, 
     {
@@ -77,8 +77,8 @@
         "107"
       ], 
       "housenumber": "107", 
-      "lat": 50.73765747524, 
-      "lon": 3.916670189701, 
+      "lat": 50.737672520933, 
+      "lon": 3.916655312151, 
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
       "source": "afgeleidVanGebouw", 
@@ -221,8 +221,8 @@
         "122"
       ], 
       "housenumber": "122", 
-      "lat": 50.735977416492, 
-      "lon": 3.914758401618, 
+      "lat": 50.735984423657, 
+      "lon": 3.914803524499, 
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
       "source": "afgeleidVanGebouw", 
@@ -257,11 +257,11 @@
         "135"
       ], 
       "housenumber": "135", 
-      "lat": 50.734741130805, 
-      "lon": 3.911893066161, 
+      "lat": 50.734543380902, 
+      "lon": 3.911877414943, 
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Kouterstraat"
     }, 
     {
@@ -269,8 +269,8 @@
         "137"
       ], 
       "housenumber": "137", 
-      "lat": 50.734314155379, 
-      "lon": 3.911444179333, 
+      "lat": 50.734383379875, 
+      "lon": 3.911398603071, 
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
       "source": "afgeleidVanGebouw", 
@@ -305,8 +305,8 @@
         "141"
       ], 
       "housenumber": "141", 
-      "lat": 50.734114867441, 
-      "lon": 3.910965610686, 
+      "lat": 50.734112436927, 
+      "lon": 3.910964784323, 
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
       "source": "afgeleidVanGebouw", 
@@ -437,8 +437,8 @@
         "153A"
       ], 
       "housenumber": "153A", 
-      "lat": 50.733078267776, 
-      "lon": 3.908953134689, 
+      "lat": 50.733118293447, 
+      "lon": 3.90891251504, 
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
       "source": "afgeleidVanGebouw", 
@@ -533,8 +533,8 @@
         "17"
       ], 
       "housenumber": "17", 
-      "lat": 50.740908293408, 
-      "lon": 3.923803230375, 
+      "lat": 50.740913573606, 
+      "lon": 3.923796946795, 
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
       "source": "afgeleidVanGebouw", 
@@ -629,8 +629,8 @@
         "22"
       ], 
       "housenumber": "22", 
-      "lat": 50.740427401069, 
-      "lon": 3.923916004997, 
+      "lat": 50.740439694238, 
+      "lon": 3.923909938734, 
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
       "source": "afgeleidVanGebouw", 
@@ -641,8 +641,8 @@
         "23"
       ], 
       "housenumber": "23", 
-      "lat": 50.740568319952, 
-      "lon": 3.923218338837, 
+      "lat": 50.740568410387, 
+      "lon": 3.923218479659, 
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
       "source": "afgeleidVanGebouw", 
@@ -661,8 +661,11 @@
       "street": "Kouterstraat"
     }, 
     {
+      "busnrs": [
+        "2"
+      ], 
       "hnrlbls": [
-        "25-25B"
+        "25"
       ], 
       "housenumber": "25", 
       "lat": 50.740548452408, 
@@ -670,21 +673,6 @@
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
       "source": "afgeleidVanGebouw", 
-      "street": "Kouterstraat"
-    }, 
-    {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "25-25B"
-      ], 
-      "housenumber": "25B", 
-      "lat": 50.740548452408, 
-      "lon": 3.923029247304, 
-      "municipality": "Geraardsbergen", 
-      "pcode": "9500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Kouterstraat"
     }, 
     {
@@ -752,11 +740,11 @@
         "30B"
       ], 
       "housenumber": "30B", 
-      "lat": 50.739743043428, 
-      "lon": 3.922721631142, 
+      "lat": 50.739917585464, 
+      "lon": 3.922568815095, 
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Kouterstraat"
     }, 
     {
@@ -781,18 +769,6 @@
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
       "source": "afgeleidVanGebouw", 
-      "street": "Kouterstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "32"
-      ], 
-      "housenumber": "32", 
-      "lat": 50.73985360482, 
-      "lon": 3.922646915678, 
-      "municipality": "Geraardsbergen", 
-      "pcode": "9500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Kouterstraat"
     }, 
     {
@@ -1043,8 +1019,8 @@
         "50"
       ], 
       "housenumber": "50", 
-      "lat": 50.739278834481, 
-      "lon": 3.920867563144, 
+      "lat": 50.739273442885, 
+      "lon": 3.920868181006, 
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
       "source": "afgeleidVanGebouw", 
@@ -1151,11 +1127,11 @@
         "58A"
       ], 
       "housenumber": "58A", 
-      "lat": 50.738778897781, 
-      "lon": 3.920254623931, 
+      "lat": 50.738913265179, 
+      "lon": 3.92012881797, 
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Kouterstraat"
     }, 
     {
@@ -1247,8 +1223,8 @@
         "67"
       ], 
       "housenumber": "67", 
-      "lat": 50.739276021765, 
-      "lon": 3.920061758427, 
+      "lat": 50.739242510329, 
+      "lon": 3.9200202838, 
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
       "source": "afgeleidVanGebouw", 
@@ -1451,8 +1427,8 @@
         "83"
       ], 
       "housenumber": "83", 
-      "lat": 50.738849606372, 
-      "lon": 3.919094092108, 
+      "lat": 50.738816085148, 
+      "lon": 3.919073585916, 
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
       "source": "afgeleidVanGebouw", 
@@ -1499,8 +1475,8 @@
         "87"
       ], 
       "housenumber": "87", 
-      "lat": 50.738596372825, 
-      "lon": 3.918769530389, 
+      "lat": 50.738500897816, 
+      "lon": 3.918769024111, 
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
       "source": "afgeleidVanGebouw", 
@@ -1583,8 +1559,8 @@
         "98"
       ], 
       "housenumber": "98", 
-      "lat": 50.737602303706, 
-      "lon": 3.91744677115, 
+      "lat": 50.737617151028, 
+      "lon": 3.917403703983, 
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
       "source": "afgeleidVanGebouw", 
@@ -1595,8 +1571,8 @@
         "99"
       ], 
       "housenumber": "99", 
-      "lat": 50.738094944563, 
-      "lon": 3.91763161237, 
+      "lat": 50.738099881209, 
+      "lon": 3.917629581815, 
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
       "source": "afgeleidVanGebouw", 

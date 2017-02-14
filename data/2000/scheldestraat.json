@@ -79,8 +79,8 @@
         "10A"
       ], 
       "housenumber": "10A", 
-      "lat": 51.213075200032, 
-      "lon": 4.391491837967, 
+      "lat": 51.213075194644, 
+      "lon": 4.391491813636, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "manueleAanduidingVanGebouw", 
@@ -167,8 +167,8 @@
         "14A"
       ], 
       "housenumber": "14A", 
-      "lat": 51.212906900787, 
-      "lon": 4.391839300431, 
+      "lat": 51.212906862129, 
+      "lon": 4.39183933905, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "manueleAanduidingVanGebouw", 
@@ -239,8 +239,8 @@
         "21A"
       ], 
       "housenumber": "21A", 
-      "lat": 51.212720909604, 
-      "lon": 4.392957894248, 
+      "lat": 51.212720931172, 
+      "lon": 4.392957917157, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "manueleAanduidingVanGebouw", 
@@ -326,8 +326,8 @@
         "26B"
       ], 
       "housenumber": "26B", 
-      "lat": 51.212758506047, 
-      "lon": 4.391984341814, 
+      "lat": 51.212758524018, 
+      "lon": 4.391984374738, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "manueleAanduidingVanGebouw", 
@@ -346,8 +346,8 @@
         "27"
       ], 
       "housenumber": "27", 
-      "lat": 51.212602942313, 
-      "lon": 4.393245643323, 
+      "lat": 51.212602942208, 
+      "lon": 4.393245643027, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "manueleAanduidingVanPerceel", 
@@ -547,8 +547,10 @@
       "street": "Scheldestraat"
     }, 
     {
-      "busnrs": [
-        "1"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "41"
@@ -562,15 +564,32 @@
       "street": "Scheldestraat"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
         "42"
       ], 
       "housenumber": "42", 
-      "lat": 51.211678402403, 
-      "lon": 4.394441497387, 
+      "lat": 51.21169906352, 
+      "lon": 4.394496318124, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Scheldestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "42A"
+      ], 
+      "housenumber": "42A", 
+      "lat": 51.2117129124, 
+      "lon": 4.394466274007, 
+      "municipality": "Antwerpen", 
+      "pcode": "2000", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Scheldestraat"
     }, 
     {
@@ -702,6 +721,7 @@
     }, 
     {
       "busnrs": [
+        "1", 
         "2", 
         "3", 
         "4"
@@ -710,8 +730,8 @@
         "51"
       ], 
       "housenumber": "51", 
-      "lat": 51.211900999138, 
-      "lon": 4.394839716185, 
+      "lat": 51.211900955988, 
+      "lon": 4.394839741919, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "manueleAanduidingVanGebouw", 
@@ -830,7 +850,7 @@
     }, 
     {
       "hnrlbls": [
-        "60"
+        "60-60A"
       ], 
       "housenumber": "60", 
       "lat": 51.211288275759, 
@@ -845,8 +865,8 @@
         "61"
       ], 
       "housenumber": "61", 
-      "lat": 51.211654796286, 
-      "lon": 4.395479563592, 
+      "lat": 51.21165497632, 
+      "lon": 4.395478418862, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
@@ -944,9 +964,6 @@
       "street": "Scheldestraat"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
         "71"
       ], 
@@ -1024,10 +1041,10 @@
       "street": "Scheldestraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3"
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301"
       ], 
       "hnrlbls": [
         "72-76"
@@ -1041,9 +1058,6 @@
       "street": "Scheldestraat"
     }, 
     {
-      "busnrs": [
-        "12"
-      ], 
       "hnrlbls": [
         "77"
       ], 
@@ -1080,9 +1094,6 @@
       "street": "Scheldestraat"
     }, 
     {
-      "busnrs": [
-        "3"
-      ], 
       "hnrlbls": [
         "81"
       ], 
@@ -1161,9 +1172,6 @@
       "street": "Scheldestraat"
     }, 
     {
-      "busnrs": [
-        "3"
-      ], 
       "hnrlbls": [
         "87"
       ], 
@@ -1188,8 +1196,11 @@
       "street": "Scheldestraat"
     }, 
     {
-      "busnrs": [
-        "1"
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301", 
+        "401"
       ], 
       "hnrlbls": [
         "89"
@@ -1227,9 +1238,6 @@
       "street": "Scheldestraat"
     }, 
     {
-      "busnrs": [
-        "9"
-      ], 
       "hnrlbls": [
         "91-93"
       ], 
@@ -1327,8 +1335,8 @@
         "97"
       ], 
       "housenumber": "97", 
-      "lat": 51.210802149497, 
-      "lon": 4.396976240728, 
+      "lat": 51.210802157598, 
+      "lon": 4.396976193509, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "manueleAanduidingVanGebouw", 

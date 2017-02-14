@@ -2,14 +2,14 @@
   "addresses": [
     {
       "hnrlbls": [
-        "1-447"
+        "1"
       ], 
       "housenumber": "1", 
-      "lat": 51.216183156302, 
-      "lon": 2.89088882471, 
+      "lat": 51.216253823827, 
+      "lon": 2.890882005209, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Elisabethlaan"
     }, 
     {
@@ -26,26 +26,14 @@
     }, 
     {
       "hnrlbls": [
-        "11"
-      ], 
-      "housenumber": "11", 
-      "lat": 51.21590535376, 
-      "lon": 2.891392051248, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Elisabethlaan"
-    }, 
-    {
-      "hnrlbls": [
         "14"
       ], 
       "housenumber": "14", 
-      "lat": 51.2161476442, 
-      "lon": 2.892105120701, 
+      "lat": 51.216041017924, 
+      "lon": 2.892011299642, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Elisabethlaan"
     }, 
     {
@@ -160,35 +148,11 @@
         "177"
       ], 
       "housenumber": "177", 
-      "lat": 51.213991905128, 
-      "lon": 2.899866974733, 
+      "lat": 51.21398185607, 
+      "lon": 2.899868579399, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
-      "street": "Elisabethlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "17A-17B"
-      ], 
-      "housenumber": "17A", 
-      "lat": 51.215833517111, 
-      "lon": 2.89151399599, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Elisabethlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "17A-17B"
-      ], 
-      "housenumber": "17B", 
-      "lat": 51.215833517111, 
-      "lon": 2.89151399599, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Elisabethlaan"
     }, 
     {
@@ -262,11 +226,16 @@
     {
       "busnrs": [
         "101", 
+        "102", 
         "103", 
         "2", 
         "201", 
+        "202", 
         "203", 
-        "301"
+        "301", 
+        "302", 
+        "303", 
+        "401"
       ], 
       "hnrlbls": [
         "190"
@@ -318,6 +287,7 @@
     {
       "busnrs": [
         "1", 
+        "102", 
         "2", 
         "3", 
         "4", 
@@ -343,6 +313,7 @@
         "14", 
         "3", 
         "4", 
+        "403", 
         "5", 
         "6", 
         "7", 
@@ -354,30 +325,31 @@
         "1A"
       ], 
       "housenumber": "1A", 
-      "lat": 51.21618314915, 
-      "lon": 2.890888252349, 
+      "lat": 51.216194885545, 
+      "lon": 2.891000107547, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Elisabethlaan"
     }, 
     {
       "hnrlbls": [
-        "2-435"
+        "2"
       ], 
       "housenumber": "2", 
-      "lat": 51.216444307197, 
-      "lon": 2.891448989781, 
+      "lat": 51.216374413484, 
+      "lon": 2.89146737887, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Elisabethlaan"
     }, 
     {
       "busnrs": [
         "1", 
         "2", 
-        "4"
+        "4", 
+        "401"
       ], 
       "hnrlbls": [
         "200"
@@ -460,8 +432,8 @@
         "211"
       ], 
       "housenumber": "211", 
-      "lat": 51.214004548915, 
-      "lon": 2.900110486557, 
+      "lat": 51.213948955546, 
+      "lon": 2.900100499275, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -472,8 +444,8 @@
         "213"
       ], 
       "housenumber": "213", 
-      "lat": 51.213926439246, 
-      "lon": 2.900408528379, 
+      "lat": 51.213922849913, 
+      "lon": 2.900409070771, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -496,11 +468,11 @@
         "216"
       ], 
       "housenumber": "216", 
-      "lat": 51.214394079312, 
-      "lon": 2.901695674763, 
+      "lat": 51.214373964247, 
+      "lon": 2.901726510022, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Elisabethlaan"
     }, 
     {
@@ -529,14 +501,14 @@
     }, 
     {
       "hnrlbls": [
-        "18-22"
+        "22"
       ], 
       "housenumber": "22", 
-      "lat": 51.215720541294, 
-      "lon": 2.893208834032, 
+      "lat": 51.215810326269, 
+      "lon": 2.892709565671, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Elisabethlaan"
     }, 
     {
@@ -588,8 +560,8 @@
         "227"
       ], 
       "housenumber": "227", 
-      "lat": 51.213925379176, 
-      "lon": 2.901967635482, 
+      "lat": 51.213926175553, 
+      "lon": 2.901966608468, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -612,8 +584,8 @@
         "228"
       ], 
       "housenumber": "228", 
-      "lat": 51.214468879405, 
-      "lon": 2.90216697599, 
+      "lat": 51.214470171251, 
+      "lon": 2.902169655056, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -628,14 +600,14 @@
         "301"
       ], 
       "hnrlbls": [
-        "229-231"
+        "229"
       ], 
       "housenumber": "229", 
-      "lat": 51.213919293133, 
-      "lon": 2.902071316546, 
+      "lat": 51.213949774258, 
+      "lon": 2.902035432231, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Elisabethlaan"
     }, 
     {
@@ -656,21 +628,10 @@
       "street": "Elisabethlaan"
     }, 
     {
-      "hnrlbls": [
-        "229-231"
-      ], 
-      "housenumber": "231", 
-      "lat": 51.213919293133, 
-      "lon": 2.902071316546, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Elisabethlaan"
-    }, 
-    {
       "busnrs": [
         "2", 
-        "5"
+        "5", 
+        "501"
       ], 
       "hnrlbls": [
         "232"
@@ -763,6 +724,29 @@
       "street": "Elisabethlaan"
     }, 
     {
+      "busnrs": [
+        "101", 
+        "201", 
+        "202", 
+        "203", 
+        "301", 
+        "302", 
+        "303", 
+        "402", 
+        "403"
+      ], 
+      "hnrlbls": [
+        "24"
+      ], 
+      "housenumber": "24", 
+      "lat": 51.215741521276, 
+      "lon": 2.893146617975, 
+      "municipality": "Oostende", 
+      "pcode": "8400", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Elisabethlaan"
+    }, 
+    {
       "hnrlbls": [
         "240"
       ], 
@@ -803,8 +787,8 @@
         "246"
       ], 
       "housenumber": "246", 
-      "lat": 51.214330125929, 
-      "lon": 2.903034332322, 
+      "lat": 51.214333105714, 
+      "lon": 2.903035383824, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -826,6 +810,10 @@
       "busnrs": [
         "1", 
         "10", 
+        "101", 
+        "102", 
+        "104", 
+        "105", 
         "12", 
         "13", 
         "14", 
@@ -835,10 +823,21 @@
         "19", 
         "2", 
         "20", 
+        "201", 
+        "202", 
+        "203", 
+        "205", 
         "21", 
         "22", 
         "3", 
+        "302", 
+        "303", 
+        "304", 
         "4", 
+        "401", 
+        "402", 
+        "404", 
+        "405", 
         "5", 
         "6", 
         "7", 
@@ -861,8 +860,8 @@
         "250"
       ], 
       "housenumber": "250", 
-      "lat": 51.214352519911, 
-      "lon": 2.903209119081, 
+      "lat": 51.21435970924, 
+      "lon": 2.903208893227, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -906,7 +905,7 @@
     }, 
     {
       "hnrlbls": [
-        "258-260"
+        "258"
       ], 
       "housenumber": "258", 
       "lat": 51.214317748694, 
@@ -918,6 +917,34 @@
     }, 
     {
       "busnrs": [
+        "101", 
+        "103", 
+        "104", 
+        "201", 
+        "202", 
+        "204", 
+        "301", 
+        "302", 
+        "304", 
+        "401", 
+        "402", 
+        "403", 
+        "404", 
+        "405"
+      ], 
+      "hnrlbls": [
+        "26"
+      ], 
+      "housenumber": "26", 
+      "lat": 51.215698182189, 
+      "lon": 2.893340662165, 
+      "municipality": "Oostende", 
+      "pcode": "8400", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Elisabethlaan"
+    }, 
+    {
+      "busnrs": [
         "1", 
         "101", 
         "2", 
@@ -925,17 +952,21 @@
         "4"
       ], 
       "hnrlbls": [
-        "258-260"
+        "260"
       ], 
       "housenumber": "260", 
-      "lat": 51.214317748694, 
-      "lon": 2.903537287386, 
+      "lat": 51.214325782905, 
+      "lon": 2.903619770246, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Elisabethlaan"
     }, 
     {
+      "busnrs": [
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
         "262"
       ], 
@@ -1019,7 +1050,20 @@
       "street": "Elisabethlaan"
     }, 
     {
+      "hnrlbls": [
+        "28"
+      ], 
+      "housenumber": "28", 
+      "lat": 51.215623002913, 
+      "lon": 2.89326688685, 
+      "municipality": "Oostende", 
+      "pcode": "8400", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Elisabethlaan"
+    }, 
+    {
       "busnrs": [
+        "102", 
         "201", 
         "7"
       ], 
@@ -1037,6 +1081,7 @@
     {
       "busnrs": [
         "1", 
+        "101", 
         "2"
       ], 
       "hnrlbls": [
@@ -1094,23 +1139,27 @@
     }, 
     {
       "hnrlbls": [
-        "29-31"
+        "29"
       ], 
       "housenumber": "29", 
-      "lat": 51.21508640035, 
-      "lon": 2.893239770905, 
+      "lat": 51.215093873041, 
+      "lon": 2.893161378341, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Elisabethlaan"
     }, 
     {
+      "busnrs": [
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "291"
       ], 
       "housenumber": "291", 
-      "lat": 51.213929873003, 
-      "lon": 2.904281627, 
+      "lat": 51.213921514129, 
+      "lon": 2.904289046361, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -1171,14 +1220,31 @@
         "A"
       ], 
       "hnrlbls": [
-        "1-447"
+        "3"
       ], 
       "housenumber": "3", 
-      "lat": 51.216183156302, 
-      "lon": 2.89088882471, 
+      "lat": 51.216150544094, 
+      "lon": 2.891077666179, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Elisabethlaan"
+    }, 
+    {
+      "busnrs": [
+        "101", 
+        "202", 
+        "302"
+      ], 
+      "hnrlbls": [
+        "30"
+      ], 
+      "housenumber": "30", 
+      "lat": 51.215496471837, 
+      "lon": 2.893717785934, 
+      "municipality": "Oostende", 
+      "pcode": "8400", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Elisabethlaan"
     }, 
     {
@@ -1196,8 +1262,10 @@
     {
       "busnrs": [
         "1", 
+        "101", 
         "2", 
-        "3"
+        "3", 
+        "301"
       ], 
       "hnrlbls": [
         "302"
@@ -1211,9 +1279,6 @@
       "street": "Elisabethlaan"
     }, 
     {
-      "apptnrs": [
-        "1.0"
-      ], 
       "busnrs": [
         "1"
       ], 
@@ -1270,14 +1335,14 @@
     }, 
     {
       "hnrlbls": [
-        "29-31"
+        "31"
       ], 
       "housenumber": "31", 
-      "lat": 51.21508640035, 
-      "lon": 2.893239770905, 
+      "lat": 51.215055545725, 
+      "lon": 2.89330315722, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Elisabethlaan"
     }, 
     {
@@ -1354,14 +1419,14 @@
         "501"
       ], 
       "hnrlbls": [
-        "318-361"
+        "318"
       ], 
       "housenumber": "318", 
-      "lat": 51.214346809589, 
-      "lon": 2.906160998819, 
+      "lat": 51.214329933355, 
+      "lon": 2.906148502144, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Elisabethlaan"
     }, 
     {
@@ -1378,8 +1443,8 @@
         "319"
       ], 
       "housenumber": "319", 
-      "lat": 51.213953728069, 
-      "lon": 2.905511589762, 
+      "lat": 51.213968456932, 
+      "lon": 2.905503111982, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -1387,28 +1452,29 @@
     }, 
     {
       "hnrlbls": [
-        "320"
+        "32"
       ], 
-      "housenumber": "320", 
-      "lat": 51.21437652185, 
-      "lon": 2.906433608847, 
+      "housenumber": "32", 
+      "lat": 51.215546704094, 
+      "lon": 2.893910587982, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Elisabethlaan"
     }, 
     {
       "busnrs": [
         "1", 
         "2", 
+        "201", 
         "3"
       ], 
       "hnrlbls": [
         "321"
       ], 
       "housenumber": "321", 
-      "lat": 51.213988121586, 
-      "lon": 2.905682850792, 
+      "lat": 51.213983827456, 
+      "lon": 2.905684559997, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -1428,14 +1494,14 @@
         "9"
       ], 
       "hnrlbls": [
-        "322-334A"
+        "322"
       ], 
       "housenumber": "322", 
-      "lat": 51.214408189284, 
-      "lon": 2.906740797956, 
+      "lat": 51.214368372295, 
+      "lon": 2.90676337373, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Elisabethlaan"
     }, 
     {
@@ -1513,7 +1579,9 @@
     {
       "busnrs": [
         "1", 
+        "101", 
         "2", 
+        "201", 
         "3"
       ], 
       "hnrlbls": [
@@ -1532,8 +1600,8 @@
         "33"
       ], 
       "housenumber": "33", 
-      "lat": 51.214985762729, 
-      "lon": 2.893575474965, 
+      "lat": 51.214952134329, 
+      "lon": 2.89356064952, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -1569,18 +1637,6 @@
       "street": "Elisabethlaan"
     }, 
     {
-      "hnrlbls": [
-        "333"
-      ], 
-      "housenumber": "333", 
-      "lat": 51.213960225687, 
-      "lon": 2.906443938299, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Elisabethlaan"
-    }, 
-    {
       "busnrs": [
         "101", 
         "102", 
@@ -1602,37 +1658,37 @@
       "street": "Elisabethlaan"
     }, 
     {
-      "hnrlbls": [
-        "335B"
-      ], 
-      "housenumber": "335B", 
-      "lat": 51.213969061874, 
-      "lon": 2.90683142561, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Elisabethlaan"
-    }, 
-    {
       "busnrs": [
         "1", 
         "10", 
+        "101", 
+        "102", 
+        "103", 
         "11", 
         "12", 
         "14", 
         "16", 
         "2", 
+        "201", 
         "202", 
+        "203", 
         "3", 
+        "301", 
+        "302", 
+        "303", 
         "4", 
+        "401", 
+        "402", 
+        "403", 
         "5", 
+        "501", 
         "6", 
         "7", 
         "8", 
         "9"
       ], 
       "hnrlbls": [
-        "336-336A"
+        "336"
       ], 
       "housenumber": "336", 
       "lat": 51.214509492941, 
@@ -1640,18 +1696,6 @@
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
-      "street": "Elisabethlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "336-336A"
-      ], 
-      "housenumber": "336A", 
-      "lat": 51.214509492941, 
-      "lon": 2.907350552547, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Elisabethlaan"
     }, 
     {
@@ -1666,11 +1710,11 @@
         "337"
       ], 
       "housenumber": "337", 
-      "lat": 51.213974071489, 
-      "lon": 2.906945780044, 
+      "lat": 51.21404129102, 
+      "lon": 2.906965430936, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Elisabethlaan"
     }, 
     {
@@ -1679,6 +1723,7 @@
         "3", 
         "301", 
         "4", 
+        "401", 
         "5", 
         "6"
       ], 
@@ -1691,6 +1736,21 @@
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
+      "street": "Elisabethlaan"
+    }, 
+    {
+      "busnrs": [
+        "102"
+      ], 
+      "hnrlbls": [
+        "34"
+      ], 
+      "housenumber": "34", 
+      "lat": 51.215694763592, 
+      "lon": 2.893873842509, 
+      "municipality": "Oostende", 
+      "pcode": "8400", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Elisabethlaan"
     }, 
     {
@@ -1724,6 +1784,7 @@
     {
       "busnrs": [
         "1", 
+        "101", 
         "2"
       ], 
       "hnrlbls": [
@@ -1770,14 +1831,14 @@
         "2"
       ], 
       "hnrlbls": [
-        "5-345"
+        "345"
       ], 
       "housenumber": "345", 
-      "lat": 51.213896089602, 
-      "lon": 2.907422872592, 
+      "lat": 51.214046807417, 
+      "lon": 2.907309937977, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Elisabethlaan"
     }, 
     {
@@ -1794,14 +1855,14 @@
     }, 
     {
       "hnrlbls": [
-        "3-347"
+        "347"
       ], 
       "housenumber": "347", 
-      "lat": 51.213958136885, 
-      "lon": 2.907475035614, 
+      "lat": 51.214050264329, 
+      "lon": 2.907385979893, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Elisabethlaan"
     }, 
     {
@@ -1809,11 +1870,11 @@
         "348"
       ], 
       "housenumber": "348", 
-      "lat": 51.214644053881, 
-      "lon": 2.908032842913, 
+      "lat": 51.214551835566, 
+      "lon": 2.907867110325, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Elisabethlaan"
     }, 
     {
@@ -1866,6 +1927,8 @@
     }, 
     {
       "busnrs": [
+        "101", 
+        "102", 
         "2", 
         "201", 
         "3"
@@ -1909,6 +1972,7 @@
       "busnrs": [
         "1", 
         "101", 
+        "201", 
         "3"
       ], 
       "hnrlbls": [
@@ -1935,6 +1999,9 @@
       "street": "Elisabethlaan"
     }, 
     {
+      "busnrs": [
+        "201"
+      ], 
       "hnrlbls": [
         "358"
       ], 
@@ -1956,6 +2023,18 @@
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
+      "street": "Elisabethlaan"
+    }, 
+    {
+      "hnrlbls": [
+        "36"
+      ], 
+      "housenumber": "36", 
+      "lat": 51.215345934674, 
+      "lon": 2.89416142528, 
+      "municipality": "Oostende", 
+      "pcode": "8400", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Elisabethlaan"
     }, 
     {
@@ -2098,17 +2177,18 @@
         "1", 
         "2", 
         "3", 
+        "301", 
         "4"
       ], 
       "hnrlbls": [
         "372"
       ], 
       "housenumber": "372", 
-      "lat": 51.215129359964, 
-      "lon": 2.91019041055, 
+      "lat": 51.215072714564, 
+      "lon": 2.910226249538, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Elisabethlaan"
     }, 
     {
@@ -2132,11 +2212,11 @@
         "376"
       ], 
       "housenumber": "376", 
-      "lat": 51.214648881409, 
-      "lon": 2.910427301883, 
+      "lat": 51.214715923788, 
+      "lon": 2.910425349243, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Elisabethlaan"
     }, 
     {
@@ -2144,11 +2224,11 @@
         "378"
       ], 
       "housenumber": "378", 
-      "lat": 51.214587213155, 
-      "lon": 2.910413054725, 
+      "lat": 51.214556560579, 
+      "lon": 2.910464398555, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Elisabethlaan"
     }, 
     {
@@ -2169,6 +2249,18 @@
     }, 
     {
       "hnrlbls": [
+        "38"
+      ], 
+      "housenumber": "38", 
+      "lat": 51.215291032778, 
+      "lon": 2.894401638293, 
+      "municipality": "Oostende", 
+      "pcode": "8400", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Elisabethlaan"
+    }, 
+    {
+      "hnrlbls": [
         "381"
       ], 
       "housenumber": "381", 
@@ -2182,7 +2274,11 @@
     {
       "busnrs": [
         "1", 
+        "101", 
+        "102", 
         "2", 
+        "201", 
+        "202", 
         "3", 
         "6"
       ], 
@@ -2209,8 +2305,8 @@
         "39"
       ], 
       "housenumber": "39", 
-      "lat": 51.21472788782, 
-      "lon": 2.894466529857, 
+      "lat": 51.214724598438, 
+      "lon": 2.894469496652, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -2273,20 +2369,19 @@
         "399"
       ], 
       "housenumber": "399", 
-      "lat": 51.214076389978, 
-      "lon": 2.910719023801, 
+      "lat": 51.214065806864, 
+      "lon": 2.910721072237, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
       "street": "Elisabethlaan"
     }, 
     {
-      "apptnrs": [
-        "21A"
-      ], 
       "busnrs": [
         "10", 
         "2", 
+        "201", 
+        "21", 
         "3", 
         "301", 
         "4", 
@@ -2296,14 +2391,14 @@
         "9"
       ], 
       "hnrlbls": [
-        "1-447"
+        "3A"
       ], 
       "housenumber": "3A", 
-      "lat": 51.216183156302, 
-      "lon": 2.89088882471, 
+      "lat": 51.21610836845, 
+      "lon": 2.891127099361, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Elisabethlaan"
     }, 
     {
@@ -2320,14 +2415,26 @@
     }, 
     {
       "hnrlbls": [
+        "40"
+      ], 
+      "housenumber": "40", 
+      "lat": 51.215221632089, 
+      "lon": 2.89469040512, 
+      "municipality": "Oostende", 
+      "pcode": "8400", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Elisabethlaan"
+    }, 
+    {
+      "hnrlbls": [
         "400"
       ], 
       "housenumber": "400", 
-      "lat": 51.214814154675, 
-      "lon": 2.920599641215, 
+      "lat": 51.214857863229, 
+      "lon": 2.920850642801, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Elisabethlaan"
     }, 
     {
@@ -2345,6 +2452,7 @@
     {
       "busnrs": [
         "1", 
+        "201", 
         "202", 
         "5", 
         "6", 
@@ -2391,6 +2499,7 @@
     {
       "busnrs": [
         "1", 
+        "101", 
         "2", 
         "3"
       ], 
@@ -2422,20 +2531,19 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "101", 
-        "201", 
-        "301"
+        "0001", 
+        "0101", 
+        "0201"
       ], 
       "hnrlbls": [
         "415"
       ], 
       "housenumber": "415", 
-      "lat": 51.214080637071, 
-      "lon": 2.911420990044, 
+      "lat": 51.214148742014, 
+      "lon": 2.911417717407, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Elisabethlaan"
     }, 
     {
@@ -2561,6 +2669,7 @@
         "1", 
         "2", 
         "3", 
+        "302", 
         "4", 
         "5", 
         "6", 
@@ -2618,6 +2727,7 @@
       "busnrs": [
         "1", 
         "101", 
+        "201", 
         "3", 
         "301"
       ], 
@@ -2625,11 +2735,11 @@
         "5"
       ], 
       "housenumber": "5", 
-      "lat": 51.216036010017, 
-      "lon": 2.891128103033, 
+      "lat": 51.216069074209, 
+      "lon": 2.891198485716, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Elisabethlaan"
     }, 
     {
@@ -2645,109 +2755,26 @@
       "street": "Elisabethlaan"
     }, 
     {
-      "hnrlbls": [
-        "60"
-      ], 
-      "housenumber": "60", 
-      "lat": 51.215002919043, 
-      "lon": 2.895131897905, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "geinterpoleerdObvWegverbinding", 
-      "street": "Elisabethlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "63-79"
-      ], 
-      "housenumber": "63", 
-      "lat": 51.214628534606, 
-      "lon": 2.894992137088, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Elisabethlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "63-79"
-      ], 
-      "housenumber": "67", 
-      "lat": 51.214628534606, 
-      "lon": 2.894992137088, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Elisabethlaan"
-    }, 
-    {
       "busnrs": [
+        "1", 
+        "101", 
+        "102", 
         "103", 
         "104", 
         "2", 
+        "302", 
         "303", 
         "304"
       ], 
       "hnrlbls": [
-        "7-7B"
+        "7"
       ], 
       "housenumber": "7", 
-      "lat": 51.215987673099, 
-      "lon": 2.891231267826, 
+      "lat": 51.216031513223, 
+      "lon": 2.891286278866, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Elisabethlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "63-79"
-      ], 
-      "housenumber": "73", 
-      "lat": 51.214628534606, 
-      "lon": 2.894992137088, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Elisabethlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "63-79"
-      ], 
-      "housenumber": "75", 
-      "lat": 51.214628534606, 
-      "lon": 2.894992137088, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Elisabethlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "63-79"
-      ], 
-      "housenumber": "79", 
-      "lat": 51.214628534606, 
-      "lon": 2.894992137088, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Elisabethlaan"
-    }, 
-    {
-      "busnrs": [
-        "303"
-      ], 
-      "hnrlbls": [
-        "7-7B"
-      ], 
-      "housenumber": "7B", 
-      "lat": 51.215987673099, 
-      "lon": 2.891231267826, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Elisabethlaan"
     }, 
     {
@@ -2755,8 +2782,8 @@
         "87"
       ], 
       "housenumber": "87", 
-      "lat": 51.214557175636, 
-      "lon": 2.895520722761, 
+      "lat": 51.214529087403, 
+      "lon": 2.895517601833, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -2785,11 +2812,11 @@
         "9"
       ], 
       "housenumber": "9", 
-      "lat": 51.215997143343, 
-      "lon": 2.891334462491, 
+      "lat": 51.215969173116, 
+      "lon": 2.891391175273, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Elisabethlaan"
     }, 
     {
@@ -2802,18 +2829,6 @@
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
-      "street": "Elisabethlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "92"
-      ], 
-      "housenumber": "92", 
-      "lat": 51.214600582741, 
-      "lon": 2.908946299413, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "afgeleidVanStraat", 
       "street": "Elisabethlaan"
     }, 
     {
@@ -2845,8 +2860,8 @@
         "97"
       ], 
       "housenumber": "97", 
-      "lat": 51.214304058842, 
-      "lon": 2.896925196829, 
+      "lat": 51.214300815697, 
+      "lon": 2.89693188362, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 

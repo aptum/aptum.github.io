@@ -137,8 +137,8 @@
         "116"
       ], 
       "housenumber": "116", 
-      "lat": 50.791757975402, 
-      "lon": 3.930188941708, 
+      "lat": 50.791757524337, 
+      "lon": 3.930188520414, 
       "municipality": "Geraardsbergen", 
       "pcode": "9506", 
       "source": "afgeleidVanGebouw", 
@@ -197,11 +197,11 @@
         "130"
       ], 
       "housenumber": "130", 
-      "lat": 50.792312403699, 
-      "lon": 3.928108784889, 
+      "lat": 50.791962556326, 
+      "lon": 3.928238000991, 
       "municipality": "Geraardsbergen", 
       "pcode": "9506", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Klakvijverstraat"
     }, 
     {
@@ -214,6 +214,22 @@
       "municipality": "Geraardsbergen", 
       "pcode": "9506", 
       "source": "afgeleidVanGebouw", 
+      "street": "Klakvijverstraat"
+    }, 
+    {
+      "busnrs": [
+        "6", 
+        "8"
+      ], 
+      "hnrlbls": [
+        "15"
+      ], 
+      "housenumber": "15", 
+      "lat": 50.793755921895, 
+      "lon": 3.943910998653, 
+      "municipality": "Geraardsbergen", 
+      "pcode": "9506", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Klakvijverstraat"
     }, 
     {
@@ -230,29 +246,14 @@
     }, 
     {
       "hnrlbls": [
-        "17-17B"
+        "17"
       ], 
       "housenumber": "17", 
-      "lat": 50.793668312912, 
-      "lon": 3.943847962202, 
+      "lat": 50.793734181776, 
+      "lon": 3.943815880892, 
       "municipality": "Geraardsbergen", 
       "pcode": "9506", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Klakvijverstraat"
-    }, 
-    {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "17-17B"
-      ], 
-      "housenumber": "17B", 
-      "lat": 50.793668312912, 
-      "lon": 3.943847962202, 
-      "municipality": "Geraardsbergen", 
-      "pcode": "9506", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Klakvijverstraat"
     }, 
     {
@@ -293,24 +294,12 @@
     }, 
     {
       "busnrs": [
-        "2"
+        "1"
       ], 
       "hnrlbls": [
-        "20-20B"
+        "20"
       ], 
       "housenumber": "20", 
-      "lat": 50.79413091867, 
-      "lon": 3.944590989794, 
-      "municipality": "Geraardsbergen", 
-      "pcode": "9506", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Klakvijverstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "20A"
-      ], 
-      "housenumber": "20A", 
       "lat": 50.794135780976, 
       "lon": 3.944468824328, 
       "municipality": "Geraardsbergen", 
@@ -319,19 +308,15 @@
       "street": "Klakvijverstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
       "hnrlbls": [
-        "20-20B"
+        "20B"
       ], 
       "housenumber": "20B", 
       "lat": 50.79413091867, 
       "lon": 3.944590989794, 
       "municipality": "Geraardsbergen", 
       "pcode": "9506", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Klakvijverstraat"
     }, 
     {
@@ -474,8 +459,8 @@
         "30A"
       ], 
       "housenumber": "30A", 
-      "lat": 50.793753549167, 
-      "lon": 3.943034873027, 
+      "lat": 50.793753555665, 
+      "lon": 3.943034899467, 
       "municipality": "Geraardsbergen", 
       "pcode": "9506", 
       "source": "afgeleidVanGebouw", 
@@ -518,8 +503,12 @@
       "street": "Klakvijverstraat"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
-        "34-34B"
+        "34"
       ], 
       "housenumber": "34", 
       "lat": 50.793695061275, 
@@ -539,22 +528,6 @@
       "municipality": "Geraardsbergen", 
       "pcode": "9506", 
       "source": "afgeleidVanGebouw", 
-      "street": "Klakvijverstraat"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
-      "hnrlbls": [
-        "34-34B"
-      ], 
-      "housenumber": "34B", 
-      "lat": 50.793695061275, 
-      "lon": 3.942646655944, 
-      "municipality": "Geraardsbergen", 
-      "pcode": "9506", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Klakvijverstraat"
     }, 
     {
@@ -615,22 +588,11 @@
       "busnrs": [
         "1", 
         "2", 
-        "3"
+        "3", 
+        "4"
       ], 
       "hnrlbls": [
-        "40B"
-      ], 
-      "housenumber": "40B", 
-      "lat": 50.793666451328, 
-      "lon": 3.941750229416, 
-      "municipality": "Geraardsbergen", 
-      "pcode": "9506", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Klakvijverstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "42-42B"
+        "42"
       ], 
       "housenumber": "42", 
       "lat": 50.793672260904, 
@@ -638,24 +600,6 @@
       "municipality": "Geraardsbergen", 
       "pcode": "9506", 
       "source": "afgeleidVanGebouw", 
-      "street": "Klakvijverstraat"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4"
-      ], 
-      "hnrlbls": [
-        "42-42B"
-      ], 
-      "housenumber": "42B", 
-      "lat": 50.793672260904, 
-      "lon": 3.94156805975, 
-      "municipality": "Geraardsbergen", 
-      "pcode": "9506", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Klakvijverstraat"
     }, 
     {
@@ -699,8 +643,8 @@
         "48"
       ], 
       "housenumber": "48", 
-      "lat": 50.793308811617, 
-      "lon": 3.940608296486, 
+      "lat": 50.793330273576, 
+      "lon": 3.94057718159, 
       "municipality": "Geraardsbergen", 
       "pcode": "9506", 
       "source": "afgeleidVanGebouw", 
@@ -780,18 +724,6 @@
     }, 
     {
       "hnrlbls": [
-        "56"
-      ], 
-      "housenumber": "56", 
-      "lat": 50.792713484902, 
-      "lon": 3.940011197845, 
-      "municipality": "Geraardsbergen", 
-      "pcode": "9506", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Klakvijverstraat"
-    }, 
-    {
-      "hnrlbls": [
         "57"
       ], 
       "housenumber": "57", 
@@ -812,18 +744,6 @@
       "municipality": "Geraardsbergen", 
       "pcode": "9506", 
       "source": "afgeleidVanPerceelGrb", 
-      "street": "Klakvijverstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "62"
-      ], 
-      "housenumber": "62", 
-      "lat": 50.792180625861, 
-      "lon": 3.939068044444, 
-      "municipality": "Geraardsbergen", 
-      "pcode": "9506", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
       "street": "Klakvijverstraat"
     }, 
     {
@@ -852,30 +772,6 @@
     }, 
     {
       "hnrlbls": [
-        "66A-66B"
-      ], 
-      "housenumber": "66A", 
-      "lat": 50.793368226788, 
-      "lon": 3.936828851806, 
-      "municipality": "Geraardsbergen", 
-      "pcode": "9506", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Klakvijverstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "66A-66B"
-      ], 
-      "housenumber": "66B", 
-      "lat": 50.793368226788, 
-      "lon": 3.936828851806, 
-      "municipality": "Geraardsbergen", 
-      "pcode": "9506", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Klakvijverstraat"
-    }, 
-    {
-      "hnrlbls": [
         "67"
       ], 
       "housenumber": "67", 
@@ -896,18 +792,6 @@
       "municipality": "Geraardsbergen", 
       "pcode": "9506", 
       "source": "afgeleidVanGebouw", 
-      "street": "Klakvijverstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "69"
-      ], 
-      "housenumber": "69", 
-      "lat": 50.79202613931, 
-      "lon": 3.936779736516, 
-      "municipality": "Geraardsbergen", 
-      "pcode": "9506", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Klakvijverstraat"
     }, 
     {
@@ -999,8 +883,8 @@
         "78"
       ], 
       "housenumber": "78", 
-      "lat": 50.792115032109, 
-      "lon": 3.936067780943, 
+      "lat": 50.792116596346, 
+      "lon": 3.936053157984, 
       "municipality": "Geraardsbergen", 
       "pcode": "9506", 
       "source": "afgeleidVanGebouw", 

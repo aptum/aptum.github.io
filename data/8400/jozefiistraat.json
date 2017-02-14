@@ -1,6 +1,9 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "101"
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -88,23 +91,11 @@
         "18"
       ], 
       "housenumber": "18", 
-      "lat": 51.229039397525, 
-      "lon": 2.917814838947, 
+      "lat": 51.229010491586, 
+      "lon": 2.917979541933, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Jozef II-straat"
-    }, 
-    {
-      "hnrlbls": [
-        "19"
-      ], 
-      "housenumber": "19", 
-      "lat": 51.22881508883, 
-      "lon": 2.918738197803, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Jozef II-straat"
     }, 
     {
@@ -151,8 +142,8 @@
         "25"
       ], 
       "housenumber": "25", 
-      "lat": 51.228816813793, 
-      "lon": 2.918900944831, 
+      "lat": 51.228817897454, 
+      "lon": 2.918901340695, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -175,11 +166,11 @@
         "27"
       ], 
       "housenumber": "27", 
-      "lat": 51.228852368757, 
-      "lon": 2.919095286328, 
+      "lat": 51.228846737402, 
+      "lon": 2.919090593102, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Jozef II-straat"
     }, 
     {
@@ -199,6 +190,7 @@
         "1", 
         "10", 
         "101", 
+        "104", 
         "11", 
         "12", 
         "13", 
@@ -209,6 +201,7 @@
         "1D", 
         "2", 
         "201", 
+        "202", 
         "22", 
         "24", 
         "26", 
@@ -217,44 +210,34 @@
         "3", 
         "30", 
         "301", 
+        "302", 
+        "304", 
         "32", 
         "33", 
         "34", 
         "36", 
         "4", 
         "401", 
+        "4B", 
         "4C", 
+        "502", 
         "505", 
         "6", 
         "6C", 
         "8", 
         "9", 
+        "B", 
         "C"
       ], 
       "hnrlbls": [
-        "29-31"
+        "29"
       ], 
       "housenumber": "29", 
-      "lat": 51.228842146523, 
-      "lon": 2.919691824145, 
+      "lat": 51.228886493393, 
+      "lon": 2.919598521724, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Jozef II-straat"
-    }, 
-    {
-      "busnrs": [
-        "4"
-      ], 
-      "hnrlbls": [
-        "29-31"
-      ], 
-      "housenumber": "29B", 
-      "lat": 51.228842146523, 
-      "lon": 2.919691824145, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Jozef II-straat"
     }, 
     {
@@ -264,6 +247,7 @@
         "13", 
         "14", 
         "3", 
+        "302", 
         "5", 
         "502", 
         "6", 
@@ -272,7 +256,7 @@
         "9"
       ], 
       "hnrlbls": [
-        "3-5"
+        "3"
       ], 
       "housenumber": "3", 
       "lat": 51.228791953142, 
@@ -299,14 +283,14 @@
     }, 
     {
       "hnrlbls": [
-        "29-31"
+        "31"
       ], 
       "housenumber": "31", 
-      "lat": 51.228842146523, 
-      "lon": 2.919691824145, 
+      "lat": 51.228896674836, 
+      "lon": 2.919710462087, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Jozef II-straat"
     }, 
     {
@@ -334,11 +318,11 @@
         "33"
       ], 
       "housenumber": "33", 
-      "lat": 51.228892238343, 
-      "lon": 2.919898744488, 
+      "lat": 51.228916448424, 
+      "lon": 2.919886251211, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Jozef II-straat"
     }, 
     {
@@ -368,11 +352,11 @@
         "35"
       ], 
       "housenumber": "35", 
-      "lat": 51.228882816187, 
-      "lon": 2.920039644441, 
+      "lat": 51.228941368505, 
+      "lon": 2.920012481874, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Jozef II-straat"
     }, 
     {
@@ -392,11 +376,11 @@
         "37"
       ], 
       "housenumber": "37", 
-      "lat": 51.228929204928, 
-      "lon": 2.92030395421, 
+      "lat": 51.229003394931, 
+      "lon": 2.920393861074, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Jozef II-straat"
     }, 
     {
@@ -413,6 +397,7 @@
     }, 
     {
       "busnrs": [
+        "1", 
         "101", 
         "3"
       ], 
@@ -438,6 +423,7 @@
         "3", 
         "4", 
         "5", 
+        "502", 
         "6", 
         "7", 
         "8", 
@@ -507,9 +493,15 @@
     {
       "busnrs": [
         "1", 
+        "101", 
+        "102", 
         "2", 
+        "202", 
+        "302", 
         "4", 
+        "401", 
         "5", 
+        "501", 
         "6", 
         "7", 
         "8", 
@@ -540,26 +532,26 @@
     }, 
     {
       "hnrlbls": [
-        "5-49"
+        "45"
       ], 
       "housenumber": "45", 
-      "lat": 51.229026048264, 
-      "lon": 2.921253126443, 
+      "lat": 51.229068589505, 
+      "lon": 2.921026862279, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Jozef II-straat"
     }, 
     {
       "hnrlbls": [
-        "46-118"
+        "46"
       ], 
       "housenumber": "46", 
-      "lat": 51.22909819783, 
-      "lon": 2.91929669535, 
+      "lat": 51.229045419068, 
+      "lon": 2.919340145758, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Jozef II-straat"
     }, 
     {
@@ -567,6 +559,7 @@
         "1", 
         "101", 
         "102", 
+        "104", 
         "12", 
         "13", 
         "202", 
@@ -584,6 +577,7 @@
         "43", 
         "45", 
         "504", 
+        "505", 
         "51", 
         "53", 
         "6", 
@@ -591,14 +585,14 @@
         "602"
       ], 
       "hnrlbls": [
-        "5-49"
+        "47"
       ], 
       "housenumber": "47", 
-      "lat": 51.229026048264, 
-      "lon": 2.921253126443, 
+      "lat": 51.229120342998, 
+      "lon": 2.921178750281, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Jozef II-straat"
     }, 
     {
@@ -622,29 +616,21 @@
     }, 
     {
       "hnrlbls": [
-        "5-49"
+        "49"
       ], 
       "housenumber": "49", 
-      "lat": 51.229026048264, 
-      "lon": 2.921253126443, 
+      "lat": 51.229135777138, 
+      "lon": 2.921271914388, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Jozef II-straat"
     }, 
     {
-      "hnrlbls": [
-        "3-5"
+      "busnrs": [
+        "101", 
+        "301"
       ], 
-      "housenumber": "5", 
-      "lat": 51.228791953142, 
-      "lon": 2.917423339332, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Jozef II-straat"
-    }, 
-    {
       "hnrlbls": [
         "50"
       ], 
@@ -695,10 +681,13 @@
     {
       "busnrs": [
         "1", 
+        "101", 
         "1A", 
         "1B", 
         "2A", 
         "3", 
+        "301", 
+        "3A", 
         "3B", 
         "4", 
         "4A", 
@@ -707,7 +696,7 @@
         "B"
       ], 
       "hnrlbls": [
-        "55-55A"
+        "55"
       ], 
       "housenumber": "55", 
       "lat": 51.229160499368, 
@@ -719,21 +708,6 @@
     }, 
     {
       "busnrs": [
-        "3"
-      ], 
-      "hnrlbls": [
-        "55-55A"
-      ], 
-      "housenumber": "55A", 
-      "lat": 51.229160499368, 
-      "lon": 2.921499670896, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Jozef II-straat"
-    }, 
-    {
-      "busnrs": [
         "2", 
         "3"
       ], 
@@ -741,11 +715,11 @@
         "56"
       ], 
       "housenumber": "56", 
-      "lat": 51.229186942757, 
-      "lon": 2.92025929378, 
+      "lat": 51.229138930839, 
+      "lon": 2.920317629579, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Jozef II-straat"
     }, 
     {
@@ -802,8 +776,8 @@
         "5B"
       ], 
       "housenumber": "5B", 
-      "lat": 51.22883005714, 
-      "lon": 2.917621060982, 
+      "lat": 51.228830068931, 
+      "lon": 2.91762103642, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -811,7 +785,7 @@
     }, 
     {
       "hnrlbls": [
-        "7-7A"
+        "7"
       ], 
       "housenumber": "7", 
       "lat": 51.228803444866, 
@@ -828,6 +802,7 @@
         "102", 
         "2", 
         "201", 
+        "202", 
         "301", 
         "302", 
         "401", 
@@ -835,26 +810,14 @@
         "6"
       ], 
       "hnrlbls": [
-        "7-7A"
+        "7A"
       ], 
       "housenumber": "7A", 
-      "lat": 51.228803444866, 
-      "lon": 2.917715221078, 
+      "lat": 51.228843876899, 
+      "lon": 2.917808608051, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Jozef II-straat"
-    }, 
-    {
-      "hnrlbls": [
-        "7B"
-      ], 
-      "housenumber": "7B", 
-      "lat": 51.228834982045, 
-      "lon": 2.917817357259, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Jozef II-straat"
     }, 
     {

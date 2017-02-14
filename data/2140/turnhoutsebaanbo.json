@@ -5,8 +5,8 @@
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 51.217334668601, 
-      "lon": 4.429290238223, 
+      "lat": 51.217334659583, 
+      "lon": 4.42929029546, 
       "municipality": "Antwerpen", 
       "pcode": "2140", 
       "source": "manueleAanduidingVanGebouw", 
@@ -109,9 +109,6 @@
       "street": "Turnhoutsebaan_BO"
     }, 
     {
-      "busnrs": [
-        "2"
-      ], 
       "hnrlbls": [
         "105"
       ], 
@@ -226,9 +223,6 @@
       "street": "Turnhoutsebaan_BO"
     }, 
     {
-      "busnrs": [
-        "3"
-      ], 
       "hnrlbls": [
         "111"
       ], 
@@ -363,15 +357,20 @@
       "street": "Turnhoutsebaan_BO"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "102", 
+        "201"
+      ], 
       "hnrlbls": [
-        "12-14"
+        "12"
       ], 
       "housenumber": "12", 
-      "lat": 51.216769999089, 
-      "lon": 4.429133982397, 
+      "lat": 51.216900610512, 
+      "lon": 4.429288580557, 
       "municipality": "Antwerpen", 
       "pcode": "2140", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Turnhoutsebaan_BO"
     }, 
     {
@@ -461,8 +460,8 @@
         "126_4"
       ], 
       "housenumber": "126_4", 
-      "lat": 51.214853431128, 
-      "lon": 4.433533252894, 
+      "lat": 51.214853473381, 
+      "lon": 4.433533238642, 
       "municipality": "Antwerpen", 
       "pcode": "2140", 
       "source": "manueleAanduidingVanGebouw", 
@@ -519,21 +518,6 @@
       "municipality": "Antwerpen", 
       "pcode": "2140", 
       "source": "afgeleidVanGebouw", 
-      "street": "Turnhoutsebaan_BO"
-    }, 
-    {
-      "busnrs": [
-        "A"
-      ], 
-      "hnrlbls": [
-        "128_2"
-      ], 
-      "housenumber": "128_2", 
-      "lat": 51.214949906498, 
-      "lon": 4.433544502625, 
-      "municipality": "Antwerpen", 
-      "pcode": "2140", 
-      "source": "manueleAanduidingVanGebouw", 
       "street": "Turnhoutsebaan_BO"
     }, 
     {
@@ -732,8 +716,8 @@
         "139"
       ], 
       "housenumber": "139", 
-      "lat": 51.215474938844, 
-      "lon": 4.434599682877, 
+      "lat": 51.215474965769, 
+      "lon": 4.434599754474, 
       "municipality": "Antwerpen", 
       "pcode": "2140", 
       "source": "manueleAanduidingVanGebouw", 
@@ -741,14 +725,38 @@
     }, 
     {
       "hnrlbls": [
-        "12-14"
+        "139A"
       ], 
-      "housenumber": "14", 
-      "lat": 51.216769999089, 
-      "lon": 4.429133982397, 
+      "housenumber": "139A", 
+      "lat": 51.215102170752, 
+      "lon": 4.434361079083, 
       "municipality": "Antwerpen", 
       "pcode": "2140", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanToegangTotDeWeg", 
+      "street": "Turnhoutsebaan_BO"
+    }, 
+    {
+      "hnrlbls": [
+        "14"
+      ], 
+      "housenumber": "14", 
+      "lat": 51.216866603225, 
+      "lon": 4.4293486465, 
+      "municipality": "Antwerpen", 
+      "pcode": "2140", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Turnhoutsebaan_BO"
+    }, 
+    {
+      "hnrlbls": [
+        "143"
+      ], 
+      "housenumber": "143", 
+      "lat": 51.214993767901, 
+      "lon": 4.434685509161, 
+      "municipality": "Antwerpen", 
+      "pcode": "2140", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Turnhoutsebaan_BO"
     }, 
     {
@@ -766,6 +774,18 @@
       "municipality": "Antwerpen", 
       "pcode": "2140", 
       "source": "afgeleidVanGebouw", 
+      "street": "Turnhoutsebaan_BO"
+    }, 
+    {
+      "hnrlbls": [
+        "145"
+      ], 
+      "housenumber": "145", 
+      "lat": 51.214984210016, 
+      "lon": 4.434739020403, 
+      "municipality": "Antwerpen", 
+      "pcode": "2140", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Turnhoutsebaan_BO"
     }, 
     {
@@ -841,56 +861,11 @@
         "147"
       ], 
       "housenumber": "147", 
-      "lat": 51.215029699768, 
-      "lon": 4.434883345203, 
+      "lat": 51.21494197101, 
+      "lon": 4.434886654242, 
       "municipality": "Antwerpen", 
       "pcode": "2140", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Turnhoutsebaan_BO"
-    }, 
-    {
-      "busnrs": [
-        "3"
-      ], 
-      "hnrlbls": [
-        "147F-147_7"
-      ], 
-      "housenumber": "147F", 
-      "lat": 51.215017529301, 
-      "lon": 4.434875676846, 
-      "municipality": "Antwerpen", 
-      "pcode": "2140", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Turnhoutsebaan_BO"
-    }, 
-    {
-      "busnrs": [
-        "A"
-      ], 
-      "hnrlbls": [
-        "147F-147_7"
-      ], 
-      "housenumber": "147_1", 
-      "lat": 51.215017529301, 
-      "lon": 4.434875676846, 
-      "municipality": "Antwerpen", 
-      "pcode": "2140", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Turnhoutsebaan_BO"
-    }, 
-    {
-      "busnrs": [
-        "C"
-      ], 
-      "hnrlbls": [
-        "147F-147_7"
-      ], 
-      "housenumber": "147_7", 
-      "lat": 51.215017529301, 
-      "lon": 4.434875676846, 
-      "municipality": "Antwerpen", 
-      "pcode": "2140", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Turnhoutsebaan_BO"
     }, 
     {
@@ -935,9 +910,10 @@
       "street": "Turnhoutsebaan_BO"
     }, 
     {
-      "busnrs": [
-        "2", 
-        "3"
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301"
       ], 
       "hnrlbls": [
         "152"
@@ -1054,21 +1030,6 @@
       "municipality": "Antwerpen", 
       "pcode": "2140", 
       "source": "afgeleidVanGebouw", 
-      "street": "Turnhoutsebaan_BO"
-    }, 
-    {
-      "busnrs": [
-        "A"
-      ], 
-      "hnrlbls": [
-        "162_7"
-      ], 
-      "housenumber": "162_7", 
-      "lat": 51.214570955248, 
-      "lon": 4.435194789618, 
-      "municipality": "Antwerpen", 
-      "pcode": "2140", 
-      "source": "manueleAanduidingVanGebouw", 
       "street": "Turnhoutsebaan_BO"
     }, 
     {
@@ -1207,16 +1168,12 @@
       "street": "Turnhoutsebaan_BO"
     }, 
     {
-      "busnrs": [
-        "2", 
-        "3"
-      ], 
       "hnrlbls": [
         "177"
       ], 
       "housenumber": "177", 
-      "lat": 51.214794250266, 
-      "lon": 4.435827400694, 
+      "lat": 51.214794295198, 
+      "lon": 4.435827417933, 
       "municipality": "Antwerpen", 
       "pcode": "2140", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1269,25 +1226,6 @@
       "street": "Turnhoutsebaan_BO"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "29"
-      ], 
-      "hnrlbls": [
-        "178D"
-      ], 
-      "housenumber": "178D", 
-      "lat": 51.21442210507, 
-      "lon": 4.435534713368, 
-      "municipality": "Antwerpen", 
-      "pcode": "2140", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Turnhoutsebaan_BO"
-    }, 
-    {
-      "busnrs": [
-        "22"
-      ], 
       "hnrlbls": [
         "179"
       ], 
@@ -1300,10 +1238,11 @@
       "street": "Turnhoutsebaan_BO"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3"
+      "apptnrs": [
+        "001", 
+        "201", 
+        "301", 
+        "401"
       ], 
       "hnrlbls": [
         "18"
@@ -1445,9 +1384,6 @@
       "street": "Turnhoutsebaan_BO"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
         "187"
       ], 
@@ -1469,18 +1405,6 @@
       "municipality": "Antwerpen", 
       "pcode": "2140", 
       "source": "afgeleidVanGebouw", 
-      "street": "Turnhoutsebaan_BO"
-    }, 
-    {
-      "hnrlbls": [
-        "188B"
-      ], 
-      "housenumber": "188B", 
-      "lat": 51.214346168571, 
-      "lon": 4.436234494928, 
-      "municipality": "Antwerpen", 
-      "pcode": "2140", 
-      "source": "manueleAanduidingVanGebouw", 
       "street": "Turnhoutsebaan_BO"
     }, 
     {
@@ -1548,21 +1472,6 @@
     }, 
     {
       "busnrs": [
-        "13"
-      ], 
-      "hnrlbls": [
-        "190B"
-      ], 
-      "housenumber": "190B", 
-      "lat": 51.214299654219, 
-      "lon": 4.436326764609, 
-      "municipality": "Antwerpen", 
-      "pcode": "2140", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Turnhoutsebaan_BO"
-    }, 
-    {
-      "busnrs": [
         "1", 
         "2"
       ], 
@@ -1590,9 +1499,6 @@
       "street": "Turnhoutsebaan_BO"
     }, 
     {
-      "busnrs": [
-        "3"
-      ], 
       "hnrlbls": [
         "193"
       ], 
@@ -1641,6 +1547,12 @@
       "street": "Turnhoutsebaan_BO"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -1774,7 +1686,7 @@
     }, 
     {
       "busnrs": [
-        "1"
+        "2"
       ], 
       "hnrlbls": [
         "213"
@@ -1917,21 +1829,6 @@
     }, 
     {
       "busnrs": [
-        "d"
-      ], 
-      "hnrlbls": [
-        "224_2"
-      ], 
-      "housenumber": "224_2", 
-      "lat": 51.214204409581, 
-      "lon": 4.436998683443, 
-      "municipality": "Antwerpen", 
-      "pcode": "2140", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Turnhoutsebaan_BO"
-    }, 
-    {
-      "busnrs": [
         "1", 
         "2", 
         "3", 
@@ -2014,6 +1911,11 @@
       "street": "Turnhoutsebaan_BO"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
         "230"
       ], 
@@ -2066,8 +1968,8 @@
         "234"
       ], 
       "housenumber": "234", 
-      "lat": 51.213991388334, 
-      "lon": 4.437721453059, 
+      "lat": 51.213991427867, 
+      "lon": 4.437721478878, 
       "municipality": "Antwerpen", 
       "pcode": "2140", 
       "source": "manueleAanduidingVanGebouw", 
@@ -2261,18 +2163,6 @@
     }, 
     {
       "hnrlbls": [
-        "246b"
-      ], 
-      "housenumber": "246b", 
-      "lat": 51.213901236525, 
-      "lon": 4.438693642871, 
-      "municipality": "Antwerpen", 
-      "pcode": "2140", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Turnhoutsebaan_BO"
-    }, 
-    {
-      "hnrlbls": [
         "247"
       ], 
       "housenumber": "247", 
@@ -2442,6 +2332,18 @@
     }, 
     {
       "hnrlbls": [
+        "260"
+      ], 
+      "housenumber": "260", 
+      "lat": 51.213858452748, 
+      "lon": 4.439291067542, 
+      "municipality": "Antwerpen", 
+      "pcode": "2140", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Turnhoutsebaan_BO"
+    }, 
+    {
+      "hnrlbls": [
         "261"
       ], 
       "housenumber": "261", 
@@ -2537,11 +2439,11 @@
         "270"
       ], 
       "housenumber": "270", 
-      "lat": 51.213810454742, 
-      "lon": 4.439290851117, 
+      "lat": 51.213844553825, 
+      "lon": 4.439385213487, 
       "municipality": "Antwerpen", 
       "pcode": "2140", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Turnhoutsebaan_BO"
     }, 
     {
@@ -2769,7 +2671,14 @@
     }, 
     {
       "busnrs": [
-        "3"
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6", 
+        "7", 
+        "8"
       ], 
       "hnrlbls": [
         "286"
@@ -3182,8 +3091,8 @@
         "32"
       ], 
       "housenumber": "32", 
-      "lat": 51.216492440509, 
-      "lon": 4.429651206356, 
+      "lat": 51.216492438531, 
+      "lon": 4.429651138327, 
       "municipality": "Antwerpen", 
       "pcode": "2140", 
       "source": "manueleAanduidingVanPerceel", 
@@ -3219,8 +3128,8 @@
         "321"
       ], 
       "housenumber": "321", 
-      "lat": 51.214134273294, 
-      "lon": 4.441149035233, 
+      "lat": 51.214134251692, 
+      "lon": 4.441149083857, 
       "municipality": "Antwerpen", 
       "pcode": "2140", 
       "source": "manueleAanduidingVanGebouw", 
@@ -3254,18 +3163,6 @@
       "municipality": "Antwerpen", 
       "pcode": "2140", 
       "source": "afgeleidVanGebouw", 
-      "street": "Turnhoutsebaan_BO"
-    }, 
-    {
-      "hnrlbls": [
-        "322B"
-      ], 
-      "housenumber": "322B", 
-      "lat": 51.213794065212, 
-      "lon": 4.4417948803, 
-      "municipality": "Antwerpen", 
-      "pcode": "2140", 
-      "source": "manueleAanduidingVanGebouw", 
       "street": "Turnhoutsebaan_BO"
     }, 
     {
@@ -3512,7 +3409,9 @@
     }, 
     {
       "busnrs": [
+        "1", 
         "2", 
+        "3", 
         "4"
       ], 
       "hnrlbls": [
@@ -3543,8 +3442,8 @@
         "349"
       ], 
       "housenumber": "349", 
-      "lat": 51.214566331079, 
-      "lon": 4.442018932235, 
+      "lat": 51.214566323088, 
+      "lon": 4.442018888888, 
       "municipality": "Antwerpen", 
       "pcode": "2140", 
       "source": "manueleAanduidingVanPerceel", 
@@ -3572,15 +3471,17 @@
       "street": "Turnhoutsebaan_BO"
     }, 
     {
-      "busnrs": [
-        "3"
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301"
       ], 
       "hnrlbls": [
         "351"
       ], 
       "housenumber": "351", 
-      "lat": 51.214447468443, 
-      "lon": 4.442133677427, 
+      "lat": 51.214447424436, 
+      "lon": 4.442133620111, 
       "municipality": "Antwerpen", 
       "pcode": "2140", 
       "source": "manueleAanduidingVanGebouw", 
@@ -3646,8 +3547,8 @@
         "359"
       ], 
       "housenumber": "359", 
-      "lat": 51.214585008209, 
-      "lon": 4.442465719156, 
+      "lat": 51.21458500826, 
+      "lon": 4.442465718826, 
       "municipality": "Antwerpen", 
       "pcode": "2140", 
       "source": "manueleAanduidingVanPerceel", 
@@ -3714,8 +3615,8 @@
         "361"
       ], 
       "housenumber": "361", 
-      "lat": 51.214601334298, 
-      "lon": 4.442517838504, 
+      "lat": 51.214601334357, 
+      "lon": 4.442517838202, 
       "municipality": "Antwerpen", 
       "pcode": "2140", 
       "source": "manueleAanduidingVanPerceel", 
@@ -3737,8 +3638,8 @@
         "363"
       ], 
       "housenumber": "363", 
-      "lat": 51.214617660363, 
-      "lon": 4.442569957889, 
+      "lat": 51.214617660431, 
+      "lon": 4.442569957615, 
       "municipality": "Antwerpen", 
       "pcode": "2140", 
       "source": "manueleAanduidingVanPerceel", 
@@ -3761,8 +3662,8 @@
         "365"
       ], 
       "housenumber": "365", 
-      "lat": 51.214635242254, 
-      "lon": 4.442626086497, 
+      "lat": 51.214635242331, 
+      "lon": 4.442626086254, 
       "municipality": "Antwerpen", 
       "pcode": "2140", 
       "source": "manueleAanduidingVanPerceel", 
@@ -3797,8 +3698,8 @@
         "367"
       ], 
       "housenumber": "367", 
-      "lat": 51.214647794408, 
-      "lon": 4.442676196329, 
+      "lat": 51.214647794493, 
+      "lon": 4.442676196113, 
       "municipality": "Antwerpen", 
       "pcode": "2140", 
       "source": "manueleAanduidingVanPerceel", 
@@ -3809,8 +3710,8 @@
         "369"
       ], 
       "housenumber": "369", 
-      "lat": 51.214660345276, 
-      "lon": 4.442728309776, 
+      "lat": 51.214660345367, 
+      "lon": 4.442728309588, 
       "municipality": "Antwerpen", 
       "pcode": "2140", 
       "source": "manueleAanduidingVanPerceel", 
@@ -3941,8 +3842,8 @@
         "385A"
       ], 
       "housenumber": "385A", 
-      "lat": 51.21485068383, 
-      "lon": 4.443493130961, 
+      "lat": 51.214852211128, 
+      "lon": 4.443494278346, 
       "municipality": "Antwerpen", 
       "pcode": "2140", 
       "source": "afgeleidVanPerceelGrb", 
@@ -4088,8 +3989,8 @@
         "404A"
       ], 
       "housenumber": "404A", 
-      "lat": 51.214914382294, 
-      "lon": 4.445141197464, 
+      "lat": 51.214914427225, 
+      "lon": 4.445141197554, 
       "municipality": "Antwerpen", 
       "pcode": "2140", 
       "source": "manueleAanduidingVanPerceel", 
@@ -4164,12 +4065,16 @@
       "street": "Turnhoutsebaan_BO"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "413"
       ], 
       "housenumber": "413", 
-      "lat": 51.21542832844, 
-      "lon": 4.445423915549, 
+      "lat": 51.215428289744, 
+      "lon": 4.445423985612, 
       "municipality": "Antwerpen", 
       "pcode": "2140", 
       "source": "manueleAanduidingVanGebouw", 
@@ -4408,6 +4313,7 @@
         "7", 
         "71", 
         "72", 
+        "73", 
         "74", 
         "75", 
         "76", 
@@ -4455,8 +4361,8 @@
         "455A-455_17"
       ], 
       "housenumber": "455A", 
-      "lat": 51.219634647466, 
-      "lon": 4.45302236207, 
+      "lat": 51.219634679809, 
+      "lon": 4.453022383598, 
       "municipality": "Antwerpen", 
       "pcode": "2140", 
       "source": "manueleAanduidingVanGebouw", 
@@ -4470,8 +4376,8 @@
         "455A-455_17"
       ], 
       "housenumber": "455G", 
-      "lat": 51.219634647466, 
-      "lon": 4.45302236207, 
+      "lat": 51.219634679809, 
+      "lon": 4.453022383598, 
       "municipality": "Antwerpen", 
       "pcode": "2140", 
       "source": "manueleAanduidingVanGebouw", 
@@ -4485,8 +4391,8 @@
         "455A-455_17"
       ], 
       "housenumber": "455_1", 
-      "lat": 51.219634647466, 
-      "lon": 4.45302236207, 
+      "lat": 51.219634679809, 
+      "lon": 4.453022383598, 
       "municipality": "Antwerpen", 
       "pcode": "2140", 
       "source": "manueleAanduidingVanGebouw", 
@@ -4501,8 +4407,8 @@
         "455A-455_17"
       ], 
       "housenumber": "455_17", 
-      "lat": 51.219634647466, 
-      "lon": 4.45302236207, 
+      "lat": 51.219634679809, 
+      "lon": 4.453022383598, 
       "municipality": "Antwerpen", 
       "pcode": "2140", 
       "source": "manueleAanduidingVanGebouw", 
@@ -4516,8 +4422,8 @@
         "455A-455_17"
       ], 
       "housenumber": "455_6", 
-      "lat": 51.219634647466, 
-      "lon": 4.45302236207, 
+      "lat": 51.219634679809, 
+      "lon": 4.453022383598, 
       "municipality": "Antwerpen", 
       "pcode": "2140", 
       "source": "manueleAanduidingVanGebouw", 
@@ -4658,8 +4564,8 @@
         "457D-457_16"
       ], 
       "housenumber": "457D", 
-      "lat": 51.219880215705, 
-      "lon": 4.453229935462, 
+      "lat": 51.219880183343, 
+      "lon": 4.453229939697, 
       "municipality": "Antwerpen", 
       "pcode": "2140", 
       "source": "manueleAanduidingVanGebouw", 
@@ -4673,8 +4579,8 @@
         "457D-457_16"
       ], 
       "housenumber": "457F", 
-      "lat": 51.219880215705, 
-      "lon": 4.453229935462, 
+      "lat": 51.219880183343, 
+      "lon": 4.453229939697, 
       "municipality": "Antwerpen", 
       "pcode": "2140", 
       "source": "manueleAanduidingVanGebouw", 
@@ -4688,8 +4594,8 @@
         "457D-457_16"
       ], 
       "housenumber": "457_11", 
-      "lat": 51.219880215705, 
-      "lon": 4.453229935462, 
+      "lat": 51.219880183343, 
+      "lon": 4.453229939697, 
       "municipality": "Antwerpen", 
       "pcode": "2140", 
       "source": "manueleAanduidingVanGebouw", 
@@ -4703,8 +4609,8 @@
         "457D-457_16"
       ], 
       "housenumber": "457_16", 
-      "lat": 51.219880215705, 
-      "lon": 4.453229935462, 
+      "lat": 51.219880183343, 
+      "lon": 4.453229939697, 
       "municipality": "Antwerpen", 
       "pcode": "2140", 
       "source": "manueleAanduidingVanGebouw", 
@@ -4825,8 +4731,8 @@
         "459_16"
       ], 
       "housenumber": "459_16", 
-      "lat": 51.220338049477, 
-      "lon": 4.452838482128, 
+      "lat": 51.220338063879, 
+      "lon": 4.452838453528, 
       "municipality": "Antwerpen", 
       "pcode": "2140", 
       "source": "manueleAanduidingVanGebouw", 
@@ -4981,8 +4887,8 @@
         "461_4-461_16"
       ], 
       "housenumber": "461_13", 
-      "lat": 51.220624192179, 
-      "lon": 4.45276965778, 
+      "lat": 51.220624213723, 
+      "lon": 4.452769697896, 
       "municipality": "Antwerpen", 
       "pcode": "2140", 
       "source": "manueleAanduidingVanGebouw", 
@@ -4996,8 +4902,8 @@
         "461_4-461_16"
       ], 
       "housenumber": "461_16", 
-      "lat": 51.220624192179, 
-      "lon": 4.45276965778, 
+      "lat": 51.220624213723, 
+      "lon": 4.452769697896, 
       "municipality": "Antwerpen", 
       "pcode": "2140", 
       "source": "manueleAanduidingVanGebouw", 
@@ -5011,18 +4917,14 @@
         "461_4-461_16"
       ], 
       "housenumber": "461_4", 
-      "lat": 51.220624192179, 
-      "lon": 4.45276965778, 
+      "lat": 51.220624213723, 
+      "lon": 4.452769697896, 
       "municipality": "Antwerpen", 
       "pcode": "2140", 
       "source": "manueleAanduidingVanGebouw", 
       "street": "Turnhoutsebaan_BO"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "3"
-      ], 
       "hnrlbls": [
         "48"
       ], 
@@ -5040,7 +4942,15 @@
         "10", 
         "11", 
         "12", 
+        "13", 
+        "14", 
+        "15", 
+        "16", 
+        "17", 
+        "18", 
+        "19", 
         "2", 
+        "20", 
         "3", 
         "4", 
         "5", 
@@ -5061,9 +4971,6 @@
       "street": "Turnhoutsebaan_BO"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
         "50"
       ], 
@@ -5088,9 +4995,6 @@
       "street": "Turnhoutsebaan_BO"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
         "54"
       ], 
@@ -5103,9 +5007,6 @@
       "street": "Turnhoutsebaan_BO"
     }, 
     {
-      "busnrs": [
-        "3"
-      ], 
       "hnrlbls": [
         "56"
       ], 
@@ -5142,9 +5043,6 @@
       "street": "Turnhoutsebaan_BO"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
         "60"
       ], 
@@ -5201,36 +5099,6 @@
       "municipality": "Antwerpen", 
       "pcode": "2140", 
       "source": "afgeleidVanGebouw", 
-      "street": "Turnhoutsebaan_BO"
-    }, 
-    {
-      "busnrs": [
-        "A"
-      ], 
-      "hnrlbls": [
-        "63_1-63_3"
-      ], 
-      "housenumber": "63_1", 
-      "lat": 51.216304532524, 
-      "lon": 4.430899337831, 
-      "municipality": "Antwerpen", 
-      "pcode": "2140", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Turnhoutsebaan_BO"
-    }, 
-    {
-      "busnrs": [
-        "C"
-      ], 
-      "hnrlbls": [
-        "63_1-63_3"
-      ], 
-      "housenumber": "63_3", 
-      "lat": 51.216304532524, 
-      "lon": 4.430899337831, 
-      "municipality": "Antwerpen", 
-      "pcode": "2140", 
-      "source": "manueleAanduidingVanGebouw", 
       "street": "Turnhoutsebaan_BO"
     }, 
     {
@@ -5299,12 +5167,10 @@
       "street": "Turnhoutsebaan_BO"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5"
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301"
       ], 
       "hnrlbls": [
         "67"
@@ -5363,36 +5229,6 @@
       "municipality": "Antwerpen", 
       "pcode": "2140", 
       "source": "afgeleidVanGebouw", 
-      "street": "Turnhoutsebaan_BO"
-    }, 
-    {
-      "busnrs": [
-        "2"
-      ], 
-      "hnrlbls": [
-        "69b"
-      ], 
-      "housenumber": "69b", 
-      "lat": 51.216225735092, 
-      "lon": 4.43138724284, 
-      "municipality": "Antwerpen", 
-      "pcode": "2140", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Turnhoutsebaan_BO"
-    }, 
-    {
-      "busnrs": [
-        "A"
-      ], 
-      "hnrlbls": [
-        "6_1"
-      ], 
-      "housenumber": "6_1", 
-      "lat": 51.217017350453, 
-      "lon": 4.429084483102, 
-      "municipality": "Antwerpen", 
-      "pcode": "2140", 
-      "source": "manueleAanduidingVanGebouw", 
       "street": "Turnhoutsebaan_BO"
     }, 
     {
@@ -5471,9 +5307,6 @@
       "street": "Turnhoutsebaan_BO"
     }, 
     {
-      "busnrs": [
-        "2"
-      ], 
       "hnrlbls": [
         "74"
       ], 
@@ -5501,17 +5334,14 @@
       "busnrs": [
         "11", 
         "12", 
-        "14", 
         "21", 
         "22", 
-        "3", 
         "31", 
         "32", 
         "41", 
         "42", 
         "51", 
         "52", 
-        "6", 
         "61", 
         "62", 
         "71", 
@@ -5598,36 +5428,6 @@
       "street": "Turnhoutsebaan_BO"
     }, 
     {
-      "busnrs": [
-        "A", 
-        "B"
-      ], 
-      "hnrlbls": [
-        "80_1"
-      ], 
-      "housenumber": "80_1", 
-      "lat": 51.215632359865, 
-      "lon": 4.431330445496, 
-      "municipality": "Antwerpen", 
-      "pcode": "2140", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Turnhoutsebaan_BO"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "10", 
-        "11", 
-        "12", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6", 
-        "7", 
-        "8", 
-        "9"
-      ], 
       "hnrlbls": [
         "81"
       ], 
@@ -5640,11 +5440,13 @@
       "street": "Turnhoutsebaan_BO"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "5"
+      "apptnrs": [
+        "101", 
+        "102", 
+        "201", 
+        "202", 
+        "301", 
+        "302"
       ], 
       "hnrlbls": [
         "82"
@@ -5670,10 +5472,6 @@
       "street": "Turnhoutsebaan_BO"
     }, 
     {
-      "busnrs": [
-        "4", 
-        "8"
-      ], 
       "hnrlbls": [
         "84"
       ], 
@@ -5751,36 +5549,6 @@
     }, 
     {
       "busnrs": [
-        "A"
-      ], 
-      "hnrlbls": [
-        "8a-8_1"
-      ], 
-      "housenumber": "8_1", 
-      "lat": 51.216974533152, 
-      "lon": 4.429154380221, 
-      "municipality": "Antwerpen", 
-      "pcode": "2140", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Turnhoutsebaan_BO"
-    }, 
-    {
-      "busnrs": [
-        "2"
-      ], 
-      "hnrlbls": [
-        "8a-8_1"
-      ], 
-      "housenumber": "8a", 
-      "lat": 51.216974533152, 
-      "lon": 4.429154380221, 
-      "municipality": "Antwerpen", 
-      "pcode": "2140", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Turnhoutsebaan_BO"
-    }, 
-    {
-      "busnrs": [
         "1", 
         "2", 
         "3", 
@@ -5847,6 +5615,11 @@
       "street": "Turnhoutsebaan_BO"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "94"
       ], 

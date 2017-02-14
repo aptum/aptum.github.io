@@ -1,6 +1,11 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "BU01", 
+        "BU02", 
+        "BU11"
+      ], 
       "hnrlbls": [
         "100"
       ], 
@@ -14,14 +19,26 @@
     }, 
     {
       "hnrlbls": [
-        "108"
+        "104"
       ], 
-      "housenumber": "108", 
-      "lat": 50.945327322581, 
-      "lon": 5.515453846345, 
+      "housenumber": "104", 
+      "lat": 50.945486171299, 
+      "lon": 5.515998080793, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Sledderloweg"
+    }, 
+    {
+      "hnrlbls": [
+        "106"
+      ], 
+      "housenumber": "106", 
+      "lat": 50.945283110842, 
+      "lon": 5.516040926857, 
+      "municipality": "Genk", 
+      "pcode": "3600", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Sledderloweg"
     }, 
     {
@@ -53,8 +70,8 @@
         "15"
       ], 
       "housenumber": "15", 
-      "lat": 50.95263683612, 
-      "lon": 5.512426106659, 
+      "lat": 50.95264395566, 
+      "lon": 5.512452042295, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
@@ -113,11 +130,11 @@
         "36"
       ], 
       "housenumber": "36", 
-      "lat": 50.951418353301, 
-      "lon": 5.512622817196, 
+      "lat": 50.951050872256, 
+      "lon": 5.512775389024, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Sledderloweg"
     }, 
     {
@@ -137,8 +154,8 @@
         "39"
       ], 
       "housenumber": "39", 
-      "lat": 50.950609657792, 
-      "lon": 5.513676637379, 
+      "lat": 50.950614911737, 
+      "lon": 5.51370024932, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
@@ -146,15 +163,15 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "2"
+        "BU01", 
+        "BU02"
       ], 
       "hnrlbls": [
         "4"
       ], 
       "housenumber": "4", 
-      "lat": 50.953830295564, 
-      "lon": 5.511123547566, 
+      "lat": 50.953829075903, 
+      "lon": 5.511128784215, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
@@ -201,8 +218,8 @@
         "45"
       ], 
       "housenumber": "45", 
-      "lat": 50.950081151389, 
-      "lon": 5.51392218661, 
+      "lat": 50.950082801165, 
+      "lon": 5.513918953483, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
@@ -225,8 +242,8 @@
         "49"
       ], 
       "housenumber": "49", 
-      "lat": 50.949361688017, 
-      "lon": 5.514306238904, 
+      "lat": 50.949377678865, 
+      "lon": 5.514381205989, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
@@ -237,8 +254,8 @@
         "50"
       ], 
       "housenumber": "50", 
-      "lat": 50.949978958773, 
-      "lon": 5.513329049684, 
+      "lat": 50.949976750552, 
+      "lon": 5.513325010718, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
@@ -282,30 +299,6 @@
     }, 
     {
       "hnrlbls": [
-        "54-54A"
-      ], 
-      "housenumber": "54", 
-      "lat": 50.949285845718, 
-      "lon": 5.513740083212, 
-      "municipality": "Genk", 
-      "pcode": "3600", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Sledderloweg"
-    }, 
-    {
-      "hnrlbls": [
-        "54-54A"
-      ], 
-      "housenumber": "54A", 
-      "lat": 50.949285845718, 
-      "lon": 5.513740083212, 
-      "municipality": "Genk", 
-      "pcode": "3600", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Sledderloweg"
-    }, 
-    {
-      "hnrlbls": [
         "55"
       ], 
       "housenumber": "55", 
@@ -345,8 +338,8 @@
         "6"
       ], 
       "housenumber": "6", 
-      "lat": 50.953661195638, 
-      "lon": 5.511224468378, 
+      "lat": 50.953663260075, 
+      "lon": 5.511234055083, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
@@ -369,8 +362,8 @@
         "61"
       ], 
       "housenumber": "61", 
-      "lat": 50.948334566176, 
-      "lon": 5.514976786874, 
+      "lat": 50.948332648114, 
+      "lon": 5.514979870965, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
@@ -381,8 +374,8 @@
         "63"
       ], 
       "housenumber": "63", 
-      "lat": 50.948155231545, 
-      "lon": 5.515140336068, 
+      "lat": 50.948154762695, 
+      "lon": 5.515142317045, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
@@ -417,8 +410,8 @@
         "69"
       ], 
       "housenumber": "69", 
-      "lat": 50.94771094799, 
-      "lon": 5.515285875669, 
+      "lat": 50.947708263252, 
+      "lon": 5.515303030247, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
@@ -429,8 +422,8 @@
         "71"
       ], 
       "housenumber": "71", 
-      "lat": 50.947537026149, 
-      "lon": 5.515521138667, 
+      "lat": 50.947539463657, 
+      "lon": 5.515529310289, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
@@ -441,8 +434,8 @@
         "73"
       ], 
       "housenumber": "73", 
-      "lat": 50.947317322037, 
-      "lon": 5.515638866051, 
+      "lat": 50.947317580148, 
+      "lon": 5.515649261355, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
@@ -498,6 +491,18 @@
     }, 
     {
       "hnrlbls": [
+        "82"
+      ], 
+      "housenumber": "82", 
+      "lat": 50.947082850222, 
+      "lon": 5.515003815843, 
+      "municipality": "Genk", 
+      "pcode": "3600", 
+      "source": "manueleAanduidingVanLigplaats", 
+      "street": "Sledderloweg"
+    }, 
+    {
+      "hnrlbls": [
         "83"
       ], 
       "housenumber": "83", 
@@ -509,9 +514,6 @@
       "street": "Sledderloweg"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
         "85"
       ], 
@@ -549,14 +551,38 @@
     }, 
     {
       "hnrlbls": [
-        "90"
+        "91A"
       ], 
-      "housenumber": "90", 
-      "lat": 50.946906344346, 
-      "lon": 5.513374705042, 
+      "housenumber": "91A", 
+      "lat": 50.945712752991, 
+      "lon": 5.516584393538, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Sledderloweg"
+    }, 
+    {
+      "hnrlbls": [
+        "93"
+      ], 
+      "housenumber": "93", 
+      "lat": 50.945716521766, 
+      "lon": 5.51664952153, 
+      "municipality": "Genk", 
+      "pcode": "3600", 
+      "source": "afgeleidVanPerceelKadaster", 
+      "street": "Sledderloweg"
+    }, 
+    {
+      "hnrlbls": [
+        "95"
+      ], 
+      "housenumber": "95", 
+      "lat": 50.945023367389, 
+      "lon": 5.517339249308, 
+      "municipality": "Genk", 
+      "pcode": "3600", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Sledderloweg"
     }, 
     {

@@ -3,6 +3,7 @@
     {
       "busnrs": [
         "1", 
+        "1001", 
         "1003", 
         "1102", 
         "1103", 
@@ -11,6 +12,7 @@
         "15", 
         "1502", 
         "1601", 
+        "1602", 
         "302", 
         "502", 
         "503", 
@@ -35,11 +37,23 @@
         "2"
       ], 
       "housenumber": "2", 
-      "lat": 51.144804311247, 
-      "lon": 2.706792687923, 
+      "lat": 51.144767433186, 
+      "lon": 2.706836308695, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Meeuwenlaan"
+    }, 
+    {
+      "hnrlbls": [
+        "zn"
+      ], 
+      "housenumber": "zn", 
+      "lat": 51.144399763745, 
+      "lon": 2.70697459833, 
+      "municipality": "Nieuwpoort", 
+      "pcode": "8620", 
+      "source": "afgeleidVanStraat", 
       "street": "Meeuwenlaan"
     }
   ]

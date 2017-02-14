@@ -1,6 +1,12 @@
 {
   "addresses": [
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
         "85"
       ], 
@@ -13,10 +19,13 @@
       "street": "Van Steenlandstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3"
+      "apptnrs": [
+        "101", 
+        "102", 
+        "201", 
+        "202", 
+        "301", 
+        "302"
       ], 
       "hnrlbls": [
         "87"
@@ -42,13 +51,13 @@
       "street": "Van Steenlandstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6"
+      "apptnrs": [
+        "101", 
+        "102", 
+        "201", 
+        "202", 
+        "301", 
+        "302"
       ], 
       "hnrlbls": [
         "89"
@@ -74,6 +83,11 @@
       "street": "Van Steenlandstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "92-94"
       ], 
@@ -86,9 +100,6 @@
       "street": "Van Steenlandstraat"
     }, 
     {
-      "busnrs": [
-        "3"
-      ], 
       "hnrlbls": [
         "93"
       ], 
@@ -101,8 +112,10 @@
       "street": "Van Steenlandstraat"
     }, 
     {
-      "busnrs": [
-        "2"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "92-94"
@@ -116,18 +129,32 @@
       "street": "Van Steenlandstraat"
     }, 
     {
-      "busnrs": [
-        "2"
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301"
       ], 
       "hnrlbls": [
-        "96A"
+        "96"
       ], 
-      "housenumber": "96A", 
-      "lat": 51.2075111882, 
-      "lon": 4.452651441341, 
+      "housenumber": "96", 
+      "lat": 51.20744070961, 
+      "lon": 4.452664334851, 
       "municipality": "Antwerpen", 
       "pcode": "2140", 
       "source": "afgeleidVanGebouw", 
+      "street": "Van Steenlandstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "98"
+      ], 
+      "housenumber": "98", 
+      "lat": 51.207311142456, 
+      "lon": 4.452474074726, 
+      "municipality": "Antwerpen", 
+      "pcode": "2140", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Van Steenlandstraat"
     }
   ]

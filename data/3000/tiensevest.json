@@ -97,8 +97,8 @@
         "108-116"
       ], 
       "housenumber": "108", 
-      "lat": 50.877001929625, 
-      "lon": 4.715150229837, 
+      "lat": 50.877002288358, 
+      "lon": 4.715150516661, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanPerceelGrb", 
@@ -109,8 +109,8 @@
         "108-116"
       ], 
       "housenumber": "110", 
-      "lat": 50.877001929625, 
-      "lon": 4.715150229837, 
+      "lat": 50.877002288358, 
+      "lon": 4.715150516661, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanPerceelGrb", 
@@ -121,8 +121,8 @@
         "108-116"
       ], 
       "housenumber": "112", 
-      "lat": 50.877001929625, 
-      "lon": 4.715150229837, 
+      "lat": 50.877002288358, 
+      "lon": 4.715150516661, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanPerceelGrb", 
@@ -133,8 +133,8 @@
         "108-116"
       ], 
       "housenumber": "114", 
-      "lat": 50.877001929625, 
-      "lon": 4.715150229837, 
+      "lat": 50.877002288358, 
+      "lon": 4.715150516661, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanPerceelGrb", 
@@ -145,8 +145,8 @@
         "108-116"
       ], 
       "housenumber": "116", 
-      "lat": 50.877001929625, 
-      "lon": 4.715150229837, 
+      "lat": 50.877002288358, 
+      "lon": 4.715150516661, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanPerceelGrb", 
@@ -324,6 +324,11 @@
       "street": "Tiensevest"
     }, 
     {
+      "busnrs": [
+        "02K1", 
+        "02K2", 
+        "03K3"
+      ], 
       "hnrlbls": [
         "138"
       ], 
@@ -442,11 +447,11 @@
         "148"
       ], 
       "housenumber": "148", 
-      "lat": 50.875170026425, 
-      "lon": 4.714425296215, 
+      "lat": 50.875144773772, 
+      "lon": 4.714574863265, 
       "municipality": "Leuven", 
       "pcode": "3000", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Tiensevest"
     }, 
     {
@@ -598,6 +603,10 @@
       "street": "Tiensevest"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "201"
+      ], 
       "hnrlbls": [
         "166"
       ], 
@@ -770,7 +779,7 @@
     }, 
     {
       "hnrlbls": [
-        "188-190"
+        "166-190"
       ], 
       "housenumber": "188", 
       "lat": 50.873879204237, 
@@ -785,7 +794,7 @@
         "0101"
       ], 
       "hnrlbls": [
-        "188-190"
+        "166-190"
       ], 
       "housenumber": "190", 
       "lat": 50.873879204237, 
@@ -800,11 +809,8 @@
         "0001", 
         "0101", 
         "0102", 
-        "0103", 
         "0201", 
-        "0202", 
-        "0203", 
-        "0301"
+        "0202"
       ], 
       "hnrlbls": [
         "192"
@@ -846,8 +852,8 @@
         "1D-19B"
       ], 
       "housenumber": "1D", 
-      "lat": 50.882057951895, 
-      "lon": 4.71489244452, 
+      "lat": 50.882061814784, 
+      "lon": 4.714893325653, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanPerceelGrb", 
@@ -930,12 +936,8 @@
         "0002", 
         "0101", 
         "0102", 
-        "0103", 
         "0201", 
-        "0202", 
-        "0301", 
-        "0302", 
-        "0303"
+        "0202"
       ], 
       "hnrlbls": [
         "30"
@@ -1104,6 +1106,11 @@
       "street": "Tiensevest"
     }, 
     {
+      "busnrs": [
+        "02K1", 
+        "03K2", 
+        "03K3"
+      ], 
       "hnrlbls": [
         "52"
       ], 
@@ -1113,6 +1120,22 @@
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanGebouw", 
+      "street": "Tiensevest"
+    }, 
+    {
+      "busnrs": [
+        "2", 
+        "3"
+      ], 
+      "hnrlbls": [
+        "52K"
+      ], 
+      "housenumber": "52K", 
+      "lat": 50.879533174746, 
+      "lon": 4.71497682148, 
+      "municipality": "Leuven", 
+      "pcode": "3000", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Tiensevest"
     }, 
     {
@@ -1167,8 +1190,8 @@
         "58A"
       ], 
       "housenumber": "58A", 
-      "lat": 50.879348183266, 
-      "lon": 4.715029431958, 
+      "lat": 50.879348194501, 
+      "lon": 4.715029450943, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanGebouw", 

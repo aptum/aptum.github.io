@@ -13,6 +13,11 @@
       "street": "Vosstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "10-12"
       ], 
@@ -62,21 +67,6 @@
     }, 
     {
       "hnrlbls": [
-        "109"
-      ], 
-      "housenumber": "109", 
-      "lat": 51.194593400448, 
-      "lon": 4.452439640337, 
-      "municipality": "Antwerpen", 
-      "pcode": "2140", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Vosstraat"
-    }, 
-    {
-      "busnrs": [
-        "4"
-      ], 
-      "hnrlbls": [
         "11"
       ], 
       "housenumber": "11", 
@@ -124,10 +114,6 @@
       "street": "Vosstraat"
     }, 
     {
-      "busnrs": [
-        "2", 
-        "3"
-      ], 
       "hnrlbls": [
         "16"
       ], 
@@ -188,6 +174,11 @@
       "street": "Vosstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "13-17"
       ], 
@@ -200,10 +191,6 @@
       "street": "Vosstraat"
     }, 
     {
-      "busnrs": [
-        "2", 
-        "3"
-      ], 
       "hnrlbls": [
         "18"
       ], 
@@ -228,8 +215,13 @@
       "street": "Vosstraat"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
-        "2"
+        "2-2A"
       ], 
       "housenumber": "2", 
       "lat": 51.198508411163, 
@@ -264,10 +256,6 @@
       "street": "Vosstraat"
     }, 
     {
-      "busnrs": [
-        "2", 
-        "3"
-      ], 
       "hnrlbls": [
         "23"
       ], 
@@ -351,9 +339,10 @@
       "street": "Vosstraat"
     }, 
     {
-      "busnrs": [
-        "2", 
-        "3"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "29"
@@ -361,6 +350,18 @@
       "housenumber": "29", 
       "lat": 51.19767412188, 
       "lon": 4.45316636552, 
+      "municipality": "Antwerpen", 
+      "pcode": "2140", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Vosstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "2-2A"
+      ], 
+      "housenumber": "2A", 
+      "lat": 51.198508411163, 
+      "lon": 4.452945136607, 
       "municipality": "Antwerpen", 
       "pcode": "2140", 
       "source": "afgeleidVanGebouw", 
@@ -380,22 +381,17 @@
     }, 
     {
       "hnrlbls": [
-        "30-368"
+        "30"
       ], 
       "housenumber": "30", 
-      "lat": 51.197719251591, 
-      "lon": 4.452529393794, 
+      "lat": 51.197726772128, 
+      "lon": 4.452696646645, 
       "municipality": "Antwerpen", 
       "pcode": "2140", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Vosstraat"
     }, 
     {
-      "busnrs": [
-        "5", 
-        "6", 
-        "8"
-      ], 
       "hnrlbls": [
         "31"
       ], 
@@ -417,17 +413,14 @@
         "32"
       ], 
       "housenumber": "32", 
-      "lat": 51.197665196673, 
-      "lon": 4.452577221556, 
+      "lat": 51.197689570451, 
+      "lon": 4.452681843799, 
       "municipality": "Antwerpen", 
       "pcode": "2140", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Vosstraat"
     }, 
     {
-      "busnrs": [
-        "3"
-      ], 
       "hnrlbls": [
         "34"
       ], 
@@ -440,10 +433,6 @@
       "street": "Vosstraat"
     }, 
     {
-      "busnrs": [
-        "3", 
-        "4"
-      ], 
       "hnrlbls": [
         "35"
       ], 
@@ -527,9 +516,6 @@
       "street": "Vosstraat"
     }, 
     {
-      "busnrs": [
-        "2"
-      ], 
       "hnrlbls": [
         "41"
       ], 
@@ -614,9 +600,6 @@
       "street": "Vosstraat"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
         "48"
       ], 
@@ -876,8 +859,8 @@
         "69"
       ], 
       "housenumber": "69", 
-      "lat": 51.196432154019, 
-      "lon": 4.452582283683, 
+      "lat": 51.19643107837, 
+      "lon": 4.452578133058, 
       "municipality": "Antwerpen", 
       "pcode": "2140", 
       "source": "afgeleidVanGebouw", 
@@ -1020,17 +1003,14 @@
         "7A"
       ], 
       "housenumber": "7A", 
-      "lat": 51.198003201628, 
-      "lon": 4.453776900562, 
+      "lat": 51.198003198075, 
+      "lon": 4.4537768419, 
       "municipality": "Antwerpen", 
       "pcode": "2140", 
       "source": "manueleAanduidingVanGebouw", 
       "street": "Vosstraat"
     }, 
     {
-      "busnrs": [
-        "2"
-      ], 
       "hnrlbls": [
         "8"
       ], 

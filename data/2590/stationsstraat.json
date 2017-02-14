@@ -12,8 +12,8 @@
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 51.116760051041, 
-      "lon": 4.650516071673, 
+      "lat": 51.116760067156, 
+      "lon": 4.650516076458, 
       "municipality": "Berlaar", 
       "pcode": "2590", 
       "source": "afgeleidVanGebouw", 
@@ -24,8 +24,8 @@
         "10"
       ], 
       "housenumber": "10", 
-      "lat": 51.116852139235, 
-      "lon": 4.649938530927, 
+      "lat": 51.116852145601, 
+      "lon": 4.649938517244, 
       "municipality": "Berlaar", 
       "pcode": "2590", 
       "source": "manueleAanduidingVanGebouw", 
@@ -207,8 +207,8 @@
         "113"
       ], 
       "housenumber": "113", 
-      "lat": 51.114603682302, 
-      "lon": 4.644450629548, 
+      "lat": 51.114603637398, 
+      "lon": 4.64445068691, 
       "municipality": "Berlaar", 
       "pcode": "2590", 
       "source": "afgeleidVanGebouw", 
@@ -231,8 +231,8 @@
         "115"
       ], 
       "housenumber": "115", 
-      "lat": 51.11456557158, 
-      "lon": 4.644392694869, 
+      "lat": 51.114565570992, 
+      "lon": 4.644392624502, 
       "municipality": "Berlaar", 
       "pcode": "2590", 
       "source": "afgeleidVanGebouw", 
@@ -259,8 +259,8 @@
         "117"
       ], 
       "housenumber": "117", 
-      "lat": 51.114622634714, 
-      "lon": 4.644245583737, 
+      "lat": 51.114622543825, 
+      "lon": 4.644246011625, 
       "municipality": "Berlaar", 
       "pcode": "2590", 
       "source": "afgeleidVanGebouw", 
@@ -1262,8 +1262,8 @@
         "198"
       ], 
       "housenumber": "198", 
-      "lat": 51.114082333471, 
-      "lon": 4.641810992204, 
+      "lat": 51.114082329488, 
+      "lon": 4.641810965088, 
       "municipality": "Berlaar", 
       "pcode": "2590", 
       "source": "afgeleidVanGebouw", 
@@ -1282,11 +1282,8 @@
       "street": "Stationsstraat"
     }, 
     {
-      "busnrs": [
-        "2"
-      ], 
       "hnrlbls": [
-        "2"
+        "2-2A"
       ], 
       "housenumber": "2", 
       "lat": 51.116981617816, 
@@ -1399,14 +1396,14 @@
         "3"
       ], 
       "hnrlbls": [
-        "205-209"
+        "207"
       ], 
       "housenumber": "207", 
-      "lat": 51.113321202095, 
-      "lon": 4.640432444067, 
+      "lat": 51.113246671391, 
+      "lon": 4.640593949533, 
       "municipality": "Berlaar", 
       "pcode": "2590", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Stationsstraat"
     }, 
     {
@@ -1414,8 +1411,8 @@
         "208"
       ], 
       "housenumber": "208", 
-      "lat": 51.113916827356, 
-      "lon": 4.641313938038, 
+      "lat": 51.113916829477, 
+      "lon": 4.641313887249, 
       "municipality": "Berlaar", 
       "pcode": "2590", 
       "source": "afgeleidVanGebouw", 
@@ -1524,6 +1521,10 @@
       "street": "Stationsstraat"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "217"
       ], 
@@ -1705,11 +1706,23 @@
     }, 
     {
       "hnrlbls": [
+        "2-2A"
+      ], 
+      "housenumber": "2A", 
+      "lat": 51.116981617816, 
+      "lon": 4.650300478682, 
+      "municipality": "Berlaar", 
+      "pcode": "2590", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Stationsstraat"
+    }, 
+    {
+      "hnrlbls": [
         "30"
       ], 
       "housenumber": "30", 
-      "lat": 51.116610553324, 
-      "lon": 4.649095753058, 
+      "lat": 51.116610559762, 
+      "lon": 4.649095740435, 
       "municipality": "Berlaar", 
       "pcode": "2590", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1736,8 +1749,8 @@
         "33"
       ], 
       "housenumber": "33", 
-      "lat": 51.11613516123, 
-      "lon": 4.648744572208, 
+      "lat": 51.116135169031, 
+      "lon": 4.648744560912, 
       "municipality": "Berlaar", 
       "pcode": "2590", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1768,8 +1781,8 @@
         "35"
       ], 
       "housenumber": "35", 
-      "lat": 51.116102737258, 
-      "lon": 4.64862041567, 
+      "lat": 51.116102745123, 
+      "lon": 4.648620404623, 
       "municipality": "Berlaar", 
       "pcode": "2590", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1852,14 +1865,15 @@
     }, 
     {
       "busnrs": [
+        "2", 
         "3"
       ], 
       "hnrlbls": [
         "41"
       ], 
       "housenumber": "41", 
-      "lat": 51.116050334261, 
-      "lon": 4.648307729906, 
+      "lat": 51.116050364425, 
+      "lon": 4.64830775882, 
       "municipality": "Berlaar", 
       "pcode": "2590", 
       "source": "afgeleidVanGebouw", 
@@ -1870,8 +1884,8 @@
         "41A"
       ], 
       "housenumber": "41A", 
-      "lat": 51.115919740802, 
-      "lon": 4.648424247838, 
+      "lat": 51.115919750026, 
+      "lon": 4.648424224471, 
       "municipality": "Berlaar", 
       "pcode": "2590", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1926,8 +1940,8 @@
         "46"
       ], 
       "housenumber": "46", 
-      "lat": 51.11639582865, 
-      "lon": 4.648410942567, 
+      "lat": 51.116396097632, 
+      "lon": 4.648411229808, 
       "municipality": "Berlaar", 
       "pcode": "2590", 
       "source": "afgeleidVanGebouw", 
@@ -1938,8 +1952,8 @@
         "47"
       ], 
       "housenumber": "47", 
-      "lat": 51.115865197368, 
-      "lon": 4.648012271648, 
+      "lat": 51.115865177442, 
+      "lon": 4.648012312558, 
       "municipality": "Berlaar", 
       "pcode": "2590", 
       "source": "afgeleidVanGebouw", 
@@ -1970,8 +1984,8 @@
         "5"
       ], 
       "housenumber": "5", 
-      "lat": 51.116726971687, 
-      "lon": 4.650382708709, 
+      "lat": 51.1167269479, 
+      "lon": 4.650382772923, 
       "municipality": "Berlaar", 
       "pcode": "2590", 
       "source": "afgeleidVanGebouw", 
@@ -1982,8 +1996,8 @@
         "50"
       ], 
       "housenumber": "50", 
-      "lat": 51.116319516577, 
-      "lon": 4.648182697238, 
+      "lat": 51.116307972752, 
+      "lon": 4.648198765968, 
       "municipality": "Berlaar", 
       "pcode": "2590", 
       "source": "afgeleidVanGebouw", 
@@ -2275,8 +2289,8 @@
         "8"
       ], 
       "housenumber": "8", 
-      "lat": 51.116946764086, 
-      "lon": 4.649837131239, 
+      "lat": 51.116946770264, 
+      "lon": 4.649837117759, 
       "municipality": "Berlaar", 
       "pcode": "2590", 
       "source": "manueleAanduidingVanGebouw", 

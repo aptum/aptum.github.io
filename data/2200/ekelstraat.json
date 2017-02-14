@@ -1,6 +1,25 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "001", 
+        "002", 
+        "101", 
+        "102", 
+        "201"
+      ], 
+      "hnrlbls": [
+        "1"
+      ], 
+      "housenumber": "1", 
+      "lat": 51.178059079458, 
+      "lon": 4.819897803134, 
+      "municipality": "Herentals", 
+      "pcode": "2200", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Ekelstraat"
+    }, 
+    {
       "hnrlbls": [
         "100"
       ], 
@@ -17,20 +36,8 @@
         "101"
       ], 
       "housenumber": "101", 
-      "lat": 51.178144719045, 
-      "lon": 4.812988951633, 
-      "municipality": "Herentals", 
-      "pcode": "2200", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Ekelstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "101_1"
-      ], 
-      "housenumber": "101_1", 
-      "lat": 51.178078677952, 
-      "lon": 4.81283888283, 
+      "lat": 51.177306377431, 
+      "lon": 4.811425959587, 
       "municipality": "Herentals", 
       "pcode": "2200", 
       "source": "manueleAanduidingVanGebouw", 
@@ -50,23 +57,11 @@
     }, 
     {
       "hnrlbls": [
-        "102A"
-      ], 
-      "housenumber": "102A", 
-      "lat": 51.177152486225, 
-      "lon": 4.810276198277, 
-      "municipality": "Herentals", 
-      "pcode": "2200", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Ekelstraat"
-    }, 
-    {
-      "hnrlbls": [
         "103"
       ], 
       "housenumber": "103", 
-      "lat": 51.177933052925, 
-      "lon": 4.812578372524, 
+      "lat": 51.17725417162, 
+      "lon": 4.811373125107, 
       "municipality": "Herentals", 
       "pcode": "2200", 
       "source": "afgeleidVanGebouw", 
@@ -77,11 +72,11 @@
         "104"
       ], 
       "housenumber": "104", 
-      "lat": 51.177160745556, 
-      "lon": 4.810158872558, 
+      "lat": 51.177152486225, 
+      "lon": 4.810276198277, 
       "municipality": "Herentals", 
       "pcode": "2200", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Ekelstraat"
     }, 
     {
@@ -89,8 +84,8 @@
         "105"
       ], 
       "housenumber": "105", 
-      "lat": 51.177807016728, 
-      "lon": 4.81236724341, 
+      "lat": 51.177155136221, 
+      "lon": 4.811176129798, 
       "municipality": "Herentals", 
       "pcode": "2200", 
       "source": "afgeleidVanGebouw", 
@@ -101,8 +96,8 @@
         "106"
       ], 
       "housenumber": "106", 
-      "lat": 51.177134659535, 
-      "lon": 4.81004379557, 
+      "lat": 51.177165142903, 
+      "lon": 4.810160773227, 
       "municipality": "Herentals", 
       "pcode": "2200", 
       "source": "afgeleidVanGebouw", 
@@ -113,8 +108,8 @@
         "107"
       ], 
       "housenumber": "107", 
-      "lat": 51.177674438524, 
-      "lon": 4.812150762088, 
+      "lat": 51.177066133828, 
+      "lon": 4.811036144904, 
       "municipality": "Herentals", 
       "pcode": "2200", 
       "source": "afgeleidVanGebouw", 
@@ -122,47 +117,11 @@
     }, 
     {
       "hnrlbls": [
-        "109"
+        "108"
       ], 
-      "housenumber": "109", 
-      "lat": 51.177602170592, 
-      "lon": 4.811983047449, 
-      "municipality": "Herentals", 
-      "pcode": "2200", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Ekelstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "11"
-      ], 
-      "housenumber": "11", 
-      "lat": 51.178052198403, 
-      "lon": 4.81892273506, 
-      "municipality": "Herentals", 
-      "pcode": "2200", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Ekelstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "110"
-      ], 
-      "housenumber": "110", 
-      "lat": 51.176974043191, 
-      "lon": 4.809704221091, 
-      "municipality": "Herentals", 
-      "pcode": "2200", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Ekelstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "111"
-      ], 
-      "housenumber": "111", 
-      "lat": 51.177548741112, 
-      "lon": 4.811849261014, 
+      "housenumber": "108", 
+      "lat": 51.177134659535, 
+      "lon": 4.81004379557, 
       "municipality": "Herentals", 
       "pcode": "2200", 
       "source": "afgeleidVanGebouw", 
@@ -173,8 +132,20 @@
         "112"
       ], 
       "housenumber": "112", 
-      "lat": 51.176980482898, 
-      "lon": 4.809592598536, 
+      "lat": 51.176974043191, 
+      "lon": 4.809704221091, 
+      "municipality": "Herentals", 
+      "pcode": "2200", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Ekelstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "113"
+      ], 
+      "housenumber": "113", 
+      "lat": 51.176775522886, 
+      "lon": 4.810174099586, 
       "municipality": "Herentals", 
       "pcode": "2200", 
       "source": "afgeleidVanGebouw", 
@@ -185,11 +156,28 @@
         "114"
       ], 
       "housenumber": "114", 
-      "lat": 51.176891014778, 
-      "lon": 4.809456473808, 
+      "lat": 51.176980482898, 
+      "lon": 4.809592598536, 
       "municipality": "Herentals", 
       "pcode": "2200", 
       "source": "afgeleidVanGebouw", 
+      "street": "Ekelstraat"
+    }, 
+    {
+      "busnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
+      "hnrlbls": [
+        "115"
+      ], 
+      "housenumber": "115", 
+      "lat": 51.176741320048, 
+      "lon": 4.809994167715, 
+      "municipality": "Herentals", 
+      "pcode": "2200", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Ekelstraat"
     }, 
     {
@@ -197,8 +185,8 @@
         "116"
       ], 
       "housenumber": "116", 
-      "lat": 51.176824044155, 
-      "lon": 4.809313412297, 
+      "lat": 51.176891014778, 
+      "lon": 4.809456473808, 
       "municipality": "Herentals", 
       "pcode": "2200", 
       "source": "afgeleidVanGebouw", 
@@ -209,8 +197,8 @@
         "117"
       ], 
       "housenumber": "117", 
-      "lat": 51.177425819659, 
-      "lon": 4.811670054673, 
+      "lat": 51.176625250977, 
+      "lon": 4.809808599266, 
       "municipality": "Herentals", 
       "pcode": "2200", 
       "source": "afgeleidVanGebouw", 
@@ -221,8 +209,8 @@
         "118"
       ], 
       "housenumber": "118", 
-      "lat": 51.176791161551, 
-      "lon": 4.809212858384, 
+      "lat": 51.176824044155, 
+      "lon": 4.809313412297, 
       "municipality": "Herentals", 
       "pcode": "2200", 
       "source": "afgeleidVanGebouw", 
@@ -233,8 +221,8 @@
         "119"
       ], 
       "housenumber": "119", 
-      "lat": 51.177330945483, 
-      "lon": 4.81160980719, 
+      "lat": 51.176616253886, 
+      "lon": 4.809738730346, 
       "municipality": "Herentals", 
       "pcode": "2200", 
       "source": "afgeleidVanGebouw", 
@@ -245,8 +233,8 @@
         "120"
       ], 
       "housenumber": "120", 
-      "lat": 51.176755958779, 
-      "lon": 4.809083682701, 
+      "lat": 51.176804258785, 
+      "lon": 4.80919582217, 
       "municipality": "Herentals", 
       "pcode": "2200", 
       "source": "afgeleidVanGebouw", 
@@ -257,8 +245,8 @@
         "121"
       ], 
       "housenumber": "121", 
-      "lat": 51.177277099436, 
-      "lon": 4.811467151909, 
+      "lat": 51.176582594378, 
+      "lon": 4.809677780064, 
       "municipality": "Herentals", 
       "pcode": "2200", 
       "source": "afgeleidVanGebouw", 
@@ -269,8 +257,8 @@
         "122"
       ], 
       "housenumber": "122", 
-      "lat": 51.176674620068, 
-      "lon": 4.808984959321, 
+      "lat": 51.17673851011, 
+      "lon": 4.80908652082, 
       "municipality": "Herentals", 
       "pcode": "2200", 
       "source": "afgeleidVanGebouw", 
@@ -281,32 +269,20 @@
         "123"
       ], 
       "housenumber": "123", 
-      "lat": 51.17725417162, 
-      "lon": 4.811373125107, 
+      "lat": 51.176601151273, 
+      "lon": 4.809570849049, 
       "municipality": "Herentals", 
       "pcode": "2200", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Ekelstraat"
     }, 
     {
       "hnrlbls": [
-        "124-124A"
+        "124"
       ], 
       "housenumber": "124", 
-      "lat": 51.176625146375, 
-      "lon": 4.80880188153, 
-      "municipality": "Herentals", 
-      "pcode": "2200", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Ekelstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "124-124A"
-      ], 
-      "housenumber": "124A", 
-      "lat": 51.176625146375, 
-      "lon": 4.80880188153, 
+      "lat": 51.176674620068, 
+      "lon": 4.808984959321, 
       "municipality": "Herentals", 
       "pcode": "2200", 
       "source": "afgeleidVanGebouw", 
@@ -317,20 +293,20 @@
         "125"
       ], 
       "housenumber": "125", 
-      "lat": 51.177155136221, 
-      "lon": 4.811176129798, 
+      "lat": 51.176528890805, 
+      "lon": 4.809496377874, 
       "municipality": "Herentals", 
       "pcode": "2200", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Ekelstraat"
     }, 
     {
       "hnrlbls": [
-        "126"
+        "126-128"
       ], 
       "housenumber": "126", 
-      "lat": 51.176569733694, 
-      "lon": 4.808668654846, 
+      "lat": 51.176625146375, 
+      "lon": 4.80880188153, 
       "municipality": "Herentals", 
       "pcode": "2200", 
       "source": "afgeleidVanGebouw", 
@@ -341,8 +317,8 @@
         "127"
       ], 
       "housenumber": "127", 
-      "lat": 51.177066133828, 
-      "lon": 4.811036144904, 
+      "lat": 51.176470476257, 
+      "lon": 4.809445060714, 
       "municipality": "Herentals", 
       "pcode": "2200", 
       "source": "afgeleidVanGebouw", 
@@ -350,11 +326,11 @@
     }, 
     {
       "hnrlbls": [
-        "128"
+        "126-128"
       ], 
       "housenumber": "128", 
-      "lat": 51.176621711893, 
-      "lon": 4.808469518214, 
+      "lat": 51.176625146375, 
+      "lon": 4.80880188153, 
       "municipality": "Herentals", 
       "pcode": "2200", 
       "source": "afgeleidVanGebouw", 
@@ -362,11 +338,11 @@
     }, 
     {
       "hnrlbls": [
-        "13"
+        "129"
       ], 
-      "housenumber": "13", 
-      "lat": 51.178038445987, 
-      "lon": 4.818875553897, 
+      "housenumber": "129", 
+      "lat": 51.176409910477, 
+      "lon": 4.809416174165, 
       "municipality": "Herentals", 
       "pcode": "2200", 
       "source": "afgeleidVanGebouw", 
@@ -377,8 +353,20 @@
         "130"
       ], 
       "housenumber": "130", 
-      "lat": 51.176573513674, 
-      "lon": 4.80837811581, 
+      "lat": 51.176569733694, 
+      "lon": 4.808668654846, 
+      "municipality": "Herentals", 
+      "pcode": "2200", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Ekelstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "131"
+      ], 
+      "housenumber": "131", 
+      "lat": 51.176364733335, 
+      "lon": 4.809262166306, 
       "municipality": "Herentals", 
       "pcode": "2200", 
       "source": "afgeleidVanGebouw", 
@@ -389,8 +377,8 @@
         "132"
       ], 
       "housenumber": "132", 
-      "lat": 51.176441033316, 
-      "lon": 4.808254029861, 
+      "lat": 51.176621711893, 
+      "lon": 4.808469518214, 
       "municipality": "Herentals", 
       "pcode": "2200", 
       "source": "afgeleidVanGebouw", 
@@ -398,217 +386,9 @@
     }, 
     {
       "hnrlbls": [
-        "143"
+        "133"
       ], 
-      "housenumber": "143", 
-      "lat": 51.176775522886, 
-      "lon": 4.810174099586, 
-      "municipality": "Herentals", 
-      "pcode": "2200", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Ekelstraat"
-    }, 
-    {
-      "busnrs": [
-        "A", 
-        "B"
-      ], 
-      "hnrlbls": [
-        "145"
-      ], 
-      "housenumber": "145", 
-      "lat": 51.176741320048, 
-      "lon": 4.809994167715, 
-      "municipality": "Herentals", 
-      "pcode": "2200", 
-      "source": "manueleAanduidingVanIngangVanGebouw", 
-      "street": "Ekelstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "149"
-      ], 
-      "housenumber": "149", 
-      "lat": 51.176625250977, 
-      "lon": 4.809808599266, 
-      "municipality": "Herentals", 
-      "pcode": "2200", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Ekelstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "15"
-      ], 
-      "housenumber": "15", 
-      "lat": 51.177980358911, 
-      "lon": 4.81885726034, 
-      "municipality": "Herentals", 
-      "pcode": "2200", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Ekelstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "151"
-      ], 
-      "housenumber": "151", 
-      "lat": 51.176616253886, 
-      "lon": 4.809738730346, 
-      "municipality": "Herentals", 
-      "pcode": "2200", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Ekelstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "153"
-      ], 
-      "housenumber": "153", 
-      "lat": 51.176582594378, 
-      "lon": 4.809677780064, 
-      "municipality": "Herentals", 
-      "pcode": "2200", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Ekelstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "155"
-      ], 
-      "housenumber": "155", 
-      "lat": 51.176601151273, 
-      "lon": 4.809570849049, 
-      "municipality": "Herentals", 
-      "pcode": "2200", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Ekelstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "155_1"
-      ], 
-      "housenumber": "155_1", 
-      "lat": 51.176528890805, 
-      "lon": 4.809496377874, 
-      "municipality": "Herentals", 
-      "pcode": "2200", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Ekelstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "157"
-      ], 
-      "housenumber": "157", 
-      "lat": 51.176470476257, 
-      "lon": 4.809445060714, 
-      "municipality": "Herentals", 
-      "pcode": "2200", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Ekelstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "159"
-      ], 
-      "housenumber": "159", 
-      "lat": 51.176409910477, 
-      "lon": 4.809416174165, 
-      "municipality": "Herentals", 
-      "pcode": "2200", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Ekelstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "15B"
-      ], 
-      "housenumber": "15B", 
-      "lat": 51.1778639359, 
-      "lon": 4.818603162723, 
-      "municipality": "Herentals", 
-      "pcode": "2200", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Ekelstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "15C"
-      ], 
-      "housenumber": "15C", 
-      "lat": 51.177747070831, 
-      "lon": 4.818441299101, 
-      "municipality": "Herentals", 
-      "pcode": "2200", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Ekelstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "15D"
-      ], 
-      "housenumber": "15D", 
-      "lat": 51.177629202492, 
-      "lon": 4.81835393103, 
-      "municipality": "Herentals", 
-      "pcode": "2200", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Ekelstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "15E"
-      ], 
-      "housenumber": "15E", 
-      "lat": 51.177580998818, 
-      "lon": 4.818289543806, 
-      "municipality": "Herentals", 
-      "pcode": "2200", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Ekelstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "15F"
-      ], 
-      "housenumber": "15F", 
-      "lat": 51.177464381036, 
-      "lon": 4.818251381253, 
-      "municipality": "Herentals", 
-      "pcode": "2200", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Ekelstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "15G"
-      ], 
-      "housenumber": "15G", 
-      "lat": 51.177417282628, 
-      "lon": 4.818156402579, 
-      "municipality": "Herentals", 
-      "pcode": "2200", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Ekelstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "161"
-      ], 
-      "housenumber": "161", 
-      "lat": 51.176364733335, 
-      "lon": 4.809262166306, 
-      "municipality": "Herentals", 
-      "pcode": "2200", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Ekelstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "163"
-      ], 
-      "housenumber": "163", 
+      "housenumber": "133", 
       "lat": 51.176306840884, 
       "lon": 4.809071001963, 
       "municipality": "Herentals", 
@@ -618,9 +398,21 @@
     }, 
     {
       "hnrlbls": [
-        "165"
+        "134"
       ], 
-      "housenumber": "165", 
+      "housenumber": "134", 
+      "lat": 51.176573513674, 
+      "lon": 4.80837811581, 
+      "municipality": "Herentals", 
+      "pcode": "2200", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Ekelstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "135"
+      ], 
+      "housenumber": "135", 
       "lat": 51.176313337637, 
       "lon": 4.808943937614, 
       "municipality": "Herentals", 
@@ -630,9 +422,21 @@
     }, 
     {
       "hnrlbls": [
-        "165_1"
+        "136"
       ], 
-      "housenumber": "165_1", 
+      "housenumber": "136", 
+      "lat": 51.176441033316, 
+      "lon": 4.808254029861, 
+      "municipality": "Herentals", 
+      "pcode": "2200", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Ekelstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "137"
+      ], 
+      "housenumber": "137", 
       "lat": 51.176285190808, 
       "lon": 4.808850865711, 
       "municipality": "Herentals", 
@@ -641,30 +445,6 @@
       "street": "Ekelstraat"
     }, 
     {
-      "hnrlbls": [
-        "17"
-      ], 
-      "housenumber": "17", 
-      "lat": 51.177285770802, 
-      "lon": 4.818040303965, 
-      "municipality": "Herentals", 
-      "pcode": "2200", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Ekelstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "19"
-      ], 
-      "housenumber": "19", 
-      "lat": 51.177210255895, 
-      "lon": 4.817948483989, 
-      "municipality": "Herentals", 
-      "pcode": "2200", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Ekelstraat"
-    }, 
-    {
       "busnrs": [
         "001", 
         "002", 
@@ -673,28 +453,9 @@
         "201"
       ], 
       "hnrlbls": [
-        "1A"
+        "3"
       ], 
-      "housenumber": "1A", 
-      "lat": 51.178059079458, 
-      "lon": 4.819897803134, 
-      "municipality": "Herentals", 
-      "pcode": "2200", 
-      "source": "manueleAanduidingVanIngangVanGebouw", 
-      "street": "Ekelstraat"
-    }, 
-    {
-      "busnrs": [
-        "001", 
-        "002", 
-        "101", 
-        "102", 
-        "201"
-      ], 
-      "hnrlbls": [
-        "1B"
-      ], 
-      "housenumber": "1B", 
+      "housenumber": "3", 
       "lat": 51.178158292373, 
       "lon": 4.8197626235, 
       "municipality": "Herentals", 
@@ -704,199 +465,11 @@
     }, 
     {
       "hnrlbls": [
-        "21"
-      ], 
-      "housenumber": "21", 
-      "lat": 51.177151853624, 
-      "lon": 4.817824081946, 
-      "municipality": "Herentals", 
-      "pcode": "2200", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Ekelstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "21A"
-      ], 
-      "housenumber": "21A", 
-      "lat": 51.176929893405, 
-      "lon": 4.816933766487, 
-      "municipality": "Herentals", 
-      "pcode": "2200", 
-      "source": "manueleAanduidingVanLot", 
-      "street": "Ekelstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "21B"
-      ], 
-      "housenumber": "21B", 
-      "lat": 51.17690244595, 
-      "lon": 4.816658226598, 
-      "municipality": "Herentals", 
-      "pcode": "2200", 
-      "source": "manueleAanduidingVanLot", 
-      "street": "Ekelstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "21C"
-      ], 
-      "housenumber": "21C", 
-      "lat": 51.176842614855, 
-      "lon": 4.816436287077, 
-      "municipality": "Herentals", 
-      "pcode": "2200", 
-      "source": "manueleAanduidingVanLot", 
-      "street": "Ekelstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "21D"
-      ], 
-      "housenumber": "21D", 
-      "lat": 51.176772033466, 
-      "lon": 4.816228401911, 
-      "municipality": "Herentals", 
-      "pcode": "2200", 
-      "source": "manueleAanduidingVanLot", 
-      "street": "Ekelstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "21E"
-      ], 
-      "housenumber": "21E", 
-      "lat": 51.176728419263, 
-      "lon": 4.81597272823, 
-      "municipality": "Herentals", 
-      "pcode": "2200", 
-      "source": "manueleAanduidingVanLot", 
-      "street": "Ekelstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "23"
-      ], 
-      "housenumber": "23", 
-      "lat": 51.177676295654, 
-      "lon": 4.817813262571, 
-      "municipality": "Herentals", 
-      "pcode": "2200", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Ekelstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "25"
-      ], 
-      "housenumber": "25", 
-      "lat": 51.177519550746, 
-      "lon": 4.817714081471, 
-      "municipality": "Herentals", 
-      "pcode": "2200", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Ekelstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "27"
-      ], 
-      "housenumber": "27", 
-      "lat": 51.177448667096, 
-      "lon": 4.817633460343, 
-      "municipality": "Herentals", 
-      "pcode": "2200", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Ekelstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "29"
-      ], 
-      "housenumber": "29", 
-      "lat": 51.177383440078, 
-      "lon": 4.817554466962, 
-      "municipality": "Herentals", 
-      "pcode": "2200", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Ekelstraat"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "101", 
-        "102", 
-        "103", 
-        "2", 
-        "201"
-      ], 
-      "hnrlbls": [
-        "3"
-      ], 
-      "housenumber": "3", 
-      "lat": 51.178248341184, 
-      "lon": 4.819601108124, 
-      "municipality": "Herentals", 
-      "pcode": "2200", 
-      "source": "manueleAanduidingVanIngangVanGebouw", 
-      "street": "Ekelstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "33"
-      ], 
-      "housenumber": "33", 
-      "lat": 51.177312727677, 
-      "lon": 4.817334278266, 
-      "municipality": "Herentals", 
-      "pcode": "2200", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Ekelstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "35"
-      ], 
-      "housenumber": "35", 
-      "lat": 51.177252757607, 
-      "lon": 4.817149228979, 
-      "municipality": "Herentals", 
-      "pcode": "2200", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Ekelstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "37"
-      ], 
-      "housenumber": "37", 
-      "lat": 51.177279378425, 
-      "lon": 4.816956289927, 
-      "municipality": "Herentals", 
-      "pcode": "2200", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Ekelstraat"
-    }, 
-    {
-      "hnrlbls": [
         "40"
       ], 
       "housenumber": "40", 
       "lat": 51.17852982905, 
       "lon": 4.814433259676, 
-      "municipality": "Herentals", 
-      "pcode": "2200", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Ekelstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "41"
-      ], 
-      "housenumber": "41", 
-      "lat": 51.17720003132, 
-      "lon": 4.816524234581, 
       "municipality": "Herentals", 
       "pcode": "2200", 
       "source": "afgeleidVanGebouw", 
@@ -943,8 +516,8 @@
         "47"
       ], 
       "housenumber": "47", 
-      "lat": 51.177232883989, 
-      "lon": 4.816015178986, 
+      "lat": 51.178307827468, 
+      "lon": 4.815710885986, 
       "municipality": "Herentals", 
       "pcode": "2200", 
       "source": "afgeleidVanGebouw", 
@@ -967,23 +540,31 @@
         "49"
       ], 
       "housenumber": "49", 
-      "lat": 51.177197029222, 
-      "lon": 4.815870260472, 
+      "lat": 51.178260594653, 
+      "lon": 4.81529486152, 
       "municipality": "Herentals", 
       "pcode": "2200", 
       "source": "afgeleidVanGebouw", 
       "street": "Ekelstraat"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "101", 
+        "102", 
+        "103", 
+        "2", 
+        "201"
+      ], 
       "hnrlbls": [
         "5"
       ], 
       "housenumber": "5", 
-      "lat": 51.178175036412, 
-      "lon": 4.819215078687, 
+      "lat": 51.178248347691, 
+      "lon": 4.819601041835, 
       "municipality": "Herentals", 
       "pcode": "2200", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Ekelstraat"
     }, 
     {
@@ -1003,11 +584,11 @@
         "51"
       ], 
       "housenumber": "51", 
-      "lat": 51.17734738627, 
-      "lon": 4.815497038349, 
+      "lat": 51.178040291359, 
+      "lon": 4.815007314557, 
       "municipality": "Herentals", 
       "pcode": "2200", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Ekelstraat"
     }, 
     {
@@ -1017,6 +598,18 @@
       "housenumber": "52", 
       "lat": 51.178482918276, 
       "lon": 4.813883098688, 
+      "municipality": "Herentals", 
+      "pcode": "2200", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Ekelstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "53"
+      ], 
+      "housenumber": "53", 
+      "lat": 51.178229044285, 
+      "lon": 4.814819784181, 
       "municipality": "Herentals", 
       "pcode": "2200", 
       "source": "afgeleidVanGebouw", 
@@ -1036,14 +629,38 @@
     }, 
     {
       "hnrlbls": [
-        "56"
+        "55"
       ], 
-      "housenumber": "56", 
-      "lat": 51.178447815799, 
-      "lon": 4.813704864935, 
+      "housenumber": "55", 
+      "lat": 51.178222310929, 
+      "lon": 4.814674999178, 
       "municipality": "Herentals", 
       "pcode": "2200", 
       "source": "afgeleidVanGebouw", 
+      "street": "Ekelstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "56"
+      ], 
+      "housenumber": "56", 
+      "lat": 51.178442346919, 
+      "lon": 4.81370109458, 
+      "municipality": "Herentals", 
+      "pcode": "2200", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Ekelstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "57"
+      ], 
+      "housenumber": "57", 
+      "lat": 51.17805793087, 
+      "lon": 4.814573752378, 
+      "municipality": "Herentals", 
+      "pcode": "2200", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Ekelstraat"
     }, 
     {
@@ -1053,6 +670,18 @@
       "housenumber": "58", 
       "lat": 51.178445343537, 
       "lon": 4.81359773046, 
+      "municipality": "Herentals", 
+      "pcode": "2200", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Ekelstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "59"
+      ], 
+      "housenumber": "59", 
+      "lat": 51.178216213952, 
+      "lon": 4.814361761038, 
       "municipality": "Herentals", 
       "pcode": "2200", 
       "source": "afgeleidVanGebouw", 
@@ -1072,6 +701,18 @@
     }, 
     {
       "hnrlbls": [
+        "61"
+      ], 
+      "housenumber": "61", 
+      "lat": 51.1782072013, 
+      "lon": 4.814249130356, 
+      "municipality": "Herentals", 
+      "pcode": "2200", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Ekelstraat"
+    }, 
+    {
+      "hnrlbls": [
         "62"
       ], 
       "housenumber": "62", 
@@ -1084,11 +725,35 @@
     }, 
     {
       "hnrlbls": [
+        "63"
+      ], 
+      "housenumber": "63", 
+      "lat": 51.178150572102, 
+      "lon": 4.814011201881, 
+      "municipality": "Herentals", 
+      "pcode": "2200", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Ekelstraat"
+    }, 
+    {
+      "hnrlbls": [
         "64"
       ], 
       "housenumber": "64", 
       "lat": 51.178432577499, 
       "lon": 4.813336052219, 
+      "municipality": "Herentals", 
+      "pcode": "2200", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Ekelstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "65"
+      ], 
+      "housenumber": "65", 
+      "lat": 51.17817691902, 
+      "lon": 4.813722727859, 
       "municipality": "Herentals", 
       "pcode": "2200", 
       "source": "afgeleidVanGebouw", 
@@ -1111,8 +776,8 @@
         "67"
       ], 
       "housenumber": "67", 
-      "lat": 51.178307827468, 
-      "lon": 4.815710885986, 
+      "lat": 51.17813474298, 
+      "lon": 4.81360863677, 
       "municipality": "Herentals", 
       "pcode": "2200", 
       "source": "afgeleidVanGebouw", 
@@ -1135,20 +800,8 @@
         "69"
       ], 
       "housenumber": "69", 
-      "lat": 51.178260594653, 
-      "lon": 4.81529486152, 
-      "municipality": "Herentals", 
-      "pcode": "2200", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Ekelstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "7"
-      ], 
-      "housenumber": "7", 
-      "lat": 51.178093266488, 
-      "lon": 4.81906670796, 
+      "lat": 51.17812316628, 
+      "lon": 4.813460659934, 
       "municipality": "Herentals", 
       "pcode": "2200", 
       "source": "afgeleidVanGebouw", 
@@ -1171,11 +824,11 @@
         "71"
       ], 
       "housenumber": "71", 
-      "lat": 51.178040291359, 
-      "lon": 4.815007314557, 
+      "lat": 51.178131150357, 
+      "lon": 4.81336949945, 
       "municipality": "Herentals", 
       "pcode": "2200", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Ekelstraat"
     }, 
     {
@@ -1185,6 +838,18 @@
       "housenumber": "72", 
       "lat": 51.178399654402, 
       "lon": 4.812793749089, 
+      "municipality": "Herentals", 
+      "pcode": "2200", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Ekelstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "73"
+      ], 
+      "housenumber": "73", 
+      "lat": 51.178121179716, 
+      "lon": 4.813272304486, 
       "municipality": "Herentals", 
       "pcode": "2200", 
       "source": "afgeleidVanGebouw", 
@@ -1207,8 +872,8 @@
         "75"
       ], 
       "housenumber": "75", 
-      "lat": 51.178229044285, 
-      "lon": 4.814819784181, 
+      "lat": 51.178118562217, 
+      "lon": 4.813179755826, 
       "municipality": "Herentals", 
       "pcode": "2200", 
       "source": "afgeleidVanGebouw", 
@@ -1219,11 +884,11 @@
         "76"
       ], 
       "housenumber": "76", 
-      "lat": 51.178624225938, 
-      "lon": 4.812593679016, 
+      "lat": 51.178138382471, 
+      "lon": 4.812188639655, 
       "municipality": "Herentals", 
       "pcode": "2200", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Ekelstraat"
     }, 
     {
@@ -1231,32 +896,20 @@
         "77"
       ], 
       "housenumber": "77", 
-      "lat": 51.178222310929, 
-      "lon": 4.814674999178, 
+      "lat": 51.178144719045, 
+      "lon": 4.812988951633, 
       "municipality": "Herentals", 
       "pcode": "2200", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Ekelstraat"
     }, 
     {
       "hnrlbls": [
-        "78B"
+        "78"
       ], 
-      "housenumber": "78B", 
-      "lat": 51.178726560453, 
-      "lon": 4.812056379122, 
-      "municipality": "Herentals", 
-      "pcode": "2200", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Ekelstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "78C"
-      ], 
-      "housenumber": "78C", 
-      "lat": 51.17866076904, 
-      "lon": 4.812102659125, 
+      "housenumber": "78", 
+      "lat": 51.178087152102, 
+      "lon": 4.811995954697, 
       "municipality": "Herentals", 
       "pcode": "2200", 
       "source": "afgeleidVanGebouw", 
@@ -1267,11 +920,11 @@
         "79"
       ], 
       "housenumber": "79", 
-      "lat": 51.178060372865, 
-      "lon": 4.814569771629, 
+      "lat": 51.178078677952, 
+      "lon": 4.81283888283, 
       "municipality": "Herentals", 
       "pcode": "2200", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Ekelstraat"
     }, 
     {
@@ -1279,23 +932,11 @@
         "80"
       ], 
       "housenumber": "80", 
-      "lat": 51.178338473531, 
-      "lon": 4.812426930729, 
+      "lat": 51.178002651178, 
+      "lon": 4.811830410561, 
       "municipality": "Herentals", 
       "pcode": "2200", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Ekelstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "80_1"
-      ], 
-      "housenumber": "80_1", 
-      "lat": 51.178138382471, 
-      "lon": 4.812188639655, 
-      "municipality": "Herentals", 
-      "pcode": "2200", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Ekelstraat"
     }, 
     {
@@ -1303,32 +944,8 @@
         "81"
       ], 
       "housenumber": "81", 
-      "lat": 51.178216213952, 
-      "lon": 4.814361761038, 
-      "municipality": "Herentals", 
-      "pcode": "2200", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Ekelstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "82"
-      ], 
-      "housenumber": "82", 
-      "lat": 51.178087152102, 
-      "lon": 4.811995954697, 
-      "municipality": "Herentals", 
-      "pcode": "2200", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Ekelstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "84"
-      ], 
-      "housenumber": "84", 
-      "lat": 51.178002651178, 
-      "lon": 4.811830410561, 
+      "lat": 51.177933052925, 
+      "lon": 4.812578372524, 
       "municipality": "Herentals", 
       "pcode": "2200", 
       "source": "afgeleidVanGebouw", 
@@ -1339,8 +956,8 @@
         "85"
       ], 
       "housenumber": "85", 
-      "lat": 51.1782072013, 
-      "lon": 4.814249130356, 
+      "lat": 51.177808004373, 
+      "lon": 4.812367538819, 
       "municipality": "Herentals", 
       "pcode": "2200", 
       "source": "afgeleidVanGebouw", 
@@ -1348,11 +965,11 @@
     }, 
     {
       "hnrlbls": [
-        "87"
+        "86"
       ], 
-      "housenumber": "87", 
-      "lat": 51.178150572102, 
-      "lon": 4.814011201881, 
+      "housenumber": "86", 
+      "lat": 51.177807836228, 
+      "lon": 4.811431438329, 
       "municipality": "Herentals", 
       "pcode": "2200", 
       "source": "afgeleidVanGebouw", 
@@ -1363,8 +980,8 @@
         "88"
       ], 
       "housenumber": "88", 
-      "lat": 51.177807836228, 
-      "lon": 4.811431438329, 
+      "lat": 51.177781664255, 
+      "lon": 4.81136354923, 
       "municipality": "Herentals", 
       "pcode": "2200", 
       "source": "afgeleidVanGebouw", 
@@ -1375,20 +992,8 @@
         "89"
       ], 
       "housenumber": "89", 
-      "lat": 51.17817691902, 
-      "lon": 4.813722727859, 
-      "municipality": "Herentals", 
-      "pcode": "2200", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Ekelstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "9"
-      ], 
-      "housenumber": "9", 
-      "lat": 51.17808073794, 
-      "lon": 4.818981499445, 
+      "lat": 51.177674438524, 
+      "lon": 4.812150762088, 
       "municipality": "Herentals", 
       "pcode": "2200", 
       "source": "afgeleidVanGebouw", 
@@ -1399,8 +1004,8 @@
         "90"
       ], 
       "housenumber": "90", 
-      "lat": 51.177781664255, 
-      "lon": 4.81136354923, 
+      "lat": 51.177708265105, 
+      "lon": 4.811209552971, 
       "municipality": "Herentals", 
       "pcode": "2200", 
       "source": "afgeleidVanGebouw", 
@@ -1411,8 +1016,8 @@
         "91"
       ], 
       "housenumber": "91", 
-      "lat": 51.17813474298, 
-      "lon": 4.81360863677, 
+      "lat": 51.177602170592, 
+      "lon": 4.811983047449, 
       "municipality": "Herentals", 
       "pcode": "2200", 
       "source": "afgeleidVanGebouw", 
@@ -1423,8 +1028,8 @@
         "92"
       ], 
       "housenumber": "92", 
-      "lat": 51.177708265105, 
-      "lon": 4.811209552971, 
+      "lat": 51.177579226633, 
+      "lon": 4.811055315088, 
       "municipality": "Herentals", 
       "pcode": "2200", 
       "source": "afgeleidVanGebouw", 
@@ -1435,8 +1040,8 @@
         "93"
       ], 
       "housenumber": "93", 
-      "lat": 51.17812316628, 
-      "lon": 4.813460659934, 
+      "lat": 51.177548741112, 
+      "lon": 4.811849261014, 
       "municipality": "Herentals", 
       "pcode": "2200", 
       "source": "afgeleidVanGebouw", 
@@ -1447,8 +1052,8 @@
         "94"
       ], 
       "housenumber": "94", 
-      "lat": 51.177571462309, 
-      "lon": 4.811064393549, 
+      "lat": 51.177487671984, 
+      "lon": 4.810924743081, 
       "municipality": "Herentals", 
       "pcode": "2200", 
       "source": "afgeleidVanGebouw", 
@@ -1459,8 +1064,8 @@
         "95"
       ], 
       "housenumber": "95", 
-      "lat": 51.178131150357, 
-      "lon": 4.81336949945, 
+      "lat": 51.177425819659, 
+      "lon": 4.811670054673, 
       "municipality": "Herentals", 
       "pcode": "2200", 
       "source": "afgeleidVanGebouw", 
@@ -1471,11 +1076,11 @@
         "96"
       ], 
       "housenumber": "96", 
-      "lat": 51.177487671984, 
-      "lon": 4.810924743081, 
+      "lat": 51.177337445895, 
+      "lon": 4.810739560368, 
       "municipality": "Herentals", 
       "pcode": "2200", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Ekelstraat"
     }, 
     {
@@ -1483,8 +1088,8 @@
         "97"
       ], 
       "housenumber": "97", 
-      "lat": 51.178121179716, 
-      "lon": 4.813272304486, 
+      "lat": 51.177330945483, 
+      "lon": 4.81160980719, 
       "municipality": "Herentals", 
       "pcode": "2200", 
       "source": "afgeleidVanGebouw", 
@@ -1495,18 +1100,6 @@
         "98"
       ], 
       "housenumber": "98", 
-      "lat": 51.177337445895, 
-      "lon": 4.810739560368, 
-      "municipality": "Herentals", 
-      "pcode": "2200", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Ekelstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "98_1"
-      ], 
-      "housenumber": "98_1", 
       "lat": 51.177321110627, 
       "lon": 4.810637159224, 
       "municipality": "Herentals", 
@@ -1519,8 +1112,8 @@
         "99"
       ], 
       "housenumber": "99", 
-      "lat": 51.178118562217, 
-      "lon": 4.813179755826, 
+      "lat": 51.177277099436, 
+      "lon": 4.811467151909, 
       "municipality": "Herentals", 
       "pcode": "2200", 
       "source": "afgeleidVanGebouw", 

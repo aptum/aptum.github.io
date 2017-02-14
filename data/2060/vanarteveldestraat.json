@@ -229,14 +229,11 @@
       "street": "Van Arteveldestraat"
     }, 
     {
-      "busnrs": [
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6", 
-        "7", 
-        "8"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301"
       ], 
       "hnrlbls": [
         "26"
@@ -438,8 +435,10 @@
     }, 
     {
       "busnrs": [
+        "1", 
         "2", 
-        "3"
+        "3", 
+        "4"
       ], 
       "hnrlbls": [
         "36"
@@ -485,7 +484,8 @@
     {
       "busnrs": [
         "1", 
-        "2"
+        "2", 
+        "3"
       ], 
       "hnrlbls": [
         "39"
@@ -643,8 +643,8 @@
         "48"
       ], 
       "housenumber": "48", 
-      "lat": 51.220683501384, 
-      "lon": 4.420158145579, 
+      "lat": 51.220683528353, 
+      "lon": 4.420158137022, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
       "source": "manueleAanduidingVanGebouw", 
@@ -848,15 +848,21 @@
       "street": "Van Arteveldestraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "201", 
+        "301", 
+        "401"
+      ], 
       "hnrlbls": [
-        "62-64"
+        "62"
       ], 
       "housenumber": "62", 
-      "lat": 51.22111497709, 
-      "lon": 4.420144305749, 
+      "lat": 51.221083533065, 
+      "lon": 4.420109489209, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Van Arteveldestraat"
     }, 
     {
@@ -872,8 +878,13 @@
       "street": "Van Arteveldestraat"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
-        "62-64"
+        "64"
       ], 
       "housenumber": "64", 
       "lat": 51.22111497709, 
@@ -881,6 +892,18 @@
       "municipality": "Antwerpen", 
       "pcode": "2060", 
       "source": "afgeleidVanGebouw", 
+      "street": "Van Arteveldestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "64A"
+      ], 
+      "housenumber": "64A", 
+      "lat": 51.221162029169, 
+      "lon": 4.420047027435, 
+      "municipality": "Antwerpen", 
+      "pcode": "2060", 
+      "source": "manueleAanduidingVanToegangTotDeWeg", 
       "street": "Van Arteveldestraat"
     }, 
     {
@@ -965,8 +988,8 @@
         "71_3"
       ], 
       "housenumber": "71_3", 
-      "lat": 51.221153378556, 
-      "lon": 4.41970905071, 
+      "lat": 51.221153368656, 
+      "lon": 4.419709079325, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
       "source": "manueleAanduidingVanGebouw", 
@@ -983,8 +1006,8 @@
         "73"
       ], 
       "housenumber": "73", 
-      "lat": 51.221199262428, 
-      "lon": 4.419793579157, 
+      "lat": 51.221199262374, 
+      "lon": 4.419793579075, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
       "source": "manueleAanduidingVanPerceel", 
@@ -995,8 +1018,8 @@
         "75"
       ], 
       "housenumber": "75", 
-      "lat": 51.221262878741, 
-      "lon": 4.419811724242, 
+      "lat": 51.221262892232, 
+      "lon": 4.419811684552, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
       "source": "manueleAanduidingVanPerceel", 

@@ -1,9 +1,11 @@
 {
   "addresses": [
     {
-      "busnrs": [
-        "101", 
-        "201"
+      "apptnrs": [
+        "0101", 
+        "0201", 
+        "0301", 
+        "G001"
       ], 
       "hnrlbls": [
         "1"
@@ -13,7 +15,7 @@
       "lon": 2.597139326954, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "W. Vandermeerenlaan"
     }, 
     {
@@ -25,52 +27,26 @@
       "lon": 2.597223046004, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "W. Vandermeerenlaan"
     }, 
     {
-      "busnrs": [
-        "101"
+      "apptnrs": [
+        "0101", 
+        "0201", 
+        "0301", 
+        "G001", 
+        "K001"
       ], 
       "hnrlbls": [
-        "11-11K"
+        "11"
       ], 
       "housenumber": "11", 
       "lat": 51.098603797866, 
       "lon": 2.596890119807, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
-      "street": "W. Vandermeerenlaan"
-    }, 
-    {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "11-11K"
-      ], 
-      "housenumber": "11G", 
-      "lat": 51.098603797866, 
-      "lon": 2.596890119807, 
-      "municipality": "De Panne", 
-      "pcode": "8660", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "W. Vandermeerenlaan"
-    }, 
-    {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "11-11K"
-      ], 
-      "housenumber": "11K", 
-      "lat": 51.098603797866, 
-      "lon": 2.596890119807, 
-      "municipality": "De Panne", 
-      "pcode": "8660", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "W. Vandermeerenlaan"
     }, 
     {
@@ -82,65 +58,40 @@
       "lon": 2.597172633072, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "W. Vandermeerenlaan"
     }, 
     {
-      "busnrs": [
-        "101", 
-        "201"
+      "apptnrs": [
+        "0101", 
+        "0201", 
+        "G001"
       ], 
       "hnrlbls": [
-        "13-13G"
+        "13"
       ], 
       "housenumber": "13", 
       "lat": 51.098669471911, 
       "lon": 2.596874636613, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "W. Vandermeerenlaan"
     }, 
     {
-      "busnrs": [
-        "1"
+      "apptnrs": [
+        "0101", 
+        "G001"
       ], 
       "hnrlbls": [
-        "13-13G"
-      ], 
-      "housenumber": "13G", 
-      "lat": 51.098669471911, 
-      "lon": 2.596874636613, 
-      "municipality": "De Panne", 
-      "pcode": "8660", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "W. Vandermeerenlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "14-14G"
+        "14"
       ], 
       "housenumber": "14", 
       "lat": 51.099161975258, 
       "lon": 2.597057323774, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
-      "street": "W. Vandermeerenlaan"
-    }, 
-    {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "14-14G"
-      ], 
-      "housenumber": "14G", 
-      "lat": 51.099161975258, 
-      "lon": 2.597057323774, 
-      "municipality": "De Panne", 
-      "pcode": "8660", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "W. Vandermeerenlaan"
     }, 
     {
@@ -152,13 +103,14 @@
       "lon": 2.596813009216, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "W. Vandermeerenlaan"
     }, 
     {
-      "busnrs": [
-        "101", 
-        "201"
+      "apptnrs": [
+        "0101", 
+        "0201", 
+        "G001"
       ], 
       "hnrlbls": [
         "16"
@@ -168,136 +120,88 @@
       "lon": 2.596994183313, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "W. Vandermeerenlaan"
     }, 
     {
-      "busnrs": [
-        "101"
+      "apptnrs": [
+        "0101", 
+        "0201", 
+        "G001"
       ], 
       "hnrlbls": [
-        "17-17G"
+        "17"
       ], 
       "housenumber": "17", 
       "lat": 51.098767072546, 
       "lon": 2.596781831466, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "W. Vandermeerenlaan"
     }, 
     {
-      "busnrs": [
-        "1"
+      "apptnrs": [
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "G001"
       ], 
       "hnrlbls": [
-        "17-17G"
-      ], 
-      "housenumber": "17G", 
-      "lat": 51.098767072546, 
-      "lon": 2.596781831466, 
-      "municipality": "De Panne", 
-      "pcode": "8660", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "W. Vandermeerenlaan"
-    }, 
-    {
-      "busnrs": [
-        "101", 
-        "201"
-      ], 
-      "hnrlbls": [
-        "18-18G"
+        "18"
       ], 
       "housenumber": "18", 
       "lat": 51.099398250062, 
       "lon": 2.596864586286, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "W. Vandermeerenlaan"
     }, 
     {
-      "busnrs": [
-        "1"
+      "apptnrs": [
+        "0101", 
+        "0201", 
+        "0301", 
+        "G001", 
+        "K001"
       ], 
       "hnrlbls": [
-        "18-18G"
-      ], 
-      "housenumber": "18G", 
-      "lat": 51.099398250062, 
-      "lon": 2.596864586286, 
-      "municipality": "De Panne", 
-      "pcode": "8660", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "W. Vandermeerenlaan"
-    }, 
-    {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "1G"
-      ], 
-      "housenumber": "1G", 
-      "lat": 51.098338547043, 
-      "lon": 2.597099231102, 
-      "municipality": "De Panne", 
-      "pcode": "8660", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "W. Vandermeerenlaan"
-    }, 
-    {
-      "busnrs": [
-        "101", 
-        "3"
-      ], 
-      "hnrlbls": [
-        "2-6K"
+        "2-6"
       ], 
       "housenumber": "2", 
       "lat": 51.098280688105, 
       "lon": 2.597653051921, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "W. Vandermeerenlaan"
     }, 
     {
-      "busnrs": [
-        "101", 
-        "201", 
-        "202"
+      "apptnrs": [
+        "0101", 
+        "0201", 
+        "0202", 
+        "G001"
       ], 
       "hnrlbls": [
-        "20-20G"
+        "20"
       ], 
       "housenumber": "20", 
       "lat": 51.099463488662, 
       "lon": 2.596814132886, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "W. Vandermeerenlaan"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "20-20G"
-      ], 
-      "housenumber": "20G", 
-      "lat": 51.099463488662, 
-      "lon": 2.596814132886, 
-      "municipality": "De Panne", 
-      "pcode": "8660", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "W. Vandermeerenlaan"
-    }, 
-    {
-      "busnrs": [
-        "101"
+      "apptnrs": [
+        "0101", 
+        "0201", 
+        "0301", 
+        "G001"
       ], 
       "hnrlbls": [
         "21"
@@ -307,28 +211,17 @@
       "lon": 2.596664944571, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "W. Vandermeerenlaan"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "21G"
-      ], 
-      "housenumber": "21G", 
-      "lat": 51.098861760473, 
-      "lon": 2.596668715932, 
-      "municipality": "De Panne", 
-      "pcode": "8660", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "W. Vandermeerenlaan"
-    }, 
-    {
-      "busnrs": [
-        "102", 
-        "202"
+      "apptnrs": [
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "G001"
       ], 
       "hnrlbls": [
         "23"
@@ -338,44 +231,33 @@
       "lon": 2.596645351848, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "W. Vandermeerenlaan"
     }, 
     {
-      "busnrs": [
-        "101", 
-        "201", 
-        "301"
+      "apptnrs": [
+        "0101", 
+        "0201", 
+        "0301", 
+        "G001"
       ], 
       "hnrlbls": [
-        "25-25G"
+        "25"
       ], 
       "housenumber": "25", 
       "lat": 51.098989330941, 
       "lon": 2.596601763409, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "W. Vandermeerenlaan"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "25-25G"
-      ], 
-      "housenumber": "25G", 
-      "lat": 51.098989330941, 
-      "lon": 2.596601763409, 
-      "municipality": "De Panne", 
-      "pcode": "8660", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "W. Vandermeerenlaan"
-    }, 
-    {
-      "busnrs": [
-        "101"
+      "apptnrs": [
+        "0101", 
+        "0201", 
+        "0301", 
+        "G001"
       ], 
       "hnrlbls": [
         "27"
@@ -385,7 +267,7 @@
       "lon": 2.596560886525, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "W. Vandermeerenlaan"
     }, 
     {
@@ -397,44 +279,16 @@
       "lon": 2.596543228195, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "W. Vandermeerenlaan"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "2-6K"
-      ], 
-      "housenumber": "2G", 
-      "lat": 51.098280688105, 
-      "lon": 2.597653051921, 
-      "municipality": "De Panne", 
-      "pcode": "8660", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "W. Vandermeerenlaan"
-    }, 
-    {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "2-6K"
-      ], 
-      "housenumber": "2K", 
-      "lat": 51.098280688105, 
-      "lon": 2.597653051921, 
-      "municipality": "De Panne", 
-      "pcode": "8660", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "W. Vandermeerenlaan"
-    }, 
-    {
-      "busnrs": [
-        "101", 
-        "201", 
-        "301"
+      "apptnrs": [
+        "0101", 
+        "0201", 
+        "0301", 
+        "G001", 
+        "K001"
       ], 
       "hnrlbls": [
         "3"
@@ -444,10 +298,16 @@
       "lon": 2.597051807989, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "W. Vandermeerenlaan"
     }, 
     {
+      "apptnrs": [
+        "0101", 
+        "0201", 
+        "0301", 
+        "G001"
+      ], 
       "hnrlbls": [
         "31"
       ], 
@@ -456,29 +316,15 @@
       "lon": 2.59649877017, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "W. Vandermeerenlaan"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "31G"
-      ], 
-      "housenumber": "31G", 
-      "lat": 51.09916080017, 
-      "lon": 2.596500302621, 
-      "municipality": "De Panne", 
-      "pcode": "8660", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "W. Vandermeerenlaan"
-    }, 
-    {
-      "busnrs": [
-        "101", 
-        "201", 
-        "301"
+      "apptnrs": [
+        "0101", 
+        "0201", 
+        "0301", 
+        "G001"
       ], 
       "hnrlbls": [
         "33"
@@ -488,30 +334,21 @@
       "lon": 2.596398863561, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "W. Vandermeerenlaan"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "33G"
-      ], 
-      "housenumber": "33G", 
-      "lat": 51.099194199947, 
-      "lon": 2.596401360988, 
-      "municipality": "De Panne", 
-      "pcode": "8660", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "W. Vandermeerenlaan"
-    }, 
-    {
-      "busnrs": [
-        "101", 
-        "202", 
-        "203", 
-        "303"
+      "apptnrs": [
+        "0101", 
+        "0102", 
+        "0103", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0301", 
+        "0302", 
+        "0303", 
+        "G001"
       ], 
       "hnrlbls": [
         "35"
@@ -521,12 +358,14 @@
       "lon": 2.596407586025, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "W. Vandermeerenlaan"
     }, 
     {
-      "busnrs": [
-        "101"
+      "apptnrs": [
+        "0101", 
+        "0201", 
+        "G001"
       ], 
       "hnrlbls": [
         "39"
@@ -536,56 +375,39 @@
       "lon": 2.596353105697, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "W. Vandermeerenlaan"
     }, 
     {
-      "busnrs": [
-        "1"
+      "apptnrs": [
+        "0101", 
+        "0201", 
+        "0301", 
+        "0401", 
+        "G001", 
+        "K001"
       ], 
       "hnrlbls": [
-        "3G-3K"
-      ], 
-      "housenumber": "3G", 
-      "lat": 51.098384942528, 
-      "lon": 2.597051349474, 
-      "municipality": "De Panne", 
-      "pcode": "8660", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "W. Vandermeerenlaan"
-    }, 
-    {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "3G-3K"
-      ], 
-      "housenumber": "3K", 
-      "lat": 51.098384942528, 
-      "lon": 2.597051349474, 
-      "municipality": "De Panne", 
-      "pcode": "8660", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "W. Vandermeerenlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "2-6K"
+        "2-6"
       ], 
       "housenumber": "4", 
       "lat": 51.098280688105, 
       "lon": 2.597653051921, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "W. Vandermeerenlaan"
     }, 
     {
-      "busnrs": [
-        "101", 
-        "201", 
-        "202"
+      "apptnrs": [
+        "0101", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302", 
+        "0401", 
+        "G001", 
+        "G002"
       ], 
       "hnrlbls": [
         "43"
@@ -595,242 +417,105 @@
       "lon": 2.596264729535, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "W. Vandermeerenlaan"
     }, 
     {
-      "busnrs": [
-        "1"
+      "apptnrs": [
+        "0101", 
+        "0201", 
+        "0301", 
+        "G001", 
+        "K001"
       ], 
       "hnrlbls": [
-        "2-6K"
-      ], 
-      "housenumber": "4K", 
-      "lat": 51.098280688105, 
-      "lon": 2.597653051921, 
-      "municipality": "De Panne", 
-      "pcode": "8660", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "W. Vandermeerenlaan"
-    }, 
-    {
-      "busnrs": [
-        "101", 
-        "2", 
-        "201", 
-        "301"
-      ], 
-      "hnrlbls": [
-        "5-5K"
+        "5"
       ], 
       "housenumber": "5", 
       "lat": 51.098435465589, 
       "lon": 2.597014878043, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "W. Vandermeerenlaan"
     }, 
     {
-      "busnrs": [
-        "1"
+      "apptnrs": [
+        "0101", 
+        "0201", 
+        "0301", 
+        "G001", 
+        "K001"
       ], 
       "hnrlbls": [
-        "5-5K"
-      ], 
-      "housenumber": "5G", 
-      "lat": 51.098435465589, 
-      "lon": 2.597014878043, 
-      "municipality": "De Panne", 
-      "pcode": "8660", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "W. Vandermeerenlaan"
-    }, 
-    {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "5-5K"
-      ], 
-      "housenumber": "5K", 
-      "lat": 51.098435465589, 
-      "lon": 2.597014878043, 
-      "municipality": "De Panne", 
-      "pcode": "8660", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "W. Vandermeerenlaan"
-    }, 
-    {
-      "busnrs": [
-        "101", 
-        "201"
-      ], 
-      "hnrlbls": [
-        "2-6K"
+        "2-6"
       ], 
       "housenumber": "6", 
       "lat": 51.098280688105, 
       "lon": 2.597653051921, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "W. Vandermeerenlaan"
     }, 
     {
-      "busnrs": [
-        "1"
+      "apptnrs": [
+        "0101", 
+        "0201", 
+        "0301", 
+        "G001", 
+        "K001"
       ], 
       "hnrlbls": [
-        "2-6K"
-      ], 
-      "housenumber": "6G", 
-      "lat": 51.098280688105, 
-      "lon": 2.597653051921, 
-      "municipality": "De Panne", 
-      "pcode": "8660", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "W. Vandermeerenlaan"
-    }, 
-    {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "2-6K"
-      ], 
-      "housenumber": "6K", 
-      "lat": 51.098280688105, 
-      "lon": 2.597653051921, 
-      "municipality": "De Panne", 
-      "pcode": "8660", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "W. Vandermeerenlaan"
-    }, 
-    {
-      "busnrs": [
-        "101", 
-        "201", 
-        "301"
-      ], 
-      "hnrlbls": [
-        "7-7K"
+        "7"
       ], 
       "housenumber": "7", 
       "lat": 51.098488263067, 
       "lon": 2.596980176739, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "W. Vandermeerenlaan"
     }, 
     {
-      "busnrs": [
-        "1"
+      "apptnrs": [
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302", 
+        "G001", 
+        "G002"
       ], 
       "hnrlbls": [
-        "7-7K"
-      ], 
-      "housenumber": "7G", 
-      "lat": 51.098488263067, 
-      "lon": 2.596980176739, 
-      "municipality": "De Panne", 
-      "pcode": "8660", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "W. Vandermeerenlaan"
-    }, 
-    {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "7-7K"
-      ], 
-      "housenumber": "7K", 
-      "lat": 51.098488263067, 
-      "lon": 2.596980176739, 
-      "municipality": "De Panne", 
-      "pcode": "8660", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "W. Vandermeerenlaan"
-    }, 
-    {
-      "busnrs": [
-        "201", 
-        "202", 
-        "301", 
-        "302"
-      ], 
-      "hnrlbls": [
-        "8-8G"
+        "8"
       ], 
       "housenumber": "8", 
       "lat": 51.098534153708, 
       "lon": 2.597473378634, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "W. Vandermeerenlaan"
     }, 
     {
-      "busnrs": [
-        "2"
+      "apptnrs": [
+        "0101", 
+        "0201", 
+        "0301", 
+        "G001", 
+        "K001"
       ], 
       "hnrlbls": [
-        "8-8G"
-      ], 
-      "housenumber": "8G", 
-      "lat": 51.098534153708, 
-      "lon": 2.597473378634, 
-      "municipality": "De Panne", 
-      "pcode": "8660", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "W. Vandermeerenlaan"
-    }, 
-    {
-      "busnrs": [
-        "101", 
-        "301"
-      ], 
-      "hnrlbls": [
-        "9-9K"
+        "9"
       ], 
       "housenumber": "9", 
       "lat": 51.09854686282, 
       "lon": 2.596936687579, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
-      "street": "W. Vandermeerenlaan"
-    }, 
-    {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "9-9K"
-      ], 
-      "housenumber": "9G", 
-      "lat": 51.09854686282, 
-      "lon": 2.596936687579, 
-      "municipality": "De Panne", 
-      "pcode": "8660", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "W. Vandermeerenlaan"
-    }, 
-    {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "9-9K"
-      ], 
-      "housenumber": "9K", 
-      "lat": 51.09854686282, 
-      "lon": 2.596936687579, 
-      "municipality": "De Panne", 
-      "pcode": "8660", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "W. Vandermeerenlaan"
     }
   ]

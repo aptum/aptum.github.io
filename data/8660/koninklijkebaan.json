@@ -2,18 +2,6 @@
   "addresses": [
     {
       "hnrlbls": [
-        "1"
-      ], 
-      "housenumber": "1", 
-      "lat": 51.095483510566, 
-      "lon": 2.588678849317, 
-      "municipality": "De Panne", 
-      "pcode": "8660", 
-      "source": "geinterpoleerdObvWegverbinding", 
-      "street": "Koninklijke Baan"
-    }, 
-    {
-      "hnrlbls": [
         "10"
       ], 
       "housenumber": "10", 
@@ -21,7 +9,7 @@
       "lon": 2.588198520776, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Koninklijke Baan"
     }, 
     {
@@ -33,11 +21,11 @@
       "lon": 2.587856544583, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Koninklijke Baan"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "101", 
         "102", 
         "103", 
@@ -55,7 +43,13 @@
         "305", 
         "401", 
         "402", 
-        "403"
+        "403", 
+        "G001", 
+        "G002", 
+        "G003", 
+        "G004", 
+        "G005", 
+        "G006"
       ], 
       "hnrlbls": [
         "12"
@@ -65,27 +59,7 @@
       "lon": 2.587973712317, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Koninklijke Baan"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6"
-      ], 
-      "hnrlbls": [
-        "12G"
-      ], 
-      "housenumber": "12G", 
-      "lat": 51.095728475889, 
-      "lon": 2.587972706513, 
-      "municipality": "De Panne", 
-      "pcode": "8660", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Koninklijke Baan"
     }, 
     {
@@ -97,7 +71,7 @@
       "lon": 2.587771374586, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Koninklijke Baan"
     }, 
     {
@@ -109,7 +83,7 @@
       "lon": 2.587708099394, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Koninklijke Baan"
     }, 
     {
@@ -117,42 +91,27 @@
         "16"
       ], 
       "housenumber": "16", 
-      "lat": 51.095845833945, 
-      "lon": 2.587729919343, 
+      "lat": 51.095747060704, 
+      "lon": 2.587756527614, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Koninklijke Baan"
     }, 
     {
-      "busnrs": [
-        "101", 
-        "201"
+      "apptnrs": [
+        "0101", 
+        "0201"
       ], 
       "hnrlbls": [
-        "17-17G"
+        "17"
       ], 
       "housenumber": "17", 
       "lat": 51.095277817617, 
       "lon": 2.587620756892, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Koninklijke Baan"
-    }, 
-    {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "17-17G"
-      ], 
-      "housenumber": "17G", 
-      "lat": 51.095277817617, 
-      "lon": 2.587620756892, 
-      "municipality": "De Panne", 
-      "pcode": "8660", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Koninklijke Baan"
     }, 
     {
@@ -164,19 +123,7 @@
       "lon": 2.587485843147, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Koninklijke Baan"
-    }, 
-    {
-      "hnrlbls": [
-        "/zn-181"
-      ], 
-      "housenumber": "181", 
-      "lat": 51.096273528156, 
-      "lon": 2.585044840623, 
-      "municipality": "De Panne", 
-      "pcode": "8660", 
-      "source": "afgeleidVanStraat", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Koninklijke Baan"
     }, 
     {
@@ -188,7 +135,7 @@
       "lon": 2.587567067822, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Koninklijke Baan"
     }, 
     {
@@ -200,7 +147,7 @@
       "lon": 2.588560143306, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Koninklijke Baan"
     }, 
     {
@@ -212,7 +159,7 @@
       "lon": 2.587231028655, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Koninklijke Baan"
     }, 
     {
@@ -224,7 +171,7 @@
       "lon": 2.587495349457, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Koninklijke Baan"
     }, 
     {
@@ -236,7 +183,7 @@
       "lon": 2.587129277851, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Koninklijke Baan"
     }, 
     {
@@ -248,7 +195,7 @@
       "lon": 2.587399601363, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Koninklijke Baan"
     }, 
     {
@@ -260,48 +207,56 @@
       "lon": 2.586568524807, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Koninklijke Baan"
     }, 
     {
-      "busnrs": [
-        "101", 
-        "102", 
-        "104", 
-        "203", 
-        "205", 
-        "302", 
-        "305", 
-        "401", 
-        "402"
+      "apptnrs": [
+        "0101", 
+        "0102", 
+        "0103", 
+        "0104", 
+        "0105", 
+        "0106", 
+        "0107", 
+        "0108", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0204", 
+        "0205", 
+        "0206", 
+        "0207", 
+        "0208", 
+        "0301", 
+        "0302", 
+        "0303", 
+        "0304", 
+        "0305", 
+        "0306", 
+        "0307", 
+        "0401", 
+        "0402", 
+        "0403", 
+        "0404", 
+        "0501", 
+        "G001", 
+        "G002", 
+        "G003", 
+        "G004", 
+        "G005", 
+        "G007", 
+        "W006"
       ], 
       "hnrlbls": [
-        "25-31"
+        "1_1-29"
       ], 
       "housenumber": "25", 
-      "lat": 51.095757264281, 
-      "lon": 2.585533885669, 
+      "lat": 51.095724151841, 
+      "lon": 2.585347949613, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Koninklijke Baan"
-    }, 
-    {
-      "busnrs": [
-        "2", 
-        "3", 
-        "4", 
-        "7"
-      ], 
-      "hnrlbls": [
-        "25G"
-      ], 
-      "housenumber": "25G", 
-      "lat": 51.095740755672, 
-      "lon": 2.585286487525, 
-      "municipality": "De Panne", 
-      "pcode": "8660", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Koninklijke Baan"
     }, 
     {
@@ -313,26 +268,33 @@
       "lon": 2.586506795625, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Koninklijke Baan"
     }, 
     {
-      "busnrs": [
-        "102", 
-        "301", 
-        "401", 
-        "501", 
-        "502"
+      "apptnrs": [
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302", 
+        "0401", 
+        "0402", 
+        "0501", 
+        "0502", 
+        "G001", 
+        "G002"
       ], 
       "hnrlbls": [
-        "25-31"
+        "1_1-29"
       ], 
       "housenumber": "27", 
-      "lat": 51.095757264281, 
-      "lon": 2.585533885669, 
+      "lat": 51.095724151841, 
+      "lon": 2.585347949613, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Koninklijke Baan"
     }, 
     {
@@ -344,28 +306,36 @@
       "lon": 2.585974700449, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Koninklijke Baan"
     }, 
     {
-      "busnrs": [
-        "101", 
-        "102", 
-        "103", 
-        "202", 
-        "203", 
-        "303", 
-        "403"
+      "apptnrs": [
+        "0101", 
+        "0102", 
+        "0103", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0301", 
+        "0302", 
+        "0303", 
+        "0401", 
+        "0402", 
+        "0403", 
+        "0501", 
+        "0502", 
+        "G001"
       ], 
       "hnrlbls": [
-        "25-31"
+        "1_1-29"
       ], 
       "housenumber": "29", 
-      "lat": 51.095757264281, 
-      "lon": 2.585533885669, 
+      "lat": 51.095724151841, 
+      "lon": 2.585347949613, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Koninklijke Baan"
     }, 
     {
@@ -377,19 +347,20 @@
       "lon": 2.588323686271, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Koninklijke Baan"
     }, 
     {
-      "busnrs": [
-        "101", 
-        "102", 
-        "103", 
-        "201", 
-        "202", 
-        "203", 
-        "301", 
-        "302"
+      "apptnrs": [
+        "0101", 
+        "0102", 
+        "0103", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0301", 
+        "0302", 
+        "0303"
       ], 
       "hnrlbls": [
         "1-30"
@@ -399,40 +370,32 @@
       "lon": 2.58503564696, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Koninklijke Baan"
     }, 
     {
-      "hnrlbls": [
-        "25-31"
+      "apptnrs": [
+        "W001"
       ], 
-      "housenumber": "31", 
-      "lat": 51.095757264281, 
-      "lon": 2.585533885669, 
-      "municipality": "De Panne", 
-      "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Koninklijke Baan"
-    }, 
-    {
       "hnrlbls": [
-        "4-33"
+        "2-33"
       ], 
       "housenumber": "33", 
-      "lat": 51.095910988625, 
-      "lon": 2.584901741035, 
+      "lat": 51.096020861059, 
+      "lon": 2.584824297756, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Koninklijke Baan"
     }, 
     {
-      "busnrs": [
-        "101", 
-        "102", 
-        "201", 
-        "301", 
-        "302"
+      "apptnrs": [
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302"
       ], 
       "hnrlbls": [
         "34"
@@ -442,28 +405,17 @@
       "lon": 2.584801064116, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Koninklijke Baan"
     }, 
     {
-      "hnrlbls": [
-        "35"
-      ], 
-      "housenumber": "35", 
-      "lat": 51.096448551805, 
-      "lon": 2.584715309755, 
-      "municipality": "De Panne", 
-      "pcode": "8660", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Koninklijke Baan"
-    }, 
-    {
-      "busnrs": [
-        "102", 
-        "201", 
-        "3", 
-        "301", 
-        "302"
+      "apptnrs": [
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302"
       ], 
       "hnrlbls": [
         "36"
@@ -473,62 +425,25 @@
       "lon": 2.584629415981, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Koninklijke Baan"
     }, 
     {
-      "hnrlbls": [
-        "37"
-      ], 
-      "housenumber": "37", 
-      "lat": 51.0965107478, 
-      "lon": 2.584559148705, 
-      "municipality": "De Panne", 
-      "pcode": "8660", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Koninklijke Baan"
-    }, 
-    {
-      "busnrs": [
-        "101", 
-        "201"
+      "apptnrs": [
+        "0101", 
+        "0201", 
+        "0301", 
+        "G001"
       ], 
       "hnrlbls": [
-        "38-38G"
+        "38"
       ], 
       "housenumber": "38", 
       "lat": 51.096537288395, 
       "lon": 2.58448888135, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Koninklijke Baan"
-    }, 
-    {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "38-38G"
-      ], 
-      "housenumber": "38G", 
-      "lat": 51.096537288395, 
-      "lon": 2.58448888135, 
-      "municipality": "De Panne", 
-      "pcode": "8660", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Koninklijke Baan"
-    }, 
-    {
-      "hnrlbls": [
-        "39"
-      ], 
-      "housenumber": "39", 
-      "lat": 51.09609192811, 
-      "lon": 2.584416486057, 
-      "municipality": "De Panne", 
-      "pcode": "8660", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Koninklijke Baan"
     }, 
     {
@@ -540,7 +455,7 @@
       "lon": 2.588502682178, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Koninklijke Baan"
     }, 
     {
@@ -552,7 +467,7 @@
       "lon": 2.584280832776, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Koninklijke Baan"
     }, 
     {
@@ -564,46 +479,23 @@
       "lon": 2.584222621436, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Koninklijke Baan"
     }, 
     {
-      "hnrlbls": [
-        "43"
+      "apptnrs": [
+        "0101", 
+        "G001"
       ], 
-      "housenumber": "43", 
-      "lat": 51.096272773565, 
-      "lon": 2.583931088042, 
-      "municipality": "De Panne", 
-      "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Koninklijke Baan"
-    }, 
-    {
       "hnrlbls": [
-        "44-44G"
+        "44"
       ], 
       "housenumber": "44", 
       "lat": 51.09665846065, 
       "lon": 2.584153976284, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Koninklijke Baan"
-    }, 
-    {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "44-44G"
-      ], 
-      "housenumber": "44G", 
-      "lat": 51.09665846065, 
-      "lon": 2.584153976284, 
-      "municipality": "De Panne", 
-      "pcode": "8660", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Koninklijke Baan"
     }, 
     {
@@ -615,7 +507,7 @@
       "lon": 2.583626680181, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Koninklijke Baan"
     }, 
     {
@@ -627,7 +519,7 @@
       "lon": 2.584027595896, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Koninklijke Baan"
     }, 
     {
@@ -639,7 +531,7 @@
       "lon": 2.583348207276, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Koninklijke Baan"
     }, 
     {
@@ -651,7 +543,7 @@
       "lon": 2.58396148522, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Koninklijke Baan"
     }, 
     {
@@ -663,7 +555,7 @@
       "lon": 2.583069583497, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Koninklijke Baan"
     }, 
     {
@@ -675,78 +567,62 @@
       "lon": 2.588179755716, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Koninklijke Baan"
     }, 
     {
-      "busnrs": [
-        "103", 
-        "107", 
-        "201", 
-        "202", 
-        "203", 
-        "303"
+      "apptnrs": [
+        "0101", 
+        "0102", 
+        "0103", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0301", 
+        "0302", 
+        "0303", 
+        "G001", 
+        "G002", 
+        "G003"
       ], 
       "hnrlbls": [
-        "54-56G"
+        "54-56"
       ], 
       "housenumber": "54", 
       "lat": 51.097367147087, 
       "lon": 2.583594445214, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Koninklijke Baan"
     }, 
     {
-      "busnrs": [
-        "3"
+      "apptnrs": [
+        "0101", 
+        "0103", 
+        "0104", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0204", 
+        "0301", 
+        "0302", 
+        "0303", 
+        "0304", 
+        "G001", 
+        "G002", 
+        "G003", 
+        "G004"
       ], 
       "hnrlbls": [
-        "54-56G"
-      ], 
-      "housenumber": "54G", 
-      "lat": 51.097367147087, 
-      "lon": 2.583594445214, 
-      "municipality": "De Panne", 
-      "pcode": "8660", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Koninklijke Baan"
-    }, 
-    {
-      "busnrs": [
-        "101", 
-        "202", 
-        "301", 
-        "302", 
-        "304"
-      ], 
-      "hnrlbls": [
-        "54-56G"
+        "54-56"
       ], 
       "housenumber": "56", 
       "lat": 51.097367147087, 
       "lon": 2.583594445214, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Koninklijke Baan"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2", 
-        "4"
-      ], 
-      "hnrlbls": [
-        "54-56G"
-      ], 
-      "housenumber": "56G", 
-      "lat": 51.097367147087, 
-      "lon": 2.583594445214, 
-      "municipality": "De Panne", 
-      "pcode": "8660", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Koninklijke Baan"
     }, 
     {
@@ -758,7 +634,7 @@
       "lon": 2.588437789947, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Koninklijke Baan"
     }, 
     {
@@ -766,42 +642,28 @@
         "7"
       ], 
       "housenumber": "7", 
-      "lat": 51.095336689035, 
-      "lon": 2.588065874077, 
+      "lat": 51.095106485878, 
+      "lon": 2.588058361613, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Koninklijke Baan"
     }, 
     {
-      "busnrs": [
-        "101", 
-        "201"
+      "apptnrs": [
+        "0101", 
+        "0201", 
+        "G001"
       ], 
       "hnrlbls": [
-        "8-8G"
+        "8"
       ], 
       "housenumber": "8", 
       "lat": 51.095735019353, 
       "lon": 2.588346568898, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Koninklijke Baan"
-    }, 
-    {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "8-8G"
-      ], 
-      "housenumber": "8G", 
-      "lat": 51.095735019353, 
-      "lon": 2.588346568898, 
-      "municipality": "De Panne", 
-      "pcode": "8660", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Koninklijke Baan"
     }, 
     {
@@ -813,7 +675,7 @@
       "lon": 2.587951376984, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Koninklijke Baan"
     }
   ]

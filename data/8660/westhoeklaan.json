@@ -1,10 +1,19 @@
 {
   "addresses": [
     {
-      "busnrs": [
-        "101", 
-        "103", 
-        "204"
+      "apptnrs": [
+        "0101", 
+        "0102", 
+        "0103", 
+        "0104", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0204", 
+        "G001", 
+        "G002", 
+        "G003", 
+        "G004"
       ], 
       "hnrlbls": [
         "1"
@@ -14,7 +23,7 @@
       "lon": 2.588676451094, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Westhoeklaan"
     }, 
     {
@@ -26,7 +35,7 @@
       "lon": 2.587769341043, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Westhoeklaan"
     }, 
     {
@@ -38,14 +47,15 @@
       "lon": 2.587206139627, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Westhoeklaan"
     }, 
     {
-      "busnrs": [
-        "101", 
-        "102", 
-        "201"
+      "apptnrs": [
+        "0101", 
+        "0102", 
+        "0201", 
+        "G001"
       ], 
       "hnrlbls": [
         "12"
@@ -55,7 +65,7 @@
       "lon": 2.587606611179, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Westhoeklaan"
     }, 
     {
@@ -67,7 +77,7 @@
       "lon": 2.586938442445, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Westhoeklaan"
     }, 
     {
@@ -79,7 +89,7 @@
       "lon": 2.587445818837, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Westhoeklaan"
     }, 
     {
@@ -91,7 +101,7 @@
       "lon": 2.586432075603, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Westhoeklaan"
     }, 
     {
@@ -103,7 +113,7 @@
       "lon": 2.587359042692, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Westhoeklaan"
     }, 
     {
@@ -115,7 +125,19 @@
       "lon": 2.586092187362, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Westhoeklaan"
+    }, 
+    {
+      "hnrlbls": [
+        "18"
+      ], 
+      "housenumber": "18", 
+      "lat": 51.093832222328, 
+      "lon": 2.586689026658, 
+      "municipality": "De Panne", 
+      "pcode": "8660", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Westhoeklaan"
     }, 
     {
@@ -127,55 +149,28 @@
       "lon": 2.585788181341, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Westhoeklaan"
     }, 
     {
-      "hnrlbls": [
-        "1B-1G"
-      ], 
-      "housenumber": "1B", 
-      "lat": 51.093187145299, 
-      "lon": 2.58869914642, 
-      "municipality": "De Panne", 
-      "pcode": "8660", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Westhoeklaan"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "3"
-      ], 
-      "hnrlbls": [
-        "1B-1G"
-      ], 
-      "housenumber": "1G", 
-      "lat": 51.093187145299, 
-      "lon": 2.58869914642, 
-      "municipality": "De Panne", 
-      "pcode": "8660", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Westhoeklaan"
-    }, 
-    {
-      "busnrs": [
-        "101", 
-        "102", 
-        "201", 
-        "202", 
-        "301", 
-        "302"
+      "apptnrs": [
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302", 
+        "G001"
       ], 
       "hnrlbls": [
         "2-44"
       ], 
       "housenumber": "2", 
-      "lat": 51.09381081485, 
-      "lon": 2.588414968622, 
+      "lat": 51.093742459742, 
+      "lon": 2.58829449049, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Westhoeklaan"
     }, 
     {
@@ -187,7 +182,7 @@
       "lon": 2.586689030083, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Westhoeklaan"
     }, 
     {
@@ -199,13 +194,19 @@
       "lon": 2.585482524766, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Westhoeklaan"
     }, 
     {
-      "busnrs": [
-        "101", 
-        "202"
+      "apptnrs": [
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302", 
+        "G001", 
+        "G002"
       ], 
       "hnrlbls": [
         "22"
@@ -215,22 +216,7 @@
       "lon": 2.586372816787, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Westhoeklaan"
-    }, 
-    {
-      "busnrs": [
-        "2"
-      ], 
-      "hnrlbls": [
-        "22G"
-      ], 
-      "housenumber": "22G", 
-      "lat": 51.093863050561, 
-      "lon": 2.58637286816, 
-      "municipality": "De Panne", 
-      "pcode": "8660", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Westhoeklaan"
     }, 
     {
@@ -242,7 +228,7 @@
       "lon": 2.58525386392, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Westhoeklaan"
     }, 
     {
@@ -254,7 +240,7 @@
       "lon": 2.585851367446, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Westhoeklaan"
     }, 
     {
@@ -266,7 +252,7 @@
       "lon": 2.584927757591, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Westhoeklaan"
     }, 
     {
@@ -278,7 +264,7 @@
       "lon": 2.585788445152, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Westhoeklaan"
     }, 
     {
@@ -290,7 +276,7 @@
       "lon": 2.58390163272, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Westhoeklaan"
     }, 
     {
@@ -302,22 +288,7 @@
       "lon": 2.585596703179, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Westhoeklaan"
-    }, 
-    {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "2G-44G"
-      ], 
-      "housenumber": "2G", 
-      "lat": 51.093866451923, 
-      "lon": 2.588449403548, 
-      "municipality": "De Panne", 
-      "pcode": "8660", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Westhoeklaan"
     }, 
     {
@@ -329,7 +300,7 @@
       "lon": 2.588373219042, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Westhoeklaan"
     }, 
     {
@@ -341,7 +312,7 @@
       "lon": 2.585350826355, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Westhoeklaan"
     }, 
     {
@@ -353,13 +324,14 @@
       "lon": 2.583070032048, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Westhoeklaan"
     }, 
     {
-      "busnrs": [
-        "101", 
-        "201"
+      "apptnrs": [
+        "0101", 
+        "0201", 
+        "G001"
       ], 
       "hnrlbls": [
         "32"
@@ -369,25 +341,20 @@
       "lon": 2.585247275202, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Westhoeklaan"
     }, 
     {
-      "busnrs": [
-        "1"
+      "apptnrs": [
+        "0101", 
+        "0102", 
+        "0103", 
+        "0104", 
+        "G001", 
+        "G002", 
+        "G003", 
+        "G004"
       ], 
-      "hnrlbls": [
-        "32G"
-      ], 
-      "housenumber": "32G", 
-      "lat": 51.093900894543, 
-      "lon": 2.585248134847, 
-      "municipality": "De Panne", 
-      "pcode": "8660", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Westhoeklaan"
-    }, 
-    {
       "hnrlbls": [
         "33"
       ], 
@@ -396,13 +363,14 @@
       "lon": 2.582528827737, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Westhoeklaan"
     }, 
     {
-      "busnrs": [
-        "101", 
-        "201"
+      "apptnrs": [
+        "0101", 
+        "0201", 
+        "G001"
       ], 
       "hnrlbls": [
         "34"
@@ -412,22 +380,7 @@
       "lon": 2.58516181615, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Westhoeklaan"
-    }, 
-    {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "34G"
-      ], 
-      "housenumber": "34G", 
-      "lat": 51.093922178841, 
-      "lon": 2.585163222617, 
-      "municipality": "De Panne", 
-      "pcode": "8660", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Westhoeklaan"
     }, 
     {
@@ -439,7 +392,7 @@
       "lon": 2.585058336569, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Westhoeklaan"
     }, 
     {
@@ -451,7 +404,7 @@
       "lon": 2.584583739409, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Westhoeklaan"
     }, 
     {
@@ -463,7 +416,7 @@
       "lon": 2.588138274102, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Westhoeklaan"
     }, 
     {
@@ -475,73 +428,69 @@
       "lon": 2.584248832197, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Westhoeklaan"
     }, 
     {
-      "busnrs": [
-        "103", 
-        "104", 
-        "106", 
-        "201"
+      "apptnrs": [
+        "0101", 
+        "0102", 
+        "0103", 
+        "0104", 
+        "0105", 
+        "0106", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0204", 
+        "0205", 
+        "0206", 
+        "0207", 
+        "G001", 
+        "G002", 
+        "G003", 
+        "G004", 
+        "G005", 
+        "G006", 
+        "G007"
       ], 
       "hnrlbls": [
-        "41-41G"
+        "41"
       ], 
       "housenumber": "41", 
       "lat": 51.095033716934, 
       "lon": 2.581013510774, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Westhoeklaan"
     }, 
     {
-      "busnrs": [
-        "2", 
-        "4", 
-        "5"
+      "apptnrs": [
+        "0101", 
+        "0102", 
+        "0103", 
+        "0104", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0204", 
+        "0301", 
+        "0302", 
+        "G001", 
+        "G002", 
+        "G003", 
+        "G004"
       ], 
       "hnrlbls": [
-        "41-41G"
-      ], 
-      "housenumber": "41G", 
-      "lat": 51.095033716934, 
-      "lon": 2.581013510774, 
-      "municipality": "De Panne", 
-      "pcode": "8660", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Westhoeklaan"
-    }, 
-    {
-      "busnrs": [
-        "101", 
-        "302"
-      ], 
-      "hnrlbls": [
-        "43-43G"
+        "43"
       ], 
       "housenumber": "43", 
       "lat": 51.095417346886, 
       "lon": 2.580987564874, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Westhoeklaan"
-    }, 
-    {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "43-43G"
-      ], 
-      "housenumber": "43G", 
-      "lat": 51.095417346886, 
-      "lon": 2.580987564874, 
-      "municipality": "De Panne", 
-      "pcode": "8660", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Westhoeklaan"
     }, 
     {
@@ -553,7 +502,7 @@
       "lon": 2.583679205241, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Westhoeklaan"
     }, 
     {
@@ -565,108 +514,76 @@
       "lon": 2.583419260178, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Westhoeklaan"
     }, 
     {
-      "busnrs": [
-        "102", 
-        "103", 
-        "104", 
-        "202", 
-        "204"
+      "apptnrs": [
+        "0101", 
+        "0102", 
+        "0103", 
+        "0104", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0204", 
+        "G001", 
+        "G002", 
+        "G003", 
+        "G004"
       ], 
       "hnrlbls": [
-        "47-47G"
+        "47"
       ], 
       "housenumber": "47", 
       "lat": 51.096285598742, 
       "lon": 2.581061466564, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Westhoeklaan"
     }, 
     {
-      "busnrs": [
-        "2", 
-        "4"
+      "apptnrs": [
+        "0101", 
+        "G001"
       ], 
       "hnrlbls": [
-        "47-47G"
-      ], 
-      "housenumber": "47G", 
-      "lat": 51.096285598742, 
-      "lon": 2.581061466564, 
-      "municipality": "De Panne", 
-      "pcode": "8660", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Westhoeklaan"
-    }, 
-    {
-      "busnrs": [
-        "101"
-      ], 
-      "hnrlbls": [
-        "48-48G"
+        "48"
       ], 
       "housenumber": "48", 
       "lat": 51.094025726763, 
       "lon": 2.58318826058, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Westhoeklaan"
     }, 
     {
-      "busnrs": [
-        "1"
+      "apptnrs": [
+        "0101", 
+        "0102", 
+        "0103", 
+        "0104", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0204", 
+        "0301", 
+        "G001", 
+        "G002", 
+        "G003", 
+        "G004"
       ], 
       "hnrlbls": [
-        "48-48G"
-      ], 
-      "housenumber": "48G", 
-      "lat": 51.094025726763, 
-      "lon": 2.58318826058, 
-      "municipality": "De Panne", 
-      "pcode": "8660", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Westhoeklaan"
-    }, 
-    {
-      "busnrs": [
-        "102", 
-        "104", 
-        "201", 
-        "202", 
-        "204", 
-        "301"
-      ], 
-      "hnrlbls": [
-        "49-49G"
+        "49"
       ], 
       "housenumber": "49", 
       "lat": 51.09664292695, 
       "lon": 2.581115490796, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Westhoeklaan"
-    }, 
-    {
-      "busnrs": [
-        "2", 
-        "3"
-      ], 
-      "hnrlbls": [
-        "49-49G"
-      ], 
-      "housenumber": "49G", 
-      "lat": 51.09664292695, 
-      "lon": 2.581115490796, 
-      "municipality": "De Panne", 
-      "pcode": "8660", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Westhoeklaan"
     }, 
     {
@@ -678,7 +595,7 @@
       "lon": 2.588051290217, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Westhoeklaan"
     }, 
     {
@@ -690,15 +607,17 @@
       "lon": 2.582948209139, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Westhoeklaan"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "101", 
-        "102", 
-        "103"
+      "apptnrs": [
+        "0101", 
+        "0102", 
+        "0103", 
+        "G001", 
+        "G002", 
+        "G003"
       ], 
       "hnrlbls": [
         "52"
@@ -708,24 +627,7 @@
       "lon": 2.582582758506, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Westhoeklaan"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3"
-      ], 
-      "hnrlbls": [
-        "52G"
-      ], 
-      "housenumber": "52G", 
-      "lat": 51.094251421733, 
-      "lon": 2.582618921261, 
-      "municipality": "De Panne", 
-      "pcode": "8660", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Westhoeklaan"
     }, 
     {
@@ -737,7 +639,7 @@
       "lon": 2.58186288931, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Westhoeklaan"
     }, 
     {
@@ -749,7 +651,7 @@
       "lon": 2.588015765651, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Westhoeklaan"
     }, 
     {
@@ -761,7 +663,7 @@
       "lon": 2.581890176622, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Westhoeklaan"
     }, 
     {
@@ -773,7 +675,7 @@
       "lon": 2.581846986956, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Westhoeklaan"
     }, 
     {
@@ -785,19 +687,30 @@
       "lon": 2.581964491212, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Westhoeklaan"
     }, 
     {
+      "apptnrs": [
+        "0101", 
+        "0102", 
+        "0103", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "G001", 
+        "G002", 
+        "G003"
+      ], 
       "hnrlbls": [
-        "68-70"
+        "68"
       ], 
       "housenumber": "68", 
       "lat": 51.096288488122, 
       "lon": 2.581916684197, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Westhoeklaan"
     }, 
     {
@@ -809,19 +722,7 @@
       "lon": 2.587783729394, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Westhoeklaan"
-    }, 
-    {
-      "hnrlbls": [
-        "68-70"
-      ], 
-      "housenumber": "70", 
-      "lat": 51.096288488122, 
-      "lon": 2.581916684197, 
-      "municipality": "De Panne", 
-      "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Westhoeklaan"
     }, 
     {
@@ -833,7 +734,7 @@
       "lon": 2.58215291362, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Westhoeklaan"
     }, 
     {
@@ -845,7 +746,7 @@
       "lon": 2.582455761029, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Westhoeklaan"
     }, 
     {
@@ -857,7 +758,7 @@
       "lon": 2.582809296976, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Westhoeklaan"
     }, 
     {
@@ -869,7 +770,7 @@
       "lon": 2.587874972394, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Westhoeklaan"
     }, 
     {
@@ -881,7 +782,7 @@
       "lon": 2.587492054747, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Westhoeklaan"
     }
   ]

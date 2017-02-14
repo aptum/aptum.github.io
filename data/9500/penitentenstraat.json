@@ -1,10 +1,15 @@
 {
   "addresses": [
     {
-      "hnrlbls": [
-        "13-13B"
+      "busnrs": [
+        "1", 
+        "2", 
+        "3"
       ], 
-      "housenumber": "13", 
+      "hnrlbls": [
+        "13B"
+      ], 
+      "housenumber": "13B", 
       "lat": 50.77208376229, 
       "lon": 3.880918757049, 
       "municipality": "Geraardsbergen", 
@@ -16,26 +21,13 @@
       "busnrs": [
         "1", 
         "2", 
-        "3"
-      ], 
-      "hnrlbls": [
-        "13-13B"
-      ], 
-      "housenumber": "13B", 
-      "lat": 50.77208376229, 
-      "lon": 3.880918757049, 
-      "municipality": "Geraardsbergen", 
-      "pcode": "9500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Penitentenstraat"
-    }, 
-    {
-      "busnrs": [
         "3", 
-        "5"
+        "4", 
+        "5", 
+        "6"
       ], 
       "hnrlbls": [
-        "15-15B"
+        "15"
       ], 
       "housenumber": "15", 
       "lat": 50.772138414646, 
@@ -46,32 +38,15 @@
       "street": "Penitentenstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "4", 
-        "5"
-      ], 
       "hnrlbls": [
-        "15-15B"
-      ], 
-      "housenumber": "15B", 
-      "lat": 50.772138414646, 
-      "lon": 3.880938890233, 
-      "municipality": "Geraardsbergen", 
-      "pcode": "9500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Penitentenstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "16"
+        "5-16"
       ], 
       "housenumber": "16", 
-      "lat": 50.771883792126, 
-      "lon": 3.880629487077, 
+      "lat": 50.771889594902, 
+      "lon": 3.880511757238, 
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Penitentenstraat"
     }, 
     {
@@ -103,16 +78,24 @@
         "19"
       ], 
       "housenumber": "19", 
-      "lat": 50.772257918355, 
-      "lon": 3.880816013538, 
+      "lat": 50.772259921533, 
+      "lon": 3.880865329434, 
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
       "source": "afgeleidVanGebouw", 
       "street": "Penitentenstraat"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6"
+      ], 
       "hnrlbls": [
-        "2-2B"
+        "2-37"
       ], 
       "housenumber": "2", 
       "lat": 50.771685858527, 
@@ -127,8 +110,8 @@
         "20"
       ], 
       "housenumber": "20", 
-      "lat": 50.772115849208, 
-      "lon": 3.880593059515, 
+      "lat": 50.772119927146, 
+      "lon": 3.880644055032, 
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
       "source": "afgeleidVanGebouw", 
@@ -139,20 +122,8 @@
         "21"
       ], 
       "housenumber": "21", 
-      "lat": 50.772320191509, 
-      "lon": 3.880852796923, 
-      "municipality": "Geraardsbergen", 
-      "pcode": "9500", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Penitentenstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "22"
-      ], 
-      "housenumber": "22", 
-      "lat": 50.772257987276, 
-      "lon": 3.880530200657, 
+      "lat": 50.772320103974, 
+      "lon": 3.880853364917, 
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
       "source": "afgeleidVanGebouw", 
@@ -164,14 +135,14 @@
         "2"
       ], 
       "hnrlbls": [
-        "22B"
+        "22"
       ], 
-      "housenumber": "22B", 
+      "housenumber": "22", 
       "lat": 50.772264852168, 
       "lon": 3.880559618134, 
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Penitentenstraat"
     }, 
     {
@@ -191,8 +162,8 @@
         "24"
       ], 
       "housenumber": "24", 
-      "lat": 50.772267413341, 
-      "lon": 3.880440644958, 
+      "lat": 50.772306767361, 
+      "lon": 3.88050020696, 
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
       "source": "afgeleidVanGebouw", 
@@ -236,21 +207,6 @@
     }, 
     {
       "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "28-28B"
-      ], 
-      "housenumber": "28", 
-      "lat": 50.772444423333, 
-      "lon": 3.880397272377, 
-      "municipality": "Geraardsbergen", 
-      "pcode": "9500", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Penitentenstraat"
-    }, 
-    {
-      "busnrs": [
         "1", 
         "2", 
         "3", 
@@ -259,14 +215,14 @@
         "6"
       ], 
       "hnrlbls": [
-        "28-28B"
+        "28"
       ], 
-      "housenumber": "28B", 
+      "housenumber": "28", 
       "lat": 50.772444423333, 
       "lon": 3.880397272377, 
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Penitentenstraat"
     }, 
     {
@@ -288,22 +244,13 @@
         "3", 
         "4", 
         "5", 
-        "6"
+        "6", 
+        "7", 
+        "8", 
+        "9"
       ], 
       "hnrlbls": [
-        "2-2B"
-      ], 
-      "housenumber": "2B", 
-      "lat": 50.771685858527, 
-      "lon": 3.88065677129, 
-      "municipality": "Geraardsbergen", 
-      "pcode": "9500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Penitentenstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "3-3B"
+        "3"
       ], 
       "housenumber": "3", 
       "lat": 50.771848909766, 
@@ -339,14 +286,14 @@
     }, 
     {
       "hnrlbls": [
-        "35-65"
+        "35"
       ], 
       "housenumber": "35", 
-      "lat": 50.772544569709, 
-      "lon": 3.880418635191, 
+      "lat": 50.772780817354, 
+      "lon": 3.880395489379, 
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
-      "source": "afgeleidVanStraat", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Penitentenstraat"
     }, 
     {
@@ -364,6 +311,7 @@
     {
       "busnrs": [
         "1", 
+        "10", 
         "2", 
         "3", 
         "4", 
@@ -374,19 +322,7 @@
         "9"
       ], 
       "hnrlbls": [
-        "3-3B"
-      ], 
-      "housenumber": "3B", 
-      "lat": 50.771848909766, 
-      "lon": 3.880931536198, 
-      "municipality": "Geraardsbergen", 
-      "pcode": "9500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Penitentenstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "40-40B"
+        "40"
       ], 
       "housenumber": "40", 
       "lat": 50.772766840959, 
@@ -397,74 +333,12 @@
       "street": "Penitentenstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "10", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6", 
-        "7", 
-        "8"
-      ], 
       "hnrlbls": [
-        "40-40B"
-      ], 
-      "housenumber": "40B", 
-      "lat": 50.772766840959, 
-      "lon": 3.880104856805, 
-      "municipality": "Geraardsbergen", 
-      "pcode": "9500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Penitentenstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "46-48"
-      ], 
-      "housenumber": "46", 
-      "lat": 50.772884714578, 
-      "lon": 3.879936200303, 
-      "municipality": "Geraardsbergen", 
-      "pcode": "9500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Penitentenstraat"
-    }, 
-    {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "46-48"
-      ], 
-      "housenumber": "48", 
-      "lat": 50.772884714578, 
-      "lon": 3.879936200303, 
-      "municipality": "Geraardsbergen", 
-      "pcode": "9500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Penitentenstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "29-50"
+        "50"
       ], 
       "housenumber": "50", 
-      "lat": 50.773043720059, 
-      "lon": 3.879843816258, 
-      "municipality": "Geraardsbergen", 
-      "pcode": "9500", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Penitentenstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "52-52B"
-      ], 
-      "housenumber": "52", 
-      "lat": 50.773132582314, 
-      "lon": 3.879875502942, 
+      "lat": 50.773094279266, 
+      "lon": 3.879917156463, 
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
       "source": "afgeleidVanGebouw", 
@@ -476,23 +350,11 @@
         "2"
       ], 
       "hnrlbls": [
-        "52-52B"
+        "52"
       ], 
-      "housenumber": "52B", 
+      "housenumber": "52", 
       "lat": 50.773132582314, 
       "lon": 3.879875502942, 
-      "municipality": "Geraardsbergen", 
-      "pcode": "9500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Penitentenstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "54"
-      ], 
-      "housenumber": "54", 
-      "lat": 50.773164236564, 
-      "lon": 3.879877868441, 
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
       "source": "afgeleidVanGebouw", 
@@ -500,14 +362,14 @@
     }, 
     {
       "hnrlbls": [
-        "35-65"
+        "54"
       ], 
-      "housenumber": "65", 
-      "lat": 50.772544569709, 
-      "lon": 3.880418635191, 
+      "housenumber": "54", 
+      "lat": 50.773195800327, 
+      "lon": 3.879880093106, 
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
-      "source": "afgeleidVanStraat", 
+      "source": "afgeleidVanGebouw", 
       "street": "Penitentenstraat"
     }
   ]

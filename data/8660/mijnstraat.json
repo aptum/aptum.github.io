@@ -1,51 +1,38 @@
 {
   "addresses": [
     {
-      "busnrs": [
-        "101", 
-        "201", 
-        "301"
+      "apptnrs": [
+        "0101", 
+        "0201", 
+        "0301", 
+        "0401"
       ], 
       "hnrlbls": [
-        "1"
+        "1-57"
       ], 
       "housenumber": "1", 
       "lat": 51.104017243543, 
       "lon": 2.593094731702, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Mijnstraat"
     }, 
     {
-      "busnrs": [
-        "201", 
-        "202"
+      "apptnrs": [
+        "0101", 
+        "0201", 
+        "0202"
       ], 
       "hnrlbls": [
-        "2-2G"
+        "2-63"
       ], 
       "housenumber": "2", 
-      "lat": 51.103907211286, 
-      "lon": 2.593370973697, 
+      "lat": 51.104095228332, 
+      "lon": 2.593467090458, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "geinterpoleerdObvWegverbinding", 
-      "street": "Mijnstraat"
-    }, 
-    {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "2-2G"
-      ], 
-      "housenumber": "2G", 
-      "lat": 51.103907211286, 
-      "lon": 2.593370973697, 
-      "municipality": "De Panne", 
-      "pcode": "8660", 
-      "source": "geinterpoleerdObvWegverbinding", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Mijnstraat"
     }, 
     {
@@ -53,14 +40,22 @@
         "3"
       ], 
       "housenumber": "3", 
-      "lat": 51.104088641096, 
-      "lon": 2.593023468587, 
+      "lat": 51.104088733107, 
+      "lon": 2.593023607909, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Mijnstraat"
     }, 
     {
+      "apptnrs": [
+        "0101", 
+        "0201", 
+        "0301", 
+        "0302", 
+        "G001", 
+        "K001"
+      ], 
       "hnrlbls": [
         "4"
       ], 
@@ -69,12 +64,25 @@
       "lon": 2.593410307126, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Mijnstraat"
     }, 
     {
-      "busnrs": [
-        "202"
+      "apptnrs": [
+        "0101", 
+        "0102", 
+        "0103", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0301", 
+        "0302", 
+        "0303", 
+        "0401", 
+        "0501", 
+        "0601", 
+        "0701", 
+        "G001"
       ], 
       "hnrlbls": [
         "6"
@@ -84,7 +92,7 @@
       "lon": 2.593267329321, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Mijnstraat"
     }
   ]

@@ -41,8 +41,8 @@
         "105"
       ], 
       "housenumber": "105", 
-      "lat": 51.119123077309, 
-      "lon": 4.327328897234, 
+      "lat": 51.119120740486, 
+      "lon": 4.327329613376, 
       "municipality": "Schelle", 
       "pcode": "2627", 
       "source": "afgeleidVanGebouw", 
@@ -89,8 +89,8 @@
         "111"
       ], 
       "housenumber": "111", 
-      "lat": 51.119088793243, 
-      "lon": 4.326963019762, 
+      "lat": 51.119090051118, 
+      "lon": 4.326961447625, 
       "municipality": "Schelle", 
       "pcode": "2627", 
       "source": "afgeleidVanGebouw", 
@@ -137,8 +137,8 @@
         "119"
       ], 
       "housenumber": "119", 
-      "lat": 51.119136935342, 
-      "lon": 4.326598926367, 
+      "lat": 51.119133069636, 
+      "lon": 4.326597358764, 
       "municipality": "Schelle", 
       "pcode": "2627", 
       "source": "afgeleidVanGebouw", 
@@ -181,8 +181,8 @@
         "125"
       ], 
       "housenumber": "125", 
-      "lat": 51.119152953886, 
-      "lon": 4.325497351924, 
+      "lat": 51.119152992443, 
+      "lon": 4.325497332369, 
       "municipality": "Schelle", 
       "pcode": "2627", 
       "source": "afgeleidVanGebouw", 
@@ -201,8 +201,8 @@
         "127"
       ], 
       "housenumber": "127", 
-      "lat": 51.119155707354, 
-      "lon": 4.32531489204, 
+      "lat": 51.11915571301, 
+      "lon": 4.325314947235, 
       "municipality": "Schelle", 
       "pcode": "2627", 
       "source": "afgeleidVanGebouw", 
@@ -221,8 +221,8 @@
         "129"
       ], 
       "housenumber": "129", 
-      "lat": 51.119160714217, 
-      "lon": 4.325130605133, 
+      "lat": 51.11916067975, 
+      "lon": 4.325130560518, 
       "municipality": "Schelle", 
       "pcode": "2627", 
       "source": "afgeleidVanGebouw", 
@@ -253,8 +253,8 @@
         "131"
       ], 
       "housenumber": "131", 
-      "lat": 51.119163181869, 
-      "lon": 4.324943781728, 
+      "lat": 51.119163218358, 
+      "lon": 4.324943748042, 
       "municipality": "Schelle", 
       "pcode": "2627", 
       "source": "afgeleidVanGebouw", 
@@ -301,8 +301,8 @@
         "143"
       ], 
       "housenumber": "143", 
-      "lat": 51.119160950936, 
-      "lon": 4.324399886987, 
+      "lat": 51.119149261994, 
+      "lon": 4.324390186068, 
       "municipality": "Schelle", 
       "pcode": "2627", 
       "source": "afgeleidVanGebouw", 
@@ -439,8 +439,8 @@
         "20"
       ], 
       "housenumber": "20", 
-      "lat": 51.119360093505, 
-      "lon": 4.333566794975, 
+      "lat": 51.119360121338, 
+      "lon": 4.333566861521, 
       "municipality": "Schelle", 
       "pcode": "2627", 
       "source": "manueleAanduidingVanIngangVanGebouw", 
@@ -451,8 +451,8 @@
         "21"
       ], 
       "housenumber": "21", 
-      "lat": 51.118725359964, 
-      "lon": 4.333057416857, 
+      "lat": 51.118876063815, 
+      "lon": 4.332909245569, 
       "municipality": "Schelle", 
       "pcode": "2627", 
       "source": "afgeleidVanGebouw", 
@@ -460,17 +460,19 @@
     }, 
     {
       "busnrs": [
+        "1", 
         "11", 
         "12", 
         "2", 
-        "21"
+        "21", 
+        "22"
       ], 
       "hnrlbls": [
         "21A-21B"
       ], 
       "housenumber": "21A", 
-      "lat": 51.119027030347, 
-      "lon": 4.332761312501, 
+      "lat": 51.119016189817, 
+      "lon": 4.332881290122, 
       "municipality": "Schelle", 
       "pcode": "2627", 
       "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
@@ -478,14 +480,19 @@
     }, 
     {
       "busnrs": [
+        "1", 
+        "11", 
+        "12", 
+        "2", 
+        "21", 
         "22"
       ], 
       "hnrlbls": [
         "21A-21B"
       ], 
       "housenumber": "21B", 
-      "lat": 51.119027030347, 
-      "lon": 4.332761312501, 
+      "lat": 51.119016189817, 
+      "lon": 4.332881290122, 
       "municipality": "Schelle", 
       "pcode": "2627", 
       "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
@@ -508,9 +515,33 @@
     }, 
     {
       "hnrlbls": [
-        "23A"
+        "23A-23D"
       ], 
       "housenumber": "23A", 
+      "lat": 51.119147528522, 
+      "lon": 4.332926037096, 
+      "municipality": "Schelle", 
+      "pcode": "2627", 
+      "source": "geinterpoleerdObvWegverbinding", 
+      "street": "Tolhuisstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "23A-23D"
+      ], 
+      "housenumber": "23C", 
+      "lat": 51.119147528522, 
+      "lon": 4.332926037096, 
+      "municipality": "Schelle", 
+      "pcode": "2627", 
+      "source": "geinterpoleerdObvWegverbinding", 
+      "street": "Tolhuisstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "23A-23D"
+      ], 
+      "housenumber": "23D", 
       "lat": 51.119147528522, 
       "lon": 4.332926037096, 
       "municipality": "Schelle", 
@@ -535,8 +566,8 @@
         "253"
       ], 
       "housenumber": "253", 
-      "lat": 51.119749700412, 
-      "lon": 4.316981109853, 
+      "lat": 51.119738103718, 
+      "lon": 4.316978266069, 
       "municipality": "Schelle", 
       "pcode": "2627", 
       "source": "afgeleidVanGebouw", 
@@ -739,8 +770,8 @@
         "43"
       ], 
       "housenumber": "43", 
-      "lat": 51.119022825953, 
-      "lon": 4.331937525449, 
+      "lat": 51.119025792102, 
+      "lon": 4.331937094694, 
       "municipality": "Schelle", 
       "pcode": "2627", 
       "source": "afgeleidVanGebouw", 
@@ -775,8 +806,8 @@
         "46-48"
       ], 
       "housenumber": "46", 
-      "lat": 51.119594733983, 
-      "lon": 4.329476296673, 
+      "lat": 51.119594718749, 
+      "lon": 4.329476251299, 
       "municipality": "Schelle", 
       "pcode": "2627", 
       "source": "afgeleidVanGebouw", 
@@ -799,8 +830,8 @@
         "46-48"
       ], 
       "housenumber": "48", 
-      "lat": 51.119594733983, 
-      "lon": 4.329476296673, 
+      "lat": 51.119594718749, 
+      "lon": 4.329476251299, 
       "municipality": "Schelle", 
       "pcode": "2627", 
       "source": "afgeleidVanGebouw", 
@@ -986,8 +1017,8 @@
         "67"
       ], 
       "housenumber": "67", 
-      "lat": 51.11906210892, 
-      "lon": 4.330223929977, 
+      "lat": 51.119060401702, 
+      "lon": 4.330225930852, 
       "municipality": "Schelle", 
       "pcode": "2627", 
       "source": "afgeleidVanGebouw", 
@@ -1046,8 +1077,8 @@
         "72"
       ], 
       "housenumber": "72", 
-      "lat": 51.120006698604, 
-      "lon": 4.31734496868, 
+      "lat": 51.120006665433, 
+      "lon": 4.317345029666, 
       "municipality": "Schelle", 
       "pcode": "2627", 
       "source": "manueleAanduidingVanIngangVanGebouw", 

@@ -13,6 +13,16 @@
       "street": "Gildelaan"
     }, 
     {
+      "busnrs": [
+        "BU01", 
+        "BU02", 
+        "BU11", 
+        "BU12", 
+        "BU21", 
+        "BU22", 
+        "BU31", 
+        "BU32"
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -61,12 +71,8 @@
       "street": "Gildelaan"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
       "hnrlbls": [
-        "14-14O"
+        "14"
       ], 
       "housenumber": "14", 
       "lat": 50.962484865707, 
@@ -74,18 +80,6 @@
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
-      "street": "Gildelaan"
-    }, 
-    {
-      "hnrlbls": [
-        "14-14O"
-      ], 
-      "housenumber": "14O", 
-      "lat": 50.962484865707, 
-      "lon": 5.484725664822, 
-      "municipality": "Genk", 
-      "pcode": "3600", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Gildelaan"
     }, 
     {
@@ -101,12 +95,8 @@
       "street": "Gildelaan"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
       "hnrlbls": [
-        "16-16O"
+        "16"
       ], 
       "housenumber": "16", 
       "lat": 50.962551950055, 
@@ -114,18 +104,6 @@
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
-      "street": "Gildelaan"
-    }, 
-    {
-      "hnrlbls": [
-        "16-16O"
-      ], 
-      "housenumber": "16O", 
-      "lat": 50.962551950055, 
-      "lon": 5.484704911941, 
-      "municipality": "Genk", 
-      "pcode": "3600", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Gildelaan"
     }, 
     {
@@ -142,10 +120,9 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "11", 
-        "21", 
-        "31"
+        "BU01", 
+        "BU11", 
+        "BU31"
       ], 
       "hnrlbls": [
         "18"
@@ -172,14 +149,13 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "11", 
-        "12", 
-        "2", 
-        "21", 
-        "22", 
-        "31", 
-        "32"
+        "BU01", 
+        "BU11", 
+        "BU12", 
+        "BU21", 
+        "BU22", 
+        "BU31", 
+        "BU32"
       ], 
       "hnrlbls": [
         "20"
@@ -199,6 +175,36 @@
       "housenumber": "21", 
       "lat": 50.96282325586, 
       "lon": 5.483693634091, 
+      "municipality": "Genk", 
+      "pcode": "3600", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Gildelaan"
+    }, 
+    {
+      "busnrs": [
+        "1", 
+        "11", 
+        "13", 
+        "21", 
+        "22", 
+        "23", 
+        "BU01", 
+        "BU02", 
+        "BU03", 
+        "BU11", 
+        "BU12", 
+        "BU13", 
+        "BU21", 
+        "BU22", 
+        "BU23", 
+        "BU31"
+      ], 
+      "hnrlbls": [
+        "22"
+      ], 
+      "housenumber": "22", 
+      "lat": 50.962856328579, 
+      "lon": 5.484376758014, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
@@ -290,8 +296,8 @@
     }, 
     {
       "busnrs": [
-        "2", 
-        "3"
+        "BU02", 
+        "BU03"
       ], 
       "hnrlbls": [
         "38"
@@ -306,35 +312,14 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "21"
+        "11"
       ], 
       "hnrlbls": [
         "40"
       ], 
       "housenumber": "40", 
-      "lat": 50.963243991356, 
-      "lon": 5.484016415211, 
-      "municipality": "Genk", 
-      "pcode": "3600", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Gildelaan"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "11", 
-        "12", 
-        "21", 
-        "22", 
-        "31"
-      ], 
-      "hnrlbls": [
-        "42-213"
-      ], 
-      "housenumber": "42", 
-      "lat": 50.963349027671, 
-      "lon": 5.483927945475, 
+      "lat": 50.963171665369, 
+      "lon": 5.483983231745, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
@@ -342,9 +327,28 @@
     }, 
     {
       "busnrs": [
-        "11", 
-        "2", 
-        "21"
+        "BU01", 
+        "BU11", 
+        "BU12", 
+        "BU21", 
+        "BU22", 
+        "BU31"
+      ], 
+      "hnrlbls": [
+        "42"
+      ], 
+      "housenumber": "42", 
+      "lat": 50.963249529073, 
+      "lon": 5.483916039202, 
+      "municipality": "Genk", 
+      "pcode": "3600", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Gildelaan"
+    }, 
+    {
+      "busnrs": [
+        "BU11", 
+        "BU21"
       ], 
       "hnrlbls": [
         "43-45"
@@ -359,28 +363,26 @@
     }, 
     {
       "busnrs": [
-        "11", 
-        "12", 
-        "2", 
-        "21", 
-        "22", 
-        "31"
+        "BU11", 
+        "BU12", 
+        "BU21", 
+        "BU31"
       ], 
       "hnrlbls": [
-        "42-213"
+        "44"
       ], 
       "housenumber": "44", 
-      "lat": 50.963349027671, 
-      "lon": 5.483927945475, 
+      "lat": 50.963308150532, 
+      "lon": 5.483839704404, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Gildelaan"
     }, 
     {
       "busnrs": [
-        "1", 
-        "2"
+        "BU01", 
+        "BU02"
       ], 
       "hnrlbls": [
         "43-45"
@@ -407,12 +409,12 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6"
+        "BU01", 
+        "BU02", 
+        "BU03", 
+        "BU04", 
+        "BU05", 
+        "BU06"
       ], 
       "hnrlbls": [
         "49"
@@ -430,8 +432,8 @@
         "5"
       ], 
       "housenumber": "5", 
-      "lat": 50.962243883351, 
-      "lon": 5.484238039399, 
+      "lat": 50.962234736151, 
+      "lon": 5.484169346839, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanPerceelGrb", 
@@ -439,12 +441,12 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6"
+        "BU01", 
+        "BU02", 
+        "BU03", 
+        "BU04", 
+        "BU05", 
+        "BU06"
       ], 
       "hnrlbls": [
         "51"
@@ -459,12 +461,11 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6"
+        "BU01", 
+        "BU02", 
+        "BU04", 
+        "BU05", 
+        "BU06"
       ], 
       "hnrlbls": [
         "53"
@@ -479,12 +480,12 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6"
+        "BU01", 
+        "BU02", 
+        "BU03", 
+        "BU04", 
+        "BU05", 
+        "BU06"
       ], 
       "hnrlbls": [
         "55"

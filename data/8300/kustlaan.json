@@ -129,9 +129,6 @@
       "street": "Kustlaan"
     }, 
     {
-      "apptnrs": [
-        "1"
-      ], 
       "hnrlbls": [
         "102-104"
       ], 
@@ -168,11 +165,9 @@
     }, 
     {
       "apptnrs": [
-        "1", 
         "11", 
-        "12", 
         "21", 
-        "22"
+        "31"
       ], 
       "hnrlbls": [
         "102-104"
@@ -180,25 +175,6 @@
       "housenumber": "104", 
       "lat": 51.354611539041, 
       "lon": 3.301122335824, 
-      "municipality": "Knokke-Heist", 
-      "pcode": "8300", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Kustlaan"
-    }, 
-    {
-      "apptnrs": [
-        "1", 
-        "31", 
-        "41", 
-        "51", 
-        "61"
-      ], 
-      "hnrlbls": [
-        "105"
-      ], 
-      "housenumber": "105", 
-      "lat": 51.354499822562, 
-      "lon": 3.297404138056, 
       "municipality": "Knokke-Heist", 
       "pcode": "8300", 
       "source": "manueleAanduidingVanGebouw", 
@@ -858,6 +834,9 @@
     }, 
     {
       "apptnrs": [
+        "0208", 
+        "0304", 
+        "0307", 
         "11", 
         "110", 
         "111", 
@@ -1361,30 +1340,6 @@
       "street": "Kustlaan"
     }, 
     {
-      "hnrlbls": [
-        "15A-15B"
-      ], 
-      "housenumber": "15A", 
-      "lat": 51.353309177638, 
-      "lon": 3.292093018936, 
-      "municipality": "Knokke-Heist", 
-      "pcode": "8300", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Kustlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "15A-15B"
-      ], 
-      "housenumber": "15B", 
-      "lat": 51.353309177638, 
-      "lon": 3.292093018936, 
-      "municipality": "Knokke-Heist", 
-      "pcode": "8300", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Kustlaan"
-    }, 
-    {
       "apptnrs": [
         "11", 
         "12", 
@@ -1486,6 +1441,9 @@
         "5", 
         "6", 
         "8"
+      ], 
+      "busnrs": [
+        "23"
       ], 
       "hnrlbls": [
         "164"
@@ -2006,6 +1964,7 @@
     }, 
     {
       "apptnrs": [
+        "21", 
         "41", 
         "51"
       ], 
@@ -2346,6 +2305,9 @@
       "apptnrs": [
         "1", 
         "41"
+      ], 
+      "busnrs": [
+        "61"
       ], 
       "hnrlbls": [
         "209-213"
@@ -3174,18 +3136,6 @@
       "street": "Kustlaan"
     }, 
     {
-      "hnrlbls": [
-        "295-297"
-      ], 
-      "housenumber": "295", 
-      "lat": 51.355833550972, 
-      "lon": 3.304342115246, 
-      "municipality": "Knokke-Heist", 
-      "pcode": "8300", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Kustlaan"
-    }, 
-    {
       "apptnrs": [
         "1", 
         "11", 
@@ -3196,7 +3146,7 @@
         "61"
       ], 
       "hnrlbls": [
-        "295-297"
+        "297"
       ], 
       "housenumber": "297", 
       "lat": 51.355833550972, 
@@ -3348,11 +3298,14 @@
     }, 
     {
       "apptnrs": [
-        "0021", 
-        "1"
+        "11", 
+        "21", 
+        "31", 
+        "41", 
+        "51"
       ], 
       "hnrlbls": [
-        "31"
+        "31-31A"
       ], 
       "housenumber": "31", 
       "lat": 51.353560440105, 
@@ -3443,6 +3396,18 @@
       "housenumber": "319", 
       "lat": 51.356083748782, 
       "lon": 3.305178535034, 
+      "municipality": "Knokke-Heist", 
+      "pcode": "8300", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Kustlaan"
+    }, 
+    {
+      "hnrlbls": [
+        "31-31A"
+      ], 
+      "housenumber": "31A", 
+      "lat": 51.353560440105, 
+      "lon": 3.293572723876, 
       "municipality": "Knokke-Heist", 
       "pcode": "8300", 
       "source": "manueleAanduidingVanGebouw", 
@@ -4286,18 +4251,6 @@
     }, 
     {
       "hnrlbls": [
-        "45-49"
-      ], 
-      "housenumber": "45", 
-      "lat": 51.353830490762, 
-      "lon": 3.294528314655, 
-      "municipality": "Knokke-Heist", 
-      "pcode": "8300", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Kustlaan"
-    }, 
-    {
-      "hnrlbls": [
         "46-46A"
       ], 
       "housenumber": "46", 
@@ -4352,7 +4305,7 @@
         "63"
       ], 
       "hnrlbls": [
-        "45-49"
+        "47-49"
       ], 
       "housenumber": "47", 
       "lat": 51.353830490762, 
@@ -4378,11 +4331,8 @@
       "street": "Kustlaan"
     }, 
     {
-      "apptnrs": [
-        "1"
-      ], 
       "hnrlbls": [
-        "45-49"
+        "47-49"
       ], 
       "housenumber": "49", 
       "lat": 51.353830490762, 

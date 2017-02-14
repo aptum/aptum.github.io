@@ -86,8 +86,8 @@
         "104"
       ], 
       "housenumber": "104", 
-      "lat": 51.198022052442, 
-      "lon": 4.426540747994, 
+      "lat": 51.198022061431, 
+      "lon": 4.426540748006, 
       "municipality": "Antwerpen", 
       "pcode": "2600", 
       "source": "manueleAanduidingVanGebouw", 
@@ -149,8 +149,8 @@
         "108A"
       ], 
       "housenumber": "108A", 
-      "lat": 51.197829497785, 
-      "lon": 4.42664071443, 
+      "lat": 51.197829478941, 
+      "lon": 4.426640650028, 
       "municipality": "Antwerpen", 
       "pcode": "2600", 
       "source": "manueleAanduidingVanGebouw", 
@@ -226,8 +226,10 @@
       "street": "Generaal Drubbelstraat"
     }, 
     {
-      "busnrs": [
-        "3"
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301"
       ], 
       "hnrlbls": [
         "113"
@@ -238,6 +240,18 @@
       "municipality": "Antwerpen", 
       "pcode": "2600", 
       "source": "afgeleidVanGebouw", 
+      "street": "Generaal Drubbelstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "113A"
+      ], 
+      "housenumber": "113A", 
+      "lat": 51.198046400866, 
+      "lon": 4.426215596947, 
+      "municipality": "Antwerpen", 
+      "pcode": "2600", 
+      "source": "manueleAanduidingVanToegangTotDeWeg", 
       "street": "Generaal Drubbelstraat"
     }, 
     {
@@ -1151,9 +1165,6 @@
       "street": "Generaal Drubbelstraat"
     }, 
     {
-      "busnrs": [
-        "2"
-      ], 
       "hnrlbls": [
         "47"
       ], 
@@ -1519,6 +1530,7 @@
     }, 
     {
       "busnrs": [
+        "1", 
         "2"
       ], 
       "hnrlbls": [

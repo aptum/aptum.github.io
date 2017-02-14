@@ -1,6 +1,9 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "101"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -10,18 +13,6 @@
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanPerceelGrb", 
-      "street": "Sint-Catharinapolderstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "10"
-      ], 
-      "housenumber": "10", 
-      "lat": 51.217960156969, 
-      "lon": 2.90465913472, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Sint-Catharinapolderstraat"
     }, 
     {
@@ -41,8 +32,8 @@
         "17"
       ], 
       "housenumber": "17", 
-      "lat": 51.218575698995, 
-      "lon": 2.905239198353, 
+      "lat": 51.218575162004, 
+      "lon": 2.905246659181, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -64,6 +55,7 @@
       "busnrs": [
         "1", 
         "2", 
+        "201", 
         "3"
       ], 
       "hnrlbls": [
@@ -80,8 +72,11 @@
     {
       "busnrs": [
         "1", 
+        "101", 
+        "102", 
         "2", 
         "201", 
+        "202", 
         "3", 
         "301", 
         "302", 
@@ -144,8 +139,8 @@
         "23"
       ], 
       "housenumber": "23", 
-      "lat": 51.218733314184, 
-      "lon": 2.90529151482, 
+      "lat": 51.218732726277, 
+      "lon": 2.905302126656, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -176,6 +171,9 @@
       "street": "Sint-Catharinapolderstraat"
     }, 
     {
+      "busnrs": [
+        "101"
+      ], 
       "hnrlbls": [
         "24B"
       ], 
@@ -308,14 +306,14 @@
         "5"
       ], 
       "hnrlbls": [
-        "33-35"
+        "33"
       ], 
       "housenumber": "33", 
-      "lat": 51.219438693784, 
-      "lon": 2.90569226741, 
+      "lat": 51.219258598364, 
+      "lon": 2.905370662557, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sint-Catharinapolderstraat"
     }, 
     {
@@ -343,26 +341,14 @@
     }, 
     {
       "hnrlbls": [
-        "33-35"
-      ], 
-      "housenumber": "35", 
-      "lat": 51.219438693784, 
-      "lon": 2.90569226741, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Sint-Catharinapolderstraat"
-    }, 
-    {
-      "hnrlbls": [
         "37"
       ], 
       "housenumber": "37", 
-      "lat": 51.21950692571, 
-      "lon": 2.905633866859, 
+      "lat": 51.219651165951, 
+      "lon": 2.905462564891, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sint-Catharinapolderstraat"
     }, 
     {
@@ -390,7 +376,7 @@
         "3B"
       ], 
       "hnrlbls": [
-        "40-40B"
+        "40"
       ], 
       "housenumber": "40", 
       "lat": 51.219722481342, 
@@ -398,21 +384,6 @@
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
-      "street": "Sint-Catharinapolderstraat"
-    }, 
-    {
-      "busnrs": [
-        "0"
-      ], 
-      "hnrlbls": [
-        "40-40B"
-      ], 
-      "housenumber": "40B", 
-      "lat": 51.219722481342, 
-      "lon": 2.905108447827, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Sint-Catharinapolderstraat"
     }, 
     {
@@ -432,11 +403,11 @@
         "42"
       ], 
       "housenumber": "42", 
-      "lat": 51.21975519601, 
-      "lon": 2.904904281385, 
+      "lat": 51.219780934843, 
+      "lon": 2.905189787981, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sint-Catharinapolderstraat"
     }, 
     {
@@ -468,11 +439,11 @@
         "45"
       ], 
       "housenumber": "45", 
-      "lat": 51.219577179945, 
-      "lon": 2.905659006111, 
+      "lat": 51.219863325036, 
+      "lon": 2.905520043858, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sint-Catharinapolderstraat"
     }, 
     {
@@ -480,11 +451,11 @@
         "47"
       ], 
       "housenumber": "47", 
-      "lat": 51.219590463307, 
-      "lon": 2.905671759867, 
+      "lat": 51.219908716879, 
+      "lon": 2.905526636767, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sint-Catharinapolderstraat"
     }, 
     {
@@ -527,6 +498,10 @@
       "street": "Sint-Catharinapolderstraat"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "101"
+      ], 
       "hnrlbls": [
         "52"
       ], 
@@ -541,6 +516,7 @@
     {
       "busnrs": [
         "1", 
+        "101", 
         "2"
       ], 
       "hnrlbls": [
@@ -558,7 +534,8 @@
       "busnrs": [
         "1", 
         "101", 
-        "201"
+        "201", 
+        "301"
       ], 
       "hnrlbls": [
         "56-73"
@@ -569,34 +546,6 @@
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
-      "street": "Sint-Catharinapolderstraat"
-    }, 
-    {
-      "busnrs": [
-        "2", 
-        "201"
-      ], 
-      "hnrlbls": [
-        "58"
-      ], 
-      "housenumber": "58", 
-      "lat": 51.220398422393, 
-      "lon": 2.905607620958, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "geinterpoleerdObvWegverbinding", 
-      "street": "Sint-Catharinapolderstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "85"
-      ], 
-      "housenumber": "85", 
-      "lat": 51.21905869164, 
-      "lon": 2.905148172425, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "afgeleidVanStraat", 
       "street": "Sint-Catharinapolderstraat"
     }
   ]

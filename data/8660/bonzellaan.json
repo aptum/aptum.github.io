@@ -1,33 +1,37 @@
 {
   "addresses": [
     {
-      "busnrs": [
-        "101", 
-        "102", 
-        "103", 
-        "104", 
-        "105", 
-        "201", 
-        "202", 
-        "203", 
-        "204", 
-        "205"
+      "apptnrs": [
+        "0101", 
+        "0102", 
+        "0103", 
+        "0104", 
+        "0105", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0204", 
+        "0205", 
+        "G001", 
+        "G002", 
+        "G003"
       ], 
       "hnrlbls": [
-        "1-1G"
+        "1"
       ], 
       "housenumber": "1", 
       "lat": 51.101791750567, 
       "lon": 2.590769914147, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Bonzellaan"
     }, 
     {
-      "busnrs": [
-        "101", 
-        "102"
+      "apptnrs": [
+        "0101", 
+        "0102", 
+        "G001"
       ], 
       "hnrlbls": [
         "10"
@@ -37,22 +41,7 @@
       "lon": 2.590340144814, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Bonzellaan"
-    }, 
-    {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "10G"
-      ], 
-      "housenumber": "10G", 
-      "lat": 51.101976750403, 
-      "lon": 2.590349588503, 
-      "municipality": "De Panne", 
-      "pcode": "8660", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Bonzellaan"
     }, 
     {
@@ -64,7 +53,7 @@
       "lon": 2.590136667183, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Bonzellaan"
     }, 
     {
@@ -76,7 +65,7 @@
       "lon": 2.590285124101, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Bonzellaan"
     }, 
     {
@@ -88,13 +77,10 @@
       "lon": 2.590189305948, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Bonzellaan"
     }, 
     {
-      "busnrs": [
-        "101"
-      ], 
       "hnrlbls": [
         "16"
       ], 
@@ -103,105 +89,77 @@
       "lon": 2.590038552031, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Bonzellaan"
     }, 
     {
-      "hnrlbls": [
-        "/zn-19"
-      ], 
-      "housenumber": "19", 
-      "lat": 51.101974785989, 
-      "lon": 2.590726252184, 
-      "municipality": "De Panne", 
-      "pcode": "8660", 
-      "source": "afgeleidVanStraat", 
-      "street": "Bonzellaan"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3"
-      ], 
-      "hnrlbls": [
-        "1-1G"
-      ], 
-      "housenumber": "1G", 
-      "lat": 51.101791750567, 
-      "lon": 2.590769914147, 
-      "municipality": "De Panne", 
-      "pcode": "8660", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Bonzellaan"
-    }, 
-    {
-      "busnrs": [
-        "101", 
-        "201"
+      "apptnrs": [
+        "0101", 
+        "0201", 
+        "0301", 
+        "W001"
       ], 
       "hnrlbls": [
         "2-143"
       ], 
       "housenumber": "2", 
-      "lat": 51.102044947883, 
-      "lon": 2.590865394372, 
+      "lat": 51.102044253782, 
+      "lon": 2.590986380676, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Bonzellaan"
     }, 
     {
-      "busnrs": [
-        "101", 
-        "102", 
-        "201", 
-        "301"
+      "apptnrs": [
+        "0101", 
+        "0201", 
+        "0301", 
+        "G001", 
+        "G002"
       ], 
       "hnrlbls": [
-        "3-3G"
+        "3"
       ], 
       "housenumber": "3", 
       "lat": 51.101718581238, 
       "lon": 2.590514783633, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Bonzellaan"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2"
+      "apptnrs": [
+        "0101", 
+        "0201", 
+        "0301"
       ], 
       "hnrlbls": [
-        "3-3G"
+        "4_1"
       ], 
-      "housenumber": "3G", 
-      "lat": 51.101718581238, 
-      "lon": 2.590514783633, 
+      "housenumber": "4_1", 
+      "lat": 51.102089552899, 
+      "lon": 2.59098522963, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Bonzellaan"
     }, 
     {
-      "busnrs": [
-        "101", 
-        "1101", 
-        "1201", 
-        "2", 
-        "2101"
+      "apptnrs": [
+        "0101", 
+        "W001"
       ], 
       "hnrlbls": [
-        "2-143"
+        "4_2"
       ], 
-      "housenumber": "4", 
-      "lat": 51.102044947883, 
-      "lon": 2.590865394372, 
+      "housenumber": "4_2", 
+      "lat": 51.102039554404, 
+      "lon": 2.590740212439, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Bonzellaan"
     }, 
     {
@@ -213,19 +171,19 @@
       "lon": 2.590428398314, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Bonzellaan"
     }, 
     {
       "hnrlbls": [
-        "6-149"
+        "6"
       ], 
       "housenumber": "6", 
-      "lat": 51.102101409664, 
-      "lon": 2.590739859696, 
+      "lat": 51.10204510131, 
+      "lon": 2.590625039603, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Bonzellaan"
     }, 
     {
@@ -237,12 +195,13 @@
       "lon": 2.590354113762, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Bonzellaan"
     }, 
     {
-      "busnrs": [
-        "101"
+      "apptnrs": [
+        "0101", 
+        "W001"
       ], 
       "hnrlbls": [
         "8"
@@ -252,7 +211,7 @@
       "lon": 2.590519076133, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Bonzellaan"
     }, 
     {
@@ -264,7 +223,7 @@
       "lon": 2.590184978293, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Bonzellaan"
     }
   ]

@@ -2,15 +2,18 @@
   "addresses": [
     {
       "busnrs": [
+        "1", 
         "10", 
         "12", 
         "13", 
         "16", 
         "18", 
         "3", 
+        "501", 
         "6", 
         "7", 
         "8", 
+        "801", 
         "9"
       ], 
       "hnrlbls": [
@@ -21,7 +24,7 @@
       "lon": 2.913083626745, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Monacoplein"
     }, 
     {
@@ -62,7 +65,8 @@
         "3", 
         "5", 
         "6", 
-        "7"
+        "7", 
+        "902"
       ], 
       "hnrlbls": [
         "5"
@@ -76,10 +80,8 @@
       "street": "Monacoplein"
     }, 
     {
-      "apptnrs": [
-        "7.0"
-      ], 
       "busnrs": [
+        "401", 
         "602", 
         "7A", 
         "7B", 
@@ -90,34 +92,22 @@
         "7I"
       ], 
       "hnrlbls": [
-        "7-9B"
+        "7"
       ], 
       "housenumber": "7", 
-      "lat": 51.231325094984, 
-      "lon": 2.91348676167, 
+      "lat": 51.231379903725, 
+      "lon": 2.913389255529, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Monacoplein"
     }, 
     {
-      "hnrlbls": [
-        "7-9B"
-      ], 
-      "housenumber": "7A", 
-      "lat": 51.231325094984, 
-      "lon": 2.91348676167, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Monacoplein"
-    }, 
-    {
-      "apptnrs": [
-        "5.0", 
-        "9.0"
-      ], 
       "busnrs": [
+        "5", 
+        "501", 
+        "701", 
+        "801", 
         "9", 
         "9A", 
         "9B", 
@@ -130,38 +120,14 @@
         "C"
       ], 
       "hnrlbls": [
-        "7-9B"
+        "9"
       ], 
       "housenumber": "9", 
-      "lat": 51.231325094984, 
-      "lon": 2.91348676167, 
+      "lat": 51.231405102785, 
+      "lon": 2.913442595892, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Monacoplein"
-    }, 
-    {
-      "hnrlbls": [
-        "7-9B"
-      ], 
-      "housenumber": "9A", 
-      "lat": 51.231325094984, 
-      "lon": 2.91348676167, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Monacoplein"
-    }, 
-    {
-      "hnrlbls": [
-        "7-9B"
-      ], 
-      "housenumber": "9B", 
-      "lat": 51.231325094984, 
-      "lon": 2.91348676167, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Monacoplein"
     }
   ]

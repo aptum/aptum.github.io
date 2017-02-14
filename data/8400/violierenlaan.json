@@ -28,7 +28,9 @@
       "busnrs": [
         "1", 
         "2", 
+        "201", 
         "3", 
+        "301", 
         "4"
       ], 
       "hnrlbls": [
@@ -210,6 +212,8 @@
         "1A", 
         "1B", 
         "2", 
+        "201", 
+        "202", 
         "2A", 
         "2B", 
         "3A", 
@@ -218,7 +222,7 @@
         "B"
       ], 
       "hnrlbls": [
-        "130-130A"
+        "130"
       ], 
       "housenumber": "130", 
       "lat": 51.209683281197, 
@@ -229,19 +233,8 @@
       "street": "Violierenlaan"
     }, 
     {
-      "hnrlbls": [
-        "130-130A"
-      ], 
-      "housenumber": "130A", 
-      "lat": 51.209683281197, 
-      "lon": 2.874146614471, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Violierenlaan"
-    }, 
-    {
       "busnrs": [
+        "1", 
         "2", 
         "201"
       ], 
@@ -273,8 +266,8 @@
         "16"
       ], 
       "housenumber": "16", 
-      "lat": 51.212439782831, 
-      "lon": 2.880312618501, 
+      "lat": 51.212436747016, 
+      "lon": 2.880307133071, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -285,8 +278,8 @@
         "19"
       ], 
       "housenumber": "19", 
-      "lat": 51.211895409854, 
-      "lon": 2.878362753465, 
+      "lat": 51.21192971287, 
+      "lon": 2.878345340318, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -479,10 +472,12 @@
         "102", 
         "201", 
         "202", 
-        "301"
+        "3", 
+        "301", 
+        "5B"
       ], 
       "hnrlbls": [
-        "35-35B"
+        "35"
       ], 
       "housenumber": "35", 
       "lat": 51.211485805922, 
@@ -490,21 +485,6 @@
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
-      "street": "Violierenlaan"
-    }, 
-    {
-      "busnrs": [
-        "5"
-      ], 
-      "hnrlbls": [
-        "35-35B"
-      ], 
-      "housenumber": "35B", 
-      "lat": 51.211485805922, 
-      "lon": 2.877613227452, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Violierenlaan"
     }, 
     {
@@ -644,8 +624,8 @@
         "48"
       ], 
       "housenumber": "48", 
-      "lat": 51.211880334508, 
-      "lon": 2.8789357708, 
+      "lat": 51.211845805839, 
+      "lon": 2.878978095981, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -655,7 +635,8 @@
       "busnrs": [
         "2", 
         "201", 
-        "3"
+        "3", 
+        "301"
       ], 
       "hnrlbls": [
         "49"
@@ -695,6 +676,7 @@
     {
       "busnrs": [
         "1", 
+        "101", 
         "2", 
         "3", 
         "4"
@@ -735,27 +717,18 @@
       "street": "Violierenlaan"
     }, 
     {
+      "busnrs": [
+        "A"
+      ], 
       "hnrlbls": [
-        "55-55A"
+        "55"
       ], 
       "housenumber": "55", 
-      "lat": 51.210512878052, 
-      "lon": 2.875347376384, 
+      "lat": 51.210497636102, 
+      "lon": 2.875364896729, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Violierenlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "55-55A"
-      ], 
-      "housenumber": "55A", 
-      "lat": 51.210512878052, 
-      "lon": 2.875347376384, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Violierenlaan"
     }, 
     {
@@ -859,11 +832,11 @@
         "64"
       ], 
       "housenumber": "64", 
-      "lat": 51.211416177272, 
-      "lon": 2.87842272042, 
+      "lat": 51.211552672587, 
+      "lon": 2.878232001003, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Violierenlaan"
     }, 
     {
@@ -874,35 +847,35 @@
         "66"
       ], 
       "housenumber": "66", 
-      "lat": 51.211493963424, 
-      "lon": 2.878074856196, 
+      "lat": 51.21146109839, 
+      "lon": 2.878177816768, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Violierenlaan"
     }, 
     {
       "hnrlbls": [
-        "66A-66B"
+        "66A"
       ], 
       "housenumber": "66A", 
-      "lat": 51.211457145121, 
-      "lon": 2.878113819646, 
+      "lat": 51.21151385275, 
+      "lon": 2.878119307526, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Violierenlaan"
     }, 
     {
       "hnrlbls": [
-        "66A-66B"
+        "66B"
       ], 
       "housenumber": "66B", 
-      "lat": 51.211457145121, 
-      "lon": 2.878113819646, 
+      "lat": 51.211486867097, 
+      "lon": 2.878146649313, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Violierenlaan"
     }, 
     {
@@ -910,8 +883,8 @@
         "67"
       ], 
       "housenumber": "67", 
-      "lat": 51.21003679159, 
-      "lon": 2.874332663694, 
+      "lat": 51.210038101611, 
+      "lon": 2.874329616035, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -970,8 +943,8 @@
         "71"
       ], 
       "housenumber": "71", 
-      "lat": 51.20998341076, 
-      "lon": 2.874163621524, 
+      "lat": 51.209980733409, 
+      "lon": 2.87417229499, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -994,8 +967,8 @@
         "73"
       ], 
       "housenumber": "73", 
-      "lat": 51.20993509694, 
-      "lon": 2.874118080106, 
+      "lat": 51.209947621579, 
+      "lon": 2.874106085483, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -1075,8 +1048,8 @@
         "8"
       ], 
       "housenumber": "8", 
-      "lat": 51.212579877598, 
-      "lon": 2.880564791635, 
+      "lat": 51.212573188054, 
+      "lon": 2.880569012837, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -1087,8 +1060,8 @@
         "80"
       ], 
       "housenumber": "80", 
-      "lat": 51.21101815147, 
-      "lon": 2.877115621258, 
+      "lat": 51.211013011424, 
+      "lon": 2.877121510852, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -1100,7 +1073,7 @@
         "2"
       ], 
       "hnrlbls": [
-        "15-81"
+        "81"
       ], 
       "housenumber": "81", 
       "lat": 51.209784986893, 
@@ -1108,30 +1081,6 @@
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
-      "street": "Violierenlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "81O"
-      ], 
-      "housenumber": "81O", 
-      "lat": 51.209786088799, 
-      "lon": 2.873809117841, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Violierenlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "82"
-      ], 
-      "housenumber": "82", 
-      "lat": 51.210985323533, 
-      "lon": 2.877050401084, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Violierenlaan"
     }, 
     {
@@ -1151,8 +1100,8 @@
         "86"
       ], 
       "housenumber": "86", 
-      "lat": 51.210810657672, 
-      "lon": 2.877015909219, 
+      "lat": 51.210809927914, 
+      "lon": 2.877015073769, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 

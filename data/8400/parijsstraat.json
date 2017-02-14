@@ -5,6 +5,7 @@
         "1", 
         "10", 
         "2", 
+        "201", 
         "3", 
         "6", 
         "7"
@@ -22,6 +23,7 @@
     }, 
     {
       "busnrs": [
+        "101", 
         "4"
       ], 
       "hnrlbls": [
@@ -36,11 +38,10 @@
       "street": "Parijsstraat"
     }, 
     {
-      "apptnrs": [
-        "1.0"
-      ], 
       "busnrs": [
-        "3"
+        "1", 
+        "3", 
+        "301"
       ], 
       "hnrlbls": [
         "15"
@@ -55,46 +56,20 @@
     }, 
     {
       "busnrs": [
+        "102", 
         "1C", 
         "301", 
         "3B"
       ], 
       "hnrlbls": [
-        "17-17D"
+        "17"
       ], 
       "housenumber": "17", 
-      "lat": 51.228649054628, 
-      "lon": 2.907480212566, 
+      "lat": 51.228614595205, 
+      "lon": 2.907477999056, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Parijsstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "17-17D"
-      ], 
-      "housenumber": "17C", 
-      "lat": 51.228649054628, 
-      "lon": 2.907480212566, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Parijsstraat"
-    }, 
-    {
-      "busnrs": [
-        "2"
-      ], 
-      "hnrlbls": [
-        "17-17D"
-      ], 
-      "housenumber": "17D", 
-      "lat": 51.228649054628, 
-      "lon": 2.907480212566, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Parijsstraat"
     }, 
     {
@@ -128,6 +103,9 @@
       "street": "Parijsstraat"
     }, 
     {
+      "busnrs": [
+        "101"
+      ], 
       "hnrlbls": [
         "3-5"
       ], 
@@ -154,18 +132,6 @@
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
-      "street": "Parijsstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "9"
-      ], 
-      "housenumber": "9", 
-      "lat": 51.228392459376, 
-      "lon": 2.907871841136, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Parijsstraat"
     }
   ]

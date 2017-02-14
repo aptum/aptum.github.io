@@ -73,10 +73,12 @@
       "street": "Rechtestraat"
     }, 
     {
+      "apptnrs": [
+        "Bus1", 
+        "Bus2"
+      ], 
       "busnrs": [
-        "1", 
-        "2", 
-        "3"
+        "Bus3"
       ], 
       "hnrlbls": [
         "17"
@@ -189,6 +191,7 @@
         "Bus 1"
       ], 
       "busnrs": [
+        "1", 
         "Bus2"
       ], 
       "hnrlbls": [
@@ -263,8 +266,8 @@
       "street": "Rechtestraat"
     }, 
     {
-      "busnrs": [
-        "2"
+      "apptnrs": [
+        "Bus2"
       ], 
       "hnrlbls": [
         "29"
@@ -294,8 +297,7 @@
         "Bus1", 
         "Bus2", 
         "Bus3", 
-        "Bus4", 
-        "Bus5"
+        "Bus4"
       ], 
       "hnrlbls": [
         "31-31A"
@@ -321,6 +323,9 @@
       "street": "Rechtestraat"
     }, 
     {
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "32"
       ], 
@@ -333,9 +338,9 @@
       "street": "Rechtestraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2"
+      "apptnrs": [
+        "Bus1", 
+        "Bus2"
       ], 
       "hnrlbls": [
         "33"
@@ -492,8 +497,8 @@
         "52"
       ], 
       "housenumber": "52", 
-      "lat": 51.241120827539, 
-      "lon": 4.82436045647, 
+      "lat": 51.24111001691, 
+      "lon": 4.82436679452, 
       "municipality": "Lille", 
       "pcode": "2275", 
       "source": "afgeleidVanPerceelGrb", 
@@ -718,6 +723,12 @@
         "Bus3", 
         "Bus4", 
         "Bus5"
+      ], 
+      "busnrs": [
+        "1", 
+        "3", 
+        "4", 
+        "5"
       ], 
       "hnrlbls": [
         "75"

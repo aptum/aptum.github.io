@@ -2,8 +2,8 @@
   "addresses": [
     {
       "busnrs": [
-        "1", 
-        "2"
+        "BU01", 
+        "BU02"
       ], 
       "hnrlbls": [
         "1-2"
@@ -21,11 +21,11 @@
         "10"
       ], 
       "housenumber": "10", 
-      "lat": 50.965801251443, 
-      "lon": 5.500201150769, 
+      "lat": 50.965887008875, 
+      "lon": 5.500556870752, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Fruitmarkt"
     }, 
     {
@@ -42,19 +42,14 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "11", 
-        "12", 
-        "13", 
-        "2", 
-        "21", 
-        "22", 
-        "23", 
-        "3", 
-        "31", 
-        "32", 
-        "33", 
-        "5"
+        "BU11", 
+        "BU12", 
+        "BU13", 
+        "BU21", 
+        "BU23", 
+        "BU31", 
+        "BU32", 
+        "BU33"
       ], 
       "hnrlbls": [
         "12-13"
@@ -80,9 +75,6 @@
       "street": "Fruitmarkt"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
         "14-15"
       ], 
@@ -120,11 +112,11 @@
     }, 
     {
       "busnrs": [
-        "12", 
-        "21", 
-        "22", 
-        "31", 
-        "32"
+        "BU12", 
+        "BU21", 
+        "BU22", 
+        "BU31", 
+        "BU32"
       ], 
       "hnrlbls": [
         "16-17"
@@ -139,33 +131,17 @@
     }, 
     {
       "hnrlbls": [
-        "18"
+        "14-18"
       ], 
       "housenumber": "18", 
-      "lat": 50.96517879151, 
-      "lon": 5.499806422737, 
+      "lat": 50.965434622478, 
+      "lon": 5.50049127342, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "geinterpoleerdObvWegverbinding", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Fruitmarkt"
     }, 
     {
-      "hnrlbls": [
-        "19-213"
-      ], 
-      "housenumber": "19", 
-      "lat": 50.965447268332, 
-      "lon": 5.500008946307, 
-      "municipality": "Genk", 
-      "pcode": "3600", 
-      "source": "afgeleidVanStraat", 
-      "street": "Fruitmarkt"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
       "hnrlbls": [
         "1-2"
       ], 
@@ -179,21 +155,6 @@
     }, 
     {
       "hnrlbls": [
-        "19-213"
-      ], 
-      "housenumber": "213", 
-      "lat": 50.965447268332, 
-      "lon": 5.500008946307, 
-      "municipality": "Genk", 
-      "pcode": "3600", 
-      "source": "afgeleidVanStraat", 
-      "street": "Fruitmarkt"
-    }, 
-    {
-      "busnrs": [
-        "11"
-      ], 
-      "hnrlbls": [
         "3"
       ], 
       "housenumber": "3", 
@@ -206,8 +167,8 @@
     }, 
     {
       "busnrs": [
-        "11", 
-        "31"
+        "BU11", 
+        "BU31"
       ], 
       "hnrlbls": [
         "4"
@@ -221,11 +182,12 @@
       "street": "Fruitmarkt"
     }, 
     {
-      "apptnrs": [
-        "5a"
+      "busnrs": [
+        "BU11", 
+        "BU21"
       ], 
       "hnrlbls": [
-        "4A-5A"
+        "4A-5"
       ], 
       "housenumber": "4A", 
       "lat": 50.965699934113, 
@@ -236,27 +198,10 @@
       "street": "Fruitmarkt"
     }, 
     {
-      "busnrs": [
-        "11", 
-        "21", 
-        "41"
-      ], 
       "hnrlbls": [
-        "4A-5A"
+        "4A-5"
       ], 
       "housenumber": "5", 
-      "lat": 50.965699934113, 
-      "lon": 5.499603169462, 
-      "municipality": "Genk", 
-      "pcode": "3600", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Fruitmarkt"
-    }, 
-    {
-      "hnrlbls": [
-        "4A-5A"
-      ], 
-      "housenumber": "5A", 
       "lat": 50.965699934113, 
       "lon": 5.499603169462, 
       "municipality": "Genk", 
@@ -269,11 +214,11 @@
         "6"
       ], 
       "housenumber": "6", 
-      "lat": 50.965735198424, 
-      "lon": 5.499638189447, 
+      "lat": 50.965785303827, 
+      "lon": 5.499653778197, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Fruitmarkt"
     }, 
     {

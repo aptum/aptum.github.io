@@ -41,8 +41,8 @@
         "13"
       ], 
       "housenumber": "13", 
-      "lat": 51.188327526108, 
-      "lon": 4.559645930022, 
+      "lat": 51.188346820934, 
+      "lon": 4.559664746622, 
       "municipality": "Ranst", 
       "pcode": "2520", 
       "source": "afgeleidVanGebouw", 
@@ -53,8 +53,8 @@
         "15"
       ], 
       "housenumber": "15", 
-      "lat": 51.188339130792, 
-      "lon": 4.559806318102, 
+      "lat": 51.188320718356, 
+      "lon": 4.559797660439, 
       "municipality": "Ranst", 
       "pcode": "2520", 
       "source": "afgeleidVanGebouw", 
@@ -77,23 +77,29 @@
         "17"
       ], 
       "housenumber": "17", 
-      "lat": 51.188331292522, 
-      "lon": 4.559872939441, 
+      "lat": 51.188329137611, 
+      "lon": 4.559871500249, 
       "municipality": "Ranst", 
       "pcode": "2520", 
       "source": "afgeleidVanGebouw", 
       "street": "Doggenhoutstraat"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "11", 
+        "2", 
+        "21"
+      ], 
       "hnrlbls": [
         "18"
       ], 
       "housenumber": "18", 
-      "lat": 51.188752892254, 
-      "lon": 4.560843875435, 
+      "lat": 51.188693123378, 
+      "lon": 4.560840910838, 
       "municipality": "Ranst", 
       "pcode": "2520", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Doggenhoutstraat"
     }, 
     {
@@ -200,8 +206,8 @@
         "3"
       ], 
       "housenumber": "3", 
-      "lat": 51.188558372481, 
-      "lon": 4.558130287731, 
+      "lat": 51.188547136204, 
+      "lon": 4.558130671062, 
       "municipality": "Ranst", 
       "pcode": "2520", 
       "source": "afgeleidVanGebouw", 
@@ -272,8 +278,8 @@
         "34"
       ], 
       "housenumber": "34", 
-      "lat": 51.188289995798, 
-      "lon": 4.561879955228, 
+      "lat": 51.18828766255, 
+      "lon": 4.561877657004, 
       "municipality": "Ranst", 
       "pcode": "2520", 
       "source": "afgeleidVanGebouw", 
@@ -365,14 +371,14 @@
     }, 
     {
       "hnrlbls": [
-        "4-6"
+        "4"
       ], 
       "housenumber": "4", 
-      "lat": 51.188969130354, 
-      "lon": 4.559477637219, 
+      "lat": 51.188935843109, 
+      "lon": 4.559329459211, 
       "municipality": "Ranst", 
       "pcode": "2520", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Doggenhoutstraat"
     }, 
     {
@@ -406,6 +412,18 @@
       "hnrlbls": [
         "41-41C"
       ], 
+      "housenumber": "41B", 
+      "lat": 51.187940535837, 
+      "lon": 4.561980914699, 
+      "municipality": "Ranst", 
+      "pcode": "2520", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "street": "Doggenhoutstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "41-41C"
+      ], 
       "housenumber": "41C", 
       "lat": 51.187940535837, 
       "lon": 4.561980914699, 
@@ -431,8 +449,8 @@
         "45"
       ], 
       "housenumber": "45", 
-      "lat": 51.187867087409, 
-      "lon": 4.56226195316, 
+      "lat": 51.18786708737, 
+      "lon": 4.562261953312, 
       "municipality": "Ranst", 
       "pcode": "2520", 
       "source": "manueleAanduidingVanGebouw", 
@@ -443,8 +461,8 @@
         "47"
       ], 
       "housenumber": "47", 
-      "lat": 51.187856087639, 
-      "lon": 4.562337142323, 
+      "lat": 51.187856805776, 
+      "lon": 4.562337717441, 
       "municipality": "Ranst", 
       "pcode": "2520", 
       "source": "afgeleidVanGebouw", 
@@ -455,8 +473,8 @@
         "49"
       ], 
       "housenumber": "49", 
-      "lat": 51.187813057801, 
-      "lon": 4.562540354376, 
+      "lat": 51.187817080717, 
+      "lon": 4.562553673101, 
       "municipality": "Ranst", 
       "pcode": "2520", 
       "source": "afgeleidVanGebouw", 
@@ -464,6 +482,8 @@
     }, 
     {
       "busnrs": [
+        "1", 
+        "11", 
         "21"
       ], 
       "hnrlbls": [
@@ -490,6 +510,10 @@
       "street": "Doggenhoutstraat"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "11"
+      ], 
       "hnrlbls": [
         "51"
       ], 
@@ -537,6 +561,7 @@
       "busnrs": [
         "11", 
         "12", 
+        "2", 
         "21", 
         "22"
       ], 
@@ -589,14 +614,14 @@
     }, 
     {
       "hnrlbls": [
-        "4-6"
+        "6"
       ], 
       "housenumber": "6", 
-      "lat": 51.188969130354, 
-      "lon": 4.559477637219, 
+      "lat": 51.188968424954, 
+      "lon": 4.559413697538, 
       "municipality": "Ranst", 
       "pcode": "2520", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Doggenhoutstraat"
     }, 
     {
@@ -644,11 +669,11 @@
         "63C"
       ], 
       "housenumber": "63C", 
-      "lat": 51.187632027056, 
-      "lon": 4.563630499134, 
+      "lat": 51.187632296474, 
+      "lon": 4.563630643295, 
       "municipality": "Ranst", 
       "pcode": "2520", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Doggenhoutstraat"
     }, 
     {

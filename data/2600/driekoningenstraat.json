@@ -58,8 +58,8 @@
         "108"
       ], 
       "housenumber": "108", 
-      "lat": 51.196674359072, 
-      "lon": 4.421882904563, 
+      "lat": 51.196674386024, 
+      "lon": 4.421882933206, 
       "municipality": "Antwerpen", 
       "pcode": "2600", 
       "source": "manueleAanduidingVanGebouw", 
@@ -498,8 +498,12 @@
       "street": "Driekoningenstraat"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "301"
+      ], 
       "hnrlbls": [
-        "29"
+        "29-29A"
       ], 
       "housenumber": "29", 
       "lat": 51.195913637393, 
@@ -511,11 +515,28 @@
     }, 
     {
       "hnrlbls": [
+        "29-29A"
+      ], 
+      "housenumber": "29A", 
+      "lat": 51.195913637393, 
+      "lon": 4.42040242551, 
+      "municipality": "Antwerpen", 
+      "pcode": "2600", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Driekoningenstraat"
+    }, 
+    {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
+      "hnrlbls": [
         "30"
       ], 
       "housenumber": "30", 
-      "lat": 51.19609950477, 
-      "lon": 4.419822682005, 
+      "lat": 51.196096315025, 
+      "lon": 4.419922532066, 
       "municipality": "Antwerpen", 
       "pcode": "2600", 
       "source": "afgeleidVanGebouw", 
@@ -533,21 +554,6 @@
       "housenumber": "31", 
       "lat": 51.195945861226, 
       "lon": 4.420503459393, 
-      "municipality": "Antwerpen", 
-      "pcode": "2600", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Driekoningenstraat"
-    }, 
-    {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "32"
-      ], 
-      "housenumber": "32", 
-      "lat": 51.196102007689, 
-      "lon": 4.419854300324, 
       "municipality": "Antwerpen", 
       "pcode": "2600", 
       "source": "afgeleidVanGebouw", 
@@ -794,8 +800,8 @@
         "57"
       ], 
       "housenumber": "57", 
-      "lat": 51.196379855261, 
-      "lon": 4.42183567051, 
+      "lat": 51.196379765506, 
+      "lon": 4.421835384291, 
       "municipality": "Antwerpen", 
       "pcode": "2600", 
       "source": "afgeleidVanGebouw", 
@@ -806,8 +812,8 @@
         "57A"
       ], 
       "housenumber": "57A", 
-      "lat": 51.196377251152, 
-      "lon": 4.421834020915, 
+      "lat": 51.196377249386, 
+      "lon": 4.421833950815, 
       "municipality": "Antwerpen", 
       "pcode": "2600", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1267,11 +1273,15 @@
       "street": "Driekoningenstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301"
+      ], 
       "busnrs": [
-        "1", 
         "2", 
-        "3", 
-        "4"
+        "3"
       ], 
       "hnrlbls": [
         "92"

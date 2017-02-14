@@ -40,6 +40,9 @@
       "street": "Oudstrijdersstraat_02"
     }, 
     {
+      "busnrs": [
+        "301"
+      ], 
       "hnrlbls": [
         "12"
       ], 
@@ -80,8 +83,8 @@
         "15"
       ], 
       "housenumber": "15", 
-      "lat": 50.846167923401, 
-      "lon": 4.264908409027, 
+      "lat": 50.846168821852, 
+      "lon": 4.264907839088, 
       "municipality": "Dilbeek", 
       "pcode": "1700", 
       "source": "afgeleidVanGebouw", 
@@ -251,6 +254,7 @@
     }, 
     {
       "busnrs": [
+        "1", 
         "101", 
         "201"
       ], 
@@ -272,18 +276,6 @@
       "housenumber": "28", 
       "lat": 50.846214308101, 
       "lon": 4.265624940968, 
-      "municipality": "Dilbeek", 
-      "pcode": "1700", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Oudstrijdersstraat_02"
-    }, 
-    {
-      "hnrlbls": [
-        "29"
-      ], 
-      "housenumber": "29", 
-      "lat": 50.84594279481, 
-      "lon": 4.265488085148, 
       "municipality": "Dilbeek", 
       "pcode": "1700", 
       "source": "afgeleidVanGebouw", 
@@ -315,28 +307,22 @@
     }, 
     {
       "apptnrs": [
-        "2.0"
-      ], 
-      "busnrs": [
-        "1", 
+        "001", 
+        "002", 
         "101", 
         "102", 
-        "2", 
         "201", 
-        "202", 
-        "301", 
-        "5", 
-        "6"
+        "202"
       ], 
       "hnrlbls": [
         "31"
       ], 
       "housenumber": "31", 
-      "lat": 50.845912484886, 
-      "lon": 4.265573487942, 
+      "lat": 50.845962487504, 
+      "lon": 4.265597375448, 
       "municipality": "Dilbeek", 
       "pcode": "1700", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Oudstrijdersstraat_02"
     }, 
     {
@@ -480,18 +466,22 @@
       "street": "Oudstrijdersstraat_02"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201"
+      ], 
       "busnrs": [
-        "101"
+        "001"
       ], 
       "hnrlbls": [
         "4"
       ], 
       "housenumber": "4", 
-      "lat": 50.846641357762, 
-      "lon": 4.26455267083, 
+      "lat": 50.846637743286, 
+      "lon": 4.264531521788, 
       "municipality": "Dilbeek", 
       "pcode": "1700", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanLigplaats", 
       "street": "Oudstrijdersstraat_02"
     }, 
     {
@@ -746,7 +736,8 @@
         "2.0"
       ], 
       "busnrs": [
-        "101"
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "58"
@@ -785,6 +776,7 @@
     }, 
     {
       "busnrs": [
+        "101", 
         "2", 
         "201", 
         "3", 

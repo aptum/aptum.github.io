@@ -1,37 +1,6 @@
 {
   "addresses": [
     {
-      "busnrs": [
-        "101", 
-        "1101", 
-        "1201", 
-        "1301", 
-        "2101"
-      ], 
-      "hnrlbls": [
-        "1-1G"
-      ], 
-      "housenumber": "1", 
-      "lat": 51.099794177526, 
-      "lon": 2.591733102548, 
-      "municipality": "De Panne", 
-      "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Konijnenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "10"
-      ], 
-      "housenumber": "10", 
-      "lat": 51.10004777739, 
-      "lon": 2.591276489538, 
-      "municipality": "De Panne", 
-      "pcode": "8660", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Konijnenweg"
-    }, 
-    {
       "hnrlbls": [
         "7-13"
       ], 
@@ -40,7 +9,7 @@
       "lon": 2.590629493516, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Konijnenweg"
     }, 
     {
@@ -52,7 +21,7 @@
       "lon": 2.591048615479, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Konijnenweg"
     }, 
     {
@@ -64,34 +33,32 @@
       "lon": 2.590629493516, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Konijnenweg"
     }, 
     {
-      "busnrs": [
-        "1"
+      "apptnrs": [
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302", 
+        "0401", 
+        "0402", 
+        "0501", 
+        "0601", 
+        "0602"
       ], 
       "hnrlbls": [
-        "13K"
-      ], 
-      "housenumber": "13K", 
-      "lat": 51.100398659551, 
-      "lon": 2.590581115895, 
-      "municipality": "De Panne", 
-      "pcode": "8660", 
-      "source": "geinterpoleerdObvWegverbinding", 
-      "street": "Konijnenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "14-15G"
+        "14"
       ], 
       "housenumber": "14", 
-      "lat": 51.100655831436, 
-      "lon": 2.591137131907, 
+      "lat": 51.100497717181, 
+      "lon": 2.59096106626, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Konijnenweg"
     }, 
     {
@@ -103,7 +70,7 @@
       "lon": 2.590526493196, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Konijnenweg"
     }, 
     {
@@ -111,11 +78,11 @@
         "16"
       ], 
       "housenumber": "16", 
-      "lat": 51.100570506576, 
-      "lon": 2.590761513113, 
+      "lat": 51.100569040957, 
+      "lon": 2.59081340717, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Konijnenweg"
     }, 
     {
@@ -127,7 +94,7 @@
       "lon": 2.590437206873, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Konijnenweg"
     }, 
     {
@@ -135,11 +102,11 @@
         "18"
       ], 
       "housenumber": "18", 
-      "lat": 51.101243053903, 
-      "lon": 2.589818830793, 
+      "lat": 51.100581581127, 
+      "lon": 2.590684976761, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Konijnenweg"
     }, 
     {
@@ -151,45 +118,57 @@
       "lon": 2.590233150442, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Konijnenweg"
     }, 
     {
-      "hnrlbls": [
-        "1-1G"
+      "apptnrs": [
+        "0101", 
+        "0201", 
+        "0301"
       ], 
-      "housenumber": "1B", 
+      "hnrlbls": [
+        "1_1-95"
+      ], 
+      "housenumber": "1_1", 
+      "lat": 51.099789471549, 
+      "lon": 2.591981758403, 
+      "municipality": "De Panne", 
+      "pcode": "8660", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Konijnenweg"
+    }, 
+    {
+      "apptnrs": [
+        "0101", 
+        "0201", 
+        "0301", 
+        "G001"
+      ], 
+      "hnrlbls": [
+        "1_2"
+      ], 
+      "housenumber": "1_2", 
       "lat": 51.099794177526, 
       "lon": 2.591733102548, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Konijnenweg"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "1-1G"
-      ], 
-      "housenumber": "1G", 
-      "lat": 51.099794177526, 
-      "lon": 2.591733102548, 
-      "municipality": "De Panne", 
-      "pcode": "8660", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Konijnenweg"
-    }, 
-    {
-      "busnrs": [
-        "101", 
-        "301", 
-        "302", 
-        "401", 
-        "402", 
-        "501", 
-        "602"
+      "apptnrs": [
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302", 
+        "0401", 
+        "0402", 
+        "0501", 
+        "0601", 
+        "0602"
       ], 
       "hnrlbls": [
         "2-97"
@@ -199,7 +178,19 @@
       "lon": 2.591892323645, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Konijnenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "20"
+      ], 
+      "housenumber": "20", 
+      "lat": 51.101243053903, 
+      "lon": 2.589818830793, 
+      "municipality": "De Panne", 
+      "pcode": "8660", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Konijnenweg"
     }, 
     {
@@ -211,7 +202,7 @@
       "lon": 2.589623628632, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Konijnenweg"
     }, 
     {
@@ -223,7 +214,7 @@
       "lon": 2.589519880234, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Konijnenweg"
     }, 
     {
@@ -235,76 +226,42 @@
       "lon": 2.589492857486, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Konijnenweg"
     }, 
     {
+      "apptnrs": [
+        "0201", 
+        "G001", 
+        "K001"
+      ], 
       "hnrlbls": [
-        "27-27G"
+        "27"
       ], 
       "housenumber": "27", 
       "lat": 51.101492443704, 
       "lon": 2.589494879179, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Konijnenweg"
     }, 
     {
-      "busnrs": [
-        "1"
+      "apptnrs": [
+        "0101", 
+        "0201", 
+        "G001", 
+        "K001"
       ], 
       "hnrlbls": [
-        "27-27G"
-      ], 
-      "housenumber": "27G", 
-      "lat": 51.101492443704, 
-      "lon": 2.589494879179, 
-      "municipality": "De Panne", 
-      "pcode": "8660", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Konijnenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "29-29K"
+        "29"
       ], 
       "housenumber": "29", 
       "lat": 51.101536533309, 
       "lon": 2.589532759399, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Konijnenweg"
-    }, 
-    {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "29-29K"
-      ], 
-      "housenumber": "29G", 
-      "lat": 51.101536533309, 
-      "lon": 2.589532759399, 
-      "municipality": "De Panne", 
-      "pcode": "8660", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Konijnenweg"
-    }, 
-    {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "29-29K"
-      ], 
-      "housenumber": "29K", 
-      "lat": 51.101536533309, 
-      "lon": 2.589532759399, 
-      "municipality": "De Panne", 
-      "pcode": "8660", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Konijnenweg"
     }, 
     {
@@ -316,53 +273,23 @@
       "lon": 2.591422541017, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Konijnenweg"
     }, 
     {
-      "busnrs": [
-        "201", 
-        "301"
+      "apptnrs": [
+        "0101", 
+        "0201"
       ], 
       "hnrlbls": [
-        "31-31K"
+        "31"
       ], 
       "housenumber": "31", 
       "lat": 51.101570085033, 
       "lon": 2.589474073733, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Konijnenweg"
-    }, 
-    {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "31-31K"
-      ], 
-      "housenumber": "31G", 
-      "lat": 51.101570085033, 
-      "lon": 2.589474073733, 
-      "municipality": "De Panne", 
-      "pcode": "8660", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Konijnenweg"
-    }, 
-    {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "31-31K"
-      ], 
-      "housenumber": "31K", 
-      "lat": 51.101570085033, 
-      "lon": 2.589474073733, 
-      "municipality": "De Panne", 
-      "pcode": "8660", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Konijnenweg"
     }, 
     {
@@ -374,42 +301,25 @@
       "lon": 2.591648901729, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Konijnenweg"
     }, 
     {
-      "busnrs": [
-        "101"
-      ], 
       "hnrlbls": [
-        "5-5G"
+        "5"
       ], 
       "housenumber": "5", 
       "lat": 51.099782409431, 
       "lon": 2.591333987314, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Konijnenweg"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "5-5G"
-      ], 
-      "housenumber": "5G", 
-      "lat": 51.099782409431, 
-      "lon": 2.591333987314, 
-      "municipality": "De Panne", 
-      "pcode": "8660", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Konijnenweg"
-    }, 
-    {
-      "busnrs": [
-        "101"
+      "apptnrs": [
+        "0101", 
+        "G001"
       ], 
       "hnrlbls": [
         "6"
@@ -419,22 +329,7 @@
       "lon": 2.591580903094, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Konijnenweg"
-    }, 
-    {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "6G"
-      ], 
-      "housenumber": "6G", 
-      "lat": 51.099993113082, 
-      "lon": 2.591581025324, 
-      "municipality": "De Panne", 
-      "pcode": "8660", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Konijnenweg"
     }, 
     {
@@ -446,7 +341,7 @@
       "lon": 2.590629493516, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Konijnenweg"
     }, 
     {
@@ -458,7 +353,7 @@
       "lon": 2.591561454722, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Konijnenweg"
     }, 
     {
@@ -470,7 +365,7 @@
       "lon": 2.590629493516, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Konijnenweg"
     }
   ]

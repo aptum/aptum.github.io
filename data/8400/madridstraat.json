@@ -2,14 +2,14 @@
   "addresses": [
     {
       "hnrlbls": [
-        "1-18"
+        "1"
       ], 
       "housenumber": "1", 
-      "lat": 51.231164592748, 
-      "lon": 2.914251975565, 
+      "lat": 51.231127561036, 
+      "lon": 2.914237952256, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanStraat", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Madridstraat"
     }, 
     {
@@ -41,7 +41,7 @@
         "3"
       ], 
       "hnrlbls": [
-        "12-12A"
+        "12"
       ], 
       "housenumber": "12", 
       "lat": 51.231400079807, 
@@ -52,19 +52,8 @@
       "street": "Madridstraat"
     }, 
     {
-      "hnrlbls": [
-        "12-12A"
-      ], 
-      "housenumber": "12A", 
-      "lat": 51.231400079807, 
-      "lon": 2.913852856043, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Madridstraat"
-    }, 
-    {
       "busnrs": [
+        "1", 
         "101"
       ], 
       "hnrlbls": [
@@ -93,11 +82,13 @@
     {
       "busnrs": [
         "1", 
+        "101", 
         "2", 
+        "201", 
         "3"
       ], 
       "hnrlbls": [
-        "15-15A"
+        "15"
       ], 
       "housenumber": "15", 
       "lat": 51.231607293735, 
@@ -109,14 +100,14 @@
     }, 
     {
       "hnrlbls": [
-        "15-15A"
+        "15A"
       ], 
       "housenumber": "15A", 
-      "lat": 51.231607293735, 
-      "lon": 2.914217834295, 
+      "lat": 51.231628230815, 
+      "lon": 2.914217038059, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Madridstraat"
     }, 
     {
@@ -136,14 +127,14 @@
     }, 
     {
       "hnrlbls": [
-        "1-18"
+        "18"
       ], 
       "housenumber": "18", 
-      "lat": 51.231164592748, 
-      "lon": 2.914251975565, 
+      "lat": 51.231580655505, 
+      "lon": 2.91404010341, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanStraat", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Madridstraat"
     }, 
     {
@@ -174,14 +165,14 @@
     }, 
     {
       "hnrlbls": [
-        "1-18"
+        "3"
       ], 
       "housenumber": "3", 
-      "lat": 51.231164592748, 
-      "lon": 2.914251975565, 
+      "lat": 51.231174845131, 
+      "lon": 2.914215714651, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanStraat", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Madridstraat"
     }, 
     {
@@ -253,6 +244,9 @@
       "street": "Madridstraat"
     }, 
     {
+      "busnrs": [
+        "302"
+      ], 
       "hnrlbls": [
         "9-11"
       ], 

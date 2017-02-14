@@ -41,8 +41,8 @@
         "103"
       ], 
       "housenumber": "103", 
-      "lat": 50.773080760384, 
-      "lon": 5.465649326153, 
+      "lat": 50.773091020795, 
+      "lon": 5.465648147491, 
       "municipality": "Tongeren", 
       "pcode": "3700", 
       "source": "afgeleidVanGebouw", 
@@ -349,8 +349,8 @@
         "146"
       ], 
       "housenumber": "146", 
-      "lat": 50.772412295719, 
-      "lon": 5.464873066797, 
+      "lat": 50.77241608691, 
+      "lon": 5.464871453702, 
       "municipality": "Tongeren", 
       "pcode": "3700", 
       "source": "afgeleidVanGebouw", 
@@ -361,11 +361,11 @@
         "147"
       ], 
       "housenumber": "147", 
-      "lat": 50.772155688214, 
-      "lon": 5.462578270278, 
+      "lat": 50.772065716944, 
+      "lon": 5.462614034883, 
       "municipality": "Tongeren", 
       "pcode": "3700", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Wijkstraat"
     }, 
     {
@@ -373,11 +373,11 @@
         "149"
       ], 
       "housenumber": "149", 
-      "lat": 50.772081511645, 
-      "lon": 5.462511325335, 
+      "lat": 50.772031408739, 
+      "lon": 5.462513988782, 
       "municipality": "Tongeren", 
       "pcode": "3700", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Wijkstraat"
     }, 
     {
@@ -421,11 +421,11 @@
         "153"
       ], 
       "housenumber": "153", 
-      "lat": 50.772090588905, 
-      "lon": 5.462194224374, 
+      "lat": 50.771976462069, 
+      "lon": 5.462351929116, 
       "municipality": "Tongeren", 
       "pcode": "3700", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Wijkstraat"
     }, 
     {
@@ -442,34 +442,19 @@
     }, 
     {
       "busnrs": [
-        "2"
-      ], 
-      "hnrlbls": [
-        "155-155B"
-      ], 
-      "housenumber": "155", 
-      "lat": 50.772040829262, 
-      "lon": 5.462150532909, 
-      "municipality": "Tongeren", 
-      "pcode": "3700", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Wijkstraat"
-    }, 
-    {
-      "busnrs": [
         "1", 
         "2", 
         "3"
       ], 
       "hnrlbls": [
-        "155-155B"
+        "155"
       ], 
-      "housenumber": "155B", 
-      "lat": 50.772040829262, 
-      "lon": 5.462150532909, 
+      "housenumber": "155", 
+      "lat": 50.771933606604, 
+      "lon": 5.462242894195, 
       "municipality": "Tongeren", 
       "pcode": "3700", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Wijkstraat"
     }, 
     {
@@ -916,8 +901,8 @@
         "5"
       ], 
       "housenumber": "5", 
-      "lat": 50.777772457347, 
-      "lon": 5.471722584228, 
+      "lat": 50.777772658499, 
+      "lon": 5.471720320126, 
       "municipality": "Tongeren", 
       "pcode": "3700", 
       "source": "afgeleidVanPerceelGrb", 
@@ -1080,6 +1065,11 @@
       "street": "Wijkstraat"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3"
+      ], 
       "hnrlbls": [
         "68"
       ], 
@@ -1096,11 +1086,11 @@
         "69-69b"
       ], 
       "housenumber": "69", 
-      "lat": 50.774445373576, 
-      "lon": 5.468273221295, 
+      "lat": 50.77441291491, 
+      "lon": 5.468330880584, 
       "municipality": "Tongeren", 
       "pcode": "3700", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Wijkstraat"
     }, 
     {
@@ -1114,11 +1104,11 @@
         "69-69b"
       ], 
       "housenumber": "69b", 
-      "lat": 50.774445373576, 
-      "lon": 5.468273221295, 
+      "lat": 50.77441291491, 
+      "lon": 5.468330880584, 
       "municipality": "Tongeren", 
       "pcode": "3700", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Wijkstraat"
     }, 
     {
@@ -1126,8 +1116,8 @@
         "7"
       ], 
       "housenumber": "7", 
-      "lat": 50.777713310945, 
-      "lon": 5.471664051777, 
+      "lat": 50.777713697214, 
+      "lon": 5.471661224814, 
       "municipality": "Tongeren", 
       "pcode": "3700", 
       "source": "afgeleidVanPerceelGrb", 
@@ -1306,8 +1296,8 @@
         "9"
       ], 
       "housenumber": "9", 
-      "lat": 50.777664795208, 
-      "lon": 5.471603216267, 
+      "lat": 50.777664514485, 
+      "lon": 5.471594843441, 
       "municipality": "Tongeren", 
       "pcode": "3700", 
       "source": "afgeleidVanPerceelGrb", 

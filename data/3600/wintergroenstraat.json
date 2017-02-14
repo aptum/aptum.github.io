@@ -1,10 +1,20 @@
 {
   "addresses": [
     {
+      "hnrlbls": [
+        "1-45"
+      ], 
+      "housenumber": "1", 
+      "lat": 50.932372510426, 
+      "lon": 5.521605178109, 
+      "municipality": "Genk", 
+      "pcode": "3600", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Wintergroenstraat"
+    }, 
+    {
       "busnrs": [
-        "1", 
-        "11", 
-        "12"
+        "BU11"
       ], 
       "hnrlbls": [
         "11"
@@ -31,8 +41,8 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "11"
+        "BU01", 
+        "BU11"
       ], 
       "hnrlbls": [
         "15"
@@ -47,11 +57,11 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "2"
+        "BU01", 
+        "BU02"
       ], 
       "hnrlbls": [
-        "17-17b"
+        "17"
       ], 
       "housenumber": "17", 
       "lat": 50.932500531443, 
@@ -63,23 +73,11 @@
     }, 
     {
       "hnrlbls": [
-        "17-17b"
-      ], 
-      "housenumber": "17b", 
-      "lat": 50.932500531443, 
-      "lon": 5.524212154664, 
-      "municipality": "Genk", 
-      "pcode": "3600", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Wintergroenstraat"
-    }, 
-    {
-      "hnrlbls": [
         "3"
       ], 
       "housenumber": "3", 
-      "lat": 50.932319188111, 
-      "lon": 5.521917429301, 
+      "lat": 50.93235672946, 
+      "lon": 5.521921340227, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
@@ -114,8 +112,8 @@
         "40"
       ], 
       "housenumber": "40", 
-      "lat": 50.932206791703, 
-      "lon": 5.528209372947, 
+      "lat": 50.932200521032, 
+      "lon": 5.528216189093, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
@@ -138,8 +136,8 @@
         "44"
       ], 
       "housenumber": "44", 
-      "lat": 50.932232594449, 
-      "lon": 5.528455141389, 
+      "lat": 50.932226681886, 
+      "lon": 5.528462108633, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
@@ -170,6 +168,25 @@
       "street": "Wintergroenstraat"
     }, 
     {
+      "apptnrs": [
+        "bus 1"
+      ], 
+      "busnrs": [
+        "bus 2", 
+        "bus 3"
+      ], 
+      "hnrlbls": [
+        "59"
+      ], 
+      "housenumber": "59", 
+      "lat": 50.932765566316, 
+      "lon": 5.527323609692, 
+      "municipality": "Genk", 
+      "pcode": "3600", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Wintergroenstraat"
+    }, 
+    {
       "hnrlbls": [
         "61"
       ], 
@@ -186,11 +203,11 @@
         "63"
       ], 
       "housenumber": "63", 
-      "lat": 50.932867319115, 
-      "lon": 5.528837046703, 
+      "lat": 50.93277691662, 
+      "lon": 5.528987609333, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Wintergroenstraat"
     }, 
     {
@@ -207,15 +224,15 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6", 
-        "7", 
-        "8", 
-        "9"
+        "BU01", 
+        "BU02", 
+        "BU03", 
+        "BU04", 
+        "BU05", 
+        "BU06", 
+        "BU07", 
+        "BU08", 
+        "BU09"
       ], 
       "hnrlbls": [
         "76"
@@ -230,15 +247,14 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6", 
-        "7", 
-        "8", 
-        "9"
+        "BU01", 
+        "BU02", 
+        "BU03", 
+        "BU05", 
+        "BU06", 
+        "BU07", 
+        "BU08", 
+        "BU09"
       ], 
       "hnrlbls": [
         "78"
@@ -253,15 +269,15 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6", 
-        "7", 
-        "8", 
-        "9"
+        "BU01", 
+        "BU02", 
+        "BU03", 
+        "BU04", 
+        "BU05", 
+        "BU06", 
+        "BU07", 
+        "BU08", 
+        "BU09"
       ], 
       "hnrlbls": [
         "80"
@@ -276,15 +292,15 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6", 
-        "7", 
-        "8", 
-        "9"
+        "BU01", 
+        "BU02", 
+        "BU03", 
+        "BU04", 
+        "BU05", 
+        "BU06", 
+        "BU07", 
+        "BU08", 
+        "BU09"
       ], 
       "hnrlbls": [
         "82"
@@ -299,15 +315,15 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6", 
-        "7", 
-        "8", 
-        "9"
+        "BU01", 
+        "BU02", 
+        "BU03", 
+        "BU04", 
+        "BU05", 
+        "BU06", 
+        "BU07", 
+        "BU08", 
+        "BU09"
       ], 
       "hnrlbls": [
         "84"

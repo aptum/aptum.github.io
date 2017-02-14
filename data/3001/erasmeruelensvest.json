@@ -305,7 +305,7 @@
         "02K1"
       ], 
       "hnrlbls": [
-        "135-135K"
+        "135"
       ], 
       "housenumber": "135", 
       "lat": 50.868094953763, 
@@ -313,21 +313,6 @@
       "municipality": "Leuven", 
       "pcode": "3001", 
       "source": "afgeleidVanGebouw", 
-      "street": "Erasme Ruelensvest"
-    }, 
-    {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "135-135K"
-      ], 
-      "housenumber": "135K", 
-      "lat": 50.868094953763, 
-      "lon": 4.704987980647, 
-      "municipality": "Leuven", 
-      "pcode": "3001", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Erasme Ruelensvest"
     }, 
     {
@@ -459,8 +444,8 @@
         "155"
       ], 
       "housenumber": "155", 
-      "lat": 50.868266896438, 
-      "lon": 4.70599783951, 
+      "lat": 50.868269095206, 
+      "lon": 4.705983507264, 
       "municipality": "Leuven", 
       "pcode": "3001", 
       "source": "afgeleidVanGebouw", 
@@ -649,6 +634,10 @@
       "street": "Erasme Ruelensvest"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "179"
       ], 
@@ -794,7 +783,7 @@
     }, 
     {
       "hnrlbls": [
-        "21"
+        "21-21C"
       ], 
       "housenumber": "21", 
       "lat": 50.868048896217, 
@@ -806,11 +795,11 @@
     }, 
     {
       "hnrlbls": [
-        "21C"
+        "21-21C"
       ], 
       "housenumber": "21C", 
-      "lat": 50.868048872332, 
-      "lon": 4.69928399017, 
+      "lat": 50.868048896217, 
+      "lon": 4.699283969539, 
       "municipality": "Leuven", 
       "pcode": "3001", 
       "source": "afgeleidVanGebouw", 
@@ -984,8 +973,8 @@
         "39-41"
       ], 
       "housenumber": "39", 
-      "lat": 50.867715333625, 
-      "lon": 4.699810927276, 
+      "lat": 50.867713271693, 
+      "lon": 4.699808923902, 
       "municipality": "Leuven", 
       "pcode": "3001", 
       "source": "afgeleidVanPerceelGrb", 
@@ -996,8 +985,8 @@
         "39-41"
       ], 
       "housenumber": "41", 
-      "lat": 50.867715333625, 
-      "lon": 4.699810927276, 
+      "lat": 50.867713271693, 
+      "lon": 4.699808923902, 
       "municipality": "Leuven", 
       "pcode": "3001", 
       "source": "afgeleidVanPerceelGrb", 
@@ -1008,8 +997,8 @@
         "43"
       ], 
       "housenumber": "43", 
-      "lat": 50.867712722787, 
-      "lon": 4.700384113941, 
+      "lat": 50.867713895026, 
+      "lon": 4.700382843707, 
       "municipality": "Leuven", 
       "pcode": "3001", 
       "source": "afgeleidVanPerceelGrb", 
@@ -1186,10 +1175,9 @@
       "street": "Erasme Ruelensvest"
     }, 
     {
-      "apptnrs": [
-        "0001"
-      ], 
       "busnrs": [
+        "0001", 
+        "0002", 
         "0101", 
         "0102", 
         "0201", 
@@ -1396,7 +1384,8 @@
         "0001"
       ], 
       "busnrs": [
-        "0201"
+        "0201", 
+        "203"
       ], 
       "hnrlbls": [
         "83"

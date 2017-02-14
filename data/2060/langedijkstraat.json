@@ -33,11 +33,11 @@
         "100"
       ], 
       "housenumber": "100", 
-      "lat": 51.229534332358, 
-      "lon": 4.420872944823, 
+      "lat": 51.229594281452, 
+      "lon": 4.420678602101, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Lange Dijkstraat"
     }, 
     {
@@ -63,11 +63,11 @@
         "102"
       ], 
       "housenumber": "102", 
-      "lat": 51.229581712964, 
-      "lon": 4.420770637887, 
+      "lat": 51.229643335555, 
+      "lon": 4.420728763356, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Lange Dijkstraat"
     }, 
     {
@@ -87,8 +87,8 @@
         "104-347"
       ], 
       "housenumber": "104", 
-      "lat": 51.229689806966, 
-      "lon": 4.420860168155, 
+      "lat": 51.22968983662, 
+      "lon": 4.420860236608, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
       "source": "afgeleidVanGebouw", 
@@ -111,8 +111,8 @@
         "104-347"
       ], 
       "housenumber": "106", 
-      "lat": 51.229689806966, 
-      "lon": 4.420860168155, 
+      "lat": 51.22968983662, 
+      "lon": 4.420860236608, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
       "source": "afgeleidVanGebouw", 
@@ -147,8 +147,8 @@
         "7-11"
       ], 
       "housenumber": "11", 
-      "lat": 51.226521029241, 
-      "lon": 4.417739411491, 
+      "lat": 51.226520993288, 
+      "lon": 4.417739411453, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
       "source": "manueleAanduidingVanGebouw", 
@@ -196,6 +196,10 @@
       "street": "Lange Dijkstraat"
     }, 
     {
+      "apptnrs": [
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
         "14"
       ], 
@@ -224,8 +228,11 @@
       "street": "Lange Dijkstraat"
     }, 
     {
-      "busnrs": [
-        "1"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301"
       ], 
       "hnrlbls": [
         "16"
@@ -292,10 +299,10 @@
       "street": "Lange Dijkstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3"
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301"
       ], 
       "hnrlbls": [
         "2-4"
@@ -375,8 +382,8 @@
         "23A"
       ], 
       "housenumber": "23A", 
-      "lat": 51.226855935407, 
-      "lon": 4.417768208201, 
+      "lat": 51.226855977632, 
+      "lon": 4.417768255486, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
       "source": "manueleAanduidingVanGebouw", 
@@ -502,6 +509,12 @@
       "street": "Lange Dijkstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
         "34"
       ], 
@@ -538,10 +551,6 @@
       "street": "Lange Dijkstraat"
     }, 
     {
-      "busnrs": [
-        "2", 
-        "3"
-      ], 
       "hnrlbls": [
         "37"
       ], 
@@ -551,6 +560,18 @@
       "municipality": "Antwerpen", 
       "pcode": "2060", 
       "source": "afgeleidVanGebouw", 
+      "street": "Lange Dijkstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "37A"
+      ], 
+      "housenumber": "37A", 
+      "lat": 51.227212285899, 
+      "lon": 4.417959314135, 
+      "municipality": "Antwerpen", 
+      "pcode": "2060", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Lange Dijkstraat"
     }, 
     {
@@ -660,8 +681,10 @@
       "street": "Lange Dijkstraat"
     }, 
     {
-      "busnrs": [
-        "3"
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301"
       ], 
       "hnrlbls": [
         "45"
@@ -1032,6 +1055,18 @@
     }, 
     {
       "hnrlbls": [
+        "7-11"
+      ], 
+      "housenumber": "7", 
+      "lat": 51.226520993288, 
+      "lon": 4.417739411453, 
+      "municipality": "Antwerpen", 
+      "pcode": "2060", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Lange Dijkstraat"
+    }, 
+    {
+      "hnrlbls": [
         "68-70"
       ], 
       "housenumber": "70", 
@@ -1328,9 +1363,6 @@
       "street": "Lange Dijkstraat"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
         "90-92"
       ], 
@@ -1358,8 +1390,7 @@
       "busnrs": [
         "1", 
         "2", 
-        "3", 
-        "7"
+        "3"
       ], 
       "hnrlbls": [
         "90-92"

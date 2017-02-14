@@ -47,18 +47,14 @@
         "100"
       ], 
       "housenumber": "100", 
-      "lat": 51.023516687551, 
-      "lon": 4.4811415758, 
+      "lat": 51.023516713145, 
+      "lon": 4.481141542071, 
       "municipality": "Mechelen", 
       "pcode": "2800", 
       "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Lange Schipstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
       "hnrlbls": [
         "104"
       ], 
@@ -191,7 +187,8 @@
     }, 
     {
       "busnrs": [
-        "2"
+        "2", 
+        "9999"
       ], 
       "hnrlbls": [
         "2"
@@ -276,8 +273,8 @@
         "25"
       ], 
       "housenumber": "25", 
-      "lat": 51.025767633253, 
-      "lon": 4.48003818643, 
+      "lat": 51.025729889919, 
+      "lon": 4.479932476723, 
       "municipality": "Mechelen", 
       "pcode": "2800", 
       "source": "afgeleidVanGebouw", 
@@ -288,8 +285,8 @@
         "26"
       ], 
       "housenumber": "26", 
-      "lat": 51.025350244346, 
-      "lon": 4.479633172099, 
+      "lat": 51.025350207611, 
+      "lon": 4.479633100909, 
       "municipality": "Mechelen", 
       "pcode": "2800", 
       "source": "manueleAanduidingVanIngangVanGebouw", 
@@ -354,8 +351,8 @@
         "30"
       ], 
       "housenumber": "30", 
-      "lat": 51.025249661025, 
-      "lon": 4.479711975756, 
+      "lat": 51.025249635461, 
+      "lon": 4.479711968156, 
       "municipality": "Mechelen", 
       "pcode": "2800", 
       "source": "manueleAanduidingVanIngangVanGebouw", 
@@ -366,8 +363,8 @@
         "30A"
       ], 
       "housenumber": "30A", 
-      "lat": 51.025164928565, 
-      "lon": 4.479544737982, 
+      "lat": 51.025164937477, 
+      "lon": 4.4795447156, 
       "municipality": "Mechelen", 
       "pcode": "2800", 
       "source": "manueleAanduidingVanIngangVanGebouw", 
@@ -590,6 +587,7 @@
     {
       "busnrs": [
         "1", 
+        "2", 
         "3"
       ], 
       "hnrlbls": [
@@ -667,8 +665,8 @@
         "52"
       ], 
       "housenumber": "52", 
-      "lat": 51.02451521672, 
-      "lon": 4.480105887795, 
+      "lat": 51.024515395958, 
+      "lon": 4.480106458354, 
       "municipality": "Mechelen", 
       "pcode": "2800", 
       "source": "afgeleidVanGebouw", 
@@ -692,19 +690,20 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "2", 
-        "3"
+        "0101", 
+        "0201", 
+        "0301", 
+        "GVL1"
       ], 
       "hnrlbls": [
         "56"
       ], 
       "housenumber": "56", 
-      "lat": 51.024374595017, 
-      "lon": 4.480140756795, 
+      "lat": 51.024431351695, 
+      "lon": 4.48029183447, 
       "municipality": "Mechelen", 
       "pcode": "2800", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Lange Schipstraat"
     }, 
     {
@@ -1089,7 +1088,8 @@
         "102", 
         "103", 
         "2", 
-        "3"
+        "3", 
+        "9999"
       ], 
       "hnrlbls": [
         "82"
@@ -1141,8 +1141,8 @@
         "86"
       ], 
       "housenumber": "86", 
-      "lat": 51.023712528849, 
-      "lon": 4.480824457561, 
+      "lat": 51.023712439915, 
+      "lon": 4.480823459636, 
       "municipality": "Mechelen", 
       "pcode": "2800", 
       "source": "afgeleidVanGebouw", 
@@ -1168,8 +1168,18 @@
       "street": "Lange Schipstraat"
     }, 
     {
+      "apptnrs": [
+        "0.0"
+      ], 
+      "busnrs": [
+        "101", 
+        "102", 
+        "2", 
+        "3", 
+        "GLV"
+      ], 
       "hnrlbls": [
-        "88"
+        "88-90"
       ], 
       "housenumber": "88", 
       "lat": 51.023581526026, 
@@ -1205,18 +1215,22 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "2"
+        "101", 
+        "102", 
+        "201", 
+        "202", 
+        "3", 
+        "GLV"
       ], 
       "hnrlbls": [
-        "90"
+        "88-90"
       ], 
       "housenumber": "90", 
-      "lat": 51.02361976345, 
-      "lon": 4.480916736121, 
+      "lat": 51.023581526026, 
+      "lon": 4.480764564637, 
       "municipality": "Mechelen", 
       "pcode": "2800", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Lange Schipstraat"
     }, 
     {
@@ -1271,8 +1285,8 @@
         "97"
       ], 
       "housenumber": "97", 
-      "lat": 51.023457583741, 
-      "lon": 4.481589369375, 
+      "lat": 51.023457762972, 
+      "lon": 4.481589939928, 
       "municipality": "Mechelen", 
       "pcode": "2800", 
       "source": "afgeleidVanGebouw", 

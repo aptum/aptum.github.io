@@ -23,7 +23,7 @@
         "2"
       ], 
       "hnrlbls": [
-        "10-14B"
+        "10"
       ], 
       "housenumber": "10", 
       "lat": 51.165831696865, 
@@ -83,7 +83,8 @@
     }, 
     {
       "busnrs": [
-        "1"
+        "1", 
+        "glvl"
       ], 
       "hnrlbls": [
         "104"
@@ -101,7 +102,7 @@
         "1"
       ], 
       "hnrlbls": [
-        "105-105A"
+        "105"
       ], 
       "housenumber": "105", 
       "lat": 51.167370978427, 
@@ -113,11 +114,11 @@
     }, 
     {
       "hnrlbls": [
-        "105-105A"
+        "105A"
       ], 
       "housenumber": "105A", 
-      "lat": 51.167370978427, 
-      "lon": 4.458538785919, 
+      "lat": 51.167328600362, 
+      "lon": 4.458476083516, 
       "municipality": "Mortsel", 
       "pcode": "2640", 
       "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
@@ -294,8 +295,8 @@
         "118-120"
       ], 
       "housenumber": "118", 
-      "lat": 51.168817433658, 
-      "lon": 4.457695617039, 
+      "lat": 51.168817792766, 
+      "lon": 4.457696189622, 
       "municipality": "Mortsel", 
       "pcode": "2640", 
       "source": "afgeleidVanGebouw", 
@@ -337,8 +338,8 @@
         "118-120"
       ], 
       "housenumber": "120", 
-      "lat": 51.168817433658, 
-      "lon": 4.457695617039, 
+      "lat": 51.168817792766, 
+      "lon": 4.457696189622, 
       "municipality": "Mortsel", 
       "pcode": "2640", 
       "source": "afgeleidVanGebouw", 
@@ -355,8 +356,8 @@
         "121-123"
       ], 
       "housenumber": "121", 
-      "lat": 51.167969527239, 
-      "lon": 4.458304473436, 
+      "lat": 51.167972042507, 
+      "lon": 4.458306479887, 
       "municipality": "Mortsel", 
       "pcode": "2640", 
       "source": "afgeleidVanGebouw", 
@@ -384,8 +385,8 @@
         "121-123"
       ], 
       "housenumber": "123", 
-      "lat": 51.167969527239, 
-      "lon": 4.458304473436, 
+      "lat": 51.167972042507, 
+      "lon": 4.458306479887, 
       "municipality": "Mortsel", 
       "pcode": "2640", 
       "source": "afgeleidVanGebouw", 
@@ -451,7 +452,8 @@
     {
       "busnrs": [
         "1", 
-        "2"
+        "2", 
+        "glvl"
       ], 
       "hnrlbls": [
         "126"
@@ -510,6 +512,26 @@
       "housenumber": "13", 
       "lat": 51.165614230891, 
       "lon": 4.462355220282, 
+      "municipality": "Mortsel", 
+      "pcode": "2640", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Sint-Benedictusstraat"
+    }, 
+    {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6"
+      ], 
+      "hnrlbls": [
+        "130"
+      ], 
+      "housenumber": "130", 
+      "lat": 51.169153710802, 
+      "lon": 4.457439052108, 
       "municipality": "Mortsel", 
       "pcode": "2640", 
       "source": "afgeleidVanGebouw", 
@@ -648,12 +670,15 @@
       "street": "Sint-Benedictusstraat"
     }, 
     {
+      "busnrs": [
+        "2"
+      ], 
       "hnrlbls": [
         "140-142"
       ], 
       "housenumber": "140", 
-      "lat": 51.169512554629, 
-      "lon": 4.457293618401, 
+      "lat": 51.169511925106, 
+      "lon": 4.457294046123, 
       "municipality": "Mortsel", 
       "pcode": "2640", 
       "source": "afgeleidVanPerceelGrb", 
@@ -679,8 +704,8 @@
         "140-142"
       ], 
       "housenumber": "142", 
-      "lat": 51.169512554629, 
-      "lon": 4.457293618401, 
+      "lat": 51.169511925106, 
+      "lon": 4.457294046123, 
       "municipality": "Mortsel", 
       "pcode": "2640", 
       "source": "afgeleidVanPerceelGrb", 
@@ -739,11 +764,11 @@
         "A"
       ], 
       "hnrlbls": [
-        "10-14B"
+        "14B"
       ], 
       "housenumber": "14B", 
-      "lat": 51.165831696865, 
-      "lon": 4.462539940224, 
+      "lat": 51.166574903694, 
+      "lon": 4.462837956575, 
       "municipality": "Mortsel", 
       "pcode": "2640", 
       "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
@@ -770,8 +795,8 @@
         "16"
       ], 
       "housenumber": "16", 
-      "lat": 51.165950970873, 
-      "lon": 4.462320588237, 
+      "lat": 51.165937417759, 
+      "lon": 4.462295970996, 
       "municipality": "Mortsel", 
       "pcode": "2640", 
       "source": "afgeleidVanGebouw", 
@@ -852,20 +877,23 @@
         "20A-20_5"
       ], 
       "housenumber": "20A", 
-      "lat": 51.166201342858, 
-      "lon": 4.461818714049, 
+      "lat": 51.166085851363, 
+      "lon": 4.462030070074, 
       "municipality": "Mortsel", 
       "pcode": "2640", 
       "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Sint-Benedictusstraat"
     }, 
     {
+      "busnrs": [
+        "2"
+      ], 
       "hnrlbls": [
         "20A-20_5"
       ], 
       "housenumber": "20B", 
-      "lat": 51.166201342858, 
-      "lon": 4.461818714049, 
+      "lat": 51.166085851363, 
+      "lon": 4.462030070074, 
       "municipality": "Mortsel", 
       "pcode": "2640", 
       "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
@@ -876,8 +904,8 @@
         "20A-20_5"
       ], 
       "housenumber": "20_1", 
-      "lat": 51.166201342858, 
-      "lon": 4.461818714049, 
+      "lat": 51.166085851363, 
+      "lon": 4.462030070074, 
       "municipality": "Mortsel", 
       "pcode": "2640", 
       "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
@@ -888,8 +916,8 @@
         "20A-20_5"
       ], 
       "housenumber": "20_2", 
-      "lat": 51.166201342858, 
-      "lon": 4.461818714049, 
+      "lat": 51.166085851363, 
+      "lon": 4.462030070074, 
       "municipality": "Mortsel", 
       "pcode": "2640", 
       "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
@@ -900,8 +928,8 @@
         "20A-20_5"
       ], 
       "housenumber": "20_3", 
-      "lat": 51.166201342858, 
-      "lon": 4.461818714049, 
+      "lat": 51.166085851363, 
+      "lon": 4.462030070074, 
       "municipality": "Mortsel", 
       "pcode": "2640", 
       "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
@@ -912,8 +940,8 @@
         "20A-20_5"
       ], 
       "housenumber": "20_4", 
-      "lat": 51.166201342858, 
-      "lon": 4.461818714049, 
+      "lat": 51.166085851363, 
+      "lon": 4.462030070074, 
       "municipality": "Mortsel", 
       "pcode": "2640", 
       "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
@@ -924,8 +952,8 @@
         "20A-20_5"
       ], 
       "housenumber": "20_5", 
-      "lat": 51.166201342858, 
-      "lon": 4.461818714049, 
+      "lat": 51.166085851363, 
+      "lon": 4.462030070074, 
       "municipality": "Mortsel", 
       "pcode": "2640", 
       "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
@@ -1128,7 +1156,7 @@
         "6"
       ], 
       "hnrlbls": [
-        "34-34B"
+        "34"
       ], 
       "housenumber": "34", 
       "lat": 51.166636895119, 
@@ -1143,11 +1171,11 @@
         "3"
       ], 
       "hnrlbls": [
-        "34-34B"
+        "34B"
       ], 
       "housenumber": "34B", 
-      "lat": 51.166636895119, 
-      "lon": 4.4611805284, 
+      "lat": 51.166637255563, 
+      "lon": 4.461179385387, 
       "municipality": "Mortsel", 
       "pcode": "2640", 
       "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
@@ -1302,8 +1330,8 @@
         "47"
       ], 
       "housenumber": "47", 
-      "lat": 51.166313278631, 
-      "lon": 4.460987308287, 
+      "lat": 51.16631354705, 
+      "lon": 4.460988881442, 
       "municipality": "Mortsel", 
       "pcode": "2640", 
       "source": "afgeleidVanGebouw", 

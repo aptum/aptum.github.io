@@ -13,8 +13,8 @@
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 51.226704641541, 
-      "lon": 4.454184195427, 
+      "lat": 51.22670464154, 
+      "lon": 4.454184195396, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "manueleAanduidingVanPerceel", 
@@ -33,8 +33,10 @@
       "street": "De Gryspeerstraat"
     }, 
     {
-      "busnrs": [
-        "1"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "100"
@@ -345,8 +347,8 @@
         "1_2"
       ], 
       "housenumber": "1_2", 
-      "lat": 51.226719659277, 
-      "lon": 4.454254560265, 
+      "lat": 51.226719690772, 
+      "lon": 4.45425451022, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "manueleAanduidingVanGebouw", 
@@ -550,6 +552,11 @@
       "street": "De Gryspeerstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "34"
       ], 
@@ -1161,7 +1168,9 @@
     }, 
     {
       "busnrs": [
-        "2"
+        "1", 
+        "2", 
+        "3"
       ], 
       "hnrlbls": [
         "81"
@@ -1239,32 +1248,20 @@
         "87"
       ], 
       "housenumber": "87", 
-      "lat": 51.226870100414, 
-      "lon": 4.44964503281, 
+      "lat": 51.226873060772, 
+      "lon": 4.449523073151, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "De Gryspeerstraat"
     }, 
     {
       "hnrlbls": [
-        "87A-87B"
+        "87A"
       ], 
       "housenumber": "87A", 
-      "lat": 51.226862152057, 
-      "lon": 4.449695741661, 
-      "municipality": "Antwerpen", 
-      "pcode": "2100", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "De Gryspeerstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "87A-87B"
-      ], 
-      "housenumber": "87B", 
-      "lat": 51.226862152057, 
-      "lon": 4.449695741661, 
+      "lat": 51.226862155685, 
+      "lon": 4.449695694428, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "manueleAanduidingVanGebouw", 

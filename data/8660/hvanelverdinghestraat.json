@@ -1,20 +1,21 @@
 {
   "addresses": [
     {
-      "busnrs": [
-        "101", 
-        "201", 
-        "301"
+      "apptnrs": [
+        "0101", 
+        "0201", 
+        "0301", 
+        "G001"
       ], 
       "hnrlbls": [
-        "1-1G"
+        "1"
       ], 
       "housenumber": "1", 
       "lat": 51.096827144416, 
       "lon": 2.597168057099, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "H. Vanelverdinghestraat"
     }, 
     {
@@ -26,10 +27,14 @@
       "lon": 2.597132543198, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "H. Vanelverdinghestraat"
     }, 
     {
+      "apptnrs": [
+        "0101", 
+        "G001"
+      ], 
       "hnrlbls": [
         "13"
       ], 
@@ -38,7 +43,7 @@
       "lon": 2.597131446711, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "H. Vanelverdinghestraat"
     }, 
     {
@@ -50,7 +55,7 @@
       "lon": 2.597118359364, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "H. Vanelverdinghestraat"
     }, 
     {
@@ -62,29 +67,15 @@
       "lon": 2.597091433053, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "H. Vanelverdinghestraat"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "1-1G"
-      ], 
-      "housenumber": "1G", 
-      "lat": 51.096827144416, 
-      "lon": 2.597168057099, 
-      "municipality": "De Panne", 
-      "pcode": "8660", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "H. Vanelverdinghestraat"
-    }, 
-    {
-      "busnrs": [
-        "101", 
-        "201", 
-        "301"
+      "apptnrs": [
+        "0101", 
+        "0201", 
+        "0301", 
+        "G001"
       ], 
       "hnrlbls": [
         "3"
@@ -94,7 +85,7 @@
       "lon": 2.597145778417, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "H. Vanelverdinghestraat"
     }, 
     {
@@ -106,7 +97,7 @@
       "lon": 2.596703138164, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "H. Vanelverdinghestraat"
     }, 
     {
@@ -118,7 +109,7 @@
       "lon": 2.596693298427, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "H. Vanelverdinghestraat"
     }, 
     {
@@ -130,39 +121,23 @@
       "lon": 2.597167641609, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "H. Vanelverdinghestraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "101", 
-        "201"
+      "apptnrs": [
+        "0101", 
+        "0201"
       ], 
       "hnrlbls": [
-        "9-9G"
+        "9"
       ], 
       "housenumber": "9", 
       "lat": 51.096587401533, 
       "lon": 2.597159861456, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
-      "street": "H. Vanelverdinghestraat"
-    }, 
-    {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "9-9G"
-      ], 
-      "housenumber": "9G", 
-      "lat": 51.096587401533, 
-      "lon": 2.597159861456, 
-      "municipality": "De Panne", 
-      "pcode": "8660", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "H. Vanelverdinghestraat"
     }
   ]

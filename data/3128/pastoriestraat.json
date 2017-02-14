@@ -21,7 +21,7 @@
       "lon": 4.751879304616, 
       "municipality": "Tremelo", 
       "pcode": "3128", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Pastoriestraat"
     }, 
     {
@@ -38,9 +38,21 @@
     }, 
     {
       "hnrlbls": [
-        "13"
+        "13-13D"
       ], 
       "housenumber": "13", 
+      "lat": 50.996410655481, 
+      "lon": 4.752121849017, 
+      "municipality": "Tremelo", 
+      "pcode": "3128", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Pastoriestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "13-13D"
+      ], 
+      "housenumber": "13A", 
       "lat": 50.996410655481, 
       "lon": 4.752121849017, 
       "municipality": "Tremelo", 
@@ -50,23 +62,11 @@
     }, 
     {
       "hnrlbls": [
-        "13A-13D"
-      ], 
-      "housenumber": "13A", 
-      "lat": 50.996410634595, 
-      "lon": 4.752121830938, 
-      "municipality": "Tremelo", 
-      "pcode": "3128", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Pastoriestraat"
-    }, 
-    {
-      "hnrlbls": [
-        "13A-13D"
+        "13-13D"
       ], 
       "housenumber": "13B", 
-      "lat": 50.996410634595, 
-      "lon": 4.752121830938, 
+      "lat": 50.996410655481, 
+      "lon": 4.752121849017, 
       "municipality": "Tremelo", 
       "pcode": "3128", 
       "source": "afgeleidVanGebouw", 
@@ -74,11 +74,11 @@
     }, 
     {
       "hnrlbls": [
-        "13A-13D"
+        "13-13D"
       ], 
       "housenumber": "13C", 
-      "lat": 50.996410634595, 
-      "lon": 4.752121830938, 
+      "lat": 50.996410655481, 
+      "lon": 4.752121849017, 
       "municipality": "Tremelo", 
       "pcode": "3128", 
       "source": "afgeleidVanGebouw", 
@@ -86,11 +86,11 @@
     }, 
     {
       "hnrlbls": [
-        "13A-13D"
+        "13-13D"
       ], 
       "housenumber": "13D", 
-      "lat": 50.996410634595, 
-      "lon": 4.752121830938, 
+      "lat": 50.996410655481, 
+      "lon": 4.752121849017, 
       "municipality": "Tremelo", 
       "pcode": "3128", 
       "source": "afgeleidVanGebouw", 
@@ -135,7 +135,7 @@
       "lon": 4.752618448563, 
       "municipality": "Tremelo", 
       "pcode": "3128", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Pastoriestraat"
     }, 
     {
@@ -210,7 +210,7 @@
       "lon": 4.752010348967, 
       "municipality": "Tremelo", 
       "pcode": "3128", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Pastoriestraat"
     }, 
     {
@@ -222,7 +222,7 @@
       "lon": 4.75250787138, 
       "municipality": "Tremelo", 
       "pcode": "3128", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Pastoriestraat"
     }, 
     {
@@ -251,7 +251,7 @@
     }, 
     {
       "hnrlbls": [
-        "29"
+        "29-29A"
       ], 
       "housenumber": "29", 
       "lat": 50.996954181188, 
@@ -263,11 +263,11 @@
     }, 
     {
       "hnrlbls": [
-        "29A"
+        "29-29A"
       ], 
       "housenumber": "29A", 
-      "lat": 50.996954221938, 
-      "lon": 4.751779834382, 
+      "lat": 50.996954181188, 
+      "lon": 4.751779864348, 
       "municipality": "Tremelo", 
       "pcode": "3128", 
       "source": "afgeleidVanGebouw", 
@@ -311,7 +311,7 @@
       "lon": 4.752265640918, 
       "municipality": "Tremelo", 
       "pcode": "3128", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Pastoriestraat"
     }, 
     {
@@ -359,11 +359,11 @@
         "34"
       ], 
       "housenumber": "34", 
-      "lat": 50.997156741409, 
-      "lon": 4.752171324769, 
+      "lat": 50.997156779753, 
+      "lon": 4.752171269968, 
       "municipality": "Tremelo", 
       "pcode": "3128", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Pastoriestraat"
     }, 
     {
@@ -394,7 +394,7 @@
       "lon": 4.752118388836, 
       "municipality": "Tremelo", 
       "pcode": "3128", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Pastoriestraat"
     }, 
     {
@@ -423,7 +423,8 @@
     }, 
     {
       "apptnrs": [
-        "1.01"
+        "1.01", 
+        "2.01"
       ], 
       "busnrs": [
         "1", 
@@ -438,7 +439,7 @@
       "lon": 4.752945174223, 
       "municipality": "Tremelo", 
       "pcode": "3128", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Pastoriestraat"
     }, 
     {
@@ -472,7 +473,7 @@
       "lon": 4.751940188174, 
       "municipality": "Tremelo", 
       "pcode": "3128", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Pastoriestraat"
     }, 
     {
@@ -480,8 +481,8 @@
         "43"
       ], 
       "housenumber": "43", 
-      "lat": 50.997975615716, 
-      "lon": 4.751259156536, 
+      "lat": 50.997971882094, 
+      "lon": 4.751246305171, 
       "municipality": "Tremelo", 
       "pcode": "3128", 
       "source": "afgeleidVanGebouw", 
@@ -503,8 +504,8 @@
         "44"
       ], 
       "housenumber": "44", 
-      "lat": 50.997937069011, 
-      "lon": 4.751856728832, 
+      "lat": 50.997937082016, 
+      "lon": 4.751856718965, 
       "municipality": "Tremelo", 
       "pcode": "3128", 
       "source": "afgeleidVanGebouw", 
@@ -512,7 +513,7 @@
     }, 
     {
       "hnrlbls": [
-        "45"
+        "45-45A"
       ], 
       "housenumber": "45", 
       "lat": 50.998096182012, 
@@ -524,11 +525,11 @@
     }, 
     {
       "hnrlbls": [
-        "45A"
+        "45-45A"
       ], 
       "housenumber": "45A", 
-      "lat": 50.998096195066, 
-      "lon": 4.751142305894, 
+      "lat": 50.998096182012, 
+      "lon": 4.751142333099, 
       "municipality": "Tremelo", 
       "pcode": "3128", 
       "source": "afgeleidVanGebouw", 
@@ -548,14 +549,14 @@
     }, 
     {
       "hnrlbls": [
-        "47"
+        "47-47A"
       ], 
       "housenumber": "47", 
       "lat": 50.998174890409, 
       "lon": 4.751098530886, 
       "municipality": "Tremelo", 
       "pcode": "3128", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Pastoriestraat"
     }, 
     {
@@ -598,7 +599,7 @@
       "lon": 4.752340263467, 
       "municipality": "Tremelo", 
       "pcode": "3128", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Pastoriestraat"
     }, 
     {
@@ -669,8 +670,8 @@
         "56"
       ], 
       "housenumber": "56", 
-      "lat": 50.998890748521, 
-      "lon": 4.75141550807, 
+      "lat": 50.998892407232, 
+      "lon": 4.751430622027, 
       "municipality": "Tremelo", 
       "pcode": "3128", 
       "source": "afgeleidVanGebouw", 
@@ -709,7 +710,7 @@
       "lon": 4.752845876329, 
       "municipality": "Tremelo", 
       "pcode": "3128", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Pastoriestraat"
     }, 
     {
@@ -717,8 +718,8 @@
         "60"
       ], 
       "housenumber": "60", 
-      "lat": 50.999246299016, 
-      "lon": 4.751379668749, 
+      "lat": 50.999236090095, 
+      "lon": 4.751367761254, 
       "municipality": "Tremelo", 
       "pcode": "3128", 
       "source": "afgeleidVanGebouw", 
@@ -753,8 +754,8 @@
         "65-65A"
       ], 
       "housenumber": "65", 
-      "lat": 50.999110241702, 
-      "lon": 4.750738643924, 
+      "lat": 50.999110221181, 
+      "lon": 4.750738638087, 
       "municipality": "Tremelo", 
       "pcode": "3128", 
       "source": "afgeleidVanGebouw", 
@@ -765,8 +766,8 @@
         "65-65A"
       ], 
       "housenumber": "65A", 
-      "lat": 50.999110241702, 
-      "lon": 4.750738643924, 
+      "lat": 50.999110221181, 
+      "lon": 4.750738638087, 
       "municipality": "Tremelo", 
       "pcode": "3128", 
       "source": "afgeleidVanGebouw", 
@@ -777,8 +778,8 @@
         "67-67A"
       ], 
       "housenumber": "67", 
-      "lat": 50.999157710926, 
-      "lon": 4.75057891958, 
+      "lat": 50.999157754162, 
+      "lon": 4.750578904358, 
       "municipality": "Tremelo", 
       "pcode": "3128", 
       "source": "afgeleidVanGebouw", 
@@ -789,11 +790,11 @@
         "67-67A"
       ], 
       "housenumber": "67A", 
-      "lat": 50.999157710926, 
-      "lon": 4.75057891958, 
+      "lat": 50.999157754162, 
+      "lon": 4.750578904358, 
       "municipality": "Tremelo", 
       "pcode": "3128", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Pastoriestraat"
     }, 
     {
@@ -825,8 +826,8 @@
         "9"
       ], 
       "housenumber": "9", 
-      "lat": 50.996016307406, 
-      "lon": 4.752351469515, 
+      "lat": 50.996016267285, 
+      "lon": 4.752351518426, 
       "municipality": "Tremelo", 
       "pcode": "3128", 
       "source": "afgeleidVanGebouw", 

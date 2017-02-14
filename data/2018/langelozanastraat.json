@@ -33,6 +33,10 @@
       "street": "Lange Lozanastraat"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "100"
       ], 
@@ -42,6 +46,18 @@
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "afgeleidVanGebouw", 
+      "street": "Lange Lozanastraat"
+    }, 
+    {
+      "hnrlbls": [
+        "100A"
+      ], 
+      "housenumber": "100A", 
+      "lat": 51.203633145273, 
+      "lon": 4.404801935865, 
+      "municipality": "Antwerpen", 
+      "pcode": "2018", 
+      "source": "manueleAanduidingVanToegangTotDeWeg", 
       "street": "Lange Lozanastraat"
     }, 
     {
@@ -79,35 +95,11 @@
         "101"
       ], 
       "housenumber": "101", 
-      "lat": 51.203551520171, 
-      "lon": 4.405407384358, 
+      "lat": 51.20351940673, 
+      "lon": 4.405200465712, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Lange Lozanastraat"
-    }, 
-    {
-      "hnrlbls": [
-        "101B-101C"
-      ], 
-      "housenumber": "101B", 
-      "lat": 51.203496104423, 
-      "lon": 4.405271128387, 
-      "municipality": "Antwerpen", 
-      "pcode": "2018", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Lange Lozanastraat"
-    }, 
-    {
-      "hnrlbls": [
-        "101B-101C"
-      ], 
-      "housenumber": "101C", 
-      "lat": 51.203496104423, 
-      "lon": 4.405271128387, 
-      "municipality": "Antwerpen", 
-      "pcode": "2018", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Lange Lozanastraat"
     }, 
     {
@@ -176,47 +168,11 @@
         "103"
       ], 
       "housenumber": "103", 
-      "lat": 51.203546126628, 
-      "lon": 4.405692251454, 
+      "lat": 51.203382219728, 
+      "lon": 4.405274471433, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Lange Lozanastraat"
-    }, 
-    {
-      "hnrlbls": [
-        "103B-103D"
-      ], 
-      "housenumber": "103B", 
-      "lat": 51.203493045019, 
-      "lon": 4.405247442013, 
-      "municipality": "Antwerpen", 
-      "pcode": "2018", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Lange Lozanastraat"
-    }, 
-    {
-      "hnrlbls": [
-        "103B-103D"
-      ], 
-      "housenumber": "103C", 
-      "lat": 51.203493045019, 
-      "lon": 4.405247442013, 
-      "municipality": "Antwerpen", 
-      "pcode": "2018", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Lange Lozanastraat"
-    }, 
-    {
-      "hnrlbls": [
-        "103B-103D"
-      ], 
-      "housenumber": "103D", 
-      "lat": 51.203493045019, 
-      "lon": 4.405247442013, 
-      "municipality": "Antwerpen", 
-      "pcode": "2018", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Lange Lozanastraat"
     }, 
     {
@@ -368,9 +324,6 @@
       "street": "Lange Lozanastraat"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
         "114"
       ], 
@@ -387,8 +340,8 @@
         "114A"
       ], 
       "housenumber": "114A", 
-      "lat": 51.203205336034, 
-      "lon": 4.404884213849, 
+      "lat": 51.203205359422, 
+      "lon": 4.404884155206, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "manueleAanduidingVanGebouw", 
@@ -496,8 +449,10 @@
     {
       "busnrs": [
         "1", 
+        "2", 
         "3", 
         "4", 
+        "5", 
         "6", 
         "7", 
         "8", 
@@ -599,16 +554,19 @@
       "street": "Lange Lozanastraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "10", 
-        "11", 
-        "12", 
-        "2", 
-        "5", 
-        "6", 
-        "7", 
-        "8"
+      "apptnrs": [
+        "101", 
+        "102", 
+        "201", 
+        "202", 
+        "301", 
+        "302", 
+        "401", 
+        "402", 
+        "501", 
+        "502", 
+        "601", 
+        "602"
       ], 
       "hnrlbls": [
         "129-131"
@@ -619,21 +577,6 @@
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "afgeleidVanGebouw", 
-      "street": "Lange Lozanastraat"
-    }, 
-    {
-      "busnrs": [
-        "4"
-      ], 
-      "hnrlbls": [
-        "129B"
-      ], 
-      "housenumber": "129B", 
-      "lat": 51.202445249511, 
-      "lon": 4.405927464766, 
-      "municipality": "Antwerpen", 
-      "pcode": "2018", 
-      "source": "manueleAanduidingVanGebouw", 
       "street": "Lange Lozanastraat"
     }, 
     {
@@ -835,6 +778,12 @@
       "street": "Lange Lozanastraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
         "143"
       ], 
@@ -898,67 +847,6 @@
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "afgeleidVanGebouw", 
-      "street": "Lange Lozanastraat"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
-      "hnrlbls": [
-        "147A-147_4"
-      ], 
-      "housenumber": "147A", 
-      "lat": 51.201970888768, 
-      "lon": 4.40608871979, 
-      "municipality": "Antwerpen", 
-      "pcode": "2018", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Lange Lozanastraat"
-    }, 
-    {
-      "busnrs": [
-        "2"
-      ], 
-      "hnrlbls": [
-        "147A-147_4"
-      ], 
-      "housenumber": "147R", 
-      "lat": 51.201970888768, 
-      "lon": 4.40608871979, 
-      "municipality": "Antwerpen", 
-      "pcode": "2018", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Lange Lozanastraat"
-    }, 
-    {
-      "busnrs": [
-        "B"
-      ], 
-      "hnrlbls": [
-        "147A-147_4"
-      ], 
-      "housenumber": "147_3", 
-      "lat": 51.201970888768, 
-      "lon": 4.40608871979, 
-      "municipality": "Antwerpen", 
-      "pcode": "2018", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Lange Lozanastraat"
-    }, 
-    {
-      "busnrs": [
-        "B"
-      ], 
-      "hnrlbls": [
-        "147A-147_4"
-      ], 
-      "housenumber": "147_4", 
-      "lat": 51.201970888768, 
-      "lon": 4.40608871979, 
-      "municipality": "Antwerpen", 
-      "pcode": "2018", 
-      "source": "manueleAanduidingVanGebouw", 
       "street": "Lange Lozanastraat"
     }, 
     {
@@ -1038,30 +926,28 @@
       "street": "Lange Lozanastraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "10", 
-        "11", 
-        "12", 
-        "13", 
-        "14", 
-        "15", 
-        "16", 
-        "17", 
-        "18", 
-        "19", 
-        "2", 
-        "20", 
-        "21", 
-        "22", 
-        "24", 
-        "3", 
-        "4", 
-        "5", 
-        "6", 
-        "7", 
-        "8", 
-        "9"
+      "apptnrs": [
+        "101", 
+        "102", 
+        "103", 
+        "104", 
+        "201", 
+        "202", 
+        "203", 
+        "204", 
+        "301", 
+        "302", 
+        "303", 
+        "304", 
+        "401", 
+        "402", 
+        "403", 
+        "404", 
+        "501", 
+        "502", 
+        "503", 
+        "504", 
+        "601"
       ], 
       "hnrlbls": [
         "76-157"
@@ -1076,25 +962,10 @@
     }, 
     {
       "busnrs": [
-        "B"
-      ], 
-      "hnrlbls": [
-        "153_4"
-      ], 
-      "housenumber": "153_4", 
-      "lat": 51.201796736549, 
-      "lon": 4.406225435438, 
-      "municipality": "Antwerpen", 
-      "pcode": "2018", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Lange Lozanastraat"
-    }, 
-    {
-      "busnrs": [
         "174"
       ], 
       "hnrlbls": [
-        "92-174"
+        "154-174"
       ], 
       "housenumber": "154", 
       "lat": 51.201737398713, 
@@ -1118,7 +989,7 @@
     }, 
     {
       "hnrlbls": [
-        "92-174"
+        "154-174"
       ], 
       "housenumber": "156", 
       "lat": 51.201737398713, 
@@ -1142,18 +1013,21 @@
     }, 
     {
       "busnrs": [
+        "1", 
         "10", 
         "11", 
         "12", 
+        "2", 
         "3", 
         "4", 
         "5", 
+        "6", 
         "7", 
         "8", 
         "9"
       ], 
       "hnrlbls": [
-        "92-174"
+        "154-174"
       ], 
       "housenumber": "158", 
       "lat": 51.201737398713, 
@@ -1180,7 +1054,7 @@
     }, 
     {
       "hnrlbls": [
-        "92-174"
+        "154-174"
       ], 
       "housenumber": "160", 
       "lat": 51.201737398713, 
@@ -1192,7 +1066,7 @@
     }, 
     {
       "hnrlbls": [
-        "92-174"
+        "154-174"
       ], 
       "housenumber": "162", 
       "lat": 51.201737398713, 
@@ -1204,7 +1078,7 @@
     }, 
     {
       "hnrlbls": [
-        "92-174"
+        "154-174"
       ], 
       "housenumber": "164", 
       "lat": 51.201737398713, 
@@ -1227,18 +1101,22 @@
       "street": "Lange Lozanastraat"
     }, 
     {
-      "apptnrs": [
-        "0.1", 
-        "0.2"
-      ], 
       "busnrs": [
+        "1", 
         "10", 
         "11", 
+        "12", 
+        "2", 
+        "3", 
         "4", 
-        "6"
+        "5", 
+        "6", 
+        "7", 
+        "8", 
+        "9"
       ], 
       "hnrlbls": [
-        "92-174"
+        "154-174"
       ], 
       "housenumber": "166", 
       "lat": 51.201737398713, 
@@ -1246,21 +1124,6 @@
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "afgeleidVanGebouw", 
-      "street": "Lange Lozanastraat"
-    }, 
-    {
-      "busnrs": [
-        "D"
-      ], 
-      "hnrlbls": [
-        "166_4-174_5"
-      ], 
-      "housenumber": "166_4", 
-      "lat": 51.201755053383, 
-      "lon": 4.405681910148, 
-      "municipality": "Antwerpen", 
-      "pcode": "2018", 
-      "source": "manueleAanduidingVanGebouw", 
       "street": "Lange Lozanastraat"
     }, 
     {
@@ -1277,7 +1140,7 @@
     }, 
     {
       "hnrlbls": [
-        "92-174"
+        "154-174"
       ], 
       "housenumber": "168", 
       "lat": 51.201737398713, 
@@ -1316,7 +1179,7 @@
     }, 
     {
       "hnrlbls": [
-        "92-174"
+        "154-174"
       ], 
       "housenumber": "170", 
       "lat": 51.201737398713, 
@@ -1340,7 +1203,7 @@
     }, 
     {
       "hnrlbls": [
-        "92-174"
+        "154-174"
       ], 
       "housenumber": "172", 
       "lat": 51.201737398713, 
@@ -1384,7 +1247,7 @@
         "9"
       ], 
       "hnrlbls": [
-        "92-174"
+        "154-174"
       ], 
       "housenumber": "174", 
       "lat": 51.201737398713, 
@@ -1392,21 +1255,6 @@
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "afgeleidVanGebouw", 
-      "street": "Lange Lozanastraat"
-    }, 
-    {
-      "busnrs": [
-        "A"
-      ], 
-      "hnrlbls": [
-        "166_4-174_5"
-      ], 
-      "housenumber": "174_5", 
-      "lat": 51.201755053383, 
-      "lon": 4.405681910148, 
-      "municipality": "Antwerpen", 
-      "pcode": "2018", 
-      "source": "manueleAanduidingVanGebouw", 
       "street": "Lange Lozanastraat"
     }, 
     {
@@ -1422,16 +1270,18 @@
       "street": "Lange Lozanastraat"
     }, 
     {
-      "busnrs": [
-        "182", 
-        "3", 
-        "3A", 
-        "3B", 
-        "4", 
-        "B"
+      "apptnrs": [
+        "002", 
+        "101", 
+        "102", 
+        "201", 
+        "202", 
+        "301", 
+        "302", 
+        "401"
       ], 
       "hnrlbls": [
-        "176-182"
+        "176"
       ], 
       "housenumber": "176", 
       "lat": 51.201470822533, 
@@ -1442,72 +1292,12 @@
       "street": "Lange Lozanastraat"
     }, 
     {
-      "busnrs": [
-        "A"
-      ], 
       "hnrlbls": [
-        "176_3"
-      ], 
-      "housenumber": "176_3", 
-      "lat": 51.201465389992, 
-      "lon": 4.405877950042, 
-      "municipality": "Antwerpen", 
-      "pcode": "2018", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Lange Lozanastraat"
-    }, 
-    {
-      "hnrlbls": [
-        "177-177B"
+        "177"
       ], 
       "housenumber": "177", 
-      "lat": 51.201192077309, 
-      "lon": 4.406889118318, 
-      "municipality": "Antwerpen", 
-      "pcode": "2018", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Lange Lozanastraat"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "4", 
-        "5"
-      ], 
-      "hnrlbls": [
-        "177-177B"
-      ], 
-      "housenumber": "177A", 
-      "lat": 51.201192077309, 
-      "lon": 4.406889118318, 
-      "municipality": "Antwerpen", 
-      "pcode": "2018", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Lange Lozanastraat"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
-      "hnrlbls": [
-        "177-177B"
-      ], 
-      "housenumber": "177B", 
-      "lat": 51.201192077309, 
-      "lon": 4.406889118318, 
-      "municipality": "Antwerpen", 
-      "pcode": "2018", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Lange Lozanastraat"
-    }, 
-    {
-      "hnrlbls": [
-        "178-180"
-      ], 
-      "housenumber": "178", 
-      "lat": 51.20146380852, 
-      "lon": 4.405859540964, 
+      "lat": 51.201192113251, 
+      "lon": 4.406889155547, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1530,21 +1320,6 @@
         "2"
       ], 
       "hnrlbls": [
-        "17B"
-      ], 
-      "housenumber": "17B", 
-      "lat": 51.20642133278, 
-      "lon": 4.402523787068, 
-      "municipality": "Antwerpen", 
-      "pcode": "2018", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Lange Lozanastraat"
-    }, 
-    {
-      "busnrs": [
-        "2"
-      ], 
-      "hnrlbls": [
         "18"
       ], 
       "housenumber": "18", 
@@ -1553,18 +1328,6 @@
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Lange Lozanastraat"
-    }, 
-    {
-      "hnrlbls": [
-        "178-180"
-      ], 
-      "housenumber": "180", 
-      "lat": 51.20146380852, 
-      "lon": 4.405859540964, 
-      "municipality": "Antwerpen", 
-      "pcode": "2018", 
-      "source": "manueleAanduidingVanGebouw", 
       "street": "Lange Lozanastraat"
     }, 
     {
@@ -1584,23 +1347,11 @@
         "181A"
       ], 
       "housenumber": "181A", 
-      "lat": 51.201021117753, 
-      "lon": 4.407591381401, 
+      "lat": 51.201021099785, 
+      "lon": 4.407591352771, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "manueleAanduidingVanGebouw", 
-      "street": "Lange Lozanastraat"
-    }, 
-    {
-      "hnrlbls": [
-        "176-182"
-      ], 
-      "housenumber": "182", 
-      "lat": 51.201470822533, 
-      "lon": 4.405850103817, 
-      "municipality": "Antwerpen", 
-      "pcode": "2018", 
-      "source": "afgeleidVanGebouw", 
       "street": "Lange Lozanastraat"
     }, 
     {
@@ -1619,15 +1370,12 @@
       "street": "Lange Lozanastraat"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
         "185"
       ], 
       "housenumber": "185", 
-      "lat": 51.200847935789, 
-      "lon": 4.407190320265, 
+      "lat": 51.200848025721, 
+      "lon": 4.407190177269, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "afgeleidVanGebouw", 
@@ -1638,8 +1386,8 @@
         "185B-185E"
       ], 
       "housenumber": "185B", 
-      "lat": 51.200775112464, 
-      "lon": 4.407083513853, 
+      "lat": 51.200775074707, 
+      "lon": 4.407083528129, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1650,8 +1398,8 @@
         "185B-185E"
       ], 
       "housenumber": "185C", 
-      "lat": 51.200775112464, 
-      "lon": 4.407083513853, 
+      "lat": 51.200775074707, 
+      "lon": 4.407083528129, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1662,8 +1410,8 @@
         "185B-185E"
       ], 
       "housenumber": "185E", 
-      "lat": 51.200775112464, 
-      "lon": 4.407083513853, 
+      "lat": 51.200775074707, 
+      "lon": 4.407083528129, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1862,8 +1610,8 @@
         "197_4"
       ], 
       "housenumber": "197_4", 
-      "lat": 51.200466390601, 
-      "lon": 4.406990178461, 
+      "lat": 51.200466351966, 
+      "lon": 4.406990131216, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "manueleAanduidingVanGebouw", 
@@ -2028,8 +1776,8 @@
         "205"
       ], 
       "housenumber": "205", 
-      "lat": 51.20019213636, 
-      "lon": 4.407195063745, 
+      "lat": 51.200192136273, 
+      "lon": 4.407195063716, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "manueleAanduidingVanPerceel", 
@@ -2048,8 +1796,11 @@
       "street": "Lange Lozanastraat"
     }, 
     {
-      "busnrs": [
-        "4"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301"
       ], 
       "hnrlbls": [
         "208"
@@ -2190,8 +1941,8 @@
         "218"
       ], 
       "housenumber": "218", 
-      "lat": 51.200103045622, 
-      "lon": 4.405860441286, 
+      "lat": 51.200102685581, 
+      "lon": 4.405862014753, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "afgeleidVanGebouw", 
@@ -2447,210 +2198,6 @@
       "street": "Lange Lozanastraat"
     }, 
     {
-      "busnrs": [
-        "6", 
-        "7"
-      ], 
-      "hnrlbls": [
-        "233A-233_7"
-      ], 
-      "housenumber": "233A", 
-      "lat": 51.198712575705, 
-      "lon": 4.407986092143, 
-      "municipality": "Antwerpen", 
-      "pcode": "2018", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Lange Lozanastraat"
-    }, 
-    {
-      "busnrs": [
-        "6"
-      ], 
-      "hnrlbls": [
-        "233A-233_7"
-      ], 
-      "housenumber": "233B", 
-      "lat": 51.198712575705, 
-      "lon": 4.407986092143, 
-      "municipality": "Antwerpen", 
-      "pcode": "2018", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Lange Lozanastraat"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
-      "hnrlbls": [
-        "233A-233_7"
-      ], 
-      "housenumber": "233C", 
-      "lat": 51.198712575705, 
-      "lon": 4.407986092143, 
-      "municipality": "Antwerpen", 
-      "pcode": "2018", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Lange Lozanastraat"
-    }, 
-    {
-      "busnrs": [
-        "4"
-      ], 
-      "hnrlbls": [
-        "233A-233_7"
-      ], 
-      "housenumber": "233D", 
-      "lat": 51.198712575705, 
-      "lon": 4.407986092143, 
-      "municipality": "Antwerpen", 
-      "pcode": "2018", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Lange Lozanastraat"
-    }, 
-    {
-      "busnrs": [
-        "2"
-      ], 
-      "hnrlbls": [
-        "233A-233_7"
-      ], 
-      "housenumber": "233G", 
-      "lat": 51.198712575705, 
-      "lon": 4.407986092143, 
-      "municipality": "Antwerpen", 
-      "pcode": "2018", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Lange Lozanastraat"
-    }, 
-    {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "233A-233_7"
-      ], 
-      "housenumber": "233H", 
-      "lat": 51.198712575705, 
-      "lon": 4.407986092143, 
-      "municipality": "Antwerpen", 
-      "pcode": "2018", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Lange Lozanastraat"
-    }, 
-    {
-      "busnrs": [
-        "C", 
-        "G", 
-        "M"
-      ], 
-      "hnrlbls": [
-        "233A-233_7"
-      ], 
-      "housenumber": "233_1", 
-      "lat": 51.198712575705, 
-      "lon": 4.407986092143, 
-      "municipality": "Antwerpen", 
-      "pcode": "2018", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Lange Lozanastraat"
-    }, 
-    {
-      "busnrs": [
-        "A", 
-        "B", 
-        "M"
-      ], 
-      "hnrlbls": [
-        "233A-233_7"
-      ], 
-      "housenumber": "233_2", 
-      "lat": 51.198712575705, 
-      "lon": 4.407986092143, 
-      "municipality": "Antwerpen", 
-      "pcode": "2018", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Lange Lozanastraat"
-    }, 
-    {
-      "busnrs": [
-        "A"
-      ], 
-      "hnrlbls": [
-        "233A-233_7"
-      ], 
-      "housenumber": "233_3", 
-      "lat": 51.198712575705, 
-      "lon": 4.407986092143, 
-      "municipality": "Antwerpen", 
-      "pcode": "2018", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Lange Lozanastraat"
-    }, 
-    {
-      "busnrs": [
-        "A", 
-        "G"
-      ], 
-      "hnrlbls": [
-        "233A-233_7"
-      ], 
-      "housenumber": "233_4", 
-      "lat": 51.198712575705, 
-      "lon": 4.407986092143, 
-      "municipality": "Antwerpen", 
-      "pcode": "2018", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Lange Lozanastraat"
-    }, 
-    {
-      "busnrs": [
-        "A", 
-        "H"
-      ], 
-      "hnrlbls": [
-        "233A-233_7"
-      ], 
-      "housenumber": "233_5", 
-      "lat": 51.198712575705, 
-      "lon": 4.407986092143, 
-      "municipality": "Antwerpen", 
-      "pcode": "2018", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Lange Lozanastraat"
-    }, 
-    {
-      "busnrs": [
-        "N", 
-        "c"
-      ], 
-      "hnrlbls": [
-        "233A-233_7"
-      ], 
-      "housenumber": "233_6", 
-      "lat": 51.198712575705, 
-      "lon": 4.407986092143, 
-      "municipality": "Antwerpen", 
-      "pcode": "2018", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Lange Lozanastraat"
-    }, 
-    {
-      "busnrs": [
-        "G"
-      ], 
-      "hnrlbls": [
-        "233A-233_7"
-      ], 
-      "housenumber": "233_7", 
-      "lat": 51.198712575705, 
-      "lon": 4.407986092143, 
-      "municipality": "Antwerpen", 
-      "pcode": "2018", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Lange Lozanastraat"
-    }, 
-    {
       "hnrlbls": [
         "234"
       ], 
@@ -2836,36 +2383,6 @@
       "street": "Lange Lozanastraat"
     }, 
     {
-      "busnrs": [
-        "3"
-      ], 
-      "hnrlbls": [
-        "246B-246_2"
-      ], 
-      "housenumber": "246B", 
-      "lat": 51.199447218009, 
-      "lon": 4.405946906033, 
-      "municipality": "Antwerpen", 
-      "pcode": "2018", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Lange Lozanastraat"
-    }, 
-    {
-      "busnrs": [
-        "A"
-      ], 
-      "hnrlbls": [
-        "246B-246_2"
-      ], 
-      "housenumber": "246_2", 
-      "lat": 51.199447218009, 
-      "lon": 4.405946906033, 
-      "municipality": "Antwerpen", 
-      "pcode": "2018", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Lange Lozanastraat"
-    }, 
-    {
       "hnrlbls": [
         "233-247"
       ], 
@@ -2910,8 +2427,8 @@
         "249B"
       ], 
       "housenumber": "249B", 
-      "lat": 51.198209874723, 
-      "lon": 4.408135851079, 
+      "lat": 51.198209864818, 
+      "lon": 4.408135901143, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "manueleAanduidingVanGebouw", 
@@ -3041,21 +2558,6 @@
       "street": "Lange Lozanastraat"
     }, 
     {
-      "apptnrs": [
-        "5.5"
-      ], 
-      "hnrlbls": [
-        "260B"
-      ], 
-      "housenumber": "260B", 
-      "lat": 51.199249587818, 
-      "lon": 4.406718386965, 
-      "municipality": "Antwerpen", 
-      "pcode": "2018", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Lange Lozanastraat"
-    }, 
-    {
       "hnrlbls": [
         "250-266"
       ], 
@@ -3137,90 +2639,85 @@
       "street": "Lange Lozanastraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4"
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301"
       ], 
       "hnrlbls": [
-        "280-288"
+        "280"
       ], 
       "housenumber": "280", 
-      "lat": 51.198373759581, 
-      "lon": 4.407227158231, 
+      "lat": 51.198489266408, 
+      "lon": 4.407211947357, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "afgeleidVanGebouw", 
       "street": "Lange Lozanastraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4"
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301"
       ], 
       "hnrlbls": [
-        "280-288"
+        "282"
       ], 
       "housenumber": "282", 
-      "lat": 51.198373759581, 
-      "lon": 4.407227158231, 
+      "lat": 51.198437131567, 
+      "lon": 4.407217196965, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "afgeleidVanGebouw", 
       "street": "Lange Lozanastraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4"
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301"
       ], 
       "hnrlbls": [
-        "280-288"
+        "284"
       ], 
       "housenumber": "284", 
-      "lat": 51.198373759581, 
-      "lon": 4.407227158231, 
+      "lat": 51.198373309826, 
+      "lon": 4.407228159299, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "afgeleidVanGebouw", 
       "street": "Lange Lozanastraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4"
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301"
       ], 
       "hnrlbls": [
-        "280-288"
+        "286"
       ], 
       "housenumber": "286", 
-      "lat": 51.198373759581, 
-      "lon": 4.407227158231, 
+      "lat": 51.198310027864, 
+      "lon": 4.407237691422, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "afgeleidVanGebouw", 
       "street": "Lange Lozanastraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4"
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301"
       ], 
       "hnrlbls": [
-        "280-288"
+        "288"
       ], 
       "housenumber": "288", 
-      "lat": 51.198373759581, 
-      "lon": 4.407227158231, 
+      "lat": 51.198258343058, 
+      "lon": 4.407241081536, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "afgeleidVanGebouw", 
@@ -3304,8 +2801,8 @@
         "298-298A"
       ], 
       "housenumber": "298", 
-      "lat": 51.197811210366, 
-      "lon": 4.407388670708, 
+      "lat": 51.197811207683, 
+      "lon": 4.407388632079, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "manueleAanduidingVanGebouw", 
@@ -3316,8 +2813,8 @@
         "298-298A"
       ], 
       "housenumber": "298A", 
-      "lat": 51.197811210366, 
-      "lon": 4.407388670708, 
+      "lat": 51.197811207683, 
+      "lon": 4.407388632079, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "manueleAanduidingVanGebouw", 
@@ -3477,6 +2974,12 @@
       "street": "Lange Lozanastraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
         "4"
       ], 
@@ -3489,8 +2992,13 @@
       "street": "Lange Lozanastraat"
     }, 
     {
-      "busnrs": [
-        "3"
+      "apptnrs": [
+        "101", 
+        "102", 
+        "201", 
+        "202", 
+        "301", 
+        "302"
       ], 
       "hnrlbls": [
         "40-42"
@@ -3501,36 +3009,6 @@
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "afgeleidVanGebouw", 
-      "street": "Lange Lozanastraat"
-    }, 
-    {
-      "busnrs": [
-        "3"
-      ], 
-      "hnrlbls": [
-        "40L-40_3"
-      ], 
-      "housenumber": "40L", 
-      "lat": 51.205409607832, 
-      "lon": 4.403591192584, 
-      "municipality": "Antwerpen", 
-      "pcode": "2018", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Lange Lozanastraat"
-    }, 
-    {
-      "busnrs": [
-        "L"
-      ], 
-      "hnrlbls": [
-        "40L-40_3"
-      ], 
-      "housenumber": "40_3", 
-      "lat": 51.205409607832, 
-      "lon": 4.403591192584, 
-      "municipality": "Antwerpen", 
-      "pcode": "2018", 
-      "source": "manueleAanduidingVanGebouw", 
       "street": "Lange Lozanastraat"
     }, 
     {
@@ -3685,8 +3163,11 @@
       "street": "Lange Lozanastraat"
     }, 
     {
-      "busnrs": [
-        "4"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301"
       ], 
       "hnrlbls": [
         "52"
@@ -3928,12 +3409,15 @@
       "street": "Lange Lozanastraat"
     }, 
     {
+      "busnrs": [
+        "41"
+      ], 
       "hnrlbls": [
         "67B"
       ], 
       "housenumber": "67B", 
-      "lat": 51.205389782024, 
-      "lon": 4.404113607372, 
+      "lat": 51.205389789202, 
+      "lon": 4.404113648872, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "manueleAanduidingVanGebouw", 
@@ -3960,7 +3444,7 @@
         "42"
       ], 
       "hnrlbls": [
-        "67C"
+        "67C-108"
       ], 
       "housenumber": "67C", 
       "lat": 51.205187211707, 
@@ -3986,23 +3470,20 @@
       "street": "Lange Lozanastraat"
     }, 
     {
-      "busnrs": [
-        "4"
-      ], 
       "hnrlbls": [
         "7"
       ], 
       "housenumber": "7", 
-      "lat": 51.206577726467, 
-      "lon": 4.402213202336, 
+      "lat": 51.206496605857, 
+      "lon": 4.402057176347, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Lange Lozanastraat"
     }, 
     {
       "hnrlbls": [
-        "70"
+        "2-70"
       ], 
       "housenumber": "70", 
       "lat": 51.204634441401, 
@@ -4080,8 +3561,8 @@
         "79"
       ], 
       "housenumber": "79", 
-      "lat": 51.204267199123, 
-      "lon": 4.404773389514, 
+      "lat": 51.204267199169, 
+      "lon": 4.404773389717, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "manueleAanduidingVanPerceel", 
@@ -4092,11 +3573,11 @@
         "7A"
       ], 
       "housenumber": "7A", 
-      "lat": 51.206525925938, 
-      "lon": 4.402095358045, 
+      "lat": 51.206478976993, 
+      "lon": 4.402097228294, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Lange Lozanastraat"
     }, 
     {
@@ -4267,6 +3748,12 @@
       "street": "Lange Lozanastraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
         "92"
       ], 
@@ -4357,9 +3844,6 @@
       "street": "Lange Lozanastraat"
     }, 
     {
-      "busnrs": [
-        "2"
-      ], 
       "hnrlbls": [
         "98"
       ], 

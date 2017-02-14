@@ -13,6 +13,12 @@
       "street": "Gelmelstraat"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4"
+      ], 
       "hnrlbls": [
         "101"
       ], 
@@ -25,6 +31,11 @@
       "street": "Gelmelstraat"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3"
+      ], 
       "hnrlbls": [
         "103"
       ], 
@@ -76,8 +87,8 @@
         "107"
       ], 
       "housenumber": "107", 
-      "lat": 51.403608228352, 
-      "lon": 4.769884967247, 
+      "lat": 51.403650388783, 
+      "lon": 4.769882745469, 
       "municipality": "Hoogstraten", 
       "pcode": "2320", 
       "source": "afgeleidVanGebouw", 
@@ -108,8 +119,8 @@
         "109B"
       ], 
       "housenumber": "109B", 
-      "lat": 51.404621732852, 
-      "lon": 4.770643281685, 
+      "lat": 51.404616243131, 
+      "lon": 4.770645389612, 
       "municipality": "Hoogstraten", 
       "pcode": "2320", 
       "source": "afgeleidVanPerceelGrb", 
@@ -216,8 +227,8 @@
         "121"
       ], 
       "housenumber": "121", 
-      "lat": 51.403529718446, 
-      "lon": 4.772386784217, 
+      "lat": 51.403544624097, 
+      "lon": 4.772390937527, 
       "municipality": "Hoogstraten", 
       "pcode": "2320", 
       "source": "afgeleidVanGebouw", 
@@ -264,8 +275,8 @@
         "131"
       ], 
       "housenumber": "131", 
-      "lat": 51.401775975288, 
-      "lon": 4.780030607256, 
+      "lat": 51.40177082716, 
+      "lon": 4.780089619166, 
       "municipality": "Hoogstraten", 
       "pcode": "2320", 
       "source": "afgeleidVanPerceelGrb", 
@@ -276,11 +287,11 @@
         "1"
       ], 
       "hnrlbls": [
-        "14"
+        "14-16"
       ], 
       "housenumber": "14", 
-      "lat": 51.40164286325, 
-      "lon": 4.762849727107, 
+      "lat": 51.401642827118, 
+      "lon": 4.7628497648, 
       "municipality": "Hoogstraten", 
       "pcode": "2320", 
       "source": "afgeleidVanGebouw", 
@@ -288,6 +299,7 @@
     }, 
     {
       "busnrs": [
+        "2", 
         "3", 
         "5"
       ], 
@@ -304,7 +316,7 @@
     }, 
     {
       "hnrlbls": [
-        "16"
+        "14-16"
       ], 
       "housenumber": "16", 
       "lat": 51.401642827118, 
@@ -349,8 +361,8 @@
         "19-19A"
       ], 
       "housenumber": "19", 
-      "lat": 51.402011304094, 
-      "lon": 4.763287157284, 
+      "lat": 51.402011310815, 
+      "lon": 4.763287137268, 
       "municipality": "Hoogstraten", 
       "pcode": "2320", 
       "source": "afgeleidVanGebouw", 
@@ -361,8 +373,8 @@
         "19-19A"
       ], 
       "housenumber": "19A", 
-      "lat": 51.402011304094, 
-      "lon": 4.763287157284, 
+      "lat": 51.402011310815, 
+      "lon": 4.763287137268, 
       "municipality": "Hoogstraten", 
       "pcode": "2320", 
       "source": "afgeleidVanGebouw", 
@@ -500,6 +512,7 @@
         "5", 
         "6", 
         "7", 
+        "8", 
         "9"
       ], 
       "hnrlbls": [
@@ -534,8 +547,8 @@
         "3"
       ], 
       "housenumber": "3", 
-      "lat": 51.401776758275, 
-      "lon": 4.762169802099, 
+      "lat": 51.401776668399, 
+      "lon": 4.762169801336, 
       "municipality": "Hoogstraten", 
       "pcode": "2320", 
       "source": "afgeleidVanGebouw", 
@@ -674,8 +687,8 @@
         "4"
       ], 
       "housenumber": "4", 
-      "lat": 51.401542919776, 
-      "lon": 4.762029385311, 
+      "lat": 51.401542911453, 
+      "lon": 4.762029442788, 
       "municipality": "Hoogstraten", 
       "pcode": "2320", 
       "source": "manueleAanduidingVanGebouw", 
@@ -713,8 +726,8 @@
         "42"
       ], 
       "housenumber": "42", 
-      "lat": 51.402110218986, 
-      "lon": 4.765087025184, 
+      "lat": 51.402110192595, 
+      "lon": 4.765087018655, 
       "municipality": "Hoogstraten", 
       "pcode": "2320", 
       "source": "manueleAanduidingVanLot", 
@@ -849,7 +862,7 @@
         "2"
       ], 
       "hnrlbls": [
-        "52-52A"
+        "52"
       ], 
       "housenumber": "52", 
       "lat": 51.402404761207, 
@@ -857,18 +870,6 @@
       "municipality": "Hoogstraten", 
       "pcode": "2320", 
       "source": "afgeleidVanGebouw", 
-      "street": "Gelmelstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "52-52A"
-      ], 
-      "housenumber": "52A", 
-      "lat": 51.402404761207, 
-      "lon": 4.765988487838, 
-      "municipality": "Hoogstraten", 
-      "pcode": "2320", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Gelmelstraat"
     }, 
     {
@@ -948,8 +949,8 @@
         "59"
       ], 
       "housenumber": "59", 
-      "lat": 51.402569061712, 
-      "lon": 4.765665720323, 
+      "lat": 51.402568528714, 
+      "lon": 4.765663847728, 
       "municipality": "Hoogstraten", 
       "pcode": "2320", 
       "source": "afgeleidVanGebouw", 
@@ -963,8 +964,8 @@
         "6"
       ], 
       "housenumber": "6", 
-      "lat": 51.40156166745, 
-      "lon": 4.762143857987, 
+      "lat": 51.40156167582, 
+      "lon": 4.762143836756, 
       "municipality": "Hoogstraten", 
       "pcode": "2320", 
       "source": "manueleAanduidingVanGebouw", 
@@ -987,11 +988,11 @@
         "61"
       ], 
       "housenumber": "61", 
-      "lat": 51.402562767154, 
-      "lon": 4.765827610359, 
+      "lat": 51.402572546755, 
+      "lon": 4.765832723435, 
       "municipality": "Hoogstraten", 
       "pcode": "2320", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Gelmelstraat"
     }, 
     {
@@ -1011,8 +1012,8 @@
         "62A"
       ], 
       "housenumber": "62A", 
-      "lat": 51.402292602019, 
-      "lon": 4.77107443431, 
+      "lat": 51.4023010068, 
+      "lon": 4.77106085632, 
       "municipality": "Hoogstraten", 
       "pcode": "2320", 
       "source": "afgeleidVanPerceelGrb", 
@@ -1023,11 +1024,11 @@
         "63"
       ], 
       "housenumber": "63", 
-      "lat": 51.40259529236, 
-      "lon": 4.765777164667, 
+      "lat": 51.402601754746, 
+      "lon": 4.765779806516, 
       "municipality": "Hoogstraten", 
       "pcode": "2320", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Gelmelstraat"
     }, 
     {
@@ -1035,8 +1036,8 @@
         "63A"
       ], 
       "housenumber": "63A", 
-      "lat": 51.402656852214, 
-      "lon": 4.765683504083, 
+      "lat": 51.402656813008, 
+      "lon": 4.765683571295, 
       "municipality": "Hoogstraten", 
       "pcode": "2320", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1047,8 +1048,8 @@
         "63B"
       ], 
       "housenumber": "63B", 
-      "lat": 51.40268748759, 
-      "lon": 4.765741100828, 
+      "lat": 51.402687448322, 
+      "lon": 4.765741167925, 
       "municipality": "Hoogstraten", 
       "pcode": "2320", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1059,8 +1060,8 @@
         "63C"
       ], 
       "housenumber": "63C", 
-      "lat": 51.402721258483, 
-      "lon": 4.765801742108, 
+      "lat": 51.402721219148, 
+      "lon": 4.765801809084, 
       "municipality": "Hoogstraten", 
       "pcode": "2320", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1071,8 +1072,8 @@
         "63D"
       ], 
       "housenumber": "63D", 
-      "lat": 51.402761949788, 
-      "lon": 4.765862442754, 
+      "lat": 51.402761910372, 
+      "lon": 4.765862509608, 
       "municipality": "Hoogstraten", 
       "pcode": "2320", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1095,11 +1096,11 @@
         "65"
       ], 
       "housenumber": "65", 
-      "lat": 51.402622139203, 
-      "lon": 4.765865623234, 
+      "lat": 51.402630660542, 
+      "lon": 4.765870725547, 
       "municipality": "Hoogstraten", 
       "pcode": "2320", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Gelmelstraat"
     }, 
     {
@@ -1119,20 +1120,20 @@
         "67"
       ], 
       "housenumber": "67", 
-      "lat": 51.402652529845, 
-      "lon": 4.765915745707, 
+      "lat": 51.402663549883, 
+      "lon": 4.765926186154, 
       "municipality": "Hoogstraten", 
       "pcode": "2320", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Gelmelstraat"
     }, 
     {
       "hnrlbls": [
-        "68"
+        "68-68A"
       ], 
       "housenumber": "68", 
-      "lat": 51.403018141231, 
-      "lon": 4.772410207416, 
+      "lat": 51.403018501712, 
+      "lon": 4.772409923163, 
       "municipality": "Hoogstraten", 
       "pcode": "2320", 
       "source": "afgeleidVanGebouw", 
@@ -1143,11 +1144,11 @@
         "69"
       ], 
       "housenumber": "69", 
-      "lat": 51.402681140862, 
-      "lon": 4.766014134541, 
+      "lat": 51.402687874314, 
+      "lon": 4.766016347666, 
       "municipality": "Hoogstraten", 
       "pcode": "2320", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Gelmelstraat"
     }, 
     {
@@ -1187,11 +1188,11 @@
         "71"
       ], 
       "housenumber": "71", 
-      "lat": 51.402710451812, 
-      "lon": 4.765957338725, 
+      "lat": 51.402722491785, 
+      "lon": 4.765958447745, 
       "municipality": "Hoogstraten", 
       "pcode": "2320", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Gelmelstraat"
     }, 
     {
@@ -1271,8 +1272,8 @@
         "76A"
       ], 
       "housenumber": "76A", 
-      "lat": 51.401822429751, 
-      "lon": 4.775530002133, 
+      "lat": 51.401822427444, 
+      "lon": 4.775529994343, 
       "municipality": "Hoogstraten", 
       "pcode": "2320", 
       "source": "afgeleidVanGebouw", 
@@ -1283,8 +1284,8 @@
         "77"
       ], 
       "housenumber": "77", 
-      "lat": 51.403085198997, 
-      "lon": 4.766505171341, 
+      "lat": 51.403085204332, 
+      "lon": 4.766505158547, 
       "municipality": "Hoogstraten", 
       "pcode": "2320", 
       "source": "afgeleidVanGebouw", 
@@ -1323,8 +1324,8 @@
         "79"
       ], 
       "housenumber": "79", 
-      "lat": 51.40322143736, 
-      "lon": 4.766561945797, 
+      "lat": 51.403221448958, 
+      "lon": 4.766561938101, 
       "municipality": "Hoogstraten", 
       "pcode": "2320", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1387,8 +1388,8 @@
         "83"
       ], 
       "housenumber": "83", 
-      "lat": 51.403418653975, 
-      "lon": 4.766957096749, 
+      "lat": 51.403418662956, 
+      "lon": 4.766957073717, 
       "municipality": "Hoogstraten", 
       "pcode": "2320", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1399,8 +1400,8 @@
         "84"
       ], 
       "housenumber": "84", 
-      "lat": 51.400698800748, 
-      "lon": 4.776461874319, 
+      "lat": 51.400700340005, 
+      "lon": 4.776458583006, 
       "municipality": "Hoogstraten", 
       "pcode": "2320", 
       "source": "afgeleidVanPerceelGrb", 
@@ -1443,8 +1444,8 @@
         "86"
       ], 
       "housenumber": "86", 
-      "lat": 51.400764606587, 
-      "lon": 4.776733918865, 
+      "lat": 51.40076464427, 
+      "lon": 4.776733882303, 
       "municipality": "Hoogstraten", 
       "pcode": "2320", 
       "source": "afgeleidVanGebouw", 
@@ -1476,8 +1477,8 @@
         "88"
       ], 
       "housenumber": "88", 
-      "lat": 51.40065660288, 
-      "lon": 4.776778075149, 
+      "lat": 51.400656638076, 
+      "lon": 4.776778050247, 
       "municipality": "Hoogstraten", 
       "pcode": "2320", 
       "source": "afgeleidVanGebouw", 
@@ -1488,8 +1489,8 @@
         "89"
       ], 
       "housenumber": "89", 
-      "lat": 51.403726558197, 
-      "lon": 4.767686831817, 
+      "lat": 51.403726106884, 
+      "lon": 4.767687402727, 
       "municipality": "Hoogstraten", 
       "pcode": "2320", 
       "source": "afgeleidVanGebouw", 
@@ -1512,8 +1513,8 @@
         "90"
       ], 
       "housenumber": "90", 
-      "lat": 51.400592711135, 
-      "lon": 4.7768253806, 
+      "lat": 51.400592751437, 
+      "lon": 4.776825336374, 
       "municipality": "Hoogstraten", 
       "pcode": "2320", 
       "source": "afgeleidVanGebouw", 
@@ -1544,8 +1545,8 @@
         "92"
       ], 
       "housenumber": "92", 
-      "lat": 51.399737967529, 
-      "lon": 4.775843909173, 
+      "lat": 51.399739156645, 
+      "lon": 4.775837884798, 
       "municipality": "Hoogstraten", 
       "pcode": "2320", 
       "source": "afgeleidVanPerceelGrb", 

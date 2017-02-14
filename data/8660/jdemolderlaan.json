@@ -1,56 +1,23 @@
 {
   "addresses": [
     {
-      "busnrs": [
-        "1", 
-        "1101", 
-        "1201", 
-        "1301", 
-        "1401", 
-        "1402", 
-        "1501", 
-        "1601", 
-        "2"
+      "apptnrs": [
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "G001", 
+        "G002"
       ], 
       "hnrlbls": [
-        "1"
-      ], 
-      "housenumber": "1", 
-      "lat": 51.100794472657, 
-      "lon": 2.592736428973, 
-      "municipality": "De Panne", 
-      "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
-      "street": "J. Demolderlaan"
-    }, 
-    {
-      "busnrs": [
-        "102"
-      ], 
-      "hnrlbls": [
-        "10-10G"
+        "10"
       ], 
       "housenumber": "10", 
       "lat": 51.100541765604, 
       "lon": 2.59291825018, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
-      "street": "J. Demolderlaan"
-    }, 
-    {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "10-10G"
-      ], 
-      "housenumber": "10G", 
-      "lat": 51.100541765604, 
-      "lon": 2.59291825018, 
-      "municipality": "De Panne", 
-      "pcode": "8660", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "J. Demolderlaan"
     }, 
     {
@@ -62,12 +29,13 @@
       "lon": 2.594219209812, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "J. Demolderlaan"
     }, 
     {
-      "busnrs": [
-        "101"
+      "apptnrs": [
+        "0101", 
+        "W001"
       ], 
       "hnrlbls": [
         "12"
@@ -77,7 +45,7 @@
       "lon": 2.593031183652, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "J. Demolderlaan"
     }, 
     {
@@ -89,37 +57,24 @@
       "lon": 2.594711437997, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "J. Demolderlaan"
     }, 
     {
-      "busnrs": [
-        "201"
+      "apptnrs": [
+        "0101", 
+        "0201", 
+        "G001"
       ], 
       "hnrlbls": [
-        "14-14G"
+        "14"
       ], 
       "housenumber": "14", 
       "lat": 51.100532007561, 
       "lon": 2.593130115117, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
-      "street": "J. Demolderlaan"
-    }, 
-    {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "14-14G"
-      ], 
-      "housenumber": "14G", 
-      "lat": 51.100532007561, 
-      "lon": 2.593130115117, 
-      "municipality": "De Panne", 
-      "pcode": "8660", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "J. Demolderlaan"
     }, 
     {
@@ -131,43 +86,47 @@
       "lon": 2.594967714013, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "J. Demolderlaan"
     }, 
     {
-      "busnrs": [
-        "1101", 
-        "2101", 
-        "2102", 
-        "2201", 
-        "2202", 
-        "2301", 
-        "2302"
+      "apptnrs": [
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "G001"
       ], 
       "hnrlbls": [
-        "16-16G"
+        "16_1"
       ], 
-      "housenumber": "16", 
+      "housenumber": "16_1", 
       "lat": 51.100486993643, 
       "lon": 2.593245782788, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "J. Demolderlaan"
     }, 
     {
-      "busnrs": [
-        "1"
+      "apptnrs": [
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302", 
+        "G001"
       ], 
       "hnrlbls": [
-        "16-16G"
+        "16_2-37"
       ], 
-      "housenumber": "16G", 
-      "lat": 51.100486993643, 
-      "lon": 2.593245782788, 
+      "housenumber": "16_2", 
+      "lat": 51.100523913224, 
+      "lon": 2.59336890694, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "J. Demolderlaan"
     }, 
     {
@@ -179,7 +138,7 @@
       "lon": 2.595180973453, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "J. Demolderlaan"
     }, 
     {
@@ -191,13 +150,45 @@
       "lon": 2.59383763143, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "J. Demolderlaan"
     }, 
     {
-      "busnrs": [
-        "101"
+      "apptnrs": [
+        "0101", 
+        "0201", 
+        "0301", 
+        "0302", 
+        "0401", 
+        "0402", 
+        "0501", 
+        "0601", 
+        "G001"
       ], 
+      "hnrlbls": [
+        "1_1-130"
+      ], 
+      "housenumber": "1_1", 
+      "lat": 51.10077154863, 
+      "lon": 2.592599349221, 
+      "municipality": "De Panne", 
+      "pcode": "8660", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "J. Demolderlaan"
+    }, 
+    {
+      "hnrlbls": [
+        "1_2"
+      ], 
+      "housenumber": "1_2", 
+      "lat": 51.100817394375, 
+      "lon": 2.592873366135, 
+      "municipality": "De Panne", 
+      "pcode": "8660", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "J. Demolderlaan"
+    }, 
+    {
       "hnrlbls": [
         "20"
       ], 
@@ -206,7 +197,7 @@
       "lon": 2.594067638545, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "J. Demolderlaan"
     }, 
     {
@@ -218,7 +209,7 @@
       "lon": 2.594194715171, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "J. Demolderlaan"
     }, 
     {
@@ -230,7 +221,7 @@
       "lon": 2.594548376745, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "J. Demolderlaan"
     }, 
     {
@@ -242,7 +233,7 @@
       "lon": 2.594795925363, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "J. Demolderlaan"
     }, 
     {
@@ -254,13 +245,15 @@
       "lon": 2.594890411243, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "J. Demolderlaan"
     }, 
     {
-      "busnrs": [
-        "101", 
-        "201"
+      "apptnrs": [
+        "0101", 
+        "0201", 
+        "G001", 
+        "K001"
       ], 
       "hnrlbls": [
         "3"
@@ -270,7 +263,7 @@
       "lon": 2.592978584944, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "J. Demolderlaan"
     }, 
     {
@@ -282,7 +275,7 @@
       "lon": 2.595071413633, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "J. Demolderlaan"
     }, 
     {
@@ -290,86 +283,40 @@
         "32"
       ], 
       "housenumber": "32", 
-      "lat": 51.100479660838, 
-      "lon": 2.595160931905, 
+      "lat": 51.100480816172, 
+      "lon": 2.595160031255, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "J. Demolderlaan"
     }, 
     {
-      "busnrs": [
-        "101"
+      "apptnrs": [
+        "0101", 
+        "G001", 
+        "K001"
       ], 
       "hnrlbls": [
-        "36-36G"
+        "36"
       ], 
       "housenumber": "36", 
       "lat": 51.10047491992, 
       "lon": 2.595718764519, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "J. Demolderlaan"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
-        "36-36G"
-      ], 
-      "housenumber": "36G", 
-      "lat": 51.10047491992, 
-      "lon": 2.595718764519, 
-      "municipality": "De Panne", 
-      "pcode": "8660", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "J. Demolderlaan"
-    }, 
-    {
-      "busnrs": [
-        "101"
-      ], 
-      "hnrlbls": [
-        "38-38K"
+        "38"
       ], 
       "housenumber": "38", 
       "lat": 51.100472620959, 
       "lon": 2.595799107983, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
-      "street": "J. Demolderlaan"
-    }, 
-    {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "38-38K"
-      ], 
-      "housenumber": "38G", 
-      "lat": 51.100472620959, 
-      "lon": 2.595799107983, 
-      "municipality": "De Panne", 
-      "pcode": "8660", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "J. Demolderlaan"
-    }, 
-    {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "38-38K"
-      ], 
-      "housenumber": "38K", 
-      "lat": 51.100472620959, 
-      "lon": 2.595799107983, 
-      "municipality": "De Panne", 
-      "pcode": "8660", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "J. Demolderlaan"
     }, 
     {
@@ -381,39 +328,38 @@
       "lon": 2.592666403846, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "J. Demolderlaan"
     }, 
     {
+      "apptnrs": [
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "G001", 
+        "G002"
+      ], 
       "hnrlbls": [
-        "40-40G"
+        "40"
       ], 
       "housenumber": "40", 
       "lat": 51.100441652605, 
       "lon": 2.596017916524, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "J. Demolderlaan"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "40-40G"
-      ], 
-      "housenumber": "40G", 
-      "lat": 51.100441652605, 
-      "lon": 2.596017916524, 
-      "municipality": "De Panne", 
-      "pcode": "8660", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "J. Demolderlaan"
-    }, 
-    {
-      "busnrs": [
-        "102"
+      "apptnrs": [
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "G001", 
+        "G002", 
+        "W001"
       ], 
       "hnrlbls": [
         "5"
@@ -423,7 +369,7 @@
       "lon": 2.593086861328, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "J. Demolderlaan"
     }, 
     {
@@ -435,7 +381,7 @@
       "lon": 2.592736519396, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "J. Demolderlaan"
     }, 
     {
@@ -447,7 +393,7 @@
       "lon": 2.593202285968, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "J. Demolderlaan"
     }, 
     {
@@ -459,7 +405,7 @@
       "lon": 2.592809411388, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "J. Demolderlaan"
     }, 
     {
@@ -471,7 +417,7 @@
       "lon": 2.594099357775, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "J. Demolderlaan"
     }
   ]

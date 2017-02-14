@@ -5,11 +5,11 @@
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 50.962584873702, 
-      "lon": 5.495123209964, 
+      "lat": 50.96277067194, 
+      "lon": 5.495576398709, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Steeneikstraat"
     }, 
     {
@@ -17,22 +17,20 @@
         "10"
       ], 
       "housenumber": "10", 
-      "lat": 50.962901667664, 
-      "lon": 5.494769084198, 
+      "lat": 50.962892246221, 
+      "lon": 5.494870361597, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Steeneikstraat"
     }, 
     {
       "busnrs": [
-        "1", 
-        "11", 
-        "2", 
-        "21"
+        "BU01", 
+        "BU11"
       ], 
       "hnrlbls": [
-        "2-31"
+        "2"
       ], 
       "housenumber": "2", 
       "lat": 50.963268230361, 
@@ -83,8 +81,8 @@
         "23"
       ], 
       "housenumber": "23", 
-      "lat": 50.962272708494, 
-      "lon": 5.493389452872, 
+      "lat": 50.962267010525, 
+      "lon": 5.493393017468, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
@@ -107,8 +105,8 @@
         "26"
       ], 
       "housenumber": "26", 
-      "lat": 50.962616005365, 
-      "lon": 5.494004006483, 
+      "lat": 50.962617184732, 
+      "lon": 5.494002895919, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
@@ -175,23 +173,11 @@
       "street": "Steeneikstraat"
     }, 
     {
-      "hnrlbls": [
-        "36"
-      ], 
-      "housenumber": "36", 
-      "lat": 50.96256422477, 
-      "lon": 5.493421504937, 
-      "municipality": "Genk", 
-      "pcode": "3600", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Steeneikstraat"
-    }, 
-    {
       "busnrs": [
-        "1", 
-        "11", 
-        "12", 
-        "2"
+        "BU01", 
+        "BU02", 
+        "BU11", 
+        "BU12"
       ], 
       "hnrlbls": [
         "38"
@@ -209,8 +195,8 @@
         "39"
       ], 
       "housenumber": "39", 
-      "lat": 50.962153400777, 
-      "lon": 5.491406656879, 
+      "lat": 50.96215444264, 
+      "lon": 5.49141052554, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
@@ -218,12 +204,12 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "11", 
-        "12", 
-        "21", 
-        "22", 
-        "31"
+        "BU01", 
+        "BU11", 
+        "BU12", 
+        "BU21", 
+        "BU22", 
+        "BU31"
       ], 
       "hnrlbls": [
         "40"
@@ -238,12 +224,12 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "11", 
-        "12", 
-        "21", 
-        "22", 
-        "31"
+        "BU01", 
+        "BU11", 
+        "BU12", 
+        "BU21", 
+        "BU22", 
+        "BU31"
       ], 
       "hnrlbls": [
         "42"
@@ -258,12 +244,12 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "11", 
-        "12", 
-        "21", 
-        "22", 
-        "31"
+        "BU01", 
+        "BU11", 
+        "BU12", 
+        "BU21", 
+        "BU22", 
+        "BU31"
       ], 
       "hnrlbls": [
         "44"
@@ -278,12 +264,12 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "11", 
-        "12", 
-        "2", 
-        "21", 
-        "22"
+        "BU01", 
+        "BU02", 
+        "BU11", 
+        "BU12", 
+        "BU21", 
+        "BU22"
       ], 
       "hnrlbls": [
         "46"
@@ -297,6 +283,10 @@
       "street": "Steeneikstraat"
     }, 
     {
+      "busnrs": [
+        "BU01", 
+        "BU11"
+      ], 
       "hnrlbls": [
         "48-67"
       ], 
@@ -321,15 +311,37 @@
       "street": "Steeneikstraat"
     }, 
     {
+      "apptnrs": [
+        "BU01", 
+        "BU02", 
+        "BU03", 
+        "BU11", 
+        "BU12", 
+        "BU13", 
+        "BU21", 
+        "BU22", 
+        "BU23", 
+        "BU31", 
+        "BU32"
+      ], 
+      "busnrs": [
+        "11", 
+        "13", 
+        "21", 
+        "22", 
+        "3", 
+        "31", 
+        "32"
+      ], 
       "hnrlbls": [
         "5"
       ], 
       "housenumber": "5", 
-      "lat": 50.962450191756, 
-      "lon": 5.494476789014, 
+      "lat": 50.962602706944, 
+      "lon": 5.495129190703, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Steeneikstraat"
     }, 
     {
@@ -357,15 +369,22 @@
       "street": "Steeneikstraat"
     }, 
     {
+      "busnrs": [
+        "11", 
+        "31", 
+        "BU11", 
+        "BU21", 
+        "BU31"
+      ], 
       "hnrlbls": [
         "6"
       ], 
       "housenumber": "6", 
-      "lat": 50.963001223679, 
-      "lon": 5.495187600421, 
+      "lat": 50.96302224745, 
+      "lon": 5.495207751772, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Steeneikstraat"
     }
   ]

@@ -49,6 +49,24 @@
       "street": "Kiezelweg"
     }, 
     {
+      "apptnrs": [
+        "1", 
+        "101", 
+        "2", 
+        "201"
+      ], 
+      "hnrlbls": [
+        "109"
+      ], 
+      "housenumber": "109", 
+      "lat": 51.217959357797, 
+      "lon": 5.199420963909, 
+      "municipality": "Mol", 
+      "pcode": "2400", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Kiezelweg"
+    }, 
+    {
       "hnrlbls": [
         "111"
       ], 
@@ -195,18 +213,6 @@
       "municipality": "Mol", 
       "pcode": "2400", 
       "source": "afgeleidVanGebouw", 
-      "street": "Kiezelweg"
-    }, 
-    {
-      "hnrlbls": [
-        "125"
-      ], 
-      "housenumber": "125", 
-      "lat": 51.218613572221, 
-      "lon": 5.20066029498, 
-      "municipality": "Mol", 
-      "pcode": "2400", 
-      "source": "afgeleidVanPerceelGrb", 
       "street": "Kiezelweg"
     }, 
     {
@@ -428,18 +434,6 @@
     }, 
     {
       "hnrlbls": [
-        "151"
-      ], 
-      "housenumber": "151", 
-      "lat": 51.219151100589, 
-      "lon": 5.202918137298, 
-      "municipality": "Mol", 
-      "pcode": "2400", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Kiezelweg"
-    }, 
-    {
-      "hnrlbls": [
         "152"
       ], 
       "housenumber": "152", 
@@ -474,11 +468,11 @@
         "158"
       ], 
       "housenumber": "158", 
-      "lat": 51.219055764747, 
-      "lon": 5.203917954216, 
+      "lat": 51.219065990801, 
+      "lon": 5.203908261129, 
       "municipality": "Mol", 
       "pcode": "2400", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Kiezelweg"
     }, 
     {
@@ -504,11 +498,11 @@
         "160"
       ], 
       "housenumber": "160", 
-      "lat": 51.219102583488, 
-      "lon": 5.204110596189, 
+      "lat": 51.219117001642, 
+      "lon": 5.204092819525, 
       "municipality": "Mol", 
       "pcode": "2400", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Kiezelweg"
     }, 
     {
@@ -666,11 +660,11 @@
         "180"
       ], 
       "housenumber": "180", 
-      "lat": 51.219666730585, 
-      "lon": 5.205799578289, 
+      "lat": 51.219585911452, 
+      "lon": 5.205914926736, 
       "municipality": "Mol", 
       "pcode": "2400", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "afgeleidVanGebouw", 
       "street": "Kiezelweg"
     }, 
     {
@@ -678,11 +672,11 @@
         "180A"
       ], 
       "housenumber": "180A", 
-      "lat": 51.219693101243, 
-      "lon": 5.205934458846, 
+      "lat": 51.219624065337, 
+      "lon": 5.206010655949, 
       "municipality": "Mol", 
       "pcode": "2400", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Kiezelweg"
     }, 
     {
@@ -982,6 +976,7 @@
       "apptnrs": [
         "1", 
         "101", 
+        "102", 
         "2"
       ], 
       "hnrlbls": [
@@ -1230,8 +1225,8 @@
         "257"
       ], 
       "housenumber": "257", 
-      "lat": 51.222667955371, 
-      "lon": 5.214559729948, 
+      "lat": 51.222672260291, 
+      "lon": 5.214561096435, 
       "municipality": "Mol", 
       "pcode": "2400", 
       "source": "afgeleidVanGebouw", 
@@ -1259,6 +1254,18 @@
       "municipality": "Mol", 
       "pcode": "2400", 
       "source": "afgeleidVanGebouw", 
+      "street": "Kiezelweg"
+    }, 
+    {
+      "hnrlbls": [
+        "30A"
+      ], 
+      "housenumber": "30A", 
+      "lat": 51.210863119515, 
+      "lon": 5.177412262011, 
+      "municipality": "Mol", 
+      "pcode": "2400", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Kiezelweg"
     }, 
     {
@@ -1434,8 +1441,8 @@
         "51"
       ], 
       "housenumber": "51", 
-      "lat": 51.212135090381, 
-      "lon": 5.179714722072, 
+      "lat": 51.212117014918, 
+      "lon": 5.179715838624, 
       "municipality": "Mol", 
       "pcode": "2400", 
       "source": "afgeleidVanGebouw", 
@@ -1470,8 +1477,8 @@
         "54"
       ], 
       "housenumber": "54", 
-      "lat": 51.21183109274, 
-      "lon": 5.180563962005, 
+      "lat": 51.211813906595, 
+      "lon": 5.180579548176, 
       "municipality": "Mol", 
       "pcode": "2400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1578,11 +1585,23 @@
     }, 
     {
       "hnrlbls": [
-        "71"
+        "73"
       ], 
-      "housenumber": "71", 
-      "lat": 51.214527341075, 
-      "lon": 5.187931337594, 
+      "housenumber": "73", 
+      "lat": 51.214778458169, 
+      "lon": 5.188532288159, 
+      "municipality": "Mol", 
+      "pcode": "2400", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Kiezelweg"
+    }, 
+    {
+      "hnrlbls": [
+        "75"
+      ], 
+      "housenumber": "75", 
+      "lat": 51.215089455646, 
+      "lon": 5.18936372689, 
       "municipality": "Mol", 
       "pcode": "2400", 
       "source": "manueleAanduidingVanGebouw", 

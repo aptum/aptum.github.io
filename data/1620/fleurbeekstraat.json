@@ -56,8 +56,13 @@
       "street": "Fleurbeekstraat"
     }, 
     {
-      "busnrs": [
-        "1"
+      "apptnrs": [
+        "0.0", 
+        "1e/E", 
+        "2e/E", 
+        "3.0", 
+        "3e/E", 
+        "RCH"
       ], 
       "hnrlbls": [
         "12"
@@ -83,6 +88,20 @@
       "street": "Fleurbeekstraat"
     }, 
     {
+      "apptnrs": [
+        "1e/D", 
+        "1e/G", 
+        "2e/D", 
+        "2e/G", 
+        "3e/D", 
+        "3e/G", 
+        "RCH", 
+        "SS/D", 
+        "SS/G"
+      ], 
+      "busnrs": [
+        "RCHG"
+      ], 
       "hnrlbls": [
         "14"
       ], 
@@ -110,6 +129,13 @@
       "street": "Fleurbeekstraat"
     }, 
     {
+      "apptnrs": [
+        "1.0", 
+        "1e/E", 
+        "2e/E", 
+        "3e/E", 
+        "RCH"
+      ], 
       "hnrlbls": [
         "16"
       ], 
@@ -122,20 +148,32 @@
       "street": "Fleurbeekstraat"
     }, 
     {
+      "apptnrs": [
+        "0.0", 
+        "2e/E", 
+        "RCH"
+      ], 
       "hnrlbls": [
         "17"
       ], 
       "housenumber": "17", 
-      "lat": 50.792484429252, 
-      "lon": 4.31813213785, 
+      "lat": 50.792483348924, 
+      "lon": 4.318128451421, 
       "municipality": "Drogenbos", 
       "pcode": "1620", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Fleurbeekstraat"
     }, 
     {
-      "busnrs": [
-        "HOME"
+      "apptnrs": [
+        "1e/D", 
+        "1e/G", 
+        "2e/D", 
+        "2e/G", 
+        "3e/D", 
+        "3e/G", 
+        "RCHD", 
+        "RCHG"
       ], 
       "hnrlbls": [
         "18"
@@ -150,26 +188,39 @@
     }, 
     {
       "apptnrs": [
-        "0.0"
+        "1e/D", 
+        "1e/G", 
+        "2e/D", 
+        "2e/G", 
+        "3e/D", 
+        "3e/G", 
+        "RCH"
       ], 
       "hnrlbls": [
-        "19-21"
+        "19"
       ], 
       "housenumber": "19", 
-      "lat": 50.792545553734, 
-      "lon": 4.31812015928, 
+      "lat": 50.792577732537, 
+      "lon": 4.318110480685, 
       "municipality": "Drogenbos", 
       "pcode": "1620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Fleurbeekstraat"
     }, 
     {
-      "hnrlbls": [
-        "19-21"
+      "apptnrs": [
+        "1e D", 
+        "1e G", 
+        "2e D", 
+        "2e G"
       ], 
-      "housenumber": "21", 
-      "lat": 50.792545553734, 
-      "lon": 4.31812015928, 
+      "hnrlbls": [
+        "2", 
+        "2-120"
+      ], 
+      "housenumber": "2", 
+      "lat": 50.791106321005, 
+      "lon": 4.317932491138, 
       "municipality": "Drogenbos", 
       "pcode": "1620", 
       "source": "afgeleidVanGebouw", 
@@ -244,6 +295,21 @@
       "municipality": "Drogenbos", 
       "pcode": "1620", 
       "source": "afgeleidVanGebouw", 
+      "street": "Fleurbeekstraat"
+    }, 
+    {
+      "busnrs": [
+        "G"
+      ], 
+      "hnrlbls": [
+        "2_1"
+      ], 
+      "housenumber": "2_1", 
+      "lat": 50.791426126601, 
+      "lon": 4.317615735301, 
+      "municipality": "Drogenbos", 
+      "pcode": "1620", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelKadaster", 
       "street": "Fleurbeekstraat"
     }, 
     {
@@ -400,6 +466,10 @@
       "street": "Fleurbeekstraat"
     }, 
     {
+      "apptnrs": [
+        "0.0", 
+        "2.0"
+      ], 
       "hnrlbls": [
         "37"
       ], 
@@ -649,8 +719,9 @@
     }, 
     {
       "apptnrs": [
-        "0.0", 
-        "1.0"
+        "1e E", 
+        "2e E", 
+        "RCH"
       ], 
       "hnrlbls": [
         "56"

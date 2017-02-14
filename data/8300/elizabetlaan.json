@@ -118,6 +118,7 @@
         "13", 
         "2", 
         "21", 
+        "22", 
         "23", 
         "31", 
         "32", 
@@ -126,9 +127,6 @@
         "42", 
         "43", 
         "51"
-      ], 
-      "busnrs": [
-        "22"
       ], 
       "hnrlbls": [
         "104"
@@ -295,11 +293,10 @@
         "1", 
         "11", 
         "12", 
+        "2", 
         "21", 
-        "22"
-      ], 
-      "busnrs": [
-        "02"
+        "22", 
+        "41"
       ], 
       "hnrlbls": [
         "112"
@@ -367,9 +364,6 @@
       "street": "Elizabetlaan"
     }, 
     {
-      "apptnrs": [
-        "1"
-      ], 
       "hnrlbls": [
         "116-120"
       ], 
@@ -533,7 +527,9 @@
       "apptnrs": [
         "1", 
         "11", 
-        "21"
+        "21", 
+        "31", 
+        "41"
       ], 
       "hnrlbls": [
         "124"
@@ -620,6 +616,7 @@
         "B031", 
         "B032", 
         "B041", 
+        "B042", 
         "B051", 
         "B052"
       ], 
@@ -944,6 +941,7 @@
     }, 
     {
       "apptnrs": [
+        "11", 
         "21", 
         "31", 
         "41"
@@ -1213,22 +1211,6 @@
       "street": "Elizabetlaan"
     }, 
     {
-      "busnrs": [
-        "21", 
-        "31"
-      ], 
-      "hnrlbls": [
-        "157D"
-      ], 
-      "housenumber": "157D", 
-      "lat": 51.347378304474, 
-      "lon": 3.282456091006, 
-      "municipality": "Knokke-Heist", 
-      "pcode": "8300", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Elizabetlaan"
-    }, 
-    {
       "apptnrs": [
         "3"
       ], 
@@ -1314,7 +1296,7 @@
         "E054"
       ], 
       "hnrlbls": [
-        "158-160F"
+        "158-160H"
       ], 
       "housenumber": "158", 
       "lat": 51.346670647012, 
@@ -1322,21 +1304,6 @@
       "municipality": "Knokke-Heist", 
       "pcode": "8300", 
       "source": "manueleAanduidingVanGebouw", 
-      "street": "Elizabetlaan"
-    }, 
-    {
-      "busnrs": [
-        "21"
-      ], 
-      "hnrlbls": [
-        "158D"
-      ], 
-      "housenumber": "158D", 
-      "lat": 51.346438291143, 
-      "lon": 3.279441563634, 
-      "municipality": "Knokke-Heist", 
-      "pcode": "8300", 
-      "source": "afgeleidVanPerceelGrb", 
       "street": "Elizabetlaan"
     }, 
     {
@@ -1369,7 +1336,7 @@
     }, 
     {
       "hnrlbls": [
-        "158-160F"
+        "158-160H"
       ], 
       "housenumber": "160", 
       "lat": 51.346670647012, 
@@ -1381,32 +1348,22 @@
     }, 
     {
       "apptnrs": [
+        "-11", 
         "1", 
         "11", 
         "12", 
-        "13", 
-        "14", 
         "2", 
         "21", 
         "22", 
-        "23", 
-        "24", 
-        "3", 
         "31", 
         "32", 
-        "33", 
-        "34", 
         "41", 
         "42", 
-        "43", 
-        "44", 
         "51", 
-        "52", 
-        "53", 
-        "54"
+        "52"
       ], 
       "hnrlbls": [
-        "158-160F"
+        "158-160H"
       ], 
       "housenumber": "160A", 
       "lat": 51.346670647012, 
@@ -1418,29 +1375,22 @@
     }, 
     {
       "apptnrs": [
+        "-11", 
         "1", 
         "11", 
         "12", 
-        "13", 
-        "14", 
         "2", 
         "21", 
         "22", 
-        "23", 
-        "24", 
-        "3", 
         "31", 
         "32", 
-        "33", 
-        "34", 
         "41", 
         "42", 
-        "43", 
         "51", 
         "52"
       ], 
       "hnrlbls": [
-        "158-160F"
+        "158-160H"
       ], 
       "housenumber": "160B", 
       "lat": 51.346670647012, 
@@ -1452,6 +1402,7 @@
     }, 
     {
       "apptnrs": [
+        "-11", 
         "1", 
         "11", 
         "12", 
@@ -1459,10 +1410,14 @@
         "21", 
         "22", 
         "31", 
-        "32"
+        "32", 
+        "41", 
+        "42", 
+        "51", 
+        "52"
       ], 
       "hnrlbls": [
-        "158-160F"
+        "158-160H"
       ], 
       "housenumber": "160C", 
       "lat": 51.346670647012, 
@@ -1474,17 +1429,25 @@
     }, 
     {
       "apptnrs": [
+        "-11", 
         "1", 
         "11", 
         "12", 
+        "13", 
         "2", 
         "21", 
         "22", 
+        "23", 
+        "3", 
         "31", 
-        "32"
+        "32", 
+        "33", 
+        "41", 
+        "42", 
+        "51"
       ], 
       "hnrlbls": [
-        "158-160F"
+        "158-160H"
       ], 
       "housenumber": "160D", 
       "lat": 51.346670647012, 
@@ -1506,7 +1469,7 @@
         "32"
       ], 
       "hnrlbls": [
-        "158-160F"
+        "158-160H"
       ], 
       "housenumber": "160E", 
       "lat": 51.346670647012, 
@@ -1528,9 +1491,53 @@
         "32"
       ], 
       "hnrlbls": [
-        "158-160F"
+        "158-160H"
       ], 
       "housenumber": "160F", 
+      "lat": 51.346670647012, 
+      "lon": 3.280567182116, 
+      "municipality": "Knokke-Heist", 
+      "pcode": "8300", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Elizabetlaan"
+    }, 
+    {
+      "apptnrs": [
+        "1", 
+        "11", 
+        "12", 
+        "2", 
+        "21", 
+        "22", 
+        "31", 
+        "32"
+      ], 
+      "hnrlbls": [
+        "158-160H"
+      ], 
+      "housenumber": "160G", 
+      "lat": 51.346670647012, 
+      "lon": 3.280567182116, 
+      "municipality": "Knokke-Heist", 
+      "pcode": "8300", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Elizabetlaan"
+    }, 
+    {
+      "apptnrs": [
+        "1", 
+        "11", 
+        "12", 
+        "2", 
+        "21", 
+        "22", 
+        "31", 
+        "32"
+      ], 
+      "hnrlbls": [
+        "158-160H"
+      ], 
+      "housenumber": "160H", 
       "lat": 51.346670647012, 
       "lon": 3.280567182116, 
       "municipality": "Knokke-Heist", 
@@ -2153,7 +2160,7 @@
         "33"
       ], 
       "hnrlbls": [
-        "34-270"
+        "34-274"
       ], 
       "housenumber": "270", 
       "lat": 51.340472591732, 
@@ -2441,6 +2448,7 @@
         "3", 
         "30", 
         "31", 
+        "35", 
         "4", 
         "5", 
         "6", 
@@ -2723,28 +2731,24 @@
       "street": "Elizabetlaan"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
-      "hnrlbls": [
-        "62"
-      ], 
-      "housenumber": "62", 
-      "lat": 51.34817216547, 
-      "lon": 3.293979443611, 
-      "municipality": "Knokke-Heist", 
-      "pcode": "8300", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Elizabetlaan"
-    }, 
-    {
       "hnrlbls": [
         "62A"
       ], 
       "housenumber": "62A", 
       "lat": 51.348217260215, 
       "lon": 3.294075434742, 
+      "municipality": "Knokke-Heist", 
+      "pcode": "8300", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Elizabetlaan"
+    }, 
+    {
+      "hnrlbls": [
+        "62B"
+      ], 
+      "housenumber": "62B", 
+      "lat": 51.348107361027, 
+      "lon": 3.293851037492, 
       "municipality": "Knokke-Heist", 
       "pcode": "8300", 
       "source": "manueleAanduidingVanGebouw", 
@@ -3066,11 +3070,11 @@
     }, 
     {
       "hnrlbls": [
-        "81A"
+        "81-81B"
       ], 
       "housenumber": "81A", 
-      "lat": 51.349270338144, 
-      "lon": 3.294128766117, 
+      "lat": 51.349270428014, 
+      "lon": 3.294128764041, 
       "municipality": "Knokke-Heist", 
       "pcode": "8300", 
       "source": "manueleAanduidingVanGebouw", 

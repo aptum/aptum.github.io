@@ -1,8 +1,10 @@
 {
   "addresses": [
     {
-      "busnrs": [
-        "101"
+      "apptnrs": [
+        "0101", 
+        "0201", 
+        "0301"
       ], 
       "hnrlbls": [
         "1"
@@ -12,10 +14,15 @@
       "lon": 2.594176861479, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Clos Normandstraat"
     }, 
     {
+      "apptnrs": [
+        "0101", 
+        "0201", 
+        "G001"
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -24,7 +31,7 @@
       "lon": 2.594586870304, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Clos Normandstraat"
     }, 
     {
@@ -36,10 +43,13 @@
       "lon": 2.594544101993, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Clos Normandstraat"
     }, 
     {
+      "apptnrs": [
+        "G001"
+      ], 
       "hnrlbls": [
         "12-14"
       ], 
@@ -48,7 +58,7 @@
       "lon": 2.594815756101, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Clos Normandstraat"
     }, 
     {
@@ -60,10 +70,15 @@
       "lon": 2.594615560648, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Clos Normandstraat"
     }, 
     {
+      "apptnrs": [
+        "0101", 
+        "0201", 
+        "0301"
+      ], 
       "hnrlbls": [
         "12-14"
       ], 
@@ -72,64 +87,45 @@
       "lon": 2.594815756101, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Clos Normandstraat"
     }, 
     {
-      "busnrs": [
-        "301"
+      "apptnrs": [
+        "0101", 
+        "0201", 
+        "0301", 
+        "G001"
       ], 
       "hnrlbls": [
-        "15-15G"
+        "15"
       ], 
       "housenumber": "15", 
       "lat": 51.103992902995, 
       "lon": 2.594686050938, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Clos Normandstraat"
-    }, 
-    {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "15-15G"
-      ], 
-      "housenumber": "15G", 
-      "lat": 51.103992902995, 
-      "lon": 2.594686050938, 
-      "municipality": "De Panne", 
-      "pcode": "8660", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Clos Normandstraat"
     }, 
     {
       "hnrlbls": [
-        "16-18"
+        "16"
       ], 
       "housenumber": "16", 
       "lat": 51.103808087922, 
       "lon": 2.594766898661, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Clos Normandstraat"
     }, 
     {
-      "hnrlbls": [
-        "16-18"
+      "apptnrs": [
+        "0101", 
+        "0201", 
+        "0301"
       ], 
-      "housenumber": "18", 
-      "lat": 51.103808087922, 
-      "lon": 2.594766898661, 
-      "municipality": "De Panne", 
-      "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Clos Normandstraat"
-    }, 
-    {
       "hnrlbls": [
         "3"
       ], 
@@ -138,27 +134,33 @@
       "lon": 2.594238460623, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Clos Normandstraat"
     }, 
     {
-      "busnrs": [
-        "101"
+      "apptnrs": [
+        "0101", 
+        "0201", 
+        "0301", 
+        "G001"
       ], 
       "hnrlbls": [
-        "4-6"
+        "4"
       ], 
       "housenumber": "4", 
       "lat": 51.103726103632, 
       "lon": 2.594469098461, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Clos Normandstraat"
     }, 
     {
-      "busnrs": [
-        "101"
+      "apptnrs": [
+        "0101", 
+        "0201", 
+        "0301", 
+        "G001"
       ], 
       "hnrlbls": [
         "5"
@@ -168,19 +170,7 @@
       "lon": 2.594281497716, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Clos Normandstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "4-6"
-      ], 
-      "housenumber": "6", 
-      "lat": 51.103726103632, 
-      "lon": 2.594469098461, 
-      "municipality": "De Panne", 
-      "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Clos Normandstraat"
     }, 
     {
@@ -192,7 +182,7 @@
       "lon": 2.594349771086, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Clos Normandstraat"
     }, 
     {
@@ -204,14 +194,18 @@
       "lon": 2.594533509626, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Clos Normandstraat"
     }, 
     {
-      "busnrs": [
-        "102", 
-        "201", 
-        "202"
+      "apptnrs": [
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302", 
+        "G001"
       ], 
       "hnrlbls": [
         "9"
@@ -221,22 +215,7 @@
       "lon": 2.594483781041, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Clos Normandstraat"
-    }, 
-    {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "9G"
-      ], 
-      "housenumber": "9G", 
-      "lat": 51.103898499765, 
-      "lon": 2.594459271748, 
-      "municipality": "De Panne", 
-      "pcode": "8660", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Clos Normandstraat"
     }
   ]

@@ -37,6 +37,10 @@
       "street": "Brusselsesteenweg"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101"
+      ], 
       "hnrlbls": [
         "101"
       ], 
@@ -192,7 +196,7 @@
     }, 
     {
       "hnrlbls": [
-        "116"
+        "116-116B"
       ], 
       "housenumber": "116", 
       "lat": 50.930658555248, 
@@ -200,6 +204,21 @@
       "municipality": "Grimbergen", 
       "pcode": "1850", 
       "source": "afgeleidVanGebouw", 
+      "street": "Brusselsesteenweg"
+    }, 
+    {
+      "busnrs": [
+        "2"
+      ], 
+      "hnrlbls": [
+        "116-116B"
+      ], 
+      "housenumber": "116B", 
+      "lat": 50.930658555248, 
+      "lon": 4.365322349327, 
+      "municipality": "Grimbergen", 
+      "pcode": "1850", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Brusselsesteenweg"
     }, 
     {
@@ -463,11 +482,11 @@
         "146"
       ], 
       "housenumber": "146", 
-      "lat": 50.929074114582, 
-      "lon": 4.365923701354, 
+      "lat": 50.928957705604, 
+      "lon": 4.366061254921, 
       "municipality": "Grimbergen", 
       "pcode": "1850", 
-      "source": "afgeleidVanGebouw", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Brusselsesteenweg"
     }, 
     {
@@ -718,8 +737,8 @@
         "173"
       ], 
       "housenumber": "173", 
-      "lat": 50.924943346934, 
-      "lon": 4.365754351337, 
+      "lat": 50.924940740584, 
+      "lon": 4.365782513021, 
       "municipality": "Grimbergen", 
       "pcode": "1850", 
       "source": "afgeleidVanGebouw", 
@@ -826,11 +845,11 @@
         "181"
       ], 
       "housenumber": "181", 
-      "lat": 50.924469608373, 
-      "lon": 4.365656094636, 
+      "lat": 50.924521207639, 
+      "lon": 4.365686955642, 
       "municipality": "Grimbergen", 
       "pcode": "1850", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Brusselsesteenweg"
     }, 
     {
@@ -874,8 +893,8 @@
         "187"
       ], 
       "housenumber": "187", 
-      "lat": 50.924191933033, 
-      "lon": 4.365884100056, 
+      "lat": 50.924195888316, 
+      "lon": 4.365883388733, 
       "municipality": "Grimbergen", 
       "pcode": "1850", 
       "source": "afgeleidVanPerceelGrb", 
@@ -886,8 +905,8 @@
         "189"
       ], 
       "housenumber": "189", 
-      "lat": 50.924193997744, 
-      "lon": 4.365736467485, 
+      "lat": 50.924202178064, 
+      "lon": 4.365738884953, 
       "municipality": "Grimbergen", 
       "pcode": "1850", 
       "source": "afgeleidVanPerceelGrb", 
@@ -910,11 +929,11 @@
         "191"
       ], 
       "housenumber": "191", 
-      "lat": 50.924269235715, 
-      "lon": 4.365610734164, 
+      "lat": 50.92420783874, 
+      "lon": 4.36561144851, 
       "municipality": "Grimbergen", 
       "pcode": "1850", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Brusselsesteenweg"
     }, 
     {
@@ -970,11 +989,11 @@
         "2"
       ], 
       "housenumber": "2", 
-      "lat": 50.935917101505, 
-      "lon": 4.362578493422, 
+      "lat": 50.936197656238, 
+      "lon": 4.362564803267, 
       "municipality": "Grimbergen", 
       "pcode": "1850", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Brusselsesteenweg"
     }, 
     {
@@ -1098,8 +1117,8 @@
         "211"
       ], 
       "housenumber": "211", 
-      "lat": 50.923229346447, 
-      "lon": 4.36535165473, 
+      "lat": 50.92322557189, 
+      "lon": 4.365393326839, 
       "municipality": "Grimbergen", 
       "pcode": "1850", 
       "source": "afgeleidVanGebouw", 
@@ -1245,8 +1264,8 @@
         "28A"
       ], 
       "housenumber": "28A", 
-      "lat": 50.933754054934, 
-      "lon": 4.363626752054, 
+      "lat": 50.933674411242, 
+      "lon": 4.363663177261, 
       "municipality": "Grimbergen", 
       "pcode": "1850", 
       "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
@@ -1257,8 +1276,8 @@
         "32"
       ], 
       "housenumber": "32", 
-      "lat": 50.933452377993, 
-      "lon": 4.363719389152, 
+      "lat": 50.933457142435, 
+      "lon": 4.363722660597, 
       "municipality": "Grimbergen", 
       "pcode": "1850", 
       "source": "afgeleidVanGebouw", 
@@ -1297,11 +1316,13 @@
         "106", 
         "108", 
         "11", 
+        "118", 
         "119", 
         "120", 
         "121", 
         "123", 
         "128", 
+        "15", 
         "2", 
         "26", 
         "B003", 
@@ -1316,8 +1337,8 @@
         "37"
       ], 
       "housenumber": "37", 
-      "lat": 50.934811670287, 
-      "lon": 4.364385893712, 
+      "lat": 50.93475881701, 
+      "lon": 4.364506107421, 
       "municipality": "Grimbergen", 
       "pcode": "1850", 
       "source": "afgeleidVanGebouw", 
@@ -1328,8 +1349,8 @@
         "38"
       ], 
       "housenumber": "38", 
-      "lat": 50.933197808305, 
-      "lon": 4.363909750053, 
+      "lat": 50.933197089106, 
+      "lon": 4.36390818531, 
       "municipality": "Grimbergen", 
       "pcode": "1850", 
       "source": "afgeleidVanPerceelGrb", 
@@ -1595,6 +1616,8 @@
     }, 
     {
       "busnrs": [
+        "1", 
+        "101", 
         "B003"
       ], 
       "hnrlbls": [
@@ -1641,7 +1664,8 @@
     }, 
     {
       "busnrs": [
-        "1"
+        "1", 
+        "201"
       ], 
       "hnrlbls": [
         "62"
@@ -1664,8 +1688,8 @@
         "62B"
       ], 
       "housenumber": "62B", 
-      "lat": 50.932451617062, 
-      "lon": 4.364187066892, 
+      "lat": 50.932451258398, 
+      "lon": 4.364214663974, 
       "municipality": "Grimbergen", 
       "pcode": "1850", 
       "source": "afgeleidVanGebouw", 

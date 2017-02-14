@@ -29,8 +29,8 @@
         "5-100"
       ], 
       "housenumber": "100", 
-      "lat": 50.999803181315, 
-      "lon": 5.509669142921, 
+      "lat": 50.999794189184, 
+      "lon": 5.509678612044, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
@@ -38,12 +38,12 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "11", 
-        "12", 
-        "2", 
-        "21", 
-        "22"
+        "BU01", 
+        "BU02", 
+        "BU11", 
+        "BU12", 
+        "BU21", 
+        "BU22"
       ], 
       "hnrlbls": [
         "101"
@@ -58,23 +58,11 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "11", 
-        "12", 
-        "1A", 
-        "21", 
-        "21A", 
-        "22", 
-        "AB01", 
-        "AB11", 
-        "AB21", 
-        "AB22", 
-        "BB02", 
-        "BB11", 
-        "CB01", 
-        "CB11", 
-        "CB21", 
-        "CB31"
+        "BB21", 
+        "BU01", 
+        "BU11", 
+        "BU21", 
+        "BU22"
       ], 
       "hnrlbls": [
         "103"
@@ -88,8 +76,11 @@
       "street": "Onderwijslaan"
     }, 
     {
-      "apptnrs": [
-        "1.1"
+      "busnrs": [
+        "BU01", 
+        "BU11", 
+        "BU21", 
+        "BU22"
       ], 
       "hnrlbls": [
         "103A"
@@ -103,6 +94,13 @@
       "street": "Onderwijslaan"
     }, 
     {
+      "busnrs": [
+        "BU01", 
+        "BU02", 
+        "BU11", 
+        "BU21", 
+        "BU22"
+      ], 
       "hnrlbls": [
         "103B"
       ], 
@@ -119,8 +117,8 @@
         "103C"
       ], 
       "housenumber": "103C", 
-      "lat": 50.998158683459, 
-      "lon": 5.508317358412, 
+      "lat": 50.998092608928, 
+      "lon": 5.508317032516, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
@@ -131,17 +129,17 @@
         "105"
       ], 
       "housenumber": "105", 
-      "lat": 50.998114688194, 
-      "lon": 5.508265141294, 
+      "lat": 50.998066521182, 
+      "lon": 5.508142443148, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Onderwijslaan"
     }, 
     {
       "busnrs": [
-        "1", 
-        "2"
+        "BU01", 
+        "BU02"
       ], 
       "hnrlbls": [
         "107"
@@ -168,8 +166,8 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "2"
+        "BU01", 
+        "BU02"
       ], 
       "hnrlbls": [
         "11"
@@ -208,18 +206,6 @@
     }, 
     {
       "hnrlbls": [
-        "11A"
-      ], 
-      "housenumber": "11A", 
-      "lat": 50.997820068911, 
-      "lon": 5.525721883362, 
-      "municipality": "Genk", 
-      "pcode": "3600", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Onderwijslaan"
-    }, 
-    {
-      "hnrlbls": [
         "12"
       ], 
       "housenumber": "12", 
@@ -232,10 +218,17 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4"
+        "BU01", 
+        "BU02", 
+        "BU03", 
+        "BU11", 
+        "BU12", 
+        "BU13", 
+        "BU21", 
+        "BU22", 
+        "BU23", 
+        "BU31", 
+        "BU32"
       ], 
       "hnrlbls": [
         "121"
@@ -250,12 +243,10 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "11", 
-        "21"
+        "BU01"
       ], 
       "hnrlbls": [
-        "123-123A"
+        "123"
       ], 
       "housenumber": "123", 
       "lat": 50.998113409845, 
@@ -267,45 +258,27 @@
     }, 
     {
       "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "123-123A"
-      ], 
-      "housenumber": "123A", 
-      "lat": 50.998113409845, 
-      "lon": 5.507218390714, 
-      "municipality": "Genk", 
-      "pcode": "3600", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Onderwijslaan"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "11", 
-        "12", 
-        "13", 
-        "14", 
-        "15", 
-        "16", 
-        "2", 
-        "21", 
-        "22", 
-        "23", 
-        "24", 
-        "25", 
-        "26", 
-        "3", 
-        "31", 
-        "32", 
-        "33", 
-        "34", 
-        "35", 
-        "36", 
-        "4", 
-        "5", 
-        "6"
+        "BU02", 
+        "BU04", 
+        "BU05", 
+        "BU06", 
+        "BU11", 
+        "BU12", 
+        "BU13", 
+        "BU14", 
+        "BU15", 
+        "BU16", 
+        "BU21", 
+        "BU22", 
+        "BU23", 
+        "BU24", 
+        "BU25", 
+        "BU26", 
+        "BU31", 
+        "BU32", 
+        "BU34", 
+        "BU35", 
+        "BU36"
       ], 
       "hnrlbls": [
         "125"
@@ -380,8 +353,8 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "11"
+        "BU01", 
+        "BU11"
       ], 
       "hnrlbls": [
         "18"
@@ -411,8 +384,8 @@
         "2"
       ], 
       "housenumber": "2", 
-      "lat": 50.998717652127, 
-      "lon": 5.527774415934, 
+      "lat": 50.998717664923, 
+      "lon": 5.527774422186, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "manueleAanduidingVanIngangVanGebouw", 
@@ -423,8 +396,8 @@
         "20"
       ], 
       "housenumber": "20", 
-      "lat": 50.998605256898, 
-      "lon": 5.522612623183, 
+      "lat": 50.998612587934, 
+      "lon": 5.52261679303, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
@@ -555,8 +528,8 @@
         "2A"
       ], 
       "housenumber": "2A", 
-      "lat": 50.998664959984, 
-      "lon": 5.528523079847, 
+      "lat": 50.998664972752, 
+      "lon": 5.528523086504, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "manueleAanduidingVanIngangVanGebouw", 
@@ -567,8 +540,8 @@
         "2B"
       ], 
       "housenumber": "2B", 
-      "lat": 50.998451518458, 
-      "lon": 5.527752647433, 
+      "lat": 50.998451500583, 
+      "lon": 5.527752589343, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "manueleAanduidingVanLot", 
@@ -591,8 +564,8 @@
         "30"
       ], 
       "housenumber": "30", 
-      "lat": 50.998627497005, 
-      "lon": 5.520362272986, 
+      "lat": 50.998644664119, 
+      "lon": 5.520362695217, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
@@ -603,8 +576,8 @@
         "31"
       ], 
       "housenumber": "31", 
-      "lat": 50.997856335097, 
-      "lon": 5.519056388045, 
+      "lat": 50.997820173949, 
+      "lon": 5.519021734662, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
@@ -672,8 +645,7 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "2"
+        "BU01"
       ], 
       "hnrlbls": [
         "37-39"
@@ -715,8 +687,8 @@
         "4"
       ], 
       "housenumber": "4", 
-      "lat": 50.998720128378, 
-      "lon": 5.527523157817, 
+      "lat": 50.998720141175, 
+      "lon": 5.527523163935, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "manueleAanduidingVanLot", 
@@ -739,8 +711,8 @@
         "41-43"
       ], 
       "housenumber": "41", 
-      "lat": 50.997965321428, 
-      "lon": 5.516376377882, 
+      "lat": 50.997978445338, 
+      "lon": 5.516376557079, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
@@ -763,23 +735,11 @@
         "41-43"
       ], 
       "housenumber": "43", 
-      "lat": 50.997965321428, 
-      "lon": 5.516376377882, 
+      "lat": 50.997978445338, 
+      "lon": 5.516376557079, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
-      "street": "Onderwijslaan"
-    }, 
-    {
-      "hnrlbls": [
-        "43D"
-      ], 
-      "housenumber": "43D", 
-      "lat": 50.997990934525, 
-      "lon": 5.516377290594, 
-      "municipality": "Genk", 
-      "pcode": "3600", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Onderwijslaan"
     }, 
     {
@@ -823,8 +783,8 @@
         "47"
       ], 
       "housenumber": "47", 
-      "lat": 50.998009314498, 
-      "lon": 5.515958597597, 
+      "lat": 50.998002066157, 
+      "lon": 5.515955143221, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
@@ -879,15 +839,12 @@
       "street": "Onderwijslaan"
     }, 
     {
-      "busnrs": [
-        "11"
-      ], 
       "hnrlbls": [
         "51"
       ], 
       "housenumber": "51", 
-      "lat": 50.998027493736, 
-      "lon": 5.51532063971, 
+      "lat": 50.998014094027, 
+      "lon": 5.515302645445, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
@@ -910,11 +867,11 @@
         "53"
       ], 
       "housenumber": "53", 
-      "lat": 50.99800941373, 
-      "lon": 5.514777533082, 
+      "lat": 50.998015800455, 
+      "lon": 5.514998516161, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Onderwijslaan"
     }, 
     {
@@ -942,21 +899,9 @@
       "street": "Onderwijslaan"
     }, 
     {
-      "hnrlbls": [
-        "56"
-      ], 
-      "housenumber": "56", 
-      "lat": 50.998716473823, 
-      "lon": 5.514843849217, 
-      "municipality": "Genk", 
-      "pcode": "3600", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Onderwijslaan"
-    }, 
-    {
       "busnrs": [
-        "1", 
-        "11"
+        "BU01", 
+        "BU11"
       ], 
       "hnrlbls": [
         "59"
@@ -971,8 +916,7 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "21"
+        "BU21"
       ], 
       "hnrlbls": [
         "6"
@@ -987,13 +931,12 @@
     }, 
     {
       "busnrs": [
-        "11", 
-        "12", 
-        "21", 
-        "22"
+        "BU11", 
+        "BU12", 
+        "BU21"
       ], 
       "hnrlbls": [
-        "63-63R"
+        "63"
       ], 
       "housenumber": "63", 
       "lat": 50.998027079596, 
@@ -1001,21 +944,6 @@
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
-      "street": "Onderwijslaan"
-    }, 
-    {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "63-63R"
-      ], 
-      "housenumber": "63R", 
-      "lat": 50.998027079596, 
-      "lon": 5.513573106065, 
-      "municipality": "Genk", 
-      "pcode": "3600", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Onderwijslaan"
     }, 
     {
@@ -1032,7 +960,7 @@
     }, 
     {
       "busnrs": [
-        "11"
+        "BU11"
       ], 
       "hnrlbls": [
         "65-67"
@@ -1059,32 +987,33 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "11", 
-        "12", 
-        "13", 
-        "14", 
-        "15", 
-        "16", 
-        "17", 
-        "2", 
-        "21", 
-        "22", 
-        "23", 
-        "24", 
-        "25", 
-        "26", 
-        "27", 
-        "4", 
-        "5", 
-        "6"
+        "BU01", 
+        "BU02", 
+        "BU03", 
+        "BU04", 
+        "BU05", 
+        "BU06", 
+        "BU11", 
+        "BU12", 
+        "BU13", 
+        "BU14", 
+        "BU15", 
+        "BU16", 
+        "BU17", 
+        "BU21", 
+        "BU22", 
+        "BU23", 
+        "BU24", 
+        "BU25", 
+        "BU26", 
+        "BU27"
       ], 
       "hnrlbls": [
         "70"
       ], 
       "housenumber": "70", 
-      "lat": 50.998628232817, 
-      "lon": 5.514368971411, 
+      "lat": 50.998670035479, 
+      "lon": 5.514369139389, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
@@ -1103,11 +1032,6 @@
       "street": "Onderwijslaan"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "11", 
-        "2"
-      ], 
       "hnrlbls": [
         "72"
       ], 
@@ -1121,15 +1045,20 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "11"
+        "12", 
+        "BU1", 
+        "BU11", 
+        "BU12", 
+        "BU13", 
+        "BU2", 
+        "BU3"
       ], 
       "hnrlbls": [
         "74"
       ], 
       "housenumber": "74", 
-      "lat": 50.998706278915, 
-      "lon": 5.513047468423, 
+      "lat": 50.99870440646, 
+      "lon": 5.513055116091, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
@@ -1149,9 +1078,7 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "11", 
-        "2"
+        "BU11"
       ], 
       "hnrlbls": [
         "76"
@@ -1213,27 +1140,12 @@
       "street": "Onderwijslaan"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "11", 
-        "12", 
-        "13", 
-        "14", 
-        "2", 
-        "21", 
-        "22", 
-        "23", 
-        "3", 
-        "4", 
-        "5", 
-        "6"
-      ], 
       "hnrlbls": [
         "80-84"
       ], 
       "housenumber": "80", 
-      "lat": 50.998672377499, 
-      "lon": 5.510467918769, 
+      "lat": 50.998727853057, 
+      "lon": 5.510458016292, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
@@ -1252,26 +1164,12 @@
       "street": "Onderwijslaan"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "11", 
-        "12", 
-        "13", 
-        "2", 
-        "21", 
-        "22", 
-        "23", 
-        "3", 
-        "4", 
-        "5", 
-        "6"
-      ], 
       "hnrlbls": [
         "80-84"
       ], 
       "housenumber": "82", 
-      "lat": 50.998672377499, 
-      "lon": 5.510467918769, 
+      "lat": 50.998727853057, 
+      "lon": 5.510458016292, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
@@ -1290,27 +1188,12 @@
       "street": "Onderwijslaan"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "11", 
-        "12", 
-        "13", 
-        "14", 
-        "2", 
-        "21", 
-        "22", 
-        "23", 
-        "3", 
-        "4", 
-        "5", 
-        "6"
-      ], 
       "hnrlbls": [
         "80-84"
       ], 
       "housenumber": "84", 
-      "lat": 50.998672377499, 
-      "lon": 5.510467918769, 
+      "lat": 50.998727853057, 
+      "lon": 5.510458016292, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
@@ -1342,7 +1225,7 @@
     }, 
     {
       "busnrs": [
-        "1"
+        "BU01"
       ], 
       "hnrlbls": [
         "89"
@@ -1405,27 +1288,6 @@
     }, 
     {
       "hnrlbls": [
-        "98"
-      ], 
-      "housenumber": "98", 
-      "lat": 50.999259680746, 
-      "lon": 5.510350025323, 
-      "municipality": "Genk", 
-      "pcode": "3600", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Onderwijslaan"
-    }, 
-    {
-      "busnrs": [
-        "11A", 
-        "1A", 
-        "21A", 
-        "2A", 
-        "AB02", 
-        "AB21", 
-        "AB22"
-      ], 
-      "hnrlbls": [
         "2-99"
       ], 
       "housenumber": "99", 
@@ -1437,6 +1299,13 @@
       "street": "Onderwijslaan"
     }, 
     {
+      "busnrs": [
+        "BU01", 
+        "BU02", 
+        "BU11", 
+        "BU21", 
+        "BU22"
+      ], 
       "hnrlbls": [
         "99A"
       ], 

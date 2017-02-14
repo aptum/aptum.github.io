@@ -1,15 +1,42 @@
 {
   "addresses": [
     {
-      "hnrlbls": [
-        "11-13"
+      "busnrs": [
+        "10", 
+        "14", 
+        "16", 
+        "2", 
+        "6", 
+        "8", 
+        "9"
       ], 
-      "housenumber": "11", 
-      "lat": 50.982011545595, 
-      "lon": 3.535015352551, 
+      "hnrlbls": [
+        "10"
+      ], 
+      "housenumber": "10", 
+      "lat": 50.982358970638, 
+      "lon": 3.53549395223, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Gebroeders Nachtergaelestraat"
+    }, 
+    {
+      "busnrs": [
+        "2", 
+        "4", 
+        "5", 
+        "6"
+      ], 
+      "hnrlbls": [
+        "11"
+      ], 
+      "housenumber": "11", 
+      "lat": 50.982117935615, 
+      "lon": 3.535059318424, 
+      "municipality": "Deinze", 
+      "pcode": "9800", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Gebroeders Nachtergaelestraat"
     }, 
     {
@@ -19,26 +46,34 @@
         "4"
       ], 
       "hnrlbls": [
-        "12-16"
+        "12"
       ], 
       "housenumber": "12", 
-      "lat": 50.982338203455, 
-      "lon": 3.536586772838, 
+      "lat": 50.982246643639, 
+      "lon": 3.535932158403, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Gebroeders Nachtergaelestraat"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "7"
+      ], 
       "hnrlbls": [
-        "11-13"
+        "13"
       ], 
       "housenumber": "13", 
-      "lat": 50.982011545595, 
-      "lon": 3.535015352551, 
+      "lat": 50.982032098062, 
+      "lon": 3.535366033559, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Gebroeders Nachtergaelestraat"
     }, 
     {
@@ -52,28 +87,31 @@
         "14"
       ], 
       "housenumber": "14", 
-      "lat": 50.982301221158, 
-      "lon": 3.536111484385, 
+      "lat": 50.982248542006, 
+      "lon": 3.536111564995, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Gebroeders Nachtergaelestraat"
     }, 
     {
       "busnrs": [
+        "1", 
+        "2", 
         "3", 
         "4", 
-        "5"
+        "5", 
+        "6"
       ], 
       "hnrlbls": [
         "15"
       ], 
       "housenumber": "15", 
-      "lat": 50.981914124754, 
-      "lon": 3.535489037248, 
+      "lat": 50.982023505466, 
+      "lon": 3.535574535358, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Gebroeders Nachtergaelestraat"
     }, 
     {
@@ -86,14 +124,14 @@
         "6"
       ], 
       "hnrlbls": [
-        "12-16"
+        "16"
       ], 
       "housenumber": "16", 
-      "lat": 50.982338203455, 
-      "lon": 3.536586772838, 
+      "lat": 50.982237863128, 
+      "lon": 3.536292191693, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Gebroeders Nachtergaelestraat"
     }, 
     {
@@ -109,26 +147,26 @@
         "9"
       ], 
       "hnrlbls": [
-        "17-21"
+        "17"
       ], 
       "housenumber": "17", 
-      "lat": 50.981845826169, 
-      "lon": 3.536114868269, 
+      "lat": 50.981973996348, 
+      "lon": 3.535895557152, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Gebroeders Nachtergaelestraat"
     }, 
     {
       "hnrlbls": [
-        "18-79"
+        "18"
       ], 
       "housenumber": "18", 
-      "lat": 50.982167503219, 
-      "lon": 3.537059478123, 
+      "lat": 50.982098614748, 
+      "lon": 3.536775732207, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Gebroeders Nachtergaelestraat"
     }, 
     {
@@ -141,42 +179,38 @@
         "6"
       ], 
       "hnrlbls": [
-        "17-21"
+        "19"
       ], 
       "housenumber": "19", 
-      "lat": 50.981845826169, 
-      "lon": 3.536114868269, 
+      "lat": 50.981966654166, 
+      "lon": 3.536103039498, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Gebroeders Nachtergaelestraat"
     }, 
     {
-      "busnrs": [
-        "15", 
-        "4"
-      ], 
       "hnrlbls": [
         "2"
       ], 
       "housenumber": "2", 
-      "lat": 50.982390588924, 
-      "lon": 3.535122118884, 
+      "lat": 50.982656924619, 
+      "lon": 3.534927547474, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Gebroeders Nachtergaelestraat"
     }, 
     {
       "hnrlbls": [
-        "20-34"
+        "20"
       ], 
       "housenumber": "20", 
-      "lat": 50.982204901119, 
-      "lon": 3.537046852371, 
+      "lat": 50.982146462206, 
+      "lon": 3.536778871118, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Gebroeders Nachtergaelestraat"
     }, 
     {
@@ -191,26 +225,26 @@
         "9"
       ], 
       "hnrlbls": [
-        "17-21"
+        "21"
       ], 
       "housenumber": "21", 
-      "lat": 50.981845826169, 
-      "lon": 3.536114868269, 
+      "lat": 50.981954893113, 
+      "lon": 3.536308606424, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Gebroeders Nachtergaelestraat"
     }, 
     {
       "hnrlbls": [
-        "20-34"
+        "22"
       ], 
       "housenumber": "22", 
-      "lat": 50.982204901119, 
-      "lon": 3.537046852371, 
+      "lat": 50.982199343272, 
+      "lon": 3.536781920759, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Gebroeders Nachtergaelestraat"
     }, 
     {
@@ -226,26 +260,26 @@
         "9"
       ], 
       "hnrlbls": [
-        "23-83"
+        "23"
       ], 
       "housenumber": "23", 
-      "lat": 50.981872483786, 
-      "lon": 3.53694821606, 
+      "lat": 50.981966966675, 
+      "lon": 3.536681226958, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Gebroeders Nachtergaelestraat"
     }, 
     {
       "hnrlbls": [
-        "20-34"
+        "24"
       ], 
       "housenumber": "24", 
-      "lat": 50.982204901119, 
-      "lon": 3.537046852371, 
+      "lat": 50.982254769318, 
+      "lon": 3.53678891283, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Gebroeders Nachtergaelestraat"
     }, 
     {
@@ -258,26 +292,26 @@
         "6"
       ], 
       "hnrlbls": [
-        "23-83"
+        "25"
       ], 
       "housenumber": "25", 
-      "lat": 50.981872483786, 
-      "lon": 3.53694821606, 
+      "lat": 50.981959623107, 
+      "lon": 3.53688870915, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Gebroeders Nachtergaelestraat"
     }, 
     {
       "hnrlbls": [
-        "20-34"
+        "26"
       ], 
       "housenumber": "26", 
-      "lat": 50.982204901119, 
-      "lon": 3.537046852371, 
+      "lat": 50.98231268399, 
+      "lon": 3.536791873212, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Gebroeders Nachtergaelestraat"
     }, 
     {
@@ -291,26 +325,26 @@
         "7"
       ], 
       "hnrlbls": [
-        "23-83"
+        "27"
       ], 
       "housenumber": "27", 
-      "lat": 50.981872483786, 
-      "lon": 3.53694821606, 
+      "lat": 50.981924157154, 
+      "lon": 3.53730204786, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Gebroeders Nachtergaelestraat"
     }, 
     {
       "hnrlbls": [
-        "20-34"
+        "28"
       ], 
       "housenumber": "28", 
-      "lat": 50.982204901119, 
-      "lon": 3.537046852371, 
+      "lat": 50.98229394813, 
+      "lon": 3.537346477102, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Gebroeders Nachtergaelestraat"
     }, 
     {
@@ -322,93 +356,128 @@
         "5"
       ], 
       "hnrlbls": [
-        "23-83"
+        "29"
       ], 
       "housenumber": "29", 
-      "lat": 50.981872483786, 
-      "lon": 3.53694821606, 
+      "lat": 50.981787958416, 
+      "lon": 3.537352312253, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Gebroeders Nachtergaelestraat"
     }, 
     {
       "hnrlbls": [
-        "20-34"
+        "30"
       ], 
       "housenumber": "30", 
-      "lat": 50.982204901119, 
-      "lon": 3.537046852371, 
+      "lat": 50.982241010763, 
+      "lon": 3.537335452695, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Gebroeders Nachtergaelestraat"
     }, 
     {
       "hnrlbls": [
-        "20-34"
+        "32"
       ], 
       "housenumber": "32", 
-      "lat": 50.982204901119, 
-      "lon": 3.537046852371, 
+      "lat": 50.982188157871, 
+      "lon": 3.537336389484, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Gebroeders Nachtergaelestraat"
     }, 
     {
       "hnrlbls": [
-        "20-34"
+        "34"
       ], 
       "housenumber": "34", 
-      "lat": 50.982204901119, 
-      "lon": 3.537046852371, 
+      "lat": 50.982132703697, 
+      "lon": 3.537325409724, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Gebroeders Nachtergaelestraat"
     }, 
     {
       "hnrlbls": [
-        "18-79"
+        "36"
       ], 
       "housenumber": "36", 
-      "lat": 50.982167503219, 
-      "lon": 3.537059478123, 
+      "lat": 50.982074732716, 
+      "lon": 3.537314474599, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Gebroeders Nachtergaelestraat"
     }, 
     {
       "hnrlbls": [
-        "6-8"
+        "4"
       ], 
-      "housenumber": "6", 
-      "lat": 50.982546769436, 
-      "lon": 3.535088154634, 
+      "housenumber": "4", 
+      "lat": 50.98260641911, 
+      "lon": 3.534904519701, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Gebroeders Nachtergaelestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "6"
+      ], 
+      "housenumber": "6", 
+      "lat": 50.982556026564, 
+      "lon": 3.534897440325, 
+      "municipality": "Deinze", 
+      "pcode": "9800", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Gebroeders Nachtergaelestraat"
     }, 
     {
       "busnrs": [
         "1", 
+        "2", 
         "3", 
+        "4", 
+        "5", 
         "6", 
         "8", 
         "9"
       ], 
       "hnrlbls": [
-        "6-8"
+        "8"
       ], 
       "housenumber": "8", 
-      "lat": 50.982546769436, 
-      "lon": 3.535088154634, 
+      "lat": 50.98243834637, 
+      "lon": 3.534947525639, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Gebroeders Nachtergaelestraat"
+    }, 
+    {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6"
+      ], 
+      "hnrlbls": [
+        "9"
+      ], 
+      "housenumber": "9", 
+      "lat": 50.982128549055, 
+      "lon": 3.534869721044, 
+      "municipality": "Deinze", 
+      "pcode": "9800", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Gebroeders Nachtergaelestraat"
     }
   ]

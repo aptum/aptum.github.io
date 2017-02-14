@@ -49,6 +49,10 @@
       "street": "Landwaartslaan"
     }, 
     {
+      "busnrs": [
+        "BU01", 
+        "BU11"
+      ], 
       "hnrlbls": [
         "11-13"
       ], 
@@ -98,8 +102,8 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "2"
+        "BU01", 
+        "BU02"
       ], 
       "hnrlbls": [
         "14"
@@ -113,6 +117,9 @@
       "street": "Landwaartslaan"
     }, 
     {
+      "busnrs": [
+        "11"
+      ], 
       "hnrlbls": [
         "15"
       ], 
@@ -126,8 +133,24 @@
     }, 
     {
       "busnrs": [
-        "11", 
-        "21"
+        "BU01", 
+        "BU11", 
+        "BU12"
+      ], 
+      "hnrlbls": [
+        "16"
+      ], 
+      "housenumber": "16", 
+      "lat": 50.961410101018, 
+      "lon": 5.450650009811, 
+      "municipality": "Genk", 
+      "pcode": "3600", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Landwaartslaan"
+    }, 
+    {
+      "busnrs": [
+        "BU21"
       ], 
       "hnrlbls": [
         "17"
@@ -142,9 +165,9 @@
     }, 
     {
       "busnrs": [
-        "2", 
-        "3", 
-        "4"
+        "BU02", 
+        "BU03", 
+        "BU04"
       ], 
       "hnrlbls": [
         "18"
@@ -159,8 +182,7 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "11"
+        "BU11"
       ], 
       "hnrlbls": [
         "19"
@@ -174,24 +196,12 @@
       "street": "Landwaartslaan"
     }, 
     {
-      "hnrlbls": [
-        "/zn-2"
-      ], 
-      "housenumber": "2", 
-      "lat": 50.965491704199, 
-      "lon": 5.449225472423, 
-      "municipality": "Genk", 
-      "pcode": "3600", 
-      "source": "afgeleidVanStraat", 
-      "street": "Landwaartslaan"
-    }, 
-    {
       "busnrs": [
-        "1", 
-        "11", 
-        "12", 
-        "21", 
-        "22"
+        "BU01", 
+        "BU11", 
+        "BU12", 
+        "BU21", 
+        "BU22"
       ], 
       "hnrlbls": [
         "20"
@@ -206,19 +216,17 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "11", 
-        "12", 
-        "13", 
-        "2", 
-        "3"
+        "BU03", 
+        "BU11", 
+        "BU12", 
+        "BU13"
       ], 
       "hnrlbls": [
         "21"
       ], 
       "housenumber": "21", 
-      "lat": 50.961845926078, 
-      "lon": 5.449909708056, 
+      "lat": 50.961832702802, 
+      "lon": 5.44983238778, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
@@ -226,15 +234,14 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "11", 
-        "12", 
-        "2", 
-        "21", 
-        "22"
+        "BU01", 
+        "BU02", 
+        "BU12", 
+        "BU21", 
+        "BU22"
       ], 
       "hnrlbls": [
-        "22-24"
+        "22"
       ], 
       "housenumber": "22", 
       "lat": 50.96183102023, 
@@ -245,56 +252,24 @@
       "street": "Landwaartslaan"
     }, 
     {
-      "busnrs": [
-        "11", 
-        "12", 
-        "2", 
-        "21", 
-        "22", 
-        "3", 
-        "4", 
-        "5"
-      ], 
       "hnrlbls": [
         "23-25"
       ], 
       "housenumber": "23", 
-      "lat": 50.962209947972, 
-      "lon": 5.44958612782, 
+      "lat": 50.962206788991, 
+      "lon": 5.449587478536, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
       "street": "Landwaartslaan"
     }, 
     {
-      "hnrlbls": [
-        "22-24"
-      ], 
-      "housenumber": "24", 
-      "lat": 50.96183102023, 
-      "lon": 5.450552391053, 
-      "municipality": "Genk", 
-      "pcode": "3600", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Landwaartslaan"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "11", 
-        "12", 
-        "2", 
-        "21", 
-        "22", 
-        "3", 
-        "4"
-      ], 
       "hnrlbls": [
         "23-25"
       ], 
       "housenumber": "25", 
-      "lat": 50.962209947972, 
-      "lon": 5.44958612782, 
+      "lat": 50.962206788991, 
+      "lon": 5.449587478536, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
@@ -302,15 +277,15 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "11"
+        "BU01", 
+        "BU11"
       ], 
       "hnrlbls": [
         "26"
       ], 
       "housenumber": "26", 
-      "lat": 50.961979495263, 
-      "lon": 5.450371465846, 
+      "lat": 50.961979406166, 
+      "lon": 5.450381144101, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
@@ -330,9 +305,7 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "2", 
-        "3"
+        "BU02"
       ], 
       "hnrlbls": [
         "3-5"
@@ -347,10 +320,10 @@
     }, 
     {
       "busnrs": [
-        "1"
+        "BU01"
       ], 
       "hnrlbls": [
-        "30-32A"
+        "30-32"
       ], 
       "housenumber": "30", 
       "lat": 50.96228309861, 
@@ -362,13 +335,13 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4"
+        "BU01", 
+        "BU02", 
+        "BU03", 
+        "BU04"
       ], 
       "hnrlbls": [
-        "30-32A"
+        "30-32"
       ], 
       "housenumber": "32", 
       "lat": 50.96228309861, 
@@ -380,29 +353,23 @@
     }, 
     {
       "hnrlbls": [
-        "30-32A"
+        "32A"
       ], 
       "housenumber": "32A", 
-      "lat": 50.96228309861, 
-      "lon": 5.450234122453, 
+      "lat": 50.962288161981, 
+      "lon": 5.450357948824, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Landwaartslaan"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "11", 
-        "12", 
-        "2"
-      ], 
       "hnrlbls": [
         "33"
       ], 
       "housenumber": "33", 
-      "lat": 50.963018937477, 
-      "lon": 5.449374876002, 
+      "lat": 50.963002598506, 
+      "lon": 5.449284384925, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
@@ -421,10 +388,6 @@
       "street": "Landwaartslaan"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "11"
-      ], 
       "hnrlbls": [
         "35"
       ], 
@@ -438,9 +401,9 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "11", 
-        "2"
+        "BU01", 
+        "BU02", 
+        "BU11"
       ], 
       "hnrlbls": [
         "37"
@@ -455,15 +418,15 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "2"
+        "BU01", 
+        "BU02"
       ], 
       "hnrlbls": [
         "40"
       ], 
       "housenumber": "40", 
-      "lat": 50.964532287276, 
-      "lon": 5.449439247793, 
+      "lat": 50.964533776004, 
+      "lon": 5.449443553087, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
@@ -498,8 +461,8 @@
         "44"
       ], 
       "housenumber": "44", 
-      "lat": 50.964960111855, 
-      "lon": 5.449538806265, 
+      "lat": 50.964973290532, 
+      "lon": 5.449542811784, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
@@ -531,10 +494,10 @@
     }, 
     {
       "busnrs": [
-        "2"
+        "BU02"
       ], 
       "hnrlbls": [
-        "47-47B"
+        "47"
       ], 
       "housenumber": "47", 
       "lat": 50.96437923052, 
@@ -546,29 +509,21 @@
     }, 
     {
       "hnrlbls": [
-        "47-47B"
-      ], 
-      "housenumber": "47B", 
-      "lat": 50.96437923052, 
-      "lon": 5.448661822717, 
-      "municipality": "Genk", 
-      "pcode": "3600", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Landwaartslaan"
-    }, 
-    {
-      "hnrlbls": [
         "48"
       ], 
       "housenumber": "48", 
-      "lat": 50.965772052501, 
-      "lon": 5.449553976062, 
+      "lat": 50.965780230491, 
+      "lon": 5.449554307075, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
       "street": "Landwaartslaan"
     }, 
     {
+      "busnrs": [
+        "BU01", 
+        "BU02"
+      ], 
       "hnrlbls": [
         "49"
       ], 
@@ -582,9 +537,9 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "2", 
-        "3"
+        "BU01", 
+        "BU02", 
+        "BU03"
       ], 
       "hnrlbls": [
         "3-5"
@@ -602,8 +557,8 @@
         "50"
       ], 
       "housenumber": "50", 
-      "lat": 50.966011138541, 
-      "lon": 5.449471649027, 
+      "lat": 50.966010977514, 
+      "lon": 5.449489156792, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
@@ -614,8 +569,8 @@
         "51"
       ], 
       "housenumber": "51", 
-      "lat": 50.964704538917, 
-      "lon": 5.448559129247, 
+      "lat": 50.964705220044, 
+      "lon": 5.448563273551, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
@@ -659,15 +614,14 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "3"
+        "BU03"
       ], 
       "hnrlbls": [
         "57"
       ], 
       "housenumber": "57", 
-      "lat": 50.964923870226, 
-      "lon": 5.448356756011, 
+      "lat": 50.964925917906, 
+      "lon": 5.448358938689, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
@@ -714,8 +668,8 @@
         "60"
       ], 
       "housenumber": "60", 
-      "lat": 50.966888865382, 
-      "lon": 5.449508694715, 
+      "lat": 50.966885062376, 
+      "lon": 5.449521420508, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
@@ -726,8 +680,8 @@
         "61"
       ], 
       "housenumber": "61", 
-      "lat": 50.965327328949, 
-      "lon": 5.44847624488, 
+      "lat": 50.965326643896, 
+      "lon": 5.448472527535, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
@@ -759,15 +713,15 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "11"
+        "BU01", 
+        "BU11"
       ], 
       "hnrlbls": [
         "64"
       ], 
       "housenumber": "64", 
-      "lat": 50.967132927453, 
-      "lon": 5.449510907545, 
+      "lat": 50.967134418343, 
+      "lon": 5.449524752132, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
@@ -787,15 +741,15 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "11"
+        "BU01", 
+        "BU11"
       ], 
       "hnrlbls": [
         "66"
       ], 
       "housenumber": "66", 
-      "lat": 50.967273647492, 
-      "lon": 5.44949849246, 
+      "lat": 50.967274811177, 
+      "lon": 5.44948926502, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
@@ -839,14 +793,13 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "11", 
-        "12", 
-        "2", 
-        "21", 
-        "22", 
-        "31", 
-        "32"
+        "BU01", 
+        "BU02", 
+        "BU11", 
+        "BU12", 
+        "BU22", 
+        "BU31", 
+        "BU32"
       ], 
       "hnrlbls": [
         "7"
@@ -861,8 +814,7 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "11"
+        "BU11"
       ], 
       "hnrlbls": [
         "70-72"
@@ -873,18 +825,6 @@
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
-      "street": "Landwaartslaan"
-    }, 
-    {
-      "hnrlbls": [
-        "70-72"
-      ], 
-      "housenumber": "70b", 
-      "lat": 50.967489277948, 
-      "lon": 5.449473852563, 
-      "municipality": "Genk", 
-      "pcode": "3600", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Landwaartslaan"
     }, 
     {
@@ -928,8 +868,8 @@
         "74"
       ], 
       "housenumber": "74", 
-      "lat": 50.967574994149, 
-      "lon": 5.449567234164, 
+      "lat": 50.967572328643, 
+      "lon": 5.449573579527, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
@@ -940,8 +880,8 @@
         "75"
       ], 
       "housenumber": "75", 
-      "lat": 50.966529304579, 
-      "lon": 5.448359579551, 
+      "lat": 50.966528012933, 
+      "lon": 5.448343604204, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
@@ -964,8 +904,8 @@
         "77"
       ], 
       "housenumber": "77", 
-      "lat": 50.966803591191, 
-      "lon": 5.448418577443, 
+      "lat": 50.966802537812, 
+      "lon": 5.448406024423, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
@@ -984,33 +924,8 @@
       "street": "Landwaartslaan"
     }, 
     {
-      "hnrlbls": [
-        "7a-7B"
-      ], 
-      "housenumber": "7B", 
-      "lat": 50.961081162258, 
-      "lon": 5.450131219053, 
-      "municipality": "Genk", 
-      "pcode": "3600", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Landwaartslaan"
-    }, 
-    {
-      "hnrlbls": [
-        "7a-7B"
-      ], 
-      "housenumber": "7a", 
-      "lat": 50.961081162258, 
-      "lon": 5.450131219053, 
-      "municipality": "Genk", 
-      "pcode": "3600", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Landwaartslaan"
-    }, 
-    {
       "busnrs": [
-        "1", 
-        "2"
+        "BU01"
       ], 
       "hnrlbls": [
         "8"
@@ -1037,41 +952,41 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "11", 
-        "12", 
-        "2", 
-        "21", 
-        "22"
+        "BU01", 
+        "BU02", 
+        "BU11", 
+        "BU12", 
+        "BU21", 
+        "BU22"
       ], 
       "hnrlbls": [
         "85-87"
       ], 
       "housenumber": "85", 
-      "lat": 50.967664030562, 
-      "lon": 5.448389998024, 
+      "lat": 50.967830703585, 
+      "lon": 5.448253456768, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Landwaartslaan"
     }, 
     {
       "busnrs": [
-        "1", 
-        "11", 
-        "12", 
-        "2", 
-        "21"
+        "BU01", 
+        "BU02", 
+        "BU11", 
+        "BU12", 
+        "BU21"
       ], 
       "hnrlbls": [
         "85-87"
       ], 
       "housenumber": "87", 
-      "lat": 50.967664030562, 
-      "lon": 5.448389998024, 
+      "lat": 50.967830703585, 
+      "lon": 5.448253456768, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Landwaartslaan"
     }, 
     {
@@ -1079,8 +994,8 @@
         "89"
       ], 
       "housenumber": "89", 
-      "lat": 50.96808877423, 
-      "lon": 5.448365045912, 
+      "lat": 50.968086212463, 
+      "lon": 5.448350322151, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
@@ -1091,8 +1006,8 @@
         "91"
       ], 
       "housenumber": "91", 
-      "lat": 50.968318817555, 
-      "lon": 5.448356821062, 
+      "lat": 50.968295222007, 
+      "lon": 5.44834175493, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
@@ -1100,7 +1015,7 @@
     }, 
     {
       "busnrs": [
-        "1"
+        "BU01"
       ], 
       "hnrlbls": [
         "93"
@@ -1115,10 +1030,10 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "11", 
-        "12", 
-        "2"
+        "BU01", 
+        "BU02", 
+        "BU11", 
+        "BU12"
       ], 
       "hnrlbls": [
         "95"

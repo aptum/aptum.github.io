@@ -14,6 +14,18 @@
     }, 
     {
       "hnrlbls": [
+        "100"
+      ], 
+      "housenumber": "100", 
+      "lat": 51.229939200349, 
+      "lon": 4.40157621695, 
+      "municipality": "Antwerpen", 
+      "pcode": "2000", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Rijnkaai"
+    }, 
+    {
+      "hnrlbls": [
         "12-15A"
       ], 
       "housenumber": "12", 
@@ -77,11 +89,11 @@
         "17"
       ], 
       "housenumber": "17", 
-      "lat": 51.232800071251, 
-      "lon": 4.403230734615, 
+      "lat": 51.232783620284, 
+      "lon": 4.403238453345, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Rijnkaai"
     }, 
     {
@@ -95,7 +107,8 @@
         "401", 
         "402", 
         "501", 
-        "601"
+        "601", 
+        "602"
       ], 
       "hnrlbls": [
         "18-18C"
@@ -143,8 +156,7 @@
         "401", 
         "402", 
         "501", 
-        "502", 
-        "601"
+        "502"
       ], 
       "hnrlbls": [
         "19-19A"
@@ -186,13 +198,9 @@
       "street": "Rijnkaai"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6"
+      "apptnrs": [
+        "201", 
+        "601"
       ], 
       "hnrlbls": [
         "20"
@@ -273,9 +281,12 @@
       "street": "Rijnkaai"
     }, 
     {
-      "busnrs": [
-        "2", 
-        "3"
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301", 
+        "401", 
+        "501"
       ], 
       "hnrlbls": [
         "25"
@@ -289,27 +300,34 @@
       "street": "Rijnkaai"
     }, 
     {
-      "busnrs": [
-        "2"
-      ], 
       "hnrlbls": [
         "26"
       ], 
       "housenumber": "26", 
-      "lat": 51.230662295207, 
-      "lon": 4.402267640446, 
+      "lat": 51.232166097417, 
+      "lon": 4.403317302066, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
       "street": "Rijnkaai"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "102", 
+        "201", 
+        "202", 
+        "301", 
+        "302", 
+        "401", 
+        "402"
+      ], 
       "hnrlbls": [
         "27"
       ], 
       "housenumber": "27", 
-      "lat": 51.231104795339, 
-      "lon": 4.402564744435, 
+      "lat": 51.232104549379, 
+      "lon": 4.403242951728, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
@@ -328,24 +346,20 @@
         "28"
       ], 
       "housenumber": "28", 
-      "lat": 51.232616732477, 
-      "lon": 4.402847476605, 
+      "lat": 51.232051521036, 
+      "lon": 4.403233176345, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
       "street": "Rijnkaai"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
       "hnrlbls": [
         "29"
       ], 
       "housenumber": "29", 
-      "lat": 51.232843925738, 
-      "lon": 4.402650501773, 
+      "lat": 51.231994085293, 
+      "lon": 4.403233848842, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
@@ -364,10 +378,6 @@
       "street": "Rijnkaai"
     }, 
     {
-      "busnrs": [
-        "3", 
-        "4"
-      ], 
       "hnrlbls": [
         "30"
       ], 
@@ -420,8 +430,8 @@
         "35"
       ], 
       "housenumber": "35", 
-      "lat": 51.231636130639, 
-      "lon": 4.403211686966, 
+      "lat": 51.231636085962, 
+      "lon": 4.403211674348, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "manueleAanduidingVanPerceel", 
@@ -466,22 +476,14 @@
         "36"
       ], 
       "housenumber": "36", 
-      "lat": 51.233984958175, 
-      "lon": 4.402161267362, 
+      "lat": 51.231578365783, 
+      "lon": 4.403262025113, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Rijnkaai"
     }, 
     {
-      "apptnrs": [
-        "1.0", 
-        "3.0"
-      ], 
-      "busnrs": [
-        "4", 
-        "M"
-      ], 
       "hnrlbls": [
         "37"
       ], 
@@ -491,21 +493,6 @@
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
-      "street": "Rijnkaai"
-    }, 
-    {
-      "busnrs": [
-        "M"
-      ], 
-      "hnrlbls": [
-        "37_4"
-      ], 
-      "housenumber": "37_4", 
-      "lat": 51.230578406722, 
-      "lon": 4.402975660756, 
-      "municipality": "Antwerpen", 
-      "pcode": "2000", 
-      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijnkaai"
     }, 
     {

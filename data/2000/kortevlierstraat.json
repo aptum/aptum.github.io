@@ -13,28 +13,6 @@
       "street": "Korte Vlierstraat"
     }, 
     {
-      "apptnrs": [
-        "002", 
-        "101", 
-        "102", 
-        "201", 
-        "202", 
-        "301", 
-        "302", 
-        "402"
-      ], 
-      "hnrlbls": [
-        "10"
-      ], 
-      "housenumber": "10", 
-      "lat": 51.215048440782, 
-      "lon": 4.395569288447, 
-      "municipality": "Antwerpen", 
-      "pcode": "2000", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Korte Vlierstraat"
-    }, 
-    {
       "busnrs": [
         "1", 
         "2", 
@@ -49,6 +27,28 @@
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
+      "street": "Korte Vlierstraat"
+    }, 
+    {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "102", 
+        "201", 
+        "202", 
+        "301", 
+        "302", 
+        "401"
+      ], 
+      "hnrlbls": [
+        "12"
+      ], 
+      "housenumber": "12", 
+      "lat": 51.215104081746, 
+      "lon": 4.395557585839, 
+      "municipality": "Antwerpen", 
+      "pcode": "2000", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Korte Vlierstraat"
     }, 
     {
@@ -123,11 +123,11 @@
         "2"
       ], 
       "housenumber": "2", 
-      "lat": 51.215294172587, 
-      "lon": 4.394834820985, 
+      "lat": 51.215285610319, 
+      "lon": 4.394937859325, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Korte Vlierstraat"
     }, 
     {
@@ -180,23 +180,11 @@
         "4"
       ], 
       "housenumber": "4", 
-      "lat": 51.215281576107, 
-      "lon": 4.394890915023, 
+      "lat": 51.215251615702, 
+      "lon": 4.395018843087, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Korte Vlierstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "4A"
-      ], 
-      "housenumber": "4A", 
-      "lat": 51.215266461937, 
-      "lon": 4.394951014811, 
-      "municipality": "Antwerpen", 
-      "pcode": "2000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Korte Vlierstraat"
     }, 
     {
@@ -213,40 +201,69 @@
     }, 
     {
       "apptnrs": [
-        "101", 
-        "211", 
-        "212", 
-        "213", 
-        "301", 
-        "503", 
-        "511", 
-        "512", 
-        "513", 
-        "521", 
-        "522", 
-        "523", 
-        "533", 
-        "601", 
-        "602", 
-        "611", 
-        "621", 
-        "701", 
-        "811", 
-        "812", 
-        "821", 
-        "822", 
-        "831", 
-        "832"
+        "1001", 
+        "1002", 
+        "1003", 
+        "1101", 
+        "1102", 
+        "1103", 
+        "1201", 
+        "1202", 
+        "1203", 
+        "1301", 
+        "1302", 
+        "1303", 
+        "2001", 
+        "2101", 
+        "2102", 
+        "2103", 
+        "2201", 
+        "2202", 
+        "2203", 
+        "3001", 
+        "3002", 
+        "3101", 
+        "3201", 
+        "3202", 
+        "4101", 
+        "4102", 
+        "4201", 
+        "4202", 
+        "4301"
       ], 
       "hnrlbls": [
         "6"
       ], 
       "housenumber": "6", 
-      "lat": 51.215184613015, 
-      "lon": 4.395189397514, 
+      "lat": 51.215194941966, 
+      "lon": 4.395223178967, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Korte Vlierstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "6A"
+      ], 
+      "housenumber": "6A", 
+      "lat": 51.215176101662, 
+      "lon": 4.395068889765, 
+      "municipality": "Antwerpen", 
+      "pcode": "2000", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Korte Vlierstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "6C"
+      ], 
+      "housenumber": "6C", 
+      "lat": 51.215106830218, 
+      "lon": 4.395333326213, 
+      "municipality": "Antwerpen", 
+      "pcode": "2000", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Korte Vlierstraat"
     }, 
     {
@@ -259,18 +276,6 @@
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
-      "street": "Korte Vlierstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "8"
-      ], 
-      "housenumber": "8", 
-      "lat": 51.215100225485, 
-      "lon": 4.395519943906, 
-      "municipality": "Antwerpen", 
-      "pcode": "2000", 
-      "source": "manueleAanduidingVanPerceel", 
       "street": "Korte Vlierstraat"
     }, 
     {

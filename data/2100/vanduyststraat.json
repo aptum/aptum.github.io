@@ -331,8 +331,12 @@
       "street": "Van Duyststraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101"
+      ], 
       "hnrlbls": [
-        "125-127"
+        "125"
       ], 
       "housenumber": "125", 
       "lat": 51.232327552385, 
@@ -349,18 +353,6 @@
       "housenumber": "126", 
       "lat": 51.231857683205, 
       "lon": 4.448418520996, 
-      "municipality": "Antwerpen", 
-      "pcode": "2100", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Van Duyststraat"
-    }, 
-    {
-      "hnrlbls": [
-        "125-127"
-      ], 
-      "housenumber": "127", 
-      "lat": 51.232327552385, 
-      "lon": 4.449138320521, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "afgeleidVanGebouw", 
@@ -841,8 +833,8 @@
         "162B"
       ], 
       "housenumber": "162B", 
-      "lat": 51.232179799471, 
-      "lon": 4.44999475362, 
+      "lat": 51.232179822824, 
+      "lon": 4.449994777999, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "manueleAanduidingVanGebouw", 
@@ -942,7 +934,8 @@
     {
       "busnrs": [
         "1", 
-        "2"
+        "2", 
+        "3"
       ], 
       "hnrlbls": [
         "169"
@@ -1239,8 +1232,8 @@
         "190-192"
       ], 
       "housenumber": "190", 
-      "lat": 51.232320312345, 
-      "lon": 4.451279814123, 
+      "lat": 51.232323819409, 
+      "lon": 4.451277529697, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "afgeleidVanPerceelGrb", 
@@ -1263,8 +1256,8 @@
         "190-192"
       ], 
       "housenumber": "192", 
-      "lat": 51.232320312345, 
-      "lon": 4.451279814123, 
+      "lat": 51.232323819409, 
+      "lon": 4.451277529697, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "afgeleidVanPerceelGrb", 
@@ -1338,11 +1331,11 @@
         "20"
       ], 
       "housenumber": "20", 
-      "lat": 51.231119205932, 
-      "lon": 4.443778296724, 
+      "lat": 51.231122269485, 
+      "lon": 4.443766562231, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Van Duyststraat"
     }, 
     {
@@ -1362,8 +1355,8 @@
         "21B"
       ], 
       "housenumber": "21B", 
-      "lat": 51.231470840393, 
-      "lon": 4.444069492061, 
+      "lat": 51.231470823315, 
+      "lon": 4.444069493465, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1404,8 +1397,8 @@
         "23A"
       ], 
       "housenumber": "23A", 
-      "lat": 51.231460604284, 
-      "lon": 4.444160608673, 
+      "lat": 51.231460607838, 
+      "lon": 4.444160673103, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "manueleAanduidingVanGebouw", 
@@ -2105,8 +2098,8 @@
         "61A"
       ], 
       "housenumber": "61A", 
-      "lat": 51.23182267197, 
-      "lon": 4.446479414674, 
+      "lat": 51.231822671935, 
+      "lon": 4.446479414706, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "manueleAanduidingVanPerceel", 
@@ -2117,8 +2110,8 @@
         "61B"
       ], 
       "housenumber": "61B", 
-      "lat": 51.231789954421, 
-      "lon": 4.446479359635, 
+      "lat": 51.231789954369, 
+      "lon": 4.446479359668, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "manueleAanduidingVanPerceel", 
@@ -2326,10 +2319,6 @@
       "street": "Van Duyststraat"
     }, 
     {
-      "busnrs": [
-        "11", 
-        "8"
-      ], 
       "hnrlbls": [
         "78-82"
       ], 
@@ -2358,20 +2347,6 @@
       "street": "Van Duyststraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "10", 
-        "11", 
-        "12", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6", 
-        "7", 
-        "8", 
-        "9"
-      ], 
       "hnrlbls": [
         "80"
       ], 
@@ -2396,9 +2371,6 @@
       "street": "Van Duyststraat"
     }, 
     {
-      "busnrs": [
-        "6"
-      ], 
       "hnrlbls": [
         "78-82"
       ], 

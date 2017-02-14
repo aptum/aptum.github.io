@@ -48,6 +48,7 @@
         "203", 
         "302", 
         "304", 
+        "305", 
         "405", 
         "503", 
         "504", 
@@ -202,7 +203,8 @@
       "busnrs": [
         "301", 
         "303", 
-        "504"
+        "504", 
+        "704"
       ], 
       "hnrlbls": [
         "1-3A"
@@ -291,7 +293,8 @@
         "1", 
         "101", 
         "2", 
-        "201"
+        "201", 
+        "202"
       ], 
       "hnrlbls": [
         "7"
@@ -342,6 +345,18 @@
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
       "source": "afgeleidVanGebouw", 
+      "street": "Brabantstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "zn"
+      ], 
+      "housenumber": "zn", 
+      "lat": 51.145847734387, 
+      "lon": 2.713015271102, 
+      "municipality": "Nieuwpoort", 
+      "pcode": "8620", 
+      "source": "afgeleidVanStraat", 
       "street": "Brabantstraat"
     }
   ]

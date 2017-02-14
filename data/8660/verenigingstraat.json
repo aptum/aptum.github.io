@@ -1,40 +1,41 @@
 {
   "addresses": [
     {
-      "busnrs": [
-        "101", 
-        "102", 
-        "103", 
-        "201", 
-        "202", 
-        "203", 
-        "301", 
-        "302", 
-        "303", 
-        "401", 
-        "402", 
-        "403", 
-        "501", 
-        "503", 
-        "601", 
-        "602", 
-        "603", 
-        "7", 
-        "701", 
-        "703", 
-        "704", 
-        "801", 
-        "D"
+      "apptnrs": [
+        "0101", 
+        "0102", 
+        "0103", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0301", 
+        "0302", 
+        "0303", 
+        "0401", 
+        "0402", 
+        "0403", 
+        "0501", 
+        "0502", 
+        "0503", 
+        "0601", 
+        "0602", 
+        "0603", 
+        "0701", 
+        "0702", 
+        "0703", 
+        "0704", 
+        "0801", 
+        "W001"
       ], 
       "hnrlbls": [
-        "1-1_7"
+        "1"
       ], 
       "housenumber": "1", 
       "lat": 51.09828820617, 
       "lon": 2.593386530259, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Verenigingstraat"
     }, 
     {
@@ -46,31 +47,21 @@
       "lon": 2.592913504302, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Verenigingstraat"
     }, 
     {
-      "hnrlbls": [
-        "11"
-      ], 
-      "housenumber": "11", 
-      "lat": 51.09797700471, 
-      "lon": 2.593403771488, 
-      "municipality": "De Panne", 
-      "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Verenigingstraat"
-    }, 
-    {
-      "busnrs": [
-        "101", 
-        "102", 
-        "103", 
-        "201", 
-        "202", 
-        "203", 
-        "301", 
-        "302"
+      "apptnrs": [
+        "0101", 
+        "0102", 
+        "0103", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0301", 
+        "0302", 
+        "G001", 
+        "G002"
       ], 
       "hnrlbls": [
         "12"
@@ -80,38 +71,16 @@
       "lon": 2.592850185015, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Verenigingstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2"
+      "apptnrs": [
+        "0101", 
+        "0201", 
+        "G001", 
+        "K001"
       ], 
-      "hnrlbls": [
-        "12G"
-      ], 
-      "housenumber": "12G", 
-      "lat": 51.097887429407, 
-      "lon": 2.592930515793, 
-      "municipality": "De Panne", 
-      "pcode": "8660", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Verenigingstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "13"
-      ], 
-      "housenumber": "13", 
-      "lat": 51.097899568076, 
-      "lon": 2.593390432516, 
-      "municipality": "De Panne", 
-      "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Verenigingstraat"
-    }, 
-    {
       "hnrlbls": [
         "14"
       ], 
@@ -120,49 +89,7 @@
       "lon": 2.592929801049, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Verenigingstraat"
-    }, 
-    {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "14G-14K"
-      ], 
-      "housenumber": "14G", 
-      "lat": 51.097789772317, 
-      "lon": 2.592929797637, 
-      "municipality": "De Panne", 
-      "pcode": "8660", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Verenigingstraat"
-    }, 
-    {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "14G-14K"
-      ], 
-      "housenumber": "14K", 
-      "lat": 51.097789772317, 
-      "lon": 2.592929797637, 
-      "municipality": "De Panne", 
-      "pcode": "8660", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Verenigingstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "15"
-      ], 
-      "housenumber": "15", 
-      "lat": 51.097828891187, 
-      "lon": 2.593425959058, 
-      "municipality": "De Panne", 
-      "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Verenigingstraat"
     }, 
     {
@@ -174,7 +101,7 @@
       "lon": 2.592647595154, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Verenigingstraat"
     }, 
     {
@@ -182,55 +109,20 @@
         "17"
       ], 
       "housenumber": "17", 
-      "lat": 51.097402496714, 
-      "lon": 2.593812701147, 
+      "lat": 51.097557902092, 
+      "lon": 2.593319154266, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Verenigingstraat"
     }, 
     {
-      "hnrlbls": [
-        "18"
-      ], 
-      "housenumber": "18", 
-      "lat": 51.097644647413, 
-      "lon": 2.592714545701, 
-      "municipality": "De Panne", 
-      "pcode": "8660", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Verenigingstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "19"
-      ], 
-      "housenumber": "19", 
-      "lat": 51.09780480642, 
-      "lon": 2.59308630316, 
-      "municipality": "De Panne", 
-      "pcode": "8660", 
-      "source": "afgeleidVanStraat", 
-      "street": "Verenigingstraat"
-    }, 
-    {
-      "busnrs": [
-        "D"
-      ], 
-      "hnrlbls": [
-        "1-1_7"
-      ], 
-      "housenumber": "1_7", 
-      "lat": 51.09828820617, 
-      "lon": 2.593386530259, 
-      "municipality": "De Panne", 
-      "pcode": "8660", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Verenigingstraat"
-    }, 
-    {
-      "busnrs": [
-        "201"
+      "apptnrs": [
+        "0101", 
+        "0102", 
+        "0201", 
+        "G001", 
+        "G002"
       ], 
       "hnrlbls": [
         "2"
@@ -240,13 +132,14 @@
       "lon": 2.59295456986, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Verenigingstraat"
     }, 
     {
-      "busnrs": [
-        "101", 
-        "201"
+      "apptnrs": [
+        "0101", 
+        "0201", 
+        "G001"
       ], 
       "hnrlbls": [
         "20"
@@ -256,28 +149,13 @@
       "lon": 2.59278291633, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Verenigingstraat"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "20G"
-      ], 
-      "housenumber": "20G", 
-      "lat": 51.097562483204, 
-      "lon": 2.592781353297, 
-      "municipality": "De Panne", 
-      "pcode": "8660", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Verenigingstraat"
-    }, 
-    {
-      "busnrs": [
-        "101", 
-        "201"
+      "apptnrs": [
+        "0101", 
+        "0201"
       ], 
       "hnrlbls": [
         "22"
@@ -287,7 +165,7 @@
       "lon": 2.592912640517, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Verenigingstraat"
     }, 
     {
@@ -299,12 +177,16 @@
       "lon": 2.592859347257, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Verenigingstraat"
     }, 
     {
-      "busnrs": [
-        "201"
+      "apptnrs": [
+        "0101", 
+        "0201", 
+        "G001", 
+        "G002", 
+        "G003"
       ], 
       "hnrlbls": [
         "26"
@@ -314,22 +196,7 @@
       "lon": 2.592917023443, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Verenigingstraat"
-    }, 
-    {
-      "busnrs": [
-        "2"
-      ], 
-      "hnrlbls": [
-        "26G"
-      ], 
-      "housenumber": "26G", 
-      "lat": 51.097377862967, 
-      "lon": 2.592916880729, 
-      "municipality": "De Panne", 
-      "pcode": "8660", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Verenigingstraat"
     }, 
     {
@@ -341,38 +208,25 @@
       "lon": 2.592881887522, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Verenigingstraat"
     }, 
     {
-      "busnrs": [
-        "2"
+      "apptnrs": [
+        "0101", 
+        "0201", 
+        "G001", 
+        "K001"
       ], 
       "hnrlbls": [
-        "2G"
-      ], 
-      "housenumber": "2G", 
-      "lat": 51.098208176095, 
-      "lon": 2.592956033952, 
-      "municipality": "De Panne", 
-      "pcode": "8660", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Verenigingstraat"
-    }, 
-    {
-      "busnrs": [
-        "101", 
-        "201"
-      ], 
-      "hnrlbls": [
-        "3-3G"
+        "3"
       ], 
       "housenumber": "3", 
       "lat": 51.098162637347, 
       "lon": 2.593371305868, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Verenigingstraat"
     }, 
     {
@@ -384,59 +238,31 @@
       "lon": 2.592870793961, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Verenigingstraat"
     }, 
     {
-      "busnrs": [
-        "101", 
-        "201"
+      "apptnrs": [
+        "0101", 
+        "0201", 
+        "G001"
       ], 
       "hnrlbls": [
-        "32-32G"
+        "32"
       ], 
       "housenumber": "32", 
       "lat": 51.097201965235, 
       "lon": 2.592944979678, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Verenigingstraat"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "32-32G"
-      ], 
-      "housenumber": "32G", 
-      "lat": 51.097201965235, 
-      "lon": 2.592944979678, 
-      "municipality": "De Panne", 
-      "pcode": "8660", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Verenigingstraat"
-    }, 
-    {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "3-3G"
-      ], 
-      "housenumber": "3G", 
-      "lat": 51.098162637347, 
-      "lon": 2.593371305868, 
-      "municipality": "De Panne", 
-      "pcode": "8660", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Verenigingstraat"
-    }, 
-    {
-      "busnrs": [
-        "101", 
-        "201"
+      "apptnrs": [
+        "0101", 
+        "0201", 
+        "G001"
       ], 
       "hnrlbls": [
         "4"
@@ -446,52 +272,25 @@
       "lon": 2.592934022262, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Verenigingstraat"
     }, 
     {
-      "busnrs": [
-        "1"
+      "apptnrs": [
+        "0101", 
+        "0201", 
+        "G001", 
+        "W001"
       ], 
       "hnrlbls": [
-        "4G"
-      ], 
-      "housenumber": "4G", 
-      "lat": 51.098139896393, 
-      "lon": 2.59293577922, 
-      "municipality": "De Panne", 
-      "pcode": "8660", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Verenigingstraat"
-    }, 
-    {
-      "busnrs": [
-        "201"
-      ], 
-      "hnrlbls": [
-        "5-5G"
+        "5"
       ], 
       "housenumber": "5", 
       "lat": 51.098116695855, 
       "lon": 2.593365624602, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Verenigingstraat"
-    }, 
-    {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "5-5G"
-      ], 
-      "housenumber": "5G", 
-      "lat": 51.098116695855, 
-      "lon": 2.593365624602, 
-      "municipality": "De Panne", 
-      "pcode": "8660", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Verenigingstraat"
     }, 
     {
@@ -503,43 +302,29 @@
       "lon": 2.592808348563, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Verenigingstraat"
     }, 
     {
-      "busnrs": [
-        "101", 
-        "102", 
-        "201", 
-        "202", 
-        "301", 
-        "302", 
-        "401"
+      "apptnrs": [
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302", 
+        "0401", 
+        "G001"
       ], 
       "hnrlbls": [
         "7"
       ], 
       "housenumber": "7", 
-      "lat": 51.098047677676, 
-      "lon": 2.59340979902, 
+      "lat": 51.098049172003, 
+      "lon": 2.593353765668, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Verenigingstraat"
-    }, 
-    {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "7G"
-      ], 
-      "housenumber": "7G", 
-      "lat": 51.098028169662, 
-      "lon": 2.593386121282, 
-      "municipality": "De Panne", 
-      "pcode": "8660", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Verenigingstraat"
     }, 
     {
@@ -551,19 +336,7 @@
       "lon": 2.592919435189, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Verenigingstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "9"
-      ], 
-      "housenumber": "9", 
-      "lat": 51.098002587187, 
-      "lon": 2.59339494639, 
-      "municipality": "De Panne", 
-      "pcode": "8660", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Verenigingstraat"
     }
   ]

@@ -21,6 +21,12 @@
       "street": "Sportstraat"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "101", 
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -61,6 +67,7 @@
     }, 
     {
       "busnrs": [
+        "101", 
         "201"
       ], 
       "hnrlbls": [
@@ -87,6 +94,9 @@
       "street": "Sportstraat"
     }, 
     {
+      "busnrs": [
+        "301"
+      ], 
       "hnrlbls": [
         "15"
       ], 
@@ -140,7 +150,9 @@
     {
       "busnrs": [
         "1", 
+        "101", 
         "2", 
+        "201", 
         "3", 
         "4"
       ], 
@@ -156,18 +168,26 @@
       "street": "Sportstraat"
     }, 
     {
+      "busnrs": [
+        "101", 
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
         "2"
       ], 
       "housenumber": "2", 
-      "lat": 51.222884015773, 
-      "lon": 2.90433649778, 
+      "lat": 51.222857612186, 
+      "lon": 2.904200745785, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Sportstraat"
     }, 
     {
+      "busnrs": [
+        "201"
+      ], 
       "hnrlbls": [
         "20"
       ], 
@@ -192,6 +212,9 @@
       "street": "Sportstraat"
     }, 
     {
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "22"
       ], 
@@ -222,6 +245,7 @@
     {
       "busnrs": [
         "1", 
+        "101", 
         "2", 
         "3", 
         "4"
@@ -238,6 +262,9 @@
       "street": "Sportstraat"
     }, 
     {
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "27"
       ], 
@@ -254,11 +281,11 @@
         "29"
       ], 
       "housenumber": "29", 
-      "lat": 51.22348678581, 
-      "lon": 2.904233389355, 
+      "lat": 51.223431459842, 
+      "lon": 2.904106990826, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sportstraat"
     }, 
     {
@@ -285,11 +312,11 @@
         "31"
       ], 
       "housenumber": "31", 
-      "lat": 51.223523140179, 
-      "lon": 2.904192590119, 
+      "lat": 51.223470015262, 
+      "lon": 2.904069701633, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sportstraat"
     }, 
     {
@@ -441,11 +468,11 @@
         "5"
       ], 
       "housenumber": "5", 
-      "lat": 51.222985745574, 
-      "lon": 2.904696518544, 
+      "lat": 51.22295832417, 
+      "lon": 2.904645552844, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sportstraat"
     }, 
     {
@@ -498,29 +525,19 @@
         "22", 
         "4", 
         "6", 
-        "9"
+        "601", 
+        "9", 
+        "B"
       ], 
       "hnrlbls": [
-        "57-57B"
+        "57"
       ], 
       "housenumber": "57", 
-      "lat": 51.224239073303, 
-      "lon": 2.903274718356, 
+      "lat": 51.224174720842, 
+      "lon": 2.903261564244, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Sportstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "57-57B"
-      ], 
-      "housenumber": "57B", 
-      "lat": 51.224239073303, 
-      "lon": 2.903274718356, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sportstraat"
     }, 
     {
@@ -551,17 +568,14 @@
         "7"
       ], 
       "housenumber": "7", 
-      "lat": 51.223051834177, 
-      "lon": 2.904719212006, 
+      "lat": 51.222995682207, 
+      "lon": 2.904591408355, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sportstraat"
     }, 
     {
-      "apptnrs": [
-        "1.0"
-      ], 
       "busnrs": [
         "1", 
         "101", 

@@ -49,9 +49,6 @@
       "street": "Noordstraat"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
         "103"
       ], 
@@ -393,15 +390,21 @@
       "street": "Noordstraat"
     }, 
     {
+      "apptnrs": [
+        "0-01", 
+        "1-01", 
+        "2-01", 
+        "2-02"
+      ], 
       "hnrlbls": [
         "129"
       ], 
       "housenumber": "129", 
-      "lat": 51.213499769695, 
-      "lon": 3.447256514893, 
+      "lat": 51.213509088456, 
+      "lon": 3.447298837864, 
       "municipality": "Maldegem", 
       "pcode": "9990", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Noordstraat"
     }, 
     {
@@ -777,8 +780,8 @@
         "159"
       ], 
       "housenumber": "159", 
-      "lat": 51.214393404026, 
-      "lon": 3.447456274331, 
+      "lat": 51.214393492789, 
+      "lon": 3.447456129455, 
       "municipality": "Maldegem", 
       "pcode": "9990", 
       "source": "afgeleidVanGebouw", 
@@ -1385,8 +1388,8 @@
         "200"
       ], 
       "housenumber": "200", 
-      "lat": 51.217449200924, 
-      "lon": 3.446479781099, 
+      "lat": 51.217446473833, 
+      "lon": 3.446488819198, 
       "municipality": "Maldegem", 
       "pcode": "9990", 
       "source": "afgeleidVanGebouw", 
@@ -1409,8 +1412,8 @@
         "202"
       ], 
       "housenumber": "202", 
-      "lat": 51.217547315972, 
-      "lon": 3.446853207398, 
+      "lat": 51.217547295115, 
+      "lon": 3.446853248451, 
       "municipality": "Maldegem", 
       "pcode": "9990", 
       "source": "afgeleidVanGebouw", 
@@ -1602,11 +1605,11 @@
         "219"
       ], 
       "housenumber": "219", 
-      "lat": 51.217285412909, 
-      "lon": 3.447564925289, 
+      "lat": 51.217278637941, 
+      "lon": 3.447537577554, 
       "municipality": "Maldegem", 
       "pcode": "9990", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Noordstraat"
     }, 
     {
@@ -1689,8 +1692,8 @@
         "225"
       ], 
       "housenumber": "225", 
-      "lat": 51.217509565196, 
-      "lon": 3.44732291974, 
+      "lat": 51.217509603865, 
+      "lon": 3.447322898146, 
       "municipality": "Maldegem", 
       "pcode": "9990", 
       "source": "manueleAanduidingVanLot", 
@@ -1701,11 +1704,11 @@
         "225A"
       ], 
       "housenumber": "225A", 
-      "lat": 51.217549767793, 
-      "lon": 3.447314110409, 
+      "lat": 51.217549793718, 
+      "lon": 3.447300920798, 
       "municipality": "Maldegem", 
       "pcode": "9990", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "afgeleidVanGebouw", 
       "street": "Noordstraat"
     }, 
     {
@@ -1988,8 +1991,8 @@
         "267"
       ], 
       "housenumber": "267", 
-      "lat": 51.219043637973, 
-      "lon": 3.447432738477, 
+      "lat": 51.219044252625, 
+      "lon": 3.447430865546, 
       "municipality": "Maldegem", 
       "pcode": "9990", 
       "source": "afgeleidVanGebouw", 
@@ -2212,8 +2215,8 @@
         "39"
       ], 
       "housenumber": "39", 
-      "lat": 51.210596590908, 
-      "lon": 3.447687931545, 
+      "lat": 51.210598103225, 
+      "lon": 3.447685898129, 
       "municipality": "Maldegem", 
       "pcode": "9990", 
       "source": "afgeleidVanGebouw", 
@@ -2563,8 +2566,8 @@
         "62A"
       ], 
       "housenumber": "62A", 
-      "lat": 51.211657476817, 
-      "lon": 3.446831170824, 
+      "lat": 51.211657464301, 
+      "lon": 3.446831200398, 
       "municipality": "Maldegem", 
       "pcode": "9990", 
       "source": "afgeleidVanGebouw", 
@@ -2604,8 +2607,8 @@
         "66"
       ], 
       "housenumber": "66", 
-      "lat": 51.211752703841, 
-      "lon": 3.446652439788, 
+      "lat": 51.211752703912, 
+      "lon": 3.446652427965, 
       "municipality": "Maldegem", 
       "pcode": "9990", 
       "source": "afgeleidVanGebouw", 
@@ -2713,11 +2716,11 @@
     }, 
     {
       "hnrlbls": [
-        "74-76"
+        "74"
       ], 
       "housenumber": "74", 
-      "lat": 51.21216157339, 
-      "lon": 3.446958062017, 
+      "lat": 51.212125034599, 
+      "lon": 3.446964079034, 
       "municipality": "Maldegem", 
       "pcode": "9990", 
       "source": "afgeleidVanGebouw", 
@@ -2737,11 +2740,11 @@
     }, 
     {
       "hnrlbls": [
-        "74-76"
+        "76"
       ], 
       "housenumber": "76", 
-      "lat": 51.21216157339, 
-      "lon": 3.446958062017, 
+      "lat": 51.212198111065, 
+      "lon": 3.446951901895, 
       "municipality": "Maldegem", 
       "pcode": "9990", 
       "source": "afgeleidVanGebouw", 

@@ -14,7 +14,7 @@
       "lon": 4.233781501595, 
       "municipality": "Bornem", 
       "pcode": "2880", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "afgeleidVanGebouw", 
       "street": "Kasteelstraat"
     }, 
     {
@@ -67,11 +67,11 @@
         "13"
       ], 
       "housenumber": "13", 
-      "lat": 51.099988984311, 
-      "lon": 4.233384331194, 
+      "lat": 51.09996934801, 
+      "lon": 4.233384197916, 
       "municipality": "Bornem", 
       "pcode": "2880", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "afgeleidVanGebouw", 
       "street": "Kasteelstraat"
     }, 
     {
@@ -117,8 +117,13 @@
       "street": "Kasteelstraat"
     }, 
     {
+      "apptnrs": [
+        "A000", 
+        "A002", 
+        "B002"
+      ], 
       "hnrlbls": [
-        "19-19B"
+        "19"
       ], 
       "housenumber": "19", 
       "lat": 51.09996492302, 
@@ -126,36 +131,6 @@
       "municipality": "Bornem", 
       "pcode": "2880", 
       "source": "afgeleidVanGebouw", 
-      "street": "Kasteelstraat"
-    }, 
-    {
-      "busnrs": [
-        "2"
-      ], 
-      "hnrlbls": [
-        "19-19B"
-      ], 
-      "housenumber": "19A", 
-      "lat": 51.09996492302, 
-      "lon": 4.23313037845, 
-      "municipality": "Bornem", 
-      "pcode": "2880", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Kasteelstraat"
-    }, 
-    {
-      "busnrs": [
-        "2"
-      ], 
-      "hnrlbls": [
-        "19-19B"
-      ], 
-      "housenumber": "19B", 
-      "lat": 51.09996492302, 
-      "lon": 4.23313037845, 
-      "municipality": "Bornem", 
-      "pcode": "2880", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Kasteelstraat"
     }, 
     {
@@ -171,12 +146,16 @@
       "street": "Kasteelstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
+        "A001", 
+        "A002", 
         "AGVL", 
+        "B001", 
+        "B002", 
         "BGVL"
       ], 
       "hnrlbls": [
-        "22-24"
+        "22"
       ], 
       "housenumber": "22", 
       "lat": 51.100272476108, 
@@ -187,56 +166,12 @@
       "street": "Kasteelstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
-      "hnrlbls": [
-        "22A-22B"
-      ], 
-      "housenumber": "22A", 
-      "lat": 51.100304591066, 
-      "lon": 4.232956796668, 
-      "municipality": "Bornem", 
-      "pcode": "2880", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Kasteelstraat"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
-      "hnrlbls": [
-        "22A-22B"
-      ], 
-      "housenumber": "22B", 
-      "lat": 51.100304591066, 
-      "lon": 4.232956796668, 
-      "municipality": "Bornem", 
-      "pcode": "2880", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Kasteelstraat"
-    }, 
-    {
       "hnrlbls": [
         "23"
       ], 
       "housenumber": "23", 
       "lat": 51.100090224549, 
       "lon": 4.231954933247, 
-      "municipality": "Bornem", 
-      "pcode": "2880", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Kasteelstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "22-24"
-      ], 
-      "housenumber": "24", 
-      "lat": 51.100272476108, 
-      "lon": 4.232935046627, 
       "municipality": "Bornem", 
       "pcode": "2880", 
       "source": "afgeleidVanGebouw", 
@@ -271,8 +206,8 @@
         "30"
       ], 
       "housenumber": "30", 
-      "lat": 51.100554150762, 
-      "lon": 4.232669832498, 
+      "lat": 51.100480899501, 
+      "lon": 4.232598091401, 
       "municipality": "Bornem", 
       "pcode": "2880", 
       "source": "afgeleidVanGebouw", 
@@ -295,8 +230,8 @@
         "32"
       ], 
       "housenumber": "32", 
-      "lat": 51.100534644326, 
-      "lon": 4.232278285919, 
+      "lat": 51.100536775988, 
+      "lon": 4.232256008462, 
       "municipality": "Bornem", 
       "pcode": "2880", 
       "source": "afgeleidVanGebouw", 
@@ -343,11 +278,11 @@
         "36"
       ], 
       "housenumber": "36", 
-      "lat": 51.100408773087, 
-      "lon": 4.228785784063, 
+      "lat": 51.10236867231, 
+      "lon": 4.214644700134, 
       "municipality": "Bornem", 
       "pcode": "2880", 
-      "source": "afgeleidVanStraat", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Kasteelstraat"
     }, 
     {
@@ -363,11 +298,11 @@
       "street": "Kasteelstraat"
     }, 
     {
-      "busnrs": [
-        "1"
+      "apptnrs": [
+        "0001"
       ], 
       "hnrlbls": [
-        "5-5A"
+        "5"
       ], 
       "housenumber": "5", 
       "lat": 51.099910218131, 
@@ -379,23 +314,11 @@
     }, 
     {
       "hnrlbls": [
-        "5-5A"
-      ], 
-      "housenumber": "5A", 
-      "lat": 51.099910218131, 
-      "lon": 4.233713864346, 
-      "municipality": "Bornem", 
-      "pcode": "2880", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Kasteelstraat"
-    }, 
-    {
-      "hnrlbls": [
         "6"
       ], 
       "housenumber": "6", 
-      "lat": 51.100079922432, 
-      "lon": 4.233946937144, 
+      "lat": 51.100080191771, 
+      "lon": 4.233946650846, 
       "municipality": "Bornem", 
       "pcode": "2880", 
       "source": "afgeleidVanGebouw", 
@@ -418,8 +341,8 @@
         "9"
       ], 
       "housenumber": "9", 
-      "lat": 51.099921955105, 
-      "lon": 4.233601333656, 
+      "lat": 51.099921236003, 
+      "lon": 4.233601335725, 
       "municipality": "Bornem", 
       "pcode": "2880", 
       "source": "afgeleidVanGebouw", 

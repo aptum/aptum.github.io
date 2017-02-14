@@ -1,10 +1,6 @@
 {
   "addresses": [
     {
-      "apptnrs": [
-        "0001", 
-        "0101"
-      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -42,7 +38,7 @@
     }, 
     {
       "hnrlbls": [
-        "102"
+        "102-102A"
       ], 
       "housenumber": "102", 
       "lat": 50.875896738506, 
@@ -54,11 +50,11 @@
     }, 
     {
       "hnrlbls": [
-        "102A"
+        "102-102A"
       ], 
       "housenumber": "102A", 
-      "lat": 50.875896698957, 
-      "lon": 4.688576461171, 
+      "lat": 50.875896738506, 
+      "lon": 4.688576516461, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanGebouw", 
@@ -636,15 +632,21 @@
       "street": "Heilige-Geeststraat"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0201", 
+        "0202", 
+        "0203"
+      ], 
       "hnrlbls": [
-        "178"
+        "178-180"
       ], 
       "housenumber": "178", 
-      "lat": 50.874092997247, 
-      "lon": 4.68850823225, 
+      "lat": 50.87405832358, 
+      "lon": 4.688334093064, 
       "municipality": "Leuven", 
       "pcode": "3000", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Heilige-Geeststraat"
     }, 
     {
@@ -657,6 +659,24 @@
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanGebouw", 
+      "street": "Heilige-Geeststraat"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0201", 
+        "0202", 
+        "0203"
+      ], 
+      "hnrlbls": [
+        "178-180"
+      ], 
+      "housenumber": "180", 
+      "lat": 50.87405832358, 
+      "lon": 4.688334093064, 
+      "municipality": "Leuven", 
+      "pcode": "3000", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Heilige-Geeststraat"
     }, 
     {
@@ -685,11 +705,28 @@
     }, 
     {
       "hnrlbls": [
-        "186"
+        "186-186C"
       ], 
       "housenumber": "186", 
-      "lat": 50.873824243964, 
-      "lon": 4.688166551795, 
+      "lat": 50.873823794884, 
+      "lon": 4.688166406659, 
+      "municipality": "Leuven", 
+      "pcode": "3000", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Heilige-Geeststraat"
+    }, 
+    {
+      "busnrs": [
+        "0101", 
+        "0201", 
+        "0202"
+      ], 
+      "hnrlbls": [
+        "186-186C"
+      ], 
+      "housenumber": "186C", 
+      "lat": 50.873823794884, 
+      "lon": 4.688166406659, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanGebouw", 
@@ -710,11 +747,11 @@
         "188"
       ], 
       "housenumber": "188", 
-      "lat": 50.873734776309, 
-      "lon": 4.6883722371, 
+      "lat": 50.873726271771, 
+      "lon": 4.688326288456, 
       "municipality": "Leuven", 
       "pcode": "3000", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Heilige-Geeststraat"
     }, 
     {
@@ -863,6 +900,15 @@
       "street": "Heilige-Geeststraat"
     }, 
     {
+      "busnrs": [
+        "0201", 
+        "0202", 
+        "0203", 
+        "0204", 
+        "0301", 
+        "0302", 
+        "0303"
+      ], 
       "hnrlbls": [
         "3"
       ], 
@@ -891,8 +937,8 @@
         "32"
       ], 
       "housenumber": "32", 
-      "lat": 50.877841850593, 
-      "lon": 4.688656995697, 
+      "lat": 50.87784095748, 
+      "lon": 4.68865485827, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanPerceelGrb", 
@@ -1459,6 +1505,13 @@
       "street": "Heilige-Geeststraat"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202"
+      ], 
       "hnrlbls": [
         "64"
       ], 
@@ -1491,12 +1544,14 @@
     {
       "busnrs": [
         "0001", 
+        "0002", 
         "0101", 
         "0102", 
         "0103", 
         "0201", 
         "0202", 
-        "0203"
+        "0203", 
+        "0301"
       ], 
       "hnrlbls": [
         "66"
@@ -1562,8 +1617,8 @@
         "6A"
       ], 
       "housenumber": "6A", 
-      "lat": 50.878546135995, 
-      "lon": 4.688771496419, 
+      "lat": 50.878530583648, 
+      "lon": 4.688771674423, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanPerceelGrb", 
@@ -1785,8 +1840,8 @@
         "85"
       ], 
       "housenumber": "85", 
-      "lat": 50.873506745387, 
-      "lon": 4.688820778192, 
+      "lat": 50.873506379211, 
+      "lon": 4.688823190979, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanPerceelGrb", 
@@ -1890,8 +1945,7 @@
         "0101", 
         "0102", 
         "0103", 
-        "0201", 
-        "0202"
+        "0201"
       ], 
       "hnrlbls": [
         "96"

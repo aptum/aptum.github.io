@@ -1,27 +1,36 @@
 {
   "addresses": [
     {
-      "busnrs": [
-        "102", 
-        "103", 
-        "12", 
-        "201", 
-        "303", 
-        "401", 
-        "405", 
-        "414", 
-        "501", 
-        "502"
+      "apptnrs": [
+        "0101", 
+        "0102", 
+        "0103", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0301", 
+        "0302", 
+        "0303", 
+        "0401", 
+        "0402", 
+        "0403", 
+        "0404", 
+        "0405", 
+        "0501", 
+        "0502", 
+        "G001", 
+        "G002", 
+        "G003"
       ], 
       "hnrlbls": [
-        "1-1G"
+        "1"
       ], 
       "housenumber": "1", 
       "lat": 51.098366226909, 
       "lon": 2.595793862507, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Prins Albertlaan"
     }, 
     {
@@ -33,79 +42,31 @@
       "lon": 2.596295221043, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Prins Albertlaan"
     }, 
     {
       "hnrlbls": [
-        "11-11K"
+        "11"
       ], 
       "housenumber": "11", 
       "lat": 51.098660418929, 
       "lon": 2.595566224662, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Prins Albertlaan"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
-        "11-11K"
-      ], 
-      "housenumber": "11G", 
-      "lat": 51.098660418929, 
-      "lon": 2.595566224662, 
-      "municipality": "De Panne", 
-      "pcode": "8660", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Prins Albertlaan"
-    }, 
-    {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "11-11K"
-      ], 
-      "housenumber": "11K", 
-      "lat": 51.098660418929, 
-      "lon": 2.595566224662, 
-      "municipality": "De Panne", 
-      "pcode": "8660", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Prins Albertlaan"
-    }, 
-    {
-      "busnrs": [
-        "101"
-      ], 
-      "hnrlbls": [
-        "12-12K"
+        "12"
       ], 
       "housenumber": "12", 
       "lat": 51.098570747652, 
       "lon": 2.596246349282, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Prins Albertlaan"
-    }, 
-    {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "12-12K"
-      ], 
-      "housenumber": "12K", 
-      "lat": 51.098570747652, 
-      "lon": 2.596246349282, 
-      "municipality": "De Panne", 
-      "pcode": "8660", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Prins Albertlaan"
     }, 
     {
@@ -117,7 +78,7 @@
       "lon": 2.595530753844, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Prins Albertlaan"
     }, 
     {
@@ -129,7 +90,7 @@
       "lon": 2.596202856413, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Prins Albertlaan"
     }, 
     {
@@ -141,7 +102,7 @@
       "lon": 2.595496989158, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Prins Albertlaan"
     }, 
     {
@@ -153,7 +114,7 @@
       "lon": 2.596176217445, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Prins Albertlaan"
     }, 
     {
@@ -165,7 +126,7 @@
       "lon": 2.59546254789, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Prins Albertlaan"
     }, 
     {
@@ -177,70 +138,42 @@
       "lon": 2.596124127601, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Prins Albertlaan"
     }, 
     {
-      "busnrs": [
-        "101", 
-        "201", 
-        "202"
+      "apptnrs": [
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "G001"
       ], 
       "hnrlbls": [
-        "19-21"
+        "19"
       ], 
       "housenumber": "19", 
-      "lat": 51.09886780449, 
-      "lon": 2.595365866409, 
+      "lat": 51.098878957825, 
+      "lon": 2.595407997813, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Prins Albertlaan"
     }, 
     {
-      "busnrs": [
-        "1"
+      "apptnrs": [
+        "0101"
       ], 
       "hnrlbls": [
-        "19G-21K"
+        "19_2-32"
       ], 
-      "housenumber": "19G", 
-      "lat": 51.098853922963, 
-      "lon": 2.595417372402, 
+      "housenumber": "19_2", 
+      "lat": 51.099240248588, 
+      "lon": 2.595181951309, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Prins Albertlaan"
-    }, 
-    {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "19G-21K"
-      ], 
-      "housenumber": "19K", 
-      "lat": 51.098853922963, 
-      "lon": 2.595417372402, 
-      "municipality": "De Panne", 
-      "pcode": "8660", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Prins Albertlaan"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
-      "hnrlbls": [
-        "1-1G"
-      ], 
-      "housenumber": "1G", 
-      "lat": 51.098366226909, 
-      "lon": 2.595793862507, 
-      "municipality": "De Panne", 
-      "pcode": "8660", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Prins Albertlaan"
     }, 
     {
@@ -252,129 +185,42 @@
       "lon": 2.596464513794, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Prins Albertlaan"
     }, 
     {
-      "busnrs": [
-        "101", 
-        "201"
+      "apptnrs": [
+        "0101", 
+        "0201", 
+        "G001"
       ], 
       "hnrlbls": [
-        "20-20G"
+        "20"
       ], 
       "housenumber": "20", 
       "lat": 51.098781251556, 
       "lon": 2.59609785532, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Prins Albertlaan"
     }, 
     {
-      "busnrs": [
-        "1"
+      "apptnrs": [
+        "0101", 
+        "0201", 
+        "G001", 
+        "K001"
       ], 
       "hnrlbls": [
-        "20-20G"
-      ], 
-      "housenumber": "20G", 
-      "lat": 51.098781251556, 
-      "lon": 2.59609785532, 
-      "municipality": "De Panne", 
-      "pcode": "8660", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Prins Albertlaan"
-    }, 
-    {
-      "busnrs": [
-        "101"
-      ], 
-      "hnrlbls": [
-        "19-21"
-      ], 
-      "housenumber": "21", 
-      "lat": 51.09886780449, 
-      "lon": 2.595365866409, 
-      "municipality": "De Panne", 
-      "pcode": "8660", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Prins Albertlaan"
-    }, 
-    {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "19G-21K"
-      ], 
-      "housenumber": "21G", 
-      "lat": 51.098853922963, 
-      "lon": 2.595417372402, 
-      "municipality": "De Panne", 
-      "pcode": "8660", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Prins Albertlaan"
-    }, 
-    {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "19G-21K"
-      ], 
-      "housenumber": "21K", 
-      "lat": 51.098853922963, 
-      "lon": 2.595417372402, 
-      "municipality": "De Panne", 
-      "pcode": "8660", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Prins Albertlaan"
-    }, 
-    {
-      "busnrs": [
-        "101", 
-        "201"
-      ], 
-      "hnrlbls": [
-        "22-22K"
+        "22"
       ], 
       "housenumber": "22", 
       "lat": 51.098854545164, 
       "lon": 2.596098789683, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Prins Albertlaan"
-    }, 
-    {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "22-22K"
-      ], 
-      "housenumber": "22G", 
-      "lat": 51.098854545164, 
-      "lon": 2.596098789683, 
-      "municipality": "De Panne", 
-      "pcode": "8660", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Prins Albertlaan"
-    }, 
-    {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "22-22K"
-      ], 
-      "housenumber": "22K", 
-      "lat": 51.098854545164, 
-      "lon": 2.596098789683, 
-      "municipality": "De Panne", 
-      "pcode": "8660", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Prins Albertlaan"
     }, 
     {
@@ -386,40 +232,26 @@
       "lon": 2.595356529032, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Prins Albertlaan"
     }, 
     {
-      "busnrs": [
-        "101", 
-        "201", 
-        "301", 
-        "401"
+      "apptnrs": [
+        "0101", 
+        "0201", 
+        "0301", 
+        "0401", 
+        "G001"
       ], 
       "hnrlbls": [
         "24"
       ], 
       "housenumber": "24", 
-      "lat": 51.09888360241, 
-      "lon": 2.59597416624, 
+      "lat": 51.098894222561, 
+      "lon": 2.596010748809, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Prins Albertlaan"
-    }, 
-    {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "24G"
-      ], 
-      "housenumber": "24G", 
-      "lat": 51.098685796816, 
-      "lon": 2.595729195985, 
-      "municipality": "De Panne", 
-      "pcode": "8660", 
-      "source": "geinterpoleerdObvWegverbinding", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Prins Albertlaan"
     }, 
     {
@@ -431,14 +263,16 @@
       "lon": 2.595317517951, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Prins Albertlaan"
     }, 
     {
-      "busnrs": [
-        "101", 
-        "201", 
-        "301"
+      "apptnrs": [
+        "0101", 
+        "0201", 
+        "0301", 
+        "0401", 
+        "G001"
       ], 
       "hnrlbls": [
         "26"
@@ -448,25 +282,15 @@
       "lon": 2.595934743488, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Prins Albertlaan"
     }, 
     {
-      "busnrs": [
-        "1"
+      "apptnrs": [
+        "0101", 
+        "G001", 
+        "G002"
       ], 
-      "hnrlbls": [
-        "26G"
-      ], 
-      "housenumber": "26G", 
-      "lat": 51.098957601046, 
-      "lon": 2.596004062114, 
-      "municipality": "De Panne", 
-      "pcode": "8660", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Prins Albertlaan"
-    }, 
-    {
       "hnrlbls": [
         "27"
       ], 
@@ -475,14 +299,15 @@
       "lon": 2.595112309339, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Prins Albertlaan"
     }, 
     {
-      "busnrs": [
-        "101", 
-        "301", 
-        "401"
+      "apptnrs": [
+        "0101", 
+        "0201", 
+        "0301", 
+        "0401"
       ], 
       "hnrlbls": [
         "28"
@@ -492,22 +317,19 @@
       "lon": 2.595992700105, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Prins Albertlaan"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
-        "29"
+        "29_1"
       ], 
-      "housenumber": "29", 
+      "housenumber": "29_1", 
       "lat": 51.099126681371, 
       "lon": 2.595223386878, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Prins Albertlaan"
     }, 
     {
@@ -519,99 +341,47 @@
       "lon": 2.595731836427, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Prins Albertlaan"
     }, 
     {
-      "busnrs": [
-        "101", 
-        "102", 
-        "202", 
-        "302"
+      "apptnrs": [
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302", 
+        "G001", 
+        "G002", 
+        "K001"
       ], 
       "hnrlbls": [
-        "30-32"
+        "30"
       ], 
       "housenumber": "30", 
-      "lat": 51.099084700648, 
-      "lon": 2.595887859289, 
+      "lat": 51.099080331949, 
+      "lon": 2.59589630735, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Prins Albertlaan"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2"
+      "apptnrs": [
+        "0101", 
+        "0201", 
+        "G001"
       ], 
       "hnrlbls": [
-        "30G-30K"
-      ], 
-      "housenumber": "30G", 
-      "lat": 51.099060260932, 
-      "lon": 2.59590692153, 
-      "municipality": "De Panne", 
-      "pcode": "8660", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Prins Albertlaan"
-    }, 
-    {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "30G-30K"
-      ], 
-      "housenumber": "30K", 
-      "lat": 51.099060260932, 
-      "lon": 2.59590692153, 
-      "municipality": "De Panne", 
-      "pcode": "8660", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Prins Albertlaan"
-    }, 
-    {
-      "busnrs": [
-        "101", 
-        "201"
-      ], 
-      "hnrlbls": [
-        "31-31G"
+        "31"
       ], 
       "housenumber": "31", 
       "lat": 51.099665377607, 
       "lon": 2.594955907334, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Prins Albertlaan"
-    }, 
-    {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "31-31G"
-      ], 
-      "housenumber": "31G", 
-      "lat": 51.099665377607, 
-      "lon": 2.594955907334, 
-      "municipality": "De Panne", 
-      "pcode": "8660", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Prins Albertlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "30-32"
-      ], 
-      "housenumber": "32", 
-      "lat": 51.099084700648, 
-      "lon": 2.595887859289, 
-      "municipality": "De Panne", 
-      "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Prins Albertlaan"
     }, 
     {
@@ -623,7 +393,7 @@
       "lon": 2.594993565652, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Prins Albertlaan"
     }, 
     {
@@ -635,7 +405,7 @@
       "lon": 2.595830573644, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Prins Albertlaan"
     }, 
     {
@@ -647,12 +417,14 @@
       "lon": 2.595042552821, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Prins Albertlaan"
     }, 
     {
-      "busnrs": [
-        "101"
+      "apptnrs": [
+        "0101", 
+        "G001", 
+        "K001"
       ], 
       "hnrlbls": [
         "36"
@@ -662,37 +434,7 @@
       "lon": 2.595789261831, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Prins Albertlaan"
-    }, 
-    {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "36G-36K"
-      ], 
-      "housenumber": "36G", 
-      "lat": 51.099206937556, 
-      "lon": 2.595789119111, 
-      "municipality": "De Panne", 
-      "pcode": "8660", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Prins Albertlaan"
-    }, 
-    {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "36G-36K"
-      ], 
-      "housenumber": "36K", 
-      "lat": 51.099206937556, 
-      "lon": 2.595789119111, 
-      "municipality": "De Panne", 
-      "pcode": "8660", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Prins Albertlaan"
     }, 
     {
@@ -704,19 +446,7 @@
       "lon": 2.595062584521, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Prins Albertlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "37B"
-      ], 
-      "housenumber": "37B", 
-      "lat": 51.100204878446, 
-      "lon": 2.594927302194, 
-      "municipality": "De Panne", 
-      "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Prins Albertlaan"
     }, 
     {
@@ -728,23 +458,31 @@
       "lon": 2.595732672496, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Prins Albertlaan"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
       "hnrlbls": [
-        "39"
+        "39_1"
       ], 
-      "housenumber": "39", 
-      "lat": 51.100286285937, 
-      "lon": 2.595079156661, 
+      "housenumber": "39_1", 
+      "lat": 51.100255270289, 
+      "lon": 2.595073478523, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Prins Albertlaan"
+    }, 
+    {
+      "hnrlbls": [
+        "39_2"
+      ], 
+      "housenumber": "39_2", 
+      "lat": 51.100317209575, 
+      "lon": 2.595084695494, 
+      "municipality": "De Panne", 
+      "pcode": "8660", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Prins Albertlaan"
     }, 
     {
@@ -756,49 +494,25 @@
       "lon": 2.596386241089, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Prins Albertlaan"
     }, 
     {
+      "apptnrs": [
+        "0101", 
+        "0201", 
+        "G001", 
+        "K001"
+      ], 
       "hnrlbls": [
-        "40-40K"
+        "40"
       ], 
       "housenumber": "40", 
       "lat": 51.09929804124, 
       "lon": 2.595688845679, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Prins Albertlaan"
-    }, 
-    {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "40-40K"
-      ], 
-      "housenumber": "40G", 
-      "lat": 51.09929804124, 
-      "lon": 2.595688845679, 
-      "municipality": "De Panne", 
-      "pcode": "8660", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Prins Albertlaan"
-    }, 
-    {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "40-40K"
-      ], 
-      "housenumber": "40K", 
-      "lat": 51.09929804124, 
-      "lon": 2.595688845679, 
-      "municipality": "De Panne", 
-      "pcode": "8660", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Prins Albertlaan"
     }, 
     {
@@ -810,13 +524,17 @@
       "lon": 2.595175262271, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Prins Albertlaan"
     }, 
     {
-      "busnrs": [
-        "102", 
-        "202"
+      "apptnrs": [
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "G001", 
+        "G002"
       ], 
       "hnrlbls": [
         "42"
@@ -826,7 +544,7 @@
       "lon": 2.595641365461, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Prins Albertlaan"
     }, 
     {
@@ -838,35 +556,28 @@
       "lon": 2.595239271023, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Prins Albertlaan"
     }, 
     {
+      "apptnrs": [
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "G001", 
+        "G002", 
+        "G003"
+      ], 
       "hnrlbls": [
-        "45-45G"
+        "45"
       ], 
       "housenumber": "45", 
       "lat": 51.101022508165, 
       "lon": 2.595091787454, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Prins Albertlaan"
-    }, 
-    {
-      "busnrs": [
-        "2", 
-        "3"
-      ], 
-      "hnrlbls": [
-        "45-45G"
-      ], 
-      "housenumber": "45G", 
-      "lat": 51.101022508165, 
-      "lon": 2.595091787454, 
-      "municipality": "De Panne", 
-      "pcode": "8660", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Prins Albertlaan"
     }, 
     {
@@ -878,7 +589,7 @@
       "lon": 2.595554714061, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Prins Albertlaan"
     }, 
     {
@@ -890,7 +601,7 @@
       "lon": 2.595235866978, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Prins Albertlaan"
     }, 
     {
@@ -902,7 +613,7 @@
       "lon": 2.595578862587, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Prins Albertlaan"
     }, 
     {
@@ -914,19 +625,24 @@
       "lon": 2.595326016497, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Prins Albertlaan"
     }, 
     {
+      "apptnrs": [
+        "0101", 
+        "G001", 
+        "K001"
+      ], 
       "hnrlbls": [
-        "5-5K"
+        "5"
       ], 
       "housenumber": "5", 
       "lat": 51.098521322874, 
       "lon": 2.59567988341, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Prins Albertlaan"
     }, 
     {
@@ -938,53 +654,25 @@
       "lon": 2.595594789584, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Prins Albertlaan"
     }, 
     {
-      "busnrs": [
-        "101", 
-        "201"
+      "apptnrs": [
+        "0101", 
+        "0201", 
+        "G001", 
+        "K001"
       ], 
       "hnrlbls": [
-        "52-52K"
+        "52"
       ], 
       "housenumber": "52", 
       "lat": 51.1001274203, 
       "lon": 2.595630121737, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Prins Albertlaan"
-    }, 
-    {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "52-52K"
-      ], 
-      "housenumber": "52G", 
-      "lat": 51.1001274203, 
-      "lon": 2.595630121737, 
-      "municipality": "De Panne", 
-      "pcode": "8660", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Prins Albertlaan"
-    }, 
-    {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "52-52K"
-      ], 
-      "housenumber": "52K", 
-      "lat": 51.1001274203, 
-      "lon": 2.595630121737, 
-      "municipality": "De Panne", 
-      "pcode": "8660", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Prins Albertlaan"
     }, 
     {
@@ -996,38 +684,26 @@
       "lon": 2.595502782147, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Prins Albertlaan"
     }, 
     {
-      "busnrs": [
-        "101", 
-        "201"
+      "apptnrs": [
+        "0101", 
+        "0201", 
+        "G001", 
+        "K001", 
+        "K002"
       ], 
       "hnrlbls": [
-        "54-54G"
+        "54"
       ], 
       "housenumber": "54", 
       "lat": 51.100195305221, 
       "lon": 2.595636115822, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Prins Albertlaan"
-    }, 
-    {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "54-54G"
-      ], 
-      "housenumber": "54G", 
-      "lat": 51.100195305221, 
-      "lon": 2.595636115822, 
-      "municipality": "De Panne", 
-      "pcode": "8660", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Prins Albertlaan"
     }, 
     {
@@ -1039,13 +715,10 @@
       "lon": 2.595715012025, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Prins Albertlaan"
     }, 
     {
-      "busnrs": [
-        "101"
-      ], 
       "hnrlbls": [
         "56"
       ], 
@@ -1054,7 +727,7 @@
       "lon": 2.595641662095, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Prins Albertlaan"
     }, 
     {
@@ -1066,38 +739,24 @@
       "lon": 2.595762148528, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Prins Albertlaan"
     }, 
     {
-      "busnrs": [
-        "101", 
-        "201"
+      "apptnrs": [
+        "0101", 
+        "0201", 
+        "G001"
       ], 
       "hnrlbls": [
-        "58-58G"
+        "58"
       ], 
       "housenumber": "58", 
       "lat": 51.100437430781, 
       "lon": 2.595629362239, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Prins Albertlaan"
-    }, 
-    {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "58-58G"
-      ], 
-      "housenumber": "58G", 
-      "lat": 51.100437430781, 
-      "lon": 2.595629362239, 
-      "municipality": "De Panne", 
-      "pcode": "8660", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Prins Albertlaan"
     }, 
     {
@@ -1109,37 +768,7 @@
       "lon": 2.595805381833, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Prins Albertlaan"
-    }, 
-    {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "5-5K"
-      ], 
-      "housenumber": "5G", 
-      "lat": 51.098521322874, 
-      "lon": 2.59567988341, 
-      "municipality": "De Panne", 
-      "pcode": "8660", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Prins Albertlaan"
-    }, 
-    {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "5-5K"
-      ], 
-      "housenumber": "5K", 
-      "lat": 51.098521322874, 
-      "lon": 2.59567988341, 
-      "municipality": "De Panne", 
-      "pcode": "8660", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Prins Albertlaan"
     }, 
     {
@@ -1151,7 +780,7 @@
       "lon": 2.596352331052, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Prins Albertlaan"
     }, 
     {
@@ -1163,10 +792,21 @@
       "lon": 2.595762001862, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Prins Albertlaan"
     }, 
     {
+      "apptnrs": [
+        "0101", 
+        "0102", 
+        "0103", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0204", 
+        "G001", 
+        "G002"
+      ], 
       "hnrlbls": [
         "62"
       ], 
@@ -1175,23 +815,7 @@
       "lon": 2.595730669557, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Prins Albertlaan"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
-      "hnrlbls": [
-        "62G"
-      ], 
-      "housenumber": "62G", 
-      "lat": 51.100729641931, 
-      "lon": 2.595730526833, 
-      "municipality": "De Panne", 
-      "pcode": "8660", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Prins Albertlaan"
     }, 
     {
@@ -1203,7 +827,7 @@
       "lon": 2.595740564721, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Prins Albertlaan"
     }, 
     {
@@ -1215,7 +839,7 @@
       "lon": 2.595804396265, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Prins Albertlaan"
     }, 
     {
@@ -1227,7 +851,7 @@
       "lon": 2.595707378624, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Prins Albertlaan"
     }, 
     {
@@ -1239,12 +863,19 @@
       "lon": 2.595812804894, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Prins Albertlaan"
     }, 
     {
-      "busnrs": [
-        "101"
+      "apptnrs": [
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302", 
+        "G001", 
+        "G002"
       ], 
       "hnrlbls": [
         "67-73"
@@ -1254,7 +885,7 @@
       "lon": 2.595801011636, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Prins Albertlaan"
     }, 
     {
@@ -1266,13 +897,18 @@
       "lon": 2.595827418496, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Prins Albertlaan"
     }, 
     {
-      "busnrs": [
-        "101", 
-        "301"
+      "apptnrs": [
+        "0101", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302", 
+        "G001", 
+        "G002"
       ], 
       "hnrlbls": [
         "67-73"
@@ -1282,7 +918,7 @@
       "lon": 2.595801011636, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Prins Albertlaan"
     }, 
     {
@@ -1294,7 +930,7 @@
       "lon": 2.595652626487, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Prins Albertlaan"
     }, 
     {
@@ -1306,13 +942,17 @@
       "lon": 2.59585354517, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Prins Albertlaan"
     }, 
     {
-      "busnrs": [
-        "101", 
-        "102"
+      "apptnrs": [
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302"
       ], 
       "hnrlbls": [
         "67-73"
@@ -1322,7 +962,7 @@
       "lon": 2.595801011636, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Prins Albertlaan"
     }, 
     {
@@ -1334,14 +974,16 @@
       "lon": 2.595895457798, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Prins Albertlaan"
     }, 
     {
-      "busnrs": [
-        "102", 
-        "202", 
-        "301"
+      "apptnrs": [
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301"
       ], 
       "hnrlbls": [
         "67-73"
@@ -1351,7 +993,7 @@
       "lon": 2.595801011636, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Prins Albertlaan"
     }, 
     {
@@ -1363,7 +1005,7 @@
       "lon": 2.595965956284, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Prins Albertlaan"
     }, 
     {
@@ -1375,7 +1017,7 @@
       "lon": 2.596091157966, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Prins Albertlaan"
     }, 
     {
@@ -1387,7 +1029,7 @@
       "lon": 2.59613418854, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Prins Albertlaan"
     }, 
     {
@@ -1399,7 +1041,7 @@
       "lon": 2.596325957713, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Prins Albertlaan"
     }, 
     {
@@ -1411,39 +1053,32 @@
       "lon": 2.596257109063, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Prins Albertlaan"
     }, 
     {
-      "busnrs": [
-        "102", 
-        "201", 
-        "203"
+      "apptnrs": [
+        "0101", 
+        "0102", 
+        "0103", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "G001", 
+        "G002", 
+        "G003", 
+        "K001", 
+        "K002"
       ], 
       "hnrlbls": [
-        "82-82K"
+        "82"
       ], 
       "housenumber": "82", 
       "lat": 51.102363283796, 
       "lon": 2.59637692114, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Prins Albertlaan"
-    }, 
-    {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "82-82K"
-      ], 
-      "housenumber": "82K", 
-      "lat": 51.102363283796, 
-      "lon": 2.59637692114, 
-      "municipality": "De Panne", 
-      "pcode": "8660", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Prins Albertlaan"
     }, 
     {
@@ -1455,13 +1090,10 @@
       "lon": 2.596413740984, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Prins Albertlaan"
     }, 
     {
-      "busnrs": [
-        "101"
-      ], 
       "hnrlbls": [
         "86"
       ], 
@@ -1470,81 +1102,60 @@
       "lon": 2.596432078429, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Prins Albertlaan"
     }, 
     {
-      "busnrs": [
-        "101", 
-        "201"
+      "apptnrs": [
+        "0101", 
+        "0201", 
+        "G001"
       ], 
       "hnrlbls": [
-        "88-88G"
+        "88"
       ], 
       "housenumber": "88", 
       "lat": 51.102679449139, 
       "lon": 2.59648661216, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Prins Albertlaan"
     }, 
     {
-      "busnrs": [
-        "1"
+      "apptnrs": [
+        "0101", 
+        "G001", 
+        "K001"
       ], 
       "hnrlbls": [
-        "88-88G"
-      ], 
-      "housenumber": "88G", 
-      "lat": 51.102679449139, 
-      "lon": 2.59648661216, 
-      "municipality": "De Panne", 
-      "pcode": "8660", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Prins Albertlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "9-9K"
+        "9"
       ], 
       "housenumber": "9", 
       "lat": 51.098616531863, 
       "lon": 2.595619439319, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Prins Albertlaan"
     }, 
     {
-      "busnrs": [
-        "101", 
-        "201"
+      "apptnrs": [
+        "0101", 
+        "0102", 
+        "0201", 
+        "G001", 
+        "G002"
       ], 
       "hnrlbls": [
-        "4-90"
+        "90"
       ], 
       "housenumber": "90", 
       "lat": 51.102886931275, 
       "lon": 2.596567862684, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Prins Albertlaan"
-    }, 
-    {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "9-9K"
-      ], 
-      "housenumber": "9K", 
-      "lat": 51.098616531863, 
-      "lon": 2.595619439319, 
-      "municipality": "De Panne", 
-      "pcode": "8660", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Prins Albertlaan"
     }
   ]

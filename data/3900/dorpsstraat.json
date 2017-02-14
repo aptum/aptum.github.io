@@ -49,11 +49,11 @@
         "99-103"
       ], 
       "housenumber": "101", 
-      "lat": 51.209807112739, 
-      "lon": 5.421319025475, 
+      "lat": 51.209714502446, 
+      "lon": 5.421250672667, 
       "municipality": "Overpelt", 
       "pcode": "3900", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Dorpsstraat"
     }, 
     {
@@ -81,11 +81,11 @@
         "99-103"
       ], 
       "housenumber": "103", 
-      "lat": 51.209807112739, 
-      "lon": 5.421319025475, 
+      "lat": 51.209714502446, 
+      "lon": 5.421250672667, 
       "municipality": "Overpelt", 
       "pcode": "3900", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Dorpsstraat"
     }, 
     {
@@ -136,19 +136,31 @@
         "C"
       ], 
       "hnrlbls": [
-        "107"
+        "107-107C"
       ], 
       "housenumber": "107", 
-      "lat": 51.209643922218, 
-      "lon": 5.42101008066, 
+      "lat": 51.209781898193, 
+      "lon": 5.420869939706, 
       "municipality": "Overpelt", 
       "pcode": "3900", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Dorpsstraat"
     }, 
     {
       "hnrlbls": [
-        "107C"
+        "107-107C"
+      ], 
+      "housenumber": "107A", 
+      "lat": 51.209781898193, 
+      "lon": 5.420869939706, 
+      "municipality": "Overpelt", 
+      "pcode": "3900", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "street": "Dorpsstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "107-107C"
       ], 
       "housenumber": "107C", 
       "lat": 51.209781898193, 
@@ -172,6 +184,7 @@
     }, 
     {
       "busnrs": [
+        "1", 
         "2"
       ], 
       "hnrlbls": [
@@ -205,8 +218,8 @@
         "114"
       ], 
       "housenumber": "114", 
-      "lat": 51.211578763912, 
-      "lon": 5.422642084792, 
+      "lat": 51.211578798586, 
+      "lon": 5.422642097906, 
       "municipality": "Overpelt", 
       "pcode": "3900", 
       "source": "afgeleidVanGebouw", 
@@ -229,8 +242,8 @@
         "116"
       ], 
       "housenumber": "116", 
-      "lat": 51.211524641319, 
-      "lon": 5.422640616776, 
+      "lat": 51.211524606445, 
+      "lon": 5.422640586181, 
       "municipality": "Overpelt", 
       "pcode": "3900", 
       "source": "afgeleidVanGebouw", 
@@ -280,8 +293,8 @@
         "120"
       ], 
       "housenumber": "120", 
-      "lat": 51.211473882458, 
-      "lon": 5.422580098456, 
+      "lat": 51.211473907387, 
+      "lon": 5.422580045598, 
       "municipality": "Overpelt", 
       "pcode": "3900", 
       "source": "afgeleidVanGebouw", 
@@ -314,8 +327,8 @@
         "122"
       ], 
       "housenumber": "122", 
-      "lat": 51.211405769665, 
-      "lon": 5.422486655273, 
+      "lat": 51.211405792642, 
+      "lon": 5.422486623557, 
       "municipality": "Overpelt", 
       "pcode": "3900", 
       "source": "afgeleidVanGebouw", 
@@ -537,8 +550,8 @@
         "158"
       ], 
       "housenumber": "158", 
-      "lat": 51.210413232517, 
-      "lon": 5.421677330497, 
+      "lat": 51.2104132161, 
+      "lon": 5.421677335147, 
       "municipality": "Overpelt", 
       "pcode": "3900", 
       "source": "manueleAanduidingVanIngangVanGebouw", 
@@ -594,8 +607,8 @@
         "162"
       ], 
       "housenumber": "162", 
-      "lat": 51.210219997548, 
-      "lon": 5.421330348269, 
+      "lat": 51.210219981518, 
+      "lon": 5.421330353613, 
       "municipality": "Overpelt", 
       "pcode": "3900", 
       "source": "manueleAanduidingVanIngangVanGebouw", 
@@ -606,8 +619,8 @@
         "164"
       ], 
       "housenumber": "164", 
-      "lat": 51.210164393448, 
-      "lon": 5.421214887067, 
+      "lat": 51.21016437753, 
+      "lon": 5.421214892642, 
       "municipality": "Overpelt", 
       "pcode": "3900", 
       "source": "manueleAanduidingVanIngangVanGebouw", 
@@ -625,8 +638,8 @@
         "166"
       ], 
       "housenumber": "166", 
-      "lat": 51.210139567447, 
-      "lon": 5.421176257993, 
+      "lat": 51.210139551578, 
+      "lon": 5.421176263645, 
       "municipality": "Overpelt", 
       "pcode": "3900", 
       "source": "manueleAanduidingVanIngangVanGebouw", 
@@ -641,8 +654,8 @@
         "168"
       ], 
       "housenumber": "168", 
-      "lat": 51.210063029779, 
-      "lon": 5.420966165241, 
+      "lat": 51.210063036325, 
+      "lon": 5.420966161947, 
       "municipality": "Overpelt", 
       "pcode": "3900", 
       "source": "manueleAanduidingVanIngangVanGebouw", 
@@ -670,8 +683,8 @@
         "170"
       ], 
       "housenumber": "170", 
-      "lat": 51.210018660409, 
-      "lon": 5.420860976474, 
+      "lat": 51.210018667044, 
+      "lon": 5.42086097339, 
       "municipality": "Overpelt", 
       "pcode": "3900", 
       "source": "manueleAanduidingVanIngangVanGebouw", 
@@ -682,8 +695,8 @@
         "174"
       ], 
       "housenumber": "174", 
-      "lat": 51.209916696634, 
-      "lon": 5.420722430379, 
+      "lat": 51.209916703473, 
+      "lon": 5.420722427572, 
       "municipality": "Overpelt", 
       "pcode": "3900", 
       "source": "manueleAanduidingVanIngangVanGebouw", 
@@ -698,20 +711,23 @@
         "176"
       ], 
       "housenumber": "176", 
-      "lat": 51.210061315079, 
-      "lon": 5.420593457181, 
+      "lat": 51.210061321628, 
+      "lon": 5.420593454632, 
       "municipality": "Overpelt", 
       "pcode": "3900", 
       "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Dorpsstraat"
     }, 
     {
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "178"
       ], 
       "housenumber": "178", 
-      "lat": 51.209788049897, 
-      "lon": 5.420471081831, 
+      "lat": 51.209788056993, 
+      "lon": 5.420471079527, 
       "municipality": "Overpelt", 
       "pcode": "3900", 
       "source": "manueleAanduidingVanIngangVanGebouw", 
@@ -738,8 +754,8 @@
         "180"
       ], 
       "housenumber": "180", 
-      "lat": 51.209836826659, 
-      "lon": 5.420363988748, 
+      "lat": 51.209836833657, 
+      "lon": 5.420363986658, 
       "municipality": "Overpelt", 
       "pcode": "3900", 
       "source": "manueleAanduidingVanIngangVanGebouw", 
@@ -774,8 +790,8 @@
         "19"
       ], 
       "housenumber": "19", 
-      "lat": 51.214522943511, 
-      "lon": 5.425634782867, 
+      "lat": 51.214513640041, 
+      "lon": 5.425629705528, 
       "municipality": "Overpelt", 
       "pcode": "3900", 
       "source": "afgeleidVanPerceelGrb", 
@@ -830,8 +846,8 @@
         "204"
       ], 
       "housenumber": "204", 
-      "lat": 51.209445977437, 
-      "lon": 5.418949471886, 
+      "lat": 51.209445976576, 
+      "lon": 5.418949521502, 
       "municipality": "Overpelt", 
       "pcode": "3900", 
       "source": "afgeleidVanGebouw", 
@@ -842,8 +858,8 @@
         "206"
       ], 
       "housenumber": "206", 
-      "lat": 51.209404359075, 
-      "lon": 5.418878364679, 
+      "lat": 51.209404359786, 
+      "lon": 5.418878315817, 
       "municipality": "Overpelt", 
       "pcode": "3900", 
       "source": "afgeleidVanGebouw", 
@@ -909,8 +925,8 @@
         "214"
       ], 
       "housenumber": "214", 
-      "lat": 51.209370681015, 
-      "lon": 5.41826310269, 
+      "lat": 51.209370724473, 
+      "lon": 5.418263036208, 
       "municipality": "Overpelt", 
       "pcode": "3900", 
       "source": "afgeleidVanGebouw", 
@@ -921,8 +937,8 @@
         "216"
       ], 
       "housenumber": "216", 
-      "lat": 51.209319404659, 
-      "lon": 5.418162406017, 
+      "lat": 51.209319390431, 
+      "lon": 5.418162417698, 
       "municipality": "Overpelt", 
       "pcode": "3900", 
       "source": "manueleAanduidingVanIngangVanGebouw", 
@@ -1054,8 +1070,8 @@
         "31"
       ], 
       "housenumber": "31", 
-      "lat": 51.213780381412, 
-      "lon": 5.425129743102, 
+      "lat": 51.213780358261, 
+      "lon": 5.425129740846, 
       "municipality": "Overpelt", 
       "pcode": "3900", 
       "source": "manueleAanduidingVanIngangVanGebouw", 
@@ -1078,8 +1094,8 @@
         "33"
       ], 
       "housenumber": "33", 
-      "lat": 51.213681194434, 
-      "lon": 5.425103449644, 
+      "lat": 51.213681171482, 
+      "lon": 5.42510344744, 
       "municipality": "Overpelt", 
       "pcode": "3900", 
       "source": "manueleAanduidingVanIngangVanGebouw", 
@@ -1090,8 +1106,8 @@
         "35"
       ], 
       "housenumber": "35", 
-      "lat": 51.21372238998, 
-      "lon": 5.425000188056, 
+      "lat": 51.213722366945, 
+      "lon": 5.425000186059, 
       "municipality": "Overpelt", 
       "pcode": "3900", 
       "source": "manueleAanduidingVanIngangVanGebouw", 
@@ -1102,8 +1118,8 @@
         "37"
       ], 
       "housenumber": "37", 
-      "lat": 51.213724073551, 
-      "lon": 5.424811873002, 
+      "lat": 51.213724050513, 
+      "lon": 5.424811871382, 
       "municipality": "Overpelt", 
       "pcode": "3900", 
       "source": "manueleAanduidingVanIngangVanGebouw", 
@@ -1122,8 +1138,8 @@
         "39"
       ], 
       "housenumber": "39", 
-      "lat": 51.213704657832, 
-      "lon": 5.424731282747, 
+      "lat": 51.213704634833, 
+      "lon": 5.424731281288, 
       "municipality": "Overpelt", 
       "pcode": "3900", 
       "source": "manueleAanduidingVanIngangVanGebouw", 
@@ -1146,8 +1162,8 @@
         "41"
       ], 
       "housenumber": "41", 
-      "lat": 51.213663023246, 
-      "lon": 5.424602099011, 
+      "lat": 51.21366300033, 
+      "lon": 5.424602097811, 
       "municipality": "Overpelt", 
       "pcode": "3900", 
       "source": "manueleAanduidingVanIngangVanGebouw", 
@@ -1245,8 +1261,8 @@
         "52"
       ], 
       "housenumber": "52", 
-      "lat": 51.213795034521, 
-      "lon": 5.424235406204, 
+      "lat": 51.213795004267, 
+      "lon": 5.424235395551, 
       "municipality": "Overpelt", 
       "pcode": "3900", 
       "source": "afgeleidVanGebouw", 
@@ -1310,7 +1326,11 @@
     }, 
     {
       "busnrs": [
-        "1"
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5"
       ], 
       "hnrlbls": [
         "58"
@@ -1435,8 +1455,8 @@
         "70"
       ], 
       "housenumber": "70", 
-      "lat": 51.213166877938, 
-      "lon": 5.42314585472, 
+      "lat": 51.21316685144, 
+      "lon": 5.423145881729, 
       "municipality": "Overpelt", 
       "pcode": "3900", 
       "source": "manueleAanduidingVanIngangVanGebouw", 
@@ -1475,8 +1495,8 @@
         "76"
       ], 
       "housenumber": "76", 
-      "lat": 51.21282820096, 
-      "lon": 5.423082923466, 
+      "lat": 51.212828155954, 
+      "lon": 5.423082973403, 
       "municipality": "Overpelt", 
       "pcode": "3900", 
       "source": "manueleAanduidingVanIngangVanGebouw", 
@@ -1495,8 +1515,8 @@
         "78"
       ], 
       "housenumber": "78", 
-      "lat": 51.212829611188, 
-      "lon": 5.423065923763, 
+      "lat": 51.212829566178, 
+      "lon": 5.423065973735, 
       "municipality": "Overpelt", 
       "pcode": "3900", 
       "source": "manueleAanduidingVanIngangVanGebouw", 
@@ -1507,8 +1527,8 @@
         "78A"
       ], 
       "housenumber": "78A", 
-      "lat": 51.212792349678, 
-      "lon": 5.423081110513, 
+      "lat": 51.212792304743, 
+      "lon": 5.423081160454, 
       "municipality": "Overpelt", 
       "pcode": "3900", 
       "source": "manueleAanduidingVanIngangVanGebouw", 
@@ -1519,8 +1539,8 @@
         "78B"
       ], 
       "housenumber": "78B", 
-      "lat": 51.212804932212, 
-      "lon": 5.423081395178, 
+      "lat": 51.212804887252, 
+      "lon": 5.423081445118, 
       "municipality": "Overpelt", 
       "pcode": "3900", 
       "source": "manueleAanduidingVanIngangVanGebouw", 
@@ -1633,8 +1653,8 @@
         "90"
       ], 
       "housenumber": "90", 
-      "lat": 51.212486008088, 
-      "lon": 5.422810759965, 
+      "lat": 51.212486024584, 
+      "lon": 5.422810744775, 
       "municipality": "Overpelt", 
       "pcode": "3900", 
       "source": "afgeleidVanGebouw", 
@@ -1645,8 +1665,8 @@
         "91"
       ], 
       "housenumber": "91", 
-      "lat": 51.210286024833, 
-      "lon": 5.422060460283, 
+      "lat": 51.210286017611, 
+      "lon": 5.422060441554, 
       "municipality": "Overpelt", 
       "pcode": "3900", 
       "source": "manueleAanduidingVanIngangVanGebouw", 
@@ -1660,8 +1680,8 @@
         "92"
       ], 
       "housenumber": "92", 
-      "lat": 51.212370190101, 
-      "lon": 5.422949812123, 
+      "lat": 51.21237016977, 
+      "lon": 5.422949814228, 
       "municipality": "Overpelt", 
       "pcode": "3900", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1672,8 +1692,8 @@
         "93"
       ], 
       "housenumber": "93", 
-      "lat": 51.210334579352, 
-      "lon": 5.42184587031, 
+      "lat": 51.210334585355, 
+      "lon": 5.421845865256, 
       "municipality": "Overpelt", 
       "pcode": "3900", 
       "source": "manueleAanduidingVanIngangVanGebouw", 
@@ -1756,11 +1776,11 @@
         "99-103"
       ], 
       "housenumber": "99", 
-      "lat": 51.209807112739, 
-      "lon": 5.421319025475, 
+      "lat": 51.209714502446, 
+      "lon": 5.421250672667, 
       "municipality": "Overpelt", 
       "pcode": "3900", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Dorpsstraat"
     }
   ]

@@ -13,9 +13,6 @@
       "street": "Jezusstraat"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
         "10-14"
       ], 
@@ -28,8 +25,14 @@
       "street": "Jezusstraat"
     }, 
     {
-      "busnrs": [
-        "5"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301", 
+        "401", 
+        "501", 
+        "601"
       ], 
       "hnrlbls": [
         "10-14"
@@ -43,10 +46,6 @@
       "street": "Jezusstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "34"
-      ], 
       "hnrlbls": [
         "15"
       ], 
@@ -71,35 +70,6 @@
       "street": "Jezusstraat"
     }, 
     {
-      "busnrs": [
-        "34"
-      ], 
-      "hnrlbls": [
-        "15_1"
-      ], 
-      "housenumber": "15_1", 
-      "lat": 51.219087877839, 
-      "lon": 4.413474653878, 
-      "municipality": "Antwerpen", 
-      "pcode": "2000", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Jezusstraat"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "14", 
-        "18", 
-        "2", 
-        "20", 
-        "23", 
-        "24", 
-        "27", 
-        "30", 
-        "34", 
-        "35", 
-        "38"
-      ], 
       "hnrlbls": [
         "16-18"
       ], 
@@ -109,21 +79,6 @@
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
-      "street": "Jezusstraat"
-    }, 
-    {
-      "busnrs": [
-        "24"
-      ], 
-      "hnrlbls": [
-        "16_1-18A"
-      ], 
-      "housenumber": "16_1", 
-      "lat": 51.218843298114, 
-      "lon": 4.413666422745, 
-      "municipality": "Antwerpen", 
-      "pcode": "2000", 
-      "source": "manueleAanduidingVanGebouw", 
       "street": "Jezusstraat"
     }, 
     {
@@ -185,11 +140,11 @@
     }, 
     {
       "hnrlbls": [
-        "16_1-18A"
+        "18A"
       ], 
       "housenumber": "18A", 
-      "lat": 51.218843298114, 
-      "lon": 4.413666422745, 
+      "lat": 51.218843320579, 
+      "lon": 4.413666438511, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "manueleAanduidingVanGebouw", 
@@ -208,10 +163,6 @@
       "street": "Jezusstraat"
     }, 
     {
-      "busnrs": [
-        "4", 
-        "6"
-      ], 
       "hnrlbls": [
         "2-4"
       ], 
@@ -224,6 +175,12 @@
       "street": "Jezusstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
         "20"
       ], 
@@ -290,8 +247,8 @@
         "23"
       ], 
       "housenumber": "23", 
-      "lat": 51.219400226095, 
-      "lon": 4.414007971885, 
+      "lat": 51.219400199152, 
+      "lon": 4.414007914607, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "manueleAanduidingVanGebouw", 
@@ -350,9 +307,6 @@
       "street": "Jezusstraat"
     }, 
     {
-      "busnrs": [
-        "30"
-      ], 
       "hnrlbls": [
         "28-30"
       ], 
@@ -434,84 +388,6 @@
       "street": "Jezusstraat"
     }, 
     {
-      "busnrs": [
-        "3"
-      ], 
-      "hnrlbls": [
-        "32A-32_4"
-      ], 
-      "housenumber": "32A", 
-      "lat": 51.219234373462, 
-      "lon": 4.414299992228, 
-      "municipality": "Antwerpen", 
-      "pcode": "2000", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Jezusstraat"
-    }, 
-    {
-      "busnrs": [
-        "3", 
-        "4"
-      ], 
-      "hnrlbls": [
-        "32A-32_4"
-      ], 
-      "housenumber": "32B", 
-      "lat": 51.219234373462, 
-      "lon": 4.414299992228, 
-      "municipality": "Antwerpen", 
-      "pcode": "2000", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Jezusstraat"
-    }, 
-    {
-      "busnrs": [
-        "2", 
-        "3", 
-        "4"
-      ], 
-      "hnrlbls": [
-        "32A-32_4"
-      ], 
-      "housenumber": "32C", 
-      "lat": 51.219234373462, 
-      "lon": 4.414299992228, 
-      "municipality": "Antwerpen", 
-      "pcode": "2000", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Jezusstraat"
-    }, 
-    {
-      "busnrs": [
-        "b"
-      ], 
-      "hnrlbls": [
-        "32A-32_4"
-      ], 
-      "housenumber": "32_3", 
-      "lat": 51.219234373462, 
-      "lon": 4.414299992228, 
-      "municipality": "Antwerpen", 
-      "pcode": "2000", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Jezusstraat"
-    }, 
-    {
-      "busnrs": [
-        "A"
-      ], 
-      "hnrlbls": [
-        "32A-32_4"
-      ], 
-      "housenumber": "32_4", 
-      "lat": 51.219234373462, 
-      "lon": 4.414299992228, 
-      "municipality": "Antwerpen", 
-      "pcode": "2000", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Jezusstraat"
-    }, 
-    {
       "hnrlbls": [
         "33-35"
       ], 
@@ -572,18 +448,14 @@
       "street": "Jezusstraat"
     }, 
     {
-      "hnrlbls": [
-        "37B"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301", 
+        "401", 
+        "501"
       ], 
-      "housenumber": "37B", 
-      "lat": 51.219593573746, 
-      "lon": 4.414380812595, 
-      "municipality": "Antwerpen", 
-      "pcode": "2000", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Jezusstraat"
-    }, 
-    {
       "hnrlbls": [
         "38"
       ], 
@@ -628,18 +500,17 @@
         "5", 
         "6", 
         "7", 
-        "8", 
-        "C"
+        "8"
       ], 
       "hnrlbls": [
-        "40-42"
+        "40"
       ], 
       "housenumber": "40", 
-      "lat": 51.219429509192, 
-      "lon": 4.414676638961, 
+      "lat": 51.219450515461, 
+      "lon": 4.414515783667, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Jezusstraat"
     }, 
     {
@@ -656,7 +527,7 @@
     }, 
     {
       "hnrlbls": [
-        "40-42"
+        "42"
       ], 
       "housenumber": "42", 
       "lat": 51.219429509192, 
@@ -679,33 +550,33 @@
       "street": "Jezusstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "6", 
-        "7", 
-        "8", 
-        "9"
+      "apptnrs": [
+        "101", 
+        "102", 
+        "201", 
+        "202", 
+        "301", 
+        "302", 
+        "401"
       ], 
       "hnrlbls": [
-        "44-44B"
+        "44"
       ], 
       "housenumber": "44", 
-      "lat": 51.219429988402, 
-      "lon": 4.414676313108, 
+      "lat": 51.219510345656, 
+      "lon": 4.414598428455, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Jezusstraat"
     }, 
     {
       "hnrlbls": [
-        "44-44B"
+        "44A-44B"
       ], 
       "housenumber": "44A", 
-      "lat": 51.219429988402, 
-      "lon": 4.414676313108, 
+      "lat": 51.219429958725, 
+      "lon": 4.414676353154, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "manueleAanduidingVanGebouw", 
@@ -713,11 +584,11 @@
     }, 
     {
       "hnrlbls": [
-        "44-44B"
+        "44A-44B"
       ], 
       "housenumber": "44B", 
-      "lat": 51.219429988402, 
-      "lon": 4.414676313108, 
+      "lat": 51.219429958725, 
+      "lon": 4.414676353154, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "manueleAanduidingVanGebouw", 
@@ -737,14 +608,14 @@
     }, 
     {
       "hnrlbls": [
-        "8-104"
+        "48"
       ], 
       "housenumber": "48", 
-      "lat": 51.21966660871, 
-      "lon": 4.414940090307, 
+      "lat": 51.21970117643, 
+      "lon": 4.414808016859, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Jezusstraat"
     }, 
     {
@@ -760,33 +631,24 @@
       "street": "Jezusstraat"
     }, 
     {
-      "busnrs": [
-        "2", 
-        "4", 
-        "5", 
-        "7"
-      ], 
       "hnrlbls": [
         "6-6A"
       ], 
       "housenumber": "6", 
-      "lat": 51.218570306075, 
-      "lon": 4.413207619728, 
+      "lat": 51.21857033934, 
+      "lon": 4.41320759686, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "manueleAanduidingVanGebouw", 
       "street": "Jezusstraat"
     }, 
     {
-      "busnrs": [
-        "2"
-      ], 
       "hnrlbls": [
         "6-6A"
       ], 
       "housenumber": "6A", 
-      "lat": 51.218570306075, 
-      "lon": 4.413207619728, 
+      "lat": 51.21857033934, 
+      "lon": 4.41320759686, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "manueleAanduidingVanGebouw", 
@@ -805,9 +667,6 @@
       "street": "Jezusstraat"
     }, 
     {
-      "busnrs": [
-        "3"
-      ], 
       "hnrlbls": [
         "8"
       ], 

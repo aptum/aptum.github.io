@@ -5,8 +5,8 @@
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 51.23403151657, 
-      "lon": 2.918099842806, 
+      "lat": 51.23403147925, 
+      "lon": 2.918099850889, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanPerceel", 
@@ -75,8 +75,10 @@
     }, 
     {
       "busnrs": [
+        "1", 
         "2", 
         "301", 
+        "302", 
         "308", 
         "6"
       ], 
@@ -93,8 +95,11 @@
     }, 
     {
       "busnrs": [
+        "202", 
+        "301", 
         "4", 
         "5", 
+        "501", 
         "8", 
         "9"
       ], 
@@ -113,7 +118,9 @@
       "busnrs": [
         "2", 
         "3", 
-        "4"
+        "301", 
+        "4", 
+        "501"
       ], 
       "hnrlbls": [
         "16"
@@ -129,7 +136,9 @@
     {
       "busnrs": [
         "1", 
+        "101", 
         "3", 
+        "401", 
         "7", 
         "9"
       ], 
@@ -161,7 +170,9 @@
         "1", 
         "2", 
         "3", 
+        "301", 
         "4", 
+        "401", 
         "6"
       ], 
       "hnrlbls": [
@@ -185,18 +196,6 @@
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanPerceelGrb", 
-      "street": "Hofstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "1B"
-      ], 
-      "housenumber": "1B", 
-      "lat": 51.234007668166, 
-      "lon": 2.918137537325, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Hofstraat"
     }, 
     {
@@ -225,16 +224,24 @@
     }, 
     {
       "busnrs": [
+        "101", 
+        "102", 
+        "104", 
         "14", 
         "18", 
         "1A", 
+        "201", 
+        "203", 
+        "22", 
         "23", 
         "2C", 
         "3", 
+        "303", 
         "3C", 
         "4", 
         "5D", 
         "6", 
+        "601", 
         "7", 
         "9"
       ], 
@@ -251,70 +258,64 @@
     }, 
     {
       "hnrlbls": [
-        "24"
-      ], 
-      "housenumber": "24", 
-      "lat": 51.234916477185, 
-      "lon": 2.919311598858, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Hofstraat"
-    }, 
-    {
-      "hnrlbls": [
         "25"
       ], 
       "housenumber": "25", 
-      "lat": 51.234732211138, 
-      "lon": 2.919717720808, 
+      "lat": 51.234768585674, 
+      "lon": 2.919634105749, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hofstraat"
     }, 
     {
-      "busnrs": [
-        "11", 
-        "12", 
-        "21", 
-        "25", 
-        "2A", 
-        "3", 
-        "6", 
-        "B"
-      ], 
-      "hnrlbls": [
-        "13-26"
-      ], 
-      "housenumber": "26", 
-      "lat": 51.234981213827, 
-      "lon": 2.919378324193, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Hofstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "27"
-      ], 
-      "housenumber": "27", 
-      "lat": 51.234798719686, 
-      "lon": 2.919848402999, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Hofstraat"
-    }, 
-    {
-      "apptnrs": [
-        "15.0", 
-        "35.0"
-      ], 
       "busnrs": [
         "1", 
         "10", 
+        "11", 
+        "12", 
+        "13", 
+        "14", 
+        "15", 
+        "16", 
+        "17", 
+        "18", 
+        "19", 
+        "2", 
+        "20", 
+        "21", 
+        "22", 
+        "23", 
+        "24", 
+        "25", 
+        "3", 
+        "302", 
+        "4", 
+        "5", 
+        "501", 
+        "503", 
+        "6", 
+        "7", 
+        "8", 
+        "9"
+      ], 
+      "hnrlbls": [
+        "26"
+      ], 
+      "housenumber": "26", 
+      "lat": 51.23488279317, 
+      "lon": 2.919402004558, 
+      "municipality": "Oostende", 
+      "pcode": "8400", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Hofstraat"
+    }, 
+    {
+      "busnrs": [
+        "1", 
+        "10", 
+        "102", 
+        "105", 
         "14", 
         "15", 
         "24", 
@@ -324,40 +325,55 @@
         "28", 
         "30", 
         "301", 
+        "302", 
+        "305", 
         "32", 
         "37", 
         "38", 
         "39", 
         "4", 
+        "401", 
         "42", 
         "43", 
         "45", 
         "46", 
         "5", 
+        "505", 
+        "605", 
+        "702", 
+        "705", 
         "8", 
-        "81"
+        "801", 
+        "802", 
+        "81", 
+        "901", 
+        "903", 
+        "904"
       ], 
       "hnrlbls": [
         "28"
       ], 
       "housenumber": "28", 
-      "lat": 51.234987164263, 
-      "lon": 2.919526497887, 
+      "lat": 51.234938116119, 
+      "lon": 2.919536900855, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hofstraat"
     }, 
     {
+      "busnrs": [
+        "301"
+      ], 
       "hnrlbls": [
         "29"
       ], 
       "housenumber": "29", 
-      "lat": 51.23487340925, 
-      "lon": 2.91978713598, 
+      "lat": 51.234848184989, 
+      "lon": 2.919761946696, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hofstraat"
     }, 
     {
@@ -374,42 +390,53 @@
     }, 
     {
       "busnrs": [
+        "105", 
+        "32", 
         "38", 
         "41", 
         "42", 
-        "43"
+        "43", 
+        "605", 
+        "606", 
+        "806"
       ], 
       "hnrlbls": [
         "31"
       ], 
       "housenumber": "31", 
-      "lat": 51.234865793488, 
-      "lon": 2.919900449585, 
+      "lat": 51.23491643647, 
+      "lon": 2.919888135823, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hofstraat"
     }, 
     {
       "busnrs": [
         "1", 
+        "101", 
+        "102", 
+        "103", 
         "19", 
         "1C", 
         "2", 
+        "201", 
         "24", 
         "26", 
         "29", 
-        "8"
+        "603", 
+        "8", 
+        "801"
       ], 
       "hnrlbls": [
-        "10-33"
+        "33"
       ], 
       "housenumber": "33", 
-      "lat": 51.234769335757, 
-      "lon": 2.919922922176, 
+      "lat": 51.234934541077, 
+      "lon": 2.919927670171, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hofstraat"
     }, 
     {
@@ -435,6 +462,7 @@
         "2L", 
         "3", 
         "301", 
+        "302", 
         "401", 
         "4R", 
         "501", 

@@ -120,8 +120,8 @@
         "106"
       ], 
       "housenumber": "106", 
-      "lat": 51.191118531564, 
-      "lon": 5.124840133384, 
+      "lat": 51.191119257019, 
+      "lon": 5.124839143809, 
       "municipality": "Mol", 
       "pcode": "2400", 
       "source": "afgeleidVanPerceelGrb", 
@@ -163,6 +163,25 @@
       "housenumber": "11", 
       "lat": 51.188062143847, 
       "lon": 5.120527414028, 
+      "municipality": "Mol", 
+      "pcode": "2400", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Rozenberg"
+    }, 
+    {
+      "apptnrs": [
+        "101", 
+        "102"
+      ], 
+      "busnrs": [
+        "1"
+      ], 
+      "hnrlbls": [
+        "110"
+      ], 
+      "housenumber": "110", 
+      "lat": 51.191168423092, 
+      "lon": 5.124937929861, 
       "municipality": "Mol", 
       "pcode": "2400", 
       "source": "afgeleidVanGebouw", 
@@ -494,6 +513,9 @@
       "street": "Rozenberg"
     }, 
     {
+      "apptnrs": [
+        "101"
+      ], 
       "busnrs": [
         "1"
       ], 
@@ -586,8 +608,8 @@
         "144"
       ], 
       "housenumber": "144", 
-      "lat": 51.192137859278, 
-      "lon": 5.126413502276, 
+      "lat": 51.192145030497, 
+      "lon": 5.126402603832, 
       "municipality": "Mol", 
       "pcode": "2400", 
       "source": "afgeleidVanGebouw", 
@@ -856,7 +878,7 @@
       "street": "Rozenberg"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "101", 
         "102", 
@@ -888,7 +910,7 @@
       "street": "Rozenberg"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "101", 
         "2", 
@@ -899,8 +921,8 @@
         "165"
       ], 
       "housenumber": "165", 
-      "lat": 51.192157133274, 
-      "lon": 5.125861205429, 
+      "lat": 51.192164336548, 
+      "lon": 5.125845300594, 
       "municipality": "Mol", 
       "pcode": "2400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -923,11 +945,11 @@
         "167"
       ], 
       "housenumber": "167", 
-      "lat": 51.192228534806, 
-      "lon": 5.125870662195, 
+      "lat": 51.192196234755, 
+      "lon": 5.125903325663, 
       "municipality": "Mol", 
       "pcode": "2400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Rozenberg"
     }, 
     {
@@ -956,8 +978,8 @@
     }, 
     {
       "apptnrs": [
-        "1", 
-        "2"
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "17"
@@ -967,7 +989,7 @@
       "lon": 5.120713461566, 
       "municipality": "Mol", 
       "pcode": "2400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Rozenberg"
     }, 
     {
@@ -1288,8 +1310,8 @@
         "33"
       ], 
       "housenumber": "33", 
-      "lat": 51.188527626726, 
-      "lon": 5.121058164071, 
+      "lat": 51.188527626678, 
+      "lon": 5.121058164144, 
       "municipality": "Mol", 
       "pcode": "2400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1329,8 +1351,8 @@
         "4"
       ], 
       "housenumber": "4", 
-      "lat": 51.18802737786, 
-      "lon": 5.120963014856, 
+      "lat": 51.188027368348, 
+      "lon": 5.120962980042, 
       "municipality": "Mol", 
       "pcode": "2400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1346,6 +1368,29 @@
       "municipality": "Mol", 
       "pcode": "2400", 
       "source": "afgeleidVanGebouw", 
+      "street": "Rozenberg"
+    }, 
+    {
+      "apptnrs": [
+        "1", 
+        "101", 
+        "102", 
+        "2", 
+        "201", 
+        "202", 
+        "3", 
+        "301", 
+        "302"
+      ], 
+      "hnrlbls": [
+        "42"
+      ], 
+      "housenumber": "42", 
+      "lat": 51.189135527197, 
+      "lon": 5.122132927675, 
+      "municipality": "Mol", 
+      "pcode": "2400", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Rozenberg"
     }, 
     {
@@ -1436,8 +1481,8 @@
         "49"
       ], 
       "housenumber": "49", 
-      "lat": 51.188925849648, 
-      "lon": 5.121422911085, 
+      "lat": 51.188925849597, 
+      "lon": 5.121422911157, 
       "municipality": "Mol", 
       "pcode": "2400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1706,18 +1751,19 @@
       "street": "Rozenberg"
     }, 
     {
-      "busnrs": [
-        "2"
+      "apptnrs": [
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "73"
       ], 
       "housenumber": "73", 
-      "lat": 51.189854996635, 
-      "lon": 5.12251418361, 
+      "lat": 51.189814297169, 
+      "lon": 5.122609508576, 
       "municipality": "Mol", 
       "pcode": "2400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Rozenberg"
     }, 
     {
@@ -2034,8 +2080,8 @@
         "98A"
       ], 
       "housenumber": "98A", 
-      "lat": 51.190797132731, 
-      "lon": 5.126010916927, 
+      "lat": 51.190795028821, 
+      "lon": 5.126002585971, 
       "municipality": "Mol", 
       "pcode": "2400", 
       "source": "afgeleidVanPerceelGrb", 

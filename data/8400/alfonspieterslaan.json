@@ -2,14 +2,14 @@
   "addresses": [
     {
       "hnrlbls": [
-        "1-3B"
+        "1"
       ], 
       "housenumber": "1", 
-      "lat": 51.22671633869, 
-      "lon": 2.91591583489, 
+      "lat": 51.226725474713, 
+      "lon": 2.915986280267, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Alfons Pieterslaan"
     }, 
     {
@@ -43,6 +43,7 @@
       "busnrs": [
         "1", 
         "10", 
+        "104", 
         "11", 
         "13", 
         "14", 
@@ -52,43 +53,34 @@
         "18", 
         "19", 
         "2", 
+        "202", 
+        "203", 
+        "204", 
         "23", 
         "24", 
         "26", 
         "27", 
         "29", 
         "3", 
+        "301", 
         "4", 
         "5", 
         "6", 
         "7", 
+        "701", 
+        "702", 
         "8", 
         "9"
       ], 
       "hnrlbls": [
-        "97A-103"
+        "101"
       ], 
       "housenumber": "101", 
-      "lat": 51.225070330553, 
-      "lon": 2.90990301056, 
+      "lat": 51.225045524754, 
+      "lon": 2.909859832298, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Alfons Pieterslaan"
-    }, 
-    {
-      "busnrs": [
-        "21"
-      ], 
-      "hnrlbls": [
-        "101A"
-      ], 
-      "housenumber": "101A", 
-      "lat": 51.225070242451, 
-      "lon": 2.909903156489, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Alfons Pieterslaan"
     }, 
     {
@@ -119,14 +111,14 @@
     }, 
     {
       "hnrlbls": [
-        "97A-103"
+        "103"
       ], 
       "housenumber": "103", 
-      "lat": 51.225070330553, 
-      "lon": 2.90990301056, 
+      "lat": 51.224978734298, 
+      "lon": 2.909845742943, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Alfons Pieterslaan"
     }, 
     {
@@ -144,6 +136,7 @@
     {
       "busnrs": [
         "2", 
+        "301", 
         "4", 
         "5", 
         "6"
@@ -152,11 +145,11 @@
         "105"
       ], 
       "housenumber": "105", 
-      "lat": 51.225013103593, 
-      "lon": 2.909753180286, 
+      "lat": 51.224963494602, 
+      "lon": 2.9097909549, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Alfons Pieterslaan"
     }, 
     {
@@ -171,22 +164,6 @@
       "housenumber": "106", 
       "lat": 51.224967418847, 
       "lon": 2.91069253507, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Alfons Pieterslaan"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
-      "hnrlbls": [
-        "107-111"
-      ], 
-      "housenumber": "107", 
-      "lat": 51.224965608997, 
-      "lon": 2.909627098944, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -211,18 +188,6 @@
     }, 
     {
       "hnrlbls": [
-        "107-111"
-      ], 
-      "housenumber": "109", 
-      "lat": 51.224965608997, 
-      "lon": 2.909627098944, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Alfons Pieterslaan"
-    }, 
-    {
-      "hnrlbls": [
         "11"
       ], 
       "housenumber": "11", 
@@ -235,7 +200,7 @@
     }, 
     {
       "hnrlbls": [
-        "110-110A"
+        "110"
       ], 
       "housenumber": "110", 
       "lat": 51.224835036094, 
@@ -246,21 +211,6 @@
       "street": "Alfons Pieterslaan"
     }, 
     {
-      "hnrlbls": [
-        "110-110A"
-      ], 
-      "housenumber": "110A", 
-      "lat": 51.224835036094, 
-      "lon": 2.91030939202, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Alfons Pieterslaan"
-    }, 
-    {
-      "apptnrs": [
-        "7.0"
-      ], 
       "busnrs": [
         "102", 
         "11", 
@@ -275,17 +225,18 @@
         "41", 
         "501", 
         "52", 
-        "601"
+        "601", 
+        "7"
       ], 
       "hnrlbls": [
-        "107-111"
+        "111"
       ], 
       "housenumber": "111", 
-      "lat": 51.224965608997, 
-      "lon": 2.909627098944, 
+      "lat": 51.224940767242, 
+      "lon": 2.909712204914, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Alfons Pieterslaan"
     }, 
     {
@@ -317,10 +268,13 @@
         "16", 
         "17", 
         "2", 
+        "303", 
         "3C", 
         "4", 
         "5", 
+        "601", 
         "7", 
+        "701", 
         "8", 
         "9", 
         "B"
@@ -329,11 +283,11 @@
         "113"
       ], 
       "housenumber": "113", 
-      "lat": 51.224950747067, 
-      "lon": 2.909457188174, 
+      "lat": 51.224875289135, 
+      "lon": 2.909454681254, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Alfons Pieterslaan"
     }, 
     {
@@ -358,9 +312,6 @@
       "street": "Alfons Pieterslaan"
     }, 
     {
-      "apptnrs": [
-        "0.0"
-      ], 
       "busnrs": [
         "118", 
         "13", 
@@ -370,8 +321,8 @@
         "116"
       ], 
       "housenumber": "116", 
-      "lat": 51.224802559246, 
-      "lon": 2.910030505534, 
+      "lat": 51.224798462454, 
+      "lon": 2.910033640285, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -380,6 +331,7 @@
     {
       "busnrs": [
         "10", 
+        "102", 
         "14", 
         "4", 
         "5", 
@@ -434,7 +386,8 @@
     }, 
     {
       "busnrs": [
-        "101"
+        "101", 
+        "2"
       ], 
       "hnrlbls": [
         "122"
@@ -466,68 +419,28 @@
         "12", 
         "1A", 
         "2", 
+        "201", 
+        "2A", 
+        "2B", 
         "3", 
+        "3B", 
         "4", 
+        "5A", 
+        "5B", 
         "6B", 
         "7", 
         "8", 
         "9"
       ], 
       "hnrlbls": [
-        "126-126_5"
+        "126"
       ], 
       "housenumber": "126", 
-      "lat": 51.22461380695, 
-      "lon": 2.909727587284, 
+      "lat": 51.224687355977, 
+      "lon": 2.909626354602, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Alfons Pieterslaan"
-    }, 
-    {
-      "busnrs": [
-        "AB"
-      ], 
-      "hnrlbls": [
-        "126-126_5"
-      ], 
-      "housenumber": "126_2", 
-      "lat": 51.22461380695, 
-      "lon": 2.909727587284, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Alfons Pieterslaan"
-    }, 
-    {
-      "busnrs": [
-        "B"
-      ], 
-      "hnrlbls": [
-        "126-126_5"
-      ], 
-      "housenumber": "126_3", 
-      "lat": 51.22461380695, 
-      "lon": 2.909727587284, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Alfons Pieterslaan"
-    }, 
-    {
-      "busnrs": [
-        "A", 
-        "B"
-      ], 
-      "hnrlbls": [
-        "126-126_5"
-      ], 
-      "housenumber": "126_5", 
-      "lat": 51.22461380695, 
-      "lon": 2.909727587284, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Alfons Pieterslaan"
     }, 
     {
@@ -565,6 +478,18 @@
       "street": "Alfons Pieterslaan"
     }, 
     {
+      "hnrlbls": [
+        "130"
+      ], 
+      "housenumber": "130", 
+      "lat": 51.224611645994, 
+      "lon": 2.90939936187, 
+      "municipality": "Oostende", 
+      "pcode": "8400", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Alfons Pieterslaan"
+    }, 
+    {
       "busnrs": [
         "1", 
         "101", 
@@ -576,7 +501,7 @@
         "7"
       ], 
       "hnrlbls": [
-        "14-14A"
+        "14"
       ], 
       "housenumber": "14", 
       "lat": 51.226364874135, 
@@ -584,18 +509,6 @@
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
-      "street": "Alfons Pieterslaan"
-    }, 
-    {
-      "hnrlbls": [
-        "14-14A"
-      ], 
-      "housenumber": "14A", 
-      "lat": 51.226364874135, 
-      "lon": 2.91581725288, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Alfons Pieterslaan"
     }, 
     {
@@ -657,35 +570,11 @@
         "1A"
       ], 
       "housenumber": "1A", 
-      "lat": 51.226822229216, 
-      "lon": 2.916039249155, 
+      "lat": 51.226760915581, 
+      "lon": 2.916097714358, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Alfons Pieterslaan"
-    }, 
-    {
-      "hnrlbls": [
-        "1B-1C"
-      ], 
-      "housenumber": "1B", 
-      "lat": 51.226783582101, 
-      "lon": 2.915842437414, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Alfons Pieterslaan"
-    }, 
-    {
-      "hnrlbls": [
-        "1B-1C"
-      ], 
-      "housenumber": "1C", 
-      "lat": 51.226783582101, 
-      "lon": 2.915842437414, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Alfons Pieterslaan"
     }, 
     {
@@ -769,6 +658,7 @@
         "102", 
         "1A", 
         "1B", 
+        "202", 
         "2A", 
         "2B", 
         "3", 
@@ -811,11 +701,11 @@
         "28"
       ], 
       "housenumber": "28", 
-      "lat": 51.226099337438, 
-      "lon": 2.914963604445, 
+      "lat": 51.226173705634, 
+      "lon": 2.914914038091, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Alfons Pieterslaan"
     }, 
     {
@@ -833,14 +723,14 @@
         "6"
       ], 
       "hnrlbls": [
-        "1-3B"
+        "3"
       ], 
       "housenumber": "3", 
-      "lat": 51.22671633869, 
-      "lon": 2.91591583489, 
+      "lat": 51.226680692662, 
+      "lon": 2.915824309165, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Alfons Pieterslaan"
     }, 
     {
@@ -848,16 +738,17 @@
         "30"
       ], 
       "housenumber": "30", 
-      "lat": 51.226064586124, 
-      "lon": 2.914857162432, 
+      "lat": 51.226142156047, 
+      "lon": 2.914804775781, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Alfons Pieterslaan"
     }, 
     {
       "busnrs": [
         "1", 
+        "101", 
         "2", 
         "3"
       ], 
@@ -873,15 +764,22 @@
       "street": "Alfons Pieterslaan"
     }, 
     {
+      "busnrs": [
+        "202", 
+        "301", 
+        "303", 
+        "401", 
+        "501"
+      ], 
       "hnrlbls": [
         "32"
       ], 
       "housenumber": "32", 
-      "lat": 51.226060873682, 
-      "lon": 2.914759918422, 
+      "lat": 51.226119733449, 
+      "lon": 2.914721287147, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Alfons Pieterslaan"
     }, 
     {
@@ -898,14 +796,14 @@
     }, 
     {
       "hnrlbls": [
-        "34-36"
+        "34"
       ], 
       "housenumber": "34", 
-      "lat": 51.226058624226, 
-      "lon": 2.914635425358, 
+      "lat": 51.226098642813, 
+      "lon": 2.914643770464, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Alfons Pieterslaan"
     }, 
     {
@@ -922,14 +820,14 @@
     }, 
     {
       "hnrlbls": [
-        "34-36"
+        "36"
       ], 
       "housenumber": "36", 
-      "lat": 51.226058624226, 
-      "lon": 2.914635425358, 
+      "lat": 51.226082806329, 
+      "lon": 2.914584130224, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Alfons Pieterslaan"
     }, 
     {
@@ -952,11 +850,11 @@
         "38"
       ], 
       "housenumber": "38", 
-      "lat": 51.226031164116, 
-      "lon": 2.914529758563, 
+      "lat": 51.226064207232, 
+      "lon": 2.914504531508, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Alfons Pieterslaan"
     }, 
     {
@@ -964,23 +862,11 @@
         "39"
       ], 
       "housenumber": "39", 
-      "lat": 51.226020864034, 
-      "lon": 2.913411763648, 
+      "lat": 51.226020830876, 
+      "lon": 2.913411733067, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
-      "street": "Alfons Pieterslaan"
-    }, 
-    {
-      "hnrlbls": [
-        "1-3B"
-      ], 
-      "housenumber": "3B", 
-      "lat": 51.22671633869, 
-      "lon": 2.91591583489, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
       "street": "Alfons Pieterslaan"
     }, 
     {
@@ -1022,6 +908,7 @@
     {
       "busnrs": [
         "1", 
+        "201", 
         "401"
       ], 
       "hnrlbls": [
@@ -1053,6 +940,7 @@
         "2", 
         "3", 
         "4", 
+        "401", 
         "7"
       ], 
       "hnrlbls": [
@@ -1067,6 +955,9 @@
       "street": "Alfons Pieterslaan"
     }, 
     {
+      "busnrs": [
+        "101"
+      ], 
       "hnrlbls": [
         "44"
       ], 
@@ -1188,12 +1079,13 @@
     {
       "busnrs": [
         "1", 
+        "101", 
         "2", 
         "3", 
         "4"
       ], 
       "hnrlbls": [
-        "52-52A"
+        "52"
       ], 
       "housenumber": "52", 
       "lat": 51.225802888402, 
@@ -1201,18 +1093,6 @@
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
-      "street": "Alfons Pieterslaan"
-    }, 
-    {
-      "hnrlbls": [
-        "52-52A"
-      ], 
-      "housenumber": "52A", 
-      "lat": 51.225802888402, 
-      "lon": 2.91378993059, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Alfons Pieterslaan"
     }, 
     {
@@ -1233,6 +1113,7 @@
     {
       "busnrs": [
         "1", 
+        "101", 
         "2", 
         "3", 
         "4", 
@@ -1353,17 +1234,18 @@
     {
       "busnrs": [
         "2", 
+        "201", 
         "4"
       ], 
       "hnrlbls": [
         "60"
       ], 
       "housenumber": "60", 
-      "lat": 51.225706391128, 
-      "lon": 2.91348024662, 
+      "lat": 51.225730056149, 
+      "lon": 2.913460036394, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Alfons Pieterslaan"
     }, 
     {
@@ -1420,7 +1302,8 @@
         "2", 
         "201", 
         "3", 
-        "4"
+        "4", 
+        "401"
       ], 
       "hnrlbls": [
         "64"
@@ -1461,7 +1344,8 @@
       "busnrs": [
         "1", 
         "2", 
-        "4"
+        "4", 
+        "401"
       ], 
       "hnrlbls": [
         "68"
@@ -1487,18 +1371,6 @@
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
-      "street": "Alfons Pieterslaan"
-    }, 
-    {
-      "hnrlbls": [
-        "1A-346A"
-      ], 
-      "housenumber": "6A", 
-      "lat": 51.210194941414, 
-      "lon": 2.924232651409, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "manueleAanduidingVanPerceel", 
       "street": "Alfons Pieterslaan"
     }, 
     {
@@ -1566,6 +1438,7 @@
         "301", 
         "401", 
         "501", 
+        "601", 
         "701"
       ], 
       "hnrlbls": [
@@ -1577,18 +1450,6 @@
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
-      "street": "Alfons Pieterslaan"
-    }, 
-    {
-      "hnrlbls": [
-        "73A"
-      ], 
-      "housenumber": "73A", 
-      "lat": 51.225431406357, 
-      "lon": 2.911130890124, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Alfons Pieterslaan"
     }, 
     {
@@ -1615,9 +1476,11 @@
         "16", 
         "1A", 
         "2", 
+        "201", 
         "3", 
         "4", 
         "5", 
+        "502", 
         "6", 
         "8", 
         "A"
@@ -1683,7 +1546,9 @@
         "3", 
         "4", 
         "5", 
-        "7"
+        "6", 
+        "7", 
+        "701"
       ], 
       "hnrlbls": [
         "8"
@@ -1698,7 +1563,8 @@
     }, 
     {
       "busnrs": [
-        "2"
+        "2", 
+        "301"
       ], 
       "hnrlbls": [
         "80"
@@ -1736,19 +1602,11 @@
       "street": "Alfons Pieterslaan"
     }, 
     {
-      "hnrlbls": [
-        "83"
-      ], 
-      "housenumber": "83", 
-      "lat": 51.22540220562, 
-      "lon": 2.91049038225, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Alfons Pieterslaan"
-    }, 
-    {
       "busnrs": [
+        "101", 
+        "201", 
+        "301", 
+        "401", 
         "501"
       ], 
       "hnrlbls": [
@@ -1775,11 +1633,15 @@
       "street": "Alfons Pieterslaan"
     }, 
     {
-      "apptnrs": [
-        "A1"
+      "busnrs": [
+        "A", 
+        "A1", 
+        "B", 
+        "C", 
+        "D"
       ], 
       "hnrlbls": [
-        "86-86D"
+        "86"
       ], 
       "housenumber": "86", 
       "lat": 51.225206849564, 
@@ -1790,41 +1652,9 @@
       "street": "Alfons Pieterslaan"
     }, 
     {
-      "apptnrs": [
-        "0.1"
-      ], 
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "86-86D"
-      ], 
-      "housenumber": "86A", 
-      "lat": 51.225206849564, 
-      "lon": 2.911562704163, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Alfons Pieterslaan"
-    }, 
-    {
-      "busnrs": [
-        "2"
-      ], 
-      "hnrlbls": [
-        "86-86D"
-      ], 
-      "housenumber": "86D", 
-      "lat": 51.225206849564, 
-      "lon": 2.911562704163, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Alfons Pieterslaan"
-    }, 
-    {
       "busnrs": [
         "1", 
+        "101", 
         "2", 
         "3", 
         "5", 
@@ -1832,26 +1662,14 @@
         "7"
       ], 
       "hnrlbls": [
-        "87-87A"
+        "87"
       ], 
       "housenumber": "87", 
-      "lat": 51.225267272714, 
-      "lon": 2.910316063369, 
+      "lat": 51.225202817733, 
+      "lon": 2.910447651006, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Alfons Pieterslaan"
-    }, 
-    {
-      "hnrlbls": [
-        "87-87A"
-      ], 
-      "housenumber": "87A", 
-      "lat": 51.225267272714, 
-      "lon": 2.910316063369, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Alfons Pieterslaan"
     }, 
     {
@@ -1889,11 +1707,11 @@
         "9"
       ], 
       "housenumber": "9", 
-      "lat": 51.226716767276, 
-      "lon": 2.915467674192, 
+      "lat": 51.226601277709, 
+      "lon": 2.915558181781, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Alfons Pieterslaan"
     }, 
     {
@@ -1951,6 +1769,7 @@
     {
       "busnrs": [
         "1", 
+        "101", 
         "2", 
         "201", 
         "3"
@@ -2016,11 +1835,11 @@
         "96A"
       ], 
       "housenumber": "96A", 
-      "lat": 51.225018646719, 
-      "lon": 2.911180012664, 
+      "lat": 51.225126075238, 
+      "lon": 2.911114088606, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Alfons Pieterslaan"
     }, 
     {
@@ -2030,7 +1849,8 @@
         "3", 
         "4", 
         "5", 
-        "6"
+        "6", 
+        "601"
       ], 
       "hnrlbls": [
         "97"
@@ -2045,19 +1865,20 @@
     }, 
     {
       "hnrlbls": [
-        "97A-103"
+        "97A"
       ], 
       "housenumber": "97A", 
-      "lat": 51.225070330553, 
-      "lon": 2.90990301056, 
+      "lat": 51.225031419263, 
+      "lon": 2.910035517399, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Alfons Pieterslaan"
     }, 
     {
       "busnrs": [
         "1", 
+        "101", 
         "2"
       ], 
       "hnrlbls": [
@@ -2073,6 +1894,7 @@
     }, 
     {
       "busnrs": [
+        "1", 
         "11", 
         "33", 
         "36", 
@@ -2080,50 +1902,50 @@
         "7"
       ], 
       "hnrlbls": [
-        "97A-103"
+        "99"
       ], 
       "housenumber": "99", 
-      "lat": 51.225070330553, 
-      "lon": 2.90990301056, 
+      "lat": 51.225017578834, 
+      "lon": 2.909984837488, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Alfons Pieterslaan"
     }, 
     {
       "hnrlbls": [
-        "97A-103"
+        "99A"
       ], 
       "housenumber": "99A", 
-      "lat": 51.225070330553, 
-      "lon": 2.90990301056, 
+      "lat": 51.225101276811, 
+      "lon": 2.909926525234, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Alfons Pieterslaan"
     }, 
     {
       "hnrlbls": [
-        "97A-103"
+        "99K"
       ], 
       "housenumber": "99K", 
-      "lat": 51.225070330553, 
-      "lon": 2.90990301056, 
+      "lat": 51.224988883205, 
+      "lon": 2.909895965546, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Alfons Pieterslaan"
     }, 
     {
       "hnrlbls": [
-        "9A-14"
+        "9A"
       ], 
       "housenumber": "9A", 
-      "lat": 51.226712987996, 
-      "lon": 2.91545275826, 
+      "lat": 51.226580767459, 
+      "lon": 2.915476636876, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Alfons Pieterslaan"
     }
   ]

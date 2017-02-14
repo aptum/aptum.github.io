@@ -57,11 +57,11 @@
         "26"
       ], 
       "housenumber": "26", 
-      "lat": 50.836012838605, 
-      "lon": 4.192000608217, 
+      "lat": 50.83602043194, 
+      "lon": 4.191968780407, 
       "municipality": "Dilbeek", 
       "pcode": "1703", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Marktstraat"
     }, 
     {
@@ -285,8 +285,8 @@
         "39"
       ], 
       "housenumber": "39", 
-      "lat": 50.836704907598, 
-      "lon": 4.190767566258, 
+      "lat": 50.836704885169, 
+      "lon": 4.190767618549, 
       "municipality": "Dilbeek", 
       "pcode": "1703", 
       "source": "manueleAanduidingVanLigplaats", 
@@ -301,8 +301,8 @@
         "39A"
       ], 
       "housenumber": "39A", 
-      "lat": 50.836902820322, 
-      "lon": 4.190850608853, 
+      "lat": 50.836902781027, 
+      "lon": 4.190850631183, 
       "municipality": "Dilbeek", 
       "pcode": "1703", 
       "source": "manueleAanduidingVanLigplaats", 
@@ -322,7 +322,8 @@
     }, 
     {
       "busnrs": [
-        "1"
+        "1", 
+        "2"
       ], 
       "hnrlbls": [
         "41"
@@ -333,6 +334,18 @@
       "municipality": "Dilbeek", 
       "pcode": "1703", 
       "source": "afgeleidVanGebouw", 
+      "street": "Marktstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "41A"
+      ], 
+      "housenumber": "41A", 
+      "lat": 50.836855945348, 
+      "lon": 4.190375370175, 
+      "municipality": "Dilbeek", 
+      "pcode": "1703", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Marktstraat"
     }, 
     {
@@ -539,19 +552,23 @@
       "street": "Marktstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2"
+      "apptnrs": [
+        "001", 
+        "002", 
+        "003", 
+        "101", 
+        "102", 
+        "103"
       ], 
       "hnrlbls": [
-        "60"
+        "58"
       ], 
-      "housenumber": "60", 
-      "lat": 50.837551414475, 
-      "lon": 4.190755908442, 
+      "housenumber": "58", 
+      "lat": 50.837307442438, 
+      "lon": 4.190818441461, 
       "municipality": "Dilbeek", 
       "pcode": "1703", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanLigplaats", 
       "street": "Marktstraat"
     }
   ]

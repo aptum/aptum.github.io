@@ -374,37 +374,6 @@
     }, 
     {
       "apptnrs": [
-        "0101"
-      ], 
-      "hnrlbls": [
-        "20-22"
-      ], 
-      "housenumber": "20", 
-      "lat": 51.187318038288, 
-      "lon": 2.816997316395, 
-      "municipality": "Middelkerke", 
-      "pcode": "8430", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Koninginnelaan"
-    }, 
-    {
-      "apptnrs": [
-        "0001", 
-        "0101"
-      ], 
-      "hnrlbls": [
-        "20-22"
-      ], 
-      "housenumber": "22", 
-      "lat": 51.187318038288, 
-      "lon": 2.816997316395, 
-      "municipality": "Middelkerke", 
-      "pcode": "8430", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Koninginnelaan"
-    }, 
-    {
-      "apptnrs": [
         "0101", 
         "0102", 
         "0103", 
@@ -535,7 +504,7 @@
       "street": "Koninginnelaan"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "0101", 
         "0201", 
         "0301", 
@@ -720,6 +689,9 @@
         "0501", 
         "0502"
       ], 
+      "busnrs": [
+        "403"
+      ], 
       "hnrlbls": [
         "43-45"
       ], 
@@ -729,6 +701,21 @@
       "municipality": "Middelkerke", 
       "pcode": "8430", 
       "source": "manueleAanduidingVanGebouw", 
+      "street": "Koninginnelaan"
+    }, 
+    {
+      "busnrs": [
+        "1"
+      ], 
+      "hnrlbls": [
+        "43A"
+      ], 
+      "housenumber": "43A", 
+      "lat": 51.186570823006, 
+      "lon": 2.816208725093, 
+      "municipality": "Middelkerke", 
+      "pcode": "8430", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Koninginnelaan"
     }, 
     {
@@ -1138,7 +1125,6 @@
         "0001", 
         "0002", 
         "0003", 
-        "0004", 
         "0101", 
         "0102", 
         "0103", 
@@ -1146,7 +1132,6 @@
         "0201", 
         "0202", 
         "0203", 
-        "0204", 
         "0301", 
         "0302", 
         "0303", 

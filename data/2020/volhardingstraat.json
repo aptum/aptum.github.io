@@ -17,9 +17,6 @@
       "street": "Volhardingstraat"
     }, 
     {
-      "busnrs": [
-        "2"
-      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -86,9 +83,12 @@
       "street": "Volhardingstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "5"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "102", 
+        "201", 
+        "202"
       ], 
       "hnrlbls": [
         "108"
@@ -118,9 +118,6 @@
       "street": "Volhardingstraat"
     }, 
     {
-      "busnrs": [
-        "2"
-      ], 
       "hnrlbls": [
         "110"
       ], 
@@ -164,9 +161,6 @@
       "street": "Volhardingstraat"
     }, 
     {
-      "busnrs": [
-        "2"
-      ], 
       "hnrlbls": [
         "116"
       ], 
@@ -206,6 +200,10 @@
       "street": "Volhardingstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "201"
+      ], 
       "hnrlbls": [
         "122"
       ], 
@@ -259,8 +257,15 @@
       "street": "Volhardingstraat"
     }, 
     {
-      "busnrs": [
-        "7"
+      "apptnrs": [
+        "001", 
+        "002", 
+        "101", 
+        "102", 
+        "103", 
+        "201", 
+        "202", 
+        "203"
       ], 
       "hnrlbls": [
         "14"
@@ -303,9 +308,6 @@
       "street": "Volhardingstraat"
     }, 
     {
-      "busnrs": [
-        "2"
-      ], 
       "hnrlbls": [
         "17"
       ], 
@@ -584,9 +586,6 @@
       "street": "Volhardingstraat"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
         "38"
       ], 
@@ -770,9 +769,6 @@
       "street": "Volhardingstraat"
     }, 
     {
-      "busnrs": [
-        "2"
-      ], 
       "hnrlbls": [
         "5"
       ], 
@@ -887,6 +883,7 @@
       "busnrs": [
         "1", 
         "2", 
+        "3", 
         "4", 
         "5", 
         "6", 
@@ -917,8 +914,8 @@
         "59"
       ], 
       "housenumber": "59", 
-      "lat": 51.191266818402, 
-      "lon": 4.391036542758, 
+      "lat": 51.191266782442, 
+      "lon": 4.39103657278, 
       "municipality": "Antwerpen", 
       "pcode": "2020", 
       "source": "manueleAanduidingVanGebouw", 
@@ -985,6 +982,10 @@
       "street": "Volhardingstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "201"
+      ], 
       "hnrlbls": [
         "65"
       ], 
@@ -994,18 +995,6 @@
       "municipality": "Antwerpen", 
       "pcode": "2020", 
       "source": "afgeleidVanGebouw", 
-      "street": "Volhardingstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "65G"
-      ], 
-      "housenumber": "65G", 
-      "lat": 51.191422589607, 
-      "lon": 4.391005287468, 
-      "municipality": "Antwerpen", 
-      "pcode": "2020", 
-      "source": "manueleAanduidingVanGebouw", 
       "street": "Volhardingstraat"
     }, 
     {
@@ -1093,10 +1082,12 @@
       "street": "Volhardingstraat"
     }, 
     {
-      "busnrs": [
-        "3", 
-        "4", 
-        "5"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "102", 
+        "201", 
+        "202"
       ], 
       "hnrlbls": [
         "73"
@@ -1226,6 +1217,11 @@
       "street": "Volhardingstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "82"
       ], 
@@ -1257,7 +1253,6 @@
       "busnrs": [
         "1", 
         "2", 
-        "23", 
         "3"
       ], 
       "hnrlbls": [
@@ -1462,21 +1457,6 @@
       "street": "Volhardingstraat"
     }, 
     {
-      "busnrs": [
-        "14"
-      ], 
-      "hnrlbls": [
-        "89O"
-      ], 
-      "housenumber": "89O", 
-      "lat": 51.193555852684, 
-      "lon": 4.390076049482, 
-      "municipality": "Antwerpen", 
-      "pcode": "2020", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Volhardingstraat"
-    }, 
-    {
       "hnrlbls": [
         "9"
       ], 
@@ -1559,10 +1539,10 @@
       "street": "Volhardingstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "92"

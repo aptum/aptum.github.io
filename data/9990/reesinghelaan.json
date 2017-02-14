@@ -2,6 +2,7 @@
   "addresses": [
     {
       "busnrs": [
+        "1", 
         "2", 
         "3", 
         "4", 
@@ -24,8 +25,8 @@
         "10"
       ], 
       "housenumber": "10", 
-      "lat": 51.209134587977, 
-      "lon": 3.435327377218, 
+      "lat": 51.209076339927, 
+      "lon": 3.4354495988, 
       "municipality": "Maldegem", 
       "pcode": "9990", 
       "source": "afgeleidVanGebouw", 
@@ -53,6 +54,18 @@
       "municipality": "Maldegem", 
       "pcode": "9990", 
       "source": "afgeleidVanGebouw", 
+      "street": "Reesinghelaan"
+    }, 
+    {
+      "hnrlbls": [
+        "10E"
+      ], 
+      "housenumber": "10E", 
+      "lat": 51.209434561709, 
+      "lon": 3.435142622245, 
+      "municipality": "Maldegem", 
+      "pcode": "9990", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Reesinghelaan"
     }, 
     {
@@ -96,11 +109,11 @@
         "2"
       ], 
       "housenumber": "2", 
-      "lat": 51.208503988539, 
-      "lon": 3.436576555517, 
+      "lat": 51.208528211435, 
+      "lon": 3.436650343794, 
       "municipality": "Maldegem", 
       "pcode": "9990", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Reesinghelaan"
     }, 
     {
@@ -193,7 +206,8 @@
         "2", 
         "3", 
         "4", 
-        "5"
+        "5", 
+        "6"
       ], 
       "hnrlbls": [
         "3"
@@ -363,26 +377,37 @@
       "street": "Reesinghelaan"
     }, 
     {
+      "hnrlbls": [
+        "47"
+      ], 
+      "housenumber": "47", 
+      "lat": 51.211741511929, 
+      "lon": 3.43459341983, 
+      "municipality": "Maldegem", 
+      "pcode": "9990", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Reesinghelaan"
+    }, 
+    {
       "busnrs": [
-        "1A", 
-        "1B", 
-        "1C", 
-        "1D", 
-        "2A", 
-        "2B", 
-        "2C", 
-        "2D", 
-        "3A", 
-        "3B", 
-        "3C", 
-        "3D", 
-        "4A", 
-        "4B", 
-        "4C", 
-        "4D", 
-        "5A", 
-        "5D", 
-        "6"
+        "A001", 
+        "A002", 
+        "A003", 
+        "A004", 
+        "A005", 
+        "B001", 
+        "B002", 
+        "B003", 
+        "B004", 
+        "C001", 
+        "C002", 
+        "C003", 
+        "C004", 
+        "D001", 
+        "D002", 
+        "D003", 
+        "D004", 
+        "D005"
       ], 
       "hnrlbls": [
         "49"
@@ -432,8 +457,8 @@
         "8"
       ], 
       "housenumber": "8", 
-      "lat": 51.209213296884, 
-      "lon": 3.435911737037, 
+      "lat": 51.209213293661, 
+      "lon": 3.435911675673, 
       "municipality": "Maldegem", 
       "pcode": "9990", 
       "source": "afgeleidVanGebouw", 

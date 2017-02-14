@@ -17,6 +17,7 @@
         "5", 
         "BS01", 
         "BS02", 
+        "BS03", 
         "BS04", 
         "BS05", 
         "BS06"
@@ -48,6 +49,7 @@
       "busnrs": [
         "3", 
         "7", 
+        "BS01", 
         "BS04", 
         "BS05", 
         "BS06", 
@@ -78,7 +80,9 @@
     }, 
     {
       "busnrs": [
-        "BS12"
+        "BS10", 
+        "BS12", 
+        "BS14"
       ], 
       "hnrlbls": [
         "111-111B"
@@ -174,6 +178,7 @@
       "busnrs": [
         "2", 
         "BS06", 
+        "BS07", 
         "BS10"
       ], 
       "hnrlbls": [
@@ -205,6 +210,7 @@
         "BS02", 
         "BS03", 
         "BS04", 
+        "BS05", 
         "BS06", 
         "BS07", 
         "BS08"
@@ -234,30 +240,6 @@
     }, 
     {
       "hnrlbls": [
-        "30-34"
-      ], 
-      "housenumber": "30", 
-      "lat": 50.893682844163, 
-      "lon": 4.431998387346, 
-      "municipality": "Machelen", 
-      "pcode": "1831", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Oude Haachtsesteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "30-34"
-      ], 
-      "housenumber": "34", 
-      "lat": 50.893682844163, 
-      "lon": 4.431998387346, 
-      "municipality": "Machelen", 
-      "pcode": "1831", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Oude Haachtsesteenweg"
-    }, 
-    {
-      "hnrlbls": [
         "36"
       ], 
       "housenumber": "36", 
@@ -265,7 +247,7 @@
       "lon": 4.432989648864, 
       "municipality": "Machelen", 
       "pcode": "1831", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Oude Haachtsesteenweg"
     }, 
     {
@@ -277,7 +259,7 @@
       "lon": 4.433194335514, 
       "municipality": "Machelen", 
       "pcode": "1831", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Oude Haachtsesteenweg"
     }, 
     {
@@ -307,8 +289,8 @@
         "40"
       ], 
       "housenumber": "40", 
-      "lat": 50.894414555619, 
-      "lon": 4.433350970737, 
+      "lat": 50.894404128247, 
+      "lon": 4.43335038769, 
       "municipality": "Machelen", 
       "pcode": "1831", 
       "source": "afgeleidVanGebouw", 
@@ -388,6 +370,7 @@
     }, 
     {
       "busnrs": [
+        "101", 
         "202"
       ], 
       "hnrlbls": [
@@ -429,7 +412,8 @@
       "busnrs": [
         "101", 
         "102", 
-        "201"
+        "201", 
+        "202"
       ], 
       "hnrlbls": [
         "57"
@@ -454,7 +438,7 @@
         "BS18"
       ], 
       "hnrlbls": [
-        "2-58"
+        "2-62"
       ], 
       "housenumber": "58", 
       "lat": 50.894657084742, 
@@ -466,14 +450,14 @@
     }, 
     {
       "hnrlbls": [
-        "62"
+        "2-62"
       ], 
       "housenumber": "62", 
-      "lat": 50.894830052919, 
-      "lon": 4.434459521418, 
+      "lat": 50.894657084742, 
+      "lon": 4.434322113287, 
       "municipality": "Machelen", 
       "pcode": "1831", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Oude Haachtsesteenweg"
     }, 
     {
@@ -481,7 +465,7 @@
         "6"
       ], 
       "hnrlbls": [
-        "64"
+        "64-66"
       ], 
       "housenumber": "64", 
       "lat": 50.894860327046, 
@@ -511,11 +495,11 @@
     }, 
     {
       "hnrlbls": [
-        "66-70"
+        "64-66"
       ], 
       "housenumber": "66", 
-      "lat": 50.894950126112, 
-      "lon": 4.434662523975, 
+      "lat": 50.894860327046, 
+      "lon": 4.434495098981, 
       "municipality": "Machelen", 
       "pcode": "1831", 
       "source": "afgeleidVanGebouw", 
@@ -535,7 +519,7 @@
     }, 
     {
       "hnrlbls": [
-        "66-70"
+        "68-70"
       ], 
       "housenumber": "68", 
       "lat": 50.894950126112, 
@@ -547,6 +531,7 @@
     }, 
     {
       "busnrs": [
+        "101", 
         "201", 
         "202"
       ], 
@@ -569,12 +554,14 @@
         "BS03", 
         "BS04", 
         "BS05", 
+        "BS06", 
         "BS07", 
         "BS09", 
+        "BS11", 
         "BS12"
       ], 
       "hnrlbls": [
-        "66-70"
+        "68-70"
       ], 
       "housenumber": "70", 
       "lat": 50.894950126112, 
@@ -724,7 +711,7 @@
     }, 
     {
       "hnrlbls": [
-        "82-86"
+        "82-84"
       ], 
       "housenumber": "82", 
       "lat": 50.895434264795, 
@@ -759,11 +746,12 @@
         "BS06", 
         "BS08", 
         "BS09", 
+        "BS10", 
         "BS11", 
         "BS12"
       ], 
       "hnrlbls": [
-        "82-86"
+        "82-84"
       ], 
       "housenumber": "84", 
       "lat": 50.895434264795, 
@@ -799,14 +787,14 @@
     }, 
     {
       "hnrlbls": [
-        "82-86"
+        "86"
       ], 
       "housenumber": "86", 
-      "lat": 50.895434264795, 
-      "lon": 4.434873436803, 
+      "lat": 50.895399738039, 
+      "lon": 4.434886606762, 
       "municipality": "Machelen", 
       "pcode": "1831", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Oude Haachtsesteenweg"
     }, 
     {
@@ -908,6 +896,7 @@
     {
       "busnrs": [
         "BS01", 
+        "BS02", 
         "BS03", 
         "BS04", 
         "BS05", 

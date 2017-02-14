@@ -53,8 +53,8 @@
         "105"
       ], 
       "housenumber": "105", 
-      "lat": 51.201381937289, 
-      "lon": 3.227634127128, 
+      "lat": 51.201381919468, 
+      "lon": 3.227634196137, 
       "municipality": "Brugge", 
       "pcode": "8000", 
       "source": "manueleAanduidingVanGebouw", 
@@ -134,11 +134,23 @@
     }, 
     {
       "hnrlbls": [
-        "111"
+        "111A"
       ], 
-      "housenumber": "111", 
-      "lat": 51.201045681877, 
-      "lon": 3.227957212158, 
+      "housenumber": "111A", 
+      "lat": 51.201053941289, 
+      "lon": 3.227918805573, 
+      "municipality": "Brugge", 
+      "pcode": "8000", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Katelijnestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "111B"
+      ], 
+      "housenumber": "111B", 
+      "lat": 51.201009010367, 
+      "lon": 3.227967123076, 
       "municipality": "Brugge", 
       "pcode": "8000", 
       "source": "afgeleidVanGebouw", 
@@ -206,7 +218,7 @@
     }, 
     {
       "hnrlbls": [
-        "117"
+        "117-117A"
       ], 
       "housenumber": "117", 
       "lat": 51.200576453611, 
@@ -218,11 +230,11 @@
     }, 
     {
       "hnrlbls": [
-        "117A"
+        "117-117A"
       ], 
       "housenumber": "117A", 
-      "lat": 51.200576484602, 
-      "lon": 3.228584286475, 
+      "lat": 51.200576453611, 
+      "lon": 3.22858424266, 
       "municipality": "Brugge", 
       "pcode": "8000", 
       "source": "afgeleidVanGebouw", 
@@ -432,6 +444,7 @@
       "busnrs": [
         "1", 
         "101", 
+        "102", 
         "2", 
         "201", 
         "202", 
@@ -485,7 +498,8 @@
       "busnrs": [
         "1", 
         "101", 
-        "2"
+        "2", 
+        "201"
       ], 
       "hnrlbls": [
         "136"
@@ -503,8 +517,8 @@
         "137"
       ], 
       "housenumber": "137", 
-      "lat": 51.200145243389, 
-      "lon": 3.228963549023, 
+      "lat": 51.200145286956, 
+      "lon": 3.228963507902, 
       "municipality": "Brugge", 
       "pcode": "8000", 
       "source": "afgeleidVanGebouw", 
@@ -566,8 +580,8 @@
         "142"
       ], 
       "housenumber": "142", 
-      "lat": 51.200168982044, 
-      "lon": 3.228582149951, 
+      "lat": 51.200168938876, 
+      "lon": 3.228582178341, 
       "municipality": "Brugge", 
       "pcode": "8000", 
       "source": "manueleAanduidingVanIngangVanGebouw", 
@@ -590,8 +604,8 @@
         "144"
       ], 
       "housenumber": "144", 
-      "lat": 51.200067681021, 
-      "lon": 3.228557936838, 
+      "lat": 51.200067662546, 
+      "lon": 3.228557895319, 
       "municipality": "Brugge", 
       "pcode": "8000", 
       "source": "afgeleidVanGebouw", 
@@ -665,8 +679,8 @@
         "152"
       ], 
       "housenumber": "152", 
-      "lat": 51.199922904021, 
-      "lon": 3.228798403754, 
+      "lat": 51.199922912624, 
+      "lon": 3.228798380634, 
       "municipality": "Brugge", 
       "pcode": "8000", 
       "source": "manueleAanduidingVanGebouw", 
@@ -746,8 +760,8 @@
         "18"
       ], 
       "housenumber": "18", 
-      "lat": 51.203569958904, 
-      "lon": 3.224695085799, 
+      "lat": 51.203569976908, 
+      "lon": 3.22469515488, 
       "municipality": "Brugge", 
       "pcode": "8000", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1009,20 +1023,23 @@
         "33"
       ], 
       "housenumber": "33", 
-      "lat": 51.20309623166, 
-      "lon": 3.225414267223, 
+      "lat": 51.203096262, 
+      "lon": 3.225414229558, 
       "municipality": "Brugge", 
       "pcode": "8000", 
       "source": "afgeleidVanGebouw", 
       "street": "Katelijnestraat"
     }, 
     {
+      "busnrs": [
+        "201"
+      ], 
       "hnrlbls": [
         "34"
       ], 
       "housenumber": "34", 
-      "lat": 51.203174186238, 
-      "lon": 3.224856574167, 
+      "lat": 51.203174201543, 
+      "lon": 3.224856537764, 
       "municipality": "Brugge", 
       "pcode": "8000", 
       "source": "afgeleidVanGebouw", 
@@ -1093,11 +1110,11 @@
         "39"
       ], 
       "housenumber": "39", 
-      "lat": 51.202978661808, 
-      "lon": 3.225579809253, 
+      "lat": 51.202984095628, 
+      "lon": 3.225537463196, 
       "municipality": "Brugge", 
       "pcode": "8000", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Katelijnestraat"
     }, 
     {
@@ -1153,8 +1170,8 @@
         "43"
       ], 
       "housenumber": "43", 
-      "lat": 51.202722616802, 
-      "lon": 3.225928301208, 
+      "lat": 51.202722593366, 
+      "lon": 3.225928362206, 
       "municipality": "Brugge", 
       "pcode": "8000", 
       "source": "afgeleidVanGebouw", 
@@ -1219,8 +1236,8 @@
         "48"
       ], 
       "housenumber": "48", 
-      "lat": 51.202776069207, 
-      "lon": 3.225258505024, 
+      "lat": 51.202776078114, 
+      "lon": 3.225258516718, 
       "municipality": "Brugge", 
       "pcode": "8000", 
       "source": "afgeleidVanGebouw", 
@@ -1255,8 +1272,8 @@
         "50"
       ], 
       "housenumber": "50", 
-      "lat": 51.202761911647, 
-      "lon": 3.225328870462, 
+      "lat": 51.202761925365, 
+      "lon": 3.225328836493, 
       "municipality": "Brugge", 
       "pcode": "8000", 
       "source": "afgeleidVanGebouw", 
@@ -1454,8 +1471,8 @@
         "65"
       ], 
       "housenumber": "65", 
-      "lat": 51.202277751442, 
-      "lon": 3.226606840021, 
+      "lat": 51.202277784201, 
+      "lon": 3.226606780928, 
       "municipality": "Brugge", 
       "pcode": "8000", 
       "source": "afgeleidVanGebouw", 
@@ -1589,11 +1606,11 @@
         "72"
       ], 
       "housenumber": "72", 
-      "lat": 51.202350674301, 
-      "lon": 3.226065537262, 
+      "lat": 51.202290583301, 
+      "lon": 3.226033381728, 
       "municipality": "Brugge", 
       "pcode": "8000", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Katelijnestraat"
     }, 
     {
@@ -1613,8 +1630,8 @@
         "74"
       ], 
       "housenumber": "74", 
-      "lat": 51.20223930308, 
-      "lon": 3.226120120709, 
+      "lat": 51.202239281711, 
+      "lon": 3.226120064014, 
       "municipality": "Brugge", 
       "pcode": "8000", 
       "source": "afgeleidVanGebouw", 
@@ -1629,8 +1646,8 @@
         "75"
       ], 
       "housenumber": "75", 
-      "lat": 51.201933653353, 
-      "lon": 3.227203275227, 
+      "lat": 51.201933672306, 
+      "lon": 3.227203308061, 
       "municipality": "Brugge", 
       "pcode": "8000", 
       "source": "afgeleidVanGebouw", 
@@ -1641,8 +1658,8 @@
         "76"
       ], 
       "housenumber": "76", 
-      "lat": 51.202185470198, 
-      "lon": 3.226208615375, 
+      "lat": 51.202185481557, 
+      "lon": 3.226208667473, 
       "municipality": "Brugge", 
       "pcode": "8000", 
       "source": "afgeleidVanGebouw", 
@@ -1653,8 +1670,8 @@
         "77"
       ], 
       "housenumber": "77", 
-      "lat": 51.201865888531, 
-      "lon": 3.227157567095, 
+      "lat": 51.201865899615, 
+      "lon": 3.227157602483, 
       "municipality": "Brugge", 
       "pcode": "8000", 
       "source": "afgeleidVanGebouw", 
@@ -1665,6 +1682,7 @@
         "101", 
         "102", 
         "2", 
+        "201", 
         "202", 
         "3", 
         "4", 
@@ -1698,8 +1716,8 @@
         "7A"
       ], 
       "housenumber": "7A", 
-      "lat": 51.203611121784, 
-      "lon": 3.224880179719, 
+      "lat": 51.203611140739, 
+      "lon": 3.224880171552, 
       "municipality": "Brugge", 
       "pcode": "8000", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1712,14 +1730,15 @@
         "201", 
         "202", 
         "301", 
-        "302"
+        "302", 
+        "401"
       ], 
       "hnrlbls": [
         "7B"
       ], 
       "housenumber": "7B", 
-      "lat": 51.203559921564, 
-      "lon": 3.224921501733, 
+      "lat": 51.203559940622, 
+      "lon": 3.224921493483, 
       "municipality": "Brugge", 
       "pcode": "8000", 
       "source": "manueleAanduidingVanIngangVanGebouw", 
@@ -1730,8 +1749,8 @@
         "7C"
       ], 
       "housenumber": "7C", 
-      "lat": 51.203541650061, 
-      "lon": 3.225033403701, 
+      "lat": 51.20354160577, 
+      "lon": 3.225033415025, 
       "municipality": "Brugge", 
       "pcode": "8000", 
       "source": "afgeleidVanGebouw", 
@@ -1793,8 +1812,8 @@
         "83"
       ], 
       "housenumber": "83", 
-      "lat": 51.201722198616, 
-      "lon": 3.227236383167, 
+      "lat": 51.201722108742, 
+      "lon": 3.227236385365, 
       "municipality": "Brugge", 
       "pcode": "8000", 
       "source": "afgeleidVanGebouw", 
@@ -1930,8 +1949,8 @@
         "96"
       ], 
       "housenumber": "96", 
-      "lat": 51.201225906148, 
-      "lon": 3.22737801724, 
+      "lat": 51.201226986016, 
+      "lon": 3.227378133921, 
       "municipality": "Brugge", 
       "pcode": "8000", 
       "source": "afgeleidVanGebouw", 

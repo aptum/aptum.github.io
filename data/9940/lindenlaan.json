@@ -420,11 +420,11 @@
         "27"
       ], 
       "housenumber": "27", 
-      "lat": 51.17632126088, 
-      "lon": 3.746133587242, 
+      "lat": 51.176287268166, 
+      "lon": 3.746335671627, 
       "municipality": "Evergem", 
       "pcode": "9940", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Lindenlaan"
     }, 
     {
@@ -444,11 +444,11 @@
         "29"
       ], 
       "housenumber": "29", 
-      "lat": 51.176214522743, 
-      "lon": 3.746108840415, 
+      "lat": 51.17618661132, 
+      "lon": 3.746339157483, 
       "municipality": "Evergem", 
       "pcode": "9940", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Lindenlaan"
     }, 
     {
@@ -616,6 +616,14 @@
       "street": "Lindenlaan"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "101", 
+        "102", 
+        "201", 
+        "202", 
+        "301"
+      ], 
       "hnrlbls": [
         "39"
       ], 
@@ -625,6 +633,21 @@
       "municipality": "Evergem", 
       "pcode": "9940", 
       "source": "afgeleidVanGebouw", 
+      "street": "Lindenlaan"
+    }, 
+    {
+      "busnrs": [
+        "1"
+      ], 
+      "hnrlbls": [
+        "39A"
+      ], 
+      "housenumber": "39A", 
+      "lat": 51.175456337388, 
+      "lon": 3.745755155597, 
+      "municipality": "Evergem", 
+      "pcode": "9940", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Lindenlaan"
     }, 
     {
@@ -673,8 +696,10 @@
     }, 
     {
       "busnrs": [
+        "1", 
         "101", 
-        "201"
+        "201", 
+        "301"
       ], 
       "hnrlbls": [
         "42"
@@ -1040,8 +1065,8 @@
         "7"
       ], 
       "housenumber": "7", 
-      "lat": 51.177427094863, 
-      "lon": 3.746633667482, 
+      "lat": 51.177427365262, 
+      "lon": 3.746633806887, 
       "municipality": "Evergem", 
       "pcode": "9940", 
       "source": "afgeleidVanGebouw", 
@@ -1095,7 +1120,14 @@
     }, 
     {
       "busnrs": [
-        "301"
+        "1", 
+        "101", 
+        "102", 
+        "2", 
+        "201", 
+        "202", 
+        "301", 
+        "302"
       ], 
       "hnrlbls": [
         "76"

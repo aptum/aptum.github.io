@@ -14,6 +14,7 @@
     }, 
     {
       "busnrs": [
+        "32", 
         "BU11", 
         "BU12", 
         "BU21", 
@@ -29,8 +30,8 @@
         "10"
       ], 
       "housenumber": "10", 
-      "lat": 50.967073335801, 
-      "lon": 5.502405818738, 
+      "lat": 50.967073338626, 
+      "lon": 5.502405785207, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "manueleAanduidingVanIngangVanGebouw", 
@@ -50,15 +51,13 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "10", 
-        "11", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "7", 
-        "8"
+        "BU01", 
+        "BU02", 
+        "BU03", 
+        "BU04", 
+        "BU07", 
+        "BU10", 
+        "BU11"
       ], 
       "hnrlbls": [
         "12"
@@ -85,18 +84,17 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "10", 
-        "11", 
-        "12", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6", 
-        "7", 
-        "8", 
-        "9"
+        "BU01", 
+        "BU02", 
+        "BU03", 
+        "BU04", 
+        "BU05", 
+        "BU06", 
+        "BU07", 
+        "BU08", 
+        "BU09", 
+        "BU10", 
+        "BU12"
       ], 
       "hnrlbls": [
         "14"
@@ -123,33 +121,29 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "10", 
-        "12", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6", 
-        "7", 
-        "8", 
-        "9"
+        "BU01", 
+        "BU02", 
+        "BU03", 
+        "BU04", 
+        "BU05", 
+        "BU07", 
+        "BU08", 
+        "BU09", 
+        "BU10", 
+        "BU11"
       ], 
       "hnrlbls": [
         "16"
       ], 
       "housenumber": "16", 
-      "lat": 50.967421557984, 
-      "lon": 5.50285016453, 
+      "lat": 50.967411655716, 
+      "lon": 5.502870142169, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
       "street": "Bochtlaan"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
         "17"
       ], 
@@ -159,6 +153,24 @@
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
+      "street": "Bochtlaan"
+    }, 
+    {
+      "busnrs": [
+        "BU11", 
+        "BU21", 
+        "BU31", 
+        "BU41"
+      ], 
+      "hnrlbls": [
+        "18"
+      ], 
+      "housenumber": "18", 
+      "lat": 50.968474270392, 
+      "lon": 5.503022438625, 
+      "municipality": "Genk", 
+      "pcode": "3600", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Bochtlaan"
     }, 
     {
@@ -178,18 +190,14 @@
         "2"
       ], 
       "housenumber": "2", 
-      "lat": 50.966561638069, 
-      "lon": 5.502246321195, 
+      "lat": 50.966561624005, 
+      "lon": 5.502246332941, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Bochtlaan"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "11"
-      ], 
       "hnrlbls": [
         "21"
       ], 
@@ -203,8 +211,8 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "11"
+        "BU01", 
+        "BU11"
       ], 
       "hnrlbls": [
         "23"
@@ -219,31 +227,10 @@
     }, 
     {
       "busnrs": [
-        "AB11", 
-        "AB12", 
-        "AB21", 
-        "AB22", 
-        "AB31", 
-        "BB11", 
-        "BB12", 
-        "BB21", 
-        "BB22", 
-        "BB31"
-      ], 
-      "hnrlbls": [
-        "25"
-      ], 
-      "housenumber": "25", 
-      "lat": 50.967674663203, 
-      "lon": 5.502176159342, 
-      "municipality": "Genk", 
-      "pcode": "3600", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Bochtlaan"
-    }, 
-    {
-      "busnrs": [
-        "1"
+        "BU11", 
+        "BU12", 
+        "BU22", 
+        "BU31"
       ], 
       "hnrlbls": [
         "25A-25B"
@@ -258,7 +245,11 @@
     }, 
     {
       "busnrs": [
-        "21"
+        "BU11", 
+        "BU12", 
+        "BU21", 
+        "BU22", 
+        "BU31"
       ], 
       "hnrlbls": [
         "25A-25B"
@@ -273,12 +264,39 @@
     }, 
     {
       "busnrs": [
-        "11", 
-        "12", 
-        "21", 
-        "22", 
-        "31", 
-        "32"
+        "2", 
+        "BU01", 
+        "BU02", 
+        "BU03", 
+        "BU11", 
+        "BU12", 
+        "BU13", 
+        "BU14", 
+        "BU21", 
+        "BU22", 
+        "BU23", 
+        "BU24", 
+        "BU31", 
+        "BU32", 
+        "BU33"
+      ], 
+      "hnrlbls": [
+        "24-28"
+      ], 
+      "housenumber": "26", 
+      "lat": 50.969023259051, 
+      "lon": 5.503129558136, 
+      "municipality": "Genk", 
+      "pcode": "3600", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Bochtlaan"
+    }, 
+    {
+      "busnrs": [
+        "BU11", 
+        "BU12", 
+        "BU22", 
+        "BU32"
       ], 
       "hnrlbls": [
         "27"
@@ -292,21 +310,25 @@
       "street": "Bochtlaan"
     }, 
     {
+      "busnrs": [
+        "BU01", 
+        "BU02", 
+        "BU11", 
+        "BU12", 
+        "BU21"
+      ], 
       "hnrlbls": [
         "24-28"
       ], 
       "housenumber": "28", 
-      "lat": 50.968341494727, 
-      "lon": 5.502928244455, 
+      "lat": 50.969023259051, 
+      "lon": 5.503129558136, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelKadaster", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Bochtlaan"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
         "29"
       ], 
@@ -316,6 +338,18 @@
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
+      "street": "Bochtlaan"
+    }, 
+    {
+      "hnrlbls": [
+        "30"
+      ], 
+      "housenumber": "30", 
+      "lat": 50.969261341196, 
+      "lon": 5.502894556067, 
+      "municipality": "Genk", 
+      "pcode": "3600", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Bochtlaan"
     }, 
     {
@@ -335,8 +369,8 @@
         "32A"
       ], 
       "housenumber": "32A", 
-      "lat": 50.9693209683, 
-      "lon": 5.502913324336, 
+      "lat": 50.969320944684, 
+      "lon": 5.502913369413, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
@@ -347,8 +381,8 @@
         "32B"
       ], 
       "housenumber": "32B", 
-      "lat": 50.969375599514, 
-      "lon": 5.502920948372, 
+      "lat": 50.969375621974, 
+      "lon": 5.502920957799, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "manueleAanduidingVanGebouw", 
@@ -356,14 +390,14 @@
     }, 
     {
       "busnrs": [
-        "31"
+        "BU31"
       ], 
       "hnrlbls": [
         "33"
       ], 
       "housenumber": "33", 
-      "lat": 50.968559693335, 
-      "lon": 5.502135634531, 
+      "lat": 50.968573772577, 
+      "lon": 5.502111343541, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
@@ -407,6 +441,10 @@
     }, 
     {
       "busnrs": [
+        "31", 
+        "32", 
+        "41", 
+        "52", 
         "BU01", 
         "BU11", 
         "BU21", 
@@ -422,8 +460,8 @@
         "4"
       ], 
       "housenumber": "4", 
-      "lat": 50.966609378197, 
-      "lon": 5.502255449022, 
+      "lat": 50.966609364038, 
+      "lon": 5.502255460751, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "manueleAanduidingVanIngangVanGebouw", 
@@ -443,8 +481,7 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "11"
+        "BU11"
       ], 
       "hnrlbls": [
         "41"
@@ -471,7 +508,7 @@
     }, 
     {
       "busnrs": [
-        "11"
+        "BU11"
       ], 
       "hnrlbls": [
         "47"
@@ -489,17 +526,14 @@
         "49"
       ], 
       "housenumber": "49", 
-      "lat": 50.969959736941, 
-      "lon": 5.50163271845, 
+      "lat": 50.969959996979, 
+      "lon": 5.50163372142, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
       "street": "Bochtlaan"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
         "5"
       ], 
@@ -525,13 +559,10 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "11", 
-        "12", 
-        "21", 
-        "22", 
-        "31", 
-        "32"
+        "BU12", 
+        "BU21", 
+        "BU22", 
+        "BU31"
       ], 
       "hnrlbls": [
         "53"
@@ -545,7 +576,46 @@
       "street": "Bochtlaan"
     }, 
     {
+      "hnrlbls": [
+        "57-122"
+      ], 
+      "housenumber": "57", 
+      "lat": 50.970366711221, 
+      "lon": 5.500971786192, 
+      "municipality": "Genk", 
+      "pcode": "3600", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Bochtlaan"
+    }, 
+    {
+      "hnrlbls": [
+        "58"
+      ], 
+      "housenumber": "58", 
+      "lat": 50.970700564909, 
+      "lon": 5.501759841966, 
+      "municipality": "Genk", 
+      "pcode": "3600", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Bochtlaan"
+    }, 
+    {
+      "hnrlbls": [
+        "57-122"
+      ], 
+      "housenumber": "59", 
+      "lat": 50.970366711221, 
+      "lon": 5.500971786192, 
+      "municipality": "Genk", 
+      "pcode": "3600", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Bochtlaan"
+    }, 
+    {
       "busnrs": [
+        "31", 
+        "41", 
+        "42", 
         "BU11", 
         "BU12", 
         "BU21", 
@@ -560,15 +630,15 @@
         "6"
       ], 
       "housenumber": "6", 
-      "lat": 50.966802893829, 
-      "lon": 5.502288035865, 
+      "lat": 50.966802879283, 
+      "lon": 5.502288047528, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Bochtlaan"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "101", 
         "102", 
         "103", 
@@ -626,6 +696,7 @@
         "219", 
         "220", 
         "221", 
+        "222", 
         "223", 
         "224", 
         "225", 
@@ -661,32 +732,36 @@
         "60"
       ], 
       "housenumber": "60", 
-      "lat": 50.970840500367, 
-      "lon": 5.501520976806, 
+      "lat": 50.970885839252, 
+      "lon": 5.501518849041, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "manueleAanduidingVanLot", 
       "street": "Bochtlaan"
     }, 
     {
-      "hnrlbls": [
-        "62"
+      "busnrs": [
+        "105", 
+        "119", 
+        "125", 
+        "128", 
+        "134", 
+        "213", 
+        "223", 
+        "225", 
+        "227", 
+        "309", 
+        "310", 
+        "313", 
+        "406", 
+        "407"
       ], 
-      "housenumber": "62", 
-      "lat": 50.970957395181, 
-      "lon": 5.501308357874, 
-      "municipality": "Genk", 
-      "pcode": "3600", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Bochtlaan"
-    }, 
-    {
       "hnrlbls": [
-        "7"
+        "60B"
       ], 
-      "housenumber": "7", 
-      "lat": 50.966953728337, 
-      "lon": 5.501785414655, 
+      "housenumber": "60B", 
+      "lat": 50.971078903616, 
+      "lon": 5.501476956646, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
@@ -694,11 +769,107 @@
     }, 
     {
       "hnrlbls": [
+        "57-122"
+      ], 
+      "housenumber": "61", 
+      "lat": 50.970366711221, 
+      "lon": 5.500971786192, 
+      "municipality": "Genk", 
+      "pcode": "3600", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Bochtlaan"
+    }, 
+    {
+      "hnrlbls": [
+        "62"
+      ], 
+      "housenumber": "62", 
+      "lat": 50.970978168408, 
+      "lon": 5.50134167467, 
+      "municipality": "Genk", 
+      "pcode": "3600", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Bochtlaan"
+    }, 
+    {
+      "hnrlbls": [
+        "57-122"
+      ], 
+      "housenumber": "63", 
+      "lat": 50.970366711221, 
+      "lon": 5.500971786192, 
+      "municipality": "Genk", 
+      "pcode": "3600", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Bochtlaan"
+    }, 
+    {
+      "hnrlbls": [
+        "64"
+      ], 
+      "housenumber": "64", 
+      "lat": 50.97113685266, 
+      "lon": 5.501070419559, 
+      "municipality": "Genk", 
+      "pcode": "3600", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Bochtlaan"
+    }, 
+    {
+      "hnrlbls": [
+        "57-122"
+      ], 
+      "housenumber": "65", 
+      "lat": 50.970366711221, 
+      "lon": 5.500971786192, 
+      "municipality": "Genk", 
+      "pcode": "3600", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Bochtlaan"
+    }, 
+    {
+      "hnrlbls": [
+        "66"
+      ], 
+      "housenumber": "66", 
+      "lat": 50.971225896447, 
+      "lon": 5.50097290073, 
+      "municipality": "Genk", 
+      "pcode": "3600", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Bochtlaan"
+    }, 
+    {
+      "hnrlbls": [
+        "57-122"
+      ], 
+      "housenumber": "67", 
+      "lat": 50.970366711221, 
+      "lon": 5.500971786192, 
+      "municipality": "Genk", 
+      "pcode": "3600", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Bochtlaan"
+    }, 
+    {
+      "hnrlbls": [
+        "68"
+      ], 
+      "housenumber": "68", 
+      "lat": 50.971344372279, 
+      "lon": 5.500955829711, 
+      "municipality": "Genk", 
+      "pcode": "3600", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Bochtlaan"
+    }, 
+    {
+      "hnrlbls": [
         "8"
       ], 
       "housenumber": "8", 
-      "lat": 50.96695051809, 
-      "lon": 5.502351022836, 
+      "lat": 50.966950521161, 
+      "lon": 5.502350989414, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "manueleAanduidingVanIngangVanGebouw", 

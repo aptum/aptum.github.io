@@ -17,8 +17,8 @@
         "11-17A"
       ], 
       "housenumber": "11", 
-      "lat": 50.87459200959, 
-      "lon": 5.305592453263, 
+      "lat": 50.874592044462, 
+      "lon": 5.305592388869, 
       "municipality": "Alken", 
       "pcode": "3570", 
       "source": "afgeleidVanGebouw", 
@@ -86,8 +86,8 @@
         "11-17A"
       ], 
       "housenumber": "15", 
-      "lat": 50.87459200959, 
-      "lon": 5.305592453263, 
+      "lat": 50.874592044462, 
+      "lon": 5.305592388869, 
       "municipality": "Alken", 
       "pcode": "3570", 
       "source": "afgeleidVanGebouw", 
@@ -98,8 +98,8 @@
         "11-17A"
       ], 
       "housenumber": "15A", 
-      "lat": 50.87459200959, 
-      "lon": 5.305592453263, 
+      "lat": 50.874592044462, 
+      "lon": 5.305592388869, 
       "municipality": "Alken", 
       "pcode": "3570", 
       "source": "afgeleidVanGebouw", 
@@ -111,7 +111,6 @@
         "10", 
         "2", 
         "3", 
-        "5", 
         "6", 
         "7", 
         "8", 
@@ -133,8 +132,8 @@
         "11-17A"
       ], 
       "housenumber": "17A", 
-      "lat": 50.87459200959, 
-      "lon": 5.305592453263, 
+      "lat": 50.874592044462, 
+      "lon": 5.305592388869, 
       "municipality": "Alken", 
       "pcode": "3570", 
       "source": "afgeleidVanGebouw", 
@@ -172,8 +171,8 @@
         "18"
       ], 
       "housenumber": "18", 
-      "lat": 50.875791144142, 
-      "lon": 5.30684047093, 
+      "lat": 50.875791152976, 
+      "lon": 5.306840447886, 
       "municipality": "Alken", 
       "pcode": "3570", 
       "source": "manueleAanduidingVanGebouw", 
@@ -196,8 +195,8 @@
         "2"
       ], 
       "housenumber": "2", 
-      "lat": 50.876136408264, 
-      "lon": 5.307474841052, 
+      "lat": 50.876136422739, 
+      "lon": 5.307474833493, 
       "municipality": "Alken", 
       "pcode": "3570", 
       "source": "manueleAanduidingVanIngangVanGebouw", 
@@ -206,7 +205,8 @@
     {
       "busnrs": [
         "1", 
-        "2"
+        "2", 
+        "3"
       ], 
       "hnrlbls": [
         "20"
@@ -224,8 +224,8 @@
         "20A"
       ], 
       "housenumber": "20A", 
-      "lat": 50.875638136958, 
-      "lon": 5.306710621055, 
+      "lat": 50.875638100036, 
+      "lon": 5.30671064307, 
       "municipality": "Alken", 
       "pcode": "3570", 
       "source": "manueleAanduidingVanIngangVanGebouw", 
@@ -248,8 +248,8 @@
         "22"
       ], 
       "housenumber": "22", 
-      "lat": 50.875670188114, 
-      "lon": 5.30669814057, 
+      "lat": 50.875670205558, 
+      "lon": 5.30669807, 
       "municipality": "Alken", 
       "pcode": "3570", 
       "source": "manueleAanduidingVanIngangVanGebouw", 
@@ -350,12 +350,10 @@
     }, 
     {
       "busnrs": [
-        "1", 
         "2", 
         "3", 
         "4", 
-        "5", 
-        "6"
+        "5"
       ], 
       "hnrlbls": [
         "29"
@@ -395,8 +393,8 @@
         "34"
       ], 
       "housenumber": "34", 
-      "lat": 50.875333610725, 
-      "lon": 5.306112855468, 
+      "lat": 50.875333618372, 
+      "lon": 5.306112891319, 
       "municipality": "Alken", 
       "pcode": "3570", 
       "source": "manueleAanduidingVanGebouw", 
@@ -412,8 +410,8 @@
         "36"
       ], 
       "housenumber": "36", 
-      "lat": 50.875363015522, 
-      "lon": 5.306055753449, 
+      "lat": 50.875363023111, 
+      "lon": 5.306055789415, 
       "municipality": "Alken", 
       "pcode": "3570", 
       "source": "manueleAanduidingVanIngangVanGebouw", 
@@ -448,8 +446,8 @@
         "40"
       ], 
       "housenumber": "40", 
-      "lat": 50.875015348516, 
-      "lon": 5.305619129792, 
+      "lat": 50.875015356801, 
+      "lon": 5.305619166631, 
       "municipality": "Alken", 
       "pcode": "3570", 
       "source": "manueleAanduidingVanIngangVanGebouw", 
@@ -480,6 +478,12 @@
       "street": "Hoogdorpsstraat"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "BUZ2", 
+        "z2"
+      ], 
       "hnrlbls": [
         "46"
       ], 
@@ -498,18 +502,6 @@
       "housenumber": "5", 
       "lat": 50.874818235841, 
       "lon": 5.305896285886, 
-      "municipality": "Alken", 
-      "pcode": "3570", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Hoogdorpsstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "50"
-      ], 
-      "housenumber": "50", 
-      "lat": 50.874695922743, 
-      "lon": 5.304911723035, 
       "municipality": "Alken", 
       "pcode": "3570", 
       "source": "afgeleidVanGebouw", 
@@ -553,8 +545,8 @@
         "54A"
       ], 
       "housenumber": "54A", 
-      "lat": 50.874620904169, 
-      "lon": 5.304553989175, 
+      "lat": 50.87462092325, 
+      "lon": 5.304554010158, 
       "municipality": "Alken", 
       "pcode": "3570", 
       "source": "manueleAanduidingVanIngangVanGebouw", 
@@ -565,8 +557,8 @@
         "56-56A"
       ], 
       "housenumber": "56", 
-      "lat": 50.874519982617, 
-      "lon": 5.304586811406, 
+      "lat": 50.874519971749, 
+      "lon": 5.30458680944, 
       "municipality": "Alken", 
       "pcode": "3570", 
       "source": "afgeleidVanGebouw", 
@@ -577,8 +569,8 @@
         "56-56A"
       ], 
       "housenumber": "56A", 
-      "lat": 50.874519982617, 
-      "lon": 5.304586811406, 
+      "lat": 50.874519971749, 
+      "lon": 5.30458680944, 
       "municipality": "Alken", 
       "pcode": "3570", 
       "source": "afgeleidVanGebouw", 
@@ -609,9 +601,6 @@
       "street": "Hoogdorpsstraat"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
         "62"
       ], 
@@ -652,6 +641,18 @@
       "street": "Hoogdorpsstraat"
     }, 
     {
+      "hnrlbls": [
+        "7"
+      ], 
+      "housenumber": "7", 
+      "lat": 50.874595619605, 
+      "lon": 5.305977521349, 
+      "municipality": "Alken", 
+      "pcode": "3570", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Hoogdorpsstraat"
+    }, 
+    {
       "busnrs": [
         "1", 
         "10", 
@@ -660,14 +661,15 @@
         "5", 
         "6", 
         "7", 
+        "8", 
         "9"
       ], 
       "hnrlbls": [
         "8"
       ], 
       "housenumber": "8", 
-      "lat": 50.87597456718, 
-      "lon": 5.307119444112, 
+      "lat": 50.875974567105, 
+      "lon": 5.307119489843, 
       "municipality": "Alken", 
       "pcode": "3570", 
       "source": "afgeleidVanGebouw", 

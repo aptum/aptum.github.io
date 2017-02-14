@@ -5,14 +5,14 @@
         "AV02"
       ], 
       "hnrlbls": [
-        "/zn-1A"
+        "1"
       ], 
       "housenumber": "1", 
-      "lat": 51.065412188843, 
-      "lon": 3.09619114023, 
+      "lat": 51.065731113296, 
+      "lon": 3.096886447731, 
       "municipality": "Torhout", 
       "pcode": "8820", 
-      "source": "afgeleidVanStraat", 
+      "source": "afgeleidVanGebouw", 
       "street": "Langepijpestraat"
     }, 
     {
@@ -143,8 +143,8 @@
         "18"
       ], 
       "housenumber": "18", 
-      "lat": 51.065121675463, 
-      "lon": 3.096295773574, 
+      "lat": 51.065121458763, 
+      "lon": 3.096292355213, 
       "municipality": "Torhout", 
       "pcode": "8820", 
       "source": "afgeleidVanPerceelGrb", 
@@ -164,14 +164,14 @@
     }, 
     {
       "hnrlbls": [
-        "/zn-1A"
+        "1A"
       ], 
       "housenumber": "1A", 
-      "lat": 51.065412188843, 
-      "lon": 3.09619114023, 
+      "lat": 51.065691229429, 
+      "lon": 3.096772817658, 
       "municipality": "Torhout", 
       "pcode": "8820", 
-      "source": "afgeleidVanStraat", 
+      "source": "afgeleidVanGebouw", 
       "street": "Langepijpestraat"
     }, 
     {
@@ -567,14 +567,26 @@
     }, 
     {
       "hnrlbls": [
-        "51"
+        "51-53"
       ], 
       "housenumber": "51", 
-      "lat": 51.065150490711, 
-      "lon": 3.094194495231, 
+      "lat": 51.065158364546, 
+      "lon": 3.094215967784, 
       "municipality": "Torhout", 
       "pcode": "8820", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Langepijpestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "51-53"
+      ], 
+      "housenumber": "53", 
+      "lat": 51.065158364546, 
+      "lon": 3.094215967784, 
+      "municipality": "Torhout", 
+      "pcode": "8820", 
+      "source": "afgeleidVanGebouw", 
       "street": "Langepijpestraat"
     }, 
     {
@@ -650,16 +662,20 @@
       "street": "Langepijpestraat"
     }, 
     {
+      "apptnrs": [
+        "V1", 
+        "V2"
+      ], 
       "busnrs": [
-        "0009V001", 
-        "0009V002"
+        "V001", 
+        "V002"
       ], 
       "hnrlbls": [
         "9"
       ], 
       "housenumber": "9", 
-      "lat": 51.065389044618, 
-      "lon": 3.096620659452, 
+      "lat": 51.065389414895, 
+      "lon": 3.096621648135, 
       "municipality": "Torhout", 
       "pcode": "8820", 
       "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 

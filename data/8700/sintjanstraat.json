@@ -37,15 +37,35 @@
       "street": "Sint-Janstraat"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6"
+      ], 
       "hnrlbls": [
         "101"
       ], 
       "housenumber": "101", 
-      "lat": 51.002327109809, 
-      "lon": 3.332763127997, 
+      "lat": 51.002337254129, 
+      "lon": 3.33280237047, 
       "municipality": "Tielt", 
       "pcode": "8700", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Sint-Janstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "101A"
+      ], 
+      "housenumber": "101A", 
+      "lat": 51.00199793025, 
+      "lon": 3.33311434419, 
+      "municipality": "Tielt", 
+      "pcode": "8700", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Sint-Janstraat"
     }, 
     {
@@ -53,8 +73,8 @@
         "102"
       ], 
       "housenumber": "102", 
-      "lat": 51.003041477081, 
-      "lon": 3.333675747098, 
+      "lat": 51.002982711519, 
+      "lon": 3.333719931389, 
       "municipality": "Tielt", 
       "pcode": "8700", 
       "source": "afgeleidVanGebouw", 
@@ -102,7 +122,7 @@
       "lon": 3.33318935498, 
       "municipality": "Tielt", 
       "pcode": "8700", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sint-Janstraat"
     }, 
     {
@@ -114,19 +134,7 @@
       "lon": 3.333903211117, 
       "municipality": "Tielt", 
       "pcode": "8700", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Sint-Janstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "107"
-      ], 
-      "housenumber": "107", 
-      "lat": 51.002498746351, 
-      "lon": 3.333347774797, 
-      "municipality": "Tielt", 
-      "pcode": "8700", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sint-Janstraat"
     }, 
     {
@@ -285,7 +293,7 @@
       "lon": 3.328270147192, 
       "municipality": "Tielt", 
       "pcode": "8700", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sint-Janstraat"
     }, 
     {
@@ -297,7 +305,7 @@
       "lon": 3.334873855821, 
       "municipality": "Tielt", 
       "pcode": "8700", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Sint-Janstraat"
     }, 
     {
@@ -309,7 +317,7 @@
       "lon": 3.334799889056, 
       "municipality": "Tielt", 
       "pcode": "8700", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sint-Janstraat"
     }, 
     {
@@ -405,7 +413,7 @@
       "lon": 3.328294293203, 
       "municipality": "Tielt", 
       "pcode": "8700", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sint-Janstraat"
     }, 
     {
@@ -423,7 +431,7 @@
       "lon": 3.328828789444, 
       "municipality": "Tielt", 
       "pcode": "8700", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Sint-Janstraat"
     }, 
     {
@@ -451,6 +459,9 @@
       "street": "Sint-Janstraat"
     }, 
     {
+      "apptnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "132"
       ], 
@@ -459,7 +470,19 @@
       "lon": 3.335873691707, 
       "municipality": "Tielt", 
       "pcode": "8700", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Sint-Janstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "132A"
+      ], 
+      "housenumber": "132A", 
+      "lat": 51.003493123284, 
+      "lon": 3.335773373736, 
+      "municipality": "Tielt", 
+      "pcode": "8700", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sint-Janstraat"
     }, 
     {
@@ -467,11 +490,11 @@
         "135"
       ], 
       "housenumber": "135", 
-      "lat": 51.002801450794, 
-      "lon": 3.334617712274, 
+      "lat": 51.002946161188, 
+      "lon": 3.334553110764, 
       "municipality": "Tielt", 
       "pcode": "8700", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Sint-Janstraat"
     }, 
     {
@@ -560,9 +583,9 @@
     }, 
     {
       "hnrlbls": [
-        "143"
+        "145"
       ], 
-      "housenumber": "143", 
+      "housenumber": "145", 
       "lat": 51.003047519015, 
       "lon": 3.334936570757, 
       "municipality": "Tielt", 
@@ -572,14 +595,26 @@
     }, 
     {
       "hnrlbls": [
-        "/ZN-145"
+        "147"
       ], 
-      "housenumber": "145", 
-      "lat": 51.002258053536, 
-      "lon": 3.332608354999, 
+      "housenumber": "147", 
+      "lat": 51.003084263061, 
+      "lon": 3.334995175054, 
       "municipality": "Tielt", 
       "pcode": "8700", 
-      "source": "afgeleidVanStraat", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Sint-Janstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "149"
+      ], 
+      "housenumber": "149", 
+      "lat": 51.00309906284, 
+      "lon": 3.335103989258, 
+      "municipality": "Tielt", 
+      "pcode": "8700", 
+      "source": "afgeleidVanGebouw", 
       "street": "Sint-Janstraat"
     }, 
     {
@@ -627,7 +662,7 @@
       "lon": 3.335588242464, 
       "municipality": "Tielt", 
       "pcode": "8700", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sint-Janstraat"
     }, 
     {
@@ -647,8 +682,8 @@
         "165"
       ], 
       "housenumber": "165", 
-      "lat": 51.003258627549, 
-      "lon": 3.335717843811, 
+      "lat": 51.003251614336, 
+      "lon": 3.335727972072, 
       "municipality": "Tielt", 
       "pcode": "8700", 
       "source": "afgeleidVanGebouw", 
@@ -663,7 +698,7 @@
       "lon": 3.335759691037, 
       "municipality": "Tielt", 
       "pcode": "8700", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sint-Janstraat"
     }, 
     {
@@ -718,7 +753,7 @@
       "lon": 3.336361436717, 
       "municipality": "Tielt", 
       "pcode": "8700", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sint-Janstraat"
     }, 
     {
@@ -780,11 +815,11 @@
         "183"
       ], 
       "housenumber": "183", 
-      "lat": 51.003701669584, 
-      "lon": 3.337678904675, 
+      "lat": 51.003703557111, 
+      "lon": 3.337678863159, 
       "municipality": "Tielt", 
       "pcode": "8700", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sint-Janstraat"
     }, 
     {
@@ -883,8 +918,8 @@
         "24"
       ], 
       "housenumber": "24", 
-      "lat": 51.000917217743, 
-      "lon": 3.328796588886, 
+      "lat": 51.000918982675, 
+      "lon": 3.328792845392, 
       "municipality": "Tielt", 
       "pcode": "8700", 
       "source": "afgeleidVanGebouw", 
@@ -995,7 +1030,7 @@
         "5"
       ], 
       "hnrlbls": [
-        "32"
+        "32-32A"
       ], 
       "housenumber": "32", 
       "lat": 51.001161545228, 
@@ -1007,14 +1042,14 @@
     }, 
     {
       "hnrlbls": [
-        "32A"
+        "32-32A"
       ], 
       "housenumber": "32A", 
-      "lat": 51.001161352884, 
-      "lon": 3.328904868508, 
+      "lat": 51.001161545228, 
+      "lon": 3.328906288996, 
       "municipality": "Tielt", 
       "pcode": "8700", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Sint-Janstraat"
     }, 
     {
@@ -1150,7 +1185,7 @@
       "lon": 3.330369297187, 
       "municipality": "Tielt", 
       "pcode": "8700", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sint-Janstraat"
     }, 
     {
@@ -1227,7 +1262,7 @@
       "lon": 3.330755488442, 
       "municipality": "Tielt", 
       "pcode": "8700", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sint-Janstraat"
     }, 
     {
@@ -1235,8 +1270,8 @@
         "51"
       ], 
       "housenumber": "51", 
-      "lat": 51.001461585399, 
-      "lon": 3.330429259544, 
+      "lat": 51.001450696958, 
+      "lon": 3.330448450054, 
       "municipality": "Tielt", 
       "pcode": "8700", 
       "source": "afgeleidVanGebouw", 
@@ -1299,7 +1334,7 @@
       "lon": 3.330732829568, 
       "municipality": "Tielt", 
       "pcode": "8700", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sint-Janstraat"
     }, 
     {
@@ -1363,7 +1398,7 @@
       "lon": 3.328118336536, 
       "municipality": "Tielt", 
       "pcode": "8700", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sint-Janstraat"
     }, 
     {
@@ -1440,7 +1475,7 @@
       "lon": 3.331362954096, 
       "municipality": "Tielt", 
       "pcode": "8700", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sint-Janstraat"
     }, 
     {
@@ -1460,8 +1495,8 @@
         "68"
       ], 
       "housenumber": "68", 
-      "lat": 51.002184978673, 
-      "lon": 3.331384655363, 
+      "lat": 51.002190883285, 
+      "lon": 3.331381390174, 
       "municipality": "Tielt", 
       "pcode": "8700", 
       "source": "afgeleidVanGebouw", 
@@ -1532,8 +1567,8 @@
         "72"
       ], 
       "housenumber": "72", 
-      "lat": 51.002223492255, 
-      "lon": 3.33169497635, 
+      "lat": 51.002222418687, 
+      "lon": 3.331695570014, 
       "municipality": "Tielt", 
       "pcode": "8700", 
       "source": "afgeleidVanGebouw", 
@@ -1544,8 +1579,8 @@
         "73"
       ], 
       "housenumber": "73", 
-      "lat": 51.001833385513, 
-      "lon": 3.331548448384, 
+      "lat": 51.001873610063, 
+      "lon": 3.331542714175, 
       "municipality": "Tielt", 
       "pcode": "8700", 
       "source": "afgeleidVanGebouw", 
@@ -1637,26 +1672,14 @@
     }, 
     {
       "hnrlbls": [
-        "81"
-      ], 
-      "housenumber": "81", 
-      "lat": 51.001938305165, 
-      "lon": 3.331794180736, 
-      "municipality": "Tielt", 
-      "pcode": "8700", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Sint-Janstraat"
-    }, 
-    {
-      "hnrlbls": [
         "82"
       ], 
       "housenumber": "82", 
-      "lat": 51.002452692551, 
-      "lon": 3.33228219228, 
+      "lat": 51.00244624598, 
+      "lon": 3.332346450474, 
       "municipality": "Tielt", 
       "pcode": "8700", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Sint-Janstraat"
     }, 
     {
@@ -1664,11 +1687,32 @@
         "83"
       ], 
       "housenumber": "83", 
-      "lat": 51.002005629159, 
-      "lon": 3.331874616339, 
+      "lat": 51.001938280325, 
+      "lon": 3.331944495276, 
       "municipality": "Tielt", 
       "pcode": "8700", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Sint-Janstraat"
+    }, 
+    {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6", 
+        "7"
+      ], 
+      "hnrlbls": [
+        "84"
+      ], 
+      "housenumber": "84", 
+      "lat": 51.002512997123, 
+      "lon": 3.332576361338, 
+      "municipality": "Tielt", 
+      "pcode": "8700", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sint-Janstraat"
     }, 
     {
@@ -1688,11 +1732,11 @@
         "86"
       ], 
       "housenumber": "86", 
-      "lat": 51.002503764207, 
-      "lon": 3.332507890338, 
+      "lat": 51.002556672627, 
+      "lon": 3.332686957466, 
       "municipality": "Tielt", 
       "pcode": "8700", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sint-Janstraat"
     }, 
     {
@@ -1721,11 +1765,11 @@
         "88"
       ], 
       "housenumber": "88", 
-      "lat": 51.002561191075, 
-      "lon": 3.332669190134, 
+      "lat": 51.002588312776, 
+      "lon": 3.332768183992, 
       "municipality": "Tielt", 
       "pcode": "8700", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sint-Janstraat"
     }, 
     {
@@ -1749,7 +1793,7 @@
       "lon": 3.32867379686, 
       "municipality": "Tielt", 
       "pcode": "8700", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sint-Janstraat"
     }, 
     {
@@ -1785,7 +1829,7 @@
       "lon": 3.333159267098, 
       "municipality": "Tielt", 
       "pcode": "8700", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sint-Janstraat"
     }, 
     {
@@ -1822,18 +1866,6 @@
       "municipality": "Tielt", 
       "pcode": "8700", 
       "source": "afgeleidVanGebouw", 
-      "street": "Sint-Janstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "/ZN-145"
-      ], 
-      "housenumber": "ZN", 
-      "lat": 51.002258053536, 
-      "lon": 3.332608354999, 
-      "municipality": "Tielt", 
-      "pcode": "8700", 
-      "source": "afgeleidVanStraat", 
       "street": "Sint-Janstraat"
     }
   ]

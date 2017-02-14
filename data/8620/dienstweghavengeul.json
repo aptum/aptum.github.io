@@ -3,6 +3,7 @@
     {
       "busnrs": [
         "1", 
+        "201", 
         "205", 
         "303", 
         "304", 
@@ -53,6 +54,7 @@
         "204", 
         "206", 
         "303", 
+        "305", 
         "401", 
         "404", 
         "5", 
@@ -87,6 +89,7 @@
         "201", 
         "204", 
         "301", 
+        "302", 
         "403"
       ], 
       "hnrlbls": [
@@ -120,11 +123,11 @@
         "22"
       ], 
       "housenumber": "22", 
-      "lat": 51.144950115653, 
-      "lon": 2.732540437294, 
+      "lat": 51.145199732896, 
+      "lon": 2.733483788042, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelKadaster", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Dienstweg Havengeul"
     }, 
     {
@@ -189,6 +192,7 @@
         "409", 
         "410", 
         "501", 
+        "502", 
         "508", 
         "510", 
         "602"
@@ -1419,6 +1423,7 @@
         "110", 
         "2", 
         "201", 
+        "204", 
         "206", 
         "210", 
         "304", 
@@ -1643,6 +1648,7 @@
         "105", 
         "2", 
         "301", 
+        "401", 
         "402", 
         "403", 
         "405", 
@@ -1712,6 +1718,7 @@
     }, 
     {
       "busnrs": [
+        "101", 
         "103", 
         "201", 
         "303", 
@@ -1764,6 +1771,18 @@
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
       "source": "afgeleidVanGebouw", 
+      "street": "Dienstweg Havengeul"
+    }, 
+    {
+      "hnrlbls": [
+        "/zn-50"
+      ], 
+      "housenumber": "zn", 
+      "lat": 51.149529154922, 
+      "lon": 2.723443594418, 
+      "municipality": "Nieuwpoort", 
+      "pcode": "8620", 
+      "source": "afgeleidVanStraat", 
       "street": "Dienstweg Havengeul"
     }
   ]

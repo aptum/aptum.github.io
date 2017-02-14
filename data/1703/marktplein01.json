@@ -131,8 +131,8 @@
         "19"
       ], 
       "housenumber": "19", 
-      "lat": 50.835591769209, 
-      "lon": 4.192083108842, 
+      "lat": 50.835591801348, 
+      "lon": 4.192083102097, 
       "municipality": "Dilbeek", 
       "pcode": "1703", 
       "source": "manueleAanduidingVanLigplaats", 
@@ -143,14 +143,17 @@
         "19A"
       ], 
       "housenumber": "19A", 
-      "lat": 50.835653150519, 
-      "lon": 4.192099125083, 
+      "lat": 50.835653134123, 
+      "lon": 4.19209905603, 
       "municipality": "Dilbeek", 
       "pcode": "1703", 
       "source": "manueleAanduidingVanLigplaats", 
       "street": "Marktplein_01"
     }, 
     {
+      "busnrs": [
+        "201"
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -177,6 +180,9 @@
     {
       "busnrs": [
         "1", 
+        "101", 
+        "102", 
+        "201", 
         "202", 
         "3", 
         "5"
@@ -220,6 +226,7 @@
       "busnrs": [
         "1", 
         "12", 
+        "201", 
         "203", 
         "5"
       ], 
@@ -262,6 +269,10 @@
       "apptnrs": [
         "1.0"
       ], 
+      "busnrs": [
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "6-8"
       ], 
@@ -290,11 +301,23 @@
         "7"
       ], 
       "housenumber": "7", 
-      "lat": 50.835214069826, 
-      "lon": 4.192329537174, 
+      "lat": 50.835285663928, 
+      "lon": 4.192474351978, 
       "municipality": "Dilbeek", 
       "pcode": "1703", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Marktplein_01"
+    }, 
+    {
+      "hnrlbls": [
+        "7A"
+      ], 
+      "housenumber": "7A", 
+      "lat": 50.835299934298, 
+      "lon": 4.19245896708, 
+      "municipality": "Dilbeek", 
+      "pcode": "1703", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Marktplein_01"
     }, 
     {
@@ -302,7 +325,8 @@
         "1.0"
       ], 
       "busnrs": [
-        "1"
+        "1", 
+        "201"
       ], 
       "hnrlbls": [
         "6-8"

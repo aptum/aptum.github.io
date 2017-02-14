@@ -61,9 +61,12 @@
         "101", 
         "102", 
         "2", 
+        "201", 
         "202", 
         "3", 
+        "301", 
         "302", 
+        "3VL", 
         "4", 
         "5", 
         "6"
@@ -72,23 +75,11 @@
         "14"
       ], 
       "housenumber": "14", 
-      "lat": 51.218740382275, 
-      "lon": 2.911258804682, 
+      "lat": 51.21872464483, 
+      "lon": 2.911236534968, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Rietstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "16-22"
-      ], 
-      "housenumber": "16", 
-      "lat": 51.218729336927, 
-      "lon": 2.911661125391, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rietstraat"
     }, 
     {
@@ -104,18 +95,6 @@
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
-      "street": "Rietstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "16-22"
-      ], 
-      "housenumber": "18", 
-      "lat": 51.218729336927, 
-      "lon": 2.911661125391, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Rietstraat"
     }, 
     {
@@ -143,18 +122,6 @@
       "street": "Rietstraat"
     }, 
     {
-      "hnrlbls": [
-        "16-22"
-      ], 
-      "housenumber": "20", 
-      "lat": 51.218729336927, 
-      "lon": 2.911661125391, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Rietstraat"
-    }, 
-    {
       "busnrs": [
         "1", 
         "101", 
@@ -172,19 +139,8 @@
       "street": "Rietstraat"
     }, 
     {
-      "hnrlbls": [
-        "16-22"
-      ], 
-      "housenumber": "22", 
-      "lat": 51.218729336927, 
-      "lon": 2.911661125391, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Rietstraat"
-    }, 
-    {
       "busnrs": [
+        "101", 
         "3"
       ], 
       "hnrlbls": [
@@ -203,8 +159,8 @@
         "25"
       ], 
       "housenumber": "25", 
-      "lat": 51.218480523618, 
-      "lon": 2.911897369553, 
+      "lat": 51.218477045257, 
+      "lon": 2.911899625481, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -239,7 +195,8 @@
     }, 
     {
       "busnrs": [
-        "1"
+        "1", 
+        "101"
       ], 
       "hnrlbls": [
         "3"
@@ -331,6 +288,7 @@
     }, 
     {
       "busnrs": [
+        "101", 
         "2", 
         "3"
       ], 
@@ -338,8 +296,8 @@
         "35A"
       ], 
       "housenumber": "35A", 
-      "lat": 51.218551168413, 
-      "lon": 2.912414236441, 
+      "lat": 51.218545180828, 
+      "lon": 2.912409842477, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -488,6 +446,7 @@
     }, 
     {
       "busnrs": [
+        "1", 
         "2", 
         "3", 
         "5", 
@@ -506,6 +465,9 @@
       "street": "Rietstraat"
     }, 
     {
+      "busnrs": [
+        "101"
+      ], 
       "hnrlbls": [
         "5"
       ], 
@@ -538,8 +500,8 @@
         "53"
       ], 
       "housenumber": "53", 
-      "lat": 51.219132026733, 
-      "lon": 2.913722288279, 
+      "lat": 51.219129284876, 
+      "lon": 2.913725952676, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -665,14 +627,14 @@
     }, 
     {
       "hnrlbls": [
-        "69-71"
+        "69"
       ], 
       "housenumber": "69", 
-      "lat": 51.21942838838, 
-      "lon": 2.914288959433, 
+      "lat": 51.219446139293, 
+      "lon": 2.914204516647, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rietstraat"
     }, 
     {
@@ -706,39 +668,19 @@
       "street": "Rietstraat"
     }, 
     {
+      "busnrs": [
+        "A", 
+        "B"
+      ], 
       "hnrlbls": [
-        "69-71"
+        "71"
       ], 
       "housenumber": "71", 
-      "lat": 51.21942838838, 
-      "lon": 2.914288959433, 
+      "lat": 51.219484573144, 
+      "lon": 2.914259435292, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Rietstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "71A-71B"
-      ], 
-      "housenumber": "71A", 
-      "lat": 51.219447085446, 
-      "lon": 2.914318009691, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Rietstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "71A-71B"
-      ], 
-      "housenumber": "71B", 
-      "lat": 51.219447085446, 
-      "lon": 2.914318009691, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rietstraat"
     }, 
     {
@@ -794,8 +736,8 @@
         "76"
       ], 
       "housenumber": "76", 
-      "lat": 51.219718158847, 
-      "lon": 2.914188160667, 
+      "lat": 51.219719508607, 
+      "lon": 2.914188261733, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -806,11 +748,11 @@
         "78"
       ], 
       "housenumber": "78", 
-      "lat": 51.219777335594, 
-      "lon": 2.914270348389, 
+      "lat": 51.219767720398, 
+      "lon": 2.914343801321, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rietstraat"
     }, 
     {

@@ -2,26 +2,14 @@
   "addresses": [
     {
       "hnrlbls": [
-        "1-444"
+        "1"
       ], 
       "housenumber": "1", 
-      "lat": 51.094712224689, 
-      "lon": 2.60401898987, 
+      "lat": 51.095647583858, 
+      "lon": 2.589082697915, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanStraat", 
-      "street": "Veurnestraat"
-    }, 
-    {
-      "hnrlbls": [
-        "10"
-      ], 
-      "housenumber": "10", 
-      "lat": 51.095217674801, 
-      "lon": 2.589307101899, 
-      "municipality": "De Panne", 
-      "pcode": "8660", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -33,7 +21,7 @@
       "lon": 2.594193775573, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -45,7 +33,7 @@
       "lon": 2.594140855196, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -57,7 +45,7 @@
       "lon": 2.594310951275, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -69,7 +57,7 @@
       "lon": 2.594250787941, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -81,7 +69,7 @@
       "lon": 2.594423941636, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -93,7 +81,7 @@
       "lon": 2.594379780268, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -101,11 +89,11 @@
         "106"
       ], 
       "housenumber": "106", 
-      "lat": 51.09513665149, 
-      "lon": 2.59451654537, 
+      "lat": 51.095137015233, 
+      "lon": 2.594516817147, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -117,7 +105,7 @@
       "lon": 2.594467662091, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -129,7 +117,7 @@
       "lon": 2.594583461856, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -141,7 +129,7 @@
       "lon": 2.589553851369, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -149,21 +137,23 @@
         "110"
       ], 
       "housenumber": "110", 
-      "lat": 51.09508113154, 
-      "lon": 2.594734833341, 
+      "lat": 51.095069944103, 
+      "lon": 2.594744253394, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
-      "busnrs": [
-        "101", 
-        "102", 
-        "201", 
-        "202", 
-        "301", 
-        "302"
+      "apptnrs": [
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302", 
+        "G001", 
+        "G002"
       ], 
       "hnrlbls": [
         "111"
@@ -173,23 +163,7 @@
       "lon": 2.594754583391, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Veurnestraat"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
-      "hnrlbls": [
-        "111G"
-      ], 
-      "housenumber": "111G", 
-      "lat": 51.095493846078, 
-      "lon": 2.59475944384, 
-      "municipality": "De Panne", 
-      "pcode": "8660", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -201,13 +175,14 @@
       "lon": 2.59494034023, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
-      "busnrs": [
-        "101", 
-        "201"
+      "apptnrs": [
+        "0101", 
+        "0201", 
+        "W001"
       ], 
       "hnrlbls": [
         "116"
@@ -217,13 +192,14 @@
       "lon": 2.595071074593, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
-      "busnrs": [
-        "101", 
-        "201"
+      "apptnrs": [
+        "0101", 
+        "0201", 
+        "G001"
       ], 
       "hnrlbls": [
         "117"
@@ -233,22 +209,7 @@
       "lon": 2.594897656063, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Veurnestraat"
-    }, 
-    {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "117G"
-      ], 
-      "housenumber": "117G", 
-      "lat": 51.095501861202, 
-      "lon": 2.594897788545, 
-      "municipality": "De Panne", 
-      "pcode": "8660", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -260,23 +221,25 @@
       "lon": 2.595064963334, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
-      "busnrs": [
-        "101", 
-        "301"
+      "apptnrs": [
+        "0101", 
+        "0201", 
+        "0301", 
+        "0302"
       ], 
       "hnrlbls": [
         "119"
       ], 
       "housenumber": "119", 
-      "lat": 51.095441540951, 
-      "lon": 2.595012166286, 
+      "lat": 51.095463647673, 
+      "lon": 2.595023322128, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -288,7 +251,7 @@
       "lon": 2.589259342769, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -300,19 +263,7 @@
       "lon": 2.595237120548, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Veurnestraat"
-    }, 
-    {
-      "hnrlbls": [
-        "121"
-      ], 
-      "housenumber": "121", 
-      "lat": 51.095550524106, 
-      "lon": 2.595084425229, 
-      "municipality": "De Panne", 
-      "pcode": "8660", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -324,7 +275,7 @@
       "lon": 2.595308929427, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -336,7 +287,7 @@
       "lon": 2.595156924414, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -348,7 +299,7 @@
       "lon": 2.595433477756, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -360,24 +311,24 @@
       "lon": 2.595259436801, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
-      "busnrs": [
-        "101", 
-        "102", 
-        "103"
+      "apptnrs": [
+        "0101", 
+        "0102", 
+        "0103"
       ], 
       "hnrlbls": [
-        "126-128"
+        "126"
       ], 
       "housenumber": "126", 
-      "lat": 51.095127128694, 
-      "lon": 2.595593246343, 
+      "lat": 51.095118407377, 
+      "lon": 2.595533463084, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -389,19 +340,19 @@
       "lon": 2.595379277732, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
       "hnrlbls": [
-        "126-128"
+        "128"
       ], 
       "housenumber": "128", 
-      "lat": 51.095127128694, 
-      "lon": 2.595593246343, 
+      "lat": 51.095135847835, 
+      "lon": 2.595652886917, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -413,15 +364,17 @@
       "lon": 2.595446141012, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
-      "busnrs": [
-        "101", 
-        "102", 
-        "201", 
-        "202"
+      "apptnrs": [
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "G001", 
+        "G002"
       ], 
       "hnrlbls": [
         "13"
@@ -431,7 +384,7 @@
       "lon": 2.589699597549, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -443,12 +396,13 @@
       "lon": 2.595747847396, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
-      "busnrs": [
-        "101"
+      "apptnrs": [
+        "0101", 
+        "G001"
       ], 
       "hnrlbls": [
         "131"
@@ -458,22 +412,7 @@
       "lon": 2.595515799861, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Veurnestraat"
-    }, 
-    {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "131G"
-      ], 
-      "housenumber": "131G", 
-      "lat": 51.095612571847, 
-      "lon": 2.595515439481, 
-      "municipality": "De Panne", 
-      "pcode": "8660", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -485,7 +424,7 @@
       "lon": 2.595927051512, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -497,7 +436,7 @@
       "lon": 2.595596590673, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -509,7 +448,7 @@
       "lon": 2.596030776425, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -517,11 +456,11 @@
         "135"
       ], 
       "housenumber": "135", 
-      "lat": 51.095716477546, 
-      "lon": 2.595854053425, 
+      "lat": 51.095609434649, 
+      "lon": 2.59586896354, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -533,7 +472,7 @@
       "lon": 2.5962332469, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -545,7 +484,7 @@
       "lon": 2.595897613657, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -557,7 +496,7 @@
       "lon": 2.596425780569, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -569,19 +508,7 @@
       "lon": 2.595986727346, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Veurnestraat"
-    }, 
-    {
-      "hnrlbls": [
-        "14"
-      ], 
-      "housenumber": "14", 
-      "lat": 51.094910810426, 
-      "lon": 2.589278083576, 
-      "municipality": "De Panne", 
-      "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -593,7 +520,7 @@
       "lon": 2.596485588717, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -605,7 +532,7 @@
       "lon": 2.596131708792, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -617,7 +544,7 @@
       "lon": 2.596402226384, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -629,7 +556,7 @@
       "lon": 2.596226136621, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -641,7 +568,7 @@
       "lon": 2.596456654804, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -653,7 +580,7 @@
       "lon": 2.596311343932, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -665,7 +592,7 @@
       "lon": 2.596529000924, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -677,7 +604,7 @@
       "lon": 2.596596357108, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -689,7 +616,7 @@
       "lon": 2.596579996766, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -701,12 +628,13 @@
       "lon": 2.596685100008, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
-      "busnrs": [
-        "101"
+      "apptnrs": [
+        "0101", 
+        "W001"
       ], 
       "hnrlbls": [
         "15"
@@ -716,7 +644,7 @@
       "lon": 2.589806582797, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -728,7 +656,7 @@
       "lon": 2.596586676543, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -740,7 +668,7 @@
       "lon": 2.596760318017, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -752,7 +680,7 @@
       "lon": 2.596637971847, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -764,7 +692,7 @@
       "lon": 2.59684090077, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -776,7 +704,7 @@
       "lon": 2.596637111006, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -788,7 +716,7 @@
       "lon": 2.596961184464, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -800,7 +728,7 @@
       "lon": 2.596700533119, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -808,11 +736,11 @@
         "157"
       ], 
       "housenumber": "157", 
-      "lat": 51.095525360918, 
-      "lon": 2.59710128409, 
+      "lat": 51.09543183762, 
+      "lon": 2.597106397805, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -824,7 +752,7 @@
       "lon": 2.596734524755, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -836,7 +764,7 @@
       "lon": 2.597216444031, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -848,7 +776,7 @@
       "lon": 2.58931962629, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -860,7 +788,7 @@
       "lon": 2.596757806346, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -872,7 +800,7 @@
       "lon": 2.597289762615, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -884,7 +812,7 @@
       "lon": 2.596853030749, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -896,7 +824,7 @@
       "lon": 2.597404805574, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -908,7 +836,7 @@
       "lon": 2.597253133743, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -920,7 +848,7 @@
       "lon": 2.597495616388, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -932,7 +860,7 @@
       "lon": 2.597399034389, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -944,7 +872,7 @@
       "lon": 2.597630338423, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -956,7 +884,7 @@
       "lon": 2.59763988149, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -968,12 +896,12 @@
       "lon": 2.597761021621, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
-      "busnrs": [
-        "101"
+      "apptnrs": [
+        "0101"
       ], 
       "hnrlbls": [
         "17"
@@ -983,7 +911,7 @@
       "lon": 2.589881022698, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -995,7 +923,7 @@
       "lon": 2.59776913162, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -1007,7 +935,7 @@
       "lon": 2.597887071677, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -1019,19 +947,7 @@
       "lon": 2.597823317776, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Veurnestraat"
-    }, 
-    {
-      "hnrlbls": [
-        "173"
-      ], 
-      "housenumber": "173", 
-      "lat": 51.09573710837, 
-      "lon": 2.598005406293, 
-      "municipality": "De Panne", 
-      "pcode": "8660", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -1043,37 +959,199 @@
       "lon": 2.597886503164, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
-      "busnrs": [
-        "01", 
-        "05", 
-        "09", 
-        "10", 
-        "11", 
-        "12", 
-        "13", 
-        "14", 
-        "15", 
-        "16", 
-        "2", 
-        "3", 
-        "4", 
-        "6", 
-        "7", 
-        "8"
-      ], 
       "hnrlbls": [
-        "175"
+        "175_1"
       ], 
-      "housenumber": "175", 
-      "lat": 51.09567494759, 
-      "lon": 2.598614332004, 
+      "housenumber": "175_1", 
+      "lat": 51.095686220491, 
+      "lon": 2.598862217176, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Veurnestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "175_10"
+      ], 
+      "housenumber": "175_10", 
+      "lat": 51.095687224854, 
+      "lon": 2.598503776162, 
+      "municipality": "De Panne", 
+      "pcode": "8660", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Veurnestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "175_11"
+      ], 
+      "housenumber": "175_11", 
+      "lat": 51.095715575981, 
+      "lon": 2.598601513726, 
+      "municipality": "De Panne", 
+      "pcode": "8660", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Veurnestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "175_12"
+      ], 
+      "housenumber": "175_12", 
+      "lat": 51.095887027572, 
+      "lon": 2.598360990011, 
+      "municipality": "De Panne", 
+      "pcode": "8660", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Veurnestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "175_13"
+      ], 
+      "housenumber": "175_13", 
+      "lat": 51.095872255917, 
+      "lon": 2.598485063111, 
+      "municipality": "De Panne", 
+      "pcode": "8660", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Veurnestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "175_14"
+      ], 
+      "housenumber": "175_14", 
+      "lat": 51.095881865391, 
+      "lon": 2.598652049978, 
+      "municipality": "De Panne", 
+      "pcode": "8660", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Veurnestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "175_15"
+      ], 
+      "housenumber": "175_15", 
+      "lat": 51.095862501609, 
+      "lon": 2.598757733991, 
+      "municipality": "De Panne", 
+      "pcode": "8660", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Veurnestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "175_16"
+      ], 
+      "housenumber": "175_16", 
+      "lat": 51.09583828507, 
+      "lon": 2.598857604373, 
+      "municipality": "De Panne", 
+      "pcode": "8660", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Veurnestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "175_2"
+      ], 
+      "housenumber": "175_2", 
+      "lat": 51.095625220099, 
+      "lon": 2.598805696407, 
+      "municipality": "De Panne", 
+      "pcode": "8660", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Veurnestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "175_3"
+      ], 
+      "housenumber": "175_3", 
+      "lat": 51.095569828695, 
+      "lon": 2.598829354079, 
+      "municipality": "De Panne", 
+      "pcode": "8660", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Veurnestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "175_4"
+      ], 
+      "housenumber": "175_4", 
+      "lat": 51.095489078231, 
+      "lon": 2.598804851883, 
+      "municipality": "De Panne", 
+      "pcode": "8660", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Veurnestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "175_5"
+      ], 
+      "housenumber": "175_5", 
+      "lat": 51.095471688087, 
+      "lon": 2.598688565555, 
+      "municipality": "De Panne", 
+      "pcode": "8660", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Veurnestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "175_6"
+      ], 
+      "housenumber": "175_6", 
+      "lat": 51.095441517874, 
+      "lon": 2.59843368629, 
+      "municipality": "De Panne", 
+      "pcode": "8660", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Veurnestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "175_7"
+      ], 
+      "housenumber": "175_7", 
+      "lat": 51.09549984039, 
+      "lon": 2.598407632619, 
+      "municipality": "De Panne", 
+      "pcode": "8660", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Veurnestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "175_8"
+      ], 
+      "housenumber": "175_8", 
+      "lat": 51.095560999835, 
+      "lon": 2.598372904106, 
+      "municipality": "De Panne", 
+      "pcode": "8660", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Veurnestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "175_9"
+      ], 
+      "housenumber": "175_9", 
+      "lat": 51.095703073167, 
+      "lon": 2.598403508748, 
+      "municipality": "De Panne", 
+      "pcode": "8660", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -1085,19 +1163,19 @@
       "lon": 2.597989357936, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
       "hnrlbls": [
-        "177-179"
+        "177"
       ], 
       "housenumber": "177", 
-      "lat": 51.095768810342, 
-      "lon": 2.599386844272, 
+      "lat": 51.095787627671, 
+      "lon": 2.599352576588, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -1109,47 +1187,31 @@
       "lon": 2.598120917557, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Veurnestraat"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
-      "hnrlbls": [
-        "177-179"
-      ], 
-      "housenumber": "179", 
-      "lat": 51.095768810342, 
-      "lon": 2.599386844272, 
-      "municipality": "De Panne", 
-      "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
       "hnrlbls": [
-        "179A-179B"
+        "179_1"
       ], 
-      "housenumber": "179A", 
-      "lat": 51.095751018515, 
-      "lon": 2.600496711532, 
+      "housenumber": "179_1", 
+      "lat": 51.095756232669, 
+      "lon": 2.600436685296, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
       "hnrlbls": [
-        "179A-179B"
+        "179_2"
       ], 
-      "housenumber": "179B", 
-      "lat": 51.095751018515, 
-      "lon": 2.600496711532, 
+      "housenumber": "179_2", 
+      "lat": 51.09574580433, 
+      "lon": 2.600556737755, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -1161,7 +1223,7 @@
       "lon": 2.598202848431, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -1173,7 +1235,7 @@
       "lon": 2.601384311742, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -1185,19 +1247,7 @@
       "lon": 2.5983201142, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Veurnestraat"
-    }, 
-    {
-      "hnrlbls": [
-        "183"
-      ], 
-      "housenumber": "183", 
-      "lat": 51.094997742919, 
-      "lon": 2.598364384294, 
-      "municipality": "De Panne", 
-      "pcode": "8660", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -1209,7 +1259,7 @@
       "lon": 2.59841482273, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -1221,7 +1271,7 @@
       "lon": 2.59851550354, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -1233,13 +1283,10 @@
       "lon": 2.598656882204, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
-      "busnrs": [
-        "202"
-      ], 
       "hnrlbls": [
         "19"
       ], 
@@ -1248,12 +1295,13 @@
       "lon": 2.589991285935, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
-      "busnrs": [
-        "101"
+      "apptnrs": [
+        "0101", 
+        "W001"
       ], 
       "hnrlbls": [
         "190"
@@ -1263,7 +1311,7 @@
       "lon": 2.598743117703, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -1275,7 +1323,7 @@
       "lon": 2.603012650109, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -1287,7 +1335,7 @@
       "lon": 2.598818755504, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -1299,7 +1347,7 @@
       "lon": 2.603414573159, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -1311,35 +1359,19 @@
       "lon": 2.598912092913, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
       "hnrlbls": [
-        "195-195G"
+        "195"
       ], 
       "housenumber": "195", 
       "lat": 51.095573674227, 
       "lon": 2.604889768129, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Veurnestraat"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
-      "hnrlbls": [
-        "195-195G"
-      ], 
-      "housenumber": "195G", 
-      "lat": 51.095573674227, 
-      "lon": 2.604889768129, 
-      "municipality": "De Panne", 
-      "pcode": "8660", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -1351,87 +1383,53 @@
       "lon": 2.599021288843, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
-      "hnrlbls": [
-        "1-197"
-      ], 
-      "housenumber": "197", 
-      "lat": 51.09607230879, 
-      "lon": 2.605922472988, 
-      "municipality": "De Panne", 
-      "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Veurnestraat"
-    }, 
-    {
-      "busnrs": [
-        "101", 
-        "102", 
-        "201", 
-        "202", 
-        "301"
+      "apptnrs": [
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "G001", 
+        "G002"
       ], 
       "hnrlbls": [
-        "198-200"
+        "198"
       ], 
       "housenumber": "198", 
-      "lat": 51.095023153658, 
-      "lon": 2.599362652785, 
+      "lat": 51.095027465973, 
+      "lon": 2.599254541902, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
-      "busnrs": [
-        "1", 
+      "apptnrs": [
+        "0101", 
+        "0201", 
+        "G001", 
+        "G002", 
+        "G003"
+      ], 
+      "hnrlbls": [
         "2"
-      ], 
-      "hnrlbls": [
-        "198G"
-      ], 
-      "housenumber": "198G", 
-      "lat": 51.095015509906, 
-      "lon": 2.599470461319, 
-      "municipality": "De Panne", 
-      "pcode": "8660", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Veurnestraat"
-    }, 
-    {
-      "hnrlbls": [
-        "199"
-      ], 
-      "housenumber": "199", 
-      "lat": 51.095838454438, 
-      "lon": 2.606699356482, 
-      "municipality": "De Panne", 
-      "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Veurnestraat"
-    }, 
-    {
-      "busnrs": [
-        "101", 
-        "201"
-      ], 
-      "hnrlbls": [
-        "2-2G"
       ], 
       "housenumber": "2", 
       "lat": 51.095322318167, 
       "lon": 2.589133200811, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
-      "busnrs": [
-        "101"
+      "apptnrs": [
+        "0101", 
+        "W001"
       ], 
       "hnrlbls": [
         "20"
@@ -1441,41 +1439,40 @@
       "lon": 2.589497991522, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
-      "busnrs": [
-        "101", 
-        "201", 
-        "202", 
-        "301"
+      "apptnrs": [
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "G001", 
+        "G002"
       ], 
       "hnrlbls": [
-        "198-200"
+        "200"
       ], 
       "housenumber": "200", 
-      "lat": 51.095023153658, 
-      "lon": 2.599362652785, 
+      "lat": 51.095018751382, 
+      "lon": 2.599470767048, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
       "hnrlbls": [
-        "200G"
+        "201"
       ], 
-      "housenumber": "200G", 
-      "lat": 51.09502395919, 
-      "lon": 2.599254531802, 
+      "housenumber": "201", 
+      "lat": 51.095263596861, 
+      "lon": 2.606780844536, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -1487,7 +1484,7 @@
       "lon": 2.599691469766, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -1495,23 +1492,11 @@
         "203"
       ], 
       "housenumber": "203", 
-      "lat": 51.095446338875, 
-      "lon": 2.606741260732, 
+      "lat": 51.095459830988, 
+      "lon": 2.606783731863, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Veurnestraat"
-    }, 
-    {
-      "hnrlbls": [
-        "204"
-      ], 
-      "housenumber": "204", 
-      "lat": 51.09484526258, 
-      "lon": 2.599689512726, 
-      "municipality": "De Panne", 
-      "pcode": "8660", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -1523,19 +1508,7 @@
       "lon": 2.607047203794, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Veurnestraat"
-    }, 
-    {
-      "hnrlbls": [
-        "206"
-      ], 
-      "housenumber": "206", 
-      "lat": 51.094764388689, 
-      "lon": 2.599740691303, 
-      "municipality": "De Panne", 
-      "pcode": "8660", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -1547,7 +1520,7 @@
       "lon": 2.607146645723, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -1559,31 +1532,40 @@
       "lon": 2.599807716415, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
       "hnrlbls": [
-        "209"
+        "209_1-209_2"
       ], 
-      "housenumber": "209", 
-      "lat": 51.095275090162, 
-      "lon": 2.607255325728, 
+      "housenumber": "209_1", 
+      "lat": 51.095195617331, 
+      "lon": 2.607256034577, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
-      "busnrs": [
-        "101", 
-        "102", 
-        "201", 
-        "301"
+      "hnrlbls": [
+        "209_1-209_2"
+      ], 
+      "housenumber": "209_2", 
+      "lat": 51.095195617331, 
+      "lon": 2.607256034577, 
+      "municipality": "De Panne", 
+      "pcode": "8660", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Veurnestraat"
+    }, 
+    {
+      "apptnrs": [
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301"
       ], 
       "hnrlbls": [
         "21"
@@ -1593,7 +1575,7 @@
       "lon": 2.590103245733, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -1605,23 +1587,31 @@
       "lon": 2.599770859497, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
       "hnrlbls": [
-        "211"
+        "211_1"
       ], 
-      "housenumber": "211", 
-      "lat": 51.095211895498, 
-      "lon": 2.60743690523, 
+      "housenumber": "211_1", 
+      "lat": 51.095188690921, 
+      "lon": 2.6073401121, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Veurnestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "211_2"
+      ], 
+      "housenumber": "211_2", 
+      "lat": 51.095206274263, 
+      "lon": 2.607409701611, 
+      "municipality": "De Panne", 
+      "pcode": "8660", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -1633,12 +1623,13 @@
       "lon": 2.599903234863, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
-      "busnrs": [
-        "101"
+      "apptnrs": [
+        "0101", 
+        "W001"
       ], 
       "hnrlbls": [
         "213"
@@ -1648,7 +1639,7 @@
       "lon": 2.607650546846, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -1660,7 +1651,7 @@
       "lon": 2.600049308224, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -1672,19 +1663,7 @@
       "lon": 2.608028453883, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Veurnestraat"
-    }, 
-    {
-      "hnrlbls": [
-        "216-218"
-      ], 
-      "housenumber": "216", 
-      "lat": 51.094884412984, 
-      "lon": 2.600195641414, 
-      "municipality": "De Panne", 
-      "pcode": "8660", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -1696,19 +1675,7 @@
       "lon": 2.608145486795, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Veurnestraat"
-    }, 
-    {
-      "hnrlbls": [
-        "216-218"
-      ], 
-      "housenumber": "218", 
-      "lat": 51.094884412984, 
-      "lon": 2.600195641414, 
-      "municipality": "De Panne", 
-      "pcode": "8660", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -1720,7 +1687,7 @@
       "lon": 2.608209952907, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -1732,7 +1699,7 @@
       "lon": 2.589654538882, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -1744,7 +1711,7 @@
       "lon": 2.600396687774, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -1756,7 +1723,7 @@
       "lon": 2.608282570514, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -1768,7 +1735,7 @@
       "lon": 2.60058747667, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -1780,7 +1747,7 @@
       "lon": 2.60834869073, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -1792,7 +1759,7 @@
       "lon": 2.600709440064, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -1804,7 +1771,7 @@
       "lon": 2.608658626414, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -1816,7 +1783,7 @@
       "lon": 2.60079938925, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -1828,7 +1795,7 @@
       "lon": 2.600918774438, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -1840,7 +1807,7 @@
       "lon": 2.590170195921, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -1852,7 +1819,7 @@
       "lon": 2.601612142969, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -1864,7 +1831,7 @@
       "lon": 2.608716478498, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -1872,11 +1839,11 @@
         "232"
       ], 
       "housenumber": "232", 
-      "lat": 51.094994144411, 
-      "lon": 2.601709754552, 
+      "lat": 51.094991718181, 
+      "lon": 2.60170384914, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -1888,7 +1855,7 @@
       "lon": 2.608848292331, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -1896,27 +1863,35 @@
         "234"
       ], 
       "housenumber": "234", 
-      "lat": 51.094993002425, 
-      "lon": 2.601855584023, 
+      "lat": 51.094993092287, 
+      "lon": 2.601855580628, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
       "hnrlbls": [
-        "235"
+        "235_1"
       ], 
-      "housenumber": "235", 
-      "lat": 51.095683559351, 
-      "lon": 2.609025666681, 
+      "housenumber": "235_1", 
+      "lat": 51.095762847905, 
+      "lon": 2.609175325421, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Veurnestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "235_2"
+      ], 
+      "housenumber": "235_2", 
+      "lat": 51.095604268475, 
+      "lon": 2.608875865741, 
+      "municipality": "De Panne", 
+      "pcode": "8660", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -1928,7 +1903,7 @@
       "lon": 2.601952002212, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -1940,7 +1915,7 @@
       "lon": 2.608843257296, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -1952,7 +1927,7 @@
       "lon": 2.602051173348, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -1964,7 +1939,7 @@
       "lon": 2.608940656556, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -1976,19 +1951,7 @@
       "lon": 2.589807752163, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Veurnestraat"
-    }, 
-    {
-      "hnrlbls": [
-        "240-242"
-      ], 
-      "housenumber": "240", 
-      "lat": 51.094972663639, 
-      "lon": 2.602178481524, 
-      "municipality": "De Panne", 
-      "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -2000,19 +1963,19 @@
       "lon": 2.609090356417, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
       "hnrlbls": [
-        "240-242"
+        "242"
       ], 
       "housenumber": "242", 
-      "lat": 51.094972663639, 
-      "lon": 2.602178481524, 
+      "lat": 51.095012830119, 
+      "lon": 2.602176821449, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -2024,7 +1987,7 @@
       "lon": 2.609236298051, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -2032,11 +1995,11 @@
         "244"
       ], 
       "housenumber": "244", 
-      "lat": 51.094986819288, 
-      "lon": 2.602313166784, 
+      "lat": 51.094983768231, 
+      "lon": 2.602313567604, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -2048,19 +2011,7 @@
       "lon": 2.609352594408, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Veurnestraat"
-    }, 
-    {
-      "hnrlbls": [
-        "245B-278"
-      ], 
-      "housenumber": "245B", 
-      "lat": 51.094832211981, 
-      "lon": 2.606848358084, 
-      "municipality": "De Panne", 
-      "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -2072,7 +2023,7 @@
       "lon": 2.602422732733, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -2084,7 +2035,7 @@
       "lon": 2.609497615428, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -2096,39 +2047,47 @@
       "lon": 2.602718076058, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
-      "busnrs": [
-        "101"
+      "apptnrs": [
+        "0101", 
+        "G001"
       ], 
       "hnrlbls": [
-        "25-25G"
+        "25"
       ], 
       "housenumber": "25", 
       "lat": 51.095594185514, 
       "lon": 2.590263605674, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3"
-      ], 
       "hnrlbls": [
-        "250"
+        "250_2"
       ], 
-      "housenumber": "250", 
+      "housenumber": "250_2", 
       "lat": 51.094558705718, 
       "lon": 2.602773117546, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Veurnestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "250_3"
+      ], 
+      "housenumber": "250_3", 
+      "lat": 51.094409360506, 
+      "lon": 2.60344585297, 
+      "municipality": "De Panne", 
+      "pcode": "8660", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -2140,7 +2099,7 @@
       "lon": 2.609693709557, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -2152,7 +2111,7 @@
       "lon": 2.603355138296, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -2164,7 +2123,7 @@
       "lon": 2.60980399018, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -2176,7 +2135,7 @@
       "lon": 2.60433373115, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -2188,7 +2147,7 @@
       "lon": 2.609888148031, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -2200,7 +2159,7 @@
       "lon": 2.604947989084, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -2212,23 +2171,31 @@
       "lon": 2.610010786815, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
       "hnrlbls": [
-        "258"
+        "258_1"
       ], 
-      "housenumber": "258", 
+      "housenumber": "258_1", 
+      "lat": 51.094671683047, 
+      "lon": 2.605312025109, 
+      "municipality": "De Panne", 
+      "pcode": "8660", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Veurnestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "258_2"
+      ], 
+      "housenumber": "258_2", 
       "lat": 51.094877637549, 
       "lon": 2.605465894201, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -2240,34 +2207,7 @@
       "lon": 2.610210015944, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Veurnestraat"
-    }, 
-    {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "25-25G"
-      ], 
-      "housenumber": "25G", 
-      "lat": 51.095594185514, 
-      "lon": 2.590263605674, 
-      "municipality": "De Panne", 
-      "pcode": "8660", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Veurnestraat"
-    }, 
-    {
-      "hnrlbls": [
-        "26"
-      ], 
-      "housenumber": "26", 
-      "lat": 51.095199830914, 
-      "lon": 2.589888503609, 
-      "municipality": "De Panne", 
-      "pcode": "8660", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -2279,7 +2219,7 @@
       "lon": 2.605588781201, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -2291,7 +2231,7 @@
       "lon": 2.610309987323, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -2303,7 +2243,7 @@
       "lon": 2.605824422041, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -2315,7 +2255,7 @@
       "lon": 2.610391244714, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -2327,7 +2267,7 @@
       "lon": 2.605929651201, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -2339,7 +2279,7 @@
       "lon": 2.610493011424, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -2351,7 +2291,7 @@
       "lon": 2.606093255377, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -2363,7 +2303,7 @@
       "lon": 2.610607906209, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -2375,7 +2315,7 @@
       "lon": 2.6062644355, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -2387,7 +2327,7 @@
       "lon": 2.610750993265, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -2399,7 +2339,7 @@
       "lon": 2.590360246537, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -2411,47 +2351,31 @@
       "lon": 2.606446738292, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Veurnestraat"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
-      "hnrlbls": [
-        "271"
-      ], 
-      "housenumber": "271", 
-      "lat": 51.095635831719, 
-      "lon": 2.61076920737, 
-      "municipality": "De Panne", 
-      "pcode": "8660", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
       "hnrlbls": [
-        "271A-271B"
+        "271_1"
       ], 
-      "housenumber": "271A", 
-      "lat": 51.095503239698, 
-      "lon": 2.610716933346, 
+      "housenumber": "271_1", 
+      "lat": 51.095508950632, 
+      "lon": 2.610786399662, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
       "hnrlbls": [
-        "271A-271B"
+        "271_2"
       ], 
-      "housenumber": "271B", 
-      "lat": 51.095503239698, 
-      "lon": 2.610716933346, 
+      "housenumber": "271_2", 
+      "lat": 51.095502768486, 
+      "lon": 2.610673257648, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -2463,7 +2387,7 @@
       "lon": 2.606532283547, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -2475,7 +2399,7 @@
       "lon": 2.610727745634, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -2487,7 +2411,7 @@
       "lon": 2.606625893403, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -2495,11 +2419,11 @@
         "275"
       ], 
       "housenumber": "275", 
-      "lat": 51.095080730003, 
-      "lon": 2.610999972112, 
+      "lat": 51.095093321447, 
+      "lon": 2.611000212786, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -2511,31 +2435,19 @@
       "lon": 2.606734144933, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
       "hnrlbls": [
-        "277"
-      ], 
-      "housenumber": "277", 
-      "lat": 51.095221192089, 
-      "lon": 2.611067514563, 
-      "municipality": "De Panne", 
-      "pcode": "8660", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Veurnestraat"
-    }, 
-    {
-      "hnrlbls": [
-        "245B-278"
+        "278"
       ], 
       "housenumber": "278", 
       "lat": 51.094832211981, 
       "lon": 2.606848358084, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -2547,25 +2459,26 @@
       "lon": 2.611126137594, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
-      "busnrs": [
-        "101", 
-        "102", 
-        "201", 
-        "202"
+      "apptnrs": [
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "W001"
       ], 
       "hnrlbls": [
-        "28-32"
+        "28"
       ], 
       "housenumber": "28", 
       "lat": 51.095306607785, 
       "lon": 2.589969258842, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -2577,7 +2490,7 @@
       "lon": 2.607050380798, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -2585,11 +2498,11 @@
         "281"
       ], 
       "housenumber": "281", 
-      "lat": 51.095402017706, 
-      "lon": 2.611273330448, 
+      "lat": 51.095057157319, 
+      "lon": 2.61127044101, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -2601,7 +2514,7 @@
       "lon": 2.607194088616, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -2613,7 +2526,7 @@
       "lon": 2.61144058941, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -2625,7 +2538,7 @@
       "lon": 2.607297919405, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -2637,45 +2550,41 @@
       "lon": 2.607420207774, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
       "hnrlbls": [
-        "288"
+        "289_1"
       ], 
-      "housenumber": "288", 
-      "lat": 51.094700312092, 
-      "lon": 2.607504720024, 
+      "housenumber": "289_1", 
+      "lat": 51.095029678693, 
+      "lon": 2.611840053272, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "2101", 
-        "2102", 
-        "2201", 
-        "2202"
+      "apptnrs": [
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "W001"
       ], 
       "hnrlbls": [
-        "289"
+        "289_2"
       ], 
-      "housenumber": "289", 
-      "lat": 51.095061501385, 
-      "lon": 2.611833574611, 
+      "housenumber": "289_2", 
+      "lat": 51.094665710514, 
+      "lon": 2.61232906242, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
         "29"
       ], 
@@ -2684,7 +2593,7 @@
       "lon": 2.590447250295, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -2696,35 +2605,23 @@
       "lon": 2.607808842551, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "101"
+      "apptnrs": [
+        "0101", 
+        "W001"
       ], 
       "hnrlbls": [
-        "291-291A"
+        "291"
       ], 
       "housenumber": "291", 
       "lat": 51.094396994102, 
       "lon": 2.612512496229, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Veurnestraat"
-    }, 
-    {
-      "hnrlbls": [
-        "291-291A"
-      ], 
-      "housenumber": "291A", 
-      "lat": 51.094396994102, 
-      "lon": 2.612512496229, 
-      "municipality": "De Panne", 
-      "pcode": "8660", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -2736,7 +2633,7 @@
       "lon": 2.612598845406, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -2748,7 +2645,7 @@
       "lon": 2.60843328081, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -2760,7 +2657,7 @@
       "lon": 2.612641255247, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -2768,11 +2665,11 @@
         "296"
       ], 
       "housenumber": "296", 
-      "lat": 51.094739482378, 
-      "lon": 2.608562579509, 
+      "lat": 51.094746801737, 
+      "lon": 2.608565016969, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -2784,7 +2681,7 @@
       "lon": 2.612695947779, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -2796,7 +2693,7 @@
       "lon": 2.608675245008, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -2808,54 +2705,27 @@
       "lon": 2.612733920923, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3"
+      "apptnrs": [
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "G001", 
+        "G002"
       ], 
       "hnrlbls": [
-        "2-2G"
-      ], 
-      "housenumber": "2G", 
-      "lat": 51.095322318167, 
-      "lon": 2.589133200811, 
-      "municipality": "De Panne", 
-      "pcode": "8660", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Veurnestraat"
-    }, 
-    {
-      "hnrlbls": [
-        "1-444"
-      ], 
-      "housenumber": "3", 
-      "lat": 51.094712224689, 
-      "lon": 2.60401898987, 
-      "municipality": "De Panne", 
-      "pcode": "8660", 
-      "source": "afgeleidVanStraat", 
-      "street": "Veurnestraat"
-    }, 
-    {
-      "busnrs": [
-        "101", 
-        "102", 
-        "201", 
-        "202"
-      ], 
-      "hnrlbls": [
-        "28-32"
+        "30"
       ], 
       "housenumber": "30", 
-      "lat": 51.095306607785, 
-      "lon": 2.589969258842, 
+      "lat": 51.095306152881, 
+      "lon": 2.590147762736, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -2867,24 +2737,43 @@
       "lon": 2.608777773066, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3"
-      ], 
       "hnrlbls": [
-        "301"
+        "301_1"
       ], 
-      "housenumber": "301", 
-      "lat": 51.094094461013, 
-      "lon": 2.612882532029, 
+      "housenumber": "301_1", 
+      "lat": 51.09408829325, 
+      "lon": 2.612794379986, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Veurnestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "301_2"
+      ], 
+      "housenumber": "301_2", 
+      "lat": 51.094198051947, 
+      "lon": 2.613336268077, 
+      "municipality": "De Panne", 
+      "pcode": "8660", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Veurnestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "301_3"
+      ], 
+      "housenumber": "301_3", 
+      "lat": 51.094087339544, 
+      "lon": 2.613292019774, 
+      "municipality": "De Panne", 
+      "pcode": "8660", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -2896,7 +2785,7 @@
       "lon": 2.608881765342, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -2908,7 +2797,7 @@
       "lon": 2.612892539681, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -2920,7 +2809,7 @@
       "lon": 2.609210283335, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -2932,7 +2821,7 @@
       "lon": 2.613029366467, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -2944,7 +2833,7 @@
       "lon": 2.609364057937, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -2952,23 +2841,11 @@
         "307"
       ], 
       "housenumber": "307", 
-      "lat": 51.093812433311, 
-      "lon": 2.612944951205, 
+      "lat": 51.093812431186, 
+      "lon": 2.612944808501, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Veurnestraat"
-    }, 
-    {
-      "hnrlbls": [
-        "308"
-      ], 
-      "housenumber": "308", 
-      "lat": 51.094909461744, 
-      "lon": 2.609481442793, 
-      "municipality": "De Panne", 
-      "pcode": "8660", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -2976,27 +2853,11 @@
         "309"
       ], 
       "housenumber": "309", 
-      "lat": 51.093767491747, 
-      "lon": 2.613181517363, 
+      "lat": 51.093767568865, 
+      "lon": 2.613180657767, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Veurnestraat"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
-      "hnrlbls": [
-        "28-32"
-      ], 
-      "housenumber": "30G", 
-      "lat": 51.095306607785, 
-      "lon": 2.589969258842, 
-      "municipality": "De Panne", 
-      "pcode": "8660", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -3008,7 +2869,7 @@
       "lon": 2.590530914825, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -3020,7 +2881,7 @@
       "lon": 2.609595448281, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -3032,7 +2893,7 @@
       "lon": 2.613583544436, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -3044,7 +2905,7 @@
       "lon": 2.609658793905, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -3056,7 +2917,7 @@
       "lon": 2.613661959289, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -3068,7 +2929,7 @@
       "lon": 2.609730221688, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -3080,7 +2941,7 @@
       "lon": 2.613833147716, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -3092,7 +2953,7 @@
       "lon": 2.609896171443, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -3104,7 +2965,7 @@
       "lon": 2.615806834309, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -3116,7 +2977,7 @@
       "lon": 2.610218643471, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -3128,19 +2989,7 @@
       "lon": 2.61590981236, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Veurnestraat"
-    }, 
-    {
-      "hnrlbls": [
-        "28-32"
-      ], 
-      "housenumber": "32", 
-      "lat": 51.095306607785, 
-      "lon": 2.589969258842, 
-      "municipality": "De Panne", 
-      "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -3152,19 +3001,19 @@
       "lon": 2.610299030385, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
       "hnrlbls": [
-        "321-329"
+        "321"
       ], 
       "housenumber": "321", 
-      "lat": 51.091300840806, 
-      "lon": 2.616145615952, 
+      "lat": 51.091329333271, 
+      "lon": 2.616132840625, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -3176,7 +3025,7 @@
       "lon": 2.610421716021, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -3188,7 +3037,7 @@
       "lon": 2.616911329461, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -3200,7 +3049,7 @@
       "lon": 2.610497734608, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -3212,7 +3061,7 @@
       "lon": 2.610656510375, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -3224,19 +3073,7 @@
       "lon": 2.610853211214, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Veurnestraat"
-    }, 
-    {
-      "hnrlbls": [
-        "321-329"
-      ], 
-      "housenumber": "329", 
-      "lat": 51.091300840806, 
-      "lon": 2.616145615952, 
-      "municipality": "De Panne", 
-      "pcode": "8660", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -3248,7 +3085,7 @@
       "lon": 2.590631903045, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -3260,19 +3097,7 @@
       "lon": 2.611152167699, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Veurnestraat"
-    }, 
-    {
-      "hnrlbls": [
-        "1-444"
-      ], 
-      "housenumber": "331", 
-      "lat": 51.094712224689, 
-      "lon": 2.60401898987, 
-      "municipality": "De Panne", 
-      "pcode": "8660", 
-      "source": "afgeleidVanStraat", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -3284,7 +3109,7 @@
       "lon": 2.611295250738, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -3296,7 +3121,7 @@
       "lon": 2.611563988252, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -3308,14 +3133,15 @@
       "lon": 2.611969457316, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
-      "busnrs": [
-        "101", 
-        "102", 
-        "201"
+      "apptnrs": [
+        "0101", 
+        "0102", 
+        "0201", 
+        "W001"
       ], 
       "hnrlbls": [
         "34"
@@ -3325,7 +3151,7 @@
       "lon": 2.590288601289, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -3337,31 +3163,7 @@
       "lon": 2.612180151581, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Veurnestraat"
-    }, 
-    {
-      "hnrlbls": [
-        "342"
-      ], 
-      "housenumber": "342", 
-      "lat": 51.095217546853, 
-      "lon": 2.596117279636, 
-      "municipality": "De Panne", 
-      "pcode": "8660", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Veurnestraat"
-    }, 
-    {
-      "hnrlbls": [
-        "1-444"
-      ], 
-      "housenumber": "343", 
-      "lat": 51.094712224689, 
-      "lon": 2.60401898987, 
-      "municipality": "De Panne", 
-      "pcode": "8660", 
-      "source": "afgeleidVanStraat", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -3373,13 +3175,10 @@
       "lon": 2.612302010771, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
         "35"
       ], 
@@ -3388,7 +3187,7 @@
       "lon": 2.590707068483, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -3400,7 +3199,7 @@
       "lon": 2.612586428665, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -3412,7 +3211,7 @@
       "lon": 2.613229548391, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -3424,7 +3223,7 @@
       "lon": 2.61336500104, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -3436,7 +3235,7 @@
       "lon": 2.61352643399, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -3448,7 +3247,19 @@
       "lon": 2.613640837248, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Veurnestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "36"
+      ], 
+      "housenumber": "36", 
+      "lat": 51.095199660838, 
+      "lon": 2.590288604707, 
+      "municipality": "De Panne", 
+      "pcode": "8660", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -3460,7 +3271,7 @@
       "lon": 2.613941610525, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -3472,22 +3283,7 @@
       "lon": 2.615825613537, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Veurnestraat"
-    }, 
-    {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "36G"
-      ], 
-      "housenumber": "36G", 
-      "lat": 51.095259555728, 
-      "lon": 2.590355008494, 
-      "municipality": "De Panne", 
-      "pcode": "8660", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -3499,7 +3295,7 @@
       "lon": 2.590789202291, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -3511,47 +3307,23 @@
       "lon": 2.590421273162, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
+      "apptnrs": [
+        "G001", 
+        "G002"
+      ], 
       "hnrlbls": [
-        "39-39G"
+        "39"
       ], 
       "housenumber": "39", 
       "lat": 51.095610026099, 
       "lon": 2.590914697617, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Veurnestraat"
-    }, 
-    {
-      "hnrlbls": [
-        "1-444"
-      ], 
-      "housenumber": "396", 
-      "lat": 51.094712224689, 
-      "lon": 2.60401898987, 
-      "municipality": "De Panne", 
-      "pcode": "8660", 
-      "source": "afgeleidVanStraat", 
-      "street": "Veurnestraat"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
-      "hnrlbls": [
-        "39-39G"
-      ], 
-      "housenumber": "39G", 
-      "lat": 51.095610026099, 
-      "lon": 2.590914697617, 
-      "municipality": "De Panne", 
-      "pcode": "8660", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -3563,41 +3335,26 @@
       "lon": 2.58925642822, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
-      "busnrs": [
-        "101", 
-        "102", 
-        "201", 
-        "202"
+      "apptnrs": [
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "G001"
       ], 
       "hnrlbls": [
-        "40-40G"
+        "40"
       ], 
       "housenumber": "40", 
       "lat": 51.095238562141, 
       "lon": 2.590531009005, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Veurnestraat"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
-      "hnrlbls": [
-        "40-40G"
-      ], 
-      "housenumber": "40G", 
-      "lat": 51.095238562141, 
-      "lon": 2.590531009005, 
-      "municipality": "De Panne", 
-      "pcode": "8660", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -3609,7 +3366,7 @@
       "lon": 2.59103394574, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -3621,7 +3378,7 @@
       "lon": 2.590610794286, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -3633,7 +3390,7 @@
       "lon": 2.591147368426, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -3645,19 +3402,7 @@
       "lon": 2.590725285595, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Veurnestraat"
-    }, 
-    {
-      "hnrlbls": [
-        "1-444"
-      ], 
-      "housenumber": "444", 
-      "lat": 51.094712224689, 
-      "lon": 2.60401898987, 
-      "municipality": "De Panne", 
-      "pcode": "8660", 
-      "source": "afgeleidVanStraat", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -3669,7 +3414,7 @@
       "lon": 2.591208243377, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -3681,7 +3426,7 @@
       "lon": 2.590797586353, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -3693,79 +3438,39 @@
       "lon": 2.591297820064, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
-      "busnrs": [
-        "101"
+      "apptnrs": [
+        "0101", 
+        "G001"
       ], 
       "hnrlbls": [
-        "48-48G"
+        "48"
       ], 
       "housenumber": "48", 
       "lat": 51.095292024511, 
       "lon": 2.590898371789, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
-      "busnrs": [
-        "1"
+      "apptnrs": [
+        "0101", 
+        "G001"
       ], 
       "hnrlbls": [
-        "48-48G"
-      ], 
-      "housenumber": "48G", 
-      "lat": 51.095292024511, 
-      "lon": 2.590898371789, 
-      "municipality": "De Panne", 
-      "pcode": "8660", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Veurnestraat"
-    }, 
-    {
-      "busnrs": [
-        "101"
-      ], 
-      "hnrlbls": [
-        "49-49G"
+        "49"
       ], 
       "housenumber": "49", 
       "lat": 51.095550634393, 
       "lon": 2.591442422561, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Veurnestraat"
-    }, 
-    {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "49-49G"
-      ], 
-      "housenumber": "49G", 
-      "lat": 51.095550634393, 
-      "lon": 2.591442422561, 
-      "municipality": "De Panne", 
-      "pcode": "8660", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Veurnestraat"
-    }, 
-    {
-      "hnrlbls": [
-        "1-444"
-      ], 
-      "housenumber": "5", 
-      "lat": 51.094712224689, 
-      "lon": 2.60401898987, 
-      "municipality": "De Panne", 
-      "pcode": "8660", 
-      "source": "afgeleidVanStraat", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -3777,7 +3482,7 @@
       "lon": 2.590995511551, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -3789,7 +3494,7 @@
       "lon": 2.591555593931, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -3801,7 +3506,7 @@
       "lon": 2.591432909237, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -3813,7 +3518,7 @@
       "lon": 2.591640544063, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -3825,13 +3530,14 @@
       "lon": 2.591792971865, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
-      "busnrs": [
-        "101", 
-        "201"
+      "apptnrs": [
+        "0101", 
+        "0201", 
+        "G001"
       ], 
       "hnrlbls": [
         "55"
@@ -3841,22 +3547,7 @@
       "lon": 2.591821896733, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Veurnestraat"
-    }, 
-    {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "55G"
-      ], 
-      "housenumber": "55G", 
-      "lat": 51.095559409558, 
-      "lon": 2.591821910391, 
-      "municipality": "De Panne", 
-      "pcode": "8660", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -3868,38 +3559,24 @@
       "lon": 2.591873055201, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
-      "busnrs": [
-        "101", 
-        "201"
+      "apptnrs": [
+        "0101", 
+        "0201", 
+        "G001"
       ], 
       "hnrlbls": [
-        "57-57G"
+        "57"
       ], 
       "housenumber": "57", 
       "lat": 51.095569328079, 
       "lon": 2.591901353124, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Veurnestraat"
-    }, 
-    {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "57-57G"
-      ], 
-      "housenumber": "57G", 
-      "lat": 51.095569328079, 
-      "lon": 2.591901353124, 
-      "municipality": "De Panne", 
-      "pcode": "8660", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -3911,19 +3588,27 @@
       "lon": 2.592010404393, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
+      "apptnrs": [
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "G001"
+      ], 
       "hnrlbls": [
         "59"
       ], 
       "housenumber": "59", 
-      "lat": 51.095565608546, 
-      "lon": 2.592006587872, 
+      "lat": 51.095536152614, 
+      "lon": 2.592032838013, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -3935,7 +3620,7 @@
       "lon": 2.589347714381, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -3947,7 +3632,7 @@
       "lon": 2.592118083467, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -3959,7 +3644,7 @@
       "lon": 2.592211651206, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -3971,7 +3656,7 @@
       "lon": 2.592230600947, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -3983,7 +3668,7 @@
       "lon": 2.592211651206, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -3995,13 +3680,14 @@
       "lon": 2.592348994239, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
-      "busnrs": [
-        "201", 
-        "202"
+      "apptnrs": [
+        "0101", 
+        "0201", 
+        "0202"
       ], 
       "hnrlbls": [
         "65"
@@ -4011,7 +3697,7 @@
       "lon": 2.592348808036, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -4023,19 +3709,7 @@
       "lon": 2.592453265839, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Veurnestraat"
-    }, 
-    {
-      "hnrlbls": [
-        "67"
-      ], 
-      "housenumber": "67", 
-      "lat": 51.095586593668, 
-      "lon": 2.592402889659, 
-      "municipality": "De Panne", 
-      "pcode": "8660", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -4047,7 +3721,7 @@
       "lon": 2.592541743142, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -4059,12 +3733,12 @@
       "lon": 2.592456828549, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
-      "busnrs": [
-        "101"
+      "apptnrs": [
+        "0101"
       ], 
       "hnrlbls": [
         "7"
@@ -4074,61 +3748,86 @@
       "lon": 2.589447162761, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
       "hnrlbls": [
-        "70"
+        "1-70"
       ], 
       "housenumber": "70", 
       "lat": 51.095120138195, 
       "lon": 2.592720463653, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
-      "busnrs": [
-        "101"
+      "apptnrs": [
+        "0101", 
+        "G001"
       ], 
       "hnrlbls": [
-        "71-71G"
+        "71"
       ], 
       "housenumber": "71", 
       "lat": 51.095614647245, 
       "lon": 2.592582025164, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
-      "busnrs": [
-        "1"
+      "apptnrs": [
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "G001"
       ], 
       "hnrlbls": [
-        "71-71G"
+        "72_1-72_3"
       ], 
-      "housenumber": "71G", 
-      "lat": 51.095614647245, 
-      "lon": 2.592582025164, 
+      "housenumber": "72_1", 
+      "lat": 51.095016768489, 
+      "lon": 2.592919580915, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
-      "hnrlbls": [
-        "72"
+      "apptnrs": [
+        "G001"
       ], 
-      "housenumber": "72", 
-      "lat": 51.095085327446, 
-      "lon": 2.592922546266, 
+      "hnrlbls": [
+        "72_1-72_3"
+      ], 
+      "housenumber": "72_2", 
+      "lat": 51.095016768489, 
+      "lon": 2.592919580915, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Veurnestraat"
+    }, 
+    {
+      "apptnrs": [
+        "0101", 
+        "G001", 
+        "G002"
+      ], 
+      "hnrlbls": [
+        "72_1-72_3"
+      ], 
+      "housenumber": "72_3", 
+      "lat": 51.095016768489, 
+      "lon": 2.592919580915, 
+      "municipality": "De Panne", 
+      "pcode": "8660", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -4140,22 +3839,7 @@
       "lon": 2.592684285336, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Veurnestraat"
-    }, 
-    {
-      "busnrs": [
-        "2"
-      ], 
-      "hnrlbls": [
-        "73G"
-      ], 
-      "housenumber": "73G", 
-      "lat": 51.095616500324, 
-      "lon": 2.592681193904, 
-      "municipality": "De Panne", 
-      "pcode": "8660", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -4167,7 +3851,7 @@
       "lon": 2.593122625373, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -4179,13 +3863,10 @@
       "lon": 2.59278327546, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
-      "busnrs": [
-        "2"
-      ], 
       "hnrlbls": [
         "76"
       ], 
@@ -4194,7 +3875,7 @@
       "lon": 2.593223922739, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -4206,7 +3887,7 @@
       "lon": 2.592888265769, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -4218,7 +3899,7 @@
       "lon": 2.593373925783, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -4226,11 +3907,11 @@
         "81"
       ], 
       "housenumber": "81", 
-      "lat": 51.095721840966, 
-      "lon": 2.593048876642, 
+      "lat": 51.095724532161, 
+      "lon": 2.593042491676, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -4242,7 +3923,7 @@
       "lon": 2.593446482388, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -4254,37 +3935,19 @@
       "lon": 2.593303726817, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
-      "busnrs": [
-        "101"
-      ], 
       "hnrlbls": [
-        "84-84G"
+        "84"
       ], 
       "housenumber": "84", 
       "lat": 51.095199076833, 
       "lon": 2.593627887168, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Veurnestraat"
-    }, 
-    {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "84-84G"
-      ], 
-      "housenumber": "84G", 
-      "lat": 51.095199076833, 
-      "lon": 2.593627887168, 
-      "municipality": "De Panne", 
-      "pcode": "8660", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -4296,10 +3959,14 @@
       "lon": 2.593466449498, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
+      "apptnrs": [
+        "0101", 
+        "G001"
+      ], 
       "hnrlbls": [
         "86"
       ], 
@@ -4308,7 +3975,7 @@
       "lon": 2.593737754711, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -4320,7 +3987,7 @@
       "lon": 2.593862558567, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -4332,19 +3999,7 @@
       "lon": 2.593687633862, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Veurnestraat"
-    }, 
-    {
-      "hnrlbls": [
-        "9"
-      ], 
-      "housenumber": "9", 
-      "lat": 51.09564633873, 
-      "lon": 2.589488841049, 
-      "municipality": "De Panne", 
-      "pcode": "8660", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -4356,7 +4011,7 @@
       "lon": 2.593933571132, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -4368,7 +4023,7 @@
       "lon": 2.593754662589, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -4380,7 +4035,7 @@
       "lon": 2.594000161902, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -4392,7 +4047,7 @@
       "lon": 2.593768200593, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -4404,7 +4059,7 @@
       "lon": 2.594015298551, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -4416,7 +4071,7 @@
       "lon": 2.593887220382, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -4428,7 +4083,7 @@
       "lon": 2.593931501535, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -4440,7 +4095,7 @@
       "lon": 2.593901368106, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -4448,11 +4103,11 @@
         "98"
       ], 
       "housenumber": "98", 
-      "lat": 51.094802049472, 
-      "lon": 2.594018345933, 
+      "lat": 51.094962091509, 
+      "lon": 2.594035975227, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -4464,7 +4119,7 @@
       "lon": 2.593992448297, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }
   ]

@@ -29,11 +29,11 @@
         "100"
       ], 
       "housenumber": "100", 
-      "lat": 51.108629731997, 
-      "lon": 5.693873155461, 
+      "lat": 51.108599370852, 
+      "lon": 5.693910853345, 
       "municipality": "Maaseik", 
       "pcode": "3680", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Molenweg"
     }, 
     {
@@ -65,8 +65,8 @@
         "103"
       ], 
       "housenumber": "103", 
-      "lat": 51.108629561373, 
-      "lon": 5.692175833364, 
+      "lat": 51.108608243647, 
+      "lon": 5.69216880289, 
       "municipality": "Maaseik", 
       "pcode": "3680", 
       "source": "afgeleidVanGebouw", 
@@ -89,8 +89,8 @@
         "105"
       ], 
       "housenumber": "105", 
-      "lat": 51.108618196175, 
-      "lon": 5.691802772979, 
+      "lat": 51.10861801803, 
+      "lon": 5.691802625122, 
       "municipality": "Maaseik", 
       "pcode": "3680", 
       "source": "afgeleidVanGebouw", 
@@ -113,8 +113,8 @@
         "107"
       ], 
       "housenumber": "107", 
-      "lat": 51.108711555158, 
-      "lon": 5.691534788596, 
+      "lat": 51.108686565404, 
+      "lon": 5.691526511927, 
       "municipality": "Maaseik", 
       "pcode": "3680", 
       "source": "afgeleidVanGebouw", 
@@ -137,8 +137,8 @@
         "109"
       ], 
       "housenumber": "109", 
-      "lat": 51.108757610238, 
-      "lon": 5.691147929598, 
+      "lat": 51.108735926552, 
+      "lon": 5.691141460464, 
       "municipality": "Maaseik", 
       "pcode": "3680", 
       "source": "afgeleidVanGebouw", 
@@ -173,8 +173,8 @@
         "111"
       ], 
       "housenumber": "111", 
-      "lat": 51.108782415372, 
-      "lon": 5.690884143771, 
+      "lat": 51.108742955961, 
+      "lon": 5.690875457901, 
       "municipality": "Maaseik", 
       "pcode": "3680", 
       "source": "afgeleidVanGebouw", 
@@ -257,8 +257,8 @@
         "119"
       ], 
       "housenumber": "119", 
-      "lat": 51.108817844354, 
-      "lon": 5.68974479112, 
+      "lat": 51.108815557243, 
+      "lon": 5.689740299265, 
       "municipality": "Maaseik", 
       "pcode": "3680", 
       "source": "afgeleidVanGebouw", 
@@ -305,11 +305,11 @@
         "121"
       ], 
       "housenumber": "121", 
-      "lat": 51.108824594896, 
-      "lon": 5.689358960658, 
+      "lat": 51.108823967988, 
+      "lon": 5.689374795088, 
       "municipality": "Maaseik", 
       "pcode": "3680", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Molenweg"
     }, 
     {
@@ -341,8 +341,8 @@
         "127"
       ], 
       "housenumber": "127", 
-      "lat": 51.108914581749, 
-      "lon": 5.689102585675, 
+      "lat": 51.108928727695, 
+      "lon": 5.68911583864, 
       "municipality": "Maaseik", 
       "pcode": "3680", 
       "source": "afgeleidVanGebouw", 
@@ -374,7 +374,31 @@
     }, 
     {
       "hnrlbls": [
-        "133"
+        "131A"
+      ], 
+      "housenumber": "131A", 
+      "lat": 51.109621508045, 
+      "lon": 5.687879509282, 
+      "municipality": "Maaseik", 
+      "pcode": "3680", 
+      "source": "geinterpoleerdObvWegverbinding", 
+      "street": "Molenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "131B-133"
+      ], 
+      "housenumber": "131B", 
+      "lat": 51.109168586253, 
+      "lon": 5.688160342997, 
+      "municipality": "Maaseik", 
+      "pcode": "3680", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Molenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "131B-133"
       ], 
       "housenumber": "133", 
       "lat": 51.109168586253, 
@@ -506,11 +530,11 @@
     }, 
     {
       "hnrlbls": [
-        "25"
+        "25-25A"
       ], 
       "housenumber": "25", 
-      "lat": 51.100455860208, 
-      "lon": 5.695221404657, 
+      "lat": 51.100457487571, 
+      "lon": 5.695220594138, 
       "municipality": "Maaseik", 
       "pcode": "3680", 
       "source": "afgeleidVanGebouw", 
@@ -518,11 +542,23 @@
     }, 
     {
       "hnrlbls": [
+        "25-25A"
+      ], 
+      "housenumber": "25A", 
+      "lat": 51.100457487571, 
+      "lon": 5.695220594138, 
+      "municipality": "Maaseik", 
+      "pcode": "3680", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "street": "Molenweg"
+    }, 
+    {
+      "hnrlbls": [
         "27"
       ], 
       "housenumber": "27", 
-      "lat": 51.100706152225, 
-      "lon": 5.695021325967, 
+      "lat": 51.100702972999, 
+      "lon": 5.695016238154, 
       "municipality": "Maaseik", 
       "pcode": "3680", 
       "source": "afgeleidVanGebouw", 
@@ -593,8 +629,8 @@
         "31"
       ], 
       "housenumber": "31", 
-      "lat": 51.101854303217, 
-      "lon": 5.69526810591, 
+      "lat": 51.101858120151, 
+      "lon": 5.695224520205, 
       "municipality": "Maaseik", 
       "pcode": "3680", 
       "source": "afgeleidVanGebouw", 
@@ -605,8 +641,8 @@
         "32"
       ], 
       "housenumber": "32", 
-      "lat": 51.102887416639, 
-      "lon": 5.696182192971, 
+      "lat": 51.10288186314, 
+      "lon": 5.696212307563, 
       "municipality": "Maaseik", 
       "pcode": "3680", 
       "source": "afgeleidVanGebouw", 
@@ -617,11 +653,11 @@
         "33"
       ], 
       "housenumber": "33", 
-      "lat": 51.102027996241, 
-      "lon": 5.695299882409, 
+      "lat": 51.102032531289, 
+      "lon": 5.695328283921, 
       "municipality": "Maaseik", 
       "pcode": "3680", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Molenweg"
     }, 
     {
@@ -653,8 +689,8 @@
         "38"
       ], 
       "housenumber": "38", 
-      "lat": 51.103393910734, 
-      "lon": 5.696446905311, 
+      "lat": 51.103391625481, 
+      "lon": 5.696514097204, 
       "municipality": "Maaseik", 
       "pcode": "3680", 
       "source": "afgeleidVanGebouw", 
@@ -677,8 +713,8 @@
         "40A"
       ], 
       "housenumber": "40A", 
-      "lat": 51.103614499917, 
-      "lon": 5.696537424232, 
+      "lat": 51.103612467288, 
+      "lon": 5.696574207962, 
       "municipality": "Maaseik", 
       "pcode": "3680", 
       "source": "afgeleidVanGebouw", 
@@ -749,8 +785,8 @@
         "47"
       ], 
       "housenumber": "47", 
-      "lat": 51.103438804028, 
-      "lon": 5.695973098951, 
+      "lat": 51.103447812556, 
+      "lon": 5.695955505375, 
       "municipality": "Maaseik", 
       "pcode": "3680", 
       "source": "afgeleidVanGebouw", 
@@ -873,7 +909,7 @@
       "lon": 5.696862666232, 
       "municipality": "Maaseik", 
       "pcode": "3680", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Molenweg"
     }, 
     {
@@ -1005,8 +1041,8 @@
         "70"
       ], 
       "housenumber": "70", 
-      "lat": 51.106844134133, 
-      "lon": 5.696107263339, 
+      "lat": 51.106851124495, 
+      "lon": 5.696133167113, 
       "municipality": "Maaseik", 
       "pcode": "3680", 
       "source": "afgeleidVanGebouw", 
@@ -1053,8 +1089,8 @@
         "79"
       ], 
       "housenumber": "79", 
-      "lat": 51.106630494623, 
-      "lon": 5.695798730526, 
+      "lat": 51.106625035508, 
+      "lon": 5.695756590576, 
       "municipality": "Maaseik", 
       "pcode": "3680", 
       "source": "afgeleidVanGebouw", 
@@ -1065,11 +1101,23 @@
         "81"
       ], 
       "housenumber": "81", 
-      "lat": 51.107585879077, 
-      "lon": 5.694904469776, 
+      "lat": 51.107600559957, 
+      "lon": 5.694966008645, 
       "municipality": "Maaseik", 
       "pcode": "3680", 
       "source": "afgeleidVanGebouw", 
+      "street": "Molenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "83"
+      ], 
+      "housenumber": "83", 
+      "lat": 51.10780547732, 
+      "lon": 5.694595666688, 
+      "municipality": "Maaseik", 
+      "pcode": "3680", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Molenweg"
     }, 
     {
@@ -1098,14 +1146,14 @@
     }, 
     {
       "hnrlbls": [
-        "90-94"
+        "90"
       ], 
       "housenumber": "90", 
-      "lat": 51.107657013645, 
-      "lon": 5.695230093973, 
+      "lat": 51.107816582228, 
+      "lon": 5.695222771878, 
       "municipality": "Maaseik", 
       "pcode": "3680", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Molenweg"
     }, 
     {
@@ -1122,14 +1170,14 @@
     }, 
     {
       "hnrlbls": [
-        "90-94"
+        "94"
       ], 
       "housenumber": "94", 
-      "lat": 51.107657013645, 
-      "lon": 5.695230093973, 
+      "lat": 51.10810857857, 
+      "lon": 5.69478378183, 
       "municipality": "Maaseik", 
       "pcode": "3680", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Molenweg"
     }, 
     {

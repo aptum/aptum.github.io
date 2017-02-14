@@ -5,8 +5,8 @@
         "1-1"
       ], 
       "housenumber": "1", 
-      "lat": 51.222688663147, 
-      "lon": 4.49892085244, 
+      "lat": 51.222696031389, 
+      "lon": 4.498922877059, 
       "municipality": "Wijnegem", 
       "pcode": "2110", 
       "source": "afgeleidVanGebouw", 
@@ -17,8 +17,8 @@
         "100"
       ], 
       "housenumber": "100", 
-      "lat": 51.218693571851, 
-      "lon": 4.496145443622, 
+      "lat": 51.218692671927, 
+      "lon": 4.496146443033, 
       "municipality": "Wijnegem", 
       "pcode": "2110", 
       "source": "afgeleidVanGebouw", 
@@ -77,8 +77,8 @@
         "11"
       ], 
       "housenumber": "11", 
-      "lat": 51.220409996643, 
-      "lon": 4.497939154083, 
+      "lat": 51.220410018246, 
+      "lon": 4.497939159343, 
       "municipality": "Wijnegem", 
       "pcode": "2110", 
       "source": "manueleAanduidingVanGebouw", 
@@ -411,8 +411,8 @@
         "35"
       ], 
       "housenumber": "35", 
-      "lat": 51.219923379208, 
-      "lon": 4.497617765144, 
+      "lat": 51.219905949594, 
+      "lon": 4.497692573686, 
       "municipality": "Wijnegem", 
       "pcode": "2110", 
       "source": "afgeleidVanGebouw", 
@@ -423,8 +423,8 @@
         "36"
       ], 
       "housenumber": "36", 
-      "lat": 51.220228104759, 
-      "lon": 4.497148450931, 
+      "lat": 51.220228060102, 
+      "lon": 4.497148426532, 
       "municipality": "Wijnegem", 
       "pcode": "2110", 
       "source": "afgeleidVanGebouw", 
@@ -447,8 +447,8 @@
         "38"
       ], 
       "housenumber": "38", 
-      "lat": 51.220167967847, 
-      "lon": 4.49710918765, 
+      "lat": 51.220167970528, 
+      "lon": 4.497109185478, 
       "municipality": "Wijnegem", 
       "pcode": "2110", 
       "source": "afgeleidVanGebouw", 
@@ -576,6 +576,18 @@
     }, 
     {
       "hnrlbls": [
+        "49"
+      ], 
+      "housenumber": "49", 
+      "lat": 51.219616919406, 
+      "lon": 4.497494824549, 
+      "municipality": "Wijnegem", 
+      "pcode": "2110", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Krijgsbaan"
+    }, 
+    {
+      "hnrlbls": [
         "3-5"
       ], 
       "housenumber": "5", 
@@ -663,6 +675,10 @@
         "1.0", 
         "glvl"
       ], 
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "56"
       ], 
@@ -694,8 +710,8 @@
         "58"
       ], 
       "housenumber": "58", 
-      "lat": 51.219778139865, 
-      "lon": 4.496617458429, 
+      "lat": 51.219770634529, 
+      "lon": 4.496658802175, 
       "municipality": "Wijnegem", 
       "pcode": "2110", 
       "source": "afgeleidVanPerceelGrb", 
@@ -706,8 +722,8 @@
         "58A"
       ], 
       "housenumber": "58A", 
-      "lat": 51.219753401128, 
-      "lon": 4.496532649555, 
+      "lat": 51.219753424044, 
+      "lon": 4.496532657627, 
       "municipality": "Wijnegem", 
       "pcode": "2110", 
       "source": "manueleAanduidingVanPerceel", 
@@ -726,9 +742,9 @@
       "street": "Krijgsbaan"
     }, 
     {
-      "apptnrs": [
-        "1.0", 
-        "glvl"
+      "busnrs": [
+        "1", 
+        "2"
       ], 
       "hnrlbls": [
         "60"
@@ -757,6 +773,9 @@
       "apptnrs": [
         "1.0", 
         "glvl"
+      ], 
+      "busnrs": [
+        "1"
       ], 
       "hnrlbls": [
         "62"
@@ -810,8 +829,8 @@
         "67"
       ], 
       "housenumber": "67", 
-      "lat": 51.219192724675, 
-      "lon": 4.497359679465, 
+      "lat": 51.219205825269, 
+      "lon": 4.497298027705, 
       "municipality": "Wijnegem", 
       "pcode": "2110", 
       "source": "afgeleidVanGebouw", 
@@ -846,11 +865,23 @@
         "7"
       ], 
       "housenumber": "7", 
-      "lat": 51.220455276126, 
-      "lon": 4.497959318676, 
+      "lat": 51.220455297638, 
+      "lon": 4.497959323896, 
       "municipality": "Wijnegem", 
       "pcode": "2110", 
       "source": "manueleAanduidingVanGebouw", 
+      "street": "Krijgsbaan"
+    }, 
+    {
+      "hnrlbls": [
+        "70"
+      ], 
+      "housenumber": "70", 
+      "lat": 51.219384341051, 
+      "lon": 4.496715560672, 
+      "municipality": "Wijnegem", 
+      "pcode": "2110", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Krijgsbaan"
     }, 
     {
@@ -867,29 +898,38 @@
     }, 
     {
       "busnrs": [
-        "8"
+        "1", 
+        "2", 
+        "bus1", 
+        "bus2"
       ], 
       "hnrlbls": [
-        "78"
+        "72"
       ], 
-      "housenumber": "78", 
-      "lat": 51.219360536862, 
-      "lon": 4.496287970806, 
+      "housenumber": "72", 
+      "lat": 51.219336553402, 
+      "lon": 4.49668737569, 
       "municipality": "Wijnegem", 
       "pcode": "2110", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Krijgsbaan"
     }, 
     {
-      "hnrlbls": [
-        "80"
+      "busnrs": [
+        "1", 
+        "2", 
+        "bus1", 
+        "bus2"
       ], 
-      "housenumber": "80", 
-      "lat": 51.219382769508, 
-      "lon": 4.496259120017, 
+      "hnrlbls": [
+        "74"
+      ], 
+      "housenumber": "74", 
+      "lat": 51.219147405219, 
+      "lon": 4.496551598313, 
       "municipality": "Wijnegem", 
       "pcode": "2110", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Krijgsbaan"
     }, 
     {
@@ -909,8 +949,8 @@
         "84"
       ], 
       "housenumber": "84", 
-      "lat": 51.219054748834, 
-      "lon": 4.496464882218, 
+      "lat": 51.219054739065, 
+      "lon": 4.496464894047, 
       "municipality": "Wijnegem", 
       "pcode": "2110", 
       "source": "afgeleidVanGebouw", 
@@ -925,8 +965,8 @@
         "88"
       ], 
       "housenumber": "88", 
-      "lat": 51.21895303822, 
-      "lon": 4.496404619723, 
+      "lat": 51.218953055724, 
+      "lon": 4.496404643812, 
       "municipality": "Wijnegem", 
       "pcode": "2110", 
       "source": "manueleAanduidingVanIngangVanGebouw", 
@@ -937,8 +977,8 @@
         "9"
       ], 
       "housenumber": "9", 
-      "lat": 51.220430117434, 
-      "lon": 4.497951233204, 
+      "lat": 51.220430138997, 
+      "lon": 4.49795123844, 
       "municipality": "Wijnegem", 
       "pcode": "2110", 
       "source": "manueleAanduidingVanGebouw", 
@@ -952,8 +992,8 @@
         "90"
       ], 
       "housenumber": "90", 
-      "lat": 51.218887637483, 
-      "lon": 4.496372379238, 
+      "lat": 51.218887655118, 
+      "lon": 4.496372403391, 
       "municipality": "Wijnegem", 
       "pcode": "2110", 
       "source": "manueleAanduidingVanIngangVanGebouw", 

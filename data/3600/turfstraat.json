@@ -41,11 +41,11 @@
         "102"
       ], 
       "housenumber": "102", 
-      "lat": 50.969396421122, 
-      "lon": 5.439153444082, 
+      "lat": 50.969308985594, 
+      "lon": 5.439228188963, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Turfstraat"
     }, 
     {
@@ -77,8 +77,8 @@
         "106"
       ], 
       "housenumber": "106", 
-      "lat": 50.969072091955, 
-      "lon": 5.438804182727, 
+      "lat": 50.969095641543, 
+      "lon": 5.438755315141, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
@@ -101,8 +101,8 @@
         "108"
       ], 
       "housenumber": "108", 
-      "lat": 50.968905765226, 
-      "lon": 5.43857813147, 
+      "lat": 50.968918352575, 
+      "lon": 5.438548377083, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
@@ -122,14 +122,14 @@
     }, 
     {
       "busnrs": [
-        "1"
+        "BU01"
       ], 
       "hnrlbls": [
         "110"
       ], 
       "housenumber": "110", 
-      "lat": 50.968730195502, 
-      "lon": 5.43839956734, 
+      "lat": 50.968741445412, 
+      "lon": 5.438378467525, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
@@ -149,14 +149,14 @@
     }, 
     {
       "hnrlbls": [
-        "112"
+        "113"
       ], 
-      "housenumber": "112", 
-      "lat": 50.968583491234, 
-      "lon": 5.438230063721, 
+      "housenumber": "113", 
+      "lat": 50.962907513825, 
+      "lon": 5.434159704954, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Turfstraat"
     }, 
     {
@@ -176,8 +176,8 @@
         "115"
       ], 
       "housenumber": "115", 
-      "lat": 50.96272289374, 
-      "lon": 5.434284484733, 
+      "lat": 50.962722432237, 
+      "lon": 5.434295720626, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
@@ -196,9 +196,6 @@
       "street": "Turfstraat"
     }, 
     {
-      "busnrs": [
-        "2"
-      ], 
       "hnrlbls": [
         "12"
       ], 
@@ -215,14 +212,17 @@
         "120"
       ], 
       "housenumber": "120", 
-      "lat": 50.968007178339, 
-      "lon": 5.437662071032, 
+      "lat": 50.968012341247, 
+      "lon": 5.437647951272, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
       "street": "Turfstraat"
     }, 
     {
+      "busnrs": [
+        "BU00"
+      ], 
       "hnrlbls": [
         "122"
       ], 
@@ -251,8 +251,8 @@
         "123"
       ], 
       "housenumber": "123", 
-      "lat": 50.961957400646, 
-      "lon": 5.43478810436, 
+      "lat": 50.961965699049, 
+      "lon": 5.434794983934, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
@@ -268,6 +268,18 @@
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
+      "street": "Turfstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "124A"
+      ], 
+      "housenumber": "124A", 
+      "lat": 50.967680362884, 
+      "lon": 5.436725479049, 
+      "municipality": "Genk", 
+      "pcode": "3600", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Turfstraat"
     }, 
     {
@@ -331,12 +343,15 @@
       "street": "Turfstraat"
     }, 
     {
+      "busnrs": [
+        "BU00"
+      ], 
       "hnrlbls": [
         "134A"
       ], 
       "housenumber": "134A", 
-      "lat": 50.966156319981, 
-      "lon": 5.435720205182, 
+      "lat": 50.966160951818, 
+      "lon": 5.435715042976, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
@@ -407,8 +422,8 @@
         "142A"
       ], 
       "housenumber": "142A", 
-      "lat": 50.965476816344, 
-      "lon": 5.435089702866, 
+      "lat": 50.965505836168, 
+      "lon": 5.435032277249, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
@@ -427,6 +442,9 @@
       "street": "Turfstraat"
     }, 
     {
+      "busnrs": [
+        "BU00"
+      ], 
       "hnrlbls": [
         "144A"
       ], 
@@ -464,7 +482,7 @@
     }, 
     {
       "hnrlbls": [
-        "150-150a"
+        "150"
       ], 
       "housenumber": "150", 
       "lat": 50.964696686337, 
@@ -476,23 +494,11 @@
     }, 
     {
       "hnrlbls": [
-        "150-150a"
-      ], 
-      "housenumber": "150a", 
-      "lat": 50.964696686337, 
-      "lon": 5.43433292997, 
-      "municipality": "Genk", 
-      "pcode": "3600", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
-      "street": "Turfstraat"
-    }, 
-    {
-      "hnrlbls": [
         "152"
       ], 
       "housenumber": "152", 
-      "lat": 50.964174921625, 
-      "lon": 5.433616505923, 
+      "lat": 50.964159346527, 
+      "lon": 5.433609033771, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
@@ -527,8 +533,8 @@
         "156A"
       ], 
       "housenumber": "156A", 
-      "lat": 50.963532023733, 
-      "lon": 5.433181500956, 
+      "lat": 50.963533587682, 
+      "lon": 5.433147796744, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
@@ -539,8 +545,8 @@
         "158"
       ], 
       "housenumber": "158", 
-      "lat": 50.963328158461, 
-      "lon": 5.433267411471, 
+      "lat": 50.963314437439, 
+      "lon": 5.43319421086, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
@@ -595,6 +601,9 @@
       "street": "Turfstraat"
     }, 
     {
+      "busnrs": [
+        "BU00"
+      ], 
       "hnrlbls": [
         "16A"
       ], 
@@ -695,8 +704,8 @@
         "24"
       ], 
       "housenumber": "24", 
-      "lat": 50.973386247522, 
-      "lon": 5.44992557542, 
+      "lat": 50.973392188091, 
+      "lon": 5.44991503311, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
@@ -835,12 +844,15 @@
       "street": "Turfstraat"
     }, 
     {
+      "busnrs": [
+        "BU00"
+      ], 
       "hnrlbls": [
         "37A"
       ], 
       "housenumber": "37A", 
-      "lat": 50.970939235092, 
-      "lon": 5.441960492685, 
+      "lat": 50.970931088474, 
+      "lon": 5.44196657098, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
@@ -935,8 +947,8 @@
         "44"
       ], 
       "housenumber": "44", 
-      "lat": 50.972520735243, 
-      "lon": 5.446875979498, 
+      "lat": 50.97252062162, 
+      "lon": 5.446888364765, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
@@ -1043,11 +1055,23 @@
         "54"
       ], 
       "housenumber": "54", 
-      "lat": 50.972236589835, 
-      "lon": 5.445686048987, 
+      "lat": 50.972238091876, 
+      "lon": 5.445679106477, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
+      "street": "Turfstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "55"
+      ], 
+      "housenumber": "55", 
+      "lat": 50.968669781856, 
+      "lon": 5.439218994479, 
+      "municipality": "Genk", 
+      "pcode": "3600", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Turfstraat"
     }, 
     {
@@ -1079,8 +1103,8 @@
         "59"
       ], 
       "housenumber": "59", 
-      "lat": 50.968397115775, 
-      "lon": 5.438813825045, 
+      "lat": 50.968376123491, 
+      "lon": 5.438868160596, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
@@ -1091,8 +1115,8 @@
         "6"
       ], 
       "housenumber": "6", 
-      "lat": 50.974143677857, 
-      "lon": 5.452559555328, 
+      "lat": 50.974174802114, 
+      "lon": 5.452538061846, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
@@ -1127,11 +1151,11 @@
         "63"
       ], 
       "housenumber": "63", 
-      "lat": 50.968149623961, 
-      "lon": 5.438645294407, 
+      "lat": 50.96809519859, 
+      "lon": 5.438570158536, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Turfstraat"
     }, 
     {
@@ -1163,8 +1187,8 @@
         "66"
       ], 
       "housenumber": "66", 
-      "lat": 50.971844149555, 
-      "lon": 5.444019354312, 
+      "lat": 50.971842440488, 
+      "lon": 5.444019457473, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
@@ -1223,8 +1247,8 @@
         "73"
       ], 
       "housenumber": "73", 
-      "lat": 50.967462764261, 
-      "lon": 5.438004873225, 
+      "lat": 50.967456322229, 
+      "lon": 5.43802124157, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
@@ -1319,8 +1343,8 @@
         "83"
       ], 
       "housenumber": "83", 
-      "lat": 50.966742029351, 
-      "lon": 5.437292939572, 
+      "lat": 50.966755502266, 
+      "lon": 5.437264630133, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
@@ -1352,8 +1376,8 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "2"
+        "BU01", 
+        "BU02"
       ], 
       "hnrlbls": [
         "87"
@@ -1371,11 +1395,11 @@
         "87A"
       ], 
       "housenumber": "87A", 
-      "lat": 50.966182507005, 
-      "lon": 5.437616599282, 
+      "lat": 50.966183451902, 
+      "lon": 5.437601671994, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Turfstraat"
     }, 
     {
@@ -1467,8 +1491,8 @@
         "96"
       ], 
       "housenumber": "96", 
-      "lat": 50.969869625827, 
-      "lon": 5.439640805439, 
+      "lat": 50.969870013896, 
+      "lon": 5.439637681923, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
@@ -1479,8 +1503,8 @@
         "97"
       ], 
       "housenumber": "97", 
-      "lat": 50.965032407886, 
-      "lon": 5.435340261685, 
+      "lat": 50.965011442299, 
+      "lon": 5.435381924862, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 

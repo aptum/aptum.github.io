@@ -17,8 +17,8 @@
         "100"
       ], 
       "housenumber": "100", 
-      "lat": 51.170703819952, 
-      "lon": 4.592663899852, 
+      "lat": 51.170698845542, 
+      "lon": 4.592680032602, 
       "municipality": "Ranst", 
       "pcode": "2520", 
       "source": "afgeleidVanGebouw", 
@@ -41,8 +41,8 @@
         "101"
       ], 
       "housenumber": "101", 
-      "lat": 51.168983517456, 
-      "lon": 4.592271593766, 
+      "lat": 51.168979743307, 
+      "lon": 4.592223679265, 
       "municipality": "Ranst", 
       "pcode": "2520", 
       "source": "afgeleidVanGebouw", 
@@ -185,8 +185,8 @@
         "113"
       ], 
       "housenumber": "113", 
-      "lat": 51.168006088369, 
-      "lon": 4.592370410386, 
+      "lat": 51.168013218359, 
+      "lon": 4.592355146718, 
       "municipality": "Ranst", 
       "pcode": "2520", 
       "source": "afgeleidVanGebouw", 
@@ -209,8 +209,8 @@
         "115"
       ], 
       "housenumber": "115", 
-      "lat": 51.167838505539, 
-      "lon": 4.592436229508, 
+      "lat": 51.167833317724, 
+      "lon": 4.592422765323, 
       "municipality": "Ranst", 
       "pcode": "2520", 
       "source": "afgeleidVanGebouw", 
@@ -290,7 +290,7 @@
     }, 
     {
       "hnrlbls": [
-        "121-121b"
+        "121"
       ], 
       "housenumber": "121", 
       "lat": 51.163883267836, 
@@ -298,6 +298,18 @@
       "municipality": "Ranst", 
       "pcode": "2520", 
       "source": "afgeleidVanGebouw", 
+      "street": "Broechemsesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "121B"
+      ], 
+      "housenumber": "121B", 
+      "lat": 51.165273790759, 
+      "lon": 4.592385445889, 
+      "municipality": "Ranst", 
+      "pcode": "2520", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Broechemsesteenweg"
     }, 
     {
@@ -310,18 +322,6 @@
       "municipality": "Ranst", 
       "pcode": "2520", 
       "source": "afgeleidVanGebouw", 
-      "street": "Broechemsesteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "121-121b"
-      ], 
-      "housenumber": "121b", 
-      "lat": 51.163883267836, 
-      "lon": 4.592376620059, 
-      "municipality": "Ranst", 
-      "pcode": "2520", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Broechemsesteenweg"
     }, 
     {
@@ -365,8 +365,8 @@
         "125"
       ], 
       "housenumber": "125", 
-      "lat": 51.162692879105, 
-      "lon": 4.592247816375, 
+      "lat": 51.16273344572, 
+      "lon": 4.592280461984, 
       "municipality": "Ranst", 
       "pcode": "2520", 
       "source": "afgeleidVanGebouw", 
@@ -411,7 +411,9 @@
     {
       "busnrs": [
         "11", 
-        "21"
+        "2", 
+        "21", 
+        "22"
       ], 
       "hnrlbls": [
         "13-13D"
@@ -465,11 +467,11 @@
         "137"
       ], 
       "housenumber": "137", 
-      "lat": 51.161874008673, 
-      "lon": 4.591397319679, 
+      "lat": 51.161895001049, 
+      "lon": 4.591419005933, 
       "municipality": "Ranst", 
       "pcode": "2520", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Broechemsesteenweg"
     }, 
     {
@@ -849,8 +851,8 @@
         "26"
       ], 
       "housenumber": "26", 
-      "lat": 51.180457397994, 
-      "lon": 4.593714337839, 
+      "lat": 51.18045206228, 
+      "lon": 4.593731330159, 
       "municipality": "Ranst", 
       "pcode": "2520", 
       "source": "afgeleidVanGebouw", 
@@ -906,14 +908,14 @@
     }, 
     {
       "hnrlbls": [
-        "31-33"
+        "31"
       ], 
       "housenumber": "31", 
-      "lat": 51.17992638804, 
-      "lon": 4.593177922247, 
+      "lat": 51.179957826759, 
+      "lon": 4.593189085504, 
       "municipality": "Ranst", 
       "pcode": "2520", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Broechemsesteenweg"
     }, 
     {
@@ -929,15 +931,21 @@
       "street": "Broechemsesteenweg"
     }, 
     {
+      "busnrs": [
+        "01", 
+        "11", 
+        "12", 
+        "21"
+      ], 
       "hnrlbls": [
-        "31-33"
+        "33"
       ], 
       "housenumber": "33", 
-      "lat": 51.17992638804, 
-      "lon": 4.593177922247, 
+      "lat": 51.179889877614, 
+      "lon": 4.593186755617, 
       "municipality": "Ranst", 
       "pcode": "2520", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Broechemsesteenweg"
     }, 
     {
@@ -957,8 +965,8 @@
         "35"
       ], 
       "housenumber": "35", 
-      "lat": 51.179835113245, 
-      "lon": 4.593152169641, 
+      "lat": 51.179834933203, 
+      "lon": 4.59315231178, 
       "municipality": "Ranst", 
       "pcode": "2520", 
       "source": "afgeleidVanGebouw", 
@@ -1053,8 +1061,8 @@
         "43"
       ], 
       "housenumber": "43", 
-      "lat": 51.179520263145, 
-      "lon": 4.5931419277, 
+      "lat": 51.179520063756, 
+      "lon": 4.59315222321, 
       "municipality": "Ranst", 
       "pcode": "2520", 
       "source": "afgeleidVanPerceelGrb", 
@@ -1365,8 +1373,8 @@
         "75"
       ], 
       "housenumber": "75", 
-      "lat": 51.1777407649, 
-      "lon": 4.59292184718, 
+      "lat": 51.177744168215, 
+      "lon": 4.592881108264, 
       "municipality": "Ranst", 
       "pcode": "2520", 
       "source": "afgeleidVanGebouw", 
@@ -1605,8 +1613,8 @@
         "96A"
       ], 
       "housenumber": "96A", 
-      "lat": 51.171348889032, 
-      "lon": 4.592875327811, 
+      "lat": 51.171337781717, 
+      "lon": 4.592902297814, 
       "municipality": "Ranst", 
       "pcode": "2520", 
       "source": "afgeleidVanGebouw", 
@@ -1653,11 +1661,11 @@
         "98"
       ], 
       "housenumber": "98", 
-      "lat": 51.171139182675, 
-      "lon": 4.592782095156, 
+      "lat": 51.170859724505, 
+      "lon": 4.592783466403, 
       "municipality": "Ranst", 
       "pcode": "2520", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Broechemsesteenweg"
     }, 
     {

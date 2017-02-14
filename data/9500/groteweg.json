@@ -254,14 +254,14 @@
     }, 
     {
       "hnrlbls": [
-        "120A"
+        "120-120C"
       ], 
       "housenumber": "120A", 
-      "lat": 50.764924706555, 
-      "lon": 3.86532094503, 
+      "lat": 50.764933799101, 
+      "lon": 3.865365782724, 
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Groteweg"
     }, 
     {
@@ -277,7 +277,7 @@
       "lon": 3.865365782724, 
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Groteweg"
     }, 
     {
@@ -289,7 +289,7 @@
       "lon": 3.865365782724, 
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Groteweg"
     }, 
     {
@@ -741,11 +741,11 @@
         "159"
       ], 
       "housenumber": "159", 
-      "lat": 50.763672345298, 
-      "lon": 3.863988434281, 
+      "lat": 50.763672733923, 
+      "lon": 3.863953418791, 
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Groteweg"
     }, 
     {
@@ -869,8 +869,12 @@
       "street": "Groteweg"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
-        "170-170B"
+        "170"
       ], 
       "housenumber": "170", 
       "lat": 50.763817846394, 
@@ -878,22 +882,6 @@
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
       "source": "afgeleidVanGebouw", 
-      "street": "Groteweg"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
-      "hnrlbls": [
-        "170-170B"
-      ], 
-      "housenumber": "170B", 
-      "lat": 50.763817846394, 
-      "lon": 3.863351851518, 
-      "municipality": "Geraardsbergen", 
-      "pcode": "9500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Groteweg"
     }, 
     {
@@ -932,7 +920,7 @@
       "lon": 3.863423525489, 
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Groteweg"
     }, 
     {
@@ -985,45 +973,21 @@
     }, 
     {
       "hnrlbls": [
-        "179-181"
+        "179"
       ], 
       "housenumber": "179", 
-      "lat": 50.763331959851, 
-      "lon": 3.863231047523, 
+      "lat": 50.763145136349, 
+      "lon": 3.863478268619, 
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Groteweg"
     }, 
     {
       "hnrlbls": [
-        "180"
+        "180-182"
       ], 
       "housenumber": "180", 
-      "lat": 50.763728586756, 
-      "lon": 3.863062369691, 
-      "municipality": "Geraardsbergen", 
-      "pcode": "9500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Groteweg"
-    }, 
-    {
-      "hnrlbls": [
-        "179-181"
-      ], 
-      "housenumber": "181", 
-      "lat": 50.763331959851, 
-      "lon": 3.863231047523, 
-      "municipality": "Geraardsbergen", 
-      "pcode": "9500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Groteweg"
-    }, 
-    {
-      "hnrlbls": [
-        "182"
-      ], 
-      "housenumber": "182", 
       "lat": 50.76375721072, 
       "lon": 3.86294568882, 
       "municipality": "Geraardsbergen", 
@@ -1033,11 +997,23 @@
     }, 
     {
       "hnrlbls": [
-        "183-183B"
+        "181-183"
       ], 
-      "housenumber": "183", 
-      "lat": 50.763264694196, 
-      "lon": 3.863038570106, 
+      "housenumber": "181", 
+      "lat": 50.763264514406, 
+      "lon": 3.863038572034, 
+      "municipality": "Geraardsbergen", 
+      "pcode": "9500", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Groteweg"
+    }, 
+    {
+      "hnrlbls": [
+        "180-182"
+      ], 
+      "housenumber": "182", 
+      "lat": 50.76375721072, 
+      "lon": 3.86294568882, 
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
       "source": "afgeleidVanGebouw", 
@@ -1050,14 +1026,14 @@
         "3"
       ], 
       "hnrlbls": [
-        "183-183B"
+        "181-183"
       ], 
-      "housenumber": "183B", 
-      "lat": 50.763264694196, 
-      "lon": 3.863038570106, 
+      "housenumber": "183", 
+      "lat": 50.763264514406, 
+      "lon": 3.863038572034, 
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Groteweg"
     }, 
     {
@@ -1194,21 +1170,9 @@
     }, 
     {
       "hnrlbls": [
-        "195-197"
+        "195"
       ], 
       "housenumber": "195", 
-      "lat": 50.763085172324, 
-      "lon": 3.862498606023, 
-      "municipality": "Geraardsbergen", 
-      "pcode": "9500", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Groteweg"
-    }, 
-    {
-      "hnrlbls": [
-        "195-197"
-      ], 
-      "housenumber": "197", 
       "lat": 50.763085172324, 
       "lon": 3.862498606023, 
       "municipality": "Geraardsbergen", 
@@ -1266,7 +1230,7 @@
     }, 
     {
       "hnrlbls": [
-        "203-203B"
+        "203"
       ], 
       "housenumber": "203", 
       "lat": 50.762678520345, 
@@ -1293,14 +1257,14 @@
         "1"
       ], 
       "hnrlbls": [
-        "203-203B"
+        "203B"
       ], 
       "housenumber": "203B", 
-      "lat": 50.762678520345, 
-      "lon": 3.86209446746, 
+      "lat": 50.762692226404, 
+      "lon": 3.86185449045, 
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Groteweg"
     }, 
     {
@@ -1332,8 +1296,8 @@
         "207"
       ], 
       "housenumber": "207", 
-      "lat": 50.762418876525, 
-      "lon": 3.861342761604, 
+      "lat": 50.762420138123, 
+      "lon": 3.861343456742, 
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
       "source": "afgeleidVanGebouw", 
@@ -1341,14 +1305,14 @@
     }, 
     {
       "hnrlbls": [
-        "210"
+        "210-212A"
       ], 
       "housenumber": "210", 
-      "lat": 50.763631936234, 
-      "lon": 3.861707462255, 
+      "lat": 50.763421949396, 
+      "lon": 3.861961035007, 
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Groteweg"
     }, 
     {
@@ -1364,52 +1328,28 @@
       "street": "Groteweg"
     }, 
     {
-      "hnrlbls": [
-        "212-212B"
-      ], 
-      "housenumber": "212", 
-      "lat": 50.763525943197, 
-      "lon": 3.861644674568, 
-      "municipality": "Geraardsbergen", 
-      "pcode": "9500", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Groteweg"
-    }, 
-    {
-      "hnrlbls": [
-        "212-212B"
-      ], 
-      "housenumber": "212A", 
-      "lat": 50.763525943197, 
-      "lon": 3.861644674568, 
-      "municipality": "Geraardsbergen", 
-      "pcode": "9500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
-      "street": "Groteweg"
-    }, 
-    {
       "busnrs": [
         "1", 
         "2"
       ], 
       "hnrlbls": [
-        "212-212B"
+        "210-212A"
       ], 
-      "housenumber": "212B", 
-      "lat": 50.763525943197, 
-      "lon": 3.861644674568, 
+      "housenumber": "212", 
+      "lat": 50.763421949396, 
+      "lon": 3.861961035007, 
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Groteweg"
     }, 
     {
       "hnrlbls": [
-        "213"
+        "210-212A"
       ], 
-      "housenumber": "213", 
-      "lat": 50.762274074279, 
-      "lon": 3.86107869498, 
+      "housenumber": "212A", 
+      "lat": 50.763421949396, 
+      "lon": 3.861961035007, 
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
       "source": "afgeleidVanGebouw", 
@@ -1428,7 +1368,7 @@
       "lon": 3.861078695948, 
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Groteweg"
     }, 
     {
@@ -1528,53 +1468,29 @@
       "street": "Groteweg"
     }, 
     {
-      "hnrlbls": [
-        "222-224"
-      ], 
-      "housenumber": "222", 
-      "lat": 50.763046949317, 
-      "lon": 3.861579803824, 
-      "municipality": "Geraardsbergen", 
-      "pcode": "9500", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Groteweg"
-    }, 
-    {
-      "hnrlbls": [
-        "223"
-      ], 
-      "housenumber": "223", 
-      "lat": 50.761884931695, 
-      "lon": 3.860878352144, 
-      "municipality": "Geraardsbergen", 
-      "pcode": "9500", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Groteweg"
-    }, 
-    {
       "busnrs": [
         "3", 
         "4", 
         "5"
       ], 
       "hnrlbls": [
-        "223B"
+        "223"
       ], 
-      "housenumber": "223B", 
-      "lat": 50.761984963377, 
-      "lon": 3.860644110485, 
+      "housenumber": "223", 
+      "lat": 50.762020189114, 
+      "lon": 3.860599224152, 
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Groteweg"
     }, 
     {
       "hnrlbls": [
-        "222-224"
+        "224"
       ], 
       "housenumber": "224", 
-      "lat": 50.763046949317, 
-      "lon": 3.861579803824, 
+      "lat": 50.762995452681, 
+      "lon": 3.861666538194, 
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
       "source": "afgeleidVanGebouw", 
@@ -1670,7 +1586,7 @@
         "2"
       ], 
       "hnrlbls": [
-        "232-232_2"
+        "232"
       ], 
       "housenumber": "232", 
       "lat": 50.762874478276, 
@@ -1678,46 +1594,6 @@
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
       "source": "afgeleidVanGebouw", 
-      "street": "Groteweg"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
-      "hnrlbls": [
-        "232-232_2"
-      ], 
-      "housenumber": "232B", 
-      "lat": 50.762874478276, 
-      "lon": 3.86140334494, 
-      "municipality": "Geraardsbergen", 
-      "pcode": "9500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Groteweg"
-    }, 
-    {
-      "hnrlbls": [
-        "232-232_2"
-      ], 
-      "housenumber": "232_1", 
-      "lat": 50.762874478276, 
-      "lon": 3.86140334494, 
-      "municipality": "Geraardsbergen", 
-      "pcode": "9500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Groteweg"
-    }, 
-    {
-      "hnrlbls": [
-        "232-232_2"
-      ], 
-      "housenumber": "232_2", 
-      "lat": 50.762874478276, 
-      "lon": 3.86140334494, 
-      "municipality": "Geraardsbergen", 
-      "pcode": "9500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Groteweg"
     }, 
     {
@@ -1761,8 +1637,8 @@
         "235A"
       ], 
       "housenumber": "235A", 
-      "lat": 50.761244577589, 
-      "lon": 3.859820788533, 
+      "lat": 50.761316778805, 
+      "lon": 3.859782164951, 
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
       "source": "afgeleidVanGebouw", 
@@ -1773,20 +1649,8 @@
         "236"
       ], 
       "housenumber": "236", 
-      "lat": 50.76281047497, 
-      "lon": 3.861279866048, 
-      "municipality": "Geraardsbergen", 
-      "pcode": "9500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Groteweg"
-    }, 
-    {
-      "hnrlbls": [
-        "237"
-      ], 
-      "housenumber": "237", 
-      "lat": 50.760892172082, 
-      "lon": 3.859344666955, 
+      "lat": 50.762746381025, 
+      "lon": 3.861156246723, 
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
       "source": "afgeleidVanGebouw", 
@@ -1794,11 +1658,23 @@
     }, 
     {
       "hnrlbls": [
-        "239"
+        "237"
+      ], 
+      "housenumber": "237", 
+      "lat": 50.760971583066, 
+      "lon": 3.859227442077, 
+      "municipality": "Geraardsbergen", 
+      "pcode": "9500", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Groteweg"
+    }, 
+    {
+      "hnrlbls": [
+        "239-241"
       ], 
       "housenumber": "239", 
-      "lat": 50.760865537213, 
-      "lon": 3.859297614214, 
+      "lat": 50.76090920424, 
+      "lon": 3.859126631634, 
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
       "source": "afgeleidVanGebouw", 
@@ -1809,8 +1685,8 @@
         "240"
       ], 
       "housenumber": "240", 
-      "lat": 50.762887945605, 
-      "lon": 3.86090100123, 
+      "lat": 50.763029419115, 
+      "lon": 3.860645613432, 
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
       "source": "afgeleidVanGebouw", 
@@ -1818,7 +1694,7 @@
     }, 
     {
       "hnrlbls": [
-        "241"
+        "239-241"
       ], 
       "housenumber": "241", 
       "lat": 50.76090920424, 
@@ -1901,30 +1777,19 @@
       "street": "Groteweg"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
-        "248-252"
+        "248"
       ], 
       "housenumber": "248", 
-      "lat": 50.762438361377, 
-      "lon": 3.860631712809, 
-      "municipality": "Geraardsbergen", 
-      "pcode": "9500", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Groteweg"
-    }, 
-    {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "248B"
-      ], 
-      "housenumber": "248B", 
       "lat": 50.762487169033, 
       "lon": 3.860733666907, 
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Groteweg"
     }, 
     {
@@ -1944,8 +1809,8 @@
         "25"
       ], 
       "housenumber": "25", 
-      "lat": 50.766683594052, 
-      "lon": 3.872599160702, 
+      "lat": 50.766805535931, 
+      "lon": 3.872565840863, 
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
       "source": "afgeleidVanGebouw", 
@@ -1956,60 +1821,36 @@
         "250"
       ], 
       "housenumber": "250", 
-      "lat": 50.762428592512, 
-      "lon": 3.860680152288, 
+      "lat": 50.762428870183, 
+      "lon": 3.86068199195, 
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
       "source": "afgeleidVanGebouw", 
       "street": "Groteweg"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
-        "251-251B"
+        "251-253"
       ], 
       "housenumber": "251", 
-      "lat": 50.760196385825, 
-      "lon": 3.858319211726, 
+      "lat": 50.759947192377, 
+      "lon": 3.858382855028, 
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelKadaster", 
-      "street": "Groteweg"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
-      "hnrlbls": [
-        "251-251B"
-      ], 
-      "housenumber": "251B", 
-      "lat": 50.760196385825, 
-      "lon": 3.858319211726, 
-      "municipality": "Geraardsbergen", 
-      "pcode": "9500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelKadaster", 
+      "source": "afgeleidVanGebouw", 
       "street": "Groteweg"
     }, 
     {
       "hnrlbls": [
-        "248-252"
+        "252"
       ], 
       "housenumber": "252", 
-      "lat": 50.762438361377, 
-      "lon": 3.860631712809, 
-      "municipality": "Geraardsbergen", 
-      "pcode": "9500", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Groteweg"
-    }, 
-    {
-      "hnrlbls": [
-        "253"
-      ], 
-      "housenumber": "253", 
-      "lat": 50.760021714362, 
-      "lon": 3.858113460013, 
+      "lat": 50.762397317601, 
+      "lon": 3.860558023744, 
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
       "source": "afgeleidVanGebouw", 
@@ -2021,14 +1862,14 @@
         "2"
       ], 
       "hnrlbls": [
-        "253B"
+        "251-253"
       ], 
-      "housenumber": "253B", 
-      "lat": 50.760096235726, 
-      "lon": 3.857844064146, 
+      "housenumber": "253", 
+      "lat": 50.759947192377, 
+      "lon": 3.858382855028, 
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Groteweg"
     }, 
     {
@@ -2036,8 +1877,8 @@
         "254"
       ], 
       "housenumber": "254", 
-      "lat": 50.762389463123, 
-      "lon": 3.860529618156, 
+      "lat": 50.762376052966, 
+      "lon": 3.860505382985, 
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
       "source": "afgeleidVanGebouw", 
@@ -2068,6 +1909,11 @@
       "street": "Groteweg"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3"
+      ], 
       "hnrlbls": [
         "259"
       ], 
@@ -2080,29 +1926,12 @@
       "street": "Groteweg"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3"
-      ], 
-      "hnrlbls": [
-        "259B"
-      ], 
-      "housenumber": "259B", 
-      "lat": 50.759955818695, 
-      "lon": 3.857865995258, 
-      "municipality": "Geraardsbergen", 
-      "pcode": "9500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelKadaster", 
-      "street": "Groteweg"
-    }, 
-    {
       "hnrlbls": [
         "25B"
       ], 
       "housenumber": "25B", 
-      "lat": 50.766195805011, 
-      "lon": 3.872472462162, 
+      "lat": 50.765963040416, 
+      "lon": 3.87219268155, 
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
       "source": "afgeleidVanGebouw", 
@@ -2209,11 +2038,11 @@
         "27-27B"
       ], 
       "housenumber": "27", 
-      "lat": 50.766728928921, 
-      "lon": 3.87198956087, 
+      "lat": 50.766899579065, 
+      "lon": 3.871337387048, 
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Groteweg"
     }, 
     {
@@ -2221,8 +2050,8 @@
         "270"
       ], 
       "housenumber": "270", 
-      "lat": 50.762086514956, 
-      "lon": 3.859765777827, 
+      "lat": 50.762066430726, 
+      "lon": 3.859798736891, 
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
       "source": "afgeleidVanGebouw", 
@@ -2317,8 +2146,8 @@
         "278"
       ], 
       "housenumber": "278", 
-      "lat": 50.761844000596, 
-      "lon": 3.859587250607, 
+      "lat": 50.761872139618, 
+      "lon": 3.859525289487, 
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
       "source": "afgeleidVanGebouw", 
@@ -2451,16 +2280,26 @@
         "27-27B"
       ], 
       "housenumber": "27B", 
-      "lat": 50.766728928921, 
-      "lon": 3.87198956087, 
+      "lat": 50.766899579065, 
+      "lon": 3.871337387048, 
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Groteweg"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6", 
+        "7", 
+        "8"
+      ], 
       "hnrlbls": [
-        "28-28B"
+        "28"
       ], 
       "housenumber": "28", 
       "lat": 50.767356363434, 
@@ -2591,28 +2430,6 @@
       "street": "Groteweg"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6", 
-        "7", 
-        "8"
-      ], 
-      "hnrlbls": [
-        "28-28B"
-      ], 
-      "housenumber": "28B", 
-      "lat": 50.767356363434, 
-      "lon": 3.869224637658, 
-      "municipality": "Geraardsbergen", 
-      "pcode": "9500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Groteweg"
-    }, 
-    {
       "hnrlbls": [
         "290"
       ], 
@@ -2698,14 +2515,14 @@
     }, 
     {
       "hnrlbls": [
-        "297"
+        "297-299"
       ], 
       "housenumber": "297", 
-      "lat": 50.759237294735, 
-      "lon": 3.856598182004, 
+      "lat": 50.759213522484, 
+      "lon": 3.856527573696, 
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Groteweg"
     }, 
     {
@@ -2725,23 +2542,8 @@
       "street": "Groteweg"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
-        "298B"
-      ], 
-      "housenumber": "298B", 
-      "lat": 50.761083449799, 
-      "lon": 3.858428812313, 
-      "municipality": "Geraardsbergen", 
-      "pcode": "9500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Groteweg"
-    }, 
-    {
-      "hnrlbls": [
-        "299-299B"
+        "297-299"
       ], 
       "housenumber": "299", 
       "lat": 50.759213522484, 
@@ -2749,21 +2551,6 @@
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
       "source": "afgeleidVanGebouw", 
-      "street": "Groteweg"
-    }, 
-    {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "299-299B"
-      ], 
-      "housenumber": "299B", 
-      "lat": 50.759213522484, 
-      "lon": 3.856527573696, 
-      "municipality": "Geraardsbergen", 
-      "pcode": "9500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Groteweg"
     }, 
     {
@@ -2779,6 +2566,19 @@
       "street": "Groteweg"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "10", 
+        "11", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6", 
+        "7", 
+        "8", 
+        "9"
+      ], 
       "hnrlbls": [
         "30"
       ], 
@@ -2791,8 +2591,12 @@
       "street": "Groteweg"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
-        "301-301B"
+        "301"
       ], 
       "housenumber": "301", 
       "lat": 50.75914739931, 
@@ -2800,22 +2604,6 @@
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
       "source": "afgeleidVanGebouw", 
-      "street": "Groteweg"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
-      "hnrlbls": [
-        "301-301B"
-      ], 
-      "housenumber": "301B", 
-      "lat": 50.75914739931, 
-      "lon": 3.856393362314, 
-      "municipality": "Geraardsbergen", 
-      "pcode": "9500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Groteweg"
     }, 
     {
@@ -2871,8 +2659,8 @@
         "306"
       ], 
       "housenumber": "306", 
-      "lat": 50.760470695705, 
-      "lon": 3.857232381954, 
+      "lat": 50.760470230549, 
+      "lon": 3.857249395406, 
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
       "source": "afgeleidVanGebouw", 
@@ -2900,31 +2688,6 @@
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
       "source": "afgeleidVanGebouw", 
-      "street": "Groteweg"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "10", 
-        "11", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6", 
-        "7", 
-        "8", 
-        "9"
-      ], 
-      "hnrlbls": [
-        "30B"
-      ], 
-      "housenumber": "30B", 
-      "lat": 50.767277795776, 
-      "lon": 3.868993555435, 
-      "municipality": "Geraardsbergen", 
-      "pcode": "9500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Groteweg"
     }, 
     {
@@ -3052,8 +2815,8 @@
         "323"
       ], 
       "housenumber": "323", 
-      "lat": 50.758668998803, 
-      "lon": 3.855129780983, 
+      "lat": 50.75866891015, 
+      "lon": 3.855130065411, 
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
       "source": "afgeleidVanGebouw", 
@@ -3172,8 +2935,8 @@
         "332"
       ], 
       "housenumber": "332", 
-      "lat": 50.759630490688, 
-      "lon": 3.856613329418, 
+      "lat": 50.759595366899, 
+      "lon": 3.856537174442, 
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
       "source": "afgeleidVanGebouw", 
@@ -3400,11 +3163,11 @@
         "354"
       ], 
       "housenumber": "354", 
-      "lat": 50.75909799182, 
-      "lon": 3.855456621328, 
+      "lat": 50.759060160381, 
+      "lon": 3.855357678609, 
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Groteweg"
     }, 
     {
@@ -3436,8 +3199,8 @@
         "356"
       ], 
       "housenumber": "356", 
-      "lat": 50.759020788225, 
-      "lon": 3.855255918176, 
+      "lat": 50.758981326084, 
+      "lon": 3.855154158893, 
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
       "source": "afgeleidVanGebouw", 
@@ -3673,18 +3436,6 @@
     }, 
     {
       "hnrlbls": [
-        "378"
-      ], 
-      "housenumber": "378", 
-      "lat": 50.758498976512, 
-      "lon": 3.853812000897, 
-      "municipality": "Geraardsbergen", 
-      "pcode": "9500", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Groteweg"
-    }, 
-    {
-      "hnrlbls": [
         "379"
       ], 
       "housenumber": "379", 
@@ -3769,18 +3520,6 @@
     }, 
     {
       "hnrlbls": [
-        "388"
-      ], 
-      "housenumber": "388", 
-      "lat": 50.758247045972, 
-      "lon": 3.853539913159, 
-      "municipality": "Geraardsbergen", 
-      "pcode": "9500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Groteweg"
-    }, 
-    {
-      "hnrlbls": [
         "389"
       ], 
       "housenumber": "389", 
@@ -3817,18 +3556,6 @@
     }, 
     {
       "hnrlbls": [
-        "391"
-      ], 
-      "housenumber": "391", 
-      "lat": 50.757142630702, 
-      "lon": 3.852885579119, 
-      "municipality": "Geraardsbergen", 
-      "pcode": "9500", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Groteweg"
-    }, 
-    {
-      "hnrlbls": [
         "392"
       ], 
       "housenumber": "392", 
@@ -3844,20 +3571,8 @@
         "393"
       ], 
       "housenumber": "393", 
-      "lat": 50.757060560931, 
-      "lon": 3.852867060296, 
-      "municipality": "Geraardsbergen", 
-      "pcode": "9500", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Groteweg"
-    }, 
-    {
-      "hnrlbls": [
-        "395"
-      ], 
-      "housenumber": "395", 
-      "lat": 50.757215074494, 
-      "lon": 3.852371734993, 
+      "lat": 50.757259452018, 
+      "lon": 3.85256839152, 
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
       "source": "afgeleidVanGebouw", 
@@ -3869,14 +3584,30 @@
         "2"
       ], 
       "hnrlbls": [
-        "395B"
+        "393A"
       ], 
-      "housenumber": "395B", 
+      "housenumber": "393A", 
+      "lat": 50.756995304168, 
+      "lon": 3.852808107342, 
+      "municipality": "Geraardsbergen", 
+      "pcode": "9500", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Groteweg"
+    }, 
+    {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
+      "hnrlbls": [
+        "395"
+      ], 
+      "housenumber": "395", 
       "lat": 50.757209715129, 
       "lon": 3.852379588658, 
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Groteweg"
     }, 
     {
@@ -3908,8 +3639,8 @@
         "397A"
       ], 
       "housenumber": "397A", 
-      "lat": 50.757057435374, 
-      "lon": 3.852055426718, 
+      "lat": 50.757029031153, 
+      "lon": 3.852097122034, 
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
       "source": "afgeleidVanGebouw", 
@@ -3934,18 +3665,6 @@
       "housenumber": "399", 
       "lat": 50.756989512908, 
       "lon": 3.851799787962, 
-      "municipality": "Geraardsbergen", 
-      "pcode": "9500", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Groteweg"
-    }, 
-    {
-      "hnrlbls": [
-        "40-40"
-      ], 
-      "housenumber": "40", 
-      "lat": 50.761773761473, 
-      "lon": 3.860948718835, 
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
       "source": "afgeleidVanGebouw", 
@@ -3997,18 +3716,6 @@
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
       "source": "afgeleidVanGebouw", 
-      "street": "Groteweg"
-    }, 
-    {
-      "hnrlbls": [
-        "405A"
-      ], 
-      "housenumber": "405A", 
-      "lat": 50.756168171337, 
-      "lon": 3.852080617225, 
-      "municipality": "Geraardsbergen", 
-      "pcode": "9500", 
-      "source": "afgeleidVanPerceelGrb", 
       "street": "Groteweg"
     }, 
     {
@@ -4220,11 +3927,11 @@
         "422"
       ], 
       "housenumber": "422", 
-      "lat": 50.757407182579, 
-      "lon": 3.851737951722, 
+      "lat": 50.757310587378, 
+      "lon": 3.851768915136, 
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Groteweg"
     }, 
     {
@@ -4376,8 +4083,8 @@
         "429"
       ], 
       "housenumber": "429", 
-      "lat": 50.755522769781, 
-      "lon": 3.849210024006, 
+      "lat": 50.755599145895, 
+      "lon": 3.848998583488, 
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
       "source": "afgeleidVanGebouw", 
@@ -4512,7 +4219,7 @@
       "lon": 3.848561088959, 
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Groteweg"
     }, 
     {
@@ -4532,8 +4239,8 @@
         "442"
       ], 
       "housenumber": "442", 
-      "lat": 50.755633361618, 
-      "lon": 3.848321907674, 
+      "lat": 50.755629560571, 
+      "lon": 3.84825548187, 
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
       "source": "afgeleidVanGebouw", 
@@ -4580,8 +4287,8 @@
         "447"
       ], 
       "housenumber": "447", 
-      "lat": 50.754917107381, 
-      "lon": 3.848255550036, 
+      "lat": 50.754917516049, 
+      "lon": 3.848266599696, 
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
       "source": "afgeleidVanGebouw", 
@@ -4601,11 +4308,11 @@
     }, 
     {
       "hnrlbls": [
-        "449-451"
+        "449"
       ], 
       "housenumber": "449", 
-      "lat": 50.754859321207, 
-      "lon": 3.847956308335, 
+      "lat": 50.754886187397, 
+      "lon": 3.847973443229, 
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
       "source": "afgeleidVanGebouw", 
@@ -4625,11 +4332,11 @@
     }, 
     {
       "hnrlbls": [
-        "449-451"
+        "451"
       ], 
       "housenumber": "451", 
-      "lat": 50.754859321207, 
-      "lon": 3.847956308335, 
+      "lat": 50.75483236449, 
+      "lon": 3.84793903274, 
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
       "source": "afgeleidVanGebouw", 
@@ -4724,8 +4431,8 @@
         "461"
       ], 
       "housenumber": "461", 
-      "lat": 50.754363084792, 
-      "lon": 3.847634701748, 
+      "lat": 50.754363714058, 
+      "lon": 3.847634694795, 
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
       "source": "afgeleidVanGebouw", 
@@ -4736,8 +4443,8 @@
         "462"
       ], 
       "housenumber": "462", 
-      "lat": 50.755061715787, 
-      "lon": 3.847477892241, 
+      "lat": 50.755067521151, 
+      "lon": 3.84746932484, 
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
       "source": "afgeleidVanGebouw", 
@@ -4796,11 +4503,11 @@
         "47"
       ], 
       "housenumber": "47", 
-      "lat": 50.766748376528, 
-      "lon": 3.868845078329, 
+      "lat": 50.766813378019, 
+      "lon": 3.868951556484, 
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Groteweg"
     }, 
     {
@@ -4844,8 +4551,8 @@
         "474"
       ], 
       "housenumber": "474", 
-      "lat": 50.754642413521, 
-      "lon": 3.847091523033, 
+      "lat": 50.754665778386, 
+      "lon": 3.847028908064, 
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
       "source": "afgeleidVanGebouw", 
@@ -4873,18 +4580,6 @@
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
       "source": "afgeleidVanGebouw", 
-      "street": "Groteweg"
-    }, 
-    {
-      "hnrlbls": [
-        "476"
-      ], 
-      "housenumber": "476", 
-      "lat": 50.754524358264, 
-      "lon": 3.846986681313, 
-      "municipality": "Geraardsbergen", 
-      "pcode": "9500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Groteweg"
     }, 
     {
@@ -4921,18 +4616,6 @@
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
       "source": "afgeleidVanGebouw", 
-      "street": "Groteweg"
-    }, 
-    {
-      "hnrlbls": [
-        "48"
-      ], 
-      "housenumber": "48", 
-      "lat": 50.764522563458, 
-      "lon": 3.864604020333, 
-      "municipality": "Geraardsbergen", 
-      "pcode": "9500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Groteweg"
     }, 
     {
@@ -5024,11 +4707,11 @@
         "490"
       ], 
       "housenumber": "490", 
-      "lat": 50.753891545095, 
-      "lon": 3.846560452979, 
+      "lat": 50.75386528941, 
+      "lon": 3.846559326511, 
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Groteweg"
     }, 
     {
@@ -5048,8 +4731,8 @@
         "492"
       ], 
       "housenumber": "492", 
-      "lat": 50.753861777885, 
-      "lon": 3.846497576786, 
+      "lat": 50.753858175801, 
+      "lon": 3.846435686356, 
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
       "source": "afgeleidVanGebouw", 
@@ -5072,8 +4755,8 @@
         "496"
       ], 
       "housenumber": "496", 
-      "lat": 50.754173061989, 
-      "lon": 3.845783414445, 
+      "lat": 50.754174913111, 
+      "lon": 3.845775174278, 
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
       "source": "afgeleidVanGebouw", 
@@ -5192,20 +4875,24 @@
         "507"
       ], 
       "housenumber": "507", 
-      "lat": 50.749626347578, 
-      "lon": 3.845653011193, 
+      "lat": 50.749626078525, 
+      "lon": 3.845653155881, 
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
       "source": "afgeleidVanGebouw", 
       "street": "Groteweg"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
-        "51-57"
+        "51"
       ], 
       "housenumber": "51", 
-      "lat": 50.766401190185, 
-      "lon": 3.868424488073, 
+      "lat": 50.766262376277, 
+      "lon": 3.868506477244, 
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
       "source": "afgeleidVanGebouw", 
@@ -5272,22 +4959,6 @@
       "street": "Groteweg"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
-      "hnrlbls": [
-        "51B"
-      ], 
-      "housenumber": "51B", 
-      "lat": 50.766540004029, 
-      "lon": 3.868342498418, 
-      "municipality": "Geraardsbergen", 
-      "pcode": "9500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Groteweg"
-    }, 
-    {
       "hnrlbls": [
         "520"
       ], 
@@ -5325,34 +4996,19 @@
     }, 
     {
       "busnrs": [
-        "2"
-      ], 
-      "hnrlbls": [
-        "524-524B"
-      ], 
-      "housenumber": "524", 
-      "lat": 50.751356520112, 
-      "lon": 3.844578653874, 
-      "municipality": "Geraardsbergen", 
-      "pcode": "9500", 
-      "source": "afgeleidVanPerceelKadaster", 
-      "street": "Groteweg"
-    }, 
-    {
-      "busnrs": [
         "1", 
         "2", 
         "3"
       ], 
       "hnrlbls": [
-        "524-524B"
+        "524"
       ], 
-      "housenumber": "524B", 
-      "lat": 50.751356520112, 
-      "lon": 3.844578653874, 
+      "housenumber": "524", 
+      "lat": 50.751502531844, 
+      "lon": 3.844441273085, 
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelKadaster", 
+      "source": "afgeleidVanGebouw", 
       "street": "Groteweg"
     }, 
     {
@@ -5384,20 +5040,8 @@
         "528"
       ], 
       "housenumber": "528", 
-      "lat": 50.750988662481, 
-      "lon": 3.844641550966, 
-      "municipality": "Geraardsbergen", 
-      "pcode": "9500", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Groteweg"
-    }, 
-    {
-      "hnrlbls": [
-        "51-57"
-      ], 
-      "housenumber": "53", 
-      "lat": 50.766401190185, 
-      "lon": 3.868424488073, 
+      "lat": 50.750989111323, 
+      "lon": 3.84464140427, 
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
       "source": "afgeleidVanGebouw", 
@@ -5420,8 +5064,8 @@
         "533"
       ], 
       "housenumber": "533", 
-      "lat": 50.748599953076, 
-      "lon": 3.847244220012, 
+      "lat": 50.748546919114, 
+      "lon": 3.84732656783, 
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
       "source": "afgeleidVanGebouw", 
@@ -5492,8 +5136,8 @@
         "541"
       ], 
       "housenumber": "541", 
-      "lat": 50.748583767659, 
-      "lon": 3.84807235842, 
+      "lat": 50.74858655504, 
+      "lon": 3.848072469352, 
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
       "source": "afgeleidVanGebouw", 
@@ -5516,8 +5160,8 @@
         "544"
       ], 
       "housenumber": "544", 
-      "lat": 50.749360482842, 
-      "lon": 3.845283562989, 
+      "lat": 50.749363921012, 
+      "lon": 3.845288484454, 
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
       "source": "afgeleidVanGebouw", 
@@ -5554,18 +5198,6 @@
       "housenumber": "549", 
       "lat": 50.747147730854, 
       "lon": 3.848603277466, 
-      "municipality": "Geraardsbergen", 
-      "pcode": "9500", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Groteweg"
-    }, 
-    {
-      "hnrlbls": [
-        "51-57"
-      ], 
-      "housenumber": "55", 
-      "lat": 50.766401190185, 
-      "lon": 3.868424488073, 
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
       "source": "afgeleidVanGebouw", 
@@ -5614,18 +5246,6 @@
       "housenumber": "566", 
       "lat": 50.747760934074, 
       "lon": 3.847651669291, 
-      "municipality": "Geraardsbergen", 
-      "pcode": "9500", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Groteweg"
-    }, 
-    {
-      "hnrlbls": [
-        "51-57"
-      ], 
-      "housenumber": "57", 
-      "lat": 50.766401190185, 
-      "lon": 3.868424488073, 
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
       "source": "afgeleidVanGebouw", 
@@ -5696,8 +5316,8 @@
         "61"
       ], 
       "housenumber": "61", 
-      "lat": 50.765887306268, 
-      "lon": 3.868377492054, 
+      "lat": 50.7658986282, 
+      "lon": 3.868376237888, 
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
       "source": "afgeleidVanGebouw", 
@@ -5717,21 +5337,6 @@
     }, 
     {
       "busnrs": [
-        "4"
-      ], 
-      "hnrlbls": [
-        "63"
-      ], 
-      "housenumber": "63", 
-      "lat": 50.76625839222, 
-      "lon": 3.867636716928, 
-      "municipality": "Geraardsbergen", 
-      "pcode": "9500", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Groteweg"
-    }, 
-    {
-      "busnrs": [
         "1", 
         "2", 
         "3", 
@@ -5743,14 +5348,14 @@
         "9"
       ], 
       "hnrlbls": [
-        "63B"
+        "63"
       ], 
-      "housenumber": "63B", 
+      "housenumber": "63", 
       "lat": 50.76622601828, 
       "lon": 3.86765534723, 
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Groteweg"
     }, 
     {
@@ -5814,32 +5419,20 @@
       "street": "Groteweg"
     }, 
     {
-      "hnrlbls": [
-        "71-71B"
-      ], 
-      "housenumber": "71", 
-      "lat": 50.766079887867, 
-      "lon": 3.86726651106, 
-      "municipality": "Geraardsbergen", 
-      "pcode": "9500", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Groteweg"
-    }, 
-    {
       "busnrs": [
         "1", 
         "2", 
         "3"
       ], 
       "hnrlbls": [
-        "71-71B"
+        "71"
       ], 
-      "housenumber": "71B", 
-      "lat": 50.766079887867, 
-      "lon": 3.86726651106, 
+      "housenumber": "71", 
+      "lat": 50.766048192797, 
+      "lon": 3.867317737605, 
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Groteweg"
     }, 
     {
@@ -6027,8 +5620,8 @@
         "89"
       ], 
       "housenumber": "89", 
-      "lat": 50.765529983466, 
-      "lon": 3.866764320733, 
+      "lat": 50.765531755269, 
+      "lon": 3.866758206542, 
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
       "source": "afgeleidVanGebouw", 
@@ -6039,38 +5632,11 @@
         "9"
       ], 
       "housenumber": "9", 
-      "lat": 50.767838427471, 
-      "lon": 3.871790325308, 
+      "lat": 50.767804580543, 
+      "lon": 3.871822152447, 
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
       "source": "afgeleidVanGebouw", 
-      "street": "Groteweg"
-    }, 
-    {
-      "hnrlbls": [
-        "5-92"
-      ], 
-      "housenumber": "90", 
-      "lat": 50.766271318102, 
-      "lon": 3.86664458467, 
-      "municipality": "Geraardsbergen", 
-      "pcode": "9500", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Groteweg"
-    }, 
-    {
-      "busnrs": [
-        "8"
-      ], 
-      "hnrlbls": [
-        "90B"
-      ], 
-      "housenumber": "90B", 
-      "lat": 50.766318120194, 
-      "lon": 3.866531391711, 
-      "municipality": "Geraardsbergen", 
-      "pcode": "9500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Groteweg"
     }, 
     {
@@ -6080,21 +5646,6 @@
       "housenumber": "91", 
       "lat": 50.765507744442, 
       "lon": 3.866672418835, 
-      "municipality": "Geraardsbergen", 
-      "pcode": "9500", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Groteweg"
-    }, 
-    {
-      "busnrs": [
-        "6"
-      ], 
-      "hnrlbls": [
-        "5-92"
-      ], 
-      "housenumber": "92", 
-      "lat": 50.766271318102, 
-      "lon": 3.86664458467, 
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
       "source": "afgeleidVanGebouw", 
@@ -6115,14 +5666,14 @@
         "9"
       ], 
       "hnrlbls": [
-        "92B"
+        "92"
       ], 
-      "housenumber": "92B", 
-      "lat": 50.766105813697, 
-      "lon": 3.866791502663, 
+      "housenumber": "92", 
+      "lat": 50.766072957037, 
+      "lon": 3.866802342185, 
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Groteweg"
     }, 
     {

@@ -2,14 +2,14 @@
   "addresses": [
     {
       "busnrs": [
-        "101"
+        "0101"
       ], 
       "hnrlbls": [
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 51.267581593157, 
-      "lon": 5.083430435922, 
+      "lat": 51.267598813384, 
+      "lon": 5.083362354436, 
       "municipality": "Retie", 
       "pcode": "2470", 
       "source": "afgeleidVanGebouw", 
@@ -17,9 +17,9 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "2", 
-        "3"
+        "0001", 
+        "0002", 
+        "0003"
       ], 
       "hnrlbls": [
         "10"
@@ -46,10 +46,10 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4"
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004"
       ], 
       "hnrlbls": [
         "12"
@@ -64,8 +64,8 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "101"
+        "0001", 
+        "0101"
       ], 
       "hnrlbls": [
         "13"
@@ -91,12 +91,17 @@
       "street": "Peperstraat"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0201"
+      ], 
       "hnrlbls": [
         "15"
       ], 
       "housenumber": "15", 
-      "lat": 51.268205087388, 
-      "lon": 5.081964465102, 
+      "lat": 51.268276842856, 
+      "lon": 5.082064431539, 
       "municipality": "Retie", 
       "pcode": "2470", 
       "source": "afgeleidVanGebouw", 
@@ -104,7 +109,7 @@
     }, 
     {
       "busnrs": [
-        "101"
+        "0101"
       ], 
       "hnrlbls": [
         "16"
@@ -119,10 +124,10 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "101", 
-        "2", 
-        "201"
+        "0001", 
+        "0002", 
+        "0101", 
+        "0201"
       ], 
       "hnrlbls": [
         "17"
@@ -137,18 +142,18 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "101", 
-        "102", 
-        "201", 
-        "202"
+        "0001", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202"
       ], 
       "hnrlbls": [
         "18"
       ], 
       "housenumber": "18", 
-      "lat": 51.268227135428, 
-      "lon": 5.082972811929, 
+      "lat": 51.268221476819, 
+      "lon": 5.082942348692, 
       "municipality": "Retie", 
       "pcode": "2470", 
       "source": "afgeleidVanGebouw", 
@@ -168,13 +173,13 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "101", 
-        "201", 
-        "202"
+        "0001", 
+        "0101", 
+        "0201", 
+        "0202"
       ], 
       "hnrlbls": [
-        "1A-202A"
+        "1A"
       ], 
       "housenumber": "1A", 
       "lat": 51.267564373757, 
@@ -198,40 +203,15 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "101", 
-        "201"
+        "0101", 
+        "0201"
       ], 
       "hnrlbls": [
         "20"
       ], 
       "housenumber": "20", 
-      "lat": 51.268257954122, 
-      "lon": 5.082855791294, 
-      "municipality": "Retie", 
-      "pcode": "2470", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Peperstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "1A-202A"
-      ], 
-      "housenumber": "202A", 
-      "lat": 51.267564373757, 
-      "lon": 5.083498374089, 
-      "municipality": "Retie", 
-      "pcode": "2470", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Peperstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "21-25"
-      ], 
-      "housenumber": "21", 
-      "lat": 51.268550979421, 
-      "lon": 5.081545497264, 
+      "lat": 51.268288682823, 
+      "lon": 5.082738769125, 
       "municipality": "Retie", 
       "pcode": "2470", 
       "source": "afgeleidVanGebouw", 
@@ -263,7 +243,7 @@
     }, 
     {
       "hnrlbls": [
-        "21-25"
+        "25"
       ], 
       "housenumber": "25", 
       "lat": 51.268550979421, 
@@ -306,7 +286,7 @@
       "lon": 5.083921221667, 
       "municipality": "Retie", 
       "pcode": "2470", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Peperstraat"
     }, 
     {
@@ -323,14 +303,14 @@
     }, 
     {
       "hnrlbls": [
-        "4-8"
+        "4"
       ], 
       "housenumber": "4", 
-      "lat": 51.267822244984, 
-      "lon": 5.083693761844, 
+      "lat": 51.267738040996, 
+      "lon": 5.083720265114, 
       "municipality": "Retie", 
       "pcode": "2470", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Peperstraat"
     }, 
     {
@@ -347,12 +327,12 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6"
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0005", 
+        "0006"
       ], 
       "hnrlbls": [
         "7"
@@ -367,14 +347,14 @@
     }, 
     {
       "hnrlbls": [
-        "4-8"
+        "8"
       ], 
       "housenumber": "8", 
-      "lat": 51.267822244984, 
-      "lon": 5.083693761844, 
+      "lat": 51.267835828221, 
+      "lon": 5.083469015183, 
       "municipality": "Retie", 
       "pcode": "2470", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Peperstraat"
     }, 
     {

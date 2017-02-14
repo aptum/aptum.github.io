@@ -14,6 +14,18 @@
     }, 
     {
       "hnrlbls": [
+        "101"
+      ], 
+      "housenumber": "101", 
+      "lat": 50.988633716903, 
+      "lon": 5.524759945962, 
+      "municipality": "Genk", 
+      "pcode": "3600", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Herenstraat"
+    }, 
+    {
+      "hnrlbls": [
         "102"
       ], 
       "housenumber": "102", 
@@ -29,11 +41,11 @@
         "103"
       ], 
       "housenumber": "103", 
-      "lat": 50.988646298392, 
-      "lon": 5.524604996176, 
+      "lat": 50.988608585853, 
+      "lon": 5.524627710544, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Herenstraat"
     }, 
     {
@@ -65,8 +77,8 @@
         "108"
       ], 
       "housenumber": "108", 
-      "lat": 50.989180888332, 
-      "lon": 5.525278268006, 
+      "lat": 50.989184005904, 
+      "lon": 5.525272077533, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
@@ -89,8 +101,8 @@
         "11"
       ], 
       "housenumber": "11", 
-      "lat": 50.993600947257, 
-      "lon": 5.531592809939, 
+      "lat": 50.993601374121, 
+      "lon": 5.531595099834, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
@@ -314,18 +326,6 @@
     }, 
     {
       "hnrlbls": [
-        "136B"
-      ], 
-      "housenumber": "136B", 
-      "lat": 50.988017030256, 
-      "lon": 5.522220282236, 
-      "municipality": "Genk", 
-      "pcode": "3600", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Herenstraat"
-    }, 
-    {
-      "hnrlbls": [
         "137"
       ], 
       "housenumber": "137", 
@@ -401,11 +401,11 @@
         "146"
       ], 
       "housenumber": "146", 
-      "lat": 50.987806628174, 
-      "lon": 5.52170104127, 
+      "lat": 50.987653697795, 
+      "lon": 5.521224953435, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Herenstraat"
     }, 
     {
@@ -437,8 +437,8 @@
         "149"
       ], 
       "housenumber": "149", 
-      "lat": 50.986909124543, 
-      "lon": 5.520518953767, 
+      "lat": 50.986926266228, 
+      "lon": 5.520494449139, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
@@ -446,8 +446,8 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "11"
+        "BU01", 
+        "BU11"
       ], 
       "hnrlbls": [
         "15"
@@ -486,7 +486,7 @@
     }, 
     {
       "hnrlbls": [
-        "16-18"
+        "16"
       ], 
       "housenumber": "16", 
       "lat": 50.993892432005, 
@@ -513,8 +513,8 @@
         "167"
       ], 
       "housenumber": "167", 
-      "lat": 50.985148314502, 
-      "lon": 5.518809507807, 
+      "lat": 50.985106740382, 
+      "lon": 5.518877850245, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
@@ -522,8 +522,8 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "11"
+        "BU01", 
+        "BU11"
       ], 
       "hnrlbls": [
         "172"
@@ -553,8 +553,8 @@
         "176"
       ], 
       "housenumber": "176", 
-      "lat": 50.985777997093, 
-      "lon": 5.518395110745, 
+      "lat": 50.985780681614, 
+      "lon": 5.51838720046, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
@@ -567,18 +567,6 @@
       "housenumber": "178", 
       "lat": 50.985728855081, 
       "lon": 5.51834562016, 
-      "municipality": "Genk", 
-      "pcode": "3600", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Herenstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "16-18"
-      ], 
-      "housenumber": "18", 
-      "lat": 50.993892432005, 
-      "lon": 5.53110871463, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
@@ -601,8 +589,8 @@
         "182"
       ], 
       "housenumber": "182", 
-      "lat": 50.985654117829, 
-      "lon": 5.518274991339, 
+      "lat": 50.985649599501, 
+      "lon": 5.518286559816, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
@@ -718,19 +706,16 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "11", 
-        "12", 
-        "13", 
-        "14", 
-        "15", 
-        "2", 
-        "3", 
-        "4", 
-        "5"
+        "BU02", 
+        "BU03", 
+        "BU04", 
+        "BU05", 
+        "BU12", 
+        "BU13", 
+        "BU15"
       ], 
       "hnrlbls": [
-        "195-195A"
+        "195"
       ], 
       "housenumber": "195", 
       "lat": 50.984120682949, 
@@ -742,32 +727,17 @@
     }, 
     {
       "hnrlbls": [
-        "195-195A"
-      ], 
-      "housenumber": "195A", 
-      "lat": 50.984120682949, 
-      "lon": 5.51717770134, 
-      "municipality": "Genk", 
-      "pcode": "3600", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Herenstraat"
-    }, 
-    {
-      "hnrlbls": [
         "197"
       ], 
       "housenumber": "197", 
-      "lat": 50.984244800644, 
-      "lon": 5.516546374476, 
+      "lat": 50.984239366094, 
+      "lon": 5.516550514108, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
       "street": "Herenstraat"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -928,8 +898,8 @@
         "211"
       ], 
       "housenumber": "211", 
-      "lat": 50.983682873451, 
-      "lon": 5.514735053826, 
+      "lat": 50.98368131494, 
+      "lon": 5.51473814905, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
@@ -985,8 +955,8 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "2"
+        "BU01", 
+        "BU02"
       ], 
       "hnrlbls": [
         "217"
@@ -1016,8 +986,8 @@
         "219"
       ], 
       "housenumber": "219", 
-      "lat": 50.983505825421, 
-      "lon": 5.513954079772, 
+      "lat": 50.98353940671, 
+      "lon": 5.513939946244, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
@@ -1156,9 +1126,11 @@
       "street": "Herenstraat"
     }, 
     {
+      "apptnrs": [
+        "BU01"
+      ], 
       "busnrs": [
-        "1", 
-        "11"
+        "BU11"
       ], 
       "hnrlbls": [
         "30"
@@ -1212,8 +1184,8 @@
         "34"
       ], 
       "housenumber": "34", 
-      "lat": 50.993009432643, 
-      "lon": 5.530797472716, 
+      "lat": 50.993030398457, 
+      "lon": 5.530741011307, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
@@ -1260,8 +1232,8 @@
         "43"
       ], 
       "housenumber": "43", 
-      "lat": 50.991628482632, 
-      "lon": 5.529656084616, 
+      "lat": 50.991628698954, 
+      "lon": 5.529652386281, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
@@ -1368,11 +1340,23 @@
         "56"
       ], 
       "housenumber": "56", 
-      "lat": 50.992157313663, 
-      "lon": 5.529571472739, 
+      "lat": 50.992175135578, 
+      "lon": 5.52954199969, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
+      "street": "Herenstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "57"
+      ], 
+      "housenumber": "57", 
+      "lat": 50.990841510732, 
+      "lon": 5.52871465577, 
+      "municipality": "Genk", 
+      "pcode": "3600", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Herenstraat"
     }, 
     {
@@ -1449,6 +1433,18 @@
     }, 
     {
       "hnrlbls": [
+        "73"
+      ], 
+      "housenumber": "73", 
+      "lat": 50.989736890426, 
+      "lon": 5.527546888096, 
+      "municipality": "Genk", 
+      "pcode": "3600", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Herenstraat"
+    }, 
+    {
+      "hnrlbls": [
         "74"
       ], 
       "housenumber": "74", 
@@ -1464,8 +1460,8 @@
         "75"
       ], 
       "housenumber": "75", 
-      "lat": 50.98959676642, 
-      "lon": 5.527434024158, 
+      "lat": 50.989574622498, 
+      "lon": 5.52749159327, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
@@ -1488,11 +1484,11 @@
         "77"
       ], 
       "housenumber": "77", 
-      "lat": 50.989467023034, 
-      "lon": 5.52747198023, 
+      "lat": 50.989347760262, 
+      "lon": 5.52777827296, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Herenstraat"
     }, 
     {
@@ -1524,8 +1520,8 @@
         "81"
       ], 
       "housenumber": "81", 
-      "lat": 50.989309683376, 
-      "lon": 5.527263254595, 
+      "lat": 50.989313095953, 
+      "lon": 5.527254507562, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
@@ -1548,8 +1544,8 @@
         "83"
       ], 
       "housenumber": "83", 
-      "lat": 50.989257306052, 
-      "lon": 5.527141025123, 
+      "lat": 50.98925626966, 
+      "lon": 5.527145842537, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
@@ -1593,7 +1589,7 @@
     }, 
     {
       "hnrlbls": [
-        "87-87A"
+        "87"
       ], 
       "housenumber": "87", 
       "lat": 50.988923317119, 
@@ -1601,18 +1597,6 @@
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
-      "street": "Herenstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "87-87A"
-      ], 
-      "housenumber": "87A", 
-      "lat": 50.988923317119, 
-      "lon": 5.527059121654, 
-      "municipality": "Genk", 
-      "pcode": "3600", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Herenstraat"
     }, 
     {
@@ -1632,8 +1616,8 @@
         "9"
       ], 
       "housenumber": "9", 
-      "lat": 50.993768216422, 
-      "lon": 5.531614913158, 
+      "lat": 50.993747322307, 
+      "lon": 5.53165499437, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
@@ -1641,13 +1625,9 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "11", 
-        "12", 
-        "13", 
-        "2", 
-        "AB01", 
-        "AB11"
+        "BU01", 
+        "BU11", 
+        "BU13"
       ], 
       "hnrlbls": [
         "91"
@@ -1674,10 +1654,9 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4"
+        "BU01", 
+        "BU02", 
+        "BU04"
       ], 
       "hnrlbls": [
         "93"
@@ -1739,15 +1718,12 @@
       "street": "Herenstraat"
     }, 
     {
-      "busnrs": [
-        "2"
-      ], 
       "hnrlbls": [
         "98"
       ], 
       "housenumber": "98", 
-      "lat": 50.989386594708, 
-      "lon": 5.526327739836, 
+      "lat": 50.989386413545, 
+      "lon": 5.526327877801, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
@@ -1755,15 +1731,15 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "2"
+        "BU01", 
+        "BU02"
       ], 
       "hnrlbls": [
         "99"
       ], 
       "housenumber": "99", 
-      "lat": 50.988785098666, 
-      "lon": 5.525044718977, 
+      "lat": 50.988800915971, 
+      "lon": 5.525036135713, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 

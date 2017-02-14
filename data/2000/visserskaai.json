@@ -1,8 +1,11 @@
 {
   "addresses": [
     {
-      "busnrs": [
-        "4"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301"
       ], 
       "hnrlbls": [
         "1"
@@ -16,8 +19,12 @@
       "street": "Visserskaai"
     }, 
     {
+      "apptnrs": [
+        "301", 
+        "401"
+      ], 
       "hnrlbls": [
-        "10"
+        "10-10A"
       ], 
       "housenumber": "10", 
       "lat": 51.209642479062, 
@@ -28,12 +35,18 @@
       "street": "Visserskaai"
     }, 
     {
-      "apptnrs": [
-        "0.0"
+      "hnrlbls": [
+        "10-10A"
       ], 
-      "busnrs": [
-        "2"
-      ], 
+      "housenumber": "10A", 
+      "lat": 51.209642479062, 
+      "lon": 4.388290411949, 
+      "municipality": "Antwerpen", 
+      "pcode": "2000", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Visserskaai"
+    }, 
+    {
       "hnrlbls": [
         "11"
       ], 
@@ -69,21 +82,6 @@
     }, 
     {
       "busnrs": [
-        "L"
-      ], 
-      "hnrlbls": [
-        "2_1"
-      ], 
-      "housenumber": "2_1", 
-      "lat": 51.209826802278, 
-      "lon": 4.387848120506, 
-      "municipality": "Antwerpen", 
-      "pcode": "2000", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Visserskaai"
-    }, 
-    {
-      "busnrs": [
         "3"
       ], 
       "hnrlbls": [
@@ -95,22 +93,6 @@
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
-      "street": "Visserskaai"
-    }, 
-    {
-      "busnrs": [
-        "L", 
-        "R"
-      ], 
-      "hnrlbls": [
-        "3_2"
-      ], 
-      "housenumber": "3_2", 
-      "lat": 51.209771681727, 
-      "lon": 4.387960139069, 
-      "municipality": "Antwerpen", 
-      "pcode": "2000", 
-      "source": "manueleAanduidingVanGebouw", 
       "street": "Visserskaai"
     }, 
     {

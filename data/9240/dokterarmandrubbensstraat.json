@@ -5,8 +5,8 @@
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 51.06848608368, 
-      "lon": 4.04070423624, 
+      "lat": 51.068486060956, 
+      "lon": 4.040704180156, 
       "municipality": "Zele", 
       "pcode": "9240", 
       "source": "manueleAanduidingVanGebouw", 
@@ -149,11 +149,11 @@
     }, 
     {
       "hnrlbls": [
-        "17"
+        "17-17W"
       ], 
       "housenumber": "17", 
-      "lat": 51.068450088374, 
-      "lon": 4.041540607577, 
+      "lat": 51.068449189493, 
+      "lon": 4.041540613851, 
       "municipality": "Zele", 
       "pcode": "9240", 
       "source": "afgeleidVanGebouw", 
@@ -170,7 +170,7 @@
         "7"
       ], 
       "hnrlbls": [
-        "17W"
+        "17-17W"
       ], 
       "housenumber": "17W", 
       "lat": 51.068449189493, 
@@ -221,8 +221,8 @@
         "19W"
       ], 
       "housenumber": "19W", 
-      "lat": 51.068486297484, 
-      "lon": 4.041794303648, 
+      "lat": 51.068438555518, 
+      "lon": 4.041725585429, 
       "municipality": "Zele", 
       "pcode": "9240", 
       "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
@@ -233,8 +233,8 @@
         "1A"
       ], 
       "housenumber": "1A", 
-      "lat": 51.068527134428, 
-      "lon": 4.040480509125, 
+      "lat": 51.068527148195, 
+      "lon": 4.040480474575, 
       "municipality": "Zele", 
       "pcode": "9240", 
       "source": "manueleAanduidingVanGebouw", 
@@ -245,23 +245,11 @@
         "1B"
       ], 
       "housenumber": "1B", 
-      "lat": 51.068517350053, 
-      "lon": 4.040582442767, 
+      "lat": 51.06851736384, 
+      "lon": 4.040582408013, 
       "municipality": "Zele", 
       "pcode": "9240", 
       "source": "manueleAanduidingVanGebouw", 
-      "street": "Dokter Armand Rubbensstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "2-49"
-      ], 
-      "housenumber": "2", 
-      "lat": 51.068323668649, 
-      "lon": 4.041430780042, 
-      "municipality": "Zele", 
-      "pcode": "9240", 
-      "source": "afgeleidVanStraat", 
       "street": "Dokter Armand Rubbensstraat"
     }, 
     {
@@ -429,14 +417,16 @@
     {
       "busnrs": [
         "W1", 
-        "W2"
+        "W2", 
+        "W3", 
+        "W4"
       ], 
       "hnrlbls": [
         "3"
       ], 
       "housenumber": "3", 
-      "lat": 51.068517866294, 
-      "lon": 4.040819860464, 
+      "lat": 51.068517843506, 
+      "lon": 4.040819804149, 
       "municipality": "Zele", 
       "pcode": "9240", 
       "source": "manueleAanduidingVanGebouw", 
@@ -525,11 +515,23 @@
         "35"
       ], 
       "housenumber": "35", 
-      "lat": 51.068332537923, 
-      "lon": 4.042947843111, 
+      "lat": 51.068325582579, 
+      "lon": 4.04287042307, 
       "municipality": "Zele", 
       "pcode": "9240", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Dokter Armand Rubbensstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "35A"
+      ], 
+      "housenumber": "35A", 
+      "lat": 51.068309009133, 
+      "lon": 4.042988524137, 
+      "municipality": "Zele", 
+      "pcode": "9240", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Dokter Armand Rubbensstraat"
     }, 
     {
@@ -633,11 +635,11 @@
         "43"
       ], 
       "housenumber": "43", 
-      "lat": 51.068363830772, 
-      "lon": 4.043702193909, 
+      "lat": 51.06831683803, 
+      "lon": 4.0436113553, 
       "municipality": "Zele", 
       "pcode": "9240", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Dokter Armand Rubbensstraat"
     }, 
     {
@@ -657,11 +659,11 @@
         "45"
       ], 
       "housenumber": "45", 
-      "lat": 51.068384417892, 
-      "lon": 4.043931745899, 
+      "lat": 51.068323443576, 
+      "lon": 4.043725158032, 
       "municipality": "Zele", 
       "pcode": "9240", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Dokter Armand Rubbensstraat"
     }, 
     {
@@ -677,10 +679,38 @@
       "street": "Dokter Armand Rubbensstraat"
     }, 
     {
+      "busnrs": [
+        "W1", 
+        "W2", 
+        "W3", 
+        "W4", 
+        "W5", 
+        "W6", 
+        "W7", 
+        "W8", 
+        "W9"
+      ], 
       "hnrlbls": [
-        "2-49"
+        "47"
       ], 
       "housenumber": "47", 
+      "lat": 51.068330300228, 
+      "lon": 4.043832253689, 
+      "municipality": "Zele", 
+      "pcode": "9240", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Dokter Armand Rubbensstraat"
+    }, 
+    {
+      "busnrs": [
+        "7", 
+        "8", 
+        "9"
+      ], 
+      "hnrlbls": [
+        "47W"
+      ], 
+      "housenumber": "47W", 
       "lat": 51.068323668649, 
       "lon": 4.041430780042, 
       "municipality": "Zele", 
@@ -702,14 +732,14 @@
     }, 
     {
       "hnrlbls": [
-        "2-49"
+        "49"
       ], 
       "housenumber": "49", 
-      "lat": 51.068323668649, 
-      "lon": 4.041430780042, 
+      "lat": 51.068336856119, 
+      "lon": 4.043928080736, 
       "municipality": "Zele", 
       "pcode": "9240", 
-      "source": "afgeleidVanStraat", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Dokter Armand Rubbensstraat"
     }, 
     {
@@ -765,8 +795,8 @@
         "58"
       ], 
       "housenumber": "58", 
-      "lat": 51.068101712843, 
-      "lon": 4.043278151212, 
+      "lat": 51.068103329256, 
+      "lon": 4.043277569324, 
       "municipality": "Zele", 
       "pcode": "9240", 
       "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
@@ -801,8 +831,8 @@
         "60A-60W"
       ], 
       "housenumber": "60A", 
-      "lat": 51.068067621961, 
-      "lon": 4.043335169175, 
+      "lat": 51.068070854787, 
+      "lon": 4.043334005403, 
       "municipality": "Zele", 
       "pcode": "9240", 
       "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
@@ -816,8 +846,8 @@
         "60A-60W"
       ], 
       "housenumber": "60W", 
-      "lat": 51.068067621961, 
-      "lon": 4.043335169175, 
+      "lat": 51.068070854787, 
+      "lon": 4.043334005403, 
       "municipality": "Zele", 
       "pcode": "9240", 
       "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
@@ -852,8 +882,8 @@
         "66"
       ], 
       "housenumber": "66", 
-      "lat": 51.068043281869, 
-      "lon": 4.043570880502, 
+      "lat": 51.068045410966, 
+      "lon": 4.043593264375, 
       "municipality": "Zele", 
       "pcode": "9240", 
       "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
@@ -948,8 +978,8 @@
         "74W"
       ], 
       "housenumber": "74W", 
-      "lat": 51.068067541188, 
-      "lon": 4.043991578608, 
+      "lat": 51.068017515556, 
+      "lon": 4.043974519834, 
       "municipality": "Zele", 
       "pcode": "9240", 
       "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 

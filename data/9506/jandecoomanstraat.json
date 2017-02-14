@@ -77,11 +77,11 @@
         "15"
       ], 
       "housenumber": "15", 
-      "lat": 50.804364994241, 
-      "lon": 3.962540491983, 
+      "lat": 50.804497469763, 
+      "lon": 3.962712713019, 
       "municipality": "Geraardsbergen", 
       "pcode": "9506", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Jan De Coomanstraat"
     }, 
     {
@@ -113,11 +113,11 @@
         "19A"
       ], 
       "housenumber": "19A", 
-      "lat": 50.804536399768, 
-      "lon": 3.962376291798, 
+      "lat": 50.804621751181, 
+      "lon": 3.962413434749, 
       "municipality": "Geraardsbergen", 
       "pcode": "9506", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Jan De Coomanstraat"
     }, 
     {
@@ -161,8 +161,8 @@
         "23"
       ], 
       "housenumber": "23", 
-      "lat": 50.804910784576, 
-      "lon": 3.96148340091, 
+      "lat": 50.804910694681, 
+      "lon": 3.961483401687, 
       "municipality": "Geraardsbergen", 
       "pcode": "9506", 
       "source": "afgeleidVanGebouw", 
@@ -278,14 +278,14 @@
     }, 
     {
       "hnrlbls": [
-        "35"
+        "2-35"
       ], 
       "housenumber": "35", 
-      "lat": 50.805267343882, 
-      "lon": 3.959217202224, 
+      "lat": 50.805549616328, 
+      "lon": 3.959344419737, 
       "municipality": "Geraardsbergen", 
       "pcode": "9506", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Jan De Coomanstraat"
     }, 
     {
@@ -326,18 +326,6 @@
     }, 
     {
       "hnrlbls": [
-        "4"
-      ], 
-      "housenumber": "4", 
-      "lat": 50.805827385507, 
-      "lon": 3.960475990806, 
-      "municipality": "Geraardsbergen", 
-      "pcode": "9506", 
-      "source": "afgeleidVanStraat", 
-      "street": "Jan De Coomanstraat"
-    }, 
-    {
-      "hnrlbls": [
         "40"
       ], 
       "housenumber": "40", 
@@ -367,18 +355,6 @@
       "housenumber": "42", 
       "lat": 50.806194164688, 
       "lon": 3.959416992619, 
-      "municipality": "Geraardsbergen", 
-      "pcode": "9506", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Jan De Coomanstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "43"
-      ], 
-      "housenumber": "43", 
-      "lat": 50.806401623502, 
-      "lon": 3.958611617005, 
       "municipality": "Geraardsbergen", 
       "pcode": "9506", 
       "source": "afgeleidVanGebouw", 
@@ -421,18 +397,6 @@
       "street": "Jan De Coomanstraat"
     }, 
     {
-      "hnrlbls": [
-        "45-45B"
-      ], 
-      "housenumber": "45", 
-      "lat": 50.806481968625, 
-      "lon": 3.958424920788, 
-      "municipality": "Geraardsbergen", 
-      "pcode": "9506", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Jan De Coomanstraat"
-    }, 
-    {
       "busnrs": [
         "1", 
         "2", 
@@ -441,14 +405,14 @@
         "5"
       ], 
       "hnrlbls": [
-        "45-45B"
+        "45"
       ], 
-      "housenumber": "45B", 
+      "housenumber": "45", 
       "lat": 50.806481968625, 
       "lon": 3.958424920788, 
       "municipality": "Geraardsbergen", 
       "pcode": "9506", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Jan De Coomanstraat"
     }, 
     {
@@ -468,8 +432,8 @@
         "46B"
       ], 
       "housenumber": "46B", 
-      "lat": 50.80668722852, 
-      "lon": 3.959771227495, 
+      "lat": 50.806687149006, 
+      "lon": 3.959774207554, 
       "municipality": "Geraardsbergen", 
       "pcode": "9506", 
       "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
@@ -485,14 +449,19 @@
         "47"
       ], 
       "housenumber": "47", 
-      "lat": 50.806464821641, 
-      "lon": 3.958148841237, 
+      "lat": 50.806453832998, 
+      "lon": 3.9581941948, 
       "municipality": "Geraardsbergen", 
       "pcode": "9506", 
       "source": "afgeleidVanPerceelGrb", 
       "street": "Jan De Coomanstraat"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3"
+      ], 
       "hnrlbls": [
         "47A"
       ], 
@@ -505,8 +474,13 @@
       "street": "Jan De Coomanstraat"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3"
+      ], 
       "hnrlbls": [
-        "48-48B"
+        "48"
       ], 
       "housenumber": "48", 
       "lat": 50.806870404369, 
@@ -514,23 +488,6 @@
       "municipality": "Geraardsbergen", 
       "pcode": "9506", 
       "source": "afgeleidVanGebouw", 
-      "street": "Jan De Coomanstraat"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3"
-      ], 
-      "hnrlbls": [
-        "48-48B"
-      ], 
-      "housenumber": "48B", 
-      "lat": 50.806870404369, 
-      "lon": 3.958653221127, 
-      "municipality": "Geraardsbergen", 
-      "pcode": "9506", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Jan De Coomanstraat"
     }, 
     {
@@ -551,23 +508,6 @@
       "street": "Jan De Coomanstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3"
-      ], 
-      "hnrlbls": [
-        "49B"
-      ], 
-      "housenumber": "49B", 
-      "lat": 50.806741816766, 
-      "lon": 3.958257657812, 
-      "municipality": "Geraardsbergen", 
-      "pcode": "9506", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Jan De Coomanstraat"
-    }, 
-    {
       "hnrlbls": [
         "5"
       ], 
@@ -580,8 +520,11 @@
       "street": "Jan De Coomanstraat"
     }, 
     {
+      "busnrs": [
+        "2"
+      ], 
       "hnrlbls": [
-        "51-51B"
+        "51"
       ], 
       "housenumber": "51", 
       "lat": 50.806703914774, 
@@ -589,21 +532,6 @@
       "municipality": "Geraardsbergen", 
       "pcode": "9506", 
       "source": "afgeleidVanGebouw", 
-      "street": "Jan De Coomanstraat"
-    }, 
-    {
-      "busnrs": [
-        "2"
-      ], 
-      "hnrlbls": [
-        "51-51B"
-      ], 
-      "housenumber": "51B", 
-      "lat": 50.806703914774, 
-      "lon": 3.957368858503, 
-      "municipality": "Geraardsbergen", 
-      "pcode": "9506", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Jan De Coomanstraat"
     }, 
     {
@@ -623,11 +551,11 @@
         "53"
       ], 
       "housenumber": "53", 
-      "lat": 50.806956264339, 
-      "lon": 3.957294015378, 
+      "lat": 50.806946350854, 
+      "lon": 3.957877210424, 
       "municipality": "Geraardsbergen", 
       "pcode": "9506", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Jan De Coomanstraat"
     }, 
     {
@@ -683,8 +611,8 @@
         "60-62"
       ], 
       "housenumber": "60", 
-      "lat": 50.807616308443, 
-      "lon": 3.95752972816, 
+      "lat": 50.807612146017, 
+      "lon": 3.957547641053, 
       "municipality": "Geraardsbergen", 
       "pcode": "9506", 
       "source": "afgeleidVanGebouw", 
@@ -695,8 +623,8 @@
         "60-62"
       ], 
       "housenumber": "62", 
-      "lat": 50.807616308443, 
-      "lon": 3.95752972816, 
+      "lat": 50.807612146017, 
+      "lon": 3.957547641053, 
       "municipality": "Geraardsbergen", 
       "pcode": "9506", 
       "source": "afgeleidVanGebouw", 
@@ -743,11 +671,11 @@
         "7"
       ], 
       "housenumber": "7", 
-      "lat": 50.80420620364, 
-      "lon": 3.963363413685, 
+      "lat": 50.803269463379, 
+      "lon": 3.960921756108, 
       "municipality": "Geraardsbergen", 
       "pcode": "9506", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Jan De Coomanstraat"
     }, 
     {
@@ -779,8 +707,8 @@
         "74"
       ], 
       "housenumber": "74", 
-      "lat": 50.80786081396, 
-      "lon": 3.959248152681, 
+      "lat": 50.807833969098, 
+      "lon": 3.959258033667, 
       "municipality": "Geraardsbergen", 
       "pcode": "9506", 
       "source": "afgeleidVanGebouw", 
@@ -791,20 +719,8 @@
         "76"
       ], 
       "housenumber": "76", 
-      "lat": 50.807742455221, 
-      "lon": 3.959593660763, 
-      "municipality": "Geraardsbergen", 
-      "pcode": "9506", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Jan De Coomanstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "9-9B"
-      ], 
-      "housenumber": "9", 
-      "lat": 50.804277778738, 
-      "lon": 3.96316006947, 
+      "lat": 50.807820181147, 
+      "lon": 3.959506156501, 
       "municipality": "Geraardsbergen", 
       "pcode": "9506", 
       "source": "afgeleidVanGebouw", 
@@ -815,14 +731,14 @@
         "2"
       ], 
       "hnrlbls": [
-        "9-9B"
+        "9"
       ], 
-      "housenumber": "9B", 
+      "housenumber": "9", 
       "lat": 50.804277778738, 
       "lon": 3.96316006947, 
       "municipality": "Geraardsbergen", 
       "pcode": "9506", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Jan De Coomanstraat"
     }
   ]

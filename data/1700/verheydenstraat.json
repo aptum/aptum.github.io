@@ -88,6 +88,10 @@
       "street": "Verheydenstraat"
     }, 
     {
+      "busnrs": [
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "18"
       ], 
@@ -105,6 +109,7 @@
         "2.0"
       ], 
       "busnrs": [
+        "101", 
         "102", 
         "104", 
         "201", 
@@ -272,6 +277,7 @@
         "2", 
         "301", 
         "302", 
+        "306", 
         "5"
       ], 
       "hnrlbls": [
@@ -302,8 +308,8 @@
         "28"
       ], 
       "housenumber": "28", 
-      "lat": 50.84420707073, 
-      "lon": 4.261624742755, 
+      "lat": 50.844205808591, 
+      "lon": 4.261620770006, 
       "municipality": "Dilbeek", 
       "pcode": "1700", 
       "source": "afgeleidVanGebouw", 
@@ -357,6 +363,18 @@
       "street": "Verheydenstraat"
     }, 
     {
+      "hnrlbls": [
+        "32-34"
+      ], 
+      "housenumber": "32", 
+      "lat": 50.84398084107, 
+      "lon": 4.261368403588, 
+      "municipality": "Dilbeek", 
+      "pcode": "1700", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Verheydenstraat"
+    }, 
+    {
       "apptnrs": [
         "1.0"
       ], 
@@ -372,18 +390,12 @@
       "street": "Verheydenstraat"
     }, 
     {
-      "apptnrs": [
-        "2.0"
-      ], 
       "busnrs": [
-        "1", 
-        "101", 
-        "2", 
-        "3", 
-        "4"
+        "101"
       ], 
       "hnrlbls": [
-        "20-337"
+        "32-34", 
+        "34"
       ], 
       "housenumber": "34", 
       "lat": 50.84398084107, 
@@ -465,7 +477,8 @@
         "2.0"
       ], 
       "busnrs": [
-        "101"
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "43"
@@ -479,24 +492,30 @@
       "street": "Verheydenstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
+        "101", 
         "201"
+      ], 
+      "busnrs": [
+        "001", 
+        "002"
       ], 
       "hnrlbls": [
         "45"
       ], 
       "housenumber": "45", 
-      "lat": 50.844994575138, 
-      "lon": 4.261352045944, 
+      "lat": 50.844910834981, 
+      "lon": 4.261497347863, 
       "municipality": "Dilbeek", 
       "pcode": "1700", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanLigplaats", 
       "street": "Verheydenstraat"
     }, 
     {
       "busnrs": [
         "1", 
-        "101"
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "47"
@@ -552,17 +571,45 @@
     }, 
     {
       "busnrs": [
-        "101"
+        "201"
       ], 
       "hnrlbls": [
         "55"
       ], 
       "housenumber": "55", 
-      "lat": 50.844585329688, 
-      "lon": 4.26110833112, 
+      "lat": 50.844539004149, 
+      "lon": 4.261174602446, 
       "municipality": "Dilbeek", 
       "pcode": "1700", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Verheydenstraat"
+    }, 
+    {
+      "apptnrs": [
+        "101", 
+        "201"
+      ], 
+      "hnrlbls": [
+        "55A"
+      ], 
+      "housenumber": "55A", 
+      "lat": 50.844571105752, 
+      "lon": 4.26118446855, 
+      "municipality": "Dilbeek", 
+      "pcode": "1700", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Verheydenstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "55B"
+      ], 
+      "housenumber": "55B", 
+      "lat": 50.84461721934, 
+      "lon": 4.261181523966, 
+      "municipality": "Dilbeek", 
+      "pcode": "1700", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Verheydenstraat"
     }, 
     {
@@ -594,8 +641,8 @@
         "6"
       ], 
       "housenumber": "6", 
-      "lat": 50.844973454147, 
-      "lon": 4.262005267986, 
+      "lat": 50.844973413002, 
+      "lon": 4.262005240078, 
       "municipality": "Dilbeek", 
       "pcode": "1700", 
       "source": "manueleAanduidingVanIngangVanGebouw", 
@@ -646,6 +693,7 @@
     }, 
     {
       "busnrs": [
+        "101", 
         "2"
       ], 
       "hnrlbls": [

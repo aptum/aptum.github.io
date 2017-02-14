@@ -2,21 +2,9 @@
   "addresses": [
     {
       "hnrlbls": [
-        "10-12"
+        "10"
       ], 
       "housenumber": "10", 
-      "lat": 50.994789124952, 
-      "lon": 5.488059518142, 
-      "municipality": "Genk", 
-      "pcode": "3600", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Steenakker"
-    }, 
-    {
-      "hnrlbls": [
-        "10-12"
-      ], 
-      "housenumber": "12", 
       "lat": 50.994789124952, 
       "lon": 5.488059518142, 
       "municipality": "Genk", 
@@ -62,8 +50,8 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "2"
+        "BU01", 
+        "BU02"
       ], 
       "hnrlbls": [
         "2"
@@ -105,8 +93,8 @@
         "22"
       ], 
       "housenumber": "22", 
-      "lat": 50.995024307752, 
-      "lon": 5.487143002925, 
+      "lat": 50.995030870033, 
+      "lon": 5.487190313586, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
@@ -129,8 +117,8 @@
         "25"
       ], 
       "housenumber": "25", 
-      "lat": 50.994990318079, 
-      "lon": 5.486623783319, 
+      "lat": 50.994990272374, 
+      "lon": 5.486609678802, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
@@ -185,6 +173,9 @@
       "street": "Steenakker"
     }, 
     {
+      "busnrs": [
+        "ABU00"
+      ], 
       "hnrlbls": [
         "30"
       ], 
@@ -194,18 +185,6 @@
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
-      "street": "Steenakker"
-    }, 
-    {
-      "hnrlbls": [
-        "30A"
-      ], 
-      "housenumber": "30A", 
-      "lat": 50.995643491384, 
-      "lon": 5.48698826348, 
-      "municipality": "Genk", 
-      "pcode": "3600", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Steenakker"
     }, 
     {
@@ -234,8 +213,8 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "2"
+        "BU01", 
+        "BU02"
       ], 
       "hnrlbls": [
         "33"
@@ -277,8 +256,8 @@
         "36"
       ], 
       "housenumber": "36", 
-      "lat": 50.995902381666, 
-      "lon": 5.486849135291, 
+      "lat": 50.995909544185, 
+      "lon": 5.486861700485, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
@@ -289,8 +268,8 @@
         "37"
       ], 
       "housenumber": "37", 
-      "lat": 50.995546316571, 
-      "lon": 5.486353845393, 
+      "lat": 50.995539293434, 
+      "lon": 5.48632661027, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
@@ -397,35 +376,11 @@
         "47"
       ], 
       "housenumber": "47", 
-      "lat": 50.996466002364, 
-      "lon": 5.485909656643, 
+      "lat": 50.996191993318, 
+      "lon": 5.485653097523, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "geinterpoleerdObvWegverbinding", 
-      "street": "Steenakker"
-    }, 
-    {
-      "hnrlbls": [
-        "56-58"
-      ], 
-      "housenumber": "56", 
-      "lat": 50.996420012093, 
-      "lon": 5.484362121828, 
-      "municipality": "Genk", 
-      "pcode": "3600", 
-      "source": "afgeleidVanStraat", 
-      "street": "Steenakker"
-    }, 
-    {
-      "hnrlbls": [
-        "56-58"
-      ], 
-      "housenumber": "58", 
-      "lat": 50.996420012093, 
-      "lon": 5.484362121828, 
-      "municipality": "Genk", 
-      "pcode": "3600", 
-      "source": "afgeleidVanStraat", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Steenakker"
     }
   ]

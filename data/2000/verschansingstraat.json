@@ -47,6 +47,12 @@
       "street": "Verschansingstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
         "12"
       ], 
@@ -63,8 +69,8 @@
         "12A"
       ], 
       "housenumber": "12A", 
-      "lat": 51.2085625819, 
-      "lon": 4.391819237177, 
+      "lat": 51.208562581882, 
+      "lon": 4.391819237183, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "manueleAanduidingVanPerceel", 
@@ -178,8 +184,8 @@
         "1L-1R"
       ], 
       "housenumber": "1L", 
-      "lat": 51.208348757621, 
-      "lon": 4.392224156636, 
+      "lat": 51.20834875491, 
+      "lon": 4.392224228181, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "manueleAanduidingVanGebouw", 
@@ -194,8 +200,8 @@
         "1L-1R"
       ], 
       "housenumber": "1R", 
-      "lat": 51.208348757621, 
-      "lon": 4.392224156636, 
+      "lat": 51.20834875491, 
+      "lon": 4.392224228181, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "manueleAanduidingVanGebouw", 
@@ -251,8 +257,8 @@
         "23"
       ], 
       "housenumber": "23", 
-      "lat": 51.208195336455, 
-      "lon": 4.391352705917, 
+      "lat": 51.20819531758, 
+      "lon": 4.391352707339, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "manueleAanduidingVanGebouw", 
@@ -510,11 +516,23 @@
         "40"
       ], 
       "housenumber": "40", 
-      "lat": 51.208518645744, 
-      "lon": 4.390346053748, 
+      "lat": 51.208394513375, 
+      "lon": 4.390357441986, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Verschansingstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "40A"
+      ], 
+      "housenumber": "40A", 
+      "lat": 51.208400796953, 
+      "lon": 4.390401518079, 
+      "municipality": "Antwerpen", 
+      "pcode": "2000", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Verschansingstraat"
     }, 
     {
@@ -656,8 +674,8 @@
         "49A"
       ], 
       "housenumber": "49A", 
-      "lat": 51.208120382136, 
-      "lon": 4.390272885708, 
+      "lat": 51.208120382151, 
+      "lon": 4.390272885711, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "manueleAanduidingVanPerceel", 
@@ -676,18 +694,6 @@
       "housenumber": "5", 
       "lat": 51.208293707805, 
       "lon": 4.391968633564, 
-      "municipality": "Antwerpen", 
-      "pcode": "2000", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Verschansingstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "2-63"
-      ], 
-      "housenumber": "50", 
-      "lat": 51.208351691788, 
-      "lon": 4.389585427788, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
@@ -715,26 +721,23 @@
         "51B"
       ], 
       "housenumber": "51B", 
-      "lat": 51.20809350936, 
-      "lon": 4.390182234625, 
+      "lat": 51.208093523731, 
+      "lon": 4.390182294731, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "manueleAanduidingVanGebouw", 
       "street": "Verschansingstraat"
     }, 
     {
-      "busnrs": [
-        "5"
-      ], 
       "hnrlbls": [
-        "2-63"
+        "52"
       ], 
       "housenumber": "52", 
-      "lat": 51.208351691788, 
-      "lon": 4.389585427788, 
+      "lat": 51.208345544397, 
+      "lon": 4.389778172942, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Verschansingstraat"
     }, 
     {
@@ -751,6 +754,7 @@
     }, 
     {
       "busnrs": [
+        "11", 
         "12", 
         "13", 
         "21", 
@@ -769,14 +773,14 @@
         "54"
       ], 
       "hnrlbls": [
-        "2-63"
+        "54"
       ], 
       "housenumber": "54", 
-      "lat": 51.208351691788, 
-      "lon": 4.389585427788, 
+      "lat": 51.208332356357, 
+      "lon": 4.389641941088, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Verschansingstraat"
     }, 
     {
@@ -796,23 +800,11 @@
         "55A"
       ], 
       "housenumber": "55A", 
-      "lat": 51.208082119961, 
-      "lon": 4.390053031561, 
+      "lat": 51.208082132536, 
+      "lon": 4.390053075926, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "manueleAanduidingVanGebouw", 
-      "street": "Verschansingstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "2-63"
-      ], 
-      "housenumber": "56", 
-      "lat": 51.208351691788, 
-      "lon": 4.389585427788, 
-      "municipality": "Antwerpen", 
-      "pcode": "2000", 
-      "source": "afgeleidVanGebouw", 
       "street": "Verschansingstraat"
     }, 
     {
@@ -874,8 +866,8 @@
         "61A-61C"
       ], 
       "housenumber": "61A", 
-      "lat": 51.208056432404, 
-      "lon": 4.389643970813, 
+      "lat": 51.208056411152, 
+      "lon": 4.389643959796, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
@@ -893,8 +885,8 @@
         "61A-61C"
       ], 
       "housenumber": "61C", 
-      "lat": 51.208056432404, 
-      "lon": 4.389643970813, 
+      "lat": 51.208056411152, 
+      "lon": 4.389643959796, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 

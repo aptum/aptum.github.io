@@ -13,10 +13,11 @@
       "street": "Diksmuidelaan"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301"
       ], 
       "hnrlbls": [
         "100"
@@ -510,8 +511,8 @@
         "138A"
       ], 
       "housenumber": "138A", 
-      "lat": 51.196423302562, 
-      "lon": 4.443621298243, 
+      "lat": 51.196423302579, 
+      "lon": 4.443621271062, 
       "municipality": "Antwerpen", 
       "pcode": "2600", 
       "source": "manueleAanduidingVanGebouw", 
@@ -742,8 +743,10 @@
       "street": "Diksmuidelaan"
     }, 
     {
-      "busnrs": [
-        "1"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "154"
@@ -757,15 +760,15 @@
       "street": "Diksmuidelaan"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6", 
-        "7", 
-        "8"
+      "apptnrs": [
+        "001", 
+        "002", 
+        "101", 
+        "102", 
+        "103", 
+        "201", 
+        "202", 
+        "203"
       ], 
       "hnrlbls": [
         "156"
@@ -780,7 +783,9 @@
     }, 
     {
       "busnrs": [
-        "2"
+        "1", 
+        "2", 
+        "3"
       ], 
       "hnrlbls": [
         "157"
@@ -810,6 +815,12 @@
       "street": "Diksmuidelaan"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
         "16"
       ], 
@@ -987,9 +998,6 @@
       "street": "Diksmuidelaan"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
         "173"
       ], 
@@ -1006,8 +1014,8 @@
         "173B-173C"
       ], 
       "housenumber": "173B", 
-      "lat": 51.196158901937, 
-      "lon": 4.44306552573, 
+      "lat": 51.196158945999, 
+      "lon": 4.443065495759, 
       "municipality": "Antwerpen", 
       "pcode": "2600", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1018,8 +1026,8 @@
         "173B-173C"
       ], 
       "housenumber": "173C", 
-      "lat": 51.196158901937, 
-      "lon": 4.44306552573, 
+      "lat": 51.196158945999, 
+      "lon": 4.443065495759, 
       "municipality": "Antwerpen", 
       "pcode": "2600", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1257,8 +1265,8 @@
         "190"
       ], 
       "housenumber": "190", 
-      "lat": 51.194505924833, 
-      "lon": 4.445380771067, 
+      "lat": 51.194505910492, 
+      "lon": 4.4453807081, 
       "municipality": "Antwerpen", 
       "pcode": "2600", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1286,6 +1294,7 @@
       "busnrs": [
         "1", 
         "2", 
+        "3", 
         "4", 
         "5", 
         "6", 
@@ -1594,11 +1603,11 @@
         "215"
       ], 
       "housenumber": "215", 
-      "lat": 51.195201489397, 
-      "lon": 4.443916415408, 
+      "lat": 51.195251462358, 
+      "lon": 4.443921074395, 
       "municipality": "Antwerpen", 
       "pcode": "2600", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Diksmuidelaan"
     }, 
     {
@@ -1623,11 +1632,23 @@
         "217"
       ], 
       "housenumber": "217", 
-      "lat": 51.195143177354, 
-      "lon": 4.443880271026, 
+      "lat": 51.195219956403, 
+      "lon": 4.443993122425, 
       "municipality": "Antwerpen", 
       "pcode": "2600", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Diksmuidelaan"
+    }, 
+    {
+      "hnrlbls": [
+        "217A"
+      ], 
+      "housenumber": "217A", 
+      "lat": 51.195175884574, 
+      "lon": 4.444037111311, 
+      "municipality": "Antwerpen", 
+      "pcode": "2600", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Diksmuidelaan"
     }, 
     {
@@ -1783,9 +1804,15 @@
       "street": "Diksmuidelaan"
     }, 
     {
-      "busnrs": [
-        "3", 
-        "4"
+      "apptnrs": [
+        "001", 
+        "002", 
+        "101", 
+        "102", 
+        "103", 
+        "201", 
+        "202", 
+        "203"
       ], 
       "hnrlbls": [
         "232"
@@ -1799,10 +1826,6 @@
       "street": "Diksmuidelaan"
     }, 
     {
-      "busnrs": [
-        "2", 
-        "3"
-      ], 
       "hnrlbls": [
         "24-26"
       ], 
@@ -1898,21 +1921,6 @@
     }, 
     {
       "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "24A"
-      ], 
-      "housenumber": "24A", 
-      "lat": 51.200523894055, 
-      "lon": 4.439508640379, 
-      "municipality": "Antwerpen", 
-      "pcode": "2600", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Diksmuidelaan"
-    }, 
-    {
-      "busnrs": [
         "1", 
         "2", 
         "3", 
@@ -1964,8 +1972,8 @@
         "254"
       ], 
       "housenumber": "254", 
-      "lat": 51.19245642454, 
-      "lon": 4.447445894311, 
+      "lat": 51.192538007203, 
+      "lon": 4.447360920831, 
       "municipality": "Antwerpen", 
       "pcode": "2600", 
       "source": "afgeleidVanGebouw", 
@@ -2107,8 +2115,8 @@
         "264"
       ], 
       "housenumber": "264", 
-      "lat": 51.192229585712, 
-      "lon": 4.447838988404, 
+      "lat": 51.192229559917, 
+      "lon": 4.447839024893, 
       "municipality": "Antwerpen", 
       "pcode": "2600", 
       "source": "afgeleidVanGebouw", 
@@ -2261,37 +2269,6 @@
       "municipality": "Antwerpen", 
       "pcode": "2600", 
       "source": "afgeleidVanGebouw", 
-      "street": "Diksmuidelaan"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
-      "hnrlbls": [
-        "281A-281B"
-      ], 
-      "housenumber": "281A", 
-      "lat": 51.193199519656, 
-      "lon": 4.446033024384, 
-      "municipality": "Antwerpen", 
-      "pcode": "2600", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Diksmuidelaan"
-    }, 
-    {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "281A-281B"
-      ], 
-      "housenumber": "281B", 
-      "lat": 51.193199519656, 
-      "lon": 4.446033024384, 
-      "municipality": "Antwerpen", 
-      "pcode": "2600", 
-      "source": "manueleAanduidingVanGebouw", 
       "street": "Diksmuidelaan"
     }, 
     {
@@ -2527,12 +2504,16 @@
       "street": "Diksmuidelaan"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101"
+      ], 
       "hnrlbls": [
         "311"
       ], 
       "housenumber": "311", 
-      "lat": 51.19221220914, 
-      "lon": 4.447040661796, 
+      "lat": 51.192202052826, 
+      "lon": 4.44703964329, 
       "municipality": "Antwerpen", 
       "pcode": "2600", 
       "source": "afgeleidVanGebouw", 
@@ -2594,11 +2575,11 @@
         "318"
       ], 
       "housenumber": "318", 
-      "lat": 51.191283007386, 
-      "lon": 4.44872798605, 
+      "lat": 51.191254473007, 
+      "lon": 4.448656129663, 
       "municipality": "Antwerpen", 
       "pcode": "2600", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Diksmuidelaan"
     }, 
     {
@@ -2796,9 +2777,11 @@
       "street": "Diksmuidelaan"
     }, 
     {
-      "busnrs": [
-        "3", 
-        "4"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301"
       ], 
       "hnrlbls": [
         "33"
@@ -2944,6 +2927,11 @@
       "street": "Diksmuidelaan"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "345"
       ], 
@@ -2980,10 +2968,11 @@
       "street": "Diksmuidelaan"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "4"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301"
       ], 
       "hnrlbls": [
         "35"
@@ -3141,9 +3130,11 @@
       "street": "Diksmuidelaan"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301"
       ], 
       "hnrlbls": [
         "37"
@@ -3211,8 +3202,8 @@
         "41"
       ], 
       "housenumber": "41", 
-      "lat": 51.199526317412, 
-      "lon": 4.439388333726, 
+      "lat": 51.199526326386, 
+      "lon": 4.439388358061, 
       "municipality": "Antwerpen", 
       "pcode": "2600", 
       "source": "manueleAanduidingVanGebouw", 
@@ -3276,6 +3267,12 @@
       "street": "Diksmuidelaan"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4"
+      ], 
       "hnrlbls": [
         "46"
       ], 
@@ -3292,7 +3289,7 @@
         "4"
       ], 
       "hnrlbls": [
-        "47-49"
+        "47"
       ], 
       "housenumber": "47", 
       "lat": 51.199298281641, 
@@ -3304,8 +3301,10 @@
     }, 
     {
       "busnrs": [
+        "1", 
         "2", 
-        "3"
+        "3", 
+        "4"
       ], 
       "hnrlbls": [
         "48"
@@ -3320,11 +3319,11 @@
     }, 
     {
       "hnrlbls": [
-        "47-49"
+        "49"
       ], 
       "housenumber": "49", 
-      "lat": 51.199298281641, 
-      "lon": 4.439251523853, 
+      "lat": 51.199309384547, 
+      "lon": 4.439471434189, 
       "municipality": "Antwerpen", 
       "pcode": "2600", 
       "source": "afgeleidVanGebouw", 
@@ -3676,6 +3675,11 @@
       "street": "Diksmuidelaan"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "76"
       ], 

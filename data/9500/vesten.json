@@ -13,27 +13,19 @@
       "street": "Vesten"
     }, 
     {
-      "hnrlbls": [
-        "100-100B"
+      "busnrs": [
+        "B1", 
+        "B2"
       ], 
-      "housenumber": "100", 
-      "lat": 50.773652663335, 
-      "lon": 3.885998664837, 
+      "hnrlbls": [
+        "100A"
+      ], 
+      "housenumber": "100A", 
+      "lat": 50.773567814051, 
+      "lon": 3.886089703003, 
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Vesten"
-    }, 
-    {
-      "hnrlbls": [
-        "100-100B"
-      ], 
-      "housenumber": "100B", 
-      "lat": 50.773652663335, 
-      "lon": 3.885998664837, 
-      "municipality": "Geraardsbergen", 
-      "pcode": "9500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Vesten"
     }, 
     {
@@ -69,7 +61,7 @@
       "lon": 3.886102175716, 
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Vesten"
     }, 
     {
@@ -190,18 +182,6 @@
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
       "source": "afgeleidVanGebouw", 
-      "street": "Vesten"
-    }, 
-    {
-      "hnrlbls": [
-        "14"
-      ], 
-      "housenumber": "14", 
-      "lat": 50.771590372916, 
-      "lon": 3.884404312251, 
-      "municipality": "Geraardsbergen", 
-      "pcode": "9500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Vesten"
     }, 
     {
@@ -530,7 +510,7 @@
     }, 
     {
       "hnrlbls": [
-        "42-42B"
+        "42"
       ], 
       "housenumber": "42", 
       "lat": 50.772391402909, 
@@ -538,21 +518,6 @@
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
       "source": "afgeleidVanGebouw", 
-      "street": "Vesten"
-    }, 
-    {
-      "busnrs": [
-        "3"
-      ], 
-      "hnrlbls": [
-        "42-42B"
-      ], 
-      "housenumber": "42B", 
-      "lat": 50.772391402909, 
-      "lon": 3.884651415485, 
-      "municipality": "Geraardsbergen", 
-      "pcode": "9500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Vesten"
     }, 
     {
@@ -593,18 +558,6 @@
     }, 
     {
       "hnrlbls": [
-        "46"
-      ], 
-      "housenumber": "46", 
-      "lat": 50.772654396678, 
-      "lon": 3.884900645948, 
-      "municipality": "Geraardsbergen", 
-      "pcode": "9500", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Vesten"
-    }, 
-    {
-      "hnrlbls": [
         "47"
       ], 
       "housenumber": "47", 
@@ -620,11 +573,11 @@
         "48"
       ], 
       "housenumber": "48", 
-      "lat": 50.772690568392, 
-      "lon": 3.884908497595, 
+      "lat": 50.772654396678, 
+      "lon": 3.884900645948, 
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Vesten"
     }, 
     {
@@ -1048,11 +1001,8 @@
       "street": "Vesten"
     }, 
     {
-      "busnrs": [
-        "83"
-      ], 
       "hnrlbls": [
-        "81-83"
+        "81"
       ], 
       "housenumber": "81", 
       "lat": 50.773692624115, 
@@ -1076,18 +1026,6 @@
     }, 
     {
       "hnrlbls": [
-        "81-83"
-      ], 
-      "housenumber": "83", 
-      "lat": 50.773692624115, 
-      "lon": 3.886884073108, 
-      "municipality": "Geraardsbergen", 
-      "pcode": "9500", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Vesten"
-    }, 
-    {
-      "hnrlbls": [
         "84"
       ], 
       "housenumber": "84", 
@@ -1100,10 +1038,11 @@
     }, 
     {
       "busnrs": [
+        "1", 
         "2"
       ], 
       "hnrlbls": [
-        "86-86B"
+        "86"
       ], 
       "housenumber": "86", 
       "lat": 50.773304243543, 
@@ -1115,35 +1054,7 @@
     }, 
     {
       "hnrlbls": [
-        "86-86B"
-      ], 
-      "housenumber": "86A", 
-      "lat": 50.773304243543, 
-      "lon": 3.885656159501, 
-      "municipality": "Geraardsbergen", 
-      "pcode": "9500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Vesten"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
-      "hnrlbls": [
-        "86-86B"
-      ], 
-      "housenumber": "86B", 
-      "lat": 50.773304243543, 
-      "lon": 3.885656159501, 
-      "municipality": "Geraardsbergen", 
-      "pcode": "9500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Vesten"
-    }, 
-    {
-      "hnrlbls": [
-        "88-90B"
+        "88-90"
       ], 
       "housenumber": "88", 
       "lat": 50.773370604273, 
@@ -1168,22 +1079,6 @@
     {
       "busnrs": [
         "1", 
-        "6"
-      ], 
-      "hnrlbls": [
-        "88-90B"
-      ], 
-      "housenumber": "90", 
-      "lat": 50.773370604273, 
-      "lon": 3.88572537473, 
-      "municipality": "Geraardsbergen", 
-      "pcode": "9500", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Vesten"
-    }, 
-    {
-      "busnrs": [
-        "1", 
         "2", 
         "3", 
         "4", 
@@ -1191,14 +1086,14 @@
         "6"
       ], 
       "hnrlbls": [
-        "88-90B"
+        "88-90"
       ], 
-      "housenumber": "90B", 
+      "housenumber": "90", 
       "lat": 50.773370604273, 
       "lon": 3.88572537473, 
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Vesten"
     }, 
     {
@@ -1242,8 +1137,8 @@
         "98"
       ], 
       "housenumber": "98", 
-      "lat": 50.773664304756, 
-      "lon": 3.885878461303, 
+      "lat": 50.773603467447, 
+      "lon": 3.885971664027, 
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
       "source": "afgeleidVanGebouw", 

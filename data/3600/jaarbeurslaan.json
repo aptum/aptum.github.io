@@ -2,16 +2,19 @@
   "addresses": [
     {
       "busnrs": [
-        "1", 
-        "11", 
-        "12", 
-        "21", 
-        "22", 
-        "32", 
-        "42", 
-        "51", 
-        "52", 
-        "71"
+        "BU01", 
+        "BU02", 
+        "BU11", 
+        "BU12", 
+        "BU21", 
+        "BU31", 
+        "BU32", 
+        "BU41", 
+        "BU51", 
+        "BU52", 
+        "BU61", 
+        "BU62", 
+        "BU71"
       ], 
       "hnrlbls": [
         "17"
@@ -25,6 +28,15 @@
       "street": "Jaarbeurslaan"
     }, 
     {
+      "busnrs": [
+        "BU01", 
+        "BU02", 
+        "BU11", 
+        "BU12", 
+        "BU21", 
+        "BU22", 
+        "BU31"
+      ], 
       "hnrlbls": [
         "19"
       ], 
@@ -41,8 +53,8 @@
         "2"
       ], 
       "housenumber": "2", 
-      "lat": 50.964588107042, 
-      "lon": 5.48535234176, 
+      "lat": 50.964790244701, 
+      "lon": 5.485320000993, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanPerceelGrb", 
@@ -50,18 +62,22 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "2", 
-        "32", 
-        "41", 
-        "42"
+        "BU01", 
+        "BU02", 
+        "BU12", 
+        "BU21", 
+        "BU22", 
+        "BU31", 
+        "BU32", 
+        "BU41", 
+        "BU42"
       ], 
       "hnrlbls": [
         "21-23"
       ], 
       "housenumber": "21", 
-      "lat": 50.964054842104, 
-      "lon": 5.485150004065, 
+      "lat": 50.964022881216, 
+      "lon": 5.485173729305, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
@@ -69,24 +85,29 @@
     }, 
     {
       "busnrs": [
-        "11", 
-        "2", 
-        "21", 
-        "31", 
-        "41"
+        "BU01", 
+        "BU11", 
+        "BU21", 
+        "BU31", 
+        "BU41"
       ], 
       "hnrlbls": [
         "21-23"
       ], 
       "housenumber": "23", 
-      "lat": 50.964054842104, 
-      "lon": 5.485150004065, 
+      "lat": 50.964022881216, 
+      "lon": 5.485173729305, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
       "street": "Jaarbeurslaan"
     }, 
     {
+      "busnrs": [
+        "BU01", 
+        "BU11", 
+        "BU21"
+      ], 
       "hnrlbls": [
         "25"
       ], 
@@ -100,30 +121,26 @@
     }, 
     {
       "hnrlbls": [
-        "27-29"
+        "27"
       ], 
       "housenumber": "27", 
-      "lat": 50.963851732241, 
-      "lon": 5.483637243427, 
+      "lat": 50.964030517183, 
+      "lon": 5.483924660746, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Jaarbeurslaan"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "11"
-      ], 
       "hnrlbls": [
-        "27-29"
+        "29"
       ], 
       "housenumber": "29", 
-      "lat": 50.963851732241, 
-      "lon": 5.483637243427, 
+      "lat": 50.964019765901, 
+      "lon": 5.483465990627, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Jaarbeurslaan"
     }, 
     {
@@ -131,16 +148,16 @@
         "4"
       ], 
       "housenumber": "4", 
-      "lat": 50.964909448105, 
-      "lon": 5.485235570363, 
+      "lat": 50.964551927578, 
+      "lon": 5.485488863106, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Jaarbeurslaan"
     }, 
     {
       "hnrlbls": [
-        "6-6B"
+        "6"
       ], 
       "housenumber": "6", 
       "lat": 50.96519539734, 
@@ -152,26 +169,14 @@
     }, 
     {
       "hnrlbls": [
-        "6-6B"
-      ], 
-      "housenumber": "6B", 
-      "lat": 50.96519539734, 
-      "lon": 5.486571961613, 
-      "municipality": "Genk", 
-      "pcode": "3600", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Jaarbeurslaan"
-    }, 
-    {
-      "hnrlbls": [
         "8"
       ], 
       "housenumber": "8", 
-      "lat": 50.964339069691, 
-      "lon": 5.484170039596, 
+      "lat": 50.965194519952, 
+      "lon": 5.485255318621, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "geinterpoleerdObvWegverbinding", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Jaarbeurslaan"
     }
   ]

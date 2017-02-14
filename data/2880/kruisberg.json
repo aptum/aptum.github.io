@@ -1,6 +1,10 @@
 {
   "addresses": [
     {
+      "apptnrs": [
+        "0001", 
+        "0101"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -10,30 +14,6 @@
       "municipality": "Bornem", 
       "pcode": "2880", 
       "source": "afgeleidVanGebouw", 
-      "street": "Kruisberg"
-    }, 
-    {
-      "hnrlbls": [
-        "1A-1B"
-      ], 
-      "housenumber": "1A", 
-      "lat": 51.095181476816, 
-      "lon": 4.233009571146, 
-      "municipality": "Bornem", 
-      "pcode": "2880", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Kruisberg"
-    }, 
-    {
-      "hnrlbls": [
-        "1A-1B"
-      ], 
-      "housenumber": "1B", 
-      "lat": 51.095181476816, 
-      "lon": 4.233009571146, 
-      "municipality": "Bornem", 
-      "pcode": "2880", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Kruisberg"
     }, 
     {
@@ -73,12 +53,16 @@
       "street": "Kruisberg"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
+        "A001", 
+        "A002", 
         "AGVL", 
+        "B001", 
+        "B002", 
         "BGVL"
       ], 
       "hnrlbls": [
-        "7-7B"
+        "7"
       ], 
       "housenumber": "7", 
       "lat": 51.095406210565, 
@@ -86,38 +70,6 @@
       "municipality": "Bornem", 
       "pcode": "2880", 
       "source": "afgeleidVanGebouw", 
-      "street": "Kruisberg"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
-      "hnrlbls": [
-        "7-7B"
-      ], 
-      "housenumber": "7A", 
-      "lat": 51.095406210565, 
-      "lon": 4.232629210061, 
-      "municipality": "Bornem", 
-      "pcode": "2880", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Kruisberg"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
-      "hnrlbls": [
-        "7-7B"
-      ], 
-      "housenumber": "7B", 
-      "lat": 51.095406210565, 
-      "lon": 4.232629210061, 
-      "municipality": "Bornem", 
-      "pcode": "2880", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Kruisberg"
     }
   ]

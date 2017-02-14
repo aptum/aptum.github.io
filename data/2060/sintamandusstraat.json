@@ -13,6 +13,11 @@
       "street": "Sint-Amandusstraat"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3"
+      ], 
       "hnrlbls": [
         "11"
       ], 
@@ -77,14 +82,14 @@
     }, 
     {
       "hnrlbls": [
-        "1A"
+        "1A-44"
       ], 
       "housenumber": "1A", 
-      "lat": 51.226873121683, 
-      "lon": 4.42397970617, 
+      "lat": 51.226934575265, 
+      "lon": 4.423922416267, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Sint-Amandusstraat"
     }, 
     {
@@ -143,8 +148,9 @@
       "street": "Sint-Amandusstraat"
     }, 
     {
-      "busnrs": [
-        "1"
+      "apptnrs": [
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "7"

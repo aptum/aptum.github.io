@@ -33,39 +33,30 @@
       "street": "Stuiverstraat"
     }, 
     {
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "108"
       ], 
       "housenumber": "108", 
-      "lat": 51.218637348888, 
-      "lon": 2.903458436388, 
+      "lat": 51.218286833358, 
+      "lon": 2.903502801521, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Stuiverstraat"
     }, 
     {
       "hnrlbls": [
-        "108A-108B"
+        "108A"
       ], 
       "housenumber": "108A", 
-      "lat": 51.218723814614, 
-      "lon": 2.903021534189, 
+      "lat": 51.218304204995, 
+      "lon": 2.903468185509, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Stuiverstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "108A-108B"
-      ], 
-      "housenumber": "108B", 
-      "lat": 51.218723814614, 
-      "lon": 2.903021534189, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Stuiverstraat"
     }, 
     {
@@ -98,18 +89,6 @@
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
-      "street": "Stuiverstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "136"
-      ], 
-      "housenumber": "136", 
-      "lat": 51.217707485897, 
-      "lon": 2.904480969067, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Stuiverstraat"
     }, 
     {
@@ -242,11 +221,11 @@
         "149"
       ], 
       "housenumber": "149", 
-      "lat": 51.216172334617, 
-      "lon": 2.906108916291, 
+      "lat": 51.216240173579, 
+      "lon": 2.906178648676, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Stuiverstraat"
     }, 
     {
@@ -317,11 +296,11 @@
         "154"
       ], 
       "housenumber": "154", 
-      "lat": 51.216523902469, 
-      "lon": 2.906353124416, 
+      "lat": 51.216485998046, 
+      "lon": 2.906283168624, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Stuiverstraat"
     }, 
     {
@@ -343,6 +322,18 @@
     }, 
     {
       "hnrlbls": [
+        "156"
+      ], 
+      "housenumber": "156", 
+      "lat": 51.216436967753, 
+      "lon": 2.906316770651, 
+      "municipality": "Oostende", 
+      "pcode": "8400", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Stuiverstraat"
+    }, 
+    {
+      "hnrlbls": [
         "157"
       ], 
       "housenumber": "157", 
@@ -358,11 +349,11 @@
         "158"
       ], 
       "housenumber": "158", 
-      "lat": 51.216447460088, 
-      "lon": 2.906438259719, 
+      "lat": 51.216416706856, 
+      "lon": 2.906379531537, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Stuiverstraat"
     }, 
     {
@@ -398,11 +389,11 @@
         "160"
       ], 
       "housenumber": "160", 
-      "lat": 51.216407995941, 
-      "lon": 2.906467553579, 
+      "lat": 51.216383331748, 
+      "lon": 2.906428675085, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Stuiverstraat"
     }, 
     {
@@ -474,7 +465,8 @@
         "101", 
         "2", 
         "201", 
-        "3"
+        "3", 
+        "301"
       ], 
       "hnrlbls": [
         "168"
@@ -500,6 +492,11 @@
       "street": "Stuiverstraat"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
         "17"
       ], 
@@ -588,6 +585,10 @@
     }, 
     {
       "busnrs": [
+        "102", 
+        "103", 
+        "104", 
+        "105", 
         "6"
       ], 
       "hnrlbls": [
@@ -640,6 +641,7 @@
     {
       "busnrs": [
         "1", 
+        "101", 
         "2", 
         "201", 
         "3"
@@ -684,11 +686,11 @@
         "182"
       ], 
       "housenumber": "182", 
-      "lat": 51.215648767371, 
-      "lon": 2.907594137006, 
+      "lat": 51.215651482527, 
+      "lon": 2.907544667144, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Stuiverstraat"
     }, 
     {
@@ -708,11 +710,11 @@
         "184"
       ], 
       "housenumber": "184", 
-      "lat": 51.215633774336, 
-      "lon": 2.90765401152, 
+      "lat": 51.215614283025, 
+      "lon": 2.907589920784, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Stuiverstraat"
     }, 
     {
@@ -821,8 +823,8 @@
         "192"
       ], 
       "housenumber": "192", 
-      "lat": 51.215492506901, 
-      "lon": 2.90782605761, 
+      "lat": 51.21549935649, 
+      "lon": 2.907834718025, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -924,11 +926,11 @@
         "2"
       ], 
       "housenumber": "2", 
-      "lat": 51.201642977283, 
-      "lon": 2.929545780199, 
+      "lat": 51.220351157192, 
+      "lon": 2.90029203504, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Stuiverstraat"
     }, 
     {
@@ -948,11 +950,11 @@
         "200"
       ], 
       "housenumber": "200", 
-      "lat": 51.215103841178, 
-      "lon": 2.908508566551, 
+      "lat": 51.215065160771, 
+      "lon": 2.908433911763, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Stuiverstraat"
     }, 
     {
@@ -972,11 +974,11 @@
         "202"
       ], 
       "housenumber": "202", 
-      "lat": 51.215039428287, 
-      "lon": 2.90846864205, 
+      "lat": 51.215032746109, 
+      "lon": 2.908458974391, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Stuiverstraat"
     }, 
     {
@@ -996,11 +998,11 @@
         "204"
       ], 
       "housenumber": "204", 
-      "lat": 51.215075001214, 
-      "lon": 2.908626559939, 
+      "lat": 51.214997150657, 
+      "lon": 2.908532232382, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Stuiverstraat"
     }, 
     {
@@ -1063,6 +1065,7 @@
         "1", 
         "101", 
         "2", 
+        "201", 
         "3"
       ], 
       "hnrlbls": [
@@ -1078,6 +1081,7 @@
     }, 
     {
       "busnrs": [
+        "201", 
         "6"
       ], 
       "hnrlbls": [
@@ -1102,11 +1106,11 @@
         "210"
       ], 
       "housenumber": "210", 
-      "lat": 51.214943438157, 
-      "lon": 2.908805597523, 
+      "lat": 51.214893866397, 
+      "lon": 2.908729852198, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Stuiverstraat"
     }, 
     {
@@ -1147,18 +1151,6 @@
     }, 
     {
       "hnrlbls": [
-        "215"
-      ], 
-      "housenumber": "215", 
-      "lat": 51.214373560534, 
-      "lon": 2.908973729352, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Stuiverstraat"
-    }, 
-    {
-      "hnrlbls": [
         "219"
       ], 
       "housenumber": "219", 
@@ -1186,8 +1178,8 @@
         "22"
       ], 
       "housenumber": "22", 
-      "lat": 51.219911497827, 
-      "lon": 2.901078212196, 
+      "lat": 51.219906216325, 
+      "lon": 2.901072795226, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -1258,8 +1250,8 @@
         "228"
       ], 
       "housenumber": "228", 
-      "lat": 51.213910116628, 
-      "lon": 2.910248712893, 
+      "lat": 51.213905487412, 
+      "lon": 2.910237835922, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -1291,32 +1283,18 @@
     }, 
     {
       "busnrs": [
-        "101"
+        "101", 
+        "A"
       ], 
       "hnrlbls": [
-        "230-230A"
+        "230"
       ], 
       "housenumber": "230", 
-      "lat": 51.213878912814, 
-      "lon": 2.910313671512, 
+      "lat": 51.213880803546, 
+      "lon": 2.910313898681, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
-      "street": "Stuiverstraat"
-    }, 
-    {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "230-230A"
-      ], 
-      "housenumber": "230A", 
-      "lat": 51.213878912814, 
-      "lon": 2.910313671512, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Stuiverstraat"
     }, 
     {
@@ -1336,6 +1314,9 @@
       "street": "Stuiverstraat"
     }, 
     {
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "232"
       ], 
@@ -1412,62 +1393,50 @@
     }, 
     {
       "hnrlbls": [
-        "239-239D"
-      ], 
-      "housenumber": "239", 
-      "lat": 51.213596031263, 
-      "lon": 2.910112674725, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Stuiverstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "239-239D"
+        "239A"
       ], 
       "housenumber": "239A", 
-      "lat": 51.213596031263, 
-      "lon": 2.910112674725, 
+      "lat": 51.213658036238, 
+      "lon": 2.910132349907, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Stuiverstraat"
     }, 
     {
       "hnrlbls": [
-        "239-239D"
+        "239B"
       ], 
       "housenumber": "239B", 
-      "lat": 51.213596031263, 
-      "lon": 2.910112674725, 
+      "lat": 51.213640569088, 
+      "lon": 2.910159376592, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Stuiverstraat"
     }, 
     {
       "hnrlbls": [
-        "239-239D"
+        "239C"
       ], 
       "housenumber": "239C", 
-      "lat": 51.213596031263, 
-      "lon": 2.910112674725, 
+      "lat": 51.213605546667, 
+      "lon": 2.910213575792, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Stuiverstraat"
     }, 
     {
       "hnrlbls": [
-        "239-239D"
+        "239D"
       ], 
       "housenumber": "239D", 
-      "lat": 51.213596031263, 
-      "lon": 2.910112674725, 
+      "lat": 51.213589110254, 
+      "lon": 2.910236705465, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Stuiverstraat"
     }, 
     {
@@ -1520,14 +1489,14 @@
     }, 
     {
       "hnrlbls": [
-        "24-261"
+        "243"
       ], 
       "housenumber": "243", 
-      "lat": 51.212805730308, 
-      "lon": 2.910347793553, 
+      "lat": 51.213461717315, 
+      "lon": 2.910309394287, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Stuiverstraat"
     }, 
     {
@@ -1603,8 +1572,8 @@
         "249"
       ], 
       "housenumber": "249", 
-      "lat": 51.213369216886, 
-      "lon": 2.910463152752, 
+      "lat": 51.213366006266, 
+      "lon": 2.910457957033, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -1768,14 +1737,14 @@
     }, 
     {
       "hnrlbls": [
-        "24-261"
+        "261"
       ], 
       "housenumber": "261", 
-      "lat": 51.212805730308, 
-      "lon": 2.910347793553, 
+      "lat": 51.213174203252, 
+      "lon": 2.910775274853, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Stuiverstraat"
     }, 
     {
@@ -1831,8 +1800,8 @@
         "266"
       ], 
       "housenumber": "266", 
-      "lat": 51.212958794197, 
-      "lon": 2.911766925571, 
+      "lat": 51.212961669972, 
+      "lon": 2.911774135694, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -1906,8 +1875,8 @@
         "271"
       ], 
       "housenumber": "271", 
-      "lat": 51.212978612071, 
-      "lon": 2.91104060687, 
+      "lat": 51.212975325718, 
+      "lon": 2.911036558611, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -1942,8 +1911,8 @@
         "273"
       ], 
       "housenumber": "273", 
-      "lat": 51.212929518863, 
-      "lon": 2.911091093327, 
+      "lat": 51.212933816676, 
+      "lon": 2.911096970751, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -1966,8 +1935,8 @@
         "275"
       ], 
       "housenumber": "275", 
-      "lat": 51.212885400054, 
-      "lon": 2.911144000701, 
+      "lat": 51.212879676644, 
+      "lon": 2.911131869848, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -1990,8 +1959,8 @@
         "277"
       ], 
       "housenumber": "277", 
-      "lat": 51.212885929789, 
-      "lon": 2.911292753565, 
+      "lat": 51.212885884269, 
+      "lon": 2.911292703641, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanPerceel", 
@@ -2018,26 +1987,14 @@
         "3"
       ], 
       "hnrlbls": [
-        "279-279C"
+        "279"
       ], 
       "housenumber": "279", 
-      "lat": 51.212812526525, 
-      "lon": 2.911300148267, 
+      "lat": 51.212838366358, 
+      "lon": 2.911354305095, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Stuiverstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "279-279C"
-      ], 
-      "housenumber": "279C", 
-      "lat": 51.212812526525, 
-      "lon": 2.911300148267, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Stuiverstraat"
     }, 
     {
@@ -2050,11 +2007,11 @@
         "28"
       ], 
       "housenumber": "28", 
-      "lat": 51.219768852595, 
-      "lon": 2.901297865862, 
+      "lat": 51.21974652326, 
+      "lon": 2.901258913792, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Stuiverstraat"
     }, 
     {
@@ -2092,8 +2049,8 @@
         "282"
       ], 
       "housenumber": "282", 
-      "lat": 51.21256069048, 
-      "lon": 2.912429476483, 
+      "lat": 51.212564997031, 
+      "lon": 2.912443369254, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -2152,11 +2109,11 @@
         "287"
       ], 
       "housenumber": "287", 
-      "lat": 51.212575816503, 
-      "lon": 2.911438797801, 
+      "lat": 51.212651747736, 
+      "lon": 2.911545351671, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Stuiverstraat"
     }, 
     {
@@ -2184,27 +2141,12 @@
       "street": "Stuiverstraat"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "28B"
-      ], 
-      "housenumber": "28B", 
-      "lat": 51.219768413916, 
-      "lon": 2.901298738606, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Stuiverstraat"
-    }, 
-    {
       "hnrlbls": [
         "29"
       ], 
       "housenumber": "29", 
-      "lat": 51.219589729192, 
-      "lon": 2.900946897612, 
+      "lat": 51.219573767455, 
+      "lon": 2.900921202209, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -2300,42 +2242,20 @@
       "street": "Stuiverstraat"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "A", 
+        "B"
+      ], 
       "hnrlbls": [
         "299"
       ], 
       "housenumber": "299", 
-      "lat": 51.212423745249, 
-      "lon": 2.912004062152, 
+      "lat": 51.212389315768, 
+      "lon": 2.912048077483, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
-      "street": "Stuiverstraat"
-    }, 
-    {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "299A-299B"
-      ], 
-      "housenumber": "299A", 
-      "lat": 51.212330898449, 
-      "lon": 2.911940117705, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Stuiverstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "299A-299B"
-      ], 
-      "housenumber": "299B", 
-      "lat": 51.212330898449, 
-      "lon": 2.911940117705, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Stuiverstraat"
     }, 
     {
@@ -2477,6 +2397,7 @@
     {
       "busnrs": [
         "1", 
+        "101", 
         "2", 
         "3", 
         "301"
@@ -2518,7 +2439,8 @@
     }, 
     {
       "busnrs": [
-        "1"
+        "1", 
+        "101"
       ], 
       "hnrlbls": [
         "318"
@@ -2536,11 +2458,11 @@
         "32"
       ], 
       "housenumber": "32", 
-      "lat": 51.219781110637, 
-      "lon": 2.901517799328, 
+      "lat": 51.219692527573, 
+      "lon": 2.901392173853, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Stuiverstraat"
     }, 
     {
@@ -2565,11 +2487,11 @@
         "321"
       ], 
       "housenumber": "321", 
-      "lat": 51.211718908877, 
-      "lon": 2.91298892037, 
+      "lat": 51.211757352388, 
+      "lon": 2.913015345318, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Stuiverstraat"
     }, 
     {
@@ -2593,14 +2515,14 @@
         "4"
       ], 
       "hnrlbls": [
-        "1-323"
+        "323"
       ], 
       "housenumber": "323", 
-      "lat": 51.211616243039, 
-      "lon": 2.913120513133, 
+      "lat": 51.211654519014, 
+      "lon": 2.913162544736, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Stuiverstraat"
     }, 
     {
@@ -2620,11 +2542,11 @@
         "327"
       ], 
       "housenumber": "327", 
-      "lat": 51.2114715025, 
-      "lon": 2.91336892495, 
+      "lat": 51.211581269349, 
+      "lon": 2.91330295219, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Stuiverstraat"
     }, 
     {
@@ -2791,14 +2713,14 @@
     }, 
     {
       "hnrlbls": [
-        "357-361"
+        "357"
       ], 
       "housenumber": "357", 
-      "lat": 51.210783285232, 
-      "lon": 2.913586337653, 
+      "lat": 51.210792125852, 
+      "lon": 2.913727616746, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Stuiverstraat"
     }, 
     {
@@ -2811,18 +2733,6 @@
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
-      "street": "Stuiverstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "357-361"
-      ], 
-      "housenumber": "359", 
-      "lat": 51.210783285232, 
-      "lon": 2.913586337653, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
       "street": "Stuiverstraat"
     }, 
     {
@@ -2847,18 +2757,6 @@
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
-      "street": "Stuiverstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "357-361"
-      ], 
-      "housenumber": "361", 
-      "lat": 51.210783285232, 
-      "lon": 2.913586337653, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "afgeleidVanPerceelGrb", 
       "street": "Stuiverstraat"
     }, 
     {
@@ -2938,11 +2836,11 @@
         "369"
       ], 
       "housenumber": "369", 
-      "lat": 51.210862875603, 
-      "lon": 2.914246258368, 
+      "lat": 51.210892786398, 
+      "lon": 2.914295278078, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Stuiverstraat"
     }, 
     {
@@ -2974,26 +2872,14 @@
         "101"
       ], 
       "hnrlbls": [
-        "371-371B"
+        "371"
       ], 
       "housenumber": "371", 
-      "lat": 51.210744016273, 
-      "lon": 2.914172387953, 
+      "lat": 51.210847994694, 
+      "lon": 2.914352065535, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Stuiverstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "371-371B"
-      ], 
-      "housenumber": "371B", 
-      "lat": 51.210744016273, 
-      "lon": 2.914172387953, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Stuiverstraat"
     }, 
     {
@@ -3013,11 +2899,11 @@
         "373"
       ], 
       "housenumber": "373", 
-      "lat": 51.210749339575, 
-      "lon": 2.914385913732, 
+      "lat": 51.210783043953, 
+      "lon": 2.914443689167, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Stuiverstraat"
     }, 
     {
@@ -3037,11 +2923,11 @@
         "375"
       ], 
       "housenumber": "375", 
-      "lat": 51.209538429249, 
-      "lon": 2.916168358332, 
+      "lat": 51.209645843713, 
+      "lon": 2.916042498543, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Stuiverstraat"
     }, 
     {
@@ -3071,6 +2957,7 @@
     {
       "busnrs": [
         "1", 
+        "101", 
         "2", 
         "201", 
         "3"
@@ -3079,8 +2966,8 @@
         "378"
       ], 
       "housenumber": "378", 
-      "lat": 51.210782501742, 
-      "lon": 2.915101527795, 
+      "lat": 51.21078521534, 
+      "lon": 2.915102874537, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -3250,11 +3137,11 @@
         "4"
       ], 
       "housenumber": "4", 
-      "lat": 51.201724267382, 
-      "lon": 2.929407041078, 
+      "lat": 51.220324307303, 
+      "lon": 2.900352434475, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Stuiverstraat"
     }, 
     {
@@ -3262,8 +3149,8 @@
         "40"
       ], 
       "housenumber": "40", 
-      "lat": 51.219565623434, 
-      "lon": 2.901641536456, 
+      "lat": 51.219567803303, 
+      "lon": 2.901643328931, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -3310,8 +3197,8 @@
         "404"
       ], 
       "housenumber": "404", 
-      "lat": 51.210531206813, 
-      "lon": 2.915472903617, 
+      "lat": 51.210538820506, 
+      "lon": 2.915485261755, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -3327,18 +3214,6 @@
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
-      "street": "Stuiverstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "406"
-      ], 
-      "housenumber": "406", 
-      "lat": 51.210511458142, 
-      "lon": 2.915504577624, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Stuiverstraat"
     }, 
     {
@@ -3442,8 +3317,8 @@
         "414"
       ], 
       "housenumber": "414", 
-      "lat": 51.210406681478, 
-      "lon": 2.915896290659, 
+      "lat": 51.210405234596, 
+      "lon": 2.915902919603, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -3487,6 +3362,7 @@
     }, 
     {
       "busnrs": [
+        "101", 
         "201"
       ], 
       "hnrlbls": [
@@ -3545,8 +3421,8 @@
         "424"
       ], 
       "housenumber": "424", 
-      "lat": 51.210103073831, 
-      "lon": 2.916539511579, 
+      "lat": 51.210101135669, 
+      "lon": 2.916535421224, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -3600,11 +3476,11 @@
         "43"
       ], 
       "housenumber": "43", 
-      "lat": 51.21929719706, 
-      "lon": 2.901259020492, 
+      "lat": 51.219344463626, 
+      "lon": 2.901336985033, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Stuiverstraat"
     }, 
     {
@@ -3834,8 +3710,8 @@
         "456"
       ], 
       "housenumber": "456", 
-      "lat": 51.209059883474, 
-      "lon": 2.917676754177, 
+      "lat": 51.209061920242, 
+      "lon": 2.91768155704, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -4014,11 +3890,11 @@
         "49"
       ], 
       "housenumber": "49", 
-      "lat": 51.219191390205, 
-      "lon": 2.901426262258, 
+      "lat": 51.219264080874, 
+      "lon": 2.901531771904, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Stuiverstraat"
     }, 
     {
@@ -4155,11 +4031,11 @@
         "51"
       ], 
       "housenumber": "51", 
-      "lat": 51.219145279474, 
-      "lon": 2.901499433583, 
+      "lat": 51.219217551586, 
+      "lon": 2.90161469098, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Stuiverstraat"
     }, 
     {
@@ -4239,20 +4115,8 @@
         "529"
       ], 
       "housenumber": "529", 
-      "lat": 51.20249167008, 
-      "lon": 2.926721793154, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Stuiverstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "53-57"
-      ], 
-      "housenumber": "53", 
-      "lat": 51.219135997015, 
-      "lon": 2.901657053265, 
+      "lat": 51.202544868825, 
+      "lon": 2.926815742273, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -4332,6 +4196,7 @@
     }, 
     {
       "busnrs": [
+        "1", 
         "102", 
         "1R"
       ], 
@@ -4372,20 +4237,26 @@
         "17", 
         "18", 
         "2", 
+        "201", 
+        "204", 
+        "3", 
+        "303", 
+        "3A", 
         "5", 
         "6", 
         "8", 
-        "9"
+        "9", 
+        "O"
       ], 
       "hnrlbls": [
-        "53-57"
+        "55"
       ], 
       "housenumber": "55", 
-      "lat": 51.219135997015, 
-      "lon": 2.901657053265, 
+      "lat": 51.219168978577, 
+      "lon": 2.901721294809, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Stuiverstraat"
     }, 
     {
@@ -4438,33 +4309,6 @@
     }, 
     {
       "hnrlbls": [
-        "53-57"
-      ], 
-      "housenumber": "55O", 
-      "lat": 51.219135997015, 
-      "lon": 2.901657053265, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Stuiverstraat"
-    }, 
-    {
-      "busnrs": [
-        "A"
-      ], 
-      "hnrlbls": [
-        "53-57"
-      ], 
-      "housenumber": "55_3", 
-      "lat": 51.219135997015, 
-      "lon": 2.901657053265, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Stuiverstraat"
-    }, 
-    {
-      "hnrlbls": [
         "56"
       ], 
       "housenumber": "56", 
@@ -4504,8 +4348,8 @@
         "566"
       ], 
       "housenumber": "566", 
-      "lat": 51.204497346302, 
-      "lon": 2.924878096454, 
+      "lat": 51.204498775447, 
+      "lon": 2.924877336683, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -4517,14 +4361,14 @@
         "3"
       ], 
       "hnrlbls": [
-        "53-57"
+        "57"
       ], 
       "housenumber": "57", 
-      "lat": 51.219135997015, 
-      "lon": 2.901657053265, 
+      "lat": 51.219101830873, 
+      "lon": 2.901823472119, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Stuiverstraat"
     }, 
     {
@@ -4556,11 +4400,11 @@
         "58"
       ], 
       "housenumber": "58", 
-      "lat": 51.219390902693, 
-      "lon": 2.90217456202, 
+      "lat": 51.219301403772, 
+      "lon": 2.902025773927, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Stuiverstraat"
     }, 
     {
@@ -4568,23 +4412,11 @@
         "59"
       ], 
       "housenumber": "59", 
-      "lat": 51.218986972838, 
-      "lon": 2.901768390688, 
+      "lat": 51.219053074563, 
+      "lon": 2.901871817117, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Stuiverstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "590"
-      ], 
-      "housenumber": "590", 
-      "lat": 51.202889148103, 
-      "lon": 2.927424173759, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Stuiverstraat"
     }, 
     {
@@ -4592,8 +4424,8 @@
         "599"
       ], 
       "housenumber": "599", 
-      "lat": 51.19979186138, 
-      "lon": 2.928759467881, 
+      "lat": 51.199722443822, 
+      "lon": 2.928691922781, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -4604,11 +4436,11 @@
         "6"
       ], 
       "housenumber": "6", 
-      "lat": 51.201797831475, 
-      "lon": 2.92929830482, 
+      "lat": 51.220290707052, 
+      "lon": 2.900397728333, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Stuiverstraat"
     }, 
     {
@@ -4616,8 +4448,8 @@
         "60"
       ], 
       "housenumber": "60", 
-      "lat": 51.2192621082, 
-      "lon": 2.902075825624, 
+      "lat": 51.219265671549, 
+      "lon": 2.902080437721, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -4726,6 +4558,7 @@
         "201", 
         "3", 
         "4", 
+        "401", 
         "5"
       ], 
       "hnrlbls": [
@@ -4931,11 +4764,11 @@
         "81"
       ], 
       "housenumber": "81", 
-      "lat": 51.217548270242, 
-      "lon": 2.903435672667, 
+      "lat": 51.217712619667, 
+      "lon": 2.903879144871, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Stuiverstraat"
     }, 
     {
@@ -4979,8 +4812,8 @@
         "85"
       ], 
       "housenumber": "85", 
-      "lat": 51.217420021794, 
-      "lon": 2.90427369298, 
+      "lat": 51.217424445738, 
+      "lon": 2.90428973004, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -5003,6 +4836,8 @@
     }, 
     {
       "busnrs": [
+        "1", 
+        "101", 
         "2", 
         "203", 
         "3", 

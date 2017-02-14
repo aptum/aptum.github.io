@@ -1,12 +1,18 @@
 {
   "addresses": [
     {
-      "busnrs": [
-        "104", 
-        "201", 
-        "202", 
-        "203", 
-        "204"
+      "apptnrs": [
+        "0101", 
+        "0102", 
+        "0103", 
+        "0104", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0204", 
+        "G001", 
+        "G002", 
+        "G003"
       ], 
       "hnrlbls": [
         "1"
@@ -16,23 +22,7 @@
       "lon": 2.587065262362, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Wilgenpad"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "3"
-      ], 
-      "hnrlbls": [
-        "1G"
-      ], 
-      "housenumber": "1G", 
-      "lat": 51.096642508625, 
-      "lon": 2.587000175134, 
-      "municipality": "De Panne", 
-      "pcode": "8660", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Wilgenpad"
     }, 
     {
@@ -44,7 +34,7 @@
       "lon": 2.587034529942, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Wilgenpad"
     }
   ]

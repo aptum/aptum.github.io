@@ -29,8 +29,8 @@
         "101"
       ], 
       "housenumber": "101", 
-      "lat": 50.878622551372, 
-      "lon": 4.165927759229, 
+      "lat": 50.878624422905, 
+      "lon": 4.165970520379, 
       "municipality": "Ternat", 
       "pcode": "1740", 
       "source": "afgeleidVanGebouw", 
@@ -101,8 +101,8 @@
         "115"
       ], 
       "housenumber": "115", 
-      "lat": 50.876937479671, 
-      "lon": 4.165721313523, 
+      "lat": 50.876926245368, 
+      "lon": 4.165722782764, 
       "municipality": "Ternat", 
       "pcode": "1740", 
       "source": "afgeleidVanGebouw", 
@@ -233,7 +233,9 @@
     }, 
     {
       "busnrs": [
-        "1"
+        "1", 
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "139"
@@ -265,18 +267,6 @@
       "housenumber": "143", 
       "lat": 50.875327834167, 
       "lon": 4.163703316327, 
-      "municipality": "Ternat", 
-      "pcode": "1740", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Assesteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "145"
-      ], 
-      "housenumber": "145", 
-      "lat": 50.875290053739, 
-      "lon": 4.163637555412, 
       "municipality": "Ternat", 
       "pcode": "1740", 
       "source": "afgeleidVanGebouw", 
@@ -323,8 +313,8 @@
         "151"
       ], 
       "housenumber": "151", 
-      "lat": 50.875088967162, 
-      "lon": 4.16364212449, 
+      "lat": 50.875096147798, 
+      "lon": 4.163635841737, 
       "municipality": "Ternat", 
       "pcode": "1740", 
       "source": "afgeleidVanGebouw", 
@@ -618,8 +608,8 @@
         "199"
       ], 
       "housenumber": "199", 
-      "lat": 50.872899722397, 
-      "lon": 4.162539928257, 
+      "lat": 50.872892393874, 
+      "lon": 4.162564396882, 
       "municipality": "Ternat", 
       "pcode": "1740", 
       "source": "afgeleidVanGebouw", 
@@ -835,10 +825,9 @@
       "street": "Assesteenweg"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3"
+      "apptnrs": [
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "235"
@@ -890,8 +879,8 @@
         "24"
       ], 
       "housenumber": "24", 
-      "lat": 50.885304773457, 
-      "lon": 4.167710485308, 
+      "lat": 50.885302372661, 
+      "lon": 4.16767326258, 
       "municipality": "Ternat", 
       "pcode": "1740", 
       "source": "afgeleidVanGebouw", 
@@ -916,7 +905,10 @@
     {
       "busnrs": [
         "1", 
+        "101", 
         "2", 
+        "201", 
+        "202", 
         "3", 
         "4"
       ], 
@@ -967,8 +959,8 @@
         "25"
       ], 
       "housenumber": "25", 
-      "lat": 50.885498095596, 
-      "lon": 4.168827377853, 
+      "lat": 50.885498059799, 
+      "lon": 4.168827365076, 
       "municipality": "Ternat", 
       "pcode": "1740", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1059,6 +1051,9 @@
       "street": "Assesteenweg"
     }, 
     {
+      "busnrs": [
+        "2"
+      ], 
       "hnrlbls": [
         "267"
       ], 
@@ -1075,7 +1070,7 @@
         "2"
       ], 
       "hnrlbls": [
-        "27-29"
+        "27"
       ], 
       "housenumber": "27", 
       "lat": 50.885491739371, 
@@ -1086,6 +1081,9 @@
       "street": "Assesteenweg"
     }, 
     {
+      "apptnrs": [
+        "101"
+      ], 
       "hnrlbls": [
         "271"
       ], 
@@ -1195,11 +1193,11 @@
     }, 
     {
       "hnrlbls": [
-        "289"
+        "287"
       ], 
-      "housenumber": "289", 
-      "lat": 50.868498004166, 
-      "lon": 4.160589523176, 
+      "housenumber": "287", 
+      "lat": 50.868620508661, 
+      "lon": 4.160678622194, 
       "municipality": "Ternat", 
       "pcode": "1740", 
       "source": "afgeleidVanGebouw", 
@@ -1207,11 +1205,23 @@
     }, 
     {
       "hnrlbls": [
-        "27-29"
+        "287A"
       ], 
-      "housenumber": "29", 
-      "lat": 50.885491739371, 
-      "lon": 4.168916921902, 
+      "housenumber": "287A", 
+      "lat": 50.868552294015, 
+      "lon": 4.160636589413, 
+      "municipality": "Ternat", 
+      "pcode": "1740", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Assesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "289"
+      ], 
+      "housenumber": "289", 
+      "lat": 50.868498004166, 
+      "lon": 4.160589523176, 
       "municipality": "Ternat", 
       "pcode": "1740", 
       "source": "afgeleidVanGebouw", 
@@ -1278,18 +1288,12 @@
       "street": "Assesteenweg"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "4", 
-        "5"
-      ], 
       "hnrlbls": [
         "31"
       ], 
       "housenumber": "31", 
-      "lat": 50.885275567609, 
-      "lon": 4.168402119515, 
+      "lat": 50.885275481099, 
+      "lon": 4.168404109429, 
       "municipality": "Ternat", 
       "pcode": "1740", 
       "source": "afgeleidVanGebouw", 
@@ -1465,6 +1469,18 @@
     }, 
     {
       "hnrlbls": [
+        "349"
+      ], 
+      "housenumber": "349", 
+      "lat": 50.864134874805, 
+      "lon": 4.158573401727, 
+      "municipality": "Ternat", 
+      "pcode": "1740", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Assesteenweg"
+    }, 
+    {
+      "hnrlbls": [
         "35"
       ], 
       "housenumber": "35", 
@@ -1539,27 +1555,12 @@
       "street": "Assesteenweg"
     }, 
     {
-      "busnrs": [
-        "4"
-      ], 
       "hnrlbls": [
         "47"
       ], 
       "housenumber": "47", 
-      "lat": 50.884262094869, 
-      "lon": 4.168189429567, 
-      "municipality": "Ternat", 
-      "pcode": "1740", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Assesteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "49"
-      ], 
-      "housenumber": "49", 
-      "lat": 50.884100508442, 
-      "lon": 4.167898655854, 
+      "lat": 50.884263172869, 
+      "lon": 4.168188998658, 
       "municipality": "Ternat", 
       "pcode": "1740", 
       "source": "afgeleidVanGebouw", 
@@ -1642,8 +1643,8 @@
         "65"
       ], 
       "housenumber": "65", 
-      "lat": 50.881881133407, 
-      "lon": 4.167171873018, 
+      "lat": 50.881881119373, 
+      "lon": 4.167171892126, 
       "municipality": "Ternat", 
       "pcode": "1740", 
       "source": "afgeleidVanGebouw", 
@@ -1699,23 +1700,11 @@
     }, 
     {
       "hnrlbls": [
-        "1-76"
-      ], 
-      "housenumber": "76", 
-      "lat": 50.880369966624, 
-      "lon": 4.165535871123, 
-      "municipality": "Ternat", 
-      "pcode": "1740", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Assesteenweg"
-    }, 
-    {
-      "hnrlbls": [
         "77"
       ], 
       "housenumber": "77", 
-      "lat": 50.880725213843, 
-      "lon": 4.166157598135, 
+      "lat": 50.88072522247, 
+      "lon": 4.1661575757, 
       "municipality": "Ternat", 
       "pcode": "1740", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1762,11 +1751,11 @@
         "82"
       ], 
       "housenumber": "82", 
-      "lat": 50.879665698461, 
-      "lon": 4.165203993062, 
+      "lat": 50.879641927637, 
+      "lon": 4.165129638744, 
       "municipality": "Ternat", 
       "pcode": "1740", 
-      "source": "afgeleidVanGebouw", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Assesteenweg"
     }, 
     {
@@ -1786,8 +1775,8 @@
         "85"
       ], 
       "housenumber": "85", 
-      "lat": 50.880347439828, 
-      "lon": 4.166026624315, 
+      "lat": 50.880339737811, 
+      "lon": 4.166043424719, 
       "municipality": "Ternat", 
       "pcode": "1740", 
       "source": "afgeleidVanGebouw", 
@@ -1872,6 +1861,18 @@
       "housenumber": "92", 
       "lat": 50.878918964085, 
       "lon": 4.164851989582, 
+      "municipality": "Ternat", 
+      "pcode": "1740", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Assesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "94"
+      ], 
+      "housenumber": "94", 
+      "lat": 50.878772160488, 
+      "lon": 4.164744919789, 
       "municipality": "Ternat", 
       "pcode": "1740", 
       "source": "afgeleidVanGebouw", 

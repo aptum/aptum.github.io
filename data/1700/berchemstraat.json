@@ -80,11 +80,11 @@
         "129"
       ], 
       "housenumber": "129", 
-      "lat": 50.85008494435, 
-      "lon": 4.277912889671, 
+      "lat": 50.849845245666, 
+      "lon": 4.277746211906, 
       "municipality": "Dilbeek", 
       "pcode": "1700", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Berchemstraat"
     }, 
     {
@@ -114,7 +114,8 @@
     {
       "busnrs": [
         "1", 
-        "101"
+        "101", 
+        "2"
       ], 
       "hnrlbls": [
         "133"
@@ -141,6 +142,18 @@
       "municipality": "Dilbeek", 
       "pcode": "1700", 
       "source": "afgeleidVanGebouw", 
+      "street": "Berchemstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "137B"
+      ], 
+      "housenumber": "137B", 
+      "lat": 50.850317466664, 
+      "lon": 4.277051045118, 
+      "municipality": "Dilbeek", 
+      "pcode": "1700", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Berchemstraat"
     }, 
     {
@@ -211,8 +224,8 @@
         "147"
       ], 
       "housenumber": "147", 
-      "lat": 50.850576004108, 
-      "lon": 4.277398173171, 
+      "lat": 50.850563615506, 
+      "lon": 4.277420065857, 
       "municipality": "Dilbeek", 
       "pcode": "1700", 
       "source": "afgeleidVanGebouw", 
@@ -292,8 +305,8 @@
         "163"
       ], 
       "housenumber": "163", 
-      "lat": 50.851471373705, 
-      "lon": 4.279060494294, 
+      "lat": 50.851477307202, 
+      "lon": 4.279061051091, 
       "municipality": "Dilbeek", 
       "pcode": "1700", 
       "source": "afgeleidVanGebouw", 
@@ -540,15 +553,18 @@
       "street": "Berchemstraat"
     }, 
     {
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "206"
       ], 
       "housenumber": "206", 
-      "lat": 50.85287988754, 
-      "lon": 4.28188046002, 
+      "lat": 50.85292612851, 
+      "lon": 4.281805676786, 
       "municipality": "Dilbeek", 
       "pcode": "1700", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Berchemstraat"
     }, 
     {
@@ -578,6 +594,10 @@
     {
       "apptnrs": [
         "2.0"
+      ], 
+      "busnrs": [
+        "1", 
+        "201"
       ], 
       "hnrlbls": [
         "22"
@@ -675,7 +695,8 @@
     }, 
     {
       "busnrs": [
-        "101"
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "34"
@@ -1050,7 +1071,7 @@
         "201"
       ], 
       "hnrlbls": [
-        "67-67A"
+        "67"
       ], 
       "housenumber": "67", 
       "lat": 50.847448541145, 
@@ -1062,17 +1083,19 @@
     }, 
     {
       "busnrs": [
-        "101"
+        "1", 
+        "101", 
+        "301"
       ], 
       "hnrlbls": [
-        "67-67A"
+        "67A"
       ], 
       "housenumber": "67A", 
-      "lat": 50.847448541145, 
-      "lon": 4.272404251804, 
+      "lat": 50.847502279395, 
+      "lon": 4.272601516738, 
       "municipality": "Dilbeek", 
       "pcode": "1700", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Berchemstraat"
     }, 
     {
@@ -1157,6 +1180,7 @@
         "3.0"
       ], 
       "busnrs": [
+        "101", 
         "201", 
         "202", 
         "3"

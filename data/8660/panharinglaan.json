@@ -1,20 +1,25 @@
 {
   "addresses": [
     {
-      "busnrs": [
-        "201", 
-        "202", 
-        "203"
+      "apptnrs": [
+        "0101", 
+        "0103", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "G001", 
+        "G002", 
+        "G003"
       ], 
       "hnrlbls": [
-        "1-1G"
+        "1"
       ], 
       "housenumber": "1", 
       "lat": 51.094146209966, 
       "lon": 2.569168178418, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Panharinglaan"
     }, 
     {
@@ -26,22 +31,7 @@
       "lon": 2.570318988631, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Panharinglaan"
-    }, 
-    {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "1-1G"
-      ], 
-      "housenumber": "1G", 
-      "lat": 51.094146209966, 
-      "lon": 2.569168178418, 
-      "municipality": "De Panne", 
-      "pcode": "8660", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Panharinglaan"
     }, 
     {
@@ -53,12 +43,20 @@
       "lon": 2.568404945469, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Panharinglaan"
     }, 
     {
-      "busnrs": [
-        "101"
+      "apptnrs": [
+        "0101", 
+        "0102", 
+        "0103", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "G001", 
+        "G002", 
+        "G003"
       ], 
       "hnrlbls": [
         "3"
@@ -68,7 +66,7 @@
       "lon": 2.569661445313, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Panharinglaan"
     }, 
     {
@@ -80,7 +78,7 @@
       "lon": 2.568688309603, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Panharinglaan"
     }
   ]

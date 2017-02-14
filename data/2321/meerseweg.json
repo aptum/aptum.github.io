@@ -38,7 +38,7 @@
     }, 
     {
       "hnrlbls": [
-        "107-107A"
+        "107"
       ], 
       "housenumber": "107", 
       "lat": 51.434600043857, 
@@ -50,14 +50,14 @@
     }, 
     {
       "hnrlbls": [
-        "107-107A"
+        "107A"
       ], 
       "housenumber": "107A", 
-      "lat": 51.434600043857, 
-      "lon": 4.748138754122, 
+      "lat": 51.434642860405, 
+      "lon": 4.74804348187, 
       "municipality": "Hoogstraten", 
       "pcode": "2321", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Meerseweg"
     }, 
     {
@@ -77,11 +77,11 @@
         "11"
       ], 
       "housenumber": "11", 
-      "lat": 51.440606621898, 
-      "lon": 4.740410727904, 
+      "lat": 51.440611623576, 
+      "lon": 4.740392072445, 
       "municipality": "Hoogstraten", 
       "pcode": "2321", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Meerseweg"
     }, 
     {
@@ -245,11 +245,11 @@
         "133"
       ], 
       "housenumber": "133", 
-      "lat": 51.431550543848, 
-      "lon": 4.752154694845, 
+      "lat": 51.43154871302, 
+      "lon": 4.752192782533, 
       "municipality": "Hoogstraten", 
       "pcode": "2321", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Meerseweg"
     }, 
     {
@@ -377,11 +377,23 @@
         "147"
       ], 
       "housenumber": "147", 
-      "lat": 51.430219325929, 
-      "lon": 4.754303975823, 
+      "lat": 51.430173149163, 
+      "lon": 4.754325446122, 
       "municipality": "Hoogstraten", 
       "pcode": "2321", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelKadaster", 
+      "street": "Meerseweg"
+    }, 
+    {
+      "hnrlbls": [
+        "147A"
+      ], 
+      "housenumber": "147A", 
+      "lat": 51.430108855863, 
+      "lon": 4.754417936632, 
+      "municipality": "Hoogstraten", 
+      "pcode": "2321", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Meerseweg"
     }, 
     {
@@ -695,8 +707,8 @@
         "32"
       ], 
       "housenumber": "32", 
-      "lat": 51.439272984525, 
-      "lon": 4.740741427257, 
+      "lat": 51.439258273547, 
+      "lon": 4.740732249202, 
       "municipality": "Hoogstraten", 
       "pcode": "2321", 
       "source": "afgeleidVanGebouw", 
@@ -887,8 +899,8 @@
         "44A"
       ], 
       "housenumber": "44A", 
-      "lat": 51.437076812568, 
-      "lon": 4.743805596649, 
+      "lat": 51.437048664475, 
+      "lon": 4.743754031692, 
       "municipality": "Hoogstraten", 
       "pcode": "2321", 
       "source": "afgeleidVanGebouw", 
@@ -983,8 +995,8 @@
         "50A"
       ], 
       "housenumber": "50A", 
-      "lat": 51.434849109875, 
-      "lon": 4.74654580282, 
+      "lat": 51.434849145449, 
+      "lon": 4.746545825858, 
       "municipality": "Hoogstraten", 
       "pcode": "2321", 
       "source": "afgeleidVanGebouw", 
@@ -1196,6 +1208,30 @@
     }, 
     {
       "hnrlbls": [
+        "62A"
+      ], 
+      "housenumber": "62A", 
+      "lat": 51.433232031567, 
+      "lon": 4.749063332775, 
+      "municipality": "Hoogstraten", 
+      "pcode": "2321", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Meerseweg"
+    }, 
+    {
+      "hnrlbls": [
+        "62B"
+      ], 
+      "housenumber": "62B", 
+      "lat": 51.433189073705, 
+      "lon": 4.749118339018, 
+      "municipality": "Hoogstraten", 
+      "pcode": "2321", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Meerseweg"
+    }, 
+    {
+      "hnrlbls": [
         "63"
       ], 
       "housenumber": "63", 
@@ -1211,8 +1247,8 @@
         "63A"
       ], 
       "housenumber": "63A", 
-      "lat": 51.437825144036, 
-      "lon": 4.743559817714, 
+      "lat": 51.437825184191, 
+      "lon": 4.743559855932, 
       "municipality": "Hoogstraten", 
       "pcode": "2321", 
       "source": "afgeleidVanGebouw", 
@@ -1259,8 +1295,8 @@
         "66"
       ], 
       "housenumber": "66", 
-      "lat": 51.432842387201, 
-      "lon": 4.749576046412, 
+      "lat": 51.43284319284, 
+      "lon": 4.749577059552, 
       "municipality": "Hoogstraten", 
       "pcode": "2321", 
       "source": "afgeleidVanGebouw", 
@@ -1463,11 +1499,11 @@
         "7A"
       ], 
       "housenumber": "7A", 
-      "lat": 51.440891337736, 
-      "lon": 4.740156737548, 
+      "lat": 51.440791898464, 
+      "lon": 4.740168164254, 
       "municipality": "Hoogstraten", 
       "pcode": "2321", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Meerseweg"
     }, 
     {
@@ -1547,11 +1583,23 @@
         "89"
       ], 
       "housenumber": "89", 
-      "lat": 51.436351773805, 
-      "lon": 4.745592469735, 
+      "lat": 51.436378502307, 
+      "lon": 4.745553142396, 
       "municipality": "Hoogstraten", 
       "pcode": "2321", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Meerseweg"
+    }, 
+    {
+      "hnrlbls": [
+        "89A"
+      ], 
+      "housenumber": "89A", 
+      "lat": 51.436342469666, 
+      "lon": 4.74560720535, 
+      "municipality": "Hoogstraten", 
+      "pcode": "2321", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Meerseweg"
     }, 
     {
@@ -1559,8 +1607,8 @@
         "9"
       ], 
       "housenumber": "9", 
-      "lat": 51.440695819683, 
-      "lon": 4.740283162877, 
+      "lat": 51.440691282471, 
+      "lon": 4.740325694985, 
       "municipality": "Hoogstraten", 
       "pcode": "2321", 
       "source": "afgeleidVanGebouw", 
@@ -1583,8 +1631,8 @@
         "93"
       ], 
       "housenumber": "93", 
-      "lat": 51.436095313244, 
-      "lon": 4.745916661796, 
+      "lat": 51.436122650626, 
+      "lon": 4.745968508008, 
       "municipality": "Hoogstraten", 
       "pcode": "2321", 
       "source": "afgeleidVanGebouw", 
@@ -1607,8 +1655,8 @@
         "97"
       ], 
       "housenumber": "97", 
-      "lat": 51.435813785919, 
-      "lon": 4.746322466764, 
+      "lat": 51.435816164454, 
+      "lon": 4.746337584884, 
       "municipality": "Hoogstraten", 
       "pcode": "2321", 
       "source": "afgeleidVanGebouw", 

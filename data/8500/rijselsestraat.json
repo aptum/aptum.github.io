@@ -40,8 +40,7 @@
         "0022", 
         "0031", 
         "0032", 
-        "0041", 
-        "0042"
+        "0041"
       ], 
       "hnrlbls": [
         "11"
@@ -65,11 +64,11 @@
         "12"
       ], 
       "housenumber": "12", 
-      "lat": 50.827904171411, 
-      "lon": 3.263743602106, 
+      "lat": 50.827964522325, 
+      "lon": 3.263698463438, 
       "municipality": "Kortrijk", 
       "pcode": "8500", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Rijselsestraat"
     }, 
     {
@@ -107,11 +106,11 @@
         "15"
       ], 
       "housenumber": "15", 
-      "lat": 50.827497487593, 
-      "lon": 3.264016046102, 
+      "lat": 50.827339510657, 
+      "lon": 3.264119688337, 
       "municipality": "Kortrijk", 
       "pcode": "8500", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Rijselsestraat"
     }, 
     {
@@ -472,6 +471,7 @@
         "22", 
         "31", 
         "32", 
+        "41", 
         "42", 
         "51", 
         "52", 
@@ -541,6 +541,9 @@
       "street": "Rijselsestraat"
     }, 
     {
+      "busnrs": [
+        "21"
+      ], 
       "hnrlbls": [
         "4"
       ], 
@@ -723,11 +726,11 @@
         "5"
       ], 
       "housenumber": "5", 
-      "lat": 50.827707458858, 
-      "lon": 3.264421498698, 
+      "lat": 50.827739675801, 
+      "lon": 3.26448206575, 
       "municipality": "Kortrijk", 
       "pcode": "8500", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijselsestraat"
     }, 
     {
@@ -750,6 +753,7 @@
     }, 
     {
       "busnrs": [
+        "0013", 
         "1", 
         "11", 
         "12", 
@@ -831,6 +835,7 @@
     }, 
     {
       "busnrs": [
+        "1", 
         "11", 
         "21", 
         "31"
@@ -896,14 +901,14 @@
     }, 
     {
       "hnrlbls": [
-        "7"
+        "7-9"
       ], 
       "housenumber": "7", 
-      "lat": 50.827657654409, 
-      "lon": 3.264345445952, 
+      "lat": 50.827582983651, 
+      "lon": 3.264273383882, 
       "municipality": "Kortrijk", 
       "pcode": "8500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Rijselsestraat"
     }, 
     {
@@ -915,19 +920,19 @@
       "lon": 3.264055016723, 
       "municipality": "Kortrijk", 
       "pcode": "8500", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Rijselsestraat"
     }, 
     {
       "hnrlbls": [
-        "9"
+        "7-9"
       ], 
       "housenumber": "9", 
-      "lat": 50.827610569197, 
-      "lon": 3.264271742711, 
+      "lat": 50.827582983651, 
+      "lon": 3.264273383882, 
       "municipality": "Kortrijk", 
       "pcode": "8500", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Rijselsestraat"
     }
   ]

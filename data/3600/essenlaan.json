@@ -1,24 +1,25 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "11", 
+        "BU01", 
+        "BU11"
+      ], 
       "hnrlbls": [
-        "/zn-11"
+        "11-31B"
       ], 
       "housenumber": "11", 
-      "lat": 51.009163577435, 
-      "lon": 5.486813903066, 
+      "lat": 51.008603277231, 
+      "lon": 5.484413214488, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "afgeleidVanStraat", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Essenlaan"
     }, 
     {
       "busnrs": [
-        "1", 
-        "14", 
-        "4", 
-        "5", 
-        "6"
+        "BU01"
       ], 
       "hnrlbls": [
         "5"
@@ -29,18 +30,6 @@
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
-      "street": "Essenlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "7"
-      ], 
-      "housenumber": "7", 
-      "lat": 51.007729634459, 
-      "lon": 5.487175655807, 
-      "municipality": "Genk", 
-      "pcode": "3600", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Essenlaan"
     }, 
     {

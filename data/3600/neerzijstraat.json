@@ -2,8 +2,8 @@
   "addresses": [
     {
       "busnrs": [
-        "1", 
-        "2"
+        "BU01", 
+        "BU02"
       ], 
       "hnrlbls": [
         "101"
@@ -189,8 +189,8 @@
         "135"
       ], 
       "housenumber": "135", 
-      "lat": 50.978716304967, 
-      "lon": 5.539394982999, 
+      "lat": 50.9787272899, 
+      "lon": 5.539411349963, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
@@ -237,8 +237,8 @@
         "13B"
       ], 
       "housenumber": "13B", 
-      "lat": 50.967058582535, 
-      "lon": 5.525542611782, 
+      "lat": 50.967084910049, 
+      "lon": 5.525516637619, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
@@ -249,8 +249,8 @@
         "141"
       ], 
       "housenumber": "141", 
-      "lat": 50.978917540694, 
-      "lon": 5.539897028455, 
+      "lat": 50.978916870899, 
+      "lon": 5.539910113574, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
@@ -273,8 +273,8 @@
         "145"
       ], 
       "housenumber": "145", 
-      "lat": 50.979066362905, 
-      "lon": 5.539830540141, 
+      "lat": 50.979067427284, 
+      "lon": 5.539831990872, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
@@ -285,23 +285,36 @@
         "147"
       ], 
       "housenumber": "147", 
-      "lat": 50.979346856027, 
-      "lon": 5.540236878341, 
+      "lat": 50.979166577654, 
+      "lon": 5.539047926424, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "geinterpoleerdObvWegverbinding", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Neerzijstraat"
     }, 
     {
       "busnrs": [
-        "1"
+        "BU01", 
+        "BU02"
       ], 
       "hnrlbls": [
         "15"
       ], 
       "housenumber": "15", 
-      "lat": 50.968604766447, 
-      "lon": 5.528430519831, 
+      "lat": 50.96860595316, 
+      "lon": 5.528428698265, 
+      "municipality": "Genk", 
+      "pcode": "3600", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Neerzijstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "17"
+      ], 
+      "housenumber": "17", 
+      "lat": 50.968739596112, 
+      "lon": 5.528806466378, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
@@ -333,10 +346,10 @@
     }, 
     {
       "busnrs": [
-        "11", 
-        "12", 
-        "13", 
-        "14"
+        "BU11", 
+        "BU12", 
+        "BU13", 
+        "BU14"
       ], 
       "hnrlbls": [
         "23-25"
@@ -354,11 +367,11 @@
         "28"
       ], 
       "housenumber": "28", 
-      "lat": 50.97485498501, 
-      "lon": 5.540179374973, 
+      "lat": 50.97488717402, 
+      "lon": 5.540160955965, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Neerzijstraat"
     }, 
     {
@@ -414,11 +427,11 @@
         "37"
       ], 
       "housenumber": "37", 
-      "lat": 50.969118922703, 
-      "lon": 5.530551061838, 
+      "lat": 50.969327501965, 
+      "lon": 5.531014277449, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Neerzijstraat"
     }, 
     {
@@ -447,23 +460,11 @@
     }, 
     {
       "hnrlbls": [
-        "4"
-      ], 
-      "housenumber": "4", 
-      "lat": 50.967571604221, 
-      "lon": 5.527619313171, 
-      "municipality": "Genk", 
-      "pcode": "3600", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Neerzijstraat"
-    }, 
-    {
-      "hnrlbls": [
         "40"
       ], 
       "housenumber": "40", 
-      "lat": 50.976604987107, 
-      "lon": 5.5409145105, 
+      "lat": 50.976600999522, 
+      "lon": 5.540854600802, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
@@ -483,6 +484,30 @@
     }, 
     {
       "hnrlbls": [
+        "42-44"
+      ], 
+      "housenumber": "42", 
+      "lat": 50.97683825827, 
+      "lon": 5.541259699295, 
+      "municipality": "Genk", 
+      "pcode": "3600", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Neerzijstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "42-44"
+      ], 
+      "housenumber": "44", 
+      "lat": 50.97683825827, 
+      "lon": 5.541259699295, 
+      "municipality": "Genk", 
+      "pcode": "3600", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Neerzijstraat"
+    }, 
+    {
+      "hnrlbls": [
         "45"
       ], 
       "housenumber": "45", 
@@ -498,8 +523,8 @@
         "46"
       ], 
       "housenumber": "46", 
-      "lat": 50.976817806631, 
-      "lon": 5.540975658574, 
+      "lat": 50.976806056706, 
+      "lon": 5.540918829686, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
@@ -519,11 +544,11 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "2"
+        "BU01", 
+        "BU02"
       ], 
       "hnrlbls": [
-        "48-48A"
+        "48"
       ], 
       "housenumber": "48", 
       "lat": 50.976880793996, 
@@ -531,18 +556,6 @@
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
-      "street": "Neerzijstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "48-48A"
-      ], 
-      "housenumber": "48A", 
-      "lat": 50.976880793996, 
-      "lon": 5.540852914811, 
-      "municipality": "Genk", 
-      "pcode": "3600", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Neerzijstraat"
     }, 
     {
@@ -583,6 +596,18 @@
     }, 
     {
       "hnrlbls": [
+        "51"
+      ], 
+      "housenumber": "51", 
+      "lat": 50.970161741562, 
+      "lon": 5.533335910326, 
+      "municipality": "Genk", 
+      "pcode": "3600", 
+      "source": "afgeleidVanPerceelKadaster", 
+      "street": "Neerzijstraat"
+    }, 
+    {
+      "hnrlbls": [
         "52"
       ], 
       "housenumber": "52", 
@@ -610,8 +635,8 @@
         "55"
       ], 
       "housenumber": "55", 
-      "lat": 50.970410083157, 
-      "lon": 5.533949642504, 
+      "lat": 50.970409459638, 
+      "lon": 5.533949057455, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
@@ -622,8 +647,8 @@
         "56"
       ], 
       "housenumber": "56", 
-      "lat": 50.977587240715, 
-      "lon": 5.540574383333, 
+      "lat": 50.977590210519, 
+      "lon": 5.540592116162, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
@@ -670,8 +695,8 @@
         "6"
       ], 
       "housenumber": "6", 
-      "lat": 50.968853898738, 
-      "lon": 5.530568267663, 
+      "lat": 50.968858666644, 
+      "lon": 5.530567958752, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
@@ -732,18 +757,6 @@
       "housenumber": "65", 
       "lat": 50.971237082343, 
       "lon": 5.535183926543, 
-      "municipality": "Genk", 
-      "pcode": "3600", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Neerzijstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "66"
-      ], 
-      "housenumber": "66", 
-      "lat": 50.978556607387, 
-      "lon": 5.540561891033, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
@@ -835,9 +848,21 @@
     }, 
     {
       "hnrlbls": [
-        "76-78"
+        "77"
       ], 
-      "housenumber": "76", 
+      "housenumber": "77", 
+      "lat": 50.972273919586, 
+      "lon": 5.536144967071, 
+      "municipality": "Genk", 
+      "pcode": "3600", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Neerzijstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "78"
+      ], 
+      "housenumber": "78", 
       "lat": 50.979118747732, 
       "lon": 5.540464871997, 
       "municipality": "Genk", 
@@ -847,14 +872,14 @@
     }, 
     {
       "hnrlbls": [
-        "76-78"
+        "8"
       ], 
-      "housenumber": "78", 
-      "lat": 50.979118747732, 
-      "lon": 5.540464871997, 
+      "housenumber": "8", 
+      "lat": 50.968838970406, 
+      "lon": 5.531050568024, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Neerzijstraat"
     }, 
     {
