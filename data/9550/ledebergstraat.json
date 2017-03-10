@@ -49,6 +49,14 @@
       "street": "Ledebergstraat"
     }, 
     {
+      "apptnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0101", 
+        "0102", 
+        "0103"
+      ], 
       "hnrlbls": [
         "102"
       ], 
@@ -57,7 +65,7 @@
       "lon": 3.854495586645, 
       "municipality": "Herzele", 
       "pcode": "9550", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Ledebergstraat"
     }, 
     {
@@ -677,11 +685,11 @@
         "53"
       ], 
       "housenumber": "53", 
-      "lat": 50.89885151553, 
-      "lon": 3.859119873404, 
+      "lat": 50.898853939035, 
+      "lon": 3.859160503297, 
       "municipality": "Herzele", 
       "pcode": "9550", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Ledebergstraat"
     }, 
     {
@@ -950,7 +958,7 @@
     }, 
     {
       "hnrlbls": [
-        "80-80b"
+        "80"
       ], 
       "housenumber": "80", 
       "lat": 50.897853166472, 
@@ -974,14 +982,14 @@
     }, 
     {
       "hnrlbls": [
-        "80-80b"
+        "80B"
       ], 
-      "housenumber": "80b", 
-      "lat": 50.897853166472, 
-      "lon": 3.854667850832, 
+      "housenumber": "80B", 
+      "lat": 50.897152860819, 
+      "lon": 3.855075515762, 
       "municipality": "Herzele", 
       "pcode": "9550", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Ledebergstraat"
     }, 
     {
@@ -997,10 +1005,42 @@
       "street": "Ledebergstraat"
     }, 
     {
+      "apptnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
-        "82A"
+        "82A-82B"
       ], 
       "housenumber": "82A", 
+      "lat": 50.896806069588, 
+      "lon": 3.854280004635, 
+      "municipality": "Herzele", 
+      "pcode": "9550", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Ledebergstraat"
+    }, 
+    {
+      "apptnrs": [
+        "0001", 
+        "0002"
+      ], 
+      "hnrlbls": [
+        "82A-82B"
+      ], 
+      "housenumber": "82B", 
+      "lat": 50.896806069588, 
+      "lon": 3.854280004635, 
+      "municipality": "Herzele", 
+      "pcode": "9550", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Ledebergstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "82C"
+      ], 
+      "housenumber": "82C", 
       "lat": 50.896886423852, 
       "lon": 3.854441459032, 
       "municipality": "Herzele", 
