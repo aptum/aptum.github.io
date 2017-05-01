@@ -72,6 +72,21 @@
       "street": "Nieuwstraat"
     }, 
     {
+      "busnrs": [
+        "1"
+      ], 
+      "hnrlbls": [
+        "102A"
+      ], 
+      "housenumber": "102A", 
+      "lat": 51.470367747846, 
+      "lon": 4.465728455645, 
+      "municipality": "Essen", 
+      "pcode": "2910", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelKadaster", 
+      "street": "Nieuwstraat"
+    }, 
+    {
       "hnrlbls": [
         "103"
       ], 
@@ -168,11 +183,11 @@
         "2"
       ], 
       "hnrlbls": [
-        "106"
+        "106-106A"
       ], 
       "housenumber": "106", 
-      "lat": 51.470719025831, 
-      "lon": 4.465777835053, 
+      "lat": 51.470719562947, 
+      "lon": 4.465780426456, 
       "municipality": "Essen", 
       "pcode": "2910", 
       "source": "afgeleidVanGebouw", 
@@ -184,7 +199,7 @@
         "2"
       ], 
       "hnrlbls": [
-        "106A"
+        "106-106A"
       ], 
       "housenumber": "106A", 
       "lat": 51.470719562947, 
@@ -389,8 +404,8 @@
         "3-113"
       ], 
       "housenumber": "113", 
-      "lat": 51.470553876303, 
-      "lon": 4.46451905146, 
+      "lat": 51.470509502766, 
+      "lon": 4.464489027271, 
       "municipality": "Essen", 
       "pcode": "2910", 
       "source": "afgeleidVanGebouw", 
@@ -590,11 +605,11 @@
         "1"
       ], 
       "hnrlbls": [
-        "18"
+        "18-18B"
       ], 
       "housenumber": "18", 
-      "lat": 51.46638889518, 
-      "lon": 4.470769194541, 
+      "lat": 51.466389162192, 
+      "lon": 4.470772216833, 
       "municipality": "Essen", 
       "pcode": "2910", 
       "source": "afgeleidVanGebouw", 
@@ -606,7 +621,7 @@
         "2"
       ], 
       "hnrlbls": [
-        "18A-18B"
+        "18-18B"
       ], 
       "housenumber": "18A", 
       "lat": 51.466389162192, 
@@ -621,7 +636,7 @@
         "1"
       ], 
       "hnrlbls": [
-        "18A-18B"
+        "18-18B"
       ], 
       "housenumber": "18B", 
       "lat": 51.466389162192, 
@@ -663,8 +678,8 @@
         "2"
       ], 
       "housenumber": "2", 
-      "lat": 51.465552832856, 
-      "lon": 4.471448796205, 
+      "lat": 51.465551573114, 
+      "lon": 4.471450520052, 
       "municipality": "Essen", 
       "pcode": "2910", 
       "source": "afgeleidVanGebouw", 
@@ -675,8 +690,8 @@
         "20"
       ], 
       "housenumber": "20", 
-      "lat": 51.46634318709, 
-      "lon": 4.47051685346, 
+      "lat": 51.466343542742, 
+      "lon": 4.470521314847, 
       "municipality": "Essen", 
       "pcode": "2910", 
       "source": "afgeleidVanGebouw", 
@@ -822,8 +837,8 @@
         "30"
       ], 
       "housenumber": "30", 
-      "lat": 51.46670023719, 
-      "lon": 4.470018770474, 
+      "lat": 51.466699158822, 
+      "lon": 4.470018624211, 
       "municipality": "Essen", 
       "pcode": "2910", 
       "source": "afgeleidVanGebouw", 
@@ -852,8 +867,8 @@
         "32"
       ], 
       "housenumber": "32", 
-      "lat": 51.466857264703, 
-      "lon": 4.470103868085, 
+      "lat": 51.466857174581, 
+      "lon": 4.470104155671, 
       "municipality": "Essen", 
       "pcode": "2910", 
       "source": "afgeleidVanGebouw", 
@@ -909,6 +924,7 @@
     }, 
     {
       "busnrs": [
+        "1", 
         "2", 
         "3"
       ], 
@@ -1035,11 +1051,11 @@
         "4"
       ], 
       "hnrlbls": [
-        "4"
+        "4-4C"
       ], 
       "housenumber": "4", 
-      "lat": 51.465671012402, 
-      "lon": 4.471351647284, 
+      "lat": 51.465670472031, 
+      "lon": 4.471352941076, 
       "municipality": "Essen", 
       "pcode": "2910", 
       "source": "afgeleidVanGebouw", 
@@ -1242,7 +1258,7 @@
         "1"
       ], 
       "hnrlbls": [
-        "4B-4C"
+        "4-4C"
       ], 
       "housenumber": "4B", 
       "lat": 51.465670472031, 
@@ -1254,7 +1270,7 @@
     }, 
     {
       "hnrlbls": [
-        "4B-4C"
+        "4-4C"
       ], 
       "housenumber": "4C", 
       "lat": 51.465670472031, 
@@ -1297,8 +1313,8 @@
         "51"
       ], 
       "housenumber": "51", 
-      "lat": 51.467941992543, 
-      "lon": 4.467948112592, 
+      "lat": 51.467941548129, 
+      "lon": 4.467942211926, 
       "municipality": "Essen", 
       "pcode": "2910", 
       "source": "afgeleidVanGebouw", 
@@ -1306,9 +1322,39 @@
     }, 
     {
       "hnrlbls": [
-        "52"
+        "52-52D"
       ], 
       "housenumber": "52", 
+      "lat": 51.468069231444, 
+      "lon": 4.469039404146, 
+      "municipality": "Essen", 
+      "pcode": "2910", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "street": "Nieuwstraat"
+    }, 
+    {
+      "busnrs": [
+        "1"
+      ], 
+      "hnrlbls": [
+        "52-52D"
+      ], 
+      "housenumber": "52C", 
+      "lat": 51.468069231444, 
+      "lon": 4.469039404146, 
+      "municipality": "Essen", 
+      "pcode": "2910", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "street": "Nieuwstraat"
+    }, 
+    {
+      "busnrs": [
+        "1"
+      ], 
+      "hnrlbls": [
+        "52-52D"
+      ], 
+      "housenumber": "52D", 
       "lat": 51.468069231444, 
       "lon": 4.469039404146, 
       "municipality": "Essen", 
@@ -1321,8 +1367,8 @@
         "53"
       ], 
       "housenumber": "53", 
-      "lat": 51.467971236241, 
-      "lon": 4.467907021488, 
+      "lat": 51.467975906558, 
+      "lon": 4.467910772826, 
       "municipality": "Essen", 
       "pcode": "2910", 
       "source": "afgeleidVanGebouw", 
@@ -1345,9 +1391,39 @@
         "1"
       ], 
       "hnrlbls": [
-        "54D"
+        "54C-54F"
+      ], 
+      "housenumber": "54C", 
+      "lat": 51.468325674072, 
+      "lon": 4.468578630263, 
+      "municipality": "Essen", 
+      "pcode": "2910", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "street": "Nieuwstraat"
+    }, 
+    {
+      "busnrs": [
+        "1"
+      ], 
+      "hnrlbls": [
+        "54C-54F"
       ], 
       "housenumber": "54D", 
+      "lat": 51.468325674072, 
+      "lon": 4.468578630263, 
+      "municipality": "Essen", 
+      "pcode": "2910", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "street": "Nieuwstraat"
+    }, 
+    {
+      "busnrs": [
+        "2"
+      ], 
+      "hnrlbls": [
+        "54C-54F"
+      ], 
+      "housenumber": "54F", 
       "lat": 51.468325674072, 
       "lon": 4.468578630263, 
       "municipality": "Essen", 
@@ -1414,8 +1490,8 @@
         "58"
       ], 
       "housenumber": "58", 
-      "lat": 51.468385019689, 
-      "lon": 4.467797831416, 
+      "lat": 51.468479854071, 
+      "lon": 4.467991720757, 
       "municipality": "Essen", 
       "pcode": "2910", 
       "source": "afgeleidVanGebouw", 
@@ -1446,8 +1522,8 @@
         "6"
       ], 
       "housenumber": "6", 
-      "lat": 51.465750942244, 
-      "lon": 4.471211965635, 
+      "lat": 51.46575139249, 
+      "lon": 4.471210959416, 
       "municipality": "Essen", 
       "pcode": "2910", 
       "source": "afgeleidVanGebouw", 
@@ -1651,6 +1727,21 @@
       "street": "Nieuwstraat"
     }, 
     {
+      "busnrs": [
+        "1"
+      ], 
+      "hnrlbls": [
+        "68-70"
+      ], 
+      "housenumber": "68A", 
+      "lat": 51.468981360799, 
+      "lon": 4.467231146371, 
+      "municipality": "Essen", 
+      "pcode": "2910", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
+      "street": "Nieuwstraat"
+    }, 
+    {
       "hnrlbls": [
         "69"
       ], 
@@ -1678,6 +1769,10 @@
       "street": "Nieuwstraat"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "68-70"
       ], 

@@ -187,12 +187,15 @@
       "street": "Gitschotellei"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "R"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "102", 
+        "201", 
+        "202"
       ], 
       "hnrlbls": [
-        "118"
+        "118-118A"
       ], 
       "housenumber": "118", 
       "lat": 51.200476945541, 
@@ -203,18 +206,15 @@
       "street": "Gitschotellei"
     }, 
     {
-      "busnrs": [
-        "R"
-      ], 
       "hnrlbls": [
-        "118_1"
+        "118-118A"
       ], 
-      "housenumber": "118_1", 
-      "lat": 51.20047694563, 
-      "lon": 4.441154725617, 
+      "housenumber": "118A", 
+      "lat": 51.200476945541, 
+      "lon": 4.441154868687, 
       "municipality": "Antwerpen", 
       "pcode": "2600", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Gitschotellei"
     }, 
     {
@@ -634,8 +634,8 @@
         "150"
       ], 
       "housenumber": "150", 
-      "lat": 51.200651572323, 
-      "lon": 4.442624192668, 
+      "lat": 51.200656964131, 
+      "lon": 4.442626204277, 
       "municipality": "Antwerpen", 
       "pcode": "2600", 
       "source": "afgeleidVanGebouw", 
@@ -646,8 +646,8 @@
         "151"
       ], 
       "housenumber": "151", 
-      "lat": 51.200253224249, 
-      "lon": 4.443441913591, 
+      "lat": 51.200253044297, 
+      "lon": 4.44344219944, 
       "municipality": "Antwerpen", 
       "pcode": "2600", 
       "source": "afgeleidVanGebouw", 
@@ -658,8 +658,8 @@
         "152"
       ], 
       "housenumber": "152", 
-      "lat": 51.200641540228, 
-      "lon": 4.442711163624, 
+      "lat": 51.200639920861, 
+      "lon": 4.442713450164, 
       "municipality": "Antwerpen", 
       "pcode": "2600", 
       "source": "afgeleidVanGebouw", 
@@ -753,8 +753,8 @@
         "159"
       ], 
       "housenumber": "159", 
-      "lat": 51.200301193839, 
-      "lon": 4.444048320362, 
+      "lat": 51.200302363073, 
+      "lon": 4.444047177709, 
       "municipality": "Antwerpen", 
       "pcode": "2600", 
       "source": "afgeleidVanGebouw", 
@@ -821,10 +821,10 @@
       "street": "Gitschotellei"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "164"
@@ -1081,8 +1081,8 @@
         "195"
       ], 
       "housenumber": "195", 
-      "lat": 51.200367996741, 
-      "lon": 4.44567942576, 
+      "lat": 51.200365030269, 
+      "lon": 4.445679850034, 
       "municipality": "Antwerpen", 
       "pcode": "2600", 
       "source": "afgeleidVanGebouw", 
@@ -1136,6 +1136,11 @@
       "street": "Gitschotellei"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
         "75"
       ], 
@@ -1174,8 +1179,8 @@
         "80"
       ], 
       "housenumber": "80", 
-      "lat": 51.200327192032, 
-      "lon": 4.439547817767, 
+      "lat": 51.200332138883, 
+      "lon": 4.439542531767, 
       "municipality": "Antwerpen", 
       "pcode": "2600", 
       "source": "afgeleidVanGebouw", 
@@ -1191,8 +1196,8 @@
         "82"
       ], 
       "housenumber": "82", 
-      "lat": 51.200367401937, 
-      "lon": 4.439644308476, 
+      "lat": 51.200367492255, 
+      "lon": 4.439643593265, 
       "municipality": "Antwerpen", 
       "pcode": "2600", 
       "source": "afgeleidVanGebouw", 
@@ -1203,8 +1208,8 @@
         "84"
       ], 
       "housenumber": "84", 
-      "lat": 51.200330487273, 
-      "lon": 4.4397465467, 
+      "lat": 51.200330937476, 
+      "lon": 4.439745259764, 
       "municipality": "Antwerpen", 
       "pcode": "2600", 
       "source": "afgeleidVanGebouw", 
