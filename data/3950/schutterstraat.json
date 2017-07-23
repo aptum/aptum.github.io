@@ -53,18 +53,6 @@
         "15"
       ], 
       "housenumber": "15", 
-      "lat": 51.171854096834, 
-      "lon": 5.580955131366, 
-      "municipality": "Bocholt", 
-      "pcode": "3950", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Schutterstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "15A"
-      ], 
-      "housenumber": "15A", 
       "lat": 51.171876656722, 
       "lon": 5.581043091558, 
       "municipality": "Bocholt", 
@@ -74,26 +62,38 @@
     }, 
     {
       "hnrlbls": [
-        "17"
+        "15A"
       ], 
-      "housenumber": "17", 
-      "lat": 51.171960632717, 
-      "lon": 5.581357017888, 
+      "housenumber": "15A", 
+      "lat": 51.17189253066, 
+      "lon": 5.581134310104, 
       "municipality": "Bocholt", 
       "pcode": "3950", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Schutterstraat"
     }, 
     {
       "hnrlbls": [
-        "17A"
+        "17-17A"
       ], 
-      "housenumber": "17A", 
-      "lat": 51.171990545779, 
-      "lon": 5.581446742665, 
+      "housenumber": "17", 
+      "lat": 51.171988986041, 
+      "lon": 5.581371054116, 
       "municipality": "Bocholt", 
       "pcode": "3950", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Schutterstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "17-17A"
+      ], 
+      "housenumber": "17A", 
+      "lat": 51.171988986041, 
+      "lon": 5.581371054116, 
+      "municipality": "Bocholt", 
+      "pcode": "3950", 
+      "source": "afgeleidVanGebouw", 
       "street": "Schutterstraat"
     }, 
     {
@@ -122,20 +122,19 @@
     }, 
     {
       "busnrs": [
-        "0001", 
-        "0002", 
-        "0003", 
-        "0004"
+        "1", 
+        "2", 
+        "3"
       ], 
       "hnrlbls": [
-        "2"
+        "2-6"
       ], 
       "housenumber": "2", 
-      "lat": 51.171303200817, 
-      "lon": 5.580649096103, 
+      "lat": 51.171421314655, 
+      "lon": 5.580790302799, 
       "municipality": "Bocholt", 
       "pcode": "3950", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Schutterstraat"
     }, 
     {
@@ -155,8 +154,8 @@
         "21"
       ], 
       "housenumber": "21", 
-      "lat": 51.172208675114, 
-      "lon": 5.581705527988, 
+      "lat": 51.172208857799, 
+      "lon": 5.581705246733, 
       "municipality": "Bocholt", 
       "pcode": "3950", 
       "source": "afgeleidVanGebouw", 
@@ -212,37 +211,60 @@
     }, 
     {
       "busnrs": [
-        "0001", 
-        "0002", 
-        "A000", 
-        "A001"
+        "1", 
+        "2"
       ], 
       "hnrlbls": [
-        "4"
+        "4-6A"
       ], 
       "housenumber": "4", 
-      "lat": 51.171409834975, 
-      "lon": 5.580805162535, 
+      "lat": 51.171443976498, 
+      "lon": 5.580763292579, 
       "municipality": "Bocholt", 
       "pcode": "3950", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Schutterstraat"
     }, 
     {
       "busnrs": [
-        "0001", 
-        "0002", 
-        "A000"
+        "1"
       ], 
       "hnrlbls": [
-        "6"
+        "4-6A"
       ], 
-      "housenumber": "6", 
-      "lat": 51.171473612758, 
-      "lon": 5.580967552015, 
+      "housenumber": "4A", 
+      "lat": 51.171443976498, 
+      "lon": 5.580763292579, 
       "municipality": "Bocholt", 
       "pcode": "3950", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "street": "Schutterstraat"
+    }, 
+    {
+      "busnrs": [
+        "2"
+      ], 
+      "hnrlbls": [
+        "2-6"
+      ], 
+      "housenumber": "6", 
+      "lat": 51.171421314655, 
+      "lon": 5.580790302799, 
+      "municipality": "Bocholt", 
+      "pcode": "3950", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Schutterstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "4-6A"
+      ], 
+      "housenumber": "6A", 
+      "lat": 51.171443976498, 
+      "lon": 5.580763292579, 
+      "municipality": "Bocholt", 
+      "pcode": "3950", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Schutterstraat"
     }, 
     {
@@ -259,7 +281,7 @@
     }, 
     {
       "hnrlbls": [
-        "9"
+        "9-9A"
       ], 
       "housenumber": "9", 
       "lat": 51.172183580748, 
@@ -267,6 +289,18 @@
       "municipality": "Bocholt", 
       "pcode": "3950", 
       "source": "afgeleidVanGebouw", 
+      "street": "Schutterstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "9-9A"
+      ], 
+      "housenumber": "9A", 
+      "lat": 51.172183580748, 
+      "lon": 5.580726595492, 
+      "municipality": "Bocholt", 
+      "pcode": "3950", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Schutterstraat"
     }
   ]

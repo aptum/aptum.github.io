@@ -149,11 +149,11 @@
         "111"
       ], 
       "housenumber": "111", 
-      "lat": 51.196126118669, 
-      "lon": 5.566756132189, 
+      "lat": 51.196003430384, 
+      "lon": 5.566603466195, 
       "municipality": "Bocholt", 
       "pcode": "3950", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Hamonterweg"
     }, 
     {
@@ -182,14 +182,14 @@
     }, 
     {
       "hnrlbls": [
-        "116"
+        "116-118"
       ], 
       "housenumber": "116", 
-      "lat": 51.201486282562, 
-      "lon": 5.561995707554, 
+      "lat": 51.201546458798, 
+      "lon": 5.562063356333, 
       "municipality": "Bocholt", 
       "pcode": "3950", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Hamonterweg"
     }, 
     {
@@ -206,14 +206,14 @@
     }, 
     {
       "hnrlbls": [
-        "118"
+        "116-118"
       ], 
       "housenumber": "118", 
-      "lat": 51.201538070591, 
-      "lon": 5.561932641825, 
+      "lat": 51.201546458798, 
+      "lon": 5.562063356333, 
       "municipality": "Bocholt", 
       "pcode": "3950", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Hamonterweg"
     }, 
     {
@@ -262,6 +262,18 @@
       "municipality": "Bocholt", 
       "pcode": "3950", 
       "source": "afgeleidVanGebouw", 
+      "street": "Hamonterweg"
+    }, 
+    {
+      "hnrlbls": [
+        "123"
+      ], 
+      "housenumber": "123", 
+      "lat": 51.197574964095, 
+      "lon": 5.56526784553, 
+      "municipality": "Bocholt", 
+      "pcode": "3950", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Hamonterweg"
     }, 
     {
@@ -326,32 +338,32 @@
     }, 
     {
       "busnrs": [
-        "0001"
+        "1"
       ], 
       "hnrlbls": [
         "130"
       ], 
       "housenumber": "130", 
-      "lat": 51.202058539048, 
-      "lon": 5.561374877658, 
+      "lat": 51.202100078792, 
+      "lon": 5.561365208388, 
       "municipality": "Bocholt", 
       "pcode": "3950", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Hamonterweg"
     }, 
     {
       "busnrs": [
-        "0001"
+        "1"
       ], 
       "hnrlbls": [
         "130A"
       ], 
       "housenumber": "130A", 
-      "lat": 51.20212804357, 
-      "lon": 5.561319990766, 
+      "lat": 51.202129806107, 
+      "lon": 5.561439232879, 
       "municipality": "Bocholt", 
       "pcode": "3950", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelKadaster", 
       "street": "Hamonterweg"
     }, 
     {
@@ -419,11 +431,23 @@
         "136"
       ], 
       "housenumber": "136", 
-      "lat": 51.202711552388, 
-      "lon": 5.560919941912, 
+      "lat": 51.202849936525, 
+      "lon": 5.560818591759, 
       "municipality": "Bocholt", 
       "pcode": "3950", 
       "source": "manueleAanduidingVanGebouw", 
+      "street": "Hamonterweg"
+    }, 
+    {
+      "hnrlbls": [
+        "137"
+      ], 
+      "housenumber": "137", 
+      "lat": 51.199289388756, 
+      "lon": 5.563410676569, 
+      "municipality": "Bocholt", 
+      "pcode": "3950", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Hamonterweg"
     }, 
     {
@@ -431,35 +455,11 @@
         "138"
       ], 
       "housenumber": "138", 
-      "lat": 51.202999522665, 
-      "lon": 5.560506889678, 
-      "municipality": "Bocholt", 
-      "pcode": "3950", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Hamonterweg"
-    }, 
-    {
-      "hnrlbls": [
-        "138A"
-      ], 
-      "housenumber": "138A", 
-      "lat": 51.203390596843, 
-      "lon": 5.56057555785, 
+      "lat": 51.202985350093, 
+      "lon": 5.560468177547, 
       "municipality": "Bocholt", 
       "pcode": "3950", 
       "source": "afgeleidVanPerceelGrb", 
-      "street": "Hamonterweg"
-    }, 
-    {
-      "hnrlbls": [
-        "138B"
-      ], 
-      "housenumber": "138B", 
-      "lat": 51.203318384793, 
-      "lon": 5.560194933075, 
-      "municipality": "Bocholt", 
-      "pcode": "3950", 
-      "source": "afgeleidVanGebouw", 
       "street": "Hamonterweg"
     }, 
     {
@@ -488,44 +488,44 @@
     }, 
     {
       "hnrlbls": [
-        "140"
+        "140-140B"
       ], 
       "housenumber": "140", 
-      "lat": 51.20411278273, 
-      "lon": 5.559411732829, 
+      "lat": 51.204126061238, 
+      "lon": 5.559449993429, 
       "municipality": "Bocholt", 
       "pcode": "3950", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Hamonterweg"
     }, 
     {
       "busnrs": [
-        "0001"
+        "1"
       ], 
       "hnrlbls": [
-        "140A"
+        "140-140B"
       ], 
       "housenumber": "140A", 
-      "lat": 51.204211781525, 
-      "lon": 5.559266725463, 
+      "lat": 51.204126061238, 
+      "lon": 5.559449993429, 
       "municipality": "Bocholt", 
       "pcode": "3950", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Hamonterweg"
     }, 
     {
       "busnrs": [
-        "0001"
+        "1"
       ], 
       "hnrlbls": [
-        "140B"
+        "140-140B"
       ], 
       "housenumber": "140B", 
-      "lat": 51.204267302339, 
-      "lon": 5.559180995463, 
+      "lat": 51.204126061238, 
+      "lon": 5.559449993429, 
       "municipality": "Bocholt", 
       "pcode": "3950", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Hamonterweg"
     }, 
     {
@@ -662,7 +662,7 @@
     }, 
     {
       "hnrlbls": [
-        "153"
+        "153-153A"
       ], 
       "housenumber": "153", 
       "lat": 51.201023841963, 
@@ -674,14 +674,14 @@
     }, 
     {
       "hnrlbls": [
-        "153A"
+        "153-153A"
       ], 
       "housenumber": "153A", 
-      "lat": 51.201059006574, 
-      "lon": 5.56194227289, 
+      "lat": 51.201023841963, 
+      "lon": 5.56195267697, 
       "municipality": "Bocholt", 
       "pcode": "3950", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Hamonterweg"
     }, 
     {
@@ -701,11 +701,11 @@
         "155"
       ], 
       "housenumber": "155", 
-      "lat": 51.201244305945, 
-      "lon": 5.561815372045, 
+      "lat": 51.201236185351, 
+      "lon": 5.561720438017, 
       "municipality": "Bocholt", 
       "pcode": "3950", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Hamonterweg"
     }, 
     {
@@ -737,41 +737,53 @@
         "157"
       ], 
       "housenumber": "157", 
-      "lat": 51.201295959502, 
-      "lon": 5.561765610478, 
+      "lat": 51.201309920446, 
+      "lon": 5.5616828318, 
       "municipality": "Bocholt", 
       "pcode": "3950", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Hamonterweg"
     }, 
     {
       "busnrs": [
-        "0001", 
-        "0002", 
-        "0003", 
-        "0004"
+        "1", 
+        "2", 
+        "3", 
+        "4"
       ], 
       "hnrlbls": [
         "158"
       ], 
       "housenumber": "158", 
-      "lat": 51.205392959546, 
-      "lon": 5.558067490382, 
+      "lat": 51.205449959903, 
+      "lon": 5.558102574117, 
       "municipality": "Bocholt", 
       "pcode": "3950", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Hamonterweg"
     }, 
     {
       "hnrlbls": [
-        "159"
+        "159-159A"
       ], 
       "housenumber": "159", 
-      "lat": 51.20140864193, 
-      "lon": 5.561440957881, 
+      "lat": 51.201350212102, 
+      "lon": 5.561333861602, 
       "municipality": "Bocholt", 
       "pcode": "3950", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Hamonterweg"
+    }, 
+    {
+      "hnrlbls": [
+        "159-159A"
+      ], 
+      "housenumber": "159A", 
+      "lat": 51.201350212102, 
+      "lon": 5.561333861602, 
+      "municipality": "Bocholt", 
+      "pcode": "3950", 
+      "source": "afgeleidVanGebouw", 
       "street": "Hamonterweg"
     }, 
     {
@@ -827,11 +839,11 @@
         "163"
       ], 
       "housenumber": "163", 
-      "lat": 51.201562116813, 
-      "lon": 5.561429859882, 
+      "lat": 51.201522603943, 
+      "lon": 5.561327826144, 
       "municipality": "Bocholt", 
       "pcode": "3950", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Hamonterweg"
     }, 
     {
@@ -848,30 +860,30 @@
     }, 
     {
       "hnrlbls": [
-        "165"
+        "165-165A"
       ], 
       "housenumber": "165", 
-      "lat": 51.201642981019, 
-      "lon": 5.561318313593, 
+      "lat": 51.201638487044, 
+      "lon": 5.561229195306, 
       "municipality": "Bocholt", 
       "pcode": "3950", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Hamonterweg"
     }, 
     {
       "busnrs": [
-        "0001", 
-        "0002"
+        "1", 
+        "2"
       ], 
       "hnrlbls": [
-        "165A"
+        "165-165A"
       ], 
       "housenumber": "165A", 
-      "lat": 51.201689648339, 
-      "lon": 5.561281587994, 
+      "lat": 51.201638487044, 
+      "lon": 5.561229195306, 
       "municipality": "Bocholt", 
       "pcode": "3950", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Hamonterweg"
     }, 
     {
@@ -951,38 +963,38 @@
         "174"
       ], 
       "housenumber": "174", 
-      "lat": 51.206869578054, 
-      "lon": 5.55684481429, 
+      "lat": 51.206824799803, 
+      "lon": 5.55684581954, 
+      "municipality": "Bocholt", 
+      "pcode": "3950", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Hamonterweg"
+    }, 
+    {
+      "busnrs": [
+        "1"
+      ], 
+      "hnrlbls": [
+        "175-175A"
+      ], 
+      "housenumber": "175", 
+      "lat": 51.202352494609, 
+      "lon": 5.560564900285, 
       "municipality": "Bocholt", 
       "pcode": "3950", 
       "source": "afgeleidVanGebouw", 
       "street": "Hamonterweg"
     }, 
     {
-      "busnrs": [
-        "0001"
-      ], 
       "hnrlbls": [
-        "175"
-      ], 
-      "housenumber": "175", 
-      "lat": 51.202336901936, 
-      "lon": 5.560640198504, 
-      "municipality": "Bocholt", 
-      "pcode": "3950", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Hamonterweg"
-    }, 
-    {
-      "hnrlbls": [
-        "175A"
+        "175-175A"
       ], 
       "housenumber": "175A", 
-      "lat": 51.202405334479, 
-      "lon": 5.56057569546, 
+      "lat": 51.202352494609, 
+      "lon": 5.560564900285, 
       "municipality": "Bocholt", 
       "pcode": "3950", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Hamonterweg"
     }, 
     {
@@ -999,17 +1011,29 @@
     }, 
     {
       "busnrs": [
-        "0001"
+        "1"
       ], 
       "hnrlbls": [
-        "179"
+        "179-181"
       ], 
       "housenumber": "179", 
-      "lat": 51.202592252827, 
-      "lon": 5.560314889983, 
+      "lat": 51.202654584462, 
+      "lon": 5.560133321365, 
       "municipality": "Bocholt", 
       "pcode": "3950", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Hamonterweg"
+    }, 
+    {
+      "hnrlbls": [
+        "179A"
+      ], 
+      "housenumber": "179A", 
+      "lat": 51.202572709826, 
+      "lon": 5.559997578139, 
+      "municipality": "Bocholt", 
+      "pcode": "3950", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Hamonterweg"
     }, 
     {
@@ -1022,6 +1046,30 @@
       "municipality": "Bocholt", 
       "pcode": "3950", 
       "source": "afgeleidVanGebouw", 
+      "street": "Hamonterweg"
+    }, 
+    {
+      "hnrlbls": [
+        "179-181"
+      ], 
+      "housenumber": "181", 
+      "lat": 51.202654584462, 
+      "lon": 5.560133321365, 
+      "municipality": "Bocholt", 
+      "pcode": "3950", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Hamonterweg"
+    }, 
+    {
+      "hnrlbls": [
+        "183"
+      ], 
+      "housenumber": "183", 
+      "lat": 51.202990888637, 
+      "lon": 5.559981505628, 
+      "municipality": "Bocholt", 
+      "pcode": "3950", 
+      "source": "manueleAanduidingVanToegangTotDeWeg", 
       "street": "Hamonterweg"
     }, 
     {
@@ -1046,6 +1094,18 @@
       "municipality": "Bocholt", 
       "pcode": "3950", 
       "source": "afgeleidVanGebouw", 
+      "street": "Hamonterweg"
+    }, 
+    {
+      "hnrlbls": [
+        "187A"
+      ], 
+      "housenumber": "187A", 
+      "lat": 51.203523952284, 
+      "lon": 5.559466381252, 
+      "municipality": "Bocholt", 
+      "pcode": "3950", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Hamonterweg"
     }, 
     {
@@ -1089,11 +1149,11 @@
         "193"
       ], 
       "housenumber": "193", 
-      "lat": 51.203914417144, 
-      "lon": 5.559024734595, 
+      "lat": 51.203862277886, 
+      "lon": 5.558792727816, 
       "municipality": "Bocholt", 
       "pcode": "3950", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Hamonterweg"
     }, 
     {
@@ -1101,8 +1161,8 @@
         "195"
       ], 
       "housenumber": "195", 
-      "lat": 51.203911164634, 
-      "lon": 5.558874683735, 
+      "lat": 51.203911790861, 
+      "lon": 5.558874985921, 
       "municipality": "Bocholt", 
       "pcode": "3950", 
       "source": "afgeleidVanGebouw", 
@@ -1350,6 +1410,18 @@
     }, 
     {
       "hnrlbls": [
+        "27"
+      ], 
+      "housenumber": "27", 
+      "lat": 51.186654861495, 
+      "lon": 5.57591997747, 
+      "municipality": "Bocholt", 
+      "pcode": "3950", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "street": "Hamonterweg"
+    }, 
+    {
+      "hnrlbls": [
         "28"
       ], 
       "housenumber": "28", 
@@ -1374,14 +1446,14 @@
     }, 
     {
       "hnrlbls": [
-        "3"
+        "3-3A"
       ], 
       "housenumber": "3", 
-      "lat": 51.181930736558, 
-      "lon": 5.581817352609, 
+      "lat": 51.181913811481, 
+      "lon": 5.581784730104, 
       "municipality": "Bocholt", 
       "pcode": "3950", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Hamonterweg"
     }, 
     {
@@ -1428,11 +1500,11 @@
         "33"
       ], 
       "housenumber": "33", 
-      "lat": 51.187569664179, 
-      "lon": 5.5737273946, 
+      "lat": 51.187443826213, 
+      "lon": 5.573822560608, 
       "municipality": "Bocholt", 
       "pcode": "3950", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Hamonterweg"
     }, 
     {
@@ -1485,7 +1557,7 @@
     }, 
     {
       "hnrlbls": [
-        "38"
+        "38-38A"
       ], 
       "housenumber": "38", 
       "lat": 51.19074109379, 
@@ -1493,6 +1565,18 @@
       "municipality": "Bocholt", 
       "pcode": "3950", 
       "source": "afgeleidVanGebouw", 
+      "street": "Hamonterweg"
+    }, 
+    {
+      "hnrlbls": [
+        "38-38A"
+      ], 
+      "housenumber": "38A", 
+      "lat": 51.19074109379, 
+      "lon": 5.572946991394, 
+      "municipality": "Bocholt", 
+      "pcode": "3950", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Hamonterweg"
     }, 
     {
@@ -1505,6 +1589,18 @@
       "municipality": "Bocholt", 
       "pcode": "3950", 
       "source": "afgeleidVanGebouw", 
+      "street": "Hamonterweg"
+    }, 
+    {
+      "hnrlbls": [
+        "3-3A"
+      ], 
+      "housenumber": "3A", 
+      "lat": 51.181913811481, 
+      "lon": 5.581784730104, 
+      "municipality": "Bocholt", 
+      "pcode": "3950", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Hamonterweg"
     }, 
     {
@@ -1653,7 +1749,7 @@
     }, 
     {
       "hnrlbls": [
-        "5"
+        "5-7"
       ], 
       "housenumber": "5", 
       "lat": 51.181979840242, 
@@ -1860,11 +1956,11 @@
         "66"
       ], 
       "housenumber": "66", 
-      "lat": 51.193368876278, 
-      "lon": 5.570183275047, 
+      "lat": 51.193430067611, 
+      "lon": 5.570309749534, 
       "municipality": "Bocholt", 
       "pcode": "3950", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Hamonterweg"
     }, 
     {
@@ -1898,6 +1994,18 @@
       "housenumber": "69", 
       "lat": 51.193106188624, 
       "lon": 5.569839585155, 
+      "municipality": "Bocholt", 
+      "pcode": "3950", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Hamonterweg"
+    }, 
+    {
+      "hnrlbls": [
+        "5-7"
+      ], 
+      "housenumber": "7", 
+      "lat": 51.181979840242, 
+      "lon": 5.58168417927, 
       "municipality": "Bocholt", 
       "pcode": "3950", 
       "source": "afgeleidVanGebouw", 
@@ -2028,8 +2136,8 @@
         "79-81"
       ], 
       "housenumber": "79", 
-      "lat": 51.193927988073, 
-      "lon": 5.569056136644, 
+      "lat": 51.193930068237, 
+      "lon": 5.569054902577, 
       "municipality": "Bocholt", 
       "pcode": "3950", 
       "source": "afgeleidVanGebouw", 
@@ -2052,8 +2160,8 @@
         "79-81"
       ], 
       "housenumber": "81", 
-      "lat": 51.193927988073, 
-      "lon": 5.569056136644, 
+      "lat": 51.193930068237, 
+      "lon": 5.569054902577, 
       "municipality": "Bocholt", 
       "pcode": "3950", 
       "source": "afgeleidVanGebouw", 
@@ -2285,6 +2393,18 @@
       "municipality": "Bocholt", 
       "pcode": "3950", 
       "source": "afgeleidVanGebouw", 
+      "street": "Hamonterweg"
+    }, 
+    {
+      "hnrlbls": [
+        "zn"
+      ], 
+      "housenumber": "zn", 
+      "lat": 51.189500952404, 
+      "lon": 5.574868671413, 
+      "municipality": "Bocholt", 
+      "pcode": "3950", 
+      "source": "afgeleidVanStraat", 
       "street": "Hamonterweg"
     }
   ]

@@ -1,19 +1,15 @@
 {
   "addresses": [
     {
-      "busnrs": [
-        "W1", 
-        "W2"
-      ], 
       "hnrlbls": [
-        "1"
+        "1-1W"
       ], 
       "housenumber": "1", 
-      "lat": 51.066277179563, 
-      "lon": 4.033274577596, 
+      "lat": 51.066131466215, 
+      "lon": 4.03330557905, 
       "municipality": "Zele", 
       "pcode": "9240", 
-      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "source": "geinterpoleerdObvWegverbinding", 
       "street": "Drieputtenstraat"
     }, 
     {
@@ -129,11 +125,11 @@
         "115"
       ], 
       "housenumber": "115", 
-      "lat": 51.069062551169, 
-      "lon": 4.030862501915, 
+      "lat": 51.0690468544, 
+      "lon": 4.030811539315, 
       "municipality": "Zele", 
       "pcode": "9240", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Drieputtenstraat"
     }, 
     {
@@ -209,22 +205,21 @@
       "street": "Drieputtenstraat"
     }, 
     {
+      "busnrs": [
+        "AW01"
+      ], 
       "hnrlbls": [
         "18"
       ], 
       "housenumber": "18", 
-      "lat": 51.066999161409, 
-      "lon": 4.032921883103, 
+      "lat": 51.067013523965, 
+      "lon": 4.032978132277, 
       "municipality": "Zele", 
       "pcode": "9240", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Drieputtenstraat"
     }, 
     {
-      "busnrs": [
-        "W1", 
-        "W2"
-      ], 
       "hnrlbls": [
         "18A"
       ], 
@@ -246,6 +241,22 @@
       "municipality": "Zele", 
       "pcode": "9240", 
       "source": "afgeleidVanGebouw", 
+      "street": "Drieputtenstraat"
+    }, 
+    {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
+      "hnrlbls": [
+        "1-1W"
+      ], 
+      "housenumber": "1W", 
+      "lat": 51.066131466215, 
+      "lon": 4.03330557905, 
+      "municipality": "Zele", 
+      "pcode": "9240", 
+      "source": "geinterpoleerdObvWegverbinding", 
       "street": "Drieputtenstraat"
     }, 
     {
@@ -409,11 +420,11 @@
         "3"
       ], 
       "housenumber": "3", 
-      "lat": 51.066406950631, 
-      "lon": 4.033105878943, 
+      "lat": 51.066184459972, 
+      "lon": 4.033259405719, 
       "municipality": "Zele", 
       "pcode": "9240", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "geinterpoleerdObvWegverbinding", 
       "street": "Drieputtenstraat"
     }, 
     {
@@ -505,11 +516,11 @@
         "38"
       ], 
       "housenumber": "38", 
-      "lat": 51.067631287135, 
-      "lon": 4.03239206108, 
+      "lat": 51.067663127522, 
+      "lon": 4.032493553079, 
       "municipality": "Zele", 
       "pcode": "9240", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Drieputtenstraat"
     }, 
     {
@@ -541,11 +552,11 @@
         "40"
       ], 
       "housenumber": "40", 
-      "lat": 51.067707203238, 
-      "lon": 4.032314619649, 
+      "lat": 51.067735793989, 
+      "lon": 4.032379755334, 
       "municipality": "Zele", 
       "pcode": "9240", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Drieputtenstraat"
     }, 
     {
@@ -585,14 +596,8 @@
       "street": "Drieputtenstraat"
     }, 
     {
-      "busnrs": [
-        "W1", 
-        "W2", 
-        "W3", 
-        "W4"
-      ], 
       "hnrlbls": [
-        "46"
+        "46-46W"
       ], 
       "housenumber": "46", 
       "lat": 51.067896156039, 
@@ -603,15 +608,57 @@
       "street": "Drieputtenstraat"
     }, 
     {
-      "hnrlbls": [
-        "47"
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4"
       ], 
-      "housenumber": "47", 
-      "lat": 51.067273869885, 
-      "lon": 4.031945233121, 
+      "hnrlbls": [
+        "46-46W"
+      ], 
+      "housenumber": "46W", 
+      "lat": 51.067896156039, 
+      "lon": 4.032284587718, 
       "municipality": "Zele", 
       "pcode": "9240", 
-      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "street": "Drieputtenstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "47-51"
+      ], 
+      "housenumber": "47", 
+      "lat": 51.067219030964, 
+      "lon": 4.032384604471, 
+      "municipality": "Zele", 
+      "pcode": "9240", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "street": "Drieputtenstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "48"
+      ], 
+      "housenumber": "48", 
+      "lat": 51.067951305929, 
+      "lon": 4.032175052167, 
+      "municipality": "Zele", 
+      "pcode": "9240", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "street": "Drieputtenstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "47-51"
+      ], 
+      "housenumber": "49", 
+      "lat": 51.067219030964, 
+      "lon": 4.032384604471, 
+      "municipality": "Zele", 
+      "pcode": "9240", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Drieputtenstraat"
     }, 
     {
@@ -628,14 +675,14 @@
     }, 
     {
       "hnrlbls": [
-        "51"
+        "47-51"
       ], 
       "housenumber": "51", 
-      "lat": 51.067388173562, 
-      "lon": 4.032310917258, 
+      "lat": 51.067219030964, 
+      "lon": 4.032384604471, 
       "municipality": "Zele", 
       "pcode": "9240", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Drieputtenstraat"
     }, 
     {
@@ -643,11 +690,11 @@
         "53"
       ], 
       "housenumber": "53", 
-      "lat": 51.067527527467, 
-      "lon": 4.032130301911, 
+      "lat": 51.06736263216, 
+      "lon": 4.032085690624, 
       "municipality": "Zele", 
       "pcode": "9240", 
-      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Drieputtenstraat"
     }, 
     {
@@ -691,11 +738,11 @@
         "57"
       ], 
       "housenumber": "57", 
-      "lat": 51.067654858942, 
-      "lon": 4.032052348288, 
+      "lat": 51.067645925029, 
+      "lon": 4.032008614181, 
       "municipality": "Zele", 
       "pcode": "9240", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Drieputtenstraat"
     }, 
     {
@@ -703,11 +750,11 @@
         "58"
       ], 
       "housenumber": "58", 
-      "lat": 51.068076257175, 
-      "lon": 4.031987404366, 
+      "lat": 51.068090653121, 
+      "lon": 4.032055210318, 
       "municipality": "Zele", 
       "pcode": "9240", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Drieputtenstraat"
     }, 
     {
@@ -715,11 +762,11 @@
         "59"
       ], 
       "housenumber": "59", 
-      "lat": 51.067704421789, 
-      "lon": 4.032001060715, 
+      "lat": 51.067694311583, 
+      "lon": 4.031954624377, 
       "municipality": "Zele", 
       "pcode": "9240", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Drieputtenstraat"
     }, 
     {
@@ -739,11 +786,11 @@
         "60"
       ], 
       "housenumber": "60", 
-      "lat": 51.068127112599, 
-      "lon": 4.03194809099, 
+      "lat": 51.06813905352, 
+      "lon": 4.032006070623, 
       "municipality": "Zele", 
       "pcode": "9240", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Drieputtenstraat"
     }, 
     {
@@ -751,11 +798,11 @@
         "61"
       ], 
       "housenumber": "61", 
-      "lat": 51.06774515565, 
-      "lon": 4.031942845845, 
+      "lat": 51.067695532693, 
+      "lon": 4.031783987627, 
       "municipality": "Zele", 
       "pcode": "9240", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Drieputtenstraat"
     }, 
     {
@@ -832,6 +879,18 @@
     }, 
     {
       "hnrlbls": [
+        "68-70"
+      ], 
+      "housenumber": "68", 
+      "lat": 51.068424541122, 
+      "lon": 4.03178459688, 
+      "municipality": "Zele", 
+      "pcode": "9240", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Drieputtenstraat"
+    }, 
+    {
+      "hnrlbls": [
         "69"
       ], 
       "housenumber": "69", 
@@ -844,14 +903,26 @@
     }, 
     {
       "hnrlbls": [
-        "7"
+        "7-9"
       ], 
       "housenumber": "7", 
-      "lat": 51.066570841124, 
-      "lon": 4.032986866684, 
+      "lat": 51.066568227534, 
+      "lon": 4.032921260843, 
       "municipality": "Zele", 
       "pcode": "9240", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Drieputtenstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "68-70"
+      ], 
+      "housenumber": "70", 
+      "lat": 51.068424541122, 
+      "lon": 4.03178459688, 
+      "municipality": "Zele", 
+      "pcode": "9240", 
+      "source": "afgeleidVanGebouw", 
       "street": "Drieputtenstraat"
     }, 
     {
@@ -859,11 +930,11 @@
         "71"
       ], 
       "housenumber": "71", 
-      "lat": 51.067985567932, 
-      "lon": 4.031770204222, 
+      "lat": 51.06797644396, 
+      "lon": 4.031722904566, 
       "municipality": "Zele", 
       "pcode": "9240", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Drieputtenstraat"
     }, 
     {
@@ -879,11 +950,6 @@
       "street": "Drieputtenstraat"
     }, 
     {
-      "busnrs": [
-        "W1", 
-        "W2", 
-        "W3"
-      ], 
       "hnrlbls": [
         "73"
       ], 
@@ -893,6 +959,23 @@
       "municipality": "Zele", 
       "pcode": "9240", 
       "source": "afgeleidVanGebouw", 
+      "street": "Drieputtenstraat"
+    }, 
+    {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3"
+      ], 
+      "hnrlbls": [
+        "73W"
+      ], 
+      "housenumber": "73W", 
+      "lat": 51.068004506612, 
+      "lon": 4.031634392267, 
+      "municipality": "Zele", 
+      "pcode": "9240", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Drieputtenstraat"
     }, 
     {
@@ -1089,14 +1172,14 @@
     }, 
     {
       "hnrlbls": [
-        "9"
+        "7-9"
       ], 
       "housenumber": "9", 
-      "lat": 51.066597823601, 
-      "lon": 4.032960708919, 
+      "lat": 51.066568227534, 
+      "lon": 4.032921260843, 
       "municipality": "Zele", 
       "pcode": "9240", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Drieputtenstraat"
     }, 
     {
@@ -1128,11 +1211,11 @@
         "93"
       ], 
       "housenumber": "93", 
-      "lat": 51.068538366725, 
-      "lon": 4.031289719048, 
+      "lat": 51.068511112688, 
+      "lon": 4.031220721246, 
       "municipality": "Zele", 
       "pcode": "9240", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Drieputtenstraat"
     }, 
     {

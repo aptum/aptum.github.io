@@ -2,14 +2,14 @@
   "addresses": [
     {
       "hnrlbls": [
-        "1"
+        "1-2282"
       ], 
       "housenumber": "1", 
-      "lat": 51.069268898864, 
-      "lon": 4.033909879471, 
+      "lat": 51.067987512639, 
+      "lon": 4.026849196529, 
       "municipality": "Zele", 
       "pcode": "9240", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanStraat", 
       "street": "Driesstraat"
     }, 
     {
@@ -41,11 +41,11 @@
         "100B"
       ], 
       "housenumber": "100B", 
-      "lat": 51.069185527893, 
-      "lon": 4.029548194658, 
+      "lat": 51.069284430767, 
+      "lon": 4.029368855663, 
       "municipality": "Zele", 
       "pcode": "9240", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Driesstraat"
     }, 
     {
@@ -53,11 +53,11 @@
         "101"
       ], 
       "housenumber": "101", 
-      "lat": 51.068559919825, 
-      "lon": 4.026876266003, 
+      "lat": 51.068536246399, 
+      "lon": 4.026896126855, 
       "municipality": "Zele", 
       "pcode": "9240", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Driesstraat"
     }, 
     {
@@ -89,11 +89,11 @@
         "103"
       ], 
       "housenumber": "103", 
-      "lat": 51.068535833244, 
-      "lon": 4.026815522369, 
+      "lat": 51.068474215289, 
+      "lon": 4.026862624245, 
       "municipality": "Zele", 
       "pcode": "9240", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Driesstraat"
     }, 
     {
@@ -293,20 +293,16 @@
         "11A"
       ], 
       "housenumber": "11A", 
-      "lat": 51.069149824302, 
-      "lon": 4.033033737777, 
+      "lat": 51.069094808276, 
+      "lon": 4.033095765118, 
       "municipality": "Zele", 
       "pcode": "9240", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Driesstraat"
     }, 
     {
-      "busnrs": [
-        "W1", 
-        "W2"
-      ], 
       "hnrlbls": [
-        "121"
+        "121-121W"
       ], 
       "housenumber": "121", 
       "lat": 51.067888803072, 
@@ -314,6 +310,22 @@
       "municipality": "Zele", 
       "pcode": "9240", 
       "source": "afgeleidVanGebouw", 
+      "street": "Driesstraat"
+    }, 
+    {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
+      "hnrlbls": [
+        "121-121W"
+      ], 
+      "housenumber": "121W", 
+      "lat": 51.067888803072, 
+      "lon": 4.026163264185, 
+      "municipality": "Zele", 
+      "pcode": "9240", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Driesstraat"
     }, 
     {
@@ -342,36 +354,31 @@
     }, 
     {
       "hnrlbls": [
-        "126"
+        "126-128"
       ], 
       "housenumber": "126", 
-      "lat": 51.069013976617, 
-      "lon": 4.028097344998, 
+      "lat": 51.069052949052, 
+      "lon": 4.028052406171, 
       "municipality": "Zele", 
       "pcode": "9240", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Driesstraat"
     }, 
     {
       "hnrlbls": [
-        "128"
+        "126-128"
       ], 
       "housenumber": "128", 
-      "lat": 51.069007990962, 
-      "lon": 4.027985535554, 
+      "lat": 51.069052949052, 
+      "lon": 4.028052406171, 
       "municipality": "Zele", 
       "pcode": "9240", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Driesstraat"
     }, 
     {
-      "busnrs": [
-        "W1", 
-        "W2", 
-        "W3"
-      ], 
       "hnrlbls": [
-        "13"
+        "13-13W"
       ], 
       "housenumber": "13", 
       "lat": 51.069120778451, 
@@ -398,35 +405,76 @@
         "134"
       ], 
       "housenumber": "134", 
-      "lat": 51.069018133394, 
-      "lon": 4.027451164163, 
+      "lat": 51.069121526354, 
+      "lon": 4.027364666763, 
       "municipality": "Zele", 
       "pcode": "9240", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Driesstraat"
     }, 
     {
       "hnrlbls": [
-        "138"
+        "136"
+      ], 
+      "housenumber": "136", 
+      "lat": 51.069059616213, 
+      "lon": 4.027341862462, 
+      "municipality": "Zele", 
+      "pcode": "9240", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "street": "Driesstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "137-141"
+      ], 
+      "housenumber": "137", 
+      "lat": 51.066883064356, 
+      "lon": 4.024292026161, 
+      "municipality": "Zele", 
+      "pcode": "9240", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "street": "Driesstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "138-138A"
       ], 
       "housenumber": "138", 
-      "lat": 51.06896749591, 
-      "lon": 4.02734766948, 
+      "lat": 51.06900045336, 
+      "lon": 4.027274382642, 
       "municipality": "Zele", 
       "pcode": "9240", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Driesstraat"
     }, 
     {
       "hnrlbls": [
-        "138A"
+        "138-138A"
       ], 
       "housenumber": "138A", 
-      "lat": 51.068938320981, 
-      "lon": 4.027267987116, 
+      "lat": 51.06900045336, 
+      "lon": 4.027274382642, 
       "municipality": "Zele", 
       "pcode": "9240", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Driesstraat"
+    }, 
+    {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3"
+      ], 
+      "hnrlbls": [
+        "13-13W"
+      ], 
+      "housenumber": "13W", 
+      "lat": 51.069120778451, 
+      "lon": 4.032903260185, 
+      "municipality": "Zele", 
+      "pcode": "9240", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Driesstraat"
     }, 
     {
@@ -443,19 +491,31 @@
     }, 
     {
       "hnrlbls": [
-        "146"
+        "137-141"
       ], 
-      "housenumber": "146", 
-      "lat": 51.068931520417, 
-      "lon": 4.027092268024, 
+      "housenumber": "141", 
+      "lat": 51.066883064356, 
+      "lon": 4.024292026161, 
       "municipality": "Zele", 
       "pcode": "9240", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Driesstraat"
     }, 
     {
       "hnrlbls": [
-        "146A"
+        "146-146A"
+      ], 
+      "housenumber": "146", 
+      "lat": 51.069024073421, 
+      "lon": 4.027018546612, 
+      "municipality": "Zele", 
+      "pcode": "9240", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Driesstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "146-146A"
       ], 
       "housenumber": "146A", 
       "lat": 51.069024073421, 
@@ -626,11 +686,11 @@
         "163"
       ], 
       "housenumber": "163", 
-      "lat": 51.065766384066, 
-      "lon": 4.02257847102, 
+      "lat": 51.065742636928, 
+      "lon": 4.022603611818, 
       "municipality": "Zele", 
       "pcode": "9240", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Driesstraat"
     }, 
     {
@@ -638,11 +698,11 @@
         "164"
       ], 
       "housenumber": "164", 
-      "lat": 51.068262866878, 
-      "lon": 4.025709844426, 
+      "lat": 51.06830752581, 
+      "lon": 4.025673280086, 
       "municipality": "Zele", 
       "pcode": "9240", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Driesstraat"
     }, 
     {
@@ -691,6 +751,18 @@
       "municipality": "Zele", 
       "pcode": "9240", 
       "source": "afgeleidVanGebouw", 
+      "street": "Driesstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "169"
+      ], 
+      "housenumber": "169", 
+      "lat": 51.065658673389, 
+      "lon": 4.022478834172, 
+      "municipality": "Zele", 
+      "pcode": "9240", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Driesstraat"
     }, 
     {
@@ -746,11 +818,11 @@
         "174"
       ], 
       "housenumber": "174", 
-      "lat": 51.068041956068, 
-      "lon": 4.024734337135, 
+      "lat": 51.067836084511, 
+      "lon": 4.025158424706, 
       "municipality": "Zele", 
       "pcode": "9240", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Driesstraat"
     }, 
     {
@@ -818,11 +890,11 @@
         "184"
       ], 
       "housenumber": "184", 
-      "lat": 51.067598387234, 
-      "lon": 4.024994247171, 
+      "lat": 51.06761454648, 
+      "lon": 4.024956179693, 
       "municipality": "Zele", 
       "pcode": "9240", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Driesstraat"
     }, 
     {
@@ -842,11 +914,11 @@
         "188"
       ], 
       "housenumber": "188", 
-      "lat": 51.067530848886, 
-      "lon": 4.024921840569, 
+      "lat": 51.067545656464, 
+      "lon": 4.024882641714, 
       "municipality": "Zele", 
       "pcode": "9240", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Driesstraat"
     }, 
     {
@@ -890,11 +962,11 @@
         "204"
       ], 
       "housenumber": "204", 
-      "lat": 51.067343680679, 
-      "lon": 4.024668985181, 
+      "lat": 51.0673804408, 
+      "lon": 4.024636473156, 
       "municipality": "Zele", 
       "pcode": "9240", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Driesstraat"
     }, 
     {
@@ -902,11 +974,11 @@
         "206"
       ], 
       "housenumber": "206", 
-      "lat": 51.067302630314, 
-      "lon": 4.024617356646, 
+      "lat": 51.067322631337, 
+      "lon": 4.024571271862, 
       "municipality": "Zele", 
       "pcode": "9240", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Driesstraat"
     }, 
     {
@@ -923,14 +995,14 @@
     }, 
     {
       "hnrlbls": [
-        "21"
+        "21-23"
       ], 
       "housenumber": "21", 
-      "lat": 51.068724389134, 
-      "lon": 4.032091176559, 
+      "lat": 51.069117915439, 
+      "lon": 4.032402652144, 
       "municipality": "Zele", 
       "pcode": "9240", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Driesstraat"
     }, 
     {
@@ -1010,11 +1082,11 @@
         "224"
       ], 
       "housenumber": "224", 
-      "lat": 51.066535415408, 
-      "lon": 4.023476556353, 
+      "lat": 51.066826625777, 
+      "lon": 4.023250145319, 
       "municipality": "Zele", 
       "pcode": "9240", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Driesstraat"
     }, 
     {
@@ -1034,23 +1106,47 @@
         "228"
       ], 
       "housenumber": "228", 
-      "lat": 51.066422370998, 
-      "lon": 4.023335583201, 
+      "lat": 51.06641430351, 
+      "lon": 4.023281859183, 
       "municipality": "Zele", 
       "pcode": "9240", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Driesstraat"
     }, 
     {
       "hnrlbls": [
-        "23"
+        "1-2282"
       ], 
-      "housenumber": "23", 
-      "lat": 51.069114463117, 
-      "lon": 4.032074393574, 
+      "housenumber": "2282", 
+      "lat": 51.067987512639, 
+      "lon": 4.026849196529, 
       "municipality": "Zele", 
       "pcode": "9240", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanStraat", 
+      "street": "Driesstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "21-23"
+      ], 
+      "housenumber": "23", 
+      "lat": 51.069117915439, 
+      "lon": 4.032402652144, 
+      "municipality": "Zele", 
+      "pcode": "9240", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "street": "Driesstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "230"
+      ], 
+      "housenumber": "230", 
+      "lat": 51.066395344937, 
+      "lon": 4.023223222299, 
+      "municipality": "Zele", 
+      "pcode": "9240", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Driesstraat"
     }, 
     {
@@ -1058,11 +1154,11 @@
         "230A"
       ], 
       "housenumber": "230A", 
-      "lat": 51.066338887881, 
-      "lon": 4.023190398303, 
+      "lat": 51.06637629603, 
+      "lon": 4.023164443467, 
       "municipality": "Zele", 
       "pcode": "9240", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Driesstraat"
     }, 
     {
@@ -1186,12 +1282,8 @@
       "street": "Driesstraat"
     }, 
     {
-      "busnrs": [
-        "W1", 
-        "W2"
-      ], 
       "hnrlbls": [
-        "248"
+        "248-248W"
       ], 
       "housenumber": "248", 
       "lat": 51.06570862246, 
@@ -1199,6 +1291,22 @@
       "municipality": "Zele", 
       "pcode": "9240", 
       "source": "afgeleidVanGebouw", 
+      "street": "Driesstraat"
+    }, 
+    {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
+      "hnrlbls": [
+        "248-248W"
+      ], 
+      "housenumber": "248W", 
+      "lat": 51.06570862246, 
+      "lon": 4.022070458885, 
+      "municipality": "Zele", 
+      "pcode": "9240", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Driesstraat"
     }, 
     {
@@ -1239,14 +1347,14 @@
     }, 
     {
       "hnrlbls": [
-        "3"
+        "1-2282"
       ], 
       "housenumber": "3", 
-      "lat": 51.06913482075, 
-      "lon": 4.033732927777, 
+      "lat": 51.067987512639, 
+      "lon": 4.026849196529, 
       "municipality": "Zele", 
       "pcode": "9240", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanStraat", 
       "street": "Driesstraat"
     }, 
     {
@@ -1254,11 +1362,11 @@
         "31"
       ], 
       "housenumber": "31", 
-      "lat": 51.069148251176, 
-      "lon": 4.031629591305, 
+      "lat": 51.069091550715, 
+      "lon": 4.031668091896, 
       "municipality": "Zele", 
       "pcode": "9240", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Driesstraat"
     }, 
     {
@@ -1266,11 +1374,11 @@
         "33"
       ], 
       "housenumber": "33", 
-      "lat": 51.069139846117, 
-      "lon": 4.031550755273, 
+      "lat": 51.069054386138, 
+      "lon": 4.031622562165, 
       "municipality": "Zele", 
       "pcode": "9240", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Driesstraat"
     }, 
     {
@@ -1278,11 +1386,11 @@
         "35"
       ], 
       "housenumber": "35", 
-      "lat": 51.069110602721, 
-      "lon": 4.031446103283, 
+      "lat": 51.069023869706, 
+      "lon": 4.031512783375, 
       "municipality": "Zele", 
       "pcode": "9240", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Driesstraat"
     }, 
     {
@@ -1290,23 +1398,11 @@
         "37"
       ], 
       "housenumber": "37", 
-      "lat": 51.069120424826, 
-      "lon": 4.03136014534, 
+      "lat": 51.069008830789, 
+      "lon": 4.031440272767, 
       "municipality": "Zele", 
       "pcode": "9240", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Driesstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "38"
-      ], 
-      "housenumber": "38", 
-      "lat": 51.081455096778, 
-      "lon": 4.045872173845, 
-      "municipality": "Zele", 
-      "pcode": "9240", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Driesstraat"
     }, 
     {
@@ -1358,14 +1454,6 @@
       "street": "Driesstraat"
     }, 
     {
-      "busnrs": [
-        "W1", 
-        "W2", 
-        "W3", 
-        "W4", 
-        "W5", 
-        "W6"
-      ], 
       "hnrlbls": [
         "46"
       ], 
@@ -1378,24 +1466,56 @@
       "street": "Driesstraat"
     }, 
     {
-      "hnrlbls": [
-        "47"
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6"
       ], 
-      "housenumber": "47", 
-      "lat": 51.069069704993, 
-      "lon": 4.030629613347, 
+      "hnrlbls": [
+        "46W"
+      ], 
+      "housenumber": "46W", 
+      "lat": 51.069420520184, 
+      "lon": 4.032225851925, 
       "municipality": "Zele", 
       "pcode": "9240", 
-      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Driesstraat"
     }, 
     {
       "hnrlbls": [
-        "48"
+        "47-49"
+      ], 
+      "housenumber": "47", 
+      "lat": 51.069033754299, 
+      "lon": 4.030631442017, 
+      "municipality": "Zele", 
+      "pcode": "9240", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Driesstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "48-50"
       ], 
       "housenumber": "48", 
       "lat": 51.069333119468, 
       "lon": 4.032121473844, 
+      "municipality": "Zele", 
+      "pcode": "9240", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Driesstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "47-49"
+      ], 
+      "housenumber": "49", 
+      "lat": 51.069033754299, 
+      "lon": 4.030631442017, 
       "municipality": "Zele", 
       "pcode": "9240", 
       "source": "afgeleidVanGebouw", 
@@ -1408,6 +1528,18 @@
       "housenumber": "5", 
       "lat": 51.069013630217, 
       "lon": 4.033409506, 
+      "municipality": "Zele", 
+      "pcode": "9240", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Driesstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "48-50"
+      ], 
+      "housenumber": "50", 
+      "lat": 51.069333119468, 
+      "lon": 4.032121473844, 
       "municipality": "Zele", 
       "pcode": "9240", 
       "source": "afgeleidVanGebouw", 
@@ -1502,11 +1634,11 @@
         "60"
       ], 
       "housenumber": "60", 
-      "lat": 51.069311548887, 
-      "lon": 4.031807325717, 
+      "lat": 51.069424733457, 
+      "lon": 4.031717485599, 
       "municipality": "Zele", 
       "pcode": "9240", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Driesstraat"
     }, 
     {
@@ -1526,11 +1658,11 @@
         "63"
       ], 
       "housenumber": "63", 
-      "lat": 51.068963520867, 
-      "lon": 4.029586752458, 
+      "lat": 51.068981237245, 
+      "lon": 4.029620864952, 
       "municipality": "Zele", 
       "pcode": "9240", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Driesstraat"
     }, 
     {
@@ -1574,11 +1706,11 @@
         "67A"
       ], 
       "housenumber": "67A", 
-      "lat": 51.068988371719, 
-      "lon": 4.029257006122, 
+      "lat": 51.0689450071, 
+      "lon": 4.029275153844, 
       "municipality": "Zele", 
       "pcode": "9240", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Driesstraat"
     }, 
     {
@@ -1595,7 +1727,7 @@
     }, 
     {
       "hnrlbls": [
-        "70"
+        "70-70A"
       ], 
       "housenumber": "70", 
       "lat": 51.069274772167, 
@@ -1603,6 +1735,18 @@
       "municipality": "Zele", 
       "pcode": "9240", 
       "source": "afgeleidVanPerceelGrb", 
+      "street": "Driesstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "70-70A"
+      ], 
+      "housenumber": "70A", 
+      "lat": 51.069274772167, 
+      "lon": 4.03117370568, 
+      "municipality": "Zele", 
+      "pcode": "9240", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Driesstraat"
     }, 
     {
@@ -1622,11 +1766,11 @@
         "72"
       ], 
       "housenumber": "72", 
-      "lat": 51.069260342002, 
-      "lon": 4.031062669421, 
+      "lat": 51.069305753099, 
+      "lon": 4.03103708963, 
       "municipality": "Zele", 
       "pcode": "9240", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Driesstraat"
     }, 
     {
@@ -1646,11 +1790,11 @@
         "74"
       ], 
       "housenumber": "74", 
-      "lat": 51.069244086002, 
-      "lon": 4.030879027224, 
+      "lat": 51.069285762178, 
+      "lon": 4.030867598552, 
       "municipality": "Zele", 
       "pcode": "9240", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Driesstraat"
     }, 
     {
@@ -1658,11 +1802,23 @@
         "75"
       ], 
       "housenumber": "75", 
-      "lat": 51.068743947825, 
-      "lon": 4.028502774521, 
+      "lat": 51.068705225147, 
+      "lon": 4.028447272139, 
       "municipality": "Zele", 
       "pcode": "9240", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Driesstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "75A"
+      ], 
+      "housenumber": "75A", 
+      "lat": 51.068685596355, 
+      "lon": 4.028373512306, 
+      "municipality": "Zele", 
+      "pcode": "9240", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Driesstraat"
     }, 
     {
@@ -1715,14 +1871,14 @@
     }, 
     {
       "hnrlbls": [
-        "85"
+        "85-87"
       ], 
       "housenumber": "85", 
-      "lat": 51.068822841082, 
-      "lon": 4.027495529399, 
+      "lat": 51.068788188452, 
+      "lon": 4.027479945413, 
       "municipality": "Zele", 
       "pcode": "9240", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Driesstraat"
     }, 
     {
@@ -1730,23 +1886,23 @@
         "86"
       ], 
       "housenumber": "86", 
-      "lat": 51.069242278807, 
-      "lon": 4.03068729142, 
+      "lat": 51.069303693965, 
+      "lon": 4.030663022554, 
       "municipality": "Zele", 
       "pcode": "9240", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Driesstraat"
     }, 
     {
       "hnrlbls": [
-        "87"
+        "85-87"
       ], 
       "housenumber": "87", 
-      "lat": 51.068796188888, 
-      "lon": 4.027417826186, 
+      "lat": 51.068788188452, 
+      "lon": 4.027479945413, 
       "municipality": "Zele", 
       "pcode": "9240", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Driesstraat"
     }, 
     {
@@ -1766,11 +1922,11 @@
         "89"
       ], 
       "housenumber": "89", 
-      "lat": 51.068745574471, 
-      "lon": 4.027322321313, 
+      "lat": 51.068713609035, 
+      "lon": 4.027365640071, 
       "municipality": "Zele", 
       "pcode": "9240", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Driesstraat"
     }, 
     {
@@ -1814,11 +1970,11 @@
         "93"
       ], 
       "housenumber": "93", 
-      "lat": 51.06872259059, 
-      "lon": 4.027207640406, 
+      "lat": 51.068402482073, 
+      "lon": 4.027483752036, 
       "municipality": "Zele", 
       "pcode": "9240", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Driesstraat"
     }, 
     {
@@ -1826,11 +1982,11 @@
         "94"
       ], 
       "housenumber": "94", 
-      "lat": 51.069223170101, 
-      "lon": 4.03016711099, 
+      "lat": 51.069323179602, 
+      "lon": 4.030216608669, 
       "municipality": "Zele", 
       "pcode": "9240", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Driesstraat"
     }, 
     {
@@ -1838,11 +1994,11 @@
         "95"
       ], 
       "housenumber": "95", 
-      "lat": 51.068685273317, 
-      "lon": 4.027141000726, 
+      "lat": 51.068623546364, 
+      "lon": 4.02718154037, 
       "municipality": "Zele", 
       "pcode": "9240", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Driesstraat"
     }, 
     {

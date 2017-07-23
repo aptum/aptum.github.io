@@ -2,14 +2,14 @@
   "addresses": [
     {
       "hnrlbls": [
-        "1"
+        "1-5"
       ], 
       "housenumber": "1", 
-      "lat": 51.060668063089, 
-      "lon": 4.055940901521, 
+      "lat": 51.060692327736, 
+      "lon": 4.056040590447, 
       "municipality": "Zele", 
       "pcode": "9240", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Huivelde"
     }, 
     {
@@ -77,11 +77,11 @@
         "106"
       ], 
       "housenumber": "106", 
-      "lat": 51.063485253073, 
-      "lon": 4.065993371397, 
+      "lat": 51.063475274662, 
+      "lon": 4.065958058028, 
       "municipality": "Zele", 
       "pcode": "9240", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Huivelde"
     }, 
     {
@@ -161,11 +161,11 @@
         "111"
       ], 
       "housenumber": "111", 
-      "lat": 51.06386693157, 
-      "lon": 4.065645400264, 
+      "lat": 51.064043549281, 
+      "lon": 4.065569222612, 
       "municipality": "Zele", 
       "pcode": "9240", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Huivelde"
     }, 
     {
@@ -197,11 +197,11 @@
         "120"
       ], 
       "housenumber": "120", 
-      "lat": 51.063980497582, 
-      "lon": 4.068226987397, 
+      "lat": 51.063984254729, 
+      "lon": 4.068325822484, 
       "municipality": "Zele", 
       "pcode": "9240", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Huivelde"
     }, 
     {
@@ -233,11 +233,11 @@
         "128"
       ], 
       "housenumber": "128", 
-      "lat": 51.064166488184, 
-      "lon": 4.068619236519, 
+      "lat": 51.064126104766, 
+      "lon": 4.068610222442, 
       "municipality": "Zele", 
       "pcode": "9240", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Huivelde"
     }, 
     {
@@ -250,6 +250,18 @@
       "municipality": "Zele", 
       "pcode": "9240", 
       "source": "afgeleidVanGebouw", 
+      "street": "Huivelde"
+    }, 
+    {
+      "hnrlbls": [
+        "130"
+      ], 
+      "housenumber": "130", 
+      "lat": 51.064162446823, 
+      "lon": 4.068726823844, 
+      "municipality": "Zele", 
+      "pcode": "9240", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Huivelde"
     }, 
     {
@@ -305,11 +317,11 @@
         "135"
       ], 
       "housenumber": "135", 
-      "lat": 51.064424610433, 
-      "lon": 4.068002312382, 
+      "lat": 51.064451104235, 
+      "lon": 4.067993012528, 
       "municipality": "Zele", 
       "pcode": "9240", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Huivelde"
     }, 
     {
@@ -317,11 +329,11 @@
         "137"
       ], 
       "housenumber": "137", 
-      "lat": 51.064241656409, 
-      "lon": 4.068309052084, 
+      "lat": 51.064297464965, 
+      "lon": 4.068268608516, 
       "municipality": "Zele", 
       "pcode": "9240", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Huivelde"
     }, 
     {
@@ -329,11 +341,11 @@
         "138"
       ], 
       "housenumber": "138", 
-      "lat": 51.064408584059, 
-      "lon": 4.069123827754, 
+      "lat": 51.064359241744, 
+      "lon": 4.06916208926, 
       "municipality": "Zele", 
       "pcode": "9240", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Huivelde"
     }, 
     {
@@ -401,11 +413,11 @@
         "144"
       ], 
       "housenumber": "144", 
-      "lat": 51.064590298666, 
-      "lon": 4.06956803799, 
+      "lat": 51.064548361374, 
+      "lon": 4.069619804224, 
       "municipality": "Zele", 
       "pcode": "9240", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Huivelde"
     }, 
     {
@@ -413,11 +425,11 @@
         "145"
       ], 
       "housenumber": "145", 
-      "lat": 51.064303827654, 
-      "lon": 4.068508370617, 
+      "lat": 51.064333144975, 
+      "lon": 4.068478225369, 
       "municipality": "Zele", 
       "pcode": "9240", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Huivelde"
     }, 
     {
@@ -449,29 +461,41 @@
         "147"
       ], 
       "housenumber": "147", 
-      "lat": 51.064341136813, 
-      "lon": 4.068581028453, 
+      "lat": 51.064392472465, 
+      "lon": 4.068584408893, 
       "municipality": "Zele", 
       "pcode": "9240", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Huivelde"
+    }, 
+    {
+      "hnrlbls": [
+        "148-148W"
+      ], 
+      "housenumber": "148", 
+      "lat": 51.064705434395, 
+      "lon": 4.069917952145, 
+      "municipality": "Zele", 
+      "pcode": "9240", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Huivelde"
     }, 
     {
       "busnrs": [
-        "W1", 
-        "W2", 
-        "W3", 
-        "W4"
+        "1", 
+        "2", 
+        "3", 
+        "4"
       ], 
       "hnrlbls": [
-        "148"
+        "148-148W"
       ], 
-      "housenumber": "148", 
-      "lat": 51.064738399493, 
-      "lon": 4.070014890953, 
+      "housenumber": "148W", 
+      "lat": 51.064705434395, 
+      "lon": 4.069917952145, 
       "municipality": "Zele", 
       "pcode": "9240", 
-      "source": "afgeleidVanGebouw", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Huivelde"
     }, 
     {
@@ -491,23 +515,23 @@
         "150"
       ], 
       "housenumber": "150", 
-      "lat": 51.0648263794, 
-      "lon": 4.070112763458, 
+      "lat": 51.064737923624, 
+      "lon": 4.070217751101, 
       "municipality": "Zele", 
       "pcode": "9240", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Huivelde"
     }, 
     {
       "hnrlbls": [
-        "151"
+        "151-153"
       ], 
       "housenumber": "151", 
-      "lat": 51.06474065988, 
-      "lon": 4.068566488004, 
+      "lat": 51.064586916077, 
+      "lon": 4.06876604896, 
       "municipality": "Zele", 
       "pcode": "9240", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Huivelde"
     }, 
     {
@@ -515,23 +539,23 @@
         "152"
       ], 
       "housenumber": "152", 
-      "lat": 51.064760743929, 
-      "lon": 4.070355411783, 
+      "lat": 51.064643384725, 
+      "lon": 4.07058355206, 
       "municipality": "Zele", 
       "pcode": "9240", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Huivelde"
     }, 
     {
       "hnrlbls": [
-        "153"
+        "151-153"
       ], 
       "housenumber": "153", 
-      "lat": 51.064514041569, 
-      "lon": 4.068847115509, 
+      "lat": 51.064586916077, 
+      "lon": 4.06876604896, 
       "municipality": "Zele", 
       "pcode": "9240", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Huivelde"
     }, 
     {
@@ -551,11 +575,11 @@
         "155"
       ], 
       "housenumber": "155", 
-      "lat": 51.064556386796, 
-      "lon": 4.068920740331, 
+      "lat": 51.064540800912, 
+      "lon": 4.068942380979, 
       "municipality": "Zele", 
       "pcode": "9240", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Huivelde"
     }, 
     {
@@ -563,11 +587,11 @@
         "156"
       ], 
       "housenumber": "156", 
-      "lat": 51.064935107989, 
-      "lon": 4.070382263028, 
+      "lat": 51.064837052461, 
+      "lon": 4.070387879881, 
       "municipality": "Zele", 
       "pcode": "9240", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Huivelde"
     }, 
     {
@@ -575,11 +599,11 @@
         "157"
       ], 
       "housenumber": "157", 
-      "lat": 51.064595636571, 
-      "lon": 4.069014356881, 
+      "lat": 51.064576587853, 
+      "lon": 4.069017474404, 
       "municipality": "Zele", 
       "pcode": "9240", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Huivelde"
     }, 
     {
@@ -623,11 +647,11 @@
         "162"
       ], 
       "housenumber": "162", 
-      "lat": 51.064889539087, 
-      "lon": 4.070776000024, 
+      "lat": 51.06486454194, 
+      "lon": 4.070808541901, 
       "municipality": "Zele", 
       "pcode": "9240", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Huivelde"
     }, 
     {
@@ -695,11 +719,11 @@
         "169"
       ], 
       "housenumber": "169", 
-      "lat": 51.065421370861, 
-      "lon": 4.06983293059, 
+      "lat": 51.065460940467, 
+      "lon": 4.069804574655, 
       "municipality": "Zele", 
       "pcode": "9240", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Huivelde"
     }, 
     {
@@ -731,11 +755,11 @@
         "171"
       ], 
       "housenumber": "171", 
-      "lat": 51.065101570727, 
-      "lon": 4.070270359181, 
+      "lat": 51.065123196066, 
+      "lon": 4.070219720828, 
       "municipality": "Zele", 
       "pcode": "9240", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Huivelde"
     }, 
     {
@@ -767,11 +791,11 @@
         "174"
       ], 
       "housenumber": "174", 
-      "lat": 51.065288841134, 
-      "lon": 4.071208569328, 
+      "lat": 51.065151836727, 
+      "lon": 4.071346389755, 
       "municipality": "Zele", 
       "pcode": "9240", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Huivelde"
     }, 
     {
@@ -791,11 +815,11 @@
         "176"
       ], 
       "housenumber": "176", 
-      "lat": 51.065320460502, 
-      "lon": 4.071271280871, 
+      "lat": 51.065213186612, 
+      "lon": 4.071328596448, 
       "municipality": "Zele", 
       "pcode": "9240", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Huivelde"
     }, 
     {
@@ -815,11 +839,11 @@
         "178"
       ], 
       "housenumber": "178", 
-      "lat": 51.065347798964, 
-      "lon": 4.071347429506, 
+      "lat": 51.065322397932, 
+      "lon": 4.071362427026, 
       "municipality": "Zele", 
       "pcode": "9240", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Huivelde"
     }, 
     {
@@ -995,11 +1019,11 @@
         "194"
       ], 
       "housenumber": "194", 
-      "lat": 51.065778435653, 
-      "lon": 4.072195518847, 
+      "lat": 51.065662007376, 
+      "lon": 4.072151317533, 
       "municipality": "Zele", 
       "pcode": "9240", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Huivelde"
     }, 
     {
@@ -1019,11 +1043,11 @@
         "196"
       ], 
       "housenumber": "196", 
-      "lat": 51.065839665336, 
-      "lon": 4.072273023751, 
+      "lat": 51.065811814989, 
+      "lon": 4.072314999047, 
       "municipality": "Zele", 
       "pcode": "9240", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Huivelde"
     }, 
     {
@@ -1031,11 +1055,11 @@
         "197"
       ], 
       "housenumber": "197", 
-      "lat": 51.065922123011, 
-      "lon": 4.071962360042, 
+      "lat": 51.065957766623, 
+      "lon": 4.071909635614, 
       "municipality": "Zele", 
       "pcode": "9240", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Huivelde"
     }, 
     {
@@ -1043,11 +1067,11 @@
         "197A"
       ], 
       "housenumber": "197A", 
-      "lat": 51.066011066027, 
-      "lon": 4.072050674357, 
+      "lat": 51.066056021141, 
+      "lon": 4.071983196971, 
       "municipality": "Zele", 
       "pcode": "9240", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Huivelde"
     }, 
     {
@@ -1055,11 +1079,11 @@
         "198"
       ], 
       "housenumber": "198", 
-      "lat": 51.06575636959, 
-      "lon": 4.072679986671, 
+      "lat": 51.065837155442, 
+      "lon": 4.072598303356, 
       "municipality": "Zele", 
       "pcode": "9240", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Huivelde"
     }, 
     {
@@ -1079,8 +1103,8 @@
         "198B"
       ], 
       "housenumber": "198B", 
-      "lat": 51.066081969388, 
-      "lon": 4.073010614756, 
+      "lat": 51.066115038502, 
+      "lon": 4.072970603962, 
       "municipality": "Zele", 
       "pcode": "9240", 
       "source": "afgeleidVanGebouw", 
@@ -1091,8 +1115,8 @@
         "198C"
       ], 
       "housenumber": "198C", 
-      "lat": 51.066117598937, 
-      "lon": 4.07309570097, 
+      "lat": 51.066153469258, 
+      "lon": 4.073061521623, 
       "municipality": "Zele", 
       "pcode": "9240", 
       "source": "afgeleidVanGebouw", 
@@ -1103,11 +1127,11 @@
         "199"
       ], 
       "housenumber": "199", 
-      "lat": 51.066217899122, 
-      "lon": 4.071834804034, 
+      "lat": 51.066245160729, 
+      "lon": 4.07184476034, 
       "municipality": "Zele", 
       "pcode": "9240", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Huivelde"
     }, 
     {
@@ -1136,6 +1160,18 @@
     }, 
     {
       "hnrlbls": [
+        "200"
+      ], 
+      "housenumber": "200", 
+      "lat": 51.066002205703, 
+      "lon": 4.072926235062, 
+      "municipality": "Zele", 
+      "pcode": "9240", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
+      "street": "Huivelde"
+    }, 
+    {
+      "hnrlbls": [
         "200A"
       ], 
       "housenumber": "200A", 
@@ -1151,11 +1187,11 @@
         "201"
       ], 
       "housenumber": "201", 
-      "lat": 51.066244766618, 
-      "lon": 4.071902540452, 
+      "lat": 51.066263280472, 
+      "lon": 4.071936947179, 
       "municipality": "Zele", 
       "pcode": "9240", 
-      "source": "afgeleidVanGebouw", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Huivelde"
     }, 
     {
@@ -1220,11 +1256,23 @@
     }, 
     {
       "hnrlbls": [
-        "206A"
+        "206-206A"
+      ], 
+      "housenumber": "206", 
+      "lat": 51.066459997822, 
+      "lon": 4.073890448972, 
+      "municipality": "Zele", 
+      "pcode": "9240", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Huivelde"
+    }, 
+    {
+      "hnrlbls": [
+        "206-206A"
       ], 
       "housenumber": "206A", 
-      "lat": 51.066413494601, 
-      "lon": 4.073878329839, 
+      "lat": 51.066459997822, 
+      "lon": 4.073890448972, 
       "municipality": "Zele", 
       "pcode": "9240", 
       "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
@@ -1319,32 +1367,20 @@
         "211A"
       ], 
       "housenumber": "211A", 
-      "lat": 51.066818149235, 
-      "lon": 4.073542953718, 
+      "lat": 51.066988987984, 
+      "lon": 4.073346572554, 
       "municipality": "Zele", 
       "pcode": "9240", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Huivelde"
     }, 
     {
       "hnrlbls": [
-        "211B"
-      ], 
-      "housenumber": "211B", 
-      "lat": 51.067192036201, 
-      "lon": 4.07309006818, 
-      "municipality": "Zele", 
-      "pcode": "9240", 
-      "source": "manueleAanduidingVanIngangVanGebouw", 
-      "street": "Huivelde"
-    }, 
-    {
-      "hnrlbls": [
-        "212"
+        "212-214"
       ], 
       "housenumber": "212", 
-      "lat": 51.066527308714, 
-      "lon": 4.074280205287, 
+      "lat": 51.066551198176, 
+      "lon": 4.074343825055, 
       "municipality": "Zele", 
       "pcode": "9240", 
       "source": "afgeleidVanGebouw", 
@@ -1363,21 +1399,33 @@
       "street": "Huivelde"
     }, 
     {
-      "busnrs": [
-        "W1", 
-        "W2", 
-        "W3", 
-        "W4"
-      ], 
       "hnrlbls": [
-        "214"
+        "212-214"
       ], 
       "housenumber": "214", 
-      "lat": 51.066574997716, 
-      "lon": 4.074407445451, 
+      "lat": 51.066551198176, 
+      "lon": 4.074343825055, 
       "municipality": "Zele", 
       "pcode": "9240", 
       "source": "afgeleidVanGebouw", 
+      "street": "Huivelde"
+    }, 
+    {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4"
+      ], 
+      "hnrlbls": [
+        "214W"
+      ], 
+      "housenumber": "214W", 
+      "lat": 51.066527308714, 
+      "lon": 4.074280205287, 
+      "municipality": "Zele", 
+      "pcode": "9240", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Huivelde"
     }, 
     {
@@ -1421,11 +1469,11 @@
         "222"
       ], 
       "housenumber": "222", 
-      "lat": 51.066801536841, 
-      "lon": 4.074883657443, 
+      "lat": 51.06675130233, 
+      "lon": 4.074925344305, 
       "municipality": "Zele", 
       "pcode": "9240", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Huivelde"
     }, 
     {
@@ -1457,8 +1505,8 @@
         "23"
       ], 
       "housenumber": "23", 
-      "lat": 51.061489130848, 
-      "lon": 4.058946547222, 
+      "lat": 51.061457834652, 
+      "lon": 4.058975283235, 
       "municipality": "Zele", 
       "pcode": "9240", 
       "source": "afgeleidVanGebouw", 
@@ -1466,11 +1514,23 @@
     }, 
     {
       "hnrlbls": [
+        "23A"
+      ], 
+      "housenumber": "23A", 
+      "lat": 51.061489130848, 
+      "lon": 4.058946547222, 
+      "municipality": "Zele", 
+      "pcode": "9240", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "street": "Huivelde"
+    }, 
+    {
+      "hnrlbls": [
         "25"
       ], 
       "housenumber": "25", 
-      "lat": 51.061524170569, 
-      "lon": 4.059042744762, 
+      "lat": 51.061492959376, 
+      "lon": 4.059069625767, 
       "municipality": "Zele", 
       "pcode": "9240", 
       "source": "afgeleidVanGebouw", 
@@ -1529,23 +1589,23 @@
         "2C"
       ], 
       "housenumber": "2C", 
-      "lat": 51.060423237689, 
-      "lon": 4.056633498069, 
+      "lat": 51.060346491323, 
+      "lon": 4.056674947386, 
       "municipality": "Zele", 
       "pcode": "9240", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Huivelde"
     }, 
     {
       "hnrlbls": [
-        "3"
+        "1-5"
       ], 
       "housenumber": "3", 
-      "lat": 51.060698641078, 
-      "lon": 4.056082485682, 
+      "lat": 51.060692327736, 
+      "lon": 4.056040590447, 
       "municipality": "Zele", 
       "pcode": "9240", 
-      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Huivelde"
     }, 
     {
@@ -1670,14 +1730,14 @@
     }, 
     {
       "hnrlbls": [
-        "5"
+        "1-5"
       ], 
       "housenumber": "5", 
-      "lat": 51.060719045691, 
-      "lon": 4.056184197492, 
+      "lat": 51.060692327736, 
+      "lon": 4.056040590447, 
       "municipality": "Zele", 
       "pcode": "9240", 
-      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Huivelde"
     }, 
     {
@@ -1685,11 +1745,11 @@
         "50"
       ], 
       "housenumber": "50", 
-      "lat": 51.061469031532, 
-      "lon": 4.060954141578, 
+      "lat": 51.061765025258, 
+      "lon": 4.060914397301, 
       "municipality": "Zele", 
       "pcode": "9240", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Huivelde"
     }, 
     {
@@ -1889,11 +1949,11 @@
         "70A"
       ], 
       "housenumber": "70A", 
-      "lat": 51.062338922446, 
-      "lon": 4.063214410493, 
+      "lat": 51.062396085162, 
+      "lon": 4.063211613025, 
       "municipality": "Zele", 
       "pcode": "9240", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Huivelde"
     }, 
     {
@@ -1913,11 +1973,11 @@
         "72"
       ], 
       "housenumber": "72", 
-      "lat": 51.062560187524, 
-      "lon": 4.063093285848, 
+      "lat": 51.062512782567, 
+      "lon": 4.063045807257, 
       "municipality": "Zele", 
       "pcode": "9240", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Huivelde"
     }, 
     {
@@ -1949,11 +2009,11 @@
         "75"
       ], 
       "housenumber": "75", 
-      "lat": 51.062670486056, 
-      "lon": 4.062435521238, 
+      "lat": 51.062711251261, 
+      "lon": 4.06234895166, 
       "municipality": "Zele", 
       "pcode": "9240", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Huivelde"
     }, 
     {
