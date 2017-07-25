@@ -129,7 +129,15 @@ for nr in range(0, rec_count):
     # data-fields in shapefile:
     f_id         = int(record[0])          # ID         adrespunt-id
     f_straatnmid = int(record[1])          # STRAATNMID straatnaam-id
-    f_straatnm   = str(record[2]).strip()  # STRAATNM   straatnaam
+
+   
+    tempname     = str(record[2]).strip()  # STRAATNM   straatnaam
+    if "_" in tempname:
+    	n_list   = str(record[2]).strip().split('_')  # STRAATNM   straatnaam
+    	f_straatnm = n_list[0]
+    else :	
+    	f_straatnm = tempname
+
     f_huisnr     = str(record[3]).strip()  # HUISNR     huisnummer
     f_apptnr     = str(record[4]).strip()  # APPTNR     appartementnummer
     f_busnr      = str(record[5]).strip()  # BUSNR      busnr
