@@ -1,8 +1,12 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "W1", 
+        "W2"
+      ], 
       "hnrlbls": [
-        "1-1W"
+        "1"
       ], 
       "housenumber": "1", 
       "lat": 51.068120468733, 
@@ -14,14 +18,14 @@
     }, 
     {
       "hnrlbls": [
-        "8-10"
+        "10"
       ], 
       "housenumber": "10", 
-      "lat": 51.06668655281, 
-      "lon": 4.043008357117, 
+      "lat": 51.066613038183, 
+      "lon": 4.042916137494, 
       "municipality": "Zele", 
       "pcode": "9240", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rotstraat"
     }, 
     {
@@ -43,18 +47,6 @@
       "housenumber": "12", 
       "lat": 51.066440279363, 
       "lon": 4.043278129337, 
-      "municipality": "Zele", 
-      "pcode": "9240", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Rotstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "13"
-      ], 
-      "housenumber": "13", 
-      "lat": 51.06748678856, 
-      "lon": 4.042858705671, 
       "municipality": "Zele", 
       "pcode": "9240", 
       "source": "afgeleidVanGebouw", 
@@ -101,11 +93,11 @@
         "17"
       ], 
       "housenumber": "17", 
-      "lat": 51.067399269807, 
-      "lon": 4.042968737724, 
+      "lat": 51.067379418614, 
+      "lon": 4.042908813922, 
       "municipality": "Zele", 
       "pcode": "9240", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rotstraat"
     }, 
     {
@@ -125,39 +117,11 @@
         "19"
       ], 
       "housenumber": "19", 
-      "lat": 51.067322625048, 
-      "lon": 4.043077837844, 
+      "lat": 51.067282690071, 
+      "lon": 4.042971402444, 
       "municipality": "Zele", 
       "pcode": "9240", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Rotstraat"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
-      "hnrlbls": [
-        "1-1W"
-      ], 
-      "housenumber": "1W", 
-      "lat": 51.068120468733, 
-      "lon": 4.042550135326, 
-      "municipality": "Zele", 
-      "pcode": "9240", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Rotstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "2"
-      ], 
-      "housenumber": "2", 
-      "lat": 51.065972460713, 
-      "lon": 4.043690811627, 
-      "municipality": "Zele", 
-      "pcode": "9240", 
-      "source": "afgeleidVanStraat", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rotstraat"
     }, 
     {
@@ -258,10 +222,12 @@
     }, 
     {
       "busnrs": [
-        "2"
+        "W1", 
+        "W2", 
+        "W3"
       ], 
       "hnrlbls": [
-        "3-3W"
+        "3"
       ], 
       "housenumber": "3", 
       "lat": 51.067972702162, 
@@ -276,11 +242,11 @@
         "30"
       ], 
       "housenumber": "30", 
-      "lat": 51.065775248845, 
-      "lon": 4.043660508492, 
+      "lat": 51.065783531159, 
+      "lon": 4.04369768522, 
       "municipality": "Zele", 
       "pcode": "9240", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rotstraat"
     }, 
     {
@@ -288,11 +254,11 @@
         "31"
       ], 
       "housenumber": "31", 
-      "lat": 51.066953779896, 
-      "lon": 4.043361446436, 
+      "lat": 51.066938175657, 
+      "lon": 4.043309482694, 
       "municipality": "Zele", 
       "pcode": "9240", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rotstraat"
     }, 
     {
@@ -321,7 +287,7 @@
     }, 
     {
       "hnrlbls": [
-        "34-84"
+        "34"
       ], 
       "housenumber": "34", 
       "lat": 51.065655758933, 
@@ -372,11 +338,11 @@
         "37A"
       ], 
       "housenumber": "37A", 
-      "lat": 51.066703696771, 
-      "lon": 4.043521109371, 
+      "lat": 51.066687610641, 
+      "lon": 4.043489977902, 
       "municipality": "Zele", 
       "pcode": "9240", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rotstraat"
     }, 
     {
@@ -404,32 +370,15 @@
       "street": "Rotstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3"
-      ], 
-      "hnrlbls": [
-        "3-3W"
-      ], 
-      "housenumber": "3W", 
-      "lat": 51.067972702162, 
-      "lon": 4.042587115363, 
-      "municipality": "Zele", 
-      "pcode": "9240", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Rotstraat"
-    }, 
-    {
       "hnrlbls": [
         "4"
       ], 
       "housenumber": "4", 
-      "lat": 51.067329010665, 
-      "lon": 4.042102682836, 
+      "lat": 51.067386551341, 
+      "lon": 4.042659672137, 
       "municipality": "Zele", 
       "pcode": "9240", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rotstraat"
     }, 
     {
@@ -449,8 +398,8 @@
         "41"
       ], 
       "housenumber": "41", 
-      "lat": 51.066590746839, 
-      "lon": 4.04360149832, 
+      "lat": 51.066588165221, 
+      "lon": 4.043610646595, 
       "municipality": "Zele", 
       "pcode": "9240", 
       "source": "afgeleidVanGebouw", 
@@ -473,8 +422,8 @@
         "43"
       ], 
       "housenumber": "43", 
-      "lat": 51.066538098379, 
-      "lon": 4.043643948705, 
+      "lat": 51.066536423101, 
+      "lon": 4.043655801259, 
       "municipality": "Zele", 
       "pcode": "9240", 
       "source": "afgeleidVanGebouw", 
@@ -533,11 +482,11 @@
         "48"
       ], 
       "housenumber": "48", 
-      "lat": 51.065174860185, 
-      "lon": 4.044080090734, 
+      "lat": 51.065178081179, 
+      "lon": 4.04410731606, 
       "municipality": "Zele", 
       "pcode": "9240", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rotstraat"
     }, 
     {
@@ -866,14 +815,14 @@
     }, 
     {
       "hnrlbls": [
-        "8-10"
+        "8"
       ], 
       "housenumber": "8", 
-      "lat": 51.06668655281, 
-      "lon": 4.043008357117, 
+      "lat": 51.066731205805, 
+      "lon": 4.043098066911, 
       "municipality": "Zele", 
       "pcode": "9240", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rotstraat"
     }, 
     {
@@ -895,18 +844,6 @@
       "housenumber": "83", 
       "lat": 51.064857674228, 
       "lon": 4.044911408291, 
-      "municipality": "Zele", 
-      "pcode": "9240", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Rotstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "34-84"
-      ], 
-      "housenumber": "84", 
-      "lat": 51.065655758933, 
-      "lon": 4.043748929759, 
       "municipality": "Zele", 
       "pcode": "9240", 
       "source": "afgeleidVanGebouw", 

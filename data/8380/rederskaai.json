@@ -5,8 +5,8 @@
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 51.333750177574, 
-      "lon": 3.200834911349, 
+      "lat": 51.3337454595, 
+      "lon": 3.200812213608, 
       "municipality": "Brugge", 
       "pcode": "8380", 
       "source": "afgeleidVanGebouw", 
@@ -19,7 +19,8 @@
         "202", 
         "301", 
         "302", 
-        "402"
+        "402", 
+        "501"
       ], 
       "hnrlbls": [
         "10"
@@ -459,15 +460,38 @@
       "street": "Rederskaai"
     }, 
     {
+      "apptnrs": [
+        "0001", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302", 
+        "0401", 
+        "0402"
+      ], 
+      "hnrlbls": [
+        "33"
+      ], 
+      "housenumber": "33", 
+      "lat": 51.334875314679, 
+      "lon": 3.205341024831, 
+      "municipality": "Brugge", 
+      "pcode": "8380", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Rederskaai"
+    }, 
+    {
       "hnrlbls": [
         "34"
       ], 
       "housenumber": "34", 
-      "lat": 51.334899820647, 
-      "lon": 3.205465832237, 
+      "lat": 51.334768343762, 
+      "lon": 3.20588168363, 
       "municipality": "Brugge", 
       "pcode": "8380", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "geinterpoleerdObvWegverbinding", 
       "street": "Rederskaai"
     }, 
     {
@@ -644,7 +668,9 @@
         "1", 
         "102", 
         "103", 
-        "104"
+        "104", 
+        "302", 
+        "501"
       ], 
       "hnrlbls": [
         "3A"
@@ -859,6 +885,7 @@
       "busnrs": [
         "1", 
         "13", 
+        "2", 
         "203", 
         "3", 
         "301", 

@@ -127,18 +127,20 @@
     }, 
     {
       "hnrlbls": [
-        "42-44"
+        "5-44"
       ], 
       "housenumber": "42", 
-      "lat": 50.913218786408, 
-      "lon": 4.363802880872, 
+      "lat": 50.91229442484, 
+      "lon": 4.364159581695, 
       "municipality": "Grimbergen", 
       "pcode": "1853", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
+      "source": "afgeleidVanStraat", 
       "street": "Kleinewinkellaan"
     }, 
     {
       "busnrs": [
+        "101", 
+        "201", 
         "B001", 
         "B002"
       ], 
@@ -155,14 +157,14 @@
     }, 
     {
       "hnrlbls": [
-        "42-44"
+        "5-44"
       ], 
       "housenumber": "44", 
-      "lat": 50.913218786408, 
-      "lon": 4.363802880872, 
+      "lat": 50.91229442484, 
+      "lon": 4.364159581695, 
       "municipality": "Grimbergen", 
       "pcode": "1853", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
+      "source": "afgeleidVanStraat", 
       "street": "Kleinewinkellaan"
     }, 
     {
@@ -238,7 +240,7 @@
         "203"
       ], 
       "hnrlbls": [
-        "5"
+        "5-44"
       ], 
       "housenumber": "5", 
       "lat": 50.91229442484, 
@@ -501,7 +503,7 @@
         "202"
       ], 
       "hnrlbls": [
-        "9-9"
+        "9-9B"
       ], 
       "housenumber": "9", 
       "lat": 50.912984943479, 
@@ -509,6 +511,21 @@
       "municipality": "Grimbergen", 
       "pcode": "1853", 
       "source": "afgeleidVanGebouw", 
+      "street": "Kleinewinkellaan"
+    }, 
+    {
+      "busnrs": [
+        "1"
+      ], 
+      "hnrlbls": [
+        "9-9B"
+      ], 
+      "housenumber": "9B", 
+      "lat": 50.912984943479, 
+      "lon": 4.366032928323, 
+      "municipality": "Grimbergen", 
+      "pcode": "1853", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Kleinewinkellaan"
     }
   ]

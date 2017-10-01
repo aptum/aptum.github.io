@@ -41,11 +41,11 @@
         "101A"
       ], 
       "housenumber": "101A", 
-      "lat": 51.054542046836, 
-      "lon": 4.04565640325, 
+      "lat": 51.054599451629, 
+      "lon": 4.045643599347, 
       "municipality": "Zele", 
       "pcode": "9240", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veldeken"
     }, 
     {
@@ -77,11 +77,11 @@
         "106"
       ], 
       "housenumber": "106", 
-      "lat": 51.05522844501, 
-      "lon": 4.044540321502, 
+      "lat": 51.055199463477, 
+      "lon": 4.044625099868, 
       "municipality": "Zele", 
       "pcode": "9240", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veldeken"
     }, 
     {
@@ -98,26 +98,14 @@
     }, 
     {
       "hnrlbls": [
-        "108"
-      ], 
-      "housenumber": "108", 
-      "lat": 51.05530815175, 
-      "lon": 4.044203739689, 
-      "municipality": "Zele", 
-      "pcode": "9240", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Veldeken"
-    }, 
-    {
-      "hnrlbls": [
         "109"
       ], 
       "housenumber": "109", 
-      "lat": 51.054991876969, 
-      "lon": 4.045532214097, 
+      "lat": 51.054975232909, 
+      "lon": 4.045461300745, 
       "municipality": "Zele", 
       "pcode": "9240", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veldeken"
     }, 
     {
@@ -185,23 +173,23 @@
         "144"
       ], 
       "housenumber": "144", 
-      "lat": 51.055543877477, 
-      "lon": 4.040929785055, 
+      "lat": 51.055478473539, 
+      "lon": 4.040942793548, 
       "municipality": "Zele", 
       "pcode": "9240", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veldeken"
     }, 
     {
       "hnrlbls": [
-        "146-262"
+        "146"
       ], 
       "housenumber": "146", 
-      "lat": 51.055588991769, 
-      "lon": 4.040020783187, 
+      "lat": 51.055479106528, 
+      "lon": 4.03997434354, 
       "municipality": "Zele", 
       "pcode": "9240", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Veldeken"
     }, 
     {
@@ -209,16 +197,21 @@
         "15"
       ], 
       "housenumber": "15", 
-      "lat": 51.056757671271, 
-      "lon": 4.054892109041, 
+      "lat": 51.056824744756, 
+      "lon": 4.054897935976, 
       "municipality": "Zele", 
       "pcode": "9240", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veldeken"
     }, 
     {
+      "busnrs": [
+        "W1", 
+        "W2", 
+        "W3"
+      ], 
       "hnrlbls": [
-        "150-150W"
+        "150"
       ], 
       "housenumber": "150", 
       "lat": 51.055517731936, 
@@ -230,27 +223,12 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "2", 
-        "3"
+        "W1", 
+        "W2", 
+        "W3"
       ], 
       "hnrlbls": [
-        "150-150W"
-      ], 
-      "housenumber": "150W", 
-      "lat": 51.055517731936, 
-      "lon": 4.039641891337, 
-      "municipality": "Zele", 
-      "pcode": "9240", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Veldeken"
-    }, 
-    {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "152-152W"
+        "152"
       ], 
       "housenumber": "152", 
       "lat": 51.055518387438, 
@@ -258,23 +236,6 @@
       "municipality": "Zele", 
       "pcode": "9240", 
       "source": "afgeleidVanGebouw", 
-      "street": "Veldeken"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3"
-      ], 
-      "hnrlbls": [
-        "152-152W"
-      ], 
-      "housenumber": "152W", 
-      "lat": 51.055518387438, 
-      "lon": 4.039425662168, 
-      "municipality": "Zele", 
-      "pcode": "9240", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Veldeken"
     }, 
     {
@@ -290,8 +251,13 @@
       "street": "Veldeken"
     }, 
     {
+      "busnrs": [
+        "W1", 
+        "W2", 
+        "W3"
+      ], 
       "hnrlbls": [
-        "154-154W"
+        "154"
       ], 
       "housenumber": "154", 
       "lat": 51.055517340635, 
@@ -299,23 +265,6 @@
       "municipality": "Zele", 
       "pcode": "9240", 
       "source": "afgeleidVanGebouw", 
-      "street": "Veldeken"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3"
-      ], 
-      "hnrlbls": [
-        "154-154W"
-      ], 
-      "housenumber": "154W", 
-      "lat": 51.055517340635, 
-      "lon": 4.039211584379, 
-      "municipality": "Zele", 
-      "pcode": "9240", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Veldeken"
     }, 
     {
@@ -347,11 +296,11 @@
         "157"
       ], 
       "housenumber": "157", 
-      "lat": 51.055176371369, 
-      "lon": 4.04039964118, 
+      "lat": 51.055236669218, 
+      "lon": 4.040425319811, 
       "municipality": "Zele", 
       "pcode": "9240", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veldeken"
     }, 
     {
@@ -359,11 +308,11 @@
         "158"
       ], 
       "housenumber": "158", 
-      "lat": 51.055467227839, 
-      "lon": 4.038906141693, 
+      "lat": 51.055447626582, 
+      "lon": 4.03890428277, 
       "municipality": "Zele", 
       "pcode": "9240", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veldeken"
     }, 
     {
@@ -371,11 +320,11 @@
         "159"
       ], 
       "housenumber": "159", 
-      "lat": 51.055104716879, 
-      "lon": 4.040201463376, 
+      "lat": 51.055239889073, 
+      "lon": 4.040225618786, 
       "municipality": "Zele", 
       "pcode": "9240", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veldeken"
     }, 
     {
@@ -383,11 +332,11 @@
         "160"
       ], 
       "housenumber": "160", 
-      "lat": 51.055553087928, 
-      "lon": 4.038589900997, 
+      "lat": 51.055461000672, 
+      "lon": 4.038736457966, 
       "municipality": "Zele", 
       "pcode": "9240", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veldeken"
     }, 
     {
@@ -407,11 +356,11 @@
         "162"
       ], 
       "housenumber": "162", 
-      "lat": 51.05560309684, 
-      "lon": 4.038439931493, 
+      "lat": 51.055620875383, 
+      "lon": 4.038368634561, 
       "municipality": "Zele", 
       "pcode": "9240", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veldeken"
     }, 
     {
@@ -479,11 +428,11 @@
         "168"
       ], 
       "housenumber": "168", 
-      "lat": 51.055571476295, 
-      "lon": 4.037741274487, 
+      "lat": 51.055548816014, 
+      "lon": 4.037738439242, 
       "municipality": "Zele", 
       "pcode": "9240", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veldeken"
     }, 
     {
@@ -692,18 +641,6 @@
     }, 
     {
       "hnrlbls": [
-        "202"
-      ], 
-      "housenumber": "202", 
-      "lat": 51.060570677429, 
-      "lon": 4.042312377054, 
-      "municipality": "Zele", 
-      "pcode": "9240", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Veldeken"
-    }, 
-    {
-      "hnrlbls": [
         "208"
       ], 
       "housenumber": "208", 
@@ -740,38 +677,14 @@
     }, 
     {
       "hnrlbls": [
-        "285-288"
-      ], 
-      "housenumber": "285", 
-      "lat": 51.056114508126, 
-      "lon": 4.046318641017, 
-      "municipality": "Zele", 
-      "pcode": "9240", 
-      "source": "afgeleidVanStraat", 
-      "street": "Veldeken"
-    }, 
-    {
-      "hnrlbls": [
-        "285-288"
-      ], 
-      "housenumber": "288", 
-      "lat": 51.056114508126, 
-      "lon": 4.046318641017, 
-      "municipality": "Zele", 
-      "pcode": "9240", 
-      "source": "afgeleidVanStraat", 
-      "street": "Veldeken"
-    }, 
-    {
-      "hnrlbls": [
         "29"
       ], 
       "housenumber": "29", 
-      "lat": 51.056719815891, 
-      "lon": 4.054515956855, 
+      "lat": 51.056752015324, 
+      "lon": 4.054523015336, 
       "municipality": "Zele", 
       "pcode": "9240", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veldeken"
     }, 
     {
@@ -815,23 +728,11 @@
         "35"
       ], 
       "housenumber": "35", 
-      "lat": 51.056240503456, 
-      "lon": 4.053396381713, 
+      "lat": 51.05631265456, 
+      "lon": 4.053519557321, 
       "municipality": "Zele", 
       "pcode": "9240", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Veldeken"
-    }, 
-    {
-      "hnrlbls": [
-        "37"
-      ], 
-      "housenumber": "37", 
-      "lat": 51.056196438338, 
-      "lon": 4.053153778626, 
-      "municipality": "Zele", 
-      "pcode": "9240", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veldeken"
     }, 
     {
@@ -851,11 +752,11 @@
         "43"
       ], 
       "housenumber": "43", 
-      "lat": 51.055728703717, 
-      "lon": 4.052736884159, 
+      "lat": 51.055853376543, 
+      "lon": 4.053003901812, 
       "municipality": "Zele", 
       "pcode": "9240", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veldeken"
     }, 
     {
@@ -875,47 +776,47 @@
         "44"
       ], 
       "housenumber": "44", 
-      "lat": 51.056229857231, 
-      "lon": 4.050767489643, 
+      "lat": 51.056159539424, 
+      "lon": 4.050858821868, 
       "municipality": "Zele", 
       "pcode": "9240", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veldeken"
     }, 
     {
       "hnrlbls": [
-        "44A-44C"
+        "44A"
       ], 
       "housenumber": "44A", 
-      "lat": 51.056866588399, 
-      "lon": 4.050348539995, 
+      "lat": 51.056793206241, 
+      "lon": 4.050636869874, 
       "municipality": "Zele", 
       "pcode": "9240", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veldeken"
     }, 
     {
       "hnrlbls": [
-        "44A-44C"
+        "44B"
       ], 
       "housenumber": "44B", 
-      "lat": 51.056866588399, 
-      "lon": 4.050348539995, 
+      "lat": 51.056747310474, 
+      "lon": 4.050417527924, 
       "municipality": "Zele", 
       "pcode": "9240", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Veldeken"
     }, 
     {
       "hnrlbls": [
-        "44A-44C"
+        "44C"
       ], 
       "housenumber": "44C", 
-      "lat": 51.056866588399, 
-      "lon": 4.050348539995, 
+      "lat": 51.056700155859, 
+      "lon": 4.050198194953, 
       "municipality": "Zele", 
       "pcode": "9240", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veldeken"
     }, 
     {
@@ -923,11 +824,11 @@
         "45"
       ], 
       "housenumber": "45", 
-      "lat": 51.05579643847, 
-      "lon": 4.052217685769, 
+      "lat": 51.055958928228, 
+      "lon": 4.052138855937, 
       "municipality": "Zele", 
       "pcode": "9240", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veldeken"
     }, 
     {
@@ -1007,11 +908,11 @@
         "54"
       ], 
       "housenumber": "54", 
-      "lat": 51.055961768233, 
-      "lon": 4.049887285923, 
+      "lat": 51.055920168209, 
+      "lon": 4.049927647654, 
       "municipality": "Zele", 
       "pcode": "9240", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veldeken"
     }, 
     {
@@ -1024,18 +925,6 @@
       "municipality": "Zele", 
       "pcode": "9240", 
       "source": "afgeleidVanGebouw", 
-      "street": "Veldeken"
-    }, 
-    {
-      "hnrlbls": [
-        "57"
-      ], 
-      "housenumber": "57", 
-      "lat": 51.05572999731, 
-      "lon": 4.050874712712, 
-      "municipality": "Zele", 
-      "pcode": "9240", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Veldeken"
     }, 
     {
@@ -1055,11 +944,11 @@
         "59"
       ], 
       "housenumber": "59", 
-      "lat": 51.055771975253, 
-      "lon": 4.050640801844, 
+      "lat": 51.055770998699, 
+      "lon": 4.050578622216, 
       "municipality": "Zele", 
       "pcode": "9240", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veldeken"
     }, 
     {
@@ -1091,17 +980,20 @@
         "63"
       ], 
       "housenumber": "63", 
-      "lat": 51.055719892882, 
-      "lon": 4.050293996464, 
+      "lat": 51.05573607869, 
+      "lon": 4.050229418284, 
       "municipality": "Zele", 
       "pcode": "9240", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veldeken"
     }, 
     {
       "busnrs": [
-        "1", 
-        "2"
+        "W1", 
+        "W2", 
+        "W3", 
+        "W4", 
+        "W5"
       ], 
       "hnrlbls": [
         "67"
@@ -1115,25 +1007,6 @@
       "street": "Veldeken"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5"
-      ], 
-      "hnrlbls": [
-        "67W"
-      ], 
-      "housenumber": "67W", 
-      "lat": 51.055662454162, 
-      "lon": 4.050061188587, 
-      "municipality": "Zele", 
-      "pcode": "9240", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Veldeken"
-    }, 
-    {
       "hnrlbls": [
         "7"
       ], 
@@ -1143,18 +1016,6 @@
       "municipality": "Zele", 
       "pcode": "9240", 
       "source": "afgeleidVanGebouw", 
-      "street": "Veldeken"
-    }, 
-    {
-      "hnrlbls": [
-        "70"
-      ], 
-      "housenumber": "70", 
-      "lat": 51.055718495965, 
-      "lon": 4.047819395001, 
-      "municipality": "Zele", 
-      "pcode": "9240", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Veldeken"
     }, 
     {
@@ -1258,11 +1119,11 @@
         "85"
       ], 
       "housenumber": "85", 
-      "lat": 51.055162999755, 
-      "lon": 4.047762437237, 
+      "lat": 51.055243619874, 
+      "lon": 4.047692140614, 
       "municipality": "Zele", 
       "pcode": "9240", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veldeken"
     }, 
     {
@@ -1330,11 +1191,11 @@
         "94"
       ], 
       "housenumber": "94", 
-      "lat": 51.055518232146, 
-      "lon": 4.046042761331, 
+      "lat": 51.055487961476, 
+      "lon": 4.046116708409, 
       "municipality": "Zele", 
       "pcode": "9240", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veldeken"
     }, 
     {
@@ -1342,11 +1203,11 @@
         "95"
       ], 
       "housenumber": "95", 
-      "lat": 51.055079793233, 
-      "lon": 4.046158025744, 
+      "lat": 51.055089309188, 
+      "lon": 4.046219289887, 
       "municipality": "Zele", 
       "pcode": "9240", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veldeken"
     }, 
     {
@@ -1402,11 +1263,11 @@
         "99"
       ], 
       "housenumber": "99", 
-      "lat": 51.054756214801, 
-      "lon": 4.046134721503, 
+      "lat": 51.0547708587, 
+      "lon": 4.046197518835, 
       "municipality": "Zele", 
       "pcode": "9240", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veldeken"
     }
   ]

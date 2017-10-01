@@ -265,7 +265,7 @@
       "lon": 4.111912021221, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Sint-Gillislaan"
     }, 
     {
@@ -316,7 +316,7 @@
       "lon": 4.106078594158, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Sint-Gillislaan"
     }, 
     {
@@ -462,7 +462,7 @@
       "lon": 4.112168478729, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Sint-Gillislaan"
     }, 
     {
@@ -474,7 +474,7 @@
       "lon": 4.112168478729, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Sint-Gillislaan"
     }, 
     {
@@ -546,7 +546,7 @@
       "lon": 4.111497105101, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sint-Gillislaan"
     }, 
     {
@@ -557,8 +557,8 @@
         "137"
       ], 
       "housenumber": "137", 
-      "lat": 51.019060607485, 
-      "lon": 4.111679100779, 
+      "lat": 51.019055726117, 
+      "lon": 4.111666586027, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
       "source": "afgeleidVanGebouw", 
@@ -748,6 +748,23 @@
       "street": "Sint-Gillislaan"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "4"
+      ], 
+      "hnrlbls": [
+        "161A"
+      ], 
+      "housenumber": "161A", 
+      "lat": 51.018224447536, 
+      "lon": 4.111970844295, 
+      "municipality": "Dendermonde", 
+      "pcode": "9200", 
+      "source": "geinterpoleerdObvWegverbinding", 
+      "street": "Sint-Gillislaan"
+    }, 
+    {
       "hnrlbls": [
         "163"
       ], 
@@ -829,11 +846,11 @@
         "173"
       ], 
       "housenumber": "173", 
-      "lat": 51.018110170617, 
-      "lon": 4.112538246825, 
+      "lat": 51.018205211899, 
+      "lon": 4.112591883667, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Sint-Gillislaan"
     }, 
     {
@@ -889,11 +906,11 @@
         "181"
       ], 
       "housenumber": "181", 
-      "lat": 51.017981221768, 
-      "lon": 4.112848917163, 
+      "lat": 51.017837210207, 
+      "lon": 4.112555982549, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sint-Gillislaan"
     }, 
     {
@@ -973,11 +990,11 @@
         "191A"
       ], 
       "housenumber": "191A", 
-      "lat": 51.017601315442, 
-      "lon": 4.112836451098, 
+      "lat": 51.017598797597, 
+      "lon": 4.112836037282, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Sint-Gillislaan"
     }, 
     {
@@ -1130,11 +1147,11 @@
         "28A"
       ], 
       "housenumber": "28A", 
-      "lat": 51.020765885405, 
-      "lon": 4.108623215587, 
+      "lat": 51.020756317559, 
+      "lon": 4.108564549549, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Sint-Gillislaan"
     }, 
     {
@@ -1161,7 +1178,7 @@
       "lon": 4.106422600843, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Sint-Gillislaan"
     }, 
     {
@@ -1265,8 +1282,8 @@
         "37"
       ], 
       "housenumber": "37", 
-      "lat": 51.022190101123, 
-      "lon": 4.107435920196, 
+      "lat": 51.022199130801, 
+      "lon": 4.107454255842, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
       "source": "afgeleidVanGebouw", 
@@ -1289,11 +1306,11 @@
         "38A"
       ], 
       "housenumber": "38A", 
-      "lat": 51.02056097675, 
-      "lon": 4.108969109887, 
+      "lat": 51.020526361187, 
+      "lon": 4.108924834766, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Sint-Gillislaan"
     }, 
     {
@@ -1313,8 +1330,8 @@
         "4"
       ], 
       "housenumber": "4", 
-      "lat": 51.021986138458, 
-      "lon": 4.106867950196, 
+      "lat": 51.022002881123, 
+      "lon": 4.106837783881, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
       "source": "afgeleidVanGebouw", 
@@ -1546,11 +1563,11 @@
         "54"
       ], 
       "housenumber": "54", 
-      "lat": 51.020037906412, 
-      "lon": 4.109666644983, 
+      "lat": 51.020162742521, 
+      "lon": 4.109820305508, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "geinterpoleerdObvWegverbinding", 
       "street": "Sint-Gillislaan"
     }, 
     {
@@ -1586,7 +1603,7 @@
       "lon": 4.108584845929, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Sint-Gillislaan"
     }, 
     {
@@ -1931,11 +1948,11 @@
         "79A"
       ], 
       "housenumber": "79A", 
-      "lat": 51.020665158291, 
-      "lon": 4.109663469147, 
+      "lat": 51.020684176531, 
+      "lon": 4.10972778403, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Sint-Gillislaan"
     }, 
     {
@@ -2060,11 +2077,11 @@
         "89"
       ], 
       "housenumber": "89", 
-      "lat": 51.020347091528, 
-      "lon": 4.109894397374, 
+      "lat": 51.02050561921, 
+      "lon": 4.110081223855, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sint-Gillislaan"
     }, 
     {
@@ -2089,11 +2106,11 @@
         "90"
       ], 
       "housenumber": "90", 
-      "lat": 51.018723917622, 
-      "lon": 4.111409451439, 
+      "lat": 51.018715618137, 
+      "lon": 4.111437144971, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sint-Gillislaan"
     }, 
     {
@@ -2189,11 +2206,11 @@
         "98"
       ], 
       "housenumber": "98", 
-      "lat": 51.018323472603, 
-      "lon": 4.111335828165, 
+      "lat": 51.018429151499, 
+      "lon": 4.111691963532, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Sint-Gillislaan"
     }, 
     {
@@ -2201,11 +2218,11 @@
         "98A"
       ], 
       "housenumber": "98A", 
-      "lat": 51.0183908465, 
-      "lon": 4.111562912355, 
+      "lat": 51.018323472603, 
+      "lon": 4.111335828165, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Sint-Gillislaan"
     }, 
     {
@@ -2232,7 +2249,7 @@
       "lon": 4.110163245935, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Sint-Gillislaan"
     }
   ]

@@ -300,14 +300,17 @@
       "street": "Beatrijslaan"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "11", 
-        "2", 
-        "3", 
-        "4", 
-        "6", 
-        "8"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "102", 
+        "103", 
+        "201", 
+        "202", 
+        "203", 
+        "301", 
+        "302", 
+        "303"
       ], 
       "hnrlbls": [
         "32"
@@ -464,11 +467,11 @@
         "b17"
       ], 
       "hnrlbls": [
-        "4"
+        "1-12"
       ], 
       "housenumber": "4", 
-      "lat": 51.219856348574, 
-      "lon": 4.386186258305, 
+      "lat": 51.219856348596, 
+      "lon": 4.386186115175, 
       "municipality": "Antwerpen", 
       "pcode": "2050", 
       "source": "afgeleidVanGebouw", 
@@ -727,6 +730,7 @@
         "3", 
         "5", 
         "6", 
+        "7", 
         "8", 
         "9"
       ], 
@@ -799,6 +803,18 @@
       "municipality": "Antwerpen", 
       "pcode": "2050", 
       "source": "manueleAanduidingVanToegangTotDeWeg", 
+      "street": "Beatrijslaan"
+    }, 
+    {
+      "hnrlbls": [
+        "96"
+      ], 
+      "housenumber": "96", 
+      "lat": 51.207945430685, 
+      "lon": 4.364403010785, 
+      "municipality": "Antwerpen", 
+      "pcode": "2050", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Beatrijslaan"
     }
   ]

@@ -1,15 +1,18 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
-        "1-1A"
+        "1"
       ], 
       "housenumber": "1", 
-      "lat": 51.201770306327, 
-      "lon": 4.036167790758, 
+      "lat": 51.201704042208, 
+      "lon": 4.036225206202, 
       "municipality": "Stekene", 
       "pcode": "9190", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Brugstraat"
     }, 
     {
@@ -122,7 +125,8 @@
     }, 
     {
       "busnrs": [
-        "1"
+        "1", 
+        "2"
       ], 
       "hnrlbls": [
         "19"
@@ -137,26 +141,14 @@
     }, 
     {
       "hnrlbls": [
-        "1-1A"
-      ], 
-      "housenumber": "1A", 
-      "lat": 51.201770306327, 
-      "lon": 4.036167790758, 
-      "municipality": "Stekene", 
-      "pcode": "9190", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Brugstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "1-2"
+        "2"
       ], 
       "housenumber": "2", 
-      "lat": 51.20206934061, 
-      "lon": 4.036034605113, 
+      "lat": 51.202010697244, 
+      "lon": 4.036053050135, 
       "municipality": "Stekene", 
       "pcode": "9190", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Brugstraat"
     }, 
     {
@@ -204,7 +196,7 @@
       "lon": 4.034774336995, 
       "municipality": "Stekene", 
       "pcode": "9190", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Brugstraat"
     }, 
     {
@@ -224,8 +216,8 @@
         "25"
       ], 
       "housenumber": "25", 
-      "lat": 51.201242694221, 
-      "lon": 4.035150569122, 
+      "lat": 51.201243050129, 
+      "lon": 4.035149278916, 
       "municipality": "Stekene", 
       "pcode": "9190", 
       "source": "afgeleidVanGebouw", 
@@ -236,11 +228,11 @@
         "27"
       ], 
       "housenumber": "27", 
-      "lat": 51.201274425963, 
-      "lon": 4.035023722153, 
+      "lat": 51.201232092392, 
+      "lon": 4.035056502161, 
       "municipality": "Stekene", 
       "pcode": "9190", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Brugstraat"
     }, 
     {
@@ -248,11 +240,11 @@
         "28"
       ], 
       "housenumber": "28", 
-      "lat": 51.201325487866, 
-      "lon": 4.034388823601, 
+      "lat": 51.201313240263, 
+      "lon": 4.034380612907, 
       "municipality": "Stekene", 
       "pcode": "9190", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Brugstraat"
     }, 
     {
@@ -260,11 +252,11 @@
         "29"
       ], 
       "housenumber": "29", 
-      "lat": 51.201190606426, 
-      "lon": 4.035007294791, 
+      "lat": 51.20107077777, 
+      "lon": 4.035226623408, 
       "municipality": "Stekene", 
       "pcode": "9190", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Brugstraat"
     }, 
     {
@@ -329,26 +321,38 @@
     }, 
     {
       "hnrlbls": [
-        "33-33A"
+        "33"
       ], 
       "housenumber": "33", 
-      "lat": 51.201139967822, 
-      "lon": 4.034836111073, 
+      "lat": 51.200434864996, 
+      "lon": 4.037188950133, 
       "municipality": "Stekene", 
       "pcode": "9190", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Brugstraat"
     }, 
     {
       "hnrlbls": [
-        "33-33A"
+        "33A"
       ], 
       "housenumber": "33A", 
-      "lat": 51.201139967822, 
-      "lon": 4.034836111073, 
+      "lat": 51.200454734582, 
+      "lon": 4.03584493863, 
       "municipality": "Stekene", 
       "pcode": "9190", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Brugstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "33B"
+      ], 
+      "housenumber": "33B", 
+      "lat": 51.200643835236, 
+      "lon": 4.036254351866, 
+      "municipality": "Stekene", 
+      "pcode": "9190", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Brugstraat"
     }, 
     {
@@ -371,11 +375,23 @@
         "34A"
       ], 
       "housenumber": "34A", 
-      "lat": 51.201300014351, 
-      "lon": 4.033835309004, 
+      "lat": 51.201302527856, 
+      "lon": 4.033834146403, 
       "municipality": "Stekene", 
       "pcode": "9190", 
       "source": "afgeleidVanGebouw", 
+      "street": "Brugstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "35"
+      ], 
+      "housenumber": "35", 
+      "lat": 51.201123529044, 
+      "lon": 4.034775994531, 
+      "municipality": "Stekene", 
+      "pcode": "9190", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Brugstraat"
     }, 
     {
@@ -392,17 +408,18 @@
     }, 
     {
       "busnrs": [
+        "1", 
         "2"
       ], 
       "hnrlbls": [
         "37"
       ], 
       "housenumber": "37", 
-      "lat": 51.201080652631, 
-      "lon": 4.034680012447, 
+      "lat": 51.201084719995, 
+      "lon": 4.034687995492, 
       "municipality": "Stekene", 
       "pcode": "9190", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Brugstraat"
     }, 
     {
@@ -410,11 +427,11 @@
         "37A"
       ], 
       "housenumber": "37A", 
-      "lat": 51.201110697379, 
-      "lon": 4.034751906783, 
+      "lat": 51.201033616195, 
+      "lon": 4.034606952005, 
       "municipality": "Stekene", 
       "pcode": "9190", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Brugstraat"
     }, 
     {
@@ -498,7 +515,7 @@
       "lon": 4.033395538278, 
       "municipality": "Stekene", 
       "pcode": "9190", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Brugstraat"
     }, 
     {
@@ -518,23 +535,11 @@
         "44"
       ], 
       "housenumber": "44", 
-      "lat": 51.200890148407, 
-      "lon": 4.033617054963, 
+      "lat": 51.20089023829, 
+      "lon": 4.033617054318, 
       "municipality": "Stekene", 
       "pcode": "9190", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Brugstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "45"
-      ], 
-      "housenumber": "45", 
-      "lat": 51.200755511706, 
-      "lon": 4.034002598957, 
-      "municipality": "Stekene", 
-      "pcode": "9190", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Brugstraat"
     }, 
     {
@@ -542,11 +547,11 @@
         "46"
       ], 
       "housenumber": "46", 
-      "lat": 51.200978127723, 
-      "lon": 4.033388222558, 
+      "lat": 51.20095055775, 
+      "lon": 4.033397004738, 
       "municipality": "Stekene", 
       "pcode": "9190", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Brugstraat"
     }, 
     {
@@ -599,14 +604,14 @@
     }, 
     {
       "hnrlbls": [
-        "50-50A"
+        "50"
       ], 
       "housenumber": "50", 
       "lat": 51.200774778949, 
       "lon": 4.033410140819, 
       "municipality": "Stekene", 
       "pcode": "9190", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Brugstraat"
     }, 
     {
@@ -615,14 +620,14 @@
         "2"
       ], 
       "hnrlbls": [
-        "50-50A"
+        "50A"
       ], 
       "housenumber": "50A", 
-      "lat": 51.200774778949, 
-      "lon": 4.033410140819, 
+      "lat": 51.200765756149, 
+      "lon": 4.033398044387, 
       "municipality": "Stekene", 
       "pcode": "9190", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Brugstraat"
     }, 
     {
@@ -637,11 +642,11 @@
         "51"
       ], 
       "housenumber": "51", 
-      "lat": 51.200649298961, 
-      "lon": 4.033759564675, 
+      "lat": 51.200652671483, 
+      "lon": 4.033839660898, 
       "municipality": "Stekene", 
       "pcode": "9190", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Brugstraat"
     }, 
     {
@@ -649,11 +654,11 @@
         "51A"
       ], 
       "housenumber": "51A", 
-      "lat": 51.200609649378, 
-      "lon": 4.033724223891, 
+      "lat": 51.200588881309, 
+      "lon": 4.033786179813, 
       "municipality": "Stekene", 
       "pcode": "9190", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Brugstraat"
     }, 
     {
@@ -733,18 +738,6 @@
     }, 
     {
       "hnrlbls": [
-        "57A"
-      ], 
-      "housenumber": "57A", 
-      "lat": 51.200012316337, 
-      "lon": 4.034090186356, 
-      "municipality": "Stekene", 
-      "pcode": "9190", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Brugstraat"
-    }, 
-    {
-      "hnrlbls": [
         "58"
       ], 
       "housenumber": "58", 
@@ -752,7 +745,7 @@
       "lon": 4.03297193487, 
       "municipality": "Stekene", 
       "pcode": "9190", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Brugstraat"
     }, 
     {
@@ -824,7 +817,7 @@
       "lon": 4.03311848478, 
       "municipality": "Stekene", 
       "pcode": "9190", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Brugstraat"
     }, 
     {
@@ -872,30 +865,17 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "2"
+        "1"
       ], 
       "hnrlbls": [
-        "64-64A"
+        "64"
       ], 
       "housenumber": "64", 
       "lat": 51.200350238788, 
       "lon": 4.032676941955, 
       "municipality": "Stekene", 
       "pcode": "9190", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Brugstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "64-64A"
-      ], 
-      "housenumber": "64A", 
-      "lat": 51.200350238788, 
-      "lon": 4.032676941955, 
-      "municipality": "Stekene", 
-      "pcode": "9190", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Brugstraat"
     }, 
     {
@@ -903,23 +883,11 @@
         "65"
       ], 
       "housenumber": "65", 
-      "lat": 51.199958417071, 
-      "lon": 4.032768176204, 
-      "municipality": "Stekene", 
-      "pcode": "9190", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Brugstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "65A"
-      ], 
-      "housenumber": "65A", 
       "lat": 51.199872548701, 
       "lon": 4.032726730877, 
       "municipality": "Stekene", 
       "pcode": "9190", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Brugstraat"
     }, 
     {
@@ -959,24 +927,26 @@
       "lon": 4.032285792435, 
       "municipality": "Stekene", 
       "pcode": "9190", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Brugstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
-        "3"
+        "3", 
+        "4", 
+        "5"
       ], 
       "hnrlbls": [
         "69"
       ], 
       "housenumber": "69", 
-      "lat": 51.199744854751, 
-      "lon": 4.032485146232, 
+      "lat": 51.199714833487, 
+      "lon": 4.032516980497, 
       "municipality": "Stekene", 
       "pcode": "9190", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Brugstraat"
     }, 
     {
@@ -1084,7 +1054,7 @@
       "lon": 4.032085572707, 
       "municipality": "Stekene", 
       "pcode": "9190", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Brugstraat"
     }, 
     {
@@ -1112,7 +1082,7 @@
       "street": "Brugstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3", 
@@ -1122,11 +1092,11 @@
         "78A"
       ], 
       "housenumber": "78A", 
-      "lat": 51.199790990984, 
-      "lon": 4.03205102763, 
+      "lat": 51.199690631582, 
+      "lon": 4.032066057421, 
       "municipality": "Stekene", 
       "pcode": "9190", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Brugstraat"
     }, 
     {
@@ -1138,7 +1108,7 @@
       "lon": 4.032326571989, 
       "municipality": "Stekene", 
       "pcode": "9190", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Brugstraat"
     }, 
     {

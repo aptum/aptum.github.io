@@ -1,11 +1,8 @@
 {
   "addresses": [
     {
-      "busnrs": [
-        "BW01"
-      ], 
       "hnrlbls": [
-        "1-1C"
+        "1"
       ], 
       "housenumber": "1", 
       "lat": 51.074266731549, 
@@ -17,14 +14,14 @@
     }, 
     {
       "hnrlbls": [
-        "1-101"
+        "101"
       ], 
       "housenumber": "101", 
-      "lat": 51.077893376887, 
-      "lon": 4.072335070865, 
+      "lat": 51.078005604569, 
+      "lon": 4.072389156815, 
       "municipality": "Zele", 
       "pcode": "9240", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Langevelde"
     }, 
     {
@@ -44,11 +41,11 @@
         "11"
       ], 
       "housenumber": "11", 
-      "lat": 51.074221573645, 
-      "lon": 4.058643672006, 
+      "lat": 51.074228449297, 
+      "lon": 4.058591974471, 
       "municipality": "Zele", 
       "pcode": "9240", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Langevelde"
     }, 
     {
@@ -56,11 +53,11 @@
         "13"
       ], 
       "housenumber": "13", 
-      "lat": 51.07440751993, 
-      "lon": 4.058801536665, 
+      "lat": 51.074206584784, 
+      "lon": 4.058789310023, 
       "municipality": "Zele", 
       "pcode": "9240", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Langevelde"
     }, 
     {
@@ -89,18 +86,6 @@
     }, 
     {
       "hnrlbls": [
-        "19"
-      ], 
-      "housenumber": "19", 
-      "lat": 51.074304129372, 
-      "lon": 4.059274794463, 
-      "municipality": "Zele", 
-      "pcode": "9240", 
-      "source": "afgeleidVanPerceelKadaster", 
-      "street": "Langevelde"
-    }, 
-    {
-      "hnrlbls": [
         "1A"
       ], 
       "housenumber": "1A", 
@@ -112,27 +97,18 @@
       "street": "Langevelde"
     }, 
     {
+      "busnrs": [
+        "W1"
+      ], 
       "hnrlbls": [
         "1B"
       ], 
       "housenumber": "1B", 
-      "lat": 51.075318572915, 
-      "lon": 4.056523340511, 
+      "lat": 51.075089261887, 
+      "lon": 4.056318255713, 
       "municipality": "Zele", 
       "pcode": "9240", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Langevelde"
-    }, 
-    {
-      "hnrlbls": [
-        "1-1C"
-      ], 
-      "housenumber": "1C", 
-      "lat": 51.074266731549, 
-      "lon": 4.057903977799, 
-      "municipality": "Zele", 
-      "pcode": "9240", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Langevelde"
     }, 
     {
@@ -160,8 +136,13 @@
       "street": "Langevelde"
     }, 
     {
+      "busnrs": [
+        "W1", 
+        "W2", 
+        "W3"
+      ], 
       "hnrlbls": [
-        "22-22W"
+        "22"
       ], 
       "housenumber": "22", 
       "lat": 51.073890042618, 
@@ -169,23 +150,6 @@
       "municipality": "Zele", 
       "pcode": "9240", 
       "source": "afgeleidVanGebouw", 
-      "street": "Langevelde"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3"
-      ], 
-      "hnrlbls": [
-        "22-22W"
-      ], 
-      "housenumber": "22W", 
-      "lat": 51.073890042618, 
-      "lon": 4.05829443378, 
-      "municipality": "Zele", 
-      "pcode": "9240", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Langevelde"
     }, 
     {
@@ -229,11 +193,11 @@
         "26"
       ], 
       "housenumber": "26", 
-      "lat": 51.073830268068, 
-      "lon": 4.059117117613, 
+      "lat": 51.073891651454, 
+      "lon": 4.05911285973, 
       "municipality": "Zele", 
       "pcode": "9240", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Langevelde"
     }, 
     {
@@ -253,11 +217,11 @@
         "28"
       ], 
       "housenumber": "28", 
-      "lat": 51.07378281132, 
-      "lon": 4.059290506576, 
+      "lat": 51.073875825753, 
+      "lon": 4.059316717224, 
       "municipality": "Zele", 
       "pcode": "9240", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Langevelde"
     }, 
     {
@@ -277,11 +241,11 @@
         "30"
       ], 
       "housenumber": "30", 
-      "lat": 51.0737743209, 
-      "lon": 4.059549533793, 
+      "lat": 51.073822970088, 
+      "lon": 4.059556775189, 
       "municipality": "Zele", 
       "pcode": "9240", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Langevelde"
     }, 
     {
@@ -361,11 +325,11 @@
         "42A"
       ], 
       "housenumber": "42A", 
-      "lat": 51.073708444723, 
-      "lon": 4.061241768105, 
+      "lat": 51.073813730639, 
+      "lon": 4.061320552482, 
       "municipality": "Zele", 
       "pcode": "9240", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Langevelde"
     }, 
     {
@@ -397,11 +361,11 @@
         "44"
       ], 
       "housenumber": "44", 
-      "lat": 51.073817953832, 
-      "lon": 4.061769265837, 
+      "lat": 51.073854040001, 
+      "lon": 4.06171566571, 
       "municipality": "Zele", 
       "pcode": "9240", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Langevelde"
     }, 
     {
@@ -469,11 +433,11 @@
         "5"
       ], 
       "housenumber": "5", 
-      "lat": 51.074381284936, 
-      "lon": 4.058224546454, 
+      "lat": 51.074249440931, 
+      "lon": 4.058199451021, 
       "municipality": "Zele", 
       "pcode": "9240", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Langevelde"
     }, 
     {
@@ -505,11 +469,11 @@
         "55"
       ], 
       "housenumber": "55", 
-      "lat": 51.074812241067, 
-      "lon": 4.064242654978, 
+      "lat": 51.074784135924, 
+      "lon": 4.064254395161, 
       "municipality": "Zele", 
       "pcode": "9240", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Langevelde"
     }, 
     {
@@ -553,11 +517,11 @@
         "7"
       ], 
       "housenumber": "7", 
-      "lat": 51.074265134948, 
-      "lon": 4.058288097347, 
+      "lat": 51.074240220609, 
+      "lon": 4.058282412241, 
       "municipality": "Zele", 
       "pcode": "9240", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Langevelde"
     }, 
     {
@@ -565,11 +529,11 @@
         "8"
       ], 
       "housenumber": "8", 
-      "lat": 51.073510887399, 
-      "lon": 4.055434294359, 
+      "lat": 51.073932380488, 
+      "lon": 4.055909469992, 
       "municipality": "Zele", 
       "pcode": "9240", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Langevelde"
     }, 
     {

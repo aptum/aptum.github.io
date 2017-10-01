@@ -304,46 +304,67 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "101", 
         "201"
       ], 
       "hnrlbls": [
-        "128A-128B"
+        "128"
       ], 
-      "housenumber": "128A", 
-      "lat": 51.007596861311, 
-      "lon": 4.206159990904, 
+      "housenumber": "128", 
+      "lat": 51.00766505079, 
+      "lon": 4.20613254125, 
       "municipality": "Buggenhout", 
       "pcode": "9255", 
       "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "street": "Kasteelstraat"
+    }, 
+    {
+      "apptnrs": [
+        "0001", 
+        "0101", 
+        "0201"
+      ], 
+      "hnrlbls": [
+        "128A"
+      ], 
+      "housenumber": "128A", 
+      "lat": 51.007627060808, 
+      "lon": 4.206157179383, 
+      "municipality": "Buggenhout", 
+      "pcode": "9255", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Kasteelstraat"
+    }, 
+    {
+      "apptnrs": [
+        "0001"
+      ], 
+      "hnrlbls": [
+        "128B"
+      ], 
+      "housenumber": "128B", 
+      "lat": 51.007580192641, 
+      "lon": 4.20606643828, 
+      "municipality": "Buggenhout", 
+      "pcode": "9255", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Kasteelstraat"
     }, 
     {
       "busnrs": [
-        "1"
+        "0001", 
+        "0101", 
+        "0102", 
+        "0201"
       ], 
-      "hnrlbls": [
-        "128A-128B"
-      ], 
-      "housenumber": "128B", 
-      "lat": 51.007596861311, 
-      "lon": 4.206159990904, 
-      "municipality": "Buggenhout", 
-      "pcode": "9255", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Kasteelstraat"
-    }, 
-    {
       "hnrlbls": [
         "129"
       ], 
       "housenumber": "129", 
-      "lat": 51.007001205968, 
-      "lon": 4.207312856962, 
+      "lat": 51.006943839595, 
+      "lon": 4.207103894072, 
       "municipality": "Buggenhout", 
       "pcode": "9255", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Kasteelstraat"
     }, 
     {
@@ -379,7 +400,7 @@
       "lon": 4.207156389701, 
       "municipality": "Buggenhout", 
       "pcode": "9255", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Kasteelstraat"
     }, 
     {
@@ -1688,7 +1709,7 @@
         "0001", 
         "0002", 
         "0101", 
-        "102"
+        "0102"
       ], 
       "hnrlbls": [
         "25"

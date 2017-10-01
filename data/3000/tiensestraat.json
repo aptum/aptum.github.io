@@ -115,6 +115,10 @@
       "street": "Tiensestraat"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "107-109"
       ], 
@@ -347,6 +351,20 @@
       "street": "Tiensestraat"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0301", 
+        "0302"
+      ], 
       "hnrlbls": [
         "119"
       ], 
@@ -404,6 +422,7 @@
         "0215", 
         "0216", 
         "0217", 
+        "0218", 
         "0301", 
         "0302", 
         "0303", 
@@ -1713,23 +1732,18 @@
     }, 
     {
       "apptnrs": [
-        "0101", 
-        "0202", 
-        "0302", 
-        "0401"
+        "0101"
       ], 
       "busnrs": [
         "0001", 
-        "0102", 
-        "0201", 
-        "0301"
+        "0201"
       ], 
       "hnrlbls": [
         "19"
       ], 
       "housenumber": "19", 
-      "lat": 50.878287561405, 
-      "lon": 4.703701423026, 
+      "lat": 50.878306497442, 
+      "lon": 4.703806847258, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanGebouw", 
@@ -1781,7 +1795,6 @@
         "0103", 
         "0201", 
         "0202", 
-        "0203", 
         "0301", 
         "0302", 
         "0303"
@@ -2031,8 +2044,8 @@
         "21"
       ], 
       "housenumber": "21", 
-      "lat": 50.878295753788, 
-      "lon": 4.703822968766, 
+      "lat": 50.878248975279, 
+      "lon": 4.703740222125, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanGebouw", 
@@ -2414,8 +2427,8 @@
         "23"
       ], 
       "housenumber": "23", 
-      "lat": 50.878234101145, 
-      "lon": 4.70381755495, 
+      "lat": 50.878219501701, 
+      "lon": 4.703767434898, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanGebouw", 
@@ -3157,8 +3170,8 @@
         "27"
       ], 
       "housenumber": "27", 
-      "lat": 50.878153101557, 
-      "lon": 4.703850367136, 
+      "lat": 50.878153279718, 
+      "lon": 4.703850936769, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanGebouw", 
@@ -3428,8 +3441,8 @@
         "29"
       ], 
       "housenumber": "29", 
-      "lat": 50.878086333809, 
-      "lon": 4.703778987134, 
+      "lat": 50.878086339499, 
+      "lon": 4.703776997919, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanGebouw", 
@@ -3489,8 +3502,8 @@
         "31"
       ], 
       "housenumber": "31", 
-      "lat": 50.878075455371, 
-      "lon": 4.704062094033, 
+      "lat": 50.87807699088, 
+      "lon": 4.704059547402, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanGebouw", 
@@ -3501,8 +3514,8 @@
         "31C-33"
       ], 
       "housenumber": "31C", 
-      "lat": 50.878015812426, 
-      "lon": 4.703888460389, 
+      "lat": 50.878011432082, 
+      "lon": 4.703911305474, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanGebouw", 
@@ -3531,14 +3544,14 @@
         "0304"
       ], 
       "hnrlbls": [
-        "27-32"
+        "32"
       ], 
       "housenumber": "32", 
-      "lat": 50.878084879719, 
-      "lon": 4.703312780567, 
+      "lat": 50.8781003174, 
+      "lon": 4.703384219772, 
       "municipality": "Leuven", 
       "pcode": "3000", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Tiensestraat"
     }, 
     {
@@ -3559,8 +3572,8 @@
         "31C-33"
       ], 
       "housenumber": "33", 
-      "lat": 50.878015812426, 
-      "lon": 4.703888460389, 
+      "lat": 50.878011432082, 
+      "lon": 4.703911305474, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanGebouw", 
@@ -3576,8 +3589,8 @@
         "35"
       ], 
       "housenumber": "35", 
-      "lat": 50.877965633645, 
-      "lon": 4.703925897423, 
+      "lat": 50.877940917353, 
+      "lon": 4.70386135429, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanGebouw", 
@@ -3624,8 +3637,8 @@
         "37-37A"
       ], 
       "housenumber": "37", 
-      "lat": 50.877931037724, 
-      "lon": 4.703952504933, 
+      "lat": 50.877931388758, 
+      "lon": 4.703955491317, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanGebouw", 
@@ -3636,8 +3649,8 @@
         "37-37A"
       ], 
       "housenumber": "37A", 
-      "lat": 50.877931037724, 
-      "lon": 4.703952504933, 
+      "lat": 50.877931388758, 
+      "lon": 4.703955491317, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanGebouw", 
@@ -3660,8 +3673,8 @@
         "39"
       ], 
       "housenumber": "39", 
-      "lat": 50.877894375468, 
-      "lon": 4.703978671362, 
+      "lat": 50.877895889422, 
+      "lon": 4.703983655306, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanGebouw", 
@@ -3799,8 +3812,8 @@
         "44"
       ], 
       "housenumber": "44", 
-      "lat": 50.877717840256, 
-      "lon": 4.703594906625, 
+      "lat": 50.877718654577, 
+      "lon": 4.70359306529, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanGebouw", 
@@ -4419,11 +4432,11 @@
         "8"
       ], 
       "housenumber": "8", 
-      "lat": 50.878544235457, 
-      "lon": 4.702717429266, 
+      "lat": 50.878614113569, 
+      "lon": 4.702959198029, 
       "municipality": "Leuven", 
       "pcode": "3000", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Tiensestraat"
     }, 
     {

@@ -49,6 +49,10 @@
         "0004 - 1ste", 
         "0005 - 2de"
       ], 
+      "busnrs": [
+        "4", 
+        "5"
+      ], 
       "hnrlbls": [
         "107"
       ], 
@@ -149,10 +153,6 @@
       "street": "Antwerpsesteenweg"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
       "hnrlbls": [
         "119"
       ], 
@@ -822,12 +822,12 @@
     }, 
     {
       "apptnrs": [
-        "0002 - 1ste", 
-        "0003 - 1ste", 
-        "0004 - 2de"
+        "0002", 
+        "0003", 
+        "0004"
       ], 
       "busnrs": [
-        "0001 - glv"
+        "0001"
       ], 
       "hnrlbls": [
         "174"
@@ -858,14 +858,9 @@
     }, 
     {
       "apptnrs": [
-        "0001 - 1ste", 
-        "0002 - 1ste", 
-        "0003 - 2de"
-      ], 
-      "busnrs": [
-        "1", 
-        "2", 
-        "3"
+        "0001", 
+        "0002", 
+        "0003"
       ], 
       "hnrlbls": [
         "176"
@@ -917,7 +912,8 @@
     {
       "busnrs": [
         "1", 
-        "2"
+        "2", 
+        "3"
       ], 
       "hnrlbls": [
         "181"
@@ -2287,8 +2283,8 @@
     }, 
     {
       "busnrs": [
-        "1 - maatsch", 
-        "5"
+        "0001", 
+        "0005"
       ], 
       "hnrlbls": [
         "279"
@@ -2302,9 +2298,6 @@
       "street": "Antwerpsesteenweg"
     }, 
     {
-      "busnrs": [
-        "gelijkvloer"
-      ], 
       "hnrlbls": [
         "28"
       ], 
@@ -2668,8 +2661,8 @@
         "308"
       ], 
       "housenumber": "308", 
-      "lat": 51.300580269606, 
-      "lon": 4.437726328585, 
+      "lat": 51.300571299894, 
+      "lon": 4.437695058789, 
       "municipality": "Kapellen", 
       "pcode": "2950", 
       "source": "afgeleidVanGebouw", 
@@ -2688,9 +2681,6 @@
       "street": "Antwerpsesteenweg"
     }, 
     {
-      "busnrs": [
-        "handelsgeli"
-      ], 
       "hnrlbls": [
         "31"
       ], 
@@ -2707,8 +2697,8 @@
         "310"
       ], 
       "housenumber": "310", 
-      "lat": 51.300525516854, 
-      "lon": 4.437752198, 
+      "lat": 51.300522111501, 
+      "lon": 4.437734987577, 
       "municipality": "Kapellen", 
       "pcode": "2950", 
       "source": "afgeleidVanGebouw", 
@@ -2943,9 +2933,6 @@
       "street": "Antwerpsesteenweg"
     }, 
     {
-      "apptnrs": [
-        "woning bove"
-      ], 
       "hnrlbls": [
         "33"
       ], 
@@ -3599,6 +3586,7 @@
         "19", 
         "2", 
         "20", 
+        "3", 
         "4", 
         "5", 
         "6", 

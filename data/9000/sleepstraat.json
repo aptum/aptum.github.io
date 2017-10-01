@@ -85,6 +85,11 @@
       "street": "Sleepstraat"
     }, 
     {
+      "apptnrs": [
+        "0001", 
+        "0101", 
+        "0201"
+      ], 
       "hnrlbls": [
         "103"
       ], 
@@ -233,9 +238,6 @@
       "street": "Sleepstraat"
     }, 
     {
-      "busnrs": [
-        "BOOO"
-      ], 
       "hnrlbls": [
         "110-110A"
       ], 
@@ -2415,9 +2417,21 @@
     }, 
     {
       "hnrlbls": [
-        "41"
+        "41-41A"
       ], 
       "housenumber": "41", 
+      "lat": 51.060698080073, 
+      "lon": 3.725504551405, 
+      "municipality": "Gent", 
+      "pcode": "9000", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Sleepstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "41-41A"
+      ], 
+      "housenumber": "41A", 
       "lat": 51.060698080073, 
       "lon": 3.725504551405, 
       "municipality": "Gent", 

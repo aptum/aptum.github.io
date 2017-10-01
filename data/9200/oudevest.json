@@ -126,11 +126,11 @@
         "111"
       ], 
       "housenumber": "111", 
-      "lat": 51.030879443179, 
-      "lon": 4.103509403539, 
+      "lat": 51.031015143843, 
+      "lon": 4.103454181468, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Oude Vest"
     }, 
     {
@@ -263,11 +263,11 @@
         "121"
       ], 
       "housenumber": "121", 
-      "lat": 51.031444938024, 
-      "lon": 4.10382652831, 
+      "lat": 51.031505756409, 
+      "lon": 4.103849849158, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelKadaster", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Oude Vest"
     }, 
     {
@@ -315,7 +315,7 @@
       "lon": 4.103830692547, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Oude Vest"
     }, 
     {
@@ -504,8 +504,8 @@
         "138"
       ], 
       "housenumber": "138", 
-      "lat": 51.030557498117, 
-      "lon": 4.104209726482, 
+      "lat": 51.030563262032, 
+      "lon": 4.104174483699, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
       "source": "afgeleidVanGebouw", 
@@ -549,7 +549,7 @@
     }, 
     {
       "hnrlbls": [
-        "143-143A"
+        "143"
       ], 
       "housenumber": "143", 
       "lat": 51.031898611751, 
@@ -561,14 +561,14 @@
     }, 
     {
       "hnrlbls": [
-        "143-143A"
+        "143A"
       ], 
       "housenumber": "143A", 
-      "lat": 51.031898611751, 
-      "lon": 4.104988934709, 
+      "lat": 51.031885162725, 
+      "lon": 4.105004406307, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Oude Vest"
     }, 
     {
@@ -705,14 +705,14 @@
     }, 
     {
       "hnrlbls": [
-        "154A"
+        "154A-156"
       ], 
       "housenumber": "154A", 
-      "lat": 51.031446105307, 
-      "lon": 4.104547990129, 
+      "lat": 51.03130164416, 
+      "lon": 4.104705612655, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
-      "source": "geinterpoleerdObvWegverbinding", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Oude Vest"
     }, 
     {
@@ -726,14 +726,14 @@
         "7"
       ], 
       "hnrlbls": [
-        "156"
+        "154A-156"
       ], 
       "housenumber": "156", 
-      "lat": 51.031443975075, 
-      "lon": 4.104560119251, 
+      "lat": 51.03130164416, 
+      "lon": 4.104705612655, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
-      "source": "geinterpoleerdObvWegverbinding", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Oude Vest"
     }, 
     {
@@ -780,7 +780,7 @@
         "3"
       ], 
       "hnrlbls": [
-        "160"
+        "160-160A"
       ], 
       "housenumber": "160", 
       "lat": 51.03139526623, 
@@ -792,14 +792,14 @@
     }, 
     {
       "hnrlbls": [
-        "160A"
+        "160-160A"
       ], 
       "housenumber": "160A", 
-      "lat": 51.03140957399, 
-      "lon": 4.10485354726, 
+      "lat": 51.03139526623, 
+      "lon": 4.104886985412, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Oude Vest"
     }, 
     {
@@ -876,6 +876,8 @@
     }, 
     {
       "busnrs": [
+        "1", 
+        "4", 
         "5", 
         "8", 
         "9"
@@ -905,10 +907,13 @@
     }, 
     {
       "busnrs": [
+        "10", 
+        "11", 
         "2", 
         "3", 
         "5", 
         "6", 
+        "8", 
         "9"
       ], 
       "hnrlbls": [
@@ -927,11 +932,11 @@
         "17A"
       ], 
       "housenumber": "17A", 
-      "lat": 51.028372237405, 
-      "lon": 4.099667579573, 
+      "lat": 51.028409479376, 
+      "lon": 4.0996006549, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Oude Vest"
     }, 
     {
@@ -962,6 +967,8 @@
       "busnrs": [
         "15", 
         "18", 
+        "21", 
+        "24", 
         "3", 
         "6", 
         "9"
@@ -1010,7 +1017,7 @@
       "lon": 4.099358175964, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Oude Vest"
     }, 
     {
@@ -1056,14 +1063,14 @@
         "3"
       ], 
       "hnrlbls": [
-        "22"
+        "22-26"
       ], 
       "housenumber": "22", 
-      "lat": 51.028276896723, 
-      "lon": 4.100590819174, 
+      "lat": 51.028349667562, 
+      "lon": 4.100612497979, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Oude Vest"
     }, 
     {
@@ -1080,7 +1087,7 @@
     }, 
     {
       "hnrlbls": [
-        "24-26"
+        "22-26"
       ], 
       "housenumber": "24", 
       "lat": 51.028349667562, 
@@ -1116,7 +1123,7 @@
         "7"
       ], 
       "hnrlbls": [
-        "24-26"
+        "22-26"
       ], 
       "housenumber": "26", 
       "lat": 51.028349667562, 
@@ -1191,11 +1198,11 @@
         "30"
       ], 
       "housenumber": "30", 
-      "lat": 51.028568705457, 
-      "lon": 4.100442900302, 
+      "lat": 51.028432140072, 
+      "lon": 4.100829266046, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
-      "source": "geinterpoleerdObvWegverbinding", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
       "street": "Oude Vest"
     }, 
     {
@@ -1305,11 +1312,11 @@
         "38-40"
       ], 
       "housenumber": "38", 
-      "lat": 51.028531729984, 
-      "lon": 4.101261323759, 
+      "lat": 51.028588458861, 
+      "lon": 4.101185451226, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Oude Vest"
     }, 
     {
@@ -1337,7 +1344,7 @@
       "lon": 4.099428746776, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Oude Vest"
     }, 
     {
@@ -1357,11 +1364,11 @@
         "38-40"
       ], 
       "housenumber": "40", 
-      "lat": 51.028531729984, 
-      "lon": 4.101261323759, 
+      "lat": 51.028588458861, 
+      "lon": 4.101185451226, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Oude Vest"
     }, 
     {
@@ -1572,11 +1579,11 @@
         "52"
       ], 
       "housenumber": "52", 
-      "lat": 51.028868156507, 
-      "lon": 4.101365176437, 
+      "lat": 51.028974142267, 
+      "lon": 4.101168855716, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "geinterpoleerdObvWegverbinding", 
       "street": "Oude Vest"
     }, 
     {
@@ -1702,7 +1709,7 @@
     }, 
     {
       "hnrlbls": [
-        "60"
+        "60-60A"
       ], 
       "housenumber": "60", 
       "lat": 51.02896068296, 
@@ -1714,14 +1721,14 @@
     }, 
     {
       "hnrlbls": [
-        "60A"
+        "60-60A"
       ], 
       "housenumber": "60A", 
-      "lat": 51.028962750419, 
-      "lon": 4.101695631721, 
+      "lat": 51.02896068296, 
+      "lon": 4.101695643482, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Oude Vest"
     }, 
     {
@@ -1800,7 +1807,7 @@
       "lon": 4.101465760309, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Oude Vest"
     }, 
     {
@@ -1889,14 +1896,14 @@
     }, 
     {
       "hnrlbls": [
-        "73"
+        "73-75B"
       ], 
       "housenumber": "73", 
-      "lat": 51.029498292825, 
-      "lon": 4.101644261139, 
+      "lat": 51.029516609738, 
+      "lon": 4.101674804879, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Oude Vest"
     }, 
     {
@@ -1918,7 +1925,7 @@
         "4"
       ], 
       "hnrlbls": [
-        "75-75B"
+        "73-75B"
       ], 
       "housenumber": "75", 
       "lat": 51.029516609738, 
@@ -1942,14 +1949,14 @@
     }, 
     {
       "hnrlbls": [
-        "75-75B"
+        "73-75B"
       ], 
       "housenumber": "75B", 
       "lat": 51.029516609738, 
       "lon": 4.101674804879, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Oude Vest"
     }, 
     {
@@ -1989,7 +1996,7 @@
       "lon": 4.101746564023, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Oude Vest"
     }, 
     {
@@ -2064,11 +2071,11 @@
         "80A"
       ], 
       "housenumber": "80A", 
-      "lat": 51.029290650589, 
-      "lon": 4.102482199177, 
+      "lat": 51.029298714282, 
+      "lon": 4.102470464504, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Oude Vest"
     }, 
     {
@@ -2114,7 +2121,7 @@
       "lon": 4.102618301278, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Oude Vest"
     }, 
     {
@@ -2209,11 +2216,11 @@
         "87A"
       ], 
       "housenumber": "87A", 
-      "lat": 51.03019150543, 
-      "lon": 4.102828049272, 
+      "lat": 51.030198645214, 
+      "lon": 4.102805200711, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Oude Vest"
     }, 
     {
@@ -2249,7 +2256,7 @@
       "lon": 4.100032318927, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Oude Vest"
     }, 
     {
@@ -2285,7 +2292,7 @@
       "lon": 4.102762284224, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Oude Vest"
     }, 
     {
@@ -2333,7 +2340,7 @@
       "lon": 4.10299523507, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Oude Vest"
     }, 
     {

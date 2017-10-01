@@ -2,14 +2,14 @@
   "addresses": [
     {
       "hnrlbls": [
-        "1-22"
+        "1"
       ], 
       "housenumber": "1", 
-      "lat": 51.072406455978, 
-      "lon": 4.040005294187, 
+      "lat": 51.072362927704, 
+      "lon": 4.040062100605, 
       "municipality": "Zele", 
       "pcode": "9240", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Stationsstraat"
     }, 
     {
@@ -38,7 +38,7 @@
     }, 
     {
       "hnrlbls": [
-        "12-12A"
+        "12"
       ], 
       "housenumber": "12", 
       "lat": 51.072250072297, 
@@ -50,14 +50,14 @@
     }, 
     {
       "hnrlbls": [
-        "12-12A"
+        "12A"
       ], 
       "housenumber": "12A", 
-      "lat": 51.072250072297, 
-      "lon": 4.040919538719, 
+      "lat": 51.07234551541, 
+      "lon": 4.041074392057, 
       "municipality": "Zele", 
       "pcode": "9240", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Stationsstraat"
     }, 
     {
@@ -65,11 +65,11 @@
         "13"
       ], 
       "housenumber": "13", 
-      "lat": 51.072745934416, 
-      "lon": 4.041060178626, 
+      "lat": 51.072694125697, 
+      "lon": 4.041080944128, 
       "municipality": "Zele", 
       "pcode": "9240", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Stationsstraat"
     }, 
     {
@@ -77,11 +77,11 @@
         "14"
       ], 
       "housenumber": "14", 
-      "lat": 51.072525977181, 
-      "lon": 4.041385314863, 
+      "lat": 51.072559672496, 
+      "lon": 4.041380513786, 
       "municipality": "Zele", 
       "pcode": "9240", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Stationsstraat"
     }, 
     {
@@ -101,11 +101,11 @@
         "17"
       ], 
       "housenumber": "17", 
-      "lat": 51.072797051165, 
-      "lon": 4.041340902892, 
+      "lat": 51.072767252676, 
+      "lon": 4.041357091279, 
       "municipality": "Zele", 
       "pcode": "9240", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Stationsstraat"
     }, 
     {
@@ -113,11 +113,11 @@
         "19"
       ], 
       "housenumber": "19", 
-      "lat": 51.072826329485, 
-      "lon": 4.04139648671, 
+      "lat": 51.072785061715, 
+      "lon": 4.04142588181, 
       "municipality": "Zele", 
       "pcode": "9240", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Stationsstraat"
     }, 
     {
@@ -137,14 +137,18 @@
         "21"
       ], 
       "housenumber": "21", 
-      "lat": 51.072860336763, 
-      "lon": 4.0415042589, 
+      "lat": 51.072814301746, 
+      "lon": 4.041532545754, 
       "municipality": "Zele", 
       "pcode": "9240", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Stationsstraat"
     }, 
     {
+      "busnrs": [
+        "W1", 
+        "W2"
+      ], 
       "hnrlbls": [
         "3"
       ], 
@@ -154,22 +158,6 @@
       "municipality": "Zele", 
       "pcode": "9240", 
       "source": "afgeleidVanGebouw", 
-      "street": "Stationsstraat"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
-      "hnrlbls": [
-        "3W"
-      ], 
-      "housenumber": "3W", 
-      "lat": 51.072429179944, 
-      "lon": 4.040127982219, 
-      "municipality": "Zele", 
-      "pcode": "9240", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Stationsstraat"
     }, 
     {
@@ -189,11 +177,11 @@
         "5"
       ], 
       "housenumber": "5", 
-      "lat": 51.072518680582, 
-      "lon": 4.040246635417, 
+      "lat": 51.072449460934, 
+      "lon": 4.040244980291, 
       "municipality": "Zele", 
       "pcode": "9240", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Stationsstraat"
     }, 
     {
@@ -201,42 +189,27 @@
         "6"
       ], 
       "housenumber": "6", 
-      "lat": 51.072259743595, 
-      "lon": 4.0404855831, 
+      "lat": 51.072290278919, 
+      "lon": 4.040475809749, 
       "municipality": "Zele", 
       "pcode": "9240", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Stationsstraat"
     }, 
     {
       "busnrs": [
-        "2"
+        "W1", 
+        "W2"
       ], 
       "hnrlbls": [
         "7"
       ], 
       "housenumber": "7", 
-      "lat": 51.072526406161, 
-      "lon": 4.040309503244, 
+      "lat": 51.072480664661, 
+      "lon": 4.040378595513, 
       "municipality": "Zele", 
       "pcode": "9240", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Stationsstraat"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
-      "hnrlbls": [
-        "7W"
-      ], 
-      "housenumber": "7W", 
-      "lat": 51.072555056776, 
-      "lon": 4.040333130113, 
-      "municipality": "Zele", 
-      "pcode": "9240", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Stationsstraat"
     }, 
     {
@@ -244,11 +217,11 @@
         "8"
       ], 
       "housenumber": "8", 
-      "lat": 51.072287916029, 
-      "lon": 4.040563574166, 
+      "lat": 51.072315650164, 
+      "lon": 4.040548541328, 
       "municipality": "Zele", 
       "pcode": "9240", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Stationsstraat"
     }, 
     {

@@ -604,14 +604,14 @@
       "street": "Turnhoutsebaan"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6", 
-        "7"
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301", 
+        "401", 
+        "501", 
+        "601", 
+        "701"
       ], 
       "hnrlbls": [
         "133"
@@ -2254,6 +2254,14 @@
       "street": "Turnhoutsebaan"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "002", 
+        "101", 
+        "201", 
+        "301", 
+        "401"
+      ], 
       "hnrlbls": [
         "255"
       ], 
@@ -2469,6 +2477,21 @@
       "street": "Turnhoutsebaan"
     }, 
     {
+      "busnrs": [
+        "3"
+      ], 
+      "hnrlbls": [
+        "271B"
+      ], 
+      "housenumber": "271B", 
+      "lat": 51.21427747126, 
+      "lon": 4.439475464067, 
+      "municipality": "Antwerpen", 
+      "pcode": "2140", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "street": "Turnhoutsebaan"
+    }, 
+    {
       "hnrlbls": [
         "273"
       ], 
@@ -2513,13 +2536,27 @@
       "street": "Turnhoutsebaan"
     }, 
     {
-      "busnrs": [
-        "1"
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301"
       ], 
       "hnrlbls": [
-        "276"
+        "276-276A"
       ], 
       "housenumber": "276", 
+      "lat": 51.213740637062, 
+      "lon": 4.439700184732, 
+      "municipality": "Antwerpen", 
+      "pcode": "2140", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Turnhoutsebaan"
+    }, 
+    {
+      "hnrlbls": [
+        "276-276A"
+      ], 
+      "housenumber": "276A", 
       "lat": 51.213740637062, 
       "lon": 4.439700184732, 
       "municipality": "Antwerpen", 
@@ -2597,8 +2634,8 @@
         "280"
       ], 
       "housenumber": "280", 
-      "lat": 51.213679063636, 
-      "lon": 4.439852932372, 
+      "lat": 51.213658125079, 
+      "lon": 4.439845601496, 
       "municipality": "Antwerpen", 
       "pcode": "2140", 
       "source": "afgeleidVanGebouw", 
@@ -3043,8 +3080,8 @@
         "316"
       ], 
       "housenumber": "316", 
-      "lat": 51.213806949235, 
-      "lon": 4.441494470406, 
+      "lat": 51.213807848431, 
+      "lon": 4.441493899378, 
       "municipality": "Antwerpen", 
       "pcode": "2140", 
       "source": "afgeleidVanGebouw", 
@@ -3071,8 +3108,8 @@
         "318"
       ], 
       "housenumber": "318", 
-      "lat": 51.213811395498, 
-      "lon": 4.441571614297, 
+      "lat": 51.213811755034, 
+      "lon": 4.441571614863, 
       "municipality": "Antwerpen", 
       "pcode": "2140", 
       "source": "afgeleidVanGebouw", 
@@ -3474,11 +3511,11 @@
         "350"
       ], 
       "housenumber": "350", 
-      "lat": 51.214237652532, 
-      "lon": 4.442819510968, 
+      "lat": 51.215426105734, 
+      "lon": 4.440793604683, 
       "municipality": "Antwerpen", 
       "pcode": "2140", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanStraat", 
       "street": "Turnhoutsebaan"
     }, 
     {
@@ -4064,6 +4101,12 @@
       "street": "Turnhoutsebaan"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
         "412"
       ], 
@@ -4108,8 +4151,8 @@
         "415"
       ], 
       "housenumber": "415", 
-      "lat": 51.215465440248, 
-      "lon": 4.445517931468, 
+      "lat": 51.215464901413, 
+      "lon": 4.445517214992, 
       "municipality": "Antwerpen", 
       "pcode": "2140", 
       "source": "afgeleidVanGebouw", 
@@ -4120,8 +4163,8 @@
         "417"
       ], 
       "housenumber": "417", 
-      "lat": 51.215510519993, 
-      "lon": 4.445582122463, 
+      "lat": 51.215510250904, 
+      "lon": 4.445581263318, 
       "municipality": "Antwerpen", 
       "pcode": "2140", 
       "source": "afgeleidVanGebouw", 
@@ -4369,7 +4412,7 @@
         "1"
       ], 
       "hnrlbls": [
-        "455A-455_17"
+        "455A-455_1"
       ], 
       "housenumber": "455A", 
       "lat": 51.219634679809, 
@@ -4384,7 +4427,7 @@
         "13"
       ], 
       "hnrlbls": [
-        "455A-455_17"
+        "455A-455_1"
       ], 
       "housenumber": "455G", 
       "lat": 51.219634679809, 
@@ -4399,7 +4442,7 @@
         "a"
       ], 
       "hnrlbls": [
-        "455A-455_17"
+        "455A-455_1"
       ], 
       "housenumber": "455_1", 
       "lat": 51.219634679809, 
@@ -4415,7 +4458,7 @@
         "i"
       ], 
       "hnrlbls": [
-        "455A-455_17"
+        "455A-455_1"
       ], 
       "housenumber": "455_17", 
       "lat": 51.219634679809, 
@@ -4430,7 +4473,7 @@
         "b"
       ], 
       "hnrlbls": [
-        "455A-455_17"
+        "455A-455_1"
       ], 
       "housenumber": "455_6", 
       "lat": 51.219634679809, 
@@ -4572,7 +4615,7 @@
         "3"
       ], 
       "hnrlbls": [
-        "457D-457_16"
+        "457D-457_1"
       ], 
       "housenumber": "457D", 
       "lat": 51.219880183343, 
@@ -4587,7 +4630,7 @@
         "25"
       ], 
       "hnrlbls": [
-        "457D-457_16"
+        "457D-457_1"
       ], 
       "housenumber": "457F", 
       "lat": 51.219880183343, 
@@ -4602,7 +4645,7 @@
         "L"
       ], 
       "hnrlbls": [
-        "457D-457_16"
+        "457D-457_1"
       ], 
       "housenumber": "457_11", 
       "lat": 51.219880183343, 
@@ -4617,7 +4660,7 @@
         "l"
       ], 
       "hnrlbls": [
-        "457D-457_16"
+        "457D-457_1"
       ], 
       "housenumber": "457_16", 
       "lat": 51.219880183343, 
@@ -4895,7 +4938,7 @@
         "F"
       ], 
       "hnrlbls": [
-        "461_4-461_16"
+        "461_4-461_"
       ], 
       "housenumber": "461_13", 
       "lat": 51.220624213723, 
@@ -4910,7 +4953,7 @@
         "H"
       ], 
       "hnrlbls": [
-        "461_4-461_16"
+        "461_4-461_"
       ], 
       "housenumber": "461_16", 
       "lat": 51.220624213723, 
@@ -4925,7 +4968,7 @@
         "G"
       ], 
       "hnrlbls": [
-        "461_4-461_16"
+        "461_4-461_"
       ], 
       "housenumber": "461_4", 
       "lat": 51.220624213723, 
@@ -4998,8 +5041,8 @@
         "52"
       ], 
       "housenumber": "52", 
-      "lat": 51.216069847365, 
-      "lon": 4.430425134908, 
+      "lat": 51.216073530419, 
+      "lon": 4.430429290257, 
       "municipality": "Antwerpen", 
       "pcode": "2140", 
       "source": "afgeleidVanGebouw", 
@@ -5022,8 +5065,8 @@
         "56"
       ], 
       "housenumber": "56", 
-      "lat": 51.215990703888, 
-      "lon": 4.430511329084, 
+      "lat": 51.2159903442, 
+      "lon": 4.430511614838, 
       "municipality": "Antwerpen", 
       "pcode": "2140", 
       "source": "afgeleidVanGebouw", 
@@ -5034,14 +5077,18 @@
         "58"
       ], 
       "housenumber": "58", 
-      "lat": 51.215983657762, 
-      "lon": 4.430577869405, 
+      "lat": 51.215984286572, 
+      "lon": 4.430578585837, 
       "municipality": "Antwerpen", 
       "pcode": "2140", 
       "source": "afgeleidVanGebouw", 
       "street": "Turnhoutsebaan"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "6"
       ], 
@@ -5058,8 +5105,8 @@
         "60"
       ], 
       "housenumber": "60", 
-      "lat": 51.215962331254, 
-      "lon": 4.430623209122, 
+      "lat": 51.215962061829, 
+      "lon": 4.430622779408, 
       "municipality": "Antwerpen", 
       "pcode": "2140", 
       "source": "afgeleidVanGebouw", 
@@ -5126,8 +5173,8 @@
         "64"
       ], 
       "housenumber": "64", 
-      "lat": 51.215884422107, 
-      "lon": 4.43075448642, 
+      "lat": 51.215884242339, 
+      "lon": 4.430754486178, 
       "municipality": "Antwerpen", 
       "pcode": "2140", 
       "source": "afgeleidVanGebouw", 
@@ -5170,8 +5217,8 @@
         "66"
       ], 
       "housenumber": "66", 
-      "lat": 51.215796935355, 
-      "lon": 4.430810184502, 
+      "lat": 51.215797025087, 
+      "lon": 4.430810470857, 
       "municipality": "Antwerpen", 
       "pcode": "2140", 
       "source": "afgeleidVanGebouw", 
@@ -5237,6 +5284,18 @@
       "housenumber": "69", 
       "lat": 51.216204174068, 
       "lon": 4.431364743965, 
+      "municipality": "Antwerpen", 
+      "pcode": "2140", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Turnhoutsebaan"
+    }, 
+    {
+      "hnrlbls": [
+        "6A"
+      ], 
+      "housenumber": "6A", 
+      "lat": 51.217008212237, 
+      "lon": 4.42909436366, 
       "municipality": "Antwerpen", 
       "pcode": "2140", 
       "source": "afgeleidVanGebouw", 
@@ -5535,12 +5594,29 @@
       "street": "Turnhoutsebaan"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
-        "88"
+        "88-88A"
       ], 
       "housenumber": "88", 
-      "lat": 51.215503908001, 
-      "lon": 4.431661045871, 
+      "lat": 51.21550570545, 
+      "lon": 4.431661477672, 
+      "municipality": "Antwerpen", 
+      "pcode": "2140", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Turnhoutsebaan"
+    }, 
+    {
+      "hnrlbls": [
+        "88-88A"
+      ], 
+      "housenumber": "88A", 
+      "lat": 51.21550570545, 
+      "lon": 4.431661477672, 
       "municipality": "Antwerpen", 
       "pcode": "2140", 
       "source": "afgeleidVanGebouw", 

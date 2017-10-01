@@ -2,6 +2,7 @@
   "addresses": [
     {
       "apptnrs": [
+        "03/1", 
         "1", 
         "2", 
         "3"
@@ -264,6 +265,7 @@
         "3/2"
       ], 
       "busnrs": [
+        "32", 
         "O/01", 
         "O/02"
       ], 
@@ -449,6 +451,7 @@
     {
       "apptnrs": [
         "0", 
+        "05/1", 
         "1", 
         "2", 
         "3"
@@ -1115,8 +1118,8 @@
         "241"
       ], 
       "housenumber": "241", 
-      "lat": 50.915780529571, 
-      "lon": 4.422877053649, 
+      "lat": 50.91523167104, 
+      "lon": 4.422811995782, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
       "source": "afgeleidVanPerceelKadaster", 
@@ -1391,14 +1394,29 @@
         "2/1"
       ], 
       "hnrlbls": [
-        "304"
+        "304-304O"
       ], 
       "housenumber": "304", 
       "lat": 50.91695564385, 
       "lon": 4.42281585538, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Schaarbeeklei"
+    }, 
+    {
+      "busnrs": [
+        "1"
+      ], 
+      "hnrlbls": [
+        "304-304O"
+      ], 
+      "housenumber": "304O", 
+      "lat": 50.91695564385, 
+      "lon": 4.42281585538, 
+      "municipality": "Vilvoorde", 
+      "pcode": "1800", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Schaarbeeklei"
     }, 
     {
@@ -1916,6 +1934,7 @@
     {
       "apptnrs": [
         "0", 
+        "01/1", 
         "1", 
         "2"
       ], 
@@ -1933,6 +1952,7 @@
     {
       "apptnrs": [
         "0", 
+        "00/1", 
         "1", 
         "2"
       ], 
@@ -2504,6 +2524,7 @@
     {
       "apptnrs": [
         "0", 
+        "01/1", 
         "1", 
         "2"
       ], 
@@ -2879,9 +2900,6 @@
       "street": "Schaarbeeklei"
     }, 
     {
-      "apptnrs": [
-        "3"
-      ], 
       "hnrlbls": [
         "80-82"
       ], 
@@ -2894,10 +2912,9 @@
       "street": "Schaarbeeklei"
     }, 
     {
-      "apptnrs": [
-        "1", 
-        "2", 
-        "3"
+      "busnrs": [
+        "01/1", 
+        "02/1"
       ], 
       "hnrlbls": [
         "80-82"

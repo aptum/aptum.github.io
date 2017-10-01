@@ -17,8 +17,8 @@
         "10"
       ], 
       "housenumber": "10", 
-      "lat": 51.197778425524, 
-      "lon": 3.813174276672, 
+      "lat": 51.197777170532, 
+      "lon": 3.813175006929, 
       "municipality": "Zelzate", 
       "pcode": "9060", 
       "source": "afgeleidVanGebouw", 
@@ -93,8 +93,8 @@
         "11"
       ], 
       "housenumber": "11", 
-      "lat": 51.198166093914, 
-      "lon": 3.813266808069, 
+      "lat": 51.198170139282, 
+      "lon": 3.813266903026, 
       "municipality": "Zelzate", 
       "pcode": "9060", 
       "source": "afgeleidVanGebouw", 
@@ -165,8 +165,8 @@
         "12"
       ], 
       "housenumber": "12", 
-      "lat": 51.197754687269, 
-      "lon": 3.813421490573, 
+      "lat": 51.197754691969, 
+      "lon": 3.813422491978, 
       "municipality": "Zelzate", 
       "pcode": "9060", 
       "source": "afgeleidVanGebouw", 
@@ -512,7 +512,7 @@
       "lon": 3.822351911979, 
       "municipality": "Zelzate", 
       "pcode": "9060", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Burgemeester Jos. Chalmetlaan"
     }, 
     {
@@ -520,8 +520,8 @@
         "17"
       ], 
       "housenumber": "17", 
-      "lat": 51.198073713891, 
-      "lon": 3.813578361576, 
+      "lat": 51.198064556588, 
+      "lon": 3.813561588544, 
       "municipality": "Zelzate", 
       "pcode": "9060", 
       "source": "afgeleidVanGebouw", 
@@ -582,11 +582,8 @@
       "street": "Burgemeester Jos. Chalmetlaan"
     }, 
     {
-      "busnrs": [
-        "23"
-      ], 
       "hnrlbls": [
-        "21"
+        "21-23"
       ], 
       "housenumber": "21", 
       "lat": 51.198033725624, 
@@ -601,11 +598,23 @@
         "22"
       ], 
       "housenumber": "22", 
-      "lat": 51.19759956457, 
-      "lon": 3.813982004856, 
+      "lat": 51.197588020749, 
+      "lon": 3.813973844177, 
       "municipality": "Zelzate", 
       "pcode": "9060", 
       "source": "afgeleidVanGebouw", 
+      "street": "Burgemeester Jos. Chalmetlaan"
+    }, 
+    {
+      "hnrlbls": [
+        "21-23"
+      ], 
+      "housenumber": "23", 
+      "lat": 51.198033725624, 
+      "lon": 3.813887431604, 
+      "municipality": "Zelzate", 
+      "pcode": "9060", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Burgemeester Jos. Chalmetlaan"
     }, 
     {
@@ -645,7 +654,8 @@
       "street": "Burgemeester Jos. Chalmetlaan"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
+        "0001", 
         "0101"
       ], 
       "hnrlbls": [
@@ -656,19 +666,7 @@
       "lon": 3.814174726817, 
       "municipality": "Zelzate", 
       "pcode": "9060", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Burgemeester Jos. Chalmetlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "27A"
-      ], 
-      "housenumber": "27A", 
-      "lat": 51.197843384627, 
-      "lon": 3.814106866956, 
-      "municipality": "Zelzate", 
-      "pcode": "9060", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Burgemeester Jos. Chalmetlaan"
     }, 
     {
@@ -772,8 +770,8 @@
         "35"
       ], 
       "housenumber": "35", 
-      "lat": 51.197759214351, 
-      "lon": 3.814598009811, 
+      "lat": 51.197743613815, 
+      "lon": 3.814587321898, 
       "municipality": "Zelzate", 
       "pcode": "9060", 
       "source": "afgeleidVanGebouw", 
@@ -892,8 +890,8 @@
         "44"
       ], 
       "housenumber": "44", 
-      "lat": 51.197239260535, 
-      "lon": 3.815202615898, 
+      "lat": 51.197234794533, 
+      "lon": 3.815208677519, 
       "municipality": "Zelzate", 
       "pcode": "9060", 
       "source": "afgeleidVanGebouw", 
@@ -928,8 +926,8 @@
         "47"
       ], 
       "housenumber": "47", 
-      "lat": 51.197576971862, 
-      "lon": 3.815088453503, 
+      "lat": 51.197607801936, 
+      "lon": 3.81510740188, 
       "municipality": "Zelzate", 
       "pcode": "9060", 
       "source": "afgeleidVanGebouw", 
@@ -1136,29 +1134,18 @@
     }, 
     {
       "busnrs": [
-        "101"
+        "0001", 
+        "0101"
       ], 
       "hnrlbls": [
-        "60-60A"
+        "60"
       ], 
       "housenumber": "60", 
       "lat": 51.196199147011, 
       "lon": 3.818143972061, 
       "municipality": "Zelzate", 
       "pcode": "9060", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Burgemeester Jos. Chalmetlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "60-60A"
-      ], 
-      "housenumber": "60A", 
-      "lat": 51.196199147011, 
-      "lon": 3.818143972061, 
-      "municipality": "Zelzate", 
-      "pcode": "9060", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Burgemeester Jos. Chalmetlaan"
     }, 
     {
@@ -1183,8 +1170,8 @@
         "62"
       ], 
       "housenumber": "62", 
-      "lat": 51.196205147649, 
-      "lon": 3.818274515989, 
+      "lat": 51.196212094539, 
+      "lon": 3.818280013501, 
       "municipality": "Zelzate", 
       "pcode": "9060", 
       "source": "afgeleidVanGebouw", 
@@ -1195,11 +1182,11 @@
         "63"
       ], 
       "housenumber": "63", 
-      "lat": 51.19722935053, 
-      "lon": 3.816063121091, 
+      "lat": 51.197227997276, 
+      "lon": 3.816081306248, 
       "municipality": "Zelzate", 
       "pcode": "9060", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Burgemeester Jos. Chalmetlaan"
     }, 
     {
@@ -1279,8 +1266,8 @@
         "7-9"
       ], 
       "housenumber": "7", 
-      "lat": 51.198203198936, 
-      "lon": 3.813128879251, 
+      "lat": 51.198203283444, 
+      "lon": 3.813127733708, 
       "municipality": "Zelzate", 
       "pcode": "9060", 
       "source": "afgeleidVanGebouw", 
@@ -1441,7 +1428,7 @@
         "0101"
       ], 
       "hnrlbls": [
-        "80"
+        "2A-80"
       ], 
       "housenumber": "80", 
       "lat": 51.195746873667, 
@@ -1676,8 +1663,8 @@
         "7-9"
       ], 
       "housenumber": "9", 
-      "lat": 51.198203198936, 
-      "lon": 3.813128879251, 
+      "lat": 51.198203283444, 
+      "lon": 3.813127733708, 
       "municipality": "Zelzate", 
       "pcode": "9060", 
       "source": "afgeleidVanGebouw", 

@@ -1,6 +1,11 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "1", 
+        "101", 
+        "102"
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -38,6 +43,9 @@
     }, 
     {
       "busnrs": [
+        "1", 
+        "101", 
+        "102", 
         "12"
       ], 
       "hnrlbls": [
@@ -112,12 +120,17 @@
       "street": "Mansveldstraat"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0201"
+      ], 
       "hnrlbls": [
         "2"
       ], 
       "housenumber": "2", 
-      "lat": 51.234581500158, 
-      "lon": 2.948796180673, 
+      "lat": 51.234574908172, 
+      "lon": 2.948756285132, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -185,30 +198,6 @@
     }, 
     {
       "hnrlbls": [
-        "2A"
-      ], 
-      "housenumber": "2A", 
-      "lat": 51.234568373653, 
-      "lon": 2.948758632133, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Mansveldstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "2B"
-      ], 
-      "housenumber": "2B", 
-      "lat": 51.234556458357, 
-      "lon": 2.948724626752, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Mansveldstraat"
-    }, 
-    {
-      "hnrlbls": [
         "3"
       ], 
       "housenumber": "3", 
@@ -221,14 +210,16 @@
     }, 
     {
       "busnrs": [
-        "4B"
+        "0001", 
+        "0101", 
+        "0201"
       ], 
       "hnrlbls": [
         "4"
       ], 
       "housenumber": "4", 
-      "lat": 51.234538507029, 
-      "lon": 2.948682069951, 
+      "lat": 51.234535513119, 
+      "lon": 2.948642351288, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -280,33 +271,6 @@
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
-      "street": "Mansveldstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "4A"
-      ], 
-      "housenumber": "4A", 
-      "lat": 51.234528425655, 
-      "lon": 2.948643569535, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Mansveldstraat"
-    }, 
-    {
-      "busnrs": [
-        "4B"
-      ], 
-      "hnrlbls": [
-        "4B"
-      ], 
-      "housenumber": "4B", 
-      "lat": 51.234514078764, 
-      "lon": 2.948609208663, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "manueleAanduidingVanGebouw", 
       "street": "Mansveldstraat"
     }, 
     {
@@ -370,12 +334,17 @@
       "street": "Mansveldstraat"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0201"
+      ], 
       "hnrlbls": [
         "6"
       ], 
       "housenumber": "6", 
-      "lat": 51.234501190192, 
-      "lon": 2.948554039289, 
+      "lat": 51.234494923741, 
+      "lon": 2.948503823481, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -440,30 +409,6 @@
     }, 
     {
       "hnrlbls": [
-        "6A"
-      ], 
-      "housenumber": "6A", 
-      "lat": 51.23448661938, 
-      "lon": 2.948508515628, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Mansveldstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "6B"
-      ], 
-      "housenumber": "6B", 
-      "lat": 51.234475711964, 
-      "lon": 2.948468608444, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Mansveldstraat"
-    }, 
-    {
-      "hnrlbls": [
         "7"
       ], 
       "housenumber": "7", 
@@ -515,8 +460,8 @@
         "76"
       ], 
       "housenumber": "76", 
-      "lat": 51.23312648053, 
-      "lon": 2.94513871071, 
+      "lat": 51.233127209799, 
+      "lon": 2.945139547627, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -527,20 +472,25 @@
         "78"
       ], 
       "housenumber": "78", 
-      "lat": 51.233086126097, 
-      "lon": 2.945072353895, 
+      "lat": 51.233086236633, 
+      "lon": 2.945074068879, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
       "street": "Mansveldstraat"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0102"
+      ], 
       "hnrlbls": [
         "8"
       ], 
       "housenumber": "8", 
-      "lat": 51.234462990011, 
-      "lon": 2.948427324539, 
+      "lat": 51.234451949739, 
+      "lon": 2.948383841424, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -551,8 +501,8 @@
         "80"
       ], 
       "housenumber": "80", 
-      "lat": 51.233067350909, 
-      "lon": 2.944983858886, 
+      "lat": 51.233057580957, 
+      "lon": 2.944993751339, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -595,30 +545,6 @@
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
-      "street": "Mansveldstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "8A"
-      ], 
-      "housenumber": "8A", 
-      "lat": 51.234447778755, 
-      "lon": 2.948395854119, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Mansveldstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "8B"
-      ], 
-      "housenumber": "8B", 
-      "lat": 51.234435039592, 
-      "lon": 2.948353138777, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "manueleAanduidingVanGebouw", 
       "street": "Mansveldstraat"
     }
   ]

@@ -291,6 +291,12 @@
       "street": "Vital Decosterstraat"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0201", 
+        "0301"
+      ], 
       "hnrlbls": [
         "20"
       ], 
@@ -596,13 +602,6 @@
       "street": "Vital Decosterstraat"
     }, 
     {
-      "busnrs": [
-        "111", 
-        "219", 
-        "318", 
-        "401", 
-        "419"
-      ], 
       "hnrlbls": [
         "47-49"
       ], 
@@ -773,9 +772,7 @@
         "0417", 
         "0418", 
         "0419", 
-        "0420", 
-        "0421", 
-        "0422"
+        "0420"
       ], 
       "hnrlbls": [
         "47-49"
@@ -783,6 +780,18 @@
       "housenumber": "49", 
       "lat": 50.881309529217, 
       "lon": 4.704029240349, 
+      "municipality": "Leuven", 
+      "pcode": "3000", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Vital Decosterstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "25-49C"
+      ], 
+      "housenumber": "49C", 
+      "lat": 50.881668254526, 
+      "lon": 4.703794071958, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanGebouw", 
@@ -1160,18 +1169,26 @@
       "street": "Vital Decosterstraat"
     }, 
     {
-      "apptnrs": [
-        "0101"
-      ], 
       "busnrs": [
         "0001", 
+        "0002", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0104", 
+        "0105", 
+        "0106", 
         "0201", 
         "0202", 
         "0203", 
+        "0204", 
+        "0205", 
+        "0206", 
         "0301", 
         "0302", 
         "0303", 
-        "0304"
+        "0304", 
+        "0305"
       ], 
       "hnrlbls": [
         "68"

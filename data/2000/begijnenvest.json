@@ -54,7 +54,8 @@
       "busnrs": [
         "1", 
         "2", 
-        "3"
+        "3", 
+        "4"
       ], 
       "hnrlbls": [
         "101"
@@ -728,8 +729,10 @@
       "street": "Begijnenvest"
     }, 
     {
-      "busnrs": [
-        "3"
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301"
       ], 
       "hnrlbls": [
         "46"
@@ -1026,17 +1029,12 @@
     }, 
     {
       "apptnrs": [
-        "0.0", 
-        "2.0", 
-        "3.0"
-      ], 
-      "busnrs": [
-        "1A", 
-        "1V", 
-        "2A", 
-        "2V", 
-        "3V", 
-        "GLV"
+        "001", 
+        "101", 
+        "102", 
+        "201", 
+        "202", 
+        "301"
       ], 
       "hnrlbls": [
         "68-70"
@@ -1208,8 +1206,11 @@
       "street": "Begijnenvest"
     }, 
     {
-      "busnrs": [
-        "2"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301"
       ], 
       "hnrlbls": [
         "79"
@@ -1424,15 +1425,25 @@
       "street": "Begijnenvest"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "002", 
+        "101", 
+        "102", 
+        "201", 
+        "202", 
+        "301", 
+        "302"
+      ], 
       "hnrlbls": [
         "93"
       ], 
       "housenumber": "93", 
-      "lat": 51.211689120082, 
-      "lon": 4.405937234469, 
+      "lat": 51.21167830299, 
+      "lon": 4.40603382123, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Begijnenvest"
     }, 
     {

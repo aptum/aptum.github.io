@@ -2,10 +2,10 @@
   "addresses": [
     {
       "busnrs": [
-        "2"
+        "W2"
       ], 
       "hnrlbls": [
-        "1-1W"
+        "1"
       ], 
       "housenumber": "1", 
       "lat": 51.070338551805, 
@@ -44,8 +44,8 @@
         "12"
       ], 
       "housenumber": "12", 
-      "lat": 51.070303352275, 
-      "lon": 4.037416252311, 
+      "lat": 51.070288371045, 
+      "lon": 4.037362998348, 
       "municipality": "Zele", 
       "pcode": "9240", 
       "source": "afgeleidVanGebouw", 
@@ -68,11 +68,11 @@
         "14"
       ], 
       "housenumber": "14", 
-      "lat": 51.070351427897, 
-      "lon": 4.037570998702, 
+      "lat": 51.070318333481, 
+      "lon": 4.037469506308, 
       "municipality": "Zele", 
       "pcode": "9240", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Minister E. Rubbenslaan"
     }, 
     {
@@ -137,22 +137,11 @@
     }, 
     {
       "busnrs": [
+        "W1", 
+        "W2"
+      ], 
+      "hnrlbls": [
         "2"
-      ], 
-      "hnrlbls": [
-        "1-1W"
-      ], 
-      "housenumber": "1W", 
-      "lat": 51.070338551805, 
-      "lon": 4.036379337511, 
-      "municipality": "Zele", 
-      "pcode": "9240", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Minister E. Rubbenslaan"
-    }, 
-    {
-      "hnrlbls": [
-        "2-2W"
       ], 
       "housenumber": "2", 
       "lat": 51.070155307978, 
@@ -259,22 +248,6 @@
       "street": "Minister E. Rubbenslaan"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
-      "hnrlbls": [
-        "2-2W"
-      ], 
-      "housenumber": "2W", 
-      "lat": 51.070155307978, 
-      "lon": 4.036777552988, 
-      "municipality": "Zele", 
-      "pcode": "9240", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Minister E. Rubbenslaan"
-    }, 
-    {
       "hnrlbls": [
         "3"
       ], 
@@ -287,9 +260,6 @@
       "street": "Minister E. Rubbenslaan"
     }, 
     {
-      "busnrs": [
-        "2"
-      ], 
       "hnrlbls": [
         "4"
       ], 
@@ -350,31 +320,19 @@
       "street": "Minister E. Rubbenslaan"
     }, 
     {
+      "busnrs": [
+        "W1", 
+        "W2"
+      ], 
       "hnrlbls": [
-        "9-9W"
+        "9"
       ], 
       "housenumber": "9", 
-      "lat": 51.07052515604, 
-      "lon": 4.036760381112, 
+      "lat": 51.070495649477, 
+      "lon": 4.036784273966, 
       "municipality": "Zele", 
       "pcode": "9240", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Minister E. Rubbenslaan"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
-      "hnrlbls": [
-        "9-9W"
-      ], 
-      "housenumber": "9W", 
-      "lat": 51.07052515604, 
-      "lon": 4.036760381112, 
-      "municipality": "Zele", 
-      "pcode": "9240", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Minister E. Rubbenslaan"
     }
   ]

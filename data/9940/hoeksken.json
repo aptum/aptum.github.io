@@ -1,8 +1,13 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0101", 
+        "0201", 
+        "0301"
+      ], 
       "hnrlbls": [
-        "1-20"
+        "1"
       ], 
       "housenumber": "1", 
       "lat": 51.109056136717, 
@@ -14,14 +19,14 @@
     }, 
     {
       "hnrlbls": [
-        "10"
+        "6-10"
       ], 
       "housenumber": "10", 
-      "lat": 51.109693460363, 
-      "lon": 3.707500775491, 
+      "lat": 51.109640067488, 
+      "lon": 3.707661749143, 
       "municipality": "Evergem", 
       "pcode": "9940", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hoeksken"
     }, 
     {
@@ -31,18 +36,6 @@
       "housenumber": "11", 
       "lat": 51.109489039141, 
       "lon": 3.707114113476, 
-      "municipality": "Evergem", 
-      "pcode": "9940", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Hoeksken"
-    }, 
-    {
-      "hnrlbls": [
-        "12"
-      ], 
-      "housenumber": "12", 
-      "lat": 51.10969878719, 
-      "lon": 3.707440725079, 
       "municipality": "Evergem", 
       "pcode": "9940", 
       "source": "afgeleidVanGebouw", 
@@ -97,7 +90,7 @@
       "lon": 3.707270337935, 
       "municipality": "Evergem", 
       "pcode": "9940", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hoeksken"
     }, 
     {
@@ -137,7 +130,7 @@
       "lon": 3.706887492803, 
       "municipality": "Evergem", 
       "pcode": "9940", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hoeksken"
     }, 
     {
@@ -154,18 +147,6 @@
     }, 
     {
       "hnrlbls": [
-        "2"
-      ], 
-      "housenumber": "2", 
-      "lat": 51.110074678018, 
-      "lon": 3.706728842371, 
-      "municipality": "Evergem", 
-      "pcode": "9940", 
-      "source": "geinterpoleerdObvWegverbinding", 
-      "street": "Hoeksken"
-    }, 
-    {
-      "hnrlbls": [
         "20-20B"
       ], 
       "housenumber": "20", 
@@ -173,7 +154,7 @@
       "lon": 3.707089307332, 
       "municipality": "Evergem", 
       "pcode": "9940", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hoeksken"
     }, 
     {
@@ -185,7 +166,7 @@
       "lon": 3.707089307332, 
       "municipality": "Evergem", 
       "pcode": "9940", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hoeksken"
     }, 
     {
@@ -197,7 +178,7 @@
       "lon": 3.707089307332, 
       "municipality": "Evergem", 
       "pcode": "9940", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hoeksken"
     }, 
     {
@@ -214,31 +195,7 @@
       "lon": 3.706777862287, 
       "municipality": "Evergem", 
       "pcode": "9940", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Hoeksken"
-    }, 
-    {
-      "hnrlbls": [
-        "21A"
-      ], 
-      "housenumber": "21A", 
-      "lat": 51.10988655657, 
-      "lon": 3.706828749924, 
-      "municipality": "Evergem", 
-      "pcode": "9940", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Hoeksken"
-    }, 
-    {
-      "hnrlbls": [
-        "21B"
-      ], 
-      "housenumber": "21B", 
-      "lat": 51.109880004871, 
-      "lon": 3.706814562762, 
-      "municipality": "Evergem", 
-      "pcode": "9940", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hoeksken"
     }, 
     {
@@ -272,19 +229,7 @@
       "lon": 3.706550757468, 
       "municipality": "Evergem", 
       "pcode": "9940", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Hoeksken"
-    }, 
-    {
-      "hnrlbls": [
-        "24"
-      ], 
-      "housenumber": "24", 
-      "lat": 51.110225009436, 
-      "lon": 3.706638607966, 
-      "municipality": "Evergem", 
-      "pcode": "9940", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hoeksken"
     }, 
     {
@@ -302,7 +247,7 @@
       "lon": 3.706550757468, 
       "municipality": "Evergem", 
       "pcode": "9940", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hoeksken"
     }, 
     {
@@ -326,7 +271,7 @@
       "lon": 3.706550757468, 
       "municipality": "Evergem", 
       "pcode": "9940", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hoeksken"
     }, 
     {
@@ -372,8 +317,8 @@
         "29"
       ], 
       "housenumber": "29", 
-      "lat": 51.109665736975, 
-      "lon": 3.705490859248, 
+      "lat": 51.109665295575, 
+      "lon": 3.705492293483, 
       "municipality": "Evergem", 
       "pcode": "9940", 
       "source": "afgeleidVanGebouw", 
@@ -388,7 +333,7 @@
       "lon": 3.707265973508, 
       "municipality": "Evergem", 
       "pcode": "9940", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hoeksken"
     }, 
     {
@@ -421,7 +366,7 @@
       "lon": 3.70523084297, 
       "municipality": "Evergem", 
       "pcode": "9940", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hoeksken"
     }, 
     {
@@ -454,7 +399,7 @@
       "lon": 3.70523084297, 
       "municipality": "Evergem", 
       "pcode": "9940", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hoeksken"
     }, 
     {
@@ -478,7 +423,7 @@
       "lon": 3.705791001852, 
       "municipality": "Evergem", 
       "pcode": "9940", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hoeksken"
     }, 
     {
@@ -490,22 +435,19 @@
       "lon": 3.705843989461, 
       "municipality": "Evergem", 
       "pcode": "9940", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hoeksken"
     }, 
     {
-      "busnrs": [
-        "5"
-      ], 
       "hnrlbls": [
         "35"
       ], 
       "housenumber": "35", 
-      "lat": 51.110460049889, 
-      "lon": 3.705145018107, 
+      "lat": 51.110546528729, 
+      "lon": 3.705065679648, 
       "municipality": "Evergem", 
       "pcode": "9940", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hoeksken"
     }, 
     {
@@ -517,7 +459,7 @@
       "lon": 3.704975714787, 
       "municipality": "Evergem", 
       "pcode": "9940", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hoeksken"
     }, 
     {
@@ -589,7 +531,7 @@
       "lon": 3.70735747922, 
       "municipality": "Evergem", 
       "pcode": "9940", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hoeksken"
     }, 
     {
@@ -745,7 +687,7 @@
       "lon": 3.703332262912, 
       "municipality": "Evergem", 
       "pcode": "9940", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hoeksken"
     }, 
     {
@@ -777,11 +719,11 @@
         "51A"
       ], 
       "housenumber": "51A", 
-      "lat": 51.11073620091, 
-      "lon": 3.703436769612, 
+      "lat": 51.110895023636, 
+      "lon": 3.703561747435, 
       "municipality": "Evergem", 
       "pcode": "9940", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hoeksken"
     }, 
     {
@@ -817,7 +759,7 @@
       "lon": 3.704696669177, 
       "municipality": "Evergem", 
       "pcode": "9940", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hoeksken"
     }, 
     {
@@ -835,7 +777,7 @@
       "lon": 3.702883448044, 
       "municipality": "Evergem", 
       "pcode": "9940", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hoeksken"
     }, 
     {
@@ -847,7 +789,7 @@
       "lon": 3.704696669177, 
       "municipality": "Evergem", 
       "pcode": "9940", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hoeksken"
     }, 
     {
@@ -859,7 +801,7 @@
       "lon": 3.704696669177, 
       "municipality": "Evergem", 
       "pcode": "9940", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hoeksken"
     }, 
     {
@@ -871,7 +813,7 @@
       "lon": 3.702883448044, 
       "municipality": "Evergem", 
       "pcode": "9940", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hoeksken"
     }, 
     {
@@ -883,7 +825,7 @@
       "lon": 3.704696669177, 
       "municipality": "Evergem", 
       "pcode": "9940", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hoeksken"
     }, 
     {
@@ -900,14 +842,14 @@
     }, 
     {
       "hnrlbls": [
-        "6-8"
+        "6-10"
       ], 
       "housenumber": "6", 
       "lat": 51.109640067488, 
       "lon": 3.707661749143, 
       "municipality": "Evergem", 
       "pcode": "9940", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hoeksken"
     }, 
     {
@@ -919,31 +861,7 @@
       "lon": 3.704696669177, 
       "municipality": "Evergem", 
       "pcode": "9940", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Hoeksken"
-    }, 
-    {
-      "hnrlbls": [
-        "60A-60B"
-      ], 
-      "housenumber": "60A", 
-      "lat": 51.110975285775, 
-      "lon": 3.704661751666, 
-      "municipality": "Evergem", 
-      "pcode": "9940", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Hoeksken"
-    }, 
-    {
-      "hnrlbls": [
-        "60A-60B"
-      ], 
-      "housenumber": "60B", 
-      "lat": 51.110975285775, 
-      "lon": 3.704661751666, 
-      "municipality": "Evergem", 
-      "pcode": "9940", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hoeksken"
     }, 
     {
@@ -968,11 +886,11 @@
         "62"
       ], 
       "housenumber": "62", 
-      "lat": 51.110987431518, 
-      "lon": 3.704519776971, 
+      "lat": 51.110915841209, 
+      "lon": 3.704497231042, 
       "municipality": "Evergem", 
       "pcode": "9940", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hoeksken"
     }, 
     {
@@ -984,7 +902,7 @@
       "lon": 3.702566718942, 
       "municipality": "Evergem", 
       "pcode": "9940", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hoeksken"
     }, 
     {
@@ -1013,18 +931,6 @@
     }, 
     {
       "hnrlbls": [
-        "68A"
-      ], 
-      "housenumber": "68A", 
-      "lat": 51.111018393504, 
-      "lon": 3.70417532736, 
-      "municipality": "Evergem", 
-      "pcode": "9940", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Hoeksken"
-    }, 
-    {
-      "hnrlbls": [
         "7"
       ], 
       "housenumber": "7", 
@@ -1032,7 +938,7 @@
       "lon": 3.707249993336, 
       "municipality": "Evergem", 
       "pcode": "9940", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hoeksken"
     }, 
     {
@@ -1080,71 +986,43 @@
       "lon": 3.703748235584, 
       "municipality": "Evergem", 
       "pcode": "9940", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hoeksken"
     }, 
     {
       "hnrlbls": [
-        "78-78B"
+        "78-78A"
       ], 
       "housenumber": "78", 
       "lat": 51.111238022268, 
       "lon": 3.703732661017, 
       "municipality": "Evergem", 
       "pcode": "9940", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hoeksken"
     }, 
     {
       "hnrlbls": [
-        "78-78B"
+        "78-78A"
       ], 
       "housenumber": "78A", 
       "lat": 51.111238022268, 
       "lon": 3.703732661017, 
       "municipality": "Evergem", 
       "pcode": "9940", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hoeksken"
     }, 
     {
       "hnrlbls": [
-        "78-78B"
-      ], 
-      "housenumber": "78B", 
-      "lat": 51.111238022268, 
-      "lon": 3.703732661017, 
-      "municipality": "Evergem", 
-      "pcode": "9940", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Hoeksken"
-    }, 
-    {
-      "busnrs": [
-        "101", 
-        "201"
-      ], 
-      "hnrlbls": [
-        "7A"
-      ], 
-      "housenumber": "7A", 
-      "lat": 51.109255815238, 
-      "lon": 3.707234219039, 
-      "municipality": "Evergem", 
-      "pcode": "9940", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Hoeksken"
-    }, 
-    {
-      "hnrlbls": [
-        "6-8"
+        "6-10"
       ], 
       "housenumber": "8", 
       "lat": 51.109640067488, 
       "lon": 3.707661749143, 
       "municipality": "Evergem", 
       "pcode": "9940", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hoeksken"
     }, 
     {
@@ -1155,11 +1033,11 @@
         "80-82"
       ], 
       "housenumber": "80", 
-      "lat": 51.111308945117, 
-      "lon": 3.703509023197, 
+      "lat": 51.111270941815, 
+      "lon": 3.703448872357, 
       "municipality": "Evergem", 
       "pcode": "9940", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hoeksken"
     }, 
     {
@@ -1175,35 +1053,11 @@
         "80-82"
       ], 
       "housenumber": "82", 
-      "lat": 51.111308945117, 
-      "lon": 3.703509023197, 
+      "lat": 51.111270941815, 
+      "lon": 3.703448872357, 
       "municipality": "Evergem", 
       "pcode": "9940", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Hoeksken"
-    }, 
-    {
-      "hnrlbls": [
-        "82A-82B"
-      ], 
-      "housenumber": "82A", 
-      "lat": 51.111309035001, 
-      "lon": 3.703509021919, 
-      "municipality": "Evergem", 
-      "pcode": "9940", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Hoeksken"
-    }, 
-    {
-      "hnrlbls": [
-        "82A-82B"
-      ], 
-      "housenumber": "82B", 
-      "lat": 51.111309035001, 
-      "lon": 3.703509021919, 
-      "municipality": "Evergem", 
-      "pcode": "9940", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hoeksken"
     }, 
     {
@@ -1219,11 +1073,11 @@
         "84"
       ], 
       "housenumber": "84", 
-      "lat": 51.111391036658, 
-      "lon": 3.703353200144, 
+      "lat": 51.111360610891, 
+      "lon": 3.703297796852, 
       "municipality": "Evergem", 
       "pcode": "9940", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hoeksken"
     }, 
     {
@@ -1235,7 +1089,7 @@
       "lon": 3.703315406268, 
       "municipality": "Evergem", 
       "pcode": "9940", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hoeksken"
     }, 
     {
@@ -1259,7 +1113,7 @@
       "lon": 3.70303527203, 
       "municipality": "Evergem", 
       "pcode": "9940", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hoeksken"
     }, 
     {
@@ -1271,7 +1125,7 @@
       "lon": 3.707205905562, 
       "municipality": "Evergem", 
       "pcode": "9940", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hoeksken"
     }
   ]
