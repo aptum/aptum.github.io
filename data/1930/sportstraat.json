@@ -137,15 +137,15 @@
       "street": "Sportstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6", 
-        "7", 
-        "8"
+      "apptnrs": [
+        "001", 
+        "002", 
+        "011", 
+        "012", 
+        "013", 
+        "021", 
+        "022", 
+        "023"
       ], 
       "hnrlbls": [
         "24"
@@ -357,7 +357,7 @@
     }, 
     {
       "hnrlbls": [
-        "45"
+        "45-45X"
       ], 
       "housenumber": "45", 
       "lat": 50.891679862045, 
@@ -365,6 +365,21 @@
       "municipality": "Zaventem", 
       "pcode": "1930", 
       "source": "afgeleidVanGebouw", 
+      "street": "Sportstraat"
+    }, 
+    {
+      "busnrs": [
+        "11"
+      ], 
+      "hnrlbls": [
+        "45-45X"
+      ], 
+      "housenumber": "45X", 
+      "lat": 50.891679862045, 
+      "lon": 4.473956535246, 
+      "municipality": "Zaventem", 
+      "pcode": "1930", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Sportstraat"
     }, 
     {

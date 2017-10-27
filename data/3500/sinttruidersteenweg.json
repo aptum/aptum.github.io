@@ -722,12 +722,22 @@
       "street": "Sint-Truidersteenweg"
     }, 
     {
+      "busnrs": [
+        "0.01", 
+        "0.02", 
+        "0.03", 
+        "1.01", 
+        "1.02", 
+        "2.01", 
+        "2.02", 
+        "3.01"
+      ], 
       "hnrlbls": [
         "160"
       ], 
       "housenumber": "160", 
-      "lat": 50.921606195414, 
-      "lon": 5.330987186172, 
+      "lat": 50.921542802622, 
+      "lon": 5.330977778242, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanGebouw", 
@@ -752,18 +762,6 @@
       "housenumber": "161B", 
       "lat": 50.921909368947, 
       "lon": 5.330621752468, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Sint-Truidersteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "162"
-      ], 
-      "housenumber": "162", 
-      "lat": 50.921511271691, 
-      "lon": 5.330898050496, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanGebouw", 
@@ -4794,9 +4792,21 @@
     }, 
     {
       "hnrlbls": [
-        "509"
+        "509-509A"
       ], 
       "housenumber": "509", 
+      "lat": 50.902532472748, 
+      "lon": 5.311514682191, 
+      "municipality": "Hasselt", 
+      "pcode": "3500", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Sint-Truidersteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "509-509A"
+      ], 
+      "housenumber": "509A", 
       "lat": 50.902532472748, 
       "lon": 5.311514682191, 
       "municipality": "Hasselt", 
@@ -5053,6 +5063,7 @@
     }, 
     {
       "apptnrs": [
+        "0.01", 
         "0.02", 
         "1.01", 
         "1.02"

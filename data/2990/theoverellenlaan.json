@@ -105,7 +105,7 @@
       "lon": 4.546784319758, 
       "municipality": "Wuustwezel", 
       "pcode": "2990", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Theo Verellenlaan"
     }, 
     {
@@ -130,18 +130,6 @@
       "municipality": "Wuustwezel", 
       "pcode": "2990", 
       "source": "afgeleidVanGebouw", 
-      "street": "Theo Verellenlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "2"
-      ], 
-      "housenumber": "2", 
-      "lat": 51.354575780086, 
-      "lon": 4.548147634753, 
-      "municipality": "Wuustwezel", 
-      "pcode": "2990", 
-      "source": "geinterpoleerdObvWegverbinding", 
       "street": "Theo Verellenlaan"
     }, 
     {
@@ -178,7 +166,7 @@
         "GLVL"
       ], 
       "hnrlbls": [
-        "23-23A"
+        "23"
       ], 
       "housenumber": "23", 
       "lat": 51.355401996042, 
@@ -190,14 +178,14 @@
     }, 
     {
       "hnrlbls": [
-        "23-23A"
+        "23A"
       ], 
       "housenumber": "23A", 
-      "lat": 51.355401996042, 
-      "lon": 4.546212516112, 
+      "lat": 51.355402174506, 
+      "lon": 4.54621337808, 
       "municipality": "Wuustwezel", 
       "pcode": "2990", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Theo Verellenlaan"
     }, 
     {
@@ -335,7 +323,7 @@
       "lon": 4.54583463732, 
       "municipality": "Wuustwezel", 
       "pcode": "2990", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Theo Verellenlaan"
     }, 
     {
@@ -392,7 +380,7 @@
       "lon": 4.545273191586, 
       "municipality": "Wuustwezel", 
       "pcode": "2990", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Theo Verellenlaan"
     }, 
     {
@@ -404,7 +392,7 @@
       "lon": 4.545273191586, 
       "municipality": "Wuustwezel", 
       "pcode": "2990", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Theo Verellenlaan"
     }, 
     {
@@ -471,11 +459,11 @@
         "39"
       ], 
       "housenumber": "39", 
-      "lat": 51.355882096037, 
-      "lon": 4.544914378235, 
+      "lat": 51.356036903461, 
+      "lon": 4.545131439411, 
       "municipality": "Wuustwezel", 
       "pcode": "2990", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Theo Verellenlaan"
     }, 
     {
@@ -525,7 +513,7 @@
     }, 
     {
       "hnrlbls": [
-        "42"
+        "42-42C"
       ], 
       "housenumber": "42", 
       "lat": 51.356415619241, 
@@ -537,38 +525,38 @@
     }, 
     {
       "hnrlbls": [
-        "42A-42C"
+        "42-42C"
       ], 
       "housenumber": "42A", 
-      "lat": 51.356391110414, 
-      "lon": 4.545436541061, 
+      "lat": 51.356415619241, 
+      "lon": 4.545515443752, 
       "municipality": "Wuustwezel", 
       "pcode": "2990", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Theo Verellenlaan"
     }, 
     {
       "hnrlbls": [
-        "42A-42C"
+        "42-42C"
       ], 
       "housenumber": "42B", 
-      "lat": 51.356391110414, 
-      "lon": 4.545436541061, 
+      "lat": 51.356415619241, 
+      "lon": 4.545515443752, 
       "municipality": "Wuustwezel", 
       "pcode": "2990", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Theo Verellenlaan"
     }, 
     {
       "hnrlbls": [
-        "42A-42C"
+        "42-42C"
       ], 
       "housenumber": "42C", 
-      "lat": 51.356391110414, 
-      "lon": 4.545436541061, 
+      "lat": 51.356415619241, 
+      "lon": 4.545515443752, 
       "municipality": "Wuustwezel", 
       "pcode": "2990", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Theo Verellenlaan"
     }, 
     {
@@ -890,8 +878,10 @@
       ], 
       "busnrs": [
         "1", 
+        "2", 
         "3", 
-        "4"
+        "4", 
+        "5"
       ], 
       "hnrlbls": [
         "73"

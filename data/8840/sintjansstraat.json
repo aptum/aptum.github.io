@@ -464,6 +464,9 @@
       "street": "Sint Jansstraat"
     }, 
     {
+      "apptnrs": [
+        "1/1"
+      ], 
       "hnrlbls": [
         "14"
       ], 
@@ -1143,7 +1146,6 @@
         "01/1", 
         "01/2", 
         "2/1", 
-        "2/1", 
         "2/2"
       ], 
       "busnrs": [
@@ -1472,7 +1474,6 @@
     }, 
     {
       "apptnrs": [
-        "1/1", 
         "1/1"
       ], 
       "busnrs": [
@@ -1539,7 +1540,7 @@
     }, 
     {
       "hnrlbls": [
-        "59"
+        "59-59A"
       ], 
       "housenumber": "59", 
       "lat": 50.972204357105, 
@@ -1547,6 +1548,18 @@
       "municipality": "Staden", 
       "pcode": "8840", 
       "source": "afgeleidVanGebouw", 
+      "street": "Sint Jansstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "59-59A"
+      ], 
+      "housenumber": "59A", 
+      "lat": 50.972204357105, 
+      "lon": 3.017483695044, 
+      "municipality": "Staden", 
+      "pcode": "8840", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Sint Jansstraat"
     }, 
     {
