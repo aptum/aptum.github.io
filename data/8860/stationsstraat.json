@@ -341,15 +341,22 @@
       "street": "Stationsstraat"
     }, 
     {
+      "busnrs": [
+        "01", 
+        "02", 
+        "11", 
+        "12", 
+        "21"
+      ], 
       "hnrlbls": [
         "32"
       ], 
       "housenumber": "32", 
-      "lat": 50.885283988764, 
-      "lon": 3.244001465943, 
+      "lat": 50.885272247551, 
+      "lon": 3.243873833319, 
       "municipality": "Lendelede", 
       "pcode": "8860", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Stationsstraat"
     }, 
     {
@@ -365,15 +372,22 @@
       "street": "Stationsstraat"
     }, 
     {
+      "busnrs": [
+        "01", 
+        "02", 
+        "11", 
+        "12", 
+        "21"
+      ], 
       "hnrlbls": [
         "34"
       ], 
       "housenumber": "34", 
-      "lat": 50.885286932025, 
-      "lon": 3.244139826518, 
+      "lat": 50.885275247443, 
+      "lon": 3.244102584805, 
       "municipality": "Lendelede", 
       "pcode": "8860", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "afgeleidVanGebouw", 
       "street": "Stationsstraat"
     }, 
     {
@@ -780,11 +794,11 @@
         "65"
       ], 
       "housenumber": "65", 
-      "lat": 50.886703948473, 
-      "lon": 3.247302431055, 
+      "lat": 50.886072442697, 
+      "lon": 3.246811097045, 
       "municipality": "Lendelede", 
       "pcode": "8860", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Stationsstraat"
     }, 
     {
@@ -984,11 +998,11 @@
         "93"
       ], 
       "housenumber": "93", 
-      "lat": 50.885590558946, 
-      "lon": 3.249100756992, 
+      "lat": 50.885481196664, 
+      "lon": 3.249775906284, 
       "municipality": "Lendelede", 
       "pcode": "8860", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "geinterpoleerdObvWegverbinding", 
       "street": "Stationsstraat"
     }
   ]

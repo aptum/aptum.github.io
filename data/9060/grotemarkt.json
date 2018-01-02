@@ -48,11 +48,11 @@
         "101"
       ], 
       "housenumber": "101", 
-      "lat": 51.199568310312, 
-      "lon": 3.812420031644, 
+      "lat": 51.1993941305, 
+      "lon": 3.812156996055, 
       "municipality": "Zelzate", 
       "pcode": "9060", 
-      "source": "afgeleidVanGebouw", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Grote Markt"
     }, 
     {
@@ -78,18 +78,6 @@
       "housenumber": "103", 
       "lat": 51.19932795699, 
       "lon": 3.812191692359, 
-      "municipality": "Zelzate", 
-      "pcode": "9060", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Grote Markt"
-    }, 
-    {
-      "hnrlbls": [
-        "104"
-      ], 
-      "housenumber": "104", 
-      "lat": 51.198944280713, 
-      "lon": 3.811496082248, 
       "municipality": "Zelzate", 
       "pcode": "9060", 
       "source": "afgeleidVanGebouw", 
@@ -462,15 +450,31 @@
       "street": "Grote Markt"
     }, 
     {
+      "apptnrs": [
+        "0001", 
+        "0501", 
+        "0502"
+      ], 
+      "busnrs": [
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302", 
+        "0303", 
+        "0401", 
+        "0402"
+      ], 
       "hnrlbls": [
         "34"
       ], 
       "housenumber": "34", 
-      "lat": 51.201349470478, 
-      "lon": 3.809645587608, 
+      "lat": 51.201388575986, 
+      "lon": 3.80974169644, 
       "municipality": "Zelzate", 
       "pcode": "9060", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Grote Markt"
     }, 
     {
@@ -515,7 +519,7 @@
       "busnrs": [
         "0001", 
         "0101", 
-        "201"
+        "0201"
       ], 
       "hnrlbls": [
         "31-39"
@@ -719,11 +723,11 @@
         "50"
       ], 
       "housenumber": "50", 
-      "lat": 51.200865544205, 
-      "lon": 3.810012645956, 
+      "lat": 51.200894830667, 
+      "lon": 3.810104293125, 
       "municipality": "Zelzate", 
       "pcode": "9060", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Grote Markt"
     }, 
     {
@@ -748,11 +752,11 @@
         "52"
       ], 
       "housenumber": "52", 
-      "lat": 51.200784529559, 
-      "lon": 3.809911888718, 
+      "lat": 51.20081312098, 
+      "lon": 3.810160926715, 
       "municipality": "Zelzate", 
       "pcode": "9060", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Grote Markt"
     }, 
     {
@@ -820,7 +824,7 @@
       "lon": 3.810223605236, 
       "municipality": "Zelzate", 
       "pcode": "9060", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Grote Markt"
     }, 
     {
@@ -1144,8 +1148,8 @@
     }, 
     {
       "busnrs": [
-        "101", 
-        "201", 
+        "0101", 
+        "0201", 
         "A001", 
         "A101", 
         "A201"
@@ -1551,7 +1555,7 @@
     }, 
     {
       "busnrs": [
-        "101"
+        "0101"
       ], 
       "hnrlbls": [
         "99"

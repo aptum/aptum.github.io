@@ -53,11 +53,11 @@
         "105"
       ], 
       "housenumber": "105", 
-      "lat": 51.177064059145, 
-      "lon": 4.822280863286, 
+      "lat": 51.177623124184, 
+      "lon": 4.823270020195, 
       "municipality": "Herentals", 
       "pcode": "2200", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Markgravenstraat"
     }, 
     {
@@ -67,6 +67,18 @@
       "housenumber": "106", 
       "lat": 51.177410806122, 
       "lon": 4.822009959894, 
+      "municipality": "Herentals", 
+      "pcode": "2200", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Markgravenstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "107"
+      ], 
+      "housenumber": "107", 
+      "lat": 51.177152937612, 
+      "lon": 4.82296341551, 
       "municipality": "Herentals", 
       "pcode": "2200", 
       "source": "afgeleidVanGebouw", 
@@ -348,8 +360,8 @@
         "137"
       ], 
       "housenumber": "137", 
-      "lat": 51.176852794429, 
-      "lon": 4.821329284708, 
+      "lat": 51.176854703386, 
+      "lon": 4.821323726233, 
       "municipality": "Herentals", 
       "pcode": "2200", 
       "source": "afgeleidVanGebouw", 
@@ -405,8 +417,8 @@
         "140"
       ], 
       "housenumber": "140", 
-      "lat": 51.176625140495, 
-      "lon": 4.820477369754, 
+      "lat": 51.176634099227, 
+      "lon": 4.820461726628, 
       "municipality": "Herentals", 
       "pcode": "2200", 
       "source": "afgeleidVanGebouw", 
@@ -1364,59 +1376,11 @@
     }, 
     {
       "hnrlbls": [
-        "25A"
+        "25"
       ], 
-      "housenumber": "25A", 
+      "housenumber": "25", 
       "lat": 51.178456791766, 
       "lon": 4.826926503574, 
-      "municipality": "Herentals", 
-      "pcode": "2200", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Markgravenstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "25B"
-      ], 
-      "housenumber": "25B", 
-      "lat": 51.178447647342, 
-      "lon": 4.82682773999, 
-      "municipality": "Herentals", 
-      "pcode": "2200", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Markgravenstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "25C"
-      ], 
-      "housenumber": "25C", 
-      "lat": 51.178443936874, 
-      "lon": 4.826741614318, 
-      "municipality": "Herentals", 
-      "pcode": "2200", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Markgravenstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "25D"
-      ], 
-      "housenumber": "25D", 
-      "lat": 51.178439676494, 
-      "lon": 4.826658200357, 
-      "municipality": "Herentals", 
-      "pcode": "2200", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Markgravenstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "25E"
-      ], 
-      "housenumber": "25E", 
-      "lat": 51.178436331543, 
-      "lon": 4.826570505246, 
       "municipality": "Herentals", 
       "pcode": "2200", 
       "source": "afgeleidVanGebouw", 
@@ -1435,21 +1399,12 @@
       "street": "Markgravenstraat"
     }, 
     {
-      "busnrs": [
-        "001", 
-        "002", 
-        "101", 
-        "102", 
-        "201", 
-        "202", 
-        "301"
-      ], 
       "hnrlbls": [
         "27"
       ], 
       "housenumber": "27", 
-      "lat": 51.178399127037, 
-      "lon": 4.82631344545, 
+      "lat": 51.178447647342, 
+      "lon": 4.82682773999, 
       "municipality": "Herentals", 
       "pcode": "2200", 
       "source": "afgeleidVanGebouw", 
@@ -1472,8 +1427,8 @@
         "29"
       ], 
       "housenumber": "29", 
-      "lat": 51.178382509381, 
-      "lon": 4.826125087547, 
+      "lat": 51.178443936874, 
+      "lon": 4.826741614318, 
       "municipality": "Herentals", 
       "pcode": "2200", 
       "source": "afgeleidVanGebouw", 
@@ -1508,8 +1463,8 @@
         "31"
       ], 
       "housenumber": "31", 
-      "lat": 51.178367810977, 
-      "lon": 4.826044431429, 
+      "lat": 51.178439676494, 
+      "lon": 4.826658200357, 
       "municipality": "Herentals", 
       "pcode": "2200", 
       "source": "afgeleidVanGebouw", 
@@ -1532,8 +1487,8 @@
         "33"
       ], 
       "housenumber": "33", 
-      "lat": 51.178382747506, 
-      "lon": 4.825970930367, 
+      "lat": 51.178436331543, 
+      "lon": 4.826570505246, 
       "municipality": "Herentals", 
       "pcode": "2200", 
       "source": "afgeleidVanGebouw", 
@@ -1552,12 +1507,21 @@
       "street": "Markgravenstraat"
     }, 
     {
+      "busnrs": [
+        "001", 
+        "002", 
+        "101", 
+        "102", 
+        "201", 
+        "202", 
+        "301"
+      ], 
       "hnrlbls": [
         "35"
       ], 
       "housenumber": "35", 
-      "lat": 51.178370103573, 
-      "lon": 4.825893583569, 
+      "lat": 51.178399127037, 
+      "lon": 4.82631344545, 
       "municipality": "Herentals", 
       "pcode": "2200", 
       "source": "afgeleidVanGebouw", 
@@ -1580,8 +1544,8 @@
         "37"
       ], 
       "housenumber": "37", 
-      "lat": 51.178366535619, 
-      "lon": 4.825816897852, 
+      "lat": 51.178382509381, 
+      "lon": 4.826125087547, 
       "municipality": "Herentals", 
       "pcode": "2200", 
       "source": "afgeleidVanGebouw", 
@@ -1592,8 +1556,8 @@
         "39"
       ], 
       "housenumber": "39", 
-      "lat": 51.178393751583, 
-      "lon": 4.825729216626, 
+      "lat": 51.178367810977, 
+      "lon": 4.826044431429, 
       "municipality": "Herentals", 
       "pcode": "2200", 
       "source": "afgeleidVanGebouw", 
@@ -1632,8 +1596,8 @@
         "41"
       ], 
       "housenumber": "41", 
-      "lat": 51.178372554842, 
-      "lon": 4.825678527969, 
+      "lat": 51.178382747506, 
+      "lon": 4.825970930367, 
       "municipality": "Herentals", 
       "pcode": "2200", 
       "source": "afgeleidVanGebouw", 
@@ -1644,11 +1608,11 @@
         "42"
       ], 
       "housenumber": "42", 
-      "lat": 51.17860803323, 
-      "lon": 4.82638070733, 
+      "lat": 51.178653724619, 
+      "lon": 4.826373290708, 
       "municipality": "Herentals", 
       "pcode": "2200", 
-      "source": "afgeleidVanGebouw", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Markgravenstraat"
     }, 
     {
@@ -1656,8 +1620,8 @@
         "43"
       ], 
       "housenumber": "43", 
-      "lat": 51.178375405196, 
-      "lon": 4.825615633678, 
+      "lat": 51.178370103573, 
+      "lon": 4.825893583569, 
       "municipality": "Herentals", 
       "pcode": "2200", 
       "source": "afgeleidVanGebouw", 
@@ -1680,8 +1644,8 @@
         "45"
       ], 
       "housenumber": "45", 
-      "lat": 51.178358416711, 
-      "lon": 4.825545966676, 
+      "lat": 51.178366535619, 
+      "lon": 4.825816897852, 
       "municipality": "Herentals", 
       "pcode": "2200", 
       "source": "afgeleidVanGebouw", 
@@ -1712,8 +1676,8 @@
         "47"
       ], 
       "housenumber": "47", 
-      "lat": 51.178360411903, 
-      "lon": 4.825471766617, 
+      "lat": 51.178393751583, 
+      "lon": 4.825729216626, 
       "municipality": "Herentals", 
       "pcode": "2200", 
       "source": "afgeleidVanGebouw", 
@@ -1746,8 +1710,8 @@
         "49"
       ], 
       "housenumber": "49", 
-      "lat": 51.178342077293, 
-      "lon": 4.825401514479, 
+      "lat": 51.178372554842, 
+      "lon": 4.825678527969, 
       "municipality": "Herentals", 
       "pcode": "2200", 
       "source": "afgeleidVanGebouw", 
@@ -1782,8 +1746,8 @@
         "51"
       ], 
       "housenumber": "51", 
-      "lat": 51.178368928433, 
-      "lon": 4.825315116531, 
+      "lat": 51.178375405196, 
+      "lon": 4.825615633678, 
       "municipality": "Herentals", 
       "pcode": "2200", 
       "source": "afgeleidVanGebouw", 
@@ -1834,8 +1798,8 @@
         "53"
       ], 
       "housenumber": "53", 
-      "lat": 51.178349863592, 
-      "lon": 4.82524771739, 
+      "lat": 51.178358416711, 
+      "lon": 4.825545966676, 
       "municipality": "Herentals", 
       "pcode": "2200", 
       "source": "afgeleidVanGebouw", 
@@ -1862,8 +1826,8 @@
         "55"
       ], 
       "housenumber": "55", 
-      "lat": 51.178355633709, 
-      "lon": 4.825173554306, 
+      "lat": 51.178360411903, 
+      "lon": 4.825471766617, 
       "municipality": "Herentals", 
       "pcode": "2200", 
       "source": "afgeleidVanGebouw", 
@@ -1890,8 +1854,8 @@
         "57"
       ], 
       "housenumber": "57", 
-      "lat": 51.178339520008, 
-      "lon": 4.825110045278, 
+      "lat": 51.178342077293, 
+      "lon": 4.825401514479, 
       "municipality": "Herentals", 
       "pcode": "2200", 
       "source": "afgeleidVanGebouw", 
@@ -1918,8 +1882,8 @@
         "59"
       ], 
       "housenumber": "59", 
-      "lat": 51.178360348731, 
-      "lon": 4.825023588202, 
+      "lat": 51.178368928433, 
+      "lon": 4.825315116531, 
       "municipality": "Herentals", 
       "pcode": "2200", 
       "source": "afgeleidVanGebouw", 
@@ -1942,19 +1906,15 @@
       "street": "Markgravenstraat"
     }, 
     {
-      "busnrs": [
-        "A", 
-        "B"
-      ], 
       "hnrlbls": [
         "61"
       ], 
       "housenumber": "61", 
-      "lat": 51.178333121695, 
-      "lon": 4.824881889718, 
+      "lat": 51.178349863592, 
+      "lon": 4.82524771739, 
       "municipality": "Herentals", 
       "pcode": "2200", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Markgravenstraat"
     }, 
     {
@@ -1978,8 +1938,8 @@
         "63"
       ], 
       "housenumber": "63", 
-      "lat": 51.178227712559, 
-      "lon": 4.824921042259, 
+      "lat": 51.178355633709, 
+      "lon": 4.825173554306, 
       "municipality": "Herentals", 
       "pcode": "2200", 
       "source": "afgeleidVanGebouw", 
@@ -2022,8 +1982,8 @@
         "65"
       ], 
       "housenumber": "65", 
-      "lat": 51.178229795757, 
-      "lon": 4.824777485998, 
+      "lat": 51.178339520008, 
+      "lon": 4.825110045278, 
       "municipality": "Herentals", 
       "pcode": "2200", 
       "source": "afgeleidVanGebouw", 
@@ -2051,8 +2011,8 @@
         "67"
       ], 
       "housenumber": "67", 
-      "lat": 51.178069455857, 
-      "lon": 4.824679675144, 
+      "lat": 51.178360348731, 
+      "lon": 4.825023588202, 
       "municipality": "Herentals", 
       "pcode": "2200", 
       "source": "afgeleidVanGebouw", 
@@ -2072,19 +2032,18 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "101", 
-        "201"
+        "A", 
+        "B"
       ], 
       "hnrlbls": [
-        "69-71"
+        "69"
       ], 
       "housenumber": "69", 
-      "lat": 51.177962024671, 
-      "lon": 4.824381462145, 
+      "lat": 51.178333121695, 
+      "lon": 4.824881889718, 
       "municipality": "Herentals", 
       "pcode": "2200", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Markgravenstraat"
     }, 
     {
@@ -2113,14 +2072,14 @@
     }, 
     {
       "hnrlbls": [
-        "69-71"
+        "71"
       ], 
       "housenumber": "71", 
-      "lat": 51.177962024671, 
-      "lon": 4.824381462145, 
+      "lat": 51.178233593156, 
+      "lon": 4.824911232504, 
       "municipality": "Herentals", 
       "pcode": "2200", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Markgravenstraat"
     }, 
     {
@@ -2152,11 +2111,11 @@
         "75"
       ], 
       "housenumber": "75", 
-      "lat": 51.177939114775, 
-      "lon": 4.823936210519, 
+      "lat": 51.178229795757, 
+      "lon": 4.824777485998, 
       "municipality": "Herentals", 
       "pcode": "2200", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Markgravenstraat"
     }, 
     {
@@ -2176,11 +2135,11 @@
         "77"
       ], 
       "housenumber": "77", 
-      "lat": 51.177922509803, 
-      "lon": 4.823790184569, 
+      "lat": 51.178069455857, 
+      "lon": 4.824679675144, 
       "municipality": "Herentals", 
       "pcode": "2200", 
-      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Markgravenstraat"
     }, 
     {
@@ -2197,35 +2156,11 @@
     }, 
     {
       "hnrlbls": [
-        "79"
-      ], 
-      "housenumber": "79", 
-      "lat": 51.177882470356, 
-      "lon": 4.823683970964, 
-      "municipality": "Herentals", 
-      "pcode": "2200", 
-      "source": "manueleAanduidingVanIngangVanGebouw", 
-      "street": "Markgravenstraat"
-    }, 
-    {
-      "hnrlbls": [
         "80"
       ], 
       "housenumber": "80", 
       "lat": 51.177826794606, 
       "lon": 4.823133579426, 
-      "municipality": "Herentals", 
-      "pcode": "2200", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Markgravenstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "81"
-      ], 
-      "housenumber": "81", 
-      "lat": 51.177781260254, 
-      "lon": 4.823683268918, 
       "municipality": "Herentals", 
       "pcode": "2200", 
       "source": "afgeleidVanGebouw", 
@@ -2257,18 +2192,6 @@
     }, 
     {
       "hnrlbls": [
-        "85"
-      ], 
-      "housenumber": "85", 
-      "lat": 51.177683912411, 
-      "lon": 4.823520153232, 
-      "municipality": "Herentals", 
-      "pcode": "2200", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Markgravenstraat"
-    }, 
-    {
-      "hnrlbls": [
         "86"
       ], 
       "housenumber": "86", 
@@ -2281,6 +2204,18 @@
     }, 
     {
       "hnrlbls": [
+        "87"
+      ], 
+      "housenumber": "87", 
+      "lat": 51.177939114775, 
+      "lon": 4.823936210519, 
+      "municipality": "Herentals", 
+      "pcode": "2200", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Markgravenstraat"
+    }, 
+    {
+      "hnrlbls": [
         "88"
       ], 
       "housenumber": "88", 
@@ -2289,6 +2224,18 @@
       "municipality": "Herentals", 
       "pcode": "2200", 
       "source": "afgeleidVanGebouw", 
+      "street": "Markgravenstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "89"
+      ], 
+      "housenumber": "89", 
+      "lat": 51.177922509803, 
+      "lon": 4.823790184569, 
+      "municipality": "Herentals", 
+      "pcode": "2200", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Markgravenstraat"
     }, 
     {
@@ -2344,11 +2291,11 @@
         "91"
       ], 
       "housenumber": "91", 
-      "lat": 51.177623124184, 
-      "lon": 4.823270020195, 
+      "lat": 51.177882470356, 
+      "lon": 4.823683970964, 
       "municipality": "Herentals", 
       "pcode": "2200", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Markgravenstraat"
     }, 
     {
@@ -2368,8 +2315,8 @@
         "93"
       ], 
       "housenumber": "93", 
-      "lat": 51.177152937612, 
-      "lon": 4.82296341551, 
+      "lat": 51.177781260254, 
+      "lon": 4.823683268918, 
       "municipality": "Herentals", 
       "pcode": "2200", 
       "source": "afgeleidVanGebouw", 
@@ -2406,6 +2353,18 @@
       "housenumber": "98", 
       "lat": 51.177512243656, 
       "lon": 4.822302242421, 
+      "municipality": "Herentals", 
+      "pcode": "2200", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Markgravenstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "99"
+      ], 
+      "housenumber": "99", 
+      "lat": 51.177683912411, 
+      "lon": 4.823520153232, 
       "municipality": "Herentals", 
       "pcode": "2200", 
       "source": "afgeleidVanGebouw", 

@@ -635,14 +635,14 @@
     }, 
     {
       "hnrlbls": [
-        "1067"
+        "1067-1069"
       ], 
       "housenumber": "1067", 
-      "lat": 51.158063607834, 
-      "lon": 4.346881307664, 
+      "lat": 51.158620346059, 
+      "lon": 4.348893676861, 
       "municipality": "Antwerpen", 
       "pcode": "2660", 
-      "source": "geinterpoleerdObvWegverbinding", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Sint-Bernardsesteenweg"
     }, 
     {
@@ -671,14 +671,14 @@
     }, 
     {
       "hnrlbls": [
-        "1069"
+        "1067-1069"
       ], 
       "housenumber": "1069", 
-      "lat": 51.158007856802, 
-      "lon": 4.346760691583, 
+      "lat": 51.158620346059, 
+      "lon": 4.348893676861, 
       "municipality": "Antwerpen", 
       "pcode": "2660", 
-      "source": "geinterpoleerdObvWegverbinding", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Sint-Bernardsesteenweg"
     }, 
     {
@@ -1646,12 +1646,12 @@
     }, 
     {
       "busnrs": [
-        "1", 
+        "01", 
+        "02", 
         "11", 
         "12", 
         "13", 
         "14", 
-        "2", 
         "21", 
         "22", 
         "23", 
@@ -4807,18 +4807,6 @@
       "street": "Sint-Bernardsesteenweg"
     }, 
     {
-      "hnrlbls": [
-        "622-624"
-      ], 
-      "housenumber": "622", 
-      "lat": 51.18278452007, 
-      "lon": 4.372059335591, 
-      "municipality": "Antwerpen", 
-      "pcode": "2660", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Sint-Bernardsesteenweg"
-    }, 
-    {
       "busnrs": [
         "1", 
         "2", 
@@ -4837,21 +4825,6 @@
     }, 
     {
       "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "622-624"
-      ], 
-      "housenumber": "624", 
-      "lat": 51.18278452007, 
-      "lon": 4.372059335591, 
-      "municipality": "Antwerpen", 
-      "pcode": "2660", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Sint-Bernardsesteenweg"
-    }, 
-    {
-      "busnrs": [
         "3"
       ], 
       "hnrlbls": [
@@ -4860,18 +4833,6 @@
       "housenumber": "625", 
       "lat": 51.175622345018, 
       "lon": 4.367426718844, 
-      "municipality": "Antwerpen", 
-      "pcode": "2660", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Sint-Bernardsesteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "626"
-      ], 
-      "housenumber": "626", 
-      "lat": 51.182681074916, 
-      "lon": 4.371664889765, 
       "municipality": "Antwerpen", 
       "pcode": "2660", 
       "source": "afgeleidVanGebouw", 
@@ -4896,18 +4857,6 @@
       "housenumber": "629", 
       "lat": 51.175518887605, 
       "lon": 4.367579151456, 
-      "municipality": "Antwerpen", 
-      "pcode": "2660", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Sint-Bernardsesteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "630"
-      ], 
-      "housenumber": "630", 
-      "lat": 51.182682955323, 
-      "lon": 4.371892999764, 
       "municipality": "Antwerpen", 
       "pcode": "2660", 
       "source": "afgeleidVanGebouw", 
@@ -6790,9 +6739,10 @@
       "street": "Sint-Bernardsesteenweg"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "840"
