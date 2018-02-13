@@ -13,7 +13,7 @@
       "street": "Steenstraat"
     }, 
     {
-      "apptnrs": [
+      "busnrs": [
         "01/1"
       ], 
       "hnrlbls": [
@@ -92,12 +92,8 @@
       "street": "Steenstraat"
     }, 
     {
-      "apptnrs": [
-        "0", 
-        "1"
-      ], 
       "hnrlbls": [
-        "106-106O"
+        "106"
       ], 
       "housenumber": "106", 
       "lat": 50.904524903351, 
@@ -105,18 +101,6 @@
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
       "source": "manueleAanduidingVanPerceel", 
-      "street": "Steenstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "106-106O"
-      ], 
-      "housenumber": "106O", 
-      "lat": 50.904524903351, 
-      "lon": 4.372626061506, 
-      "municipality": "Vilvoorde", 
-      "pcode": "1800", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Steenstraat"
     }, 
     {
@@ -952,9 +936,10 @@
     {
       "apptnrs": [
         "0", 
-        "02/1", 
-        "1", 
-        "2"
+        "1"
+      ], 
+      "busnrs": [
+        "02/1"
       ], 
       "hnrlbls": [
         "29"
@@ -1341,8 +1326,10 @@
         "-1", 
         "0", 
         "1", 
-        "2", 
         "3"
+      ], 
+      "busnrs": [
+        "02/1"
       ], 
       "hnrlbls": [
         "62"
@@ -1475,10 +1462,11 @@
     {
       "apptnrs": [
         "0", 
-        "02/1", 
-        "1", 
-        "2", 
         "3"
+      ], 
+      "busnrs": [
+        "01/1", 
+        "02/1"
       ], 
       "hnrlbls": [
         "73"

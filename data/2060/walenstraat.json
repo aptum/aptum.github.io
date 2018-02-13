@@ -49,18 +49,22 @@
       "street": "Walenstraat"
     }, 
     {
-      "busnrs": [
-        "16"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "102", 
+        "201", 
+        "202"
       ], 
       "hnrlbls": [
         "14"
       ], 
       "housenumber": "14", 
-      "lat": 51.224561894446, 
-      "lon": 4.425094786303, 
+      "lat": 51.224521297551, 
+      "lon": 4.424844521005, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Walenstraat"
     }, 
     {
@@ -80,11 +84,11 @@
         "16"
       ], 
       "housenumber": "16", 
-      "lat": 51.224545344519, 
-      "lon": 4.425118241679, 
+      "lat": 51.224559053519, 
+      "lon": 4.424834546904, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Walenstraat"
     }, 
     {
@@ -511,7 +515,9 @@
     {
       "busnrs": [
         "1", 
-        "2"
+        "2", 
+        "3", 
+        "4"
       ], 
       "hnrlbls": [
         "48"

@@ -296,6 +296,10 @@
       "street": "Sint-Lambertusstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "201"
+      ], 
       "hnrlbls": [
         "121"
       ], 
@@ -305,6 +309,25 @@
       "municipality": "Antwerpen", 
       "pcode": "2600", 
       "source": "manueleAanduidingVanGebouw", 
+      "street": "Sint-Lambertusstraat"
+    }, 
+    {
+      "apptnrs": [
+        "101", 
+        "102", 
+        "201", 
+        "202", 
+        "301"
+      ], 
+      "hnrlbls": [
+        "123"
+      ], 
+      "housenumber": "123", 
+      "lat": 51.196577391095, 
+      "lon": 4.421705715236, 
+      "municipality": "Antwerpen", 
+      "pcode": "2600", 
+      "source": "afgeleidVanGebouw", 
       "street": "Sint-Lambertusstraat"
     }, 
     {
@@ -668,12 +691,6 @@
       "street": "Sint-Lambertusstraat"
     }, 
     {
-      "apptnrs": [
-        "0001", 
-        "0101", 
-        "0201", 
-        "0301"
-      ], 
       "hnrlbls": [
         "37"
       ], 
@@ -1217,6 +1234,7 @@
     }, 
     {
       "busnrs": [
+        "1", 
         "2", 
         "3"
       ], 

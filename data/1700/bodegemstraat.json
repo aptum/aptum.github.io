@@ -219,8 +219,8 @@
         "126"
       ], 
       "housenumber": "126", 
-      "lat": 50.847513986484, 
-      "lon": 4.235773273947, 
+      "lat": 50.847515240369, 
+      "lon": 4.235769152533, 
       "municipality": "Dilbeek", 
       "pcode": "1700", 
       "source": "afgeleidVanGebouw", 
@@ -243,8 +243,8 @@
         "128"
       ], 
       "housenumber": "128", 
-      "lat": 50.847559934844, 
-      "lon": 4.235704134496, 
+      "lat": 50.847559931318, 
+      "lon": 4.23570101059, 
       "municipality": "Dilbeek", 
       "pcode": "1700", 
       "source": "afgeleidVanGebouw", 
@@ -543,8 +543,8 @@
         "161"
       ], 
       "housenumber": "161", 
-      "lat": 50.849721256226, 
-      "lon": 4.233309989008, 
+      "lat": 50.849722519322, 
+      "lon": 4.233313961463, 
       "municipality": "Dilbeek", 
       "pcode": "1700", 
       "source": "afgeleidVanGebouw", 
@@ -567,8 +567,8 @@
         "163"
       ], 
       "housenumber": "163", 
-      "lat": 50.849744523309, 
-      "lon": 4.233218046506, 
+      "lat": 50.84974551901, 
+      "lon": 4.233224007766, 
       "municipality": "Dilbeek", 
       "pcode": "1700", 
       "source": "afgeleidVanGebouw", 
@@ -1552,8 +1552,8 @@
         "287"
       ], 
       "housenumber": "287", 
-      "lat": 50.859824791274, 
-      "lon": 4.223605854574, 
+      "lat": 50.859825152776, 
+      "lon": 4.223607415829, 
       "municipality": "Dilbeek", 
       "pcode": "1700", 
       "source": "afgeleidVanGebouw", 
@@ -1564,8 +1564,8 @@
         "287A"
       ], 
       "housenumber": "287A", 
-      "lat": 50.859890417649, 
-      "lon": 4.223535346275, 
+      "lat": 50.859890961391, 
+      "lon": 4.22353889544, 
       "municipality": "Dilbeek", 
       "pcode": "1700", 
       "source": "afgeleidVanGebouw", 
@@ -1692,10 +1692,6 @@
       "street": "Bodegemstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
       "hnrlbls": [
         "320"
       ], 
@@ -1705,6 +1701,18 @@
       "municipality": "Dilbeek", 
       "pcode": "1700", 
       "source": "afgeleidVanGebouw", 
+      "street": "Bodegemstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "320A"
+      ], 
+      "housenumber": "320A", 
+      "lat": 50.858981175463, 
+      "lon": 4.215409297005, 
+      "municipality": "Dilbeek", 
+      "pcode": "1700", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Bodegemstraat"
     }, 
     {
@@ -1777,21 +1785,6 @@
       "street": "Bodegemstraat"
     }, 
     {
-      "busnrs": [
-        "2"
-      ], 
-      "hnrlbls": [
-        "38-40"
-      ], 
-      "housenumber": "38", 
-      "lat": 50.843506541376, 
-      "lon": 4.239570836231, 
-      "municipality": "Dilbeek", 
-      "pcode": "1700", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Bodegemstraat"
-    }, 
-    {
       "hnrlbls": [
         "39"
       ], 
@@ -1805,7 +1798,7 @@
     }, 
     {
       "hnrlbls": [
-        "38-40"
+        "40"
       ], 
       "housenumber": "40", 
       "lat": 50.843506541376, 
@@ -2009,6 +2002,18 @@
     }, 
     {
       "hnrlbls": [
+        "60"
+      ], 
+      "housenumber": "60", 
+      "lat": 50.844420938042, 
+      "lon": 4.238004495607, 
+      "municipality": "Dilbeek", 
+      "pcode": "1700", 
+      "source": "manueleAanduidingVanToegangTotDeWeg", 
+      "street": "Bodegemstraat"
+    }, 
+    {
+      "hnrlbls": [
         "62"
       ], 
       "housenumber": "62", 
@@ -2192,12 +2197,14 @@
       "street": "Bodegemstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "101", 
         "102", 
-        "2", 
         "201", 
-        "202", 
+        "202"
+      ], 
+      "busnrs": [
+        "2", 
         "4"
       ], 
       "hnrlbls": [

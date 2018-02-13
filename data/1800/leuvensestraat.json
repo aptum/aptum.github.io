@@ -505,11 +505,12 @@
     }, 
     {
       "apptnrs": [
-        "0", 
-        "00/1", 
         "1", 
         "2", 
         "3"
+      ], 
+      "busnrs": [
+        "00/1"
       ], 
       "hnrlbls": [
         "130"
@@ -725,18 +726,6 @@
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
       "source": "afgeleidVanGebouw", 
-      "street": "Leuvensestraat"
-    }, 
-    {
-      "hnrlbls": [
-        "144A"
-      ], 
-      "housenumber": "144A", 
-      "lat": 50.927389106142, 
-      "lon": 4.43154946642, 
-      "municipality": "Vilvoorde", 
-      "pcode": "1800", 
-      "source": "manueleAanduidingVanPerceel", 
       "street": "Leuvensestraat"
     }, 
     {
@@ -1814,8 +1803,8 @@
         "55-57"
       ], 
       "housenumber": "55", 
-      "lat": 50.92837598471, 
-      "lon": 4.427535635616, 
+      "lat": 50.928374816605, 
+      "lon": 4.427534638451, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
       "source": "afgeleidVanGebouw", 
@@ -1838,8 +1827,8 @@
         "55-57"
       ], 
       "housenumber": "57", 
-      "lat": 50.92837598471, 
-      "lon": 4.427535635616, 
+      "lat": 50.928374816605, 
+      "lon": 4.427534638451, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
       "source": "afgeleidVanGebouw", 
@@ -1859,10 +1848,11 @@
     }, 
     {
       "apptnrs": [
-        "03/1", 
         "1", 
-        "2", 
-        "3"
+        "2"
+      ], 
+      "busnrs": [
+        "03/1"
       ], 
       "hnrlbls": [
         "59"
@@ -2093,7 +2083,7 @@
       "street": "Leuvensestraat"
     }, 
     {
-      "apptnrs": [
+      "busnrs": [
         "01/1"
       ], 
       "hnrlbls": [
@@ -2158,10 +2148,12 @@
     {
       "apptnrs": [
         "0", 
-        "00/2", 
-        "02/1", 
         "2", 
         "3"
+      ], 
+      "busnrs": [
+        "00/2", 
+        "02/1"
       ], 
       "hnrlbls": [
         "76"
@@ -2264,8 +2256,8 @@
         "82"
       ], 
       "housenumber": "82", 
-      "lat": 50.927678746291, 
-      "lon": 4.428296580953, 
+      "lat": 50.927635278753, 
+      "lon": 4.42821715619, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
       "source": "afgeleidVanGebouw", 
@@ -2323,8 +2315,8 @@
         "86"
       ], 
       "housenumber": "86", 
-      "lat": 50.927695153741, 
-      "lon": 4.428555191561, 
+      "lat": 50.927630091942, 
+      "lon": 4.428514854257, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
       "source": "afgeleidVanGebouw", 
@@ -2344,21 +2336,22 @@
     }, 
     {
       "apptnrs": [
-        "04/1", 
         "1/1", 
         "1/2", 
         "2/1", 
         "2/2", 
         "3/1", 
-        "3/2", 
-        "4"
+        "3/2"
+      ], 
+      "busnrs": [
+        "04/1"
       ], 
       "hnrlbls": [
         "88"
       ], 
       "housenumber": "88", 
-      "lat": 50.927650370851, 
-      "lon": 4.428760810471, 
+      "lat": 50.92762521169, 
+      "lon": 4.428739726665, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
       "source": "afgeleidVanGebouw", 
@@ -2426,12 +2419,11 @@
     {
       "apptnrs": [
         "0", 
-        "01/1", 
         "2", 
         "3"
       ], 
       "busnrs": [
-        "1"
+        "01/1"
       ], 
       "hnrlbls": [
         "95"

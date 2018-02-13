@@ -512,8 +512,8 @@
         "161"
       ], 
       "housenumber": "161", 
-      "lat": 50.870333852113, 
-      "lon": 4.267938303057, 
+      "lat": 50.870345004357, 
+      "lon": 4.267944530148, 
       "municipality": "Dilbeek", 
       "pcode": "1702", 
       "source": "afgeleidVanGebouw", 
@@ -524,8 +524,8 @@
         "161A"
       ], 
       "housenumber": "161A", 
-      "lat": 50.870363867779, 
-      "lon": 4.267822314056, 
+      "lat": 50.87035766749, 
+      "lon": 4.267825168584, 
       "municipality": "Dilbeek", 
       "pcode": "1702", 
       "source": "afgeleidVanGebouw", 
@@ -1412,6 +1412,7 @@
       ], 
       "busnrs": [
         "101", 
+        "102", 
         "201", 
         "202", 
         "3", 
@@ -1709,12 +1710,14 @@
       "street": "Brusselstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "101", 
         "102", 
-        "202", 
-        "3", 
-        "5"
+        "201", 
+        "202"
+      ], 
+      "busnrs": [
+        "001"
       ], 
       "hnrlbls": [
         "25"
@@ -1968,10 +1971,7 @@
     }, 
     {
       "apptnrs": [
-        "1.0"
-      ], 
-      "busnrs": [
-        "1", 
+        "001", 
         "101"
       ], 
       "hnrlbls": [
@@ -2001,8 +2001,13 @@
       "street": "Brusselstraat"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201", 
+        "202"
+      ], 
       "busnrs": [
-        "3"
+        "001"
       ], 
       "hnrlbls": [
         "269"
@@ -2080,27 +2085,45 @@
       "street": "Brusselstraat"
     }, 
     {
-      "apptnrs": [
-        "1.0", 
-        "2.0"
-      ], 
-      "busnrs": [
-        "101", 
-        "102", 
-        "2", 
-        "201", 
-        "202", 
-        "4"
-      ], 
       "hnrlbls": [
         "279"
       ], 
       "housenumber": "279", 
-      "lat": 50.870850107825, 
-      "lon": 4.260022963609, 
+      "lat": 50.870915122412, 
+      "lon": 4.260045544776, 
       "municipality": "Dilbeek", 
       "pcode": "1702", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Brusselstraat"
+    }, 
+    {
+      "apptnrs": [
+        "101", 
+        "102", 
+        "201", 
+        "202"
+      ], 
+      "hnrlbls": [
+        "279A"
+      ], 
+      "housenumber": "279A", 
+      "lat": 50.870907177435, 
+      "lon": 4.260008341577, 
+      "municipality": "Dilbeek", 
+      "pcode": "1702", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Brusselstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "279B"
+      ], 
+      "housenumber": "279B", 
+      "lat": 50.870901474572, 
+      "lon": 4.259965450567, 
+      "municipality": "Dilbeek", 
+      "pcode": "1702", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Brusselstraat"
     }, 
     {
@@ -2576,8 +2599,8 @@
         "314"
       ], 
       "housenumber": "314", 
-      "lat": 50.870875909083, 
-      "lon": 4.258473526292, 
+      "lat": 50.870877615352, 
+      "lon": 4.258471675447, 
       "municipality": "Dilbeek", 
       "pcode": "1702", 
       "source": "afgeleidVanGebouw", 
@@ -2600,8 +2623,8 @@
         "316"
       ], 
       "housenumber": "316", 
-      "lat": 50.87084322418, 
-      "lon": 4.258320454874, 
+      "lat": 50.870844571666, 
+      "lon": 4.258319457261, 
       "municipality": "Dilbeek", 
       "pcode": "1702", 
       "source": "afgeleidVanGebouw", 
@@ -2643,8 +2666,8 @@
         "318"
       ], 
       "housenumber": "318", 
-      "lat": 50.870837960864, 
-      "lon": 4.258171581522, 
+      "lat": 50.870839578964, 
+      "lon": 4.258171577738, 
       "municipality": "Dilbeek", 
       "pcode": "1702", 
       "source": "afgeleidVanGebouw", 
@@ -2914,9 +2937,9 @@
       "street": "Brusselstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "101"
+      "apptnrs": [
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "334"
@@ -2960,11 +2983,7 @@
     }, 
     {
       "apptnrs": [
-        "1.0"
-      ], 
-      "busnrs": [
-        "1", 
-        "2", 
+        "101", 
         "201"
       ], 
       "hnrlbls": [
@@ -3004,7 +3023,7 @@
       "street": "Brusselstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "101", 
         "201"
       ], 
@@ -3243,8 +3262,8 @@
         "356"
       ], 
       "housenumber": "356", 
-      "lat": 50.871023793666, 
-      "lon": 4.254789951731, 
+      "lat": 50.871028556561, 
+      "lon": 4.254788377511, 
       "municipality": "Dilbeek", 
       "pcode": "1702", 
       "source": "afgeleidVanGebouw", 
@@ -3608,8 +3627,8 @@
         "38"
       ], 
       "housenumber": "38", 
-      "lat": 50.86780718273, 
-      "lon": 4.277682138064, 
+      "lat": 50.867811050492, 
+      "lon": 4.277685113827, 
       "municipality": "Dilbeek", 
       "pcode": "1702", 
       "source": "afgeleidVanGebouw", 
@@ -4718,12 +4737,8 @@
     }, 
     {
       "apptnrs": [
-        "1.0", 
-        "2.0"
-      ], 
-      "busnrs": [
         "101", 
-        "A"
+        "201"
       ], 
       "hnrlbls": [
         "59"
@@ -4935,12 +4950,9 @@
     }, 
     {
       "apptnrs": [
-        "1.2", 
-        "2.0"
-      ], 
-      "busnrs": [
-        "1", 
-        "101"
+        "001", 
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "75"
@@ -5146,7 +5158,8 @@
       ], 
       "busnrs": [
         "1", 
-        "101"
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "91"

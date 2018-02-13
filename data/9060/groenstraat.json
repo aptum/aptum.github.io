@@ -410,7 +410,7 @@
       "lon": 3.808892346402, 
       "municipality": "Zelzate", 
       "pcode": "9060", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Groenstraat"
     }, 
     {
@@ -743,7 +743,7 @@
       "lon": 3.806258831099, 
       "municipality": "Zelzate", 
       "pcode": "9060", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Groenstraat"
     }, 
     {
@@ -828,9 +828,11 @@
       "street": "Groenstraat"
     }, 
     {
-      "busnrs": [
-        "0001", 
+      "apptnrs": [
         "0101"
+      ], 
+      "busnrs": [
+        "0001"
       ], 
       "hnrlbls": [
         "62"
@@ -840,19 +842,7 @@
       "lon": 3.805504500056, 
       "municipality": "Zelzate", 
       "pcode": "9060", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Groenstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "62A"
-      ], 
-      "housenumber": "62A", 
-      "lat": 51.198038656942, 
-      "lon": 3.80551382157, 
-      "municipality": "Zelzate", 
-      "pcode": "9060", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Groenstraat"
     }, 
     {
@@ -984,7 +974,7 @@
       "lon": 3.806203139096, 
       "municipality": "Zelzate", 
       "pcode": "9060", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Groenstraat"
     }, 
     {
@@ -1221,7 +1211,7 @@
       "lon": 3.808516250433, 
       "municipality": "Zelzate", 
       "pcode": "9060", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Groenstraat"
     }, 
     {
@@ -1244,19 +1234,18 @@
     }, 
     {
       "busnrs": [
+        "0001", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0104", 
+        "0105", 
+        "0201", 
+        "0202", 
         "0203", 
-        "A001", 
-        "A101", 
-        "A102", 
-        "A103", 
-        "A104", 
-        "A105", 
-        "A201", 
-        "A202", 
-        "A203", 
-        "A204", 
-        "A205", 
-        "A206"
+        "0204", 
+        "0205", 
+        "0206"
       ], 
       "hnrlbls": [
         "90-90A"

@@ -341,7 +341,7 @@
       "lon": 2.721491796869, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Albert I laan"
     }, 
     {
@@ -494,7 +494,7 @@
       "lon": 2.719359039687, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Albert I laan"
     }, 
     {
@@ -635,19 +635,19 @@
     }, 
     {
       "hnrlbls": [
-        "124"
+        "124-126A"
       ], 
       "housenumber": "124", 
-      "lat": 51.149944427697, 
-      "lon": 2.718938177485, 
+      "lat": 51.14991804472, 
+      "lon": 2.718677938682, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Albert I laan"
     }, 
     {
       "hnrlbls": [
-        "126-126A"
+        "124-126A"
       ], 
       "housenumber": "126", 
       "lat": 51.14991804472, 
@@ -659,7 +659,7 @@
     }, 
     {
       "hnrlbls": [
-        "126-126A"
+        "124-126A"
       ], 
       "housenumber": "126A", 
       "lat": 51.14991804472, 
@@ -1981,7 +1981,8 @@
     }, 
     {
       "busnrs": [
-        "301"
+        "301", 
+        "303"
       ], 
       "hnrlbls": [
         "188"
@@ -2209,6 +2210,11 @@
       "street": "Albert I laan"
     }, 
     {
+      "busnrs": [
+        "101", 
+        "201", 
+        "202"
+      ], 
       "hnrlbls": [
         "2-8"
       ], 
@@ -2673,7 +2679,8 @@
         "301", 
         "303", 
         "401", 
-        "402"
+        "402", 
+        "403"
       ], 
       "hnrlbls": [
         "227"
@@ -4141,6 +4148,7 @@
     {
       "busnrs": [
         "101", 
+        "103", 
         "104", 
         "2", 
         "202", 
@@ -4773,6 +4781,8 @@
         "E104", 
         "E201", 
         "E303", 
+        "E304", 
+        "E401", 
         "E403"
       ], 
       "hnrlbls": [
@@ -4818,6 +4828,7 @@
     }, 
     {
       "busnrs": [
+        "101", 
         "201", 
         "202", 
         "203", 
@@ -5700,6 +5711,7 @@
       "busnrs": [
         "103", 
         "2", 
+        "204", 
         "207", 
         "302", 
         "304", 

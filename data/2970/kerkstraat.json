@@ -110,10 +110,11 @@
     }, 
     {
       "busnrs": [
-        "3"
+        "3", 
+        "4"
       ], 
       "hnrlbls": [
-        "17-17A"
+        "17"
       ], 
       "housenumber": "17", 
       "lat": 51.263499620265, 
@@ -125,14 +126,14 @@
     }, 
     {
       "hnrlbls": [
-        "17-17A"
+        "17A"
       ], 
       "housenumber": "17A", 
-      "lat": 51.263499620265, 
-      "lon": 4.552538155329, 
+      "lat": 51.263789604039, 
+      "lon": 4.552408359476, 
       "municipality": "Schilde", 
       "pcode": "2970", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -183,8 +184,8 @@
         "2"
       ], 
       "housenumber": "2", 
-      "lat": 51.262966160811, 
-      "lon": 4.557323588889, 
+      "lat": 51.262967141724, 
+      "lon": 4.5573284638, 
       "municipality": "Schilde", 
       "pcode": "2970", 
       "source": "afgeleidVanGebouw", 
@@ -315,11 +316,11 @@
     }, 
     {
       "hnrlbls": [
-        "2A"
+        "2A-4A"
       ], 
       "housenumber": "2A", 
-      "lat": 51.262994107982, 
-      "lon": 4.557215109387, 
+      "lat": 51.263000395376, 
+      "lon": 4.557217856906, 
       "municipality": "Schilde", 
       "pcode": "2970", 
       "source": "afgeleidVanGebouw", 
@@ -591,8 +592,8 @@
         "48"
       ], 
       "housenumber": "48", 
-      "lat": 51.263185633862, 
-      "lon": 4.551572321084, 
+      "lat": 51.263166583972, 
+      "lon": 4.551568950989, 
       "municipality": "Schilde", 
       "pcode": "2970", 
       "source": "afgeleidVanGebouw", 
@@ -612,14 +613,14 @@
     }, 
     {
       "hnrlbls": [
-        "4A"
+        "2A-4A"
       ], 
       "housenumber": "4A", 
-      "lat": 51.263111319707, 
-      "lon": 4.557380767507, 
+      "lat": 51.263000395376, 
+      "lon": 4.557217856906, 
       "municipality": "Schilde", 
       "pcode": "2970", 
-      "source": "geinterpoleerdObvWegverbinding", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -804,6 +805,21 @@
     }, 
     {
       "busnrs": [
+        "B"
+      ], 
+      "hnrlbls": [
+        "63_15"
+      ], 
+      "housenumber": "63_15", 
+      "lat": 51.263698117198, 
+      "lon": 4.557241033652, 
+      "municipality": "Schilde", 
+      "pcode": "2970", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "street": "Kerkstraat"
+    }, 
+    {
+      "busnrs": [
         "1"
       ], 
       "hnrlbls": [
@@ -830,7 +846,8 @@
       "street": "Kerkstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
+        "1", 
         "2"
       ], 
       "hnrlbls": [

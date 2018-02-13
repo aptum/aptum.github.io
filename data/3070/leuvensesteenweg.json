@@ -1609,6 +1609,7 @@
     }, 
     {
       "busnrs": [
+        "1", 
         "101"
       ], 
       "hnrlbls": [
@@ -2304,6 +2305,10 @@
       "street": "Leuvensesteenweg"
     }, 
     {
+      "apptnrs": [
+        "0101", 
+        "0201"
+      ], 
       "hnrlbls": [
         "337"
       ], 
@@ -2418,14 +2423,38 @@
     }, 
     {
       "hnrlbls": [
+        "350"
+      ], 
+      "housenumber": "350", 
+      "lat": 50.889113363598, 
+      "lon": 4.551282375856, 
+      "municipality": "Kortenberg", 
+      "pcode": "3070", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Leuvensesteenweg"
+    }, 
+    {
+      "hnrlbls": [
         "351"
       ], 
       "housenumber": "351", 
-      "lat": 50.887480142456, 
-      "lon": 4.540189880456, 
+      "lat": 50.887402708559, 
+      "lon": 4.540152362074, 
       "municipality": "Kortenberg", 
       "pcode": "3070", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Leuvensesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "352"
+      ], 
+      "housenumber": "352", 
+      "lat": 50.88925930043, 
+      "lon": 4.551257789509, 
+      "municipality": "Kortenberg", 
+      "pcode": "3070", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Leuvensesteenweg"
     }, 
     {
@@ -2433,11 +2462,11 @@
         "353"
       ], 
       "housenumber": "353", 
-      "lat": 50.887427375304, 
-      "lon": 4.540128008355, 
+      "lat": 50.887450173005, 
+      "lon": 4.540213504149, 
       "municipality": "Kortenberg", 
       "pcode": "3070", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Leuvensesteenweg"
     }, 
     {
@@ -3874,7 +3903,8 @@
     }, 
     {
       "busnrs": [
-        "1"
+        "1", 
+        "101"
       ], 
       "hnrlbls": [
         "75"
