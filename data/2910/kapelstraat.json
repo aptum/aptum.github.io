@@ -1,8 +1,14 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "A1", 
+        "A2", 
+        "B1", 
+        "B2"
+      ], 
       "hnrlbls": [
-        "1-1B"
+        "1"
       ], 
       "housenumber": "1", 
       "lat": 51.46458156921, 
@@ -64,8 +70,7 @@
       "busnrs": [
         "1", 
         "2", 
-        "3", 
-        "4"
+        "3"
       ], 
       "hnrlbls": [
         "13"
@@ -97,14 +102,14 @@
         "3"
       ], 
       "hnrlbls": [
-        "15-17"
+        "15"
       ], 
       "housenumber": "15", 
-      "lat": 51.463290001792, 
-      "lon": 4.473562254543, 
+      "lat": 51.463317805035, 
+      "lon": 4.473526203656, 
       "municipality": "Essen", 
       "pcode": "2910", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kapelstraat"
     }, 
     {
@@ -129,14 +134,14 @@
         "3"
       ], 
       "hnrlbls": [
-        "15-17"
+        "17"
       ], 
       "housenumber": "17", 
-      "lat": 51.463290001792, 
-      "lon": 4.473562254543, 
+      "lat": 51.46326752578, 
+      "lon": 4.473570548505, 
       "municipality": "Essen", 
       "pcode": "2910", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kapelstraat"
     }, 
     {
@@ -156,51 +161,18 @@
     }, 
     {
       "busnrs": [
-        "1", 
         "2", 
         "3"
       ], 
       "hnrlbls": [
-        "19-21"
+        "19"
       ], 
       "housenumber": "19", 
-      "lat": 51.463178562552, 
-      "lon": 4.473657537748, 
+      "lat": 51.463200797828, 
+      "lon": 4.47361672627, 
       "municipality": "Essen", 
       "pcode": "2910", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Kapelstraat"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
-      "hnrlbls": [
-        "1-1B"
-      ], 
-      "housenumber": "1A", 
-      "lat": 51.46458156921, 
-      "lon": 4.471952386499, 
-      "municipality": "Essen", 
-      "pcode": "2910", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Kapelstraat"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
-      "hnrlbls": [
-        "1-1B"
-      ], 
-      "housenumber": "1B", 
-      "lat": 51.46458156921, 
-      "lon": 4.471952386499, 
-      "municipality": "Essen", 
-      "pcode": "2910", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kapelstraat"
     }, 
     {
@@ -238,14 +210,14 @@
         "3"
       ], 
       "hnrlbls": [
-        "19-21"
+        "21"
       ], 
       "housenumber": "21", 
-      "lat": 51.463178562552, 
-      "lon": 4.473657537748, 
+      "lat": 51.46315798182, 
+      "lon": 4.473656915367, 
       "municipality": "Essen", 
       "pcode": "2910", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kapelstraat"
     }, 
     {
@@ -275,18 +247,6 @@
       "municipality": "Essen", 
       "pcode": "2910", 
       "source": "afgeleidVanGebouw", 
-      "street": "Kapelstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "24"
-      ], 
-      "housenumber": "24", 
-      "lat": 51.463766282328, 
-      "lon": 4.472402494787, 
-      "municipality": "Essen", 
-      "pcode": "2910", 
-      "source": "afgeleidVanPerceelGrb", 
       "street": "Kapelstraat"
     }, 
     {
@@ -337,10 +297,10 @@
     }, 
     {
       "busnrs": [
-        "1"
+        "A"
       ], 
       "hnrlbls": [
-        "28-28A"
+        "28"
       ], 
       "housenumber": "28", 
       "lat": 51.463661509626, 
@@ -348,18 +308,6 @@
       "municipality": "Essen", 
       "pcode": "2910", 
       "source": "afgeleidVanGebouw", 
-      "street": "Kapelstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "28-28A"
-      ], 
-      "housenumber": "28A", 
-      "lat": 51.463661509626, 
-      "lon": 4.472583118836, 
-      "municipality": "Essen", 
-      "pcode": "2910", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Kapelstraat"
     }, 
     {
@@ -374,18 +322,6 @@
       "housenumber": "29", 
       "lat": 51.462777705336, 
       "lon": 4.473979058661, 
-      "municipality": "Essen", 
-      "pcode": "2910", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Kapelstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "3"
-      ], 
-      "housenumber": "3", 
-      "lat": 51.463765443477, 
-      "lon": 4.473252262336, 
       "municipality": "Essen", 
       "pcode": "2910", 
       "source": "afgeleidVanGebouw", 
@@ -474,42 +410,18 @@
       "street": "Kapelstraat"
     }, 
     {
+      "busnrs": [
+        "A1"
+      ], 
       "hnrlbls": [
-        "38-42"
+        "38"
       ], 
       "housenumber": "38", 
-      "lat": 51.463088392283, 
-      "lon": 4.473179937616, 
+      "lat": 51.463099041481, 
+      "lon": 4.473130179158, 
       "municipality": "Essen", 
       "pcode": "2910", 
       "source": "afgeleidVanGebouw", 
-      "street": "Kapelstraat"
-    }, 
-    {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "38A"
-      ], 
-      "housenumber": "38A", 
-      "lat": 51.463075485605, 
-      "lon": 4.473140053531, 
-      "municipality": "Essen", 
-      "pcode": "2910", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Kapelstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "39"
-      ], 
-      "housenumber": "39", 
-      "lat": 51.462602232616, 
-      "lon": 4.474323103756, 
-      "municipality": "Essen", 
-      "pcode": "2910", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Kapelstraat"
     }, 
     {
@@ -526,26 +438,14 @@
     }, 
     {
       "hnrlbls": [
-        "38-42"
+        "40"
       ], 
       "housenumber": "40", 
-      "lat": 51.463088392283, 
-      "lon": 4.473179937616, 
+      "lat": 51.462866264821, 
+      "lon": 4.472622188439, 
       "municipality": "Essen", 
       "pcode": "2910", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Kapelstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "38-42"
-      ], 
-      "housenumber": "42", 
-      "lat": 51.463088392283, 
-      "lon": 4.473179937616, 
-      "municipality": "Essen", 
-      "pcode": "2910", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Kapelstraat"
     }, 
     {
@@ -553,8 +453,8 @@
         "46"
       ], 
       "housenumber": "46", 
-      "lat": 51.462841949976, 
-      "lon": 4.473186860785, 
+      "lat": 51.462881757719, 
+      "lon": 4.473296011796, 
       "municipality": "Essen", 
       "pcode": "2910", 
       "source": "afgeleidVanGebouw", 
@@ -565,8 +465,8 @@
         "48"
       ], 
       "housenumber": "48", 
-      "lat": 51.462792306537, 
-      "lon": 4.473325304103, 
+      "lat": 51.46279221679, 
+      "lon": 4.47332516002, 
       "municipality": "Essen", 
       "pcode": "2910", 
       "source": "afgeleidVanGebouw", 
@@ -586,23 +486,11 @@
     }, 
     {
       "hnrlbls": [
-        "50"
-      ], 
-      "housenumber": "50", 
-      "lat": 51.46273024487, 
-      "lon": 4.473379693456, 
-      "municipality": "Essen", 
-      "pcode": "2910", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Kapelstraat"
-    }, 
-    {
-      "hnrlbls": [
         "52"
       ], 
       "housenumber": "52", 
-      "lat": 51.462722308378, 
-      "lon": 4.473410753333, 
+      "lat": 51.462718866748, 
+      "lon": 4.4734405285, 
       "municipality": "Essen", 
       "pcode": "2910", 
       "source": "afgeleidVanGebouw", 
@@ -613,8 +501,8 @@
         "56"
       ], 
       "housenumber": "56", 
-      "lat": 51.462516477699, 
-      "lon": 4.473532150903, 
+      "lat": 51.462512720686, 
+      "lon": 4.473613433719, 
       "municipality": "Essen", 
       "pcode": "2910", 
       "source": "afgeleidVanGebouw", 
@@ -628,8 +516,8 @@
         "58"
       ], 
       "housenumber": "58", 
-      "lat": 51.462435366122, 
-      "lon": 4.473582467722, 
+      "lat": 51.462460907123, 
+      "lon": 4.473664968128, 
       "municipality": "Essen", 
       "pcode": "2910", 
       "source": "afgeleidVanGebouw", 
@@ -650,64 +538,36 @@
     {
       "busnrs": [
         "1", 
-        "2"
+        "A", 
+        "A1", 
+        "A2"
       ], 
       "hnrlbls": [
-        "60-62A"
+        "60"
       ], 
       "housenumber": "60", 
-      "lat": 51.462321353555, 
-      "lon": 4.473741625058, 
+      "lat": 51.462368915946, 
+      "lon": 4.473720583358, 
       "municipality": "Essen", 
       "pcode": "2910", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kapelstraat"
     }, 
     {
       "busnrs": [
         "1", 
-        "2"
+        "2", 
+        "A1"
       ], 
       "hnrlbls": [
-        "60-62A"
-      ], 
-      "housenumber": "60A", 
-      "lat": 51.462321353555, 
-      "lon": 4.473741625058, 
-      "municipality": "Essen", 
-      "pcode": "2910", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Kapelstraat"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
-      "hnrlbls": [
-        "60-62A"
+        "62"
       ], 
       "housenumber": "62", 
-      "lat": 51.462321353555, 
-      "lon": 4.473741625058, 
+      "lat": 51.462289592942, 
+      "lon": 4.473780831334, 
       "municipality": "Essen", 
       "pcode": "2910", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Kapelstraat"
-    }, 
-    {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "60-62A"
-      ], 
-      "housenumber": "62A", 
-      "lat": 51.462321353555, 
-      "lon": 4.473741625058, 
-      "municipality": "Essen", 
-      "pcode": "2910", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kapelstraat"
     }, 
     {
@@ -715,8 +575,8 @@
         "64"
       ], 
       "housenumber": "64", 
-      "lat": 51.462089791031, 
-      "lon": 4.473590457992, 
+      "lat": 51.462175797925, 
+      "lon": 4.473796254589, 
       "municipality": "Essen", 
       "pcode": "2910", 
       "source": "afgeleidVanGebouw", 
@@ -747,18 +607,6 @@
       "municipality": "Essen", 
       "pcode": "2910", 
       "source": "afgeleidVanGebouw", 
-      "street": "Kapelstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "7-9"
-      ], 
-      "housenumber": "7", 
-      "lat": 51.463476124161, 
-      "lon": 4.473469874365, 
-      "municipality": "Essen", 
-      "pcode": "2910", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Kapelstraat"
     }, 
     {
@@ -889,8 +737,8 @@
         "83"
       ], 
       "housenumber": "83", 
-      "lat": 51.462295930712, 
-      "lon": 4.474634473017, 
+      "lat": 51.462147203573, 
+      "lon": 4.474617297612, 
       "municipality": "Essen", 
       "pcode": "2910", 
       "source": "afgeleidVanGebouw", 
@@ -934,18 +782,6 @@
     }, 
     {
       "hnrlbls": [
-        "87"
-      ], 
-      "housenumber": "87", 
-      "lat": 51.461716828508, 
-      "lon": 4.474979020361, 
-      "municipality": "Essen", 
-      "pcode": "2910", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Kapelstraat"
-    }, 
-    {
-      "hnrlbls": [
         "88"
       ], 
       "housenumber": "88", 
@@ -958,14 +794,14 @@
     }, 
     {
       "hnrlbls": [
-        "7-9"
+        "9"
       ], 
       "housenumber": "9", 
-      "lat": 51.463476124161, 
-      "lon": 4.473469874365, 
+      "lat": 51.463765443477, 
+      "lon": 4.473252262336, 
       "municipality": "Essen", 
       "pcode": "2910", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Kapelstraat"
     }, 
     {

@@ -138,11 +138,11 @@
         "103"
       ], 
       "housenumber": "103", 
-      "lat": 51.205508438176, 
-      "lon": 4.41816631954, 
+      "lat": 51.205536865283, 
+      "lon": 4.418110546661, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Belgi\u00eblei"
     }, 
     {
@@ -1307,7 +1307,14 @@
     {
       "busnrs": [
         "1", 
-        "4"
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6", 
+        "7", 
+        "8", 
+        "9"
       ], 
       "hnrlbls": [
         "152"
@@ -1327,11 +1334,14 @@
         "003", 
         "101", 
         "102", 
+        "103", 
         "201", 
         "202", 
         "203", 
         "301", 
-        "302"
+        "302", 
+        "401", 
+        "402"
       ], 
       "hnrlbls": [
         "153"
@@ -1368,7 +1378,8 @@
         "203", 
         "301", 
         "302", 
-        "303"
+        "303", 
+        "401"
       ], 
       "hnrlbls": [
         "155"
@@ -1676,6 +1687,18 @@
       "housenumber": "171", 
       "lat": 51.202905719738, 
       "lon": 4.41471106091, 
+      "municipality": "Antwerpen", 
+      "pcode": "2018", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Belgi\u00eblei"
+    }, 
+    {
+      "hnrlbls": [
+        "172"
+      ], 
+      "housenumber": "172", 
+      "lat": 51.203331568217, 
+      "lon": 4.414085230395, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "afgeleidVanGebouw", 
@@ -3737,7 +3760,7 @@
         "9"
       ], 
       "hnrlbls": [
-        "68-68S"
+        "68"
       ], 
       "housenumber": "68", 
       "lat": 51.207403100489, 
@@ -3745,21 +3768,6 @@
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "afgeleidVanGebouw", 
-      "street": "Belgi\u00eblei"
-    }, 
-    {
-      "busnrs": [
-        "2"
-      ], 
-      "hnrlbls": [
-        "68-68S"
-      ], 
-      "housenumber": "68S", 
-      "lat": 51.207403100489, 
-      "lon": 4.419653786927, 
-      "municipality": "Antwerpen", 
-      "pcode": "2018", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Belgi\u00eblei"
     }, 
     {
@@ -4109,7 +4117,6 @@
     {
       "busnrs": [
         "1", 
-        "10", 
         "2", 
         "3", 
         "4", 

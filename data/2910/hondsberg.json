@@ -29,11 +29,11 @@
         "14"
       ], 
       "housenumber": "14", 
-      "lat": 51.469101359207, 
-      "lon": 4.459123417948, 
+      "lat": 51.469242180876, 
+      "lon": 4.458903384574, 
       "municipality": "Essen", 
       "pcode": "2910", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Hondsberg"
     }, 
     {
@@ -125,11 +125,11 @@
         "21"
       ], 
       "housenumber": "21", 
-      "lat": 51.467961251402, 
-      "lon": 4.458955987248, 
+      "lat": 51.467941018363, 
+      "lon": 4.458970768808, 
       "municipality": "Essen", 
       "pcode": "2910", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Hondsberg"
     }, 
     {
@@ -233,8 +233,8 @@
         "30"
       ], 
       "housenumber": "30", 
-      "lat": 51.467649863605, 
-      "lon": 4.458567293681, 
+      "lat": 51.467662718582, 
+      "lon": 4.458563433619, 
       "municipality": "Essen", 
       "pcode": "2910", 
       "source": "afgeleidVanGebouw", 
@@ -250,18 +250,6 @@
       "municipality": "Essen", 
       "pcode": "2910", 
       "source": "afgeleidVanGebouw", 
-      "street": "Hondsberg"
-    }, 
-    {
-      "hnrlbls": [
-        "32"
-      ], 
-      "housenumber": "32", 
-      "lat": 51.467594675441, 
-      "lon": 4.458574236789, 
-      "municipality": "Essen", 
-      "pcode": "2910", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Hondsberg"
     }, 
     {
@@ -346,18 +334,6 @@
       "municipality": "Essen", 
       "pcode": "2910", 
       "source": "afgeleidVanGebouw", 
-      "street": "Hondsberg"
-    }, 
-    {
-      "hnrlbls": [
-        "4"
-      ], 
-      "housenumber": "4", 
-      "lat": 51.469161789009, 
-      "lon": 4.460012976989, 
-      "municipality": "Essen", 
-      "pcode": "2910", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Hondsberg"
     }, 
     {
@@ -449,8 +425,8 @@
         "47"
       ], 
       "housenumber": "47", 
-      "lat": 51.466333892921, 
-      "lon": 4.459076687204, 
+      "lat": 51.466325593528, 
+      "lon": 4.458999689603, 
       "municipality": "Essen", 
       "pcode": "2910", 
       "source": "afgeleidVanGebouw", 
@@ -459,7 +435,7 @@
     {
       "busnrs": [
         "1", 
-        "2"
+        "A1"
       ], 
       "hnrlbls": [
         "48"
@@ -473,27 +449,12 @@
       "street": "Hondsberg"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "48A"
-      ], 
-      "housenumber": "48A", 
-      "lat": 51.466735561517, 
-      "lon": 4.458580042347, 
-      "municipality": "Essen", 
-      "pcode": "2910", 
-      "source": "geinterpoleerdObvWegverbinding", 
-      "street": "Hondsberg"
-    }, 
-    {
       "hnrlbls": [
         "49"
       ], 
       "housenumber": "49", 
-      "lat": 51.46628261511, 
-      "lon": 4.459023778874, 
+      "lat": 51.466278018856, 
+      "lon": 4.459040317226, 
       "municipality": "Essen", 
       "pcode": "2910", 
       "source": "afgeleidVanGebouw", 
@@ -501,7 +462,7 @@
     }, 
     {
       "hnrlbls": [
-        "50-50A"
+        "50"
       ], 
       "housenumber": "50", 
       "lat": 51.466996891187, 
@@ -513,23 +474,11 @@
     }, 
     {
       "hnrlbls": [
-        "50-50A"
-      ], 
-      "housenumber": "50A", 
-      "lat": 51.466996891187, 
-      "lon": 4.458613072121, 
-      "municipality": "Essen", 
-      "pcode": "2910", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Hondsberg"
-    }, 
-    {
-      "hnrlbls": [
         "51"
       ], 
       "housenumber": "51", 
-      "lat": 51.466239073009, 
-      "lon": 4.459197080962, 
+      "lat": 51.466236570978, 
+      "lon": 4.459178226451, 
       "municipality": "Essen", 
       "pcode": "2910", 
       "source": "afgeleidVanGebouw", 
@@ -552,16 +501,22 @@
         "53"
       ], 
       "housenumber": "53", 
-      "lat": 51.466165966614, 
-      "lon": 4.459012614448, 
+      "lat": 51.466166414884, 
+      "lon": 4.459014054225, 
       "municipality": "Essen", 
       "pcode": "2910", 
       "source": "afgeleidVanGebouw", 
       "street": "Hondsberg"
     }, 
     {
+      "busnrs": [
+        "A1", 
+        "A2", 
+        "B1", 
+        "B2"
+      ], 
       "hnrlbls": [
-        "54-54B"
+        "54"
       ], 
       "housenumber": "54", 
       "lat": 51.466792154815, 
@@ -569,38 +524,6 @@
       "municipality": "Essen", 
       "pcode": "2910", 
       "source": "afgeleidVanGebouw", 
-      "street": "Hondsberg"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
-      "hnrlbls": [
-        "54-54B"
-      ], 
-      "housenumber": "54A", 
-      "lat": 51.466792154815, 
-      "lon": 4.458616269642, 
-      "municipality": "Essen", 
-      "pcode": "2910", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Hondsberg"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
-      "hnrlbls": [
-        "54-54B"
-      ], 
-      "housenumber": "54B", 
-      "lat": 51.466792154815, 
-      "lon": 4.458616269642, 
-      "municipality": "Essen", 
-      "pcode": "2910", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Hondsberg"
     }, 
     {
@@ -621,29 +544,14 @@
         "2"
       ], 
       "hnrlbls": [
-        "56-60"
+        "56"
       ], 
       "housenumber": "56", 
-      "lat": 51.466615903425, 
-      "lon": 4.458626285645, 
+      "lat": 51.466685431482, 
+      "lon": 4.458671891116, 
       "municipality": "Essen", 
       "pcode": "2910", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Hondsberg"
-    }, 
-    {
-      "busnrs": [
-        "2"
-      ], 
-      "hnrlbls": [
-        "56B"
-      ], 
-      "housenumber": "56B", 
-      "lat": 51.466661377518, 
-      "lon": 4.45862939617, 
-      "municipality": "Essen", 
-      "pcode": "2910", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hondsberg"
     }, 
     {
@@ -664,14 +572,14 @@
         "2"
       ], 
       "hnrlbls": [
-        "56-60"
+        "58"
       ], 
       "housenumber": "58", 
-      "lat": 51.466615903425, 
-      "lon": 4.458626285645, 
+      "lat": 51.466628807602, 
+      "lon": 4.458675809434, 
       "municipality": "Essen", 
       "pcode": "2910", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hondsberg"
     }, 
     {
@@ -688,18 +596,17 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "2"
+        "1"
       ], 
       "hnrlbls": [
-        "56-60"
+        "60"
       ], 
       "housenumber": "60", 
-      "lat": 51.466615903425, 
-      "lon": 4.458626285645, 
+      "lat": 51.466575954602, 
+      "lon": 4.458684771299, 
       "municipality": "Essen", 
       "pcode": "2910", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hondsberg"
     }, 
     {
@@ -712,18 +619,6 @@
       "municipality": "Essen", 
       "pcode": "2910", 
       "source": "afgeleidVanGebouw", 
-      "street": "Hondsberg"
-    }, 
-    {
-      "hnrlbls": [
-        "64"
-      ], 
-      "housenumber": "64", 
-      "lat": 51.466433006034, 
-      "lon": 4.458630101295, 
-      "municipality": "Essen", 
-      "pcode": "2910", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Hondsberg"
     }, 
     {
