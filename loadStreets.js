@@ -26,7 +26,7 @@ if (!Array.prototype.find) {
 }
 
 // GLOBAL VARIABLES
-var overpassapi = "http://overpass-api.de/api/interpreter?data=";
+var overpassapi = "//overpass-api.de/api/interpreter?data=";
 //var overpassapi = "http://api.openstreetmap.fr/api/interpreter?data=";
 //var overpassapi = "http://overpass.osm.rambler.ru/cgi/?data=";
 
