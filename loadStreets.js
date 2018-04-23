@@ -547,7 +547,7 @@ function getOsmXml(type, streetData)
 
 	// Never upload the layer.
 	// Specific changes from the layer should be copied to the data layer, as documented in the best workflow.
-	var str = "<osm version='0.6' upload='no' generator='flanders-addr-import'>";
+	var str = "<osm version='0.6' upload='false' generator='flanders-addr-import'>";
 	for (var i = 0; i < streetData[type].length; i++)
 	{
 		var addr = streetData[type][i];
