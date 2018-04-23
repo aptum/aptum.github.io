@@ -5,6 +5,7 @@
  *   Maki Icons: https://www.mapbox.com/maki/
  *   MapBox Marker API: https://www.mapbox.com/developers/api/static/#markers
  *
+ *
  * Usage:
  *   var icon = L.MakiMarkers.icon({icon: "rocket", color: "#b0b", size: "m"});
  *

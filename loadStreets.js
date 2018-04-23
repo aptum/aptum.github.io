@@ -26,7 +26,7 @@ if (!Array.prototype.find) {
 }
 
 // GLOBAL VARIABLES
-var overpassapi = "//overpass-api.de/api/interpreter?data=";
+var overpassapi = "http://overpass-api.de/api/interpreter?data=";
 //var overpassapi = "http://api.openstreetmap.fr/api/interpreter?data=";
 //var overpassapi = "http://overpass.osm.rambler.ru/cgi/?data=";
 
@@ -667,7 +667,7 @@ function getGpx(type) {
 function openInJosm(type, streetData, layerName)
 {
 
-	var url =  "//localhost:8111/load_data?new_layer=true&layer_name="+layerName+"&data=";
+	var url =  "http://localhost:8111/load_data?new_layer=true&layer_name="+layerName+"&data=";
 	var xml = getOsmXml(type, streetData);
 
 	var req = new XMLHttpRequest();
@@ -685,7 +685,7 @@ function openStreetInJosm(streetNumber)
 {
 	var street = streets[streetNumber];
 	// Get the BBOX of the addresses in the street, and add some margins
-	var link = "//localhost:8111/load_and_zoom"+
+	var link = "http://localhost:8111/load_and_zoom"+
 		"?left=" + (street.l - 0.001) +
 		"&right=" + (street.r + 0.001) +
 		"&top=" + (street.t + 0.0005) +
@@ -698,7 +698,7 @@ function openStreetInJosm(streetNumber)
 
 function testJosmVersion() {
 	var req = new XMLHttpRequest();
-	req.open("GET", "//localhost:8111/version", true);
+	req.open("GET", "http://localhost:8111/version", true);
 	req.send(null);
 	req.onreadystatechange = function()
 	{
