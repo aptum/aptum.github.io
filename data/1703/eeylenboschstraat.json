@@ -56,6 +56,21 @@
       "street": "E. Eylenboschstraat"
     }, 
     {
+      "busnrs": [
+        "101"
+      ], 
+      "hnrlbls": [
+        "15A-19"
+      ], 
+      "housenumber": "15A", 
+      "lat": 50.834901885132, 
+      "lon": 4.192584950934, 
+      "municipality": "Dilbeek", 
+      "pcode": "1703", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "street": "E. Eylenboschstraat"
+    }, 
+    {
       "hnrlbls": [
         "17"
       ], 
@@ -72,7 +87,7 @@
         "1.0"
       ], 
       "hnrlbls": [
-        "18"
+        "18-18A"
       ], 
       "housenumber": "18", 
       "lat": 50.835409855109, 
@@ -80,6 +95,18 @@
       "municipality": "Dilbeek", 
       "pcode": "1703", 
       "source": "afgeleidVanGebouw", 
+      "street": "E. Eylenboschstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "18-18A"
+      ], 
+      "housenumber": "18A", 
+      "lat": 50.835409855109, 
+      "lon": 4.193467889685, 
+      "municipality": "Dilbeek", 
+      "pcode": "1703", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "E. Eylenboschstraat"
     }, 
     {
@@ -394,9 +421,13 @@
       "busnrs": [
         "1", 
         "101", 
+        "102", 
         "103", 
         "2", 
         "201", 
+        "202", 
+        "203", 
+        "204", 
         "205", 
         "3", 
         "301", 

@@ -149,8 +149,8 @@
         "11"
       ], 
       "housenumber": "11", 
-      "lat": 51.24139994955, 
-      "lon": 4.969205515288, 
+      "lat": 51.241307244747, 
+      "lon": 4.969088041022, 
       "municipality": "Kasterlee", 
       "pcode": "2460", 
       "source": "afgeleidVanGebouw", 
@@ -185,8 +185,8 @@
         "112"
       ], 
       "housenumber": "112", 
-      "lat": 51.241827881694, 
-      "lon": 4.980788331271, 
+      "lat": 51.241808559573, 
+      "lon": 4.980770320209, 
       "municipality": "Kasterlee", 
       "pcode": "2460", 
       "source": "afgeleidVanGebouw", 
@@ -353,8 +353,8 @@
         "125"
       ], 
       "housenumber": "125", 
-      "lat": 51.244415003362, 
-      "lon": 4.987052121657, 
+      "lat": 51.244421451486, 
+      "lon": 4.987056646813, 
       "municipality": "Kasterlee", 
       "pcode": "2460", 
       "source": "afgeleidVanGebouw", 
@@ -538,11 +538,11 @@
         "137"
       ], 
       "housenumber": "137", 
-      "lat": 51.244860338977, 
-      "lon": 4.993164284564, 
+      "lat": 51.244808613038, 
+      "lon": 4.993053031619, 
       "municipality": "Kasterlee", 
       "pcode": "2460", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Retiesebaan"
     }, 
     {
@@ -578,7 +578,7 @@
       "lon": 4.969801233227, 
       "municipality": "Kasterlee", 
       "pcode": "2460", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Retiesebaan"
     }, 
     {
@@ -1037,8 +1037,8 @@
         "18"
       ], 
       "housenumber": "18", 
-      "lat": 51.240867465932, 
-      "lon": 4.970088914168, 
+      "lat": 51.24088268192, 
+      "lon": 4.970083955557, 
       "municipality": "Kasterlee", 
       "pcode": "2460", 
       "source": "afgeleidVanGebouw", 
@@ -1157,8 +1157,8 @@
         "19"
       ], 
       "housenumber": "19", 
-      "lat": 51.241428919027, 
-      "lon": 4.970878328059, 
+      "lat": 51.24142945393, 
+      "lon": 4.970879194181, 
       "municipality": "Kasterlee", 
       "pcode": "2460", 
       "source": "afgeleidVanGebouw", 
@@ -1318,8 +1318,8 @@
         "21"
       ], 
       "housenumber": "21", 
-      "lat": 51.241497040288, 
-      "lon": 4.970898398065, 
+      "lat": 51.241483503651, 
+      "lon": 4.970926576715, 
       "municipality": "Kasterlee", 
       "pcode": "2460", 
       "source": "afgeleidVanGebouw", 
@@ -1720,20 +1720,21 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4"
+        "bus", 
+        "bus1", 
+        "bus2", 
+        "bus3"
       ], 
       "hnrlbls": [
-        "3-7"
+        "3-7", 
+        "3"
       ], 
       "housenumber": "3", 
-      "lat": 51.241127426937, 
-      "lon": 4.969132405193, 
+      "lat": 51.246158228143, 
+      "lon": 4.99980999386, 
       "municipality": "Kasterlee", 
       "pcode": "2460", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanStraat", 
       "street": "Retiesebaan"
     }, 
     {
@@ -1787,11 +1788,11 @@
         "34"
       ], 
       "housenumber": "34", 
-      "lat": 51.241241607999, 
-      "lon": 4.971862982829, 
+      "lat": 51.241303674316, 
+      "lon": 4.971818965266, 
       "municipality": "Kasterlee", 
       "pcode": "2460", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Retiesebaan"
     }, 
     {
@@ -1811,11 +1812,11 @@
         "36"
       ], 
       "housenumber": "36", 
-      "lat": 51.241247428705, 
-      "lon": 4.972025733453, 
+      "lat": 51.241306778283, 
+      "lon": 4.971950463254, 
       "municipality": "Kasterlee", 
       "pcode": "2460", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Retiesebaan"
     }, 
     {
@@ -1916,18 +1917,20 @@
     }, 
     {
       "busnrs": [
-        "2", 
-        "3"
+        "bus1", 
+        "bus2", 
+        "bus3"
       ], 
       "hnrlbls": [
-        "44-46"
+        "44-46", 
+        "44"
       ], 
       "housenumber": "44", 
-      "lat": 51.241413254959, 
-      "lon": 4.972661831123, 
+      "lat": 51.241393070135, 
+      "lon": 4.972724434281, 
       "municipality": "Kasterlee", 
       "pcode": "2460", 
-      "source": "afgeleidVanGebouw", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Retiesebaan"
     }, 
     {
@@ -1944,19 +1947,22 @@
     }, 
     {
       "busnrs": [
-        "2", 
-        "4", 
-        "5"
+        "bus1", 
+        "bus2", 
+        "bus3", 
+        "bus4", 
+        "bus5"
       ], 
       "hnrlbls": [
+        "46", 
         "44-46"
       ], 
       "housenumber": "46", 
-      "lat": 51.241413254959, 
-      "lon": 4.972661831123, 
+      "lat": 51.241393070135, 
+      "lon": 4.972724434281, 
       "municipality": "Kasterlee", 
       "pcode": "2460", 
-      "source": "afgeleidVanGebouw", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Retiesebaan"
     }, 
     {
@@ -1976,11 +1982,11 @@
         "48"
       ], 
       "housenumber": "48", 
-      "lat": 51.241439038238, 
-      "lon": 4.973033771196, 
+      "lat": 51.241366117459, 
+      "lon": 4.972985568514, 
       "municipality": "Kasterlee", 
       "pcode": "2460", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Retiesebaan"
     }, 
     {
@@ -2000,11 +2006,11 @@
         "3-7"
       ], 
       "housenumber": "5", 
-      "lat": 51.241127426937, 
-      "lon": 4.969132405193, 
+      "lat": 51.246158228143, 
+      "lon": 4.99980999386, 
       "municipality": "Kasterlee", 
       "pcode": "2460", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanStraat", 
       "street": "Retiesebaan"
     }, 
     {
@@ -2132,11 +2138,11 @@
         "58D"
       ], 
       "housenumber": "58D", 
-      "lat": 51.241014711674, 
-      "lon": 4.973924404598, 
+      "lat": 51.241011190213, 
+      "lon": 4.973927509206, 
       "municipality": "Kasterlee", 
       "pcode": "2460", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Retiesebaan"
     }, 
     {
@@ -2144,11 +2150,11 @@
         "58E"
       ], 
       "housenumber": "58E", 
-      "lat": 51.241072252898, 
-      "lon": 4.973904102283, 
+      "lat": 51.241069275852, 
+      "lon": 4.973906211576, 
       "municipality": "Kasterlee", 
       "pcode": "2460", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Retiesebaan"
     }, 
     {
@@ -2303,17 +2309,17 @@
     }, 
     {
       "busnrs": [
-        "1"
+        "bus1"
       ], 
       "hnrlbls": [
         "3-7"
       ], 
       "housenumber": "7", 
-      "lat": 51.241127426937, 
-      "lon": 4.969132405193, 
+      "lat": 51.246158228143, 
+      "lon": 4.99980999386, 
       "municipality": "Kasterlee", 
       "pcode": "2460", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanStraat", 
       "street": "Retiesebaan"
     }, 
     {
@@ -2345,8 +2351,8 @@
         "73"
       ], 
       "housenumber": "73", 
-      "lat": 51.242653233702, 
-      "lon": 4.978298403089, 
+      "lat": 51.242629461047, 
+      "lon": 4.978306684074, 
       "municipality": "Kasterlee", 
       "pcode": "2460", 
       "source": "afgeleidVanGebouw", 
@@ -2357,8 +2363,8 @@
         "75"
       ], 
       "housenumber": "75", 
-      "lat": 51.242805764822, 
-      "lon": 4.978334339882, 
+      "lat": 51.242759190208, 
+      "lon": 4.978371822468, 
       "municipality": "Kasterlee", 
       "pcode": "2460", 
       "source": "afgeleidVanGebouw", 
@@ -2540,8 +2546,8 @@
         "9"
       ], 
       "housenumber": "9", 
-      "lat": 51.24110314618, 
-      "lon": 4.969417631907, 
+      "lat": 51.241103770245, 
+      "lon": 4.969418642356, 
       "municipality": "Kasterlee", 
       "pcode": "2460", 
       "source": "afgeleidVanGebouw", 
@@ -2588,8 +2594,8 @@
         "96"
       ], 
       "housenumber": "96", 
-      "lat": 51.24205593859, 
-      "lon": 4.978403282721, 
+      "lat": 51.242090321053, 
+      "lon": 4.978376954087, 
       "municipality": "Kasterlee", 
       "pcode": "2460", 
       "source": "afgeleidVanGebouw", 

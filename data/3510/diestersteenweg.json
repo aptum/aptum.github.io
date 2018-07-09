@@ -1223,8 +1223,8 @@
         "18"
       ], 
       "housenumber": "18", 
-      "lat": 50.944021892701, 
-      "lon": 5.277363244924, 
+      "lat": 50.944082503087, 
+      "lon": 5.277465451995, 
       "municipality": "Hasselt", 
       "pcode": "3510", 
       "source": "afgeleidVanGebouw", 
@@ -1654,11 +1654,11 @@
         "21"
       ], 
       "housenumber": "21", 
-      "lat": 50.943690759428, 
-      "lon": 5.276984148551, 
+      "lat": 50.943739973036, 
+      "lon": 5.277130245842, 
       "municipality": "Hasselt", 
       "pcode": "3510", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Diestersteenweg"
     }, 
     {
@@ -2233,8 +2233,8 @@
         "252"
       ], 
       "housenumber": "252", 
-      "lat": 50.947914008569, 
-      "lon": 5.246436600132, 
+      "lat": 50.947905341651, 
+      "lon": 5.246405414318, 
       "municipality": "Hasselt", 
       "pcode": "3510", 
       "source": "afgeleidVanGebouw", 
@@ -2481,13 +2481,26 @@
       "street": "Diestersteenweg"
     }, 
     {
-      "apptnrs": [
-        "1"
+      "busnrs": [
+        "1.01", 
+        "1.02"
       ], 
       "hnrlbls": [
-        "274"
+        "274-274A"
       ], 
       "housenumber": "274", 
+      "lat": 50.947904302006, 
+      "lon": 5.243447916282, 
+      "municipality": "Hasselt", 
+      "pcode": "3510", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Diestersteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "274-274A"
+      ], 
+      "housenumber": "274A", 
       "lat": 50.947904302006, 
       "lon": 5.243447916282, 
       "municipality": "Hasselt", 
@@ -3086,8 +3099,8 @@
         "329B"
       ], 
       "housenumber": "329B", 
-      "lat": 50.947324573724, 
-      "lon": 5.232304791824, 
+      "lat": 50.947330433171, 
+      "lon": 5.232290384413, 
       "municipality": "Hasselt", 
       "pcode": "3510", 
       "source": "afgeleidVanGebouw", 
@@ -3442,11 +3455,11 @@
         "358"
       ], 
       "housenumber": "358", 
-      "lat": 50.948180794563, 
-      "lon": 5.229067358776, 
+      "lat": 50.948015132149, 
+      "lon": 5.229027744146, 
       "municipality": "Hasselt", 
       "pcode": "3510", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Diestersteenweg"
     }, 
     {
@@ -4279,7 +4292,10 @@
     }, 
     {
       "apptnrs": [
+        "1.01", 
+        "1.02", 
         "1.03", 
+        "2.01", 
         "2.02"
       ], 
       "hnrlbls": [
@@ -4312,6 +4328,18 @@
       "housenumber": "426", 
       "lat": 50.948045031466, 
       "lon": 5.219667025899, 
+      "municipality": "Hasselt", 
+      "pcode": "3510", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Diestersteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "427"
+      ], 
+      "housenumber": "427", 
+      "lat": 50.947510285906, 
+      "lon": 5.220278917648, 
       "municipality": "Hasselt", 
       "pcode": "3510", 
       "source": "afgeleidVanGebouw", 
@@ -4423,11 +4451,11 @@
         "50"
       ], 
       "housenumber": "50", 
-      "lat": 50.944458958746, 
-      "lon": 5.274748276863, 
+      "lat": 50.944462266959, 
+      "lon": 5.274750617607, 
       "municipality": "Hasselt", 
       "pcode": "3510", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Diestersteenweg"
     }, 
     {
@@ -4529,8 +4557,8 @@
         "58"
       ], 
       "housenumber": "58", 
-      "lat": 50.944482416531, 
-      "lon": 5.274037942197, 
+      "lat": 50.944476832641, 
+      "lon": 5.274039257347, 
       "municipality": "Hasselt", 
       "pcode": "3510", 
       "source": "afgeleidVanGebouw", 
@@ -4589,8 +4617,8 @@
         "62"
       ], 
       "housenumber": "62", 
-      "lat": 50.944590913668, 
-      "lon": 5.273899445123, 
+      "lat": 50.944591887059, 
+      "lon": 5.273901456124, 
       "municipality": "Hasselt", 
       "pcode": "3510", 
       "source": "afgeleidVanGebouw", 

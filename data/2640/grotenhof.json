@@ -9,11 +9,11 @@
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 51.170205506758, 
-      "lon": 4.455701888276, 
+      "lat": 51.170453064599, 
+      "lon": 4.455684766755, 
       "municipality": "Mortsel", 
       "pcode": "2640", 
-      "source": "geinterpoleerdObvWegverbinding", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Grotenhof"
     }, 
     {
@@ -100,7 +100,7 @@
       "busnrs": [
         "1", 
         "2", 
-        "glvl"
+        "GLVL"
       ], 
       "hnrlbls": [
         "17"
@@ -110,7 +110,7 @@
       "lon": 4.45526260821, 
       "municipality": "Mortsel", 
       "pcode": "2640", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Grotenhof"
     }, 
     {
@@ -213,12 +213,24 @@
       "hnrlbls": [
         "28-28bis"
       ], 
-      "housenumber": "28bis", 
+      "housenumber": "28B", 
       "lat": 51.173092751764, 
       "lon": 4.453825895843, 
       "municipality": "Mortsel", 
       "pcode": "2640", 
       "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "street": "Grotenhof"
+    }, 
+    {
+      "hnrlbls": [
+        "28-28bis"
+      ], 
+      "housenumber": "28bis", 
+      "lat": 51.173092751764, 
+      "lon": 4.453825895843, 
+      "municipality": "Mortsel", 
+      "pcode": "2640", 
+      "source": "afgeleidVanGebouw", 
       "street": "Grotenhof"
     }, 
     {
@@ -651,18 +663,6 @@
       "municipality": "Mortsel", 
       "pcode": "2640", 
       "source": "afgeleidVanGebouw", 
-      "street": "Grotenhof"
-    }, 
-    {
-      "hnrlbls": [
-        "ZN"
-      ], 
-      "housenumber": "ZN", 
-      "lat": 51.171781880113, 
-      "lon": 4.454538255646, 
-      "municipality": "Mortsel", 
-      "pcode": "2640", 
-      "source": "afgeleidVanStraat", 
       "street": "Grotenhof"
     }
   ]

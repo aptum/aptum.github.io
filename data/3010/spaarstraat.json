@@ -1,13 +1,6 @@
 {
   "addresses": [
     {
-      "busnrs": [
-        "0001", 
-        "0002", 
-        "0101", 
-        "0102", 
-        "0201"
-      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -47,14 +40,15 @@
       "busnrs": [
         "00K1", 
         "01K2", 
-        "01K3"
+        "01K3", 
+        "7777"
       ], 
       "hnrlbls": [
-        "102-102K"
+        "102"
       ], 
       "housenumber": "102", 
-      "lat": 50.879527433518, 
-      "lon": 4.724660922881, 
+      "lat": 50.879289314509, 
+      "lon": 4.724449243174, 
       "municipality": "Leuven", 
       "pcode": "3010", 
       "source": "afgeleidVanGebouw", 
@@ -66,11 +60,11 @@
         "3"
       ], 
       "hnrlbls": [
-        "102-102K"
+        "102K"
       ], 
       "housenumber": "102K", 
-      "lat": 50.879527433518, 
-      "lon": 4.724660922881, 
+      "lat": 50.879051284995, 
+      "lon": 4.724237566295, 
       "municipality": "Leuven", 
       "pcode": "3010", 
       "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
@@ -229,8 +223,8 @@
         "120"
       ], 
       "housenumber": "120", 
-      "lat": 50.879288212547, 
-      "lon": 4.725609570264, 
+      "lat": 50.879288481794, 
+      "lon": 4.725609714407, 
       "municipality": "Leuven", 
       "pcode": "3010", 
       "source": "afgeleidVanGebouw", 
@@ -325,8 +319,8 @@
         "13"
       ], 
       "housenumber": "13", 
-      "lat": 50.880271119471, 
-      "lon": 4.720021009596, 
+      "lat": 50.880270220965, 
+      "lon": 4.720020860767, 
       "municipality": "Leuven", 
       "pcode": "3010", 
       "source": "afgeleidVanGebouw", 
@@ -493,8 +487,8 @@
         "15"
       ], 
       "housenumber": "15", 
-      "lat": 50.880280013318, 
-      "lon": 4.720082888188, 
+      "lat": 50.880280286834, 
+      "lon": 4.72008161137, 
       "municipality": "Leuven", 
       "pcode": "3010", 
       "source": "afgeleidVanGebouw", 
@@ -505,8 +499,8 @@
         "150"
       ], 
       "housenumber": "150", 
-      "lat": 50.878718371902, 
-      "lon": 4.727080003586, 
+      "lat": 50.878743961923, 
+      "lon": 4.727089861409, 
       "municipality": "Leuven", 
       "pcode": "3010", 
       "source": "afgeleidVanGebouw", 
@@ -757,8 +751,8 @@
         "17"
       ], 
       "housenumber": "17", 
-      "lat": 50.88031963869, 
-      "lon": 4.72014897585, 
+      "lat": 50.880311935577, 
+      "lon": 4.720139681837, 
       "municipality": "Leuven", 
       "pcode": "3010", 
       "source": "afgeleidVanGebouw", 
@@ -791,10 +785,10 @@
     {
       "busnrs": [
         "0001", 
+        "0002", 
         "0101", 
         "0102", 
-        "0201", 
-        "0202"
+        "0201"
       ], 
       "hnrlbls": [
         "2"
@@ -925,8 +919,8 @@
         "31"
       ], 
       "housenumber": "31", 
-      "lat": 50.880289779705, 
-      "lon": 4.720812200508, 
+      "lat": 50.880290942339, 
+      "lon": 4.72081419859, 
       "municipality": "Leuven", 
       "pcode": "3010", 
       "source": "afgeleidVanGebouw", 
@@ -937,8 +931,8 @@
         "33"
       ], 
       "housenumber": "33", 
-      "lat": 50.88028867918, 
-      "lon": 4.720879261782, 
+      "lat": 50.880286517471, 
+      "lon": 4.720880666511, 
       "municipality": "Leuven", 
       "pcode": "3010", 
       "source": "afgeleidVanGebouw", 
@@ -1021,11 +1015,11 @@
         "40"
       ], 
       "housenumber": "40", 
-      "lat": 50.880021312442, 
-      "lon": 4.721273842649, 
+      "lat": 50.87992398446, 
+      "lon": 4.721234460872, 
       "municipality": "Leuven", 
       "pcode": "3010", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Spaarstraat"
     }, 
     {
@@ -1129,8 +1123,8 @@
         "51"
       ], 
       "housenumber": "51", 
-      "lat": 50.880208144094, 
-      "lon": 4.721532867977, 
+      "lat": 50.880207608586, 
+      "lon": 4.721531585081, 
       "municipality": "Leuven", 
       "pcode": "3010", 
       "source": "afgeleidVanGebouw", 
@@ -1150,11 +1144,23 @@
     }, 
     {
       "hnrlbls": [
+        "52C"
+      ], 
+      "housenumber": "52C", 
+      "lat": 50.879964730639, 
+      "lon": 4.722002509241, 
+      "municipality": "Leuven", 
+      "pcode": "3010", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Spaarstraat"
+    }, 
+    {
+      "hnrlbls": [
         "53"
       ], 
       "housenumber": "53", 
-      "lat": 50.880192288681, 
-      "lon": 4.721603796765, 
+      "lat": 50.880193011251, 
+      "lon": 4.721602665434, 
       "municipality": "Leuven", 
       "pcode": "3010", 
       "source": "afgeleidVanGebouw", 
@@ -1189,8 +1195,8 @@
         "55"
       ], 
       "housenumber": "55", 
-      "lat": 50.880185864309, 
-      "lon": 4.721677354232, 
+      "lat": 50.880186309066, 
+      "lon": 4.721678920638, 
       "municipality": "Leuven", 
       "pcode": "3010", 
       "source": "afgeleidVanGebouw", 
@@ -1213,8 +1219,8 @@
         "57"
       ], 
       "housenumber": "57", 
-      "lat": 50.880175436201, 
-      "lon": 4.721766938398, 
+      "lat": 50.880181094337, 
+      "lon": 4.721768686156, 
       "municipality": "Leuven", 
       "pcode": "3010", 
       "source": "afgeleidVanGebouw", 
@@ -1225,8 +1231,8 @@
         "59"
       ], 
       "housenumber": "59", 
-      "lat": 50.880159401233, 
-      "lon": 4.721867563791, 
+      "lat": 50.880160214984, 
+      "lon": 4.721866006863, 
       "municipality": "Leuven", 
       "pcode": "3010", 
       "source": "afgeleidVanGebouw", 
@@ -1337,8 +1343,8 @@
         "69"
       ], 
       "housenumber": "69", 
-      "lat": 50.880118028629, 
-      "lon": 4.722291692851, 
+      "lat": 50.880141475756, 
+      "lon": 4.722296843027, 
       "municipality": "Leuven", 
       "pcode": "3010", 
       "source": "afgeleidVanGebouw", 
@@ -1373,8 +1379,8 @@
         "71"
       ], 
       "housenumber": "71", 
-      "lat": 50.880107518309, 
-      "lon": 4.722378576312, 
+      "lat": 50.880120446207, 
+      "lon": 4.722384215568, 
       "municipality": "Leuven", 
       "pcode": "3010", 
       "source": "afgeleidVanGebouw", 
@@ -1385,8 +1391,8 @@
         "71A"
       ], 
       "housenumber": "71A", 
-      "lat": 50.880103125601, 
-      "lon": 4.722493640884, 
+      "lat": 50.880102769031, 
+      "lon": 4.722492643522, 
       "municipality": "Leuven", 
       "pcode": "3010", 
       "source": "afgeleidVanGebouw", 
@@ -1397,8 +1403,8 @@
         "71B"
       ], 
       "housenumber": "71B", 
-      "lat": 50.880095441068, 
-      "lon": 4.722597312917, 
+      "lat": 50.880095802787, 
+      "lon": 4.722596605167, 
       "municipality": "Leuven", 
       "pcode": "3010", 
       "source": "afgeleidVanGebouw", 
@@ -1501,8 +1507,8 @@
         "79"
       ], 
       "housenumber": "79", 
-      "lat": 50.880059861148, 
-      "lon": 4.72288862497, 
+      "lat": 50.880060126962, 
+      "lon": 4.72288990584, 
       "municipality": "Leuven", 
       "pcode": "3010", 
       "source": "afgeleidVanGebouw", 
@@ -1525,8 +1531,8 @@
         "81"
       ], 
       "housenumber": "81", 
-      "lat": 50.880065482096, 
-      "lon": 4.72296213097, 
+      "lat": 50.880072838733, 
+      "lon": 4.722967017809, 
       "municipality": "Leuven", 
       "pcode": "3010", 
       "source": "afgeleidVanGebouw", 
@@ -1549,8 +1555,8 @@
         "83"
       ], 
       "housenumber": "83", 
-      "lat": 50.880044408142, 
-      "lon": 4.723034298493, 
+      "lat": 50.880048089467, 
+      "lon": 4.72303574727, 
       "municipality": "Leuven", 
       "pcode": "3010", 
       "source": "afgeleidVanGebouw", 
@@ -1573,8 +1579,8 @@
         "85"
       ], 
       "housenumber": "85", 
-      "lat": 50.880036176842, 
-      "lon": 4.723110541702, 
+      "lat": 50.88003500737, 
+      "lon": 4.723110817054, 
       "municipality": "Leuven", 
       "pcode": "3010", 
       "source": "afgeleidVanGebouw", 
@@ -1645,8 +1651,8 @@
         "91"
       ], 
       "housenumber": "91", 
-      "lat": 50.88001839238, 
-      "lon": 4.723343302105, 
+      "lat": 50.880020903369, 
+      "lon": 4.723345310437, 
       "municipality": "Leuven", 
       "pcode": "3010", 
       "source": "afgeleidVanGebouw", 
@@ -1657,8 +1663,8 @@
         "92"
       ], 
       "housenumber": "92", 
-      "lat": 50.87966722796, 
-      "lon": 4.724244083791, 
+      "lat": 50.879665968592, 
+      "lon": 4.724244358431, 
       "municipality": "Leuven", 
       "pcode": "3010", 
       "source": "afgeleidVanGebouw", 
@@ -1675,8 +1681,8 @@
         "93"
       ], 
       "housenumber": "93", 
-      "lat": 50.880011962185, 
-      "lon": 4.723418422079, 
+      "lat": 50.880011239598, 
+      "lon": 4.723419553378, 
       "municipality": "Leuven", 
       "pcode": "3010", 
       "source": "afgeleidVanGebouw", 
@@ -1687,8 +1693,8 @@
         "94"
       ], 
       "housenumber": "94", 
-      "lat": 50.879652219806, 
-      "lon": 4.724331500257, 
+      "lat": 50.879652755283, 
+      "lon": 4.724332783169, 
       "municipality": "Leuven", 
       "pcode": "3010", 
       "source": "afgeleidVanGebouw", 

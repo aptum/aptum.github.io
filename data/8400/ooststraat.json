@@ -40,6 +40,9 @@
       "street": "Ooststraat"
     }, 
     {
+      "busnrs": [
+        "301"
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -52,21 +55,15 @@
       "street": "Ooststraat"
     }, 
     {
-      "busnrs": [
-        "2", 
-        "201", 
-        "5", 
-        "6"
-      ], 
       "hnrlbls": [
         "22"
       ], 
       "housenumber": "22", 
-      "lat": 51.23075553781, 
-      "lon": 2.918645502126, 
+      "lat": 51.230726520616, 
+      "lon": 2.918793890395, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Ooststraat"
     }, 
     {
@@ -74,28 +71,29 @@
         "24"
       ], 
       "housenumber": "24", 
-      "lat": 51.230856859586, 
-      "lon": 2.918836518048, 
+      "lat": 51.23077240919, 
+      "lon": 2.918914461852, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Ooststraat"
     }, 
     {
       "busnrs": [
-        "1", 
-        "2", 
-        "3"
+        "0001", 
+        "0101", 
+        "0201", 
+        "0301"
       ], 
       "hnrlbls": [
         "25"
       ], 
       "housenumber": "25", 
-      "lat": 51.230563653886, 
-      "lon": 2.918745258057, 
+      "lat": 51.230590261926, 
+      "lon": 2.918767054732, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Ooststraat"
     }, 
     {
@@ -107,11 +105,11 @@
         "26"
       ], 
       "housenumber": "26", 
-      "lat": 51.230891303623, 
-      "lon": 2.91898422235, 
+      "lat": 51.230818162683, 
+      "lon": 2.91905336613, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Ooststraat"
     }, 
     {
@@ -133,20 +131,19 @@
     }, 
     {
       "busnrs": [
-        "2", 
-        "201", 
-        "2AC", 
-        "301"
+        "0001", 
+        "0101", 
+        "0201"
       ], 
       "hnrlbls": [
         "28"
       ], 
       "housenumber": "28", 
-      "lat": 51.23087843081, 
-      "lon": 2.919122228823, 
+      "lat": 51.23084941673, 
+      "lon": 2.919146184416, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Ooststraat"
     }, 
     {
@@ -351,7 +348,11 @@
     {
       "busnrs": [
         "1", 
-        "2"
+        "101", 
+        "2", 
+        "201", 
+        "301", 
+        "401"
       ], 
       "hnrlbls": [
         "40"
@@ -368,6 +369,7 @@
       "busnrs": [
         "1", 
         "2", 
+        "201", 
         "202", 
         "3", 
         "301", 
@@ -546,6 +548,7 @@
         "203", 
         "3", 
         "301", 
+        "302", 
         "305"
       ], 
       "hnrlbls": [
@@ -809,6 +812,7 @@
         "101", 
         "1C", 
         "201", 
+        "202", 
         "2C", 
         "2D"
       ], 

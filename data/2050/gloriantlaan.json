@@ -201,8 +201,10 @@
       "street": "Gloriantlaan"
     }, 
     {
-      "busnrs": [
-        "2"
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301"
       ], 
       "hnrlbls": [
         "24"
@@ -342,6 +344,12 @@
       "street": "Gloriantlaan"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
         "30"
       ], 
@@ -986,6 +994,7 @@
         "E7", 
         "E8", 
         "E9", 
+        "F00", 
         "F1", 
         "F10", 
         "F11", 
@@ -1011,6 +1020,21 @@
       "municipality": "Antwerpen", 
       "pcode": "2050", 
       "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Gloriantlaan"
+    }, 
+    {
+      "busnrs": [
+        "F"
+      ], 
+      "hnrlbls": [
+        "54_12"
+      ], 
+      "housenumber": "54_12", 
+      "lat": 51.226741996572, 
+      "lon": 4.385514838743, 
+      "municipality": "Antwerpen", 
+      "pcode": "2050", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Gloriantlaan"
     }, 
     {

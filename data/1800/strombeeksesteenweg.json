@@ -241,21 +241,20 @@
     }, 
     {
       "apptnrs": [
-        "0/1", 
-        "0/2", 
-        "0/3", 
-        "1", 
-        "1/2", 
-        "2/1", 
-        "2/2", 
-        "3/1", 
-        "3/2", 
-        "8", 
-        "9"
+        "02/3"
       ], 
       "busnrs": [
+        "01/1", 
+        "01/2", 
+        "01/3", 
+        "02/1", 
+        "02/2", 
+        "03/1", 
+        "03/2", 
+        "03/3", 
         "O/01", 
-        "O/02"
+        "O/02", 
+        "O/03"
       ], 
       "hnrlbls": [
         "13"
@@ -392,29 +391,25 @@
       "street": "Strombeeksesteenweg"
     }, 
     {
-      "apptnrs": [
-        "0/1", 
+      "busnrs": [
+        "00/2", 
         "01/1", 
         "01/2", 
-        "1/3", 
-        "2/1", 
-        "2/2", 
-        "3/1", 
-        "3/2", 
-        "6"
-      ], 
-      "busnrs": [
+        "02/1", 
+        "02/2", 
+        "03/1", 
+        "03/2", 
         "O/01"
       ], 
       "hnrlbls": [
-        "15-15B"
+        "15"
       ], 
       "housenumber": "15", 
       "lat": 50.904118519733, 
       "lon": 4.375616220568, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Strombeeksesteenweg"
     }, 
     {
@@ -463,18 +458,6 @@
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
       "source": "manueleAanduidingVanPerceel", 
-      "street": "Strombeeksesteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "15-15B"
-      ], 
-      "housenumber": "15B", 
-      "lat": 50.904118519733, 
-      "lon": 4.375616220568, 
-      "municipality": "Vilvoorde", 
-      "pcode": "1800", 
-      "source": "afgeleidVanPerceelGrb", 
       "street": "Strombeeksesteenweg"
     }, 
     {
@@ -730,11 +713,11 @@
         "208"
       ], 
       "housenumber": "208", 
-      "lat": 50.90782442597, 
-      "lon": 4.370246460936, 
+      "lat": 50.907889240209, 
+      "lon": 4.370192293972, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "afgeleidVanGebouw", 
       "street": "Strombeeksesteenweg"
     }, 
     {

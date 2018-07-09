@@ -85,8 +85,11 @@
       "street": "Brugseweg"
     }, 
     {
+      "busnrs": [
+        "AGLV"
+      ], 
       "hnrlbls": [
-        "105"
+        "105-105_2"
       ], 
       "housenumber": "105", 
       "lat": 50.858895894654, 
@@ -111,6 +114,21 @@
       "municipality": "Ieper", 
       "pcode": "8900", 
       "source": "manueleAanduidingVanGebouw", 
+      "street": "Brugseweg"
+    }, 
+    {
+      "busnrs": [
+        "A"
+      ], 
+      "hnrlbls": [
+        "105-105_2"
+      ], 
+      "housenumber": "105_2", 
+      "lat": 50.858895894654, 
+      "lon": 2.892796472301, 
+      "municipality": "Ieper", 
+      "pcode": "8900", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Brugseweg"
     }, 
     {
@@ -550,7 +568,6 @@
         "GLVA"
       ], 
       "hnrlbls": [
-        "143-147", 
         "145"
       ], 
       "housenumber": "145", 
@@ -583,7 +600,6 @@
         "GLVB"
       ], 
       "hnrlbls": [
-        "143-147", 
         "147"
       ], 
       "housenumber": "147", 
@@ -1307,8 +1323,8 @@
         "202"
       ], 
       "housenumber": "202", 
-      "lat": 50.863844632285, 
-      "lon": 2.902728557031, 
+      "lat": 50.863847781534, 
+      "lon": 2.90272874296, 
       "municipality": "Ieper", 
       "pcode": "8900", 
       "source": "manueleAanduidingVanGebouw", 
@@ -4186,8 +4202,8 @@
         "8"
       ], 
       "housenumber": "8", 
-      "lat": 50.857233902442, 
-      "lon": 2.887533440004, 
+      "lat": 50.857237229684, 
+      "lon": 2.887533477228, 
       "municipality": "Ieper", 
       "pcode": "8900", 
       "source": "manueleAanduidingVanGebouw", 
@@ -4254,12 +4270,23 @@
       "street": "Brugseweg"
     }, 
     {
-      "hnrlbls": [
-        "86"
+      "apptnrs": [
+        "1A", 
+        "1B", 
+        "1C", 
+        "2A", 
+        "2B", 
+        "2C", 
+        "GLVA", 
+        "GLVB", 
+        "GLVC"
       ], 
-      "housenumber": "86", 
-      "lat": 50.858577289688, 
-      "lon": 2.89255702239, 
+      "hnrlbls": [
+        "85"
+      ], 
+      "housenumber": "85", 
+      "lat": 50.858802529211, 
+      "lon": 2.890907474953, 
       "municipality": "Ieper", 
       "pcode": "8900", 
       "source": "manueleAanduidingVanGebouw", 
@@ -4267,11 +4294,11 @@
     }, 
     {
       "hnrlbls": [
-        "87"
+        "86"
       ], 
-      "housenumber": "87", 
-      "lat": 50.858843274512, 
-      "lon": 2.891008618035, 
+      "housenumber": "86", 
+      "lat": 50.858577289688, 
+      "lon": 2.89255702239, 
       "municipality": "Ieper", 
       "pcode": "8900", 
       "source": "manueleAanduidingVanGebouw", 
@@ -4431,8 +4458,8 @@
         "98"
       ], 
       "housenumber": "98", 
-      "lat": 50.858459142929, 
-      "lon": 2.893965675179, 
+      "lat": 50.858460078041, 
+      "lon": 2.893961384138, 
       "municipality": "Ieper", 
       "pcode": "8900", 
       "source": "manueleAanduidingVanGebouw", 

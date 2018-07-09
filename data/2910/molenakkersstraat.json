@@ -2,23 +2,11 @@
   "addresses": [
     {
       "hnrlbls": [
-        "/ZN-1"
-      ], 
-      "housenumber": "1", 
-      "lat": 51.46351900299, 
-      "lon": 4.460153296549, 
-      "municipality": "Essen", 
-      "pcode": "2910", 
-      "source": "afgeleidVanStraat", 
-      "street": "Molenakkersstraat"
-    }, 
-    {
-      "hnrlbls": [
         "11"
       ], 
       "housenumber": "11", 
-      "lat": 51.463812028803, 
-      "lon": 4.458822821334, 
+      "lat": 51.463810504673, 
+      "lon": 4.458817926346, 
       "municipality": "Essen", 
       "pcode": "2910", 
       "source": "afgeleidVanGebouw", 
@@ -37,42 +25,27 @@
       "street": "Molenakkersstraat"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
-        "15-15_1"
+        "15"
       ], 
       "housenumber": "15", 
-      "lat": 51.463697095896, 
-      "lon": 4.458801014086, 
+      "lat": 51.463699649495, 
+      "lon": 4.458752386913, 
       "municipality": "Essen", 
       "pcode": "2910", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Molenakkersstraat"
     }, 
     {
       "hnrlbls": [
-        "15-15_1"
+        "15A"
       ], 
       "housenumber": "15A", 
-      "lat": 51.463697095896, 
-      "lon": 4.458801014086, 
+      "lat": 51.463671954339, 
+      "lon": 4.458770461897, 
       "municipality": "Essen", 
       "pcode": "2910", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Molenakkersstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "15-15_1"
-      ], 
-      "housenumber": "15_1", 
-      "lat": 51.463697095896, 
-      "lon": 4.458801014086, 
-      "municipality": "Essen", 
-      "pcode": "2910", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Molenakkersstraat"
     }, 
     {
@@ -85,18 +58,6 @@
       "municipality": "Essen", 
       "pcode": "2910", 
       "source": "afgeleidVanGebouw", 
-      "street": "Molenakkersstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "18"
-      ], 
-      "housenumber": "18", 
-      "lat": 51.463532203338, 
-      "lon": 4.459000543064, 
-      "municipality": "Essen", 
-      "pcode": "2910", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
       "street": "Molenakkersstraat"
     }, 
     {
@@ -224,18 +185,6 @@
     }, 
     {
       "hnrlbls": [
-        "34-36B"
-      ], 
-      "housenumber": "34", 
-      "lat": 51.463106370022, 
-      "lon": 4.459712491178, 
-      "municipality": "Essen", 
-      "pcode": "2910", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Molenakkersstraat"
-    }, 
-    {
-      "hnrlbls": [
         "35"
       ], 
       "housenumber": "35", 
@@ -247,8 +196,16 @@
       "street": "Molenakkersstraat"
     }, 
     {
+      "busnrs": [
+        "A", 
+        "A1", 
+        "A2", 
+        "B", 
+        "B1", 
+        "B2"
+      ], 
       "hnrlbls": [
-        "34-36B"
+        "36"
       ], 
       "housenumber": "36", 
       "lat": 51.463106370022, 
@@ -259,44 +216,12 @@
       "street": "Molenakkersstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
-      "hnrlbls": [
-        "34-36B"
-      ], 
-      "housenumber": "36A", 
-      "lat": 51.463106370022, 
-      "lon": 4.459712491178, 
-      "municipality": "Essen", 
-      "pcode": "2910", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Molenakkersstraat"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
-      "hnrlbls": [
-        "34-36B"
-      ], 
-      "housenumber": "36B", 
-      "lat": 51.463106370022, 
-      "lon": 4.459712491178, 
-      "municipality": "Essen", 
-      "pcode": "2910", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Molenakkersstraat"
-    }, 
-    {
       "hnrlbls": [
         "37"
       ], 
       "housenumber": "37", 
-      "lat": 51.463380928838, 
-      "lon": 4.459606273927, 
+      "lat": 51.463387492553, 
+      "lon": 4.459602545972, 
       "municipality": "Essen", 
       "pcode": "2910", 
       "source": "afgeleidVanGebouw", 
@@ -472,14 +397,14 @@
         "2"
       ], 
       "hnrlbls": [
-        "56-58"
+        "56"
       ], 
       "housenumber": "56", 
-      "lat": 51.463245192022, 
-      "lon": 4.461029562149, 
+      "lat": 51.463233009037, 
+      "lon": 4.460978460074, 
       "municipality": "Essen", 
       "pcode": "2910", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Molenakkersstraat"
     }, 
     {
@@ -487,8 +412,8 @@
         "57"
       ], 
       "housenumber": "57", 
-      "lat": 51.46354157093, 
-      "lon": 4.460834621073, 
+      "lat": 51.463517381344, 
+      "lon": 4.460851694595, 
       "municipality": "Essen", 
       "pcode": "2910", 
       "source": "afgeleidVanGebouw", 
@@ -500,14 +425,14 @@
         "2"
       ], 
       "hnrlbls": [
-        "56-58"
+        "58"
       ], 
       "housenumber": "58", 
-      "lat": 51.463245192022, 
-      "lon": 4.461029562149, 
+      "lat": 51.463240487597, 
+      "lon": 4.461069119922, 
       "municipality": "Essen", 
       "pcode": "2910", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Molenakkersstraat"
     }, 
     {
@@ -528,14 +453,14 @@
         "2"
       ], 
       "hnrlbls": [
-        "60-66"
+        "60"
       ], 
       "housenumber": "60", 
-      "lat": 51.463274987937, 
-      "lon": 4.461313211024, 
+      "lat": 51.463268080605, 
+      "lon": 4.461181977823, 
       "municipality": "Essen", 
       "pcode": "2910", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Molenakkersstraat"
     }, 
     {
@@ -556,14 +481,14 @@
         "2"
       ], 
       "hnrlbls": [
-        "60-66"
+        "62"
       ], 
       "housenumber": "62", 
-      "lat": 51.463274987937, 
-      "lon": 4.461313211024, 
+      "lat": 51.463271777964, 
+      "lon": 4.461280687501, 
       "municipality": "Essen", 
       "pcode": "2910", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Molenakkersstraat"
     }, 
     {
@@ -584,14 +509,14 @@
         "2"
       ], 
       "hnrlbls": [
-        "60-66"
+        "64"
       ], 
       "housenumber": "64", 
-      "lat": 51.463274987937, 
-      "lon": 4.461313211024, 
+      "lat": 51.463274240716, 
+      "lon": 4.461349179732, 
       "municipality": "Essen", 
       "pcode": "2910", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Molenakkersstraat"
     }, 
     {
@@ -612,14 +537,14 @@
         "2"
       ], 
       "hnrlbls": [
-        "60-66"
+        "66"
       ], 
       "housenumber": "66", 
-      "lat": 51.463274987937, 
-      "lon": 4.461313211024, 
+      "lat": 51.463277952179, 
+      "lon": 4.461429760477, 
       "municipality": "Essen", 
       "pcode": "2910", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Molenakkersstraat"
     }, 
     {
@@ -656,18 +581,6 @@
       "municipality": "Essen", 
       "pcode": "2910", 
       "source": "afgeleidVanGebouw", 
-      "street": "Molenakkersstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "/ZN-1"
-      ], 
-      "housenumber": "ZN", 
-      "lat": 51.46351900299, 
-      "lon": 4.460153296549, 
-      "municipality": "Essen", 
-      "pcode": "2910", 
-      "source": "afgeleidVanStraat", 
       "street": "Molenakkersstraat"
     }
   ]

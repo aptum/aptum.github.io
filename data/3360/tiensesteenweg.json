@@ -25,6 +25,9 @@
       "street": "Tiensesteenweg"
     }, 
     {
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "101"
       ], 
@@ -275,14 +278,14 @@
     }, 
     {
       "hnrlbls": [
-        "3-120"
+        "114"
       ], 
       "housenumber": "114", 
-      "lat": 50.862142430528, 
-      "lon": 4.762951453038, 
+      "lat": 50.862321899603, 
+      "lon": 4.762726829426, 
       "municipality": "Bierbeek", 
       "pcode": "3360", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Tiensesteenweg"
     }, 
     {
@@ -307,35 +310,14 @@
         "6"
       ], 
       "hnrlbls": [
-        "3-120"
+        "116"
       ], 
       "housenumber": "116", 
-      "lat": 50.862142430528, 
-      "lon": 4.762951453038, 
+      "lat": 50.862298212434, 
+      "lon": 4.762846940471, 
       "municipality": "Bierbeek", 
       "pcode": "3360", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Tiensesteenweg"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6", 
-        "7"
-      ], 
-      "hnrlbls": [
-        "2-117"
-      ], 
-      "housenumber": "117", 
-      "lat": 50.862731994681, 
-      "lon": 4.7628368065, 
-      "municipality": "Bierbeek", 
-      "pcode": "3360", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Tiensesteenweg"
     }, 
     {
@@ -347,14 +329,33 @@
         "5"
       ], 
       "hnrlbls": [
-        "3-120"
+        "117"
       ], 
-      "housenumber": "118", 
-      "lat": 50.862142430528, 
-      "lon": 4.762951453038, 
+      "housenumber": "117", 
+      "lat": 50.862638953322, 
+      "lon": 4.762729634274, 
       "municipality": "Bierbeek", 
       "pcode": "3360", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanToegangTotDeWeg", 
+      "street": "Tiensesteenweg"
+    }, 
+    {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5"
+      ], 
+      "hnrlbls": [
+        "118"
+      ], 
+      "housenumber": "118", 
+      "lat": 50.862256581364, 
+      "lon": 4.763036643401, 
+      "municipality": "Bierbeek", 
+      "pcode": "3360", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Tiensesteenweg"
     }, 
     {
@@ -365,14 +366,14 @@
         "4"
       ], 
       "hnrlbls": [
-        "3-120"
+        "120"
       ], 
       "housenumber": "120", 
-      "lat": 50.862142430528, 
-      "lon": 4.762951453038, 
+      "lat": 50.862220666807, 
+      "lon": 4.763237189279, 
       "municipality": "Bierbeek", 
       "pcode": "3360", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Tiensesteenweg"
     }, 
     {
@@ -2158,11 +2159,11 @@
         "286"
       ], 
       "housenumber": "286", 
-      "lat": 50.857201791435, 
-      "lon": 4.784437853519, 
+      "lat": 50.857366826875, 
+      "lon": 4.783934974946, 
       "municipality": "Bierbeek", 
       "pcode": "3360", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Tiensesteenweg"
     }, 
     {
@@ -2849,11 +2850,11 @@
         "6"
       ], 
       "housenumber": "6", 
-      "lat": 50.865156612236, 
-      "lon": 4.748818271037, 
+      "lat": 50.865122368808, 
+      "lon": 4.748788446978, 
       "municipality": "Bierbeek", 
       "pcode": "3360", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Tiensesteenweg"
     }, 
     {
@@ -3202,18 +3203,17 @@
     {
       "busnrs": [
         "1", 
-        "3", 
-        "4"
+        "2"
       ], 
       "hnrlbls": [
         "88"
       ], 
       "housenumber": "88", 
-      "lat": 50.862564660444, 
-      "lon": 4.760032886935, 
+      "lat": 50.862812601319, 
+      "lon": 4.760165067396, 
       "municipality": "Bierbeek", 
       "pcode": "3360", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Tiensesteenweg"
     }, 
     {
@@ -3359,8 +3359,8 @@
         "97"
       ], 
       "housenumber": "97", 
-      "lat": 50.863163095452, 
-      "lon": 4.761269409499, 
+      "lat": 50.863087181265, 
+      "lon": 4.761228291492, 
       "municipality": "Bierbeek", 
       "pcode": "3360", 
       "source": "afgeleidVanGebouw", 

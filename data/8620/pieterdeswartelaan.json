@@ -321,14 +321,14 @@
     }, 
     {
       "hnrlbls": [
-        "35"
+        "2-35"
       ], 
       "housenumber": "35", 
-      "lat": 51.131798761039, 
-      "lon": 2.757285455824, 
+      "lat": 51.131647197213, 
+      "lon": 2.757339694548, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Pieter Deswartelaan"
     }, 
     {
@@ -444,6 +444,8 @@
     }, 
     {
       "busnrs": [
+        "102", 
+        "201", 
         "202"
       ], 
       "hnrlbls": [
@@ -515,7 +517,8 @@
     {
       "busnrs": [
         "102", 
-        "103"
+        "103", 
+        "201"
       ], 
       "hnrlbls": [
         "63-69"
@@ -530,7 +533,9 @@
     }, 
     {
       "busnrs": [
-        "301"
+        "2", 
+        "301", 
+        "302"
       ], 
       "hnrlbls": [
         "63-69"
@@ -546,6 +551,7 @@
     {
       "busnrs": [
         "101", 
+        "102", 
         "103", 
         "201", 
         "202"
@@ -606,13 +612,14 @@
       "lon": 2.758458580469, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Pieter Deswartelaan"
     }, 
     {
       "busnrs": [
         "101", 
         "104", 
+        "203", 
         "205", 
         "302"
       ], 
@@ -633,46 +640,11 @@
         "203"
       ], 
       "hnrlbls": [
-        "83A-89"
+        "83A-87A"
       ], 
       "housenumber": "83A", 
-      "lat": 51.127731270725, 
-      "lon": 2.757789193923, 
-      "municipality": "Nieuwpoort", 
-      "pcode": "8620", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Pieter Deswartelaan"
-    }, 
-    {
-      "busnrs": [
-        "2", 
-        "207", 
-        "302", 
-        "305", 
-        "4"
-      ], 
-      "hnrlbls": [
-        "83A-89"
-      ], 
-      "housenumber": "85", 
-      "lat": 51.127731270725, 
-      "lon": 2.757789193923, 
-      "municipality": "Nieuwpoort", 
-      "pcode": "8620", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Pieter Deswartelaan"
-    }, 
-    {
-      "busnrs": [
-        "103", 
-        "3"
-      ], 
-      "hnrlbls": [
-        "83A-89"
-      ], 
-      "housenumber": "85A", 
-      "lat": 51.127731270725, 
-      "lon": 2.757789193923, 
+      "lat": 51.127723750413, 
+      "lon": 2.757817886459, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
       "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
@@ -681,14 +653,19 @@
     {
       "busnrs": [
         "1", 
-        "104"
+        "2", 
+        "207", 
+        "302", 
+        "305", 
+        "4", 
+        "6"
       ], 
       "hnrlbls": [
-        "83A-89"
+        "83A-87A"
       ], 
-      "housenumber": "87", 
-      "lat": 51.127731270725, 
-      "lon": 2.757789193923, 
+      "housenumber": "85", 
+      "lat": 51.127723750413, 
+      "lon": 2.757817886459, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
       "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
@@ -696,6 +673,43 @@
     }, 
     {
       "busnrs": [
+        "1", 
+        "103", 
+        "105", 
+        "3", 
+        "4"
+      ], 
+      "hnrlbls": [
+        "83A-87A"
+      ], 
+      "housenumber": "85A", 
+      "lat": 51.127723750413, 
+      "lon": 2.757817886459, 
+      "municipality": "Nieuwpoort", 
+      "pcode": "8620", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "street": "Pieter Deswartelaan"
+    }, 
+    {
+      "busnrs": [
+        "1", 
+        "103", 
+        "104"
+      ], 
+      "hnrlbls": [
+        "83A-87A"
+      ], 
+      "housenumber": "87", 
+      "lat": 51.127723750413, 
+      "lon": 2.757817886459, 
+      "municipality": "Nieuwpoort", 
+      "pcode": "8620", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "street": "Pieter Deswartelaan"
+    }, 
+    {
+      "busnrs": [
+        "104", 
         "2", 
         "202", 
         "205", 
@@ -705,11 +719,11 @@
         "6"
       ], 
       "hnrlbls": [
-        "83A-89"
+        "83A-87A"
       ], 
       "housenumber": "87A", 
-      "lat": 51.127731270725, 
-      "lon": 2.757789193923, 
+      "lat": 51.127723750413, 
+      "lon": 2.757817886459, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
       "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
@@ -719,24 +733,27 @@
       "busnrs": [
         "1", 
         "101", 
+        "103", 
         "106", 
         "107", 
         "2", 
         "201", 
         "204", 
         "205", 
+        "303", 
+        "304", 
         "4", 
         "5"
       ], 
       "hnrlbls": [
-        "83A-89"
+        "83-89A"
       ], 
       "housenumber": "89", 
-      "lat": 51.127731270725, 
-      "lon": 2.757789193923, 
+      "lat": 51.127374535683, 
+      "lon": 2.757560166178, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Pieter Deswartelaan"
     }, 
     {

@@ -95,11 +95,11 @@
         "116"
       ], 
       "housenumber": "116", 
-      "lat": 51.042838847164, 
-      "lon": 5.380674113101, 
+      "lat": 51.042745822501, 
+      "lon": 5.38060907084, 
       "municipality": "Houthalen-Helchteren", 
       "pcode": "3530", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Kleine Heresteeg"
     }, 
     {
@@ -107,8 +107,8 @@
         "118"
       ], 
       "housenumber": "118", 
-      "lat": 51.042937362494, 
-      "lon": 5.380591966701, 
+      "lat": 51.042894035527, 
+      "lon": 5.380675164451, 
       "municipality": "Houthalen-Helchteren", 
       "pcode": "3530", 
       "source": "afgeleidVanGebouw", 
@@ -365,8 +365,8 @@
         "32"
       ], 
       "housenumber": "32", 
-      "lat": 51.03488959779, 
-      "lon": 5.380674543723, 
+      "lat": 51.034893560722, 
+      "lon": 5.380694590272, 
       "municipality": "Houthalen-Helchteren", 
       "pcode": "3530", 
       "source": "afgeleidVanGebouw", 
@@ -557,11 +557,11 @@
         "51"
       ], 
       "housenumber": "51", 
-      "lat": 51.03680277843, 
-      "lon": 5.380197495862, 
+      "lat": 51.036824100605, 
+      "lon": 5.38030018904, 
       "municipality": "Houthalen-Helchteren", 
       "pcode": "3530", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Kleine Heresteeg"
     }, 
     {
@@ -776,8 +776,8 @@
         "71"
       ], 
       "housenumber": "71", 
-      "lat": 51.039473506247, 
-      "lon": 5.3797333591, 
+      "lat": 51.039466240002, 
+      "lon": 5.379773412793, 
       "municipality": "Houthalen-Helchteren", 
       "pcode": "3530", 
       "source": "afgeleidVanGebouw", 
@@ -956,6 +956,9 @@
     }, 
     {
       "apptnrs": [
+        "01-1", 
+        "01-2", 
+        "02-1", 
         "87/1", 
         "87/1-1", 
         "87/1-2", 
@@ -963,7 +966,8 @@
         "87/2-1"
       ], 
       "busnrs": [
-        "1"
+        "1", 
+        "2"
       ], 
       "hnrlbls": [
         "87"

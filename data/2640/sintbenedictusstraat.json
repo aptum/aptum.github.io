@@ -20,7 +20,8 @@
     {
       "busnrs": [
         "1", 
-        "2"
+        "2", 
+        "glvl"
       ], 
       "hnrlbls": [
         "10"
@@ -325,11 +326,11 @@
         "12"
       ], 
       "housenumber": "12", 
-      "lat": 51.165846626301, 
-      "lon": 4.462417021296, 
+      "lat": 51.165841852422, 
+      "lon": 4.462429449525, 
       "municipality": "Mortsel", 
       "pcode": "2640", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sint-Benedictusstraat"
     }, 
     {
@@ -585,11 +586,11 @@
         "134"
       ], 
       "housenumber": "134", 
-      "lat": 51.169313111361, 
-      "lon": 4.457395178124, 
+      "lat": 51.169312398873, 
+      "lon": 4.457386455303, 
       "municipality": "Mortsel", 
       "pcode": "2640", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sint-Benedictusstraat"
     }, 
     {
@@ -656,7 +657,7 @@
       "lon": 4.462355220282, 
       "municipality": "Mortsel", 
       "pcode": "2640", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Sint-Benedictusstraat"
     }, 
     {
@@ -676,14 +677,14 @@
         "2"
       ], 
       "hnrlbls": [
-        "140-142"
+        "140"
       ], 
       "housenumber": "140", 
-      "lat": 51.169511925106, 
-      "lon": 4.457294046123, 
+      "lat": 51.169508700675, 
+      "lon": 4.457278884575, 
       "municipality": "Mortsel", 
       "pcode": "2640", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sint-Benedictusstraat"
     }, 
     {
@@ -699,30 +700,6 @@
       "municipality": "Mortsel", 
       "pcode": "2640", 
       "source": "afgeleidVanGebouw", 
-      "street": "Sint-Benedictusstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "140-142"
-      ], 
-      "housenumber": "142", 
-      "lat": 51.169511925106, 
-      "lon": 4.457294046123, 
-      "municipality": "Mortsel", 
-      "pcode": "2640", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Sint-Benedictusstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "143-314"
-      ], 
-      "housenumber": "143", 
-      "lat": 51.167272985203, 
-      "lon": 4.459958701889, 
-      "municipality": "Mortsel", 
-      "pcode": "2640", 
-      "source": "afgeleidVanStraat", 
       "street": "Sint-Benedictusstraat"
     }, 
     {
@@ -785,11 +762,11 @@
         "15"
       ], 
       "housenumber": "15", 
-      "lat": 51.165697553136, 
-      "lon": 4.462132222306, 
+      "lat": 51.165732199635, 
+      "lon": 4.461968455645, 
       "municipality": "Mortsel", 
       "pcode": "2640", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sint-Benedictusstraat"
     }, 
     {
@@ -817,9 +794,6 @@
       "street": "Sint-Benedictusstraat"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
         "18"
       ], 
@@ -1112,18 +1086,6 @@
       "street": "Sint-Benedictusstraat"
     }, 
     {
-      "hnrlbls": [
-        "143-314"
-      ], 
-      "housenumber": "314", 
-      "lat": 51.167272985203, 
-      "lon": 4.459958701889, 
-      "municipality": "Mortsel", 
-      "pcode": "2640", 
-      "source": "afgeleidVanStraat", 
-      "street": "Sint-Benedictusstraat"
-    }, 
-    {
       "busnrs": [
         "1", 
         "2"
@@ -1161,7 +1123,7 @@
         "6"
       ], 
       "hnrlbls": [
-        "34-34B"
+        "34"
       ], 
       "housenumber": "34", 
       "lat": 51.166637255563, 
@@ -1169,21 +1131,6 @@
       "municipality": "Mortsel", 
       "pcode": "2640", 
       "source": "afgeleidVanGebouw", 
-      "street": "Sint-Benedictusstraat"
-    }, 
-    {
-      "busnrs": [
-        "3"
-      ], 
-      "hnrlbls": [
-        "34-34B"
-      ], 
-      "housenumber": "34B", 
-      "lat": 51.166637255563, 
-      "lon": 4.461179385387, 
-      "municipality": "Mortsel", 
-      "pcode": "2640", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Sint-Benedictusstraat"
     }, 
     {
@@ -1223,11 +1170,9 @@
       "street": "Sint-Benedictusstraat"
     }, 
     {
-      "apptnrs": [
-        "1.0"
-      ], 
       "busnrs": [
         "1", 
+        "1.0", 
         "2"
       ], 
       "hnrlbls": [
@@ -1485,7 +1430,7 @@
         "1"
       ], 
       "hnrlbls": [
-        "6-6G"
+        "6"
       ], 
       "housenumber": "6", 
       "lat": 51.165726799628, 
@@ -1594,18 +1539,6 @@
       "municipality": "Mortsel", 
       "pcode": "2640", 
       "source": "afgeleidVanGebouw", 
-      "street": "Sint-Benedictusstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "6-6G"
-      ], 
-      "housenumber": "6G", 
-      "lat": 51.165726799628, 
-      "lon": 4.462652812258, 
-      "municipality": "Mortsel", 
-      "pcode": "2640", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Sint-Benedictusstraat"
     }, 
     {

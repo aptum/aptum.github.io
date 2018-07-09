@@ -1497,12 +1497,21 @@
       "street": "Rijksweg"
     }, 
     {
+      "apptnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0201", 
+        "0202"
+      ], 
       "hnrlbls": [
         "244"
       ], 
       "housenumber": "244", 
-      "lat": 50.906484109763, 
-      "lon": 3.377454857499, 
+      "lat": 50.906517261711, 
+      "lon": 3.377409653432, 
       "municipality": "Wielsbeke", 
       "pcode": "8710", 
       "source": "manueleAanduidingVanGebouw", 
@@ -2686,7 +2695,7 @@
         "1.02"
       ], 
       "hnrlbls": [
-        "364"
+        "364-366"
       ], 
       "housenumber": "364", 
       "lat": 50.912640864719, 
@@ -2706,6 +2715,23 @@
       "municipality": "Wielsbeke", 
       "pcode": "8710", 
       "source": "manueleAanduidingVanGebouw", 
+      "street": "Rijksweg"
+    }, 
+    {
+      "apptnrs": [
+        "1.01", 
+        "1.02", 
+        "2.02"
+      ], 
+      "hnrlbls": [
+        "364-366"
+      ], 
+      "housenumber": "366", 
+      "lat": 50.912640864719, 
+      "lon": 3.369369658462, 
+      "municipality": "Wielsbeke", 
+      "pcode": "8710", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -2848,6 +2874,7 @@
         "001", 
         "101", 
         "102", 
+        "2.02", 
         "201", 
         "202"
       ], 

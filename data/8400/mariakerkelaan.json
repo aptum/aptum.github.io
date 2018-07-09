@@ -406,6 +406,7 @@
       "busnrs": [
         "201", 
         "3", 
+        "301", 
         "4", 
         "401", 
         "402"
@@ -538,19 +539,18 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "2", 
-        "201"
+        "0101", 
+        "0201"
       ], 
       "hnrlbls": [
         "142"
       ], 
       "housenumber": "142", 
-      "lat": 51.211934492202, 
-      "lon": 2.905195475513, 
+      "lat": 51.211974125208, 
+      "lon": 2.905194375323, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Mariakerkelaan"
     }, 
     {
@@ -3451,8 +3451,10 @@
     }, 
     {
       "busnrs": [
+        "101", 
         "1L", 
         "2", 
+        "202", 
         "2L", 
         "2R"
       ], 

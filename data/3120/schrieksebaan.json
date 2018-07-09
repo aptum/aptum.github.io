@@ -89,11 +89,11 @@
         "105-107"
       ], 
       "housenumber": "105", 
-      "lat": 50.995856710566, 
-      "lon": 4.706297515507, 
+      "lat": 50.995855606874, 
+      "lon": 4.706243662647, 
       "municipality": "Tremelo", 
       "pcode": "3120", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Schrieksebaan"
     }, 
     {
@@ -113,11 +113,11 @@
         "105-107"
       ], 
       "housenumber": "107", 
-      "lat": 50.995856710566, 
-      "lon": 4.706297515507, 
+      "lat": 50.995855606874, 
+      "lon": 4.706243662647, 
       "municipality": "Tremelo", 
       "pcode": "3120", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Schrieksebaan"
     }, 
     {
@@ -209,11 +209,11 @@
         "114"
       ], 
       "housenumber": "114", 
-      "lat": 50.998104025368, 
-      "lon": 4.706636111194, 
+      "lat": 50.998096303358, 
+      "lon": 4.706726798351, 
       "municipality": "Tremelo", 
       "pcode": "3120", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Schrieksebaan"
     }, 
     {
@@ -648,11 +648,11 @@
     }, 
     {
       "hnrlbls": [
-        "150-150A"
+        "150"
       ], 
       "housenumber": "150", 
-      "lat": 51.000877848735, 
-      "lon": 4.706907316983, 
+      "lat": 51.000917966342, 
+      "lon": 4.706898347084, 
       "municipality": "Tremelo", 
       "pcode": "3120", 
       "source": "afgeleidVanGebouw", 
@@ -660,11 +660,11 @@
     }, 
     {
       "hnrlbls": [
-        "150-150A"
+        "150A"
       ], 
       "housenumber": "150A", 
-      "lat": 51.000877848735, 
-      "lon": 4.706907316983, 
+      "lat": 51.000846997182, 
+      "lon": 4.706913789568, 
       "municipality": "Tremelo", 
       "pcode": "3120", 
       "source": "afgeleidVanGebouw", 
@@ -723,11 +723,11 @@
         "155"
       ], 
       "housenumber": "155", 
-      "lat": 51.001985288321, 
-      "lon": 4.70635472501, 
+      "lat": 51.001977699475, 
+      "lon": 4.706305377178, 
       "municipality": "Tremelo", 
       "pcode": "3120", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Schrieksebaan"
     }, 
     {
@@ -1338,6 +1338,18 @@
     }, 
     {
       "hnrlbls": [
+        "236"
+      ], 
+      "housenumber": "236", 
+      "lat": 51.009367070293, 
+      "lon": 4.709356822443, 
+      "municipality": "Tremelo", 
+      "pcode": "3120", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "street": "Schrieksebaan"
+    }, 
+    {
+      "hnrlbls": [
         "238"
       ], 
       "housenumber": "238", 
@@ -1611,8 +1623,8 @@
         "28"
       ], 
       "housenumber": "28", 
-      "lat": 50.992670821469, 
-      "lon": 4.706462251786, 
+      "lat": 50.992655891251, 
+      "lon": 4.706496328867, 
       "municipality": "Tremelo", 
       "pcode": "3120", 
       "source": "afgeleidVanGebouw", 
@@ -1709,7 +1721,8 @@
     }, 
     {
       "busnrs": [
-        "101"
+        "101", 
+        "102"
       ], 
       "hnrlbls": [
         "34"
@@ -1751,8 +1764,8 @@
         "37"
       ], 
       "housenumber": "37", 
-      "lat": 50.992616623073, 
-      "lon": 4.705489728151, 
+      "lat": 50.992616169537, 
+      "lon": 4.705491149255, 
       "municipality": "Tremelo", 
       "pcode": "3120", 
       "source": "afgeleidVanGebouw", 
@@ -1847,8 +1860,8 @@
         "44"
       ], 
       "housenumber": "44", 
-      "lat": 50.993043724012, 
-      "lon": 4.706982707826, 
+      "lat": 50.993003199994, 
+      "lon": 4.707070299062, 
       "municipality": "Tremelo", 
       "pcode": "3120", 
       "source": "afgeleidVanGebouw", 
@@ -1859,8 +1872,8 @@
         "45"
       ], 
       "housenumber": "45", 
-      "lat": 50.992678741707, 
-      "lon": 4.705895836442, 
+      "lat": 50.992784449375, 
+      "lon": 4.705678526777, 
       "municipality": "Tremelo", 
       "pcode": "3120", 
       "source": "afgeleidVanGebouw", 
@@ -1895,8 +1908,8 @@
         "47"
       ], 
       "housenumber": "47", 
-      "lat": 50.99279921828, 
-      "lon": 4.705731904814, 
+      "lat": 50.992789687412, 
+      "lon": 4.705764027006, 
       "municipality": "Tremelo", 
       "pcode": "3120", 
       "source": "afgeleidVanGebouw", 
@@ -1955,8 +1968,8 @@
         "51"
       ], 
       "housenumber": "51", 
-      "lat": 50.992978104484, 
-      "lon": 4.706326163502, 
+      "lat": 50.99297818987, 
+      "lon": 4.706327730937, 
       "municipality": "Tremelo", 
       "pcode": "3120", 
       "source": "afgeleidVanGebouw", 
@@ -1979,8 +1992,8 @@
         "53"
       ], 
       "housenumber": "53", 
-      "lat": 50.993077425621, 
-      "lon": 4.706360780802, 
+      "lat": 50.993078773975, 
+      "lon": 4.706360790537, 
       "municipality": "Tremelo", 
       "pcode": "3120", 
       "source": "afgeleidVanGebouw", 
@@ -2091,8 +2104,8 @@
         "59-63"
       ], 
       "housenumber": "59", 
-      "lat": 50.993409340048, 
-      "lon": 4.706661872421, 
+      "lat": 50.99342505649, 
+      "lon": 4.706666971366, 
       "municipality": "Tremelo", 
       "pcode": "3120", 
       "source": "afgeleidVanGebouw", 
@@ -2119,7 +2132,7 @@
         "2"
       ], 
       "hnrlbls": [
-        "60-62"
+        "60"
       ], 
       "housenumber": "60", 
       "lat": 50.994282889394, 
@@ -2134,8 +2147,8 @@
         "59-63"
       ], 
       "housenumber": "61", 
-      "lat": 50.993409340048, 
-      "lon": 4.706661872421, 
+      "lat": 50.99342505649, 
+      "lon": 4.706666971366, 
       "municipality": "Tremelo", 
       "pcode": "3120", 
       "source": "afgeleidVanGebouw", 
@@ -2143,14 +2156,14 @@
     }, 
     {
       "hnrlbls": [
-        "60-62"
+        "62"
       ], 
       "housenumber": "62", 
-      "lat": 50.994282889394, 
-      "lon": 4.707231258089, 
+      "lat": 50.994607901199, 
+      "lon": 4.707057266148, 
       "municipality": "Tremelo", 
       "pcode": "3120", 
-      "source": "afgeleidVanGebouw", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Schrieksebaan"
     }, 
     {
@@ -2158,8 +2171,8 @@
         "59-63"
       ], 
       "housenumber": "63", 
-      "lat": 50.993409340048, 
-      "lon": 4.706661872421, 
+      "lat": 50.99342505649, 
+      "lon": 4.706666971366, 
       "municipality": "Tremelo", 
       "pcode": "3120", 
       "source": "afgeleidVanGebouw", 
@@ -2227,11 +2240,11 @@
     }, 
     {
       "hnrlbls": [
-        "69-71A"
+        "69"
       ], 
       "housenumber": "69", 
-      "lat": 50.993536684128, 
-      "lon": 4.707047949719, 
+      "lat": 50.993491256333, 
+      "lon": 4.707121547253, 
       "municipality": "Tremelo", 
       "pcode": "3120", 
       "source": "afgeleidVanGebouw", 
@@ -2275,7 +2288,7 @@
     }, 
     {
       "hnrlbls": [
-        "69-71A"
+        "71A"
       ], 
       "housenumber": "71A", 
       "lat": 50.993536684128, 
@@ -2410,8 +2423,8 @@
         "77"
       ], 
       "housenumber": "77", 
-      "lat": 50.99404583881, 
-      "lon": 4.706827430453, 
+      "lat": 50.994046758137, 
+      "lon": 4.706789120386, 
       "municipality": "Tremelo", 
       "pcode": "3120", 
       "source": "afgeleidVanGebouw", 
@@ -2494,8 +2507,8 @@
         "8"
       ], 
       "housenumber": "8", 
-      "lat": 50.992108109032, 
-      "lon": 4.705988863491, 
+      "lat": 50.992169493018, 
+      "lon": 4.705867951023, 
       "municipality": "Tremelo", 
       "pcode": "3120", 
       "source": "afgeleidVanGebouw", 
@@ -2609,8 +2622,8 @@
         "90"
       ], 
       "housenumber": "90", 
-      "lat": 50.996437427572, 
-      "lon": 4.707976902819, 
+      "lat": 50.996413053355, 
+      "lon": 4.707981569247, 
       "municipality": "Tremelo", 
       "pcode": "3120", 
       "source": "afgeleidVanGebouw", 

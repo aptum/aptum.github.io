@@ -2,14 +2,14 @@
   "addresses": [
     {
       "hnrlbls": [
-        "1-1"
+        "1"
       ], 
       "housenumber": "1", 
-      "lat": 51.222734810844, 
-      "lon": 4.498887201237, 
+      "lat": 51.22306434347, 
+      "lon": 4.49887080598, 
       "municipality": "Wijnegem", 
       "pcode": "2110", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "geinterpoleerdObvWegverbinding", 
       "street": "Turnhoutsebaan"
     }, 
     {
@@ -132,7 +132,7 @@
         "2.0"
       ], 
       "hnrlbls": [
-        "109"
+        "101-109"
       ], 
       "housenumber": "109", 
       "lat": 51.223838155438, 
@@ -2375,15 +2375,18 @@
       "street": "Turnhoutsebaan"
     }, 
     {
-      "apptnrs": [
-        "1.0"
+      "busnrs": [
+        "bus 1", 
+        "bus 2", 
+        "bus 3", 
+        "bus 4"
       ], 
       "hnrlbls": [
-        "276-278"
+        "276-278A"
       ], 
       "housenumber": "276", 
-      "lat": 51.226674548565, 
-      "lon": 4.515292026659, 
+      "lat": 51.226616530405, 
+      "lon": 4.51532662904, 
       "municipality": "Wijnegem", 
       "pcode": "2110", 
       "source": "afgeleidVanGebouw", 
@@ -2403,11 +2406,23 @@
     }, 
     {
       "hnrlbls": [
-        "276-278"
+        "276-278A"
       ], 
       "housenumber": "278", 
-      "lat": 51.226674548565, 
-      "lon": 4.515292026659, 
+      "lat": 51.226616530405, 
+      "lon": 4.51532662904, 
+      "municipality": "Wijnegem", 
+      "pcode": "2110", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Turnhoutsebaan"
+    }, 
+    {
+      "hnrlbls": [
+        "276-278A"
+      ], 
+      "housenumber": "278A", 
+      "lat": 51.226616530405, 
+      "lon": 4.51532662904, 
       "municipality": "Wijnegem", 
       "pcode": "2110", 
       "source": "afgeleidVanGebouw", 
@@ -2477,6 +2492,9 @@
         "3.0"
       ], 
       "busnrs": [
+        "1", 
+        "2", 
+        "3", 
         "glvl"
       ], 
       "hnrlbls": [
@@ -2573,8 +2591,8 @@
         "290-292"
       ], 
       "housenumber": "290", 
-      "lat": 51.226816400008, 
-      "lon": 4.515856633675, 
+      "lat": 51.226730658687, 
+      "lon": 4.515850349523, 
       "municipality": "Wijnegem", 
       "pcode": "2110", 
       "source": "afgeleidVanGebouw", 
@@ -2600,8 +2618,8 @@
         "290-292"
       ], 
       "housenumber": "292", 
-      "lat": 51.226816400008, 
-      "lon": 4.515856633675, 
+      "lat": 51.226730658687, 
+      "lon": 4.515850349523, 
       "municipality": "Wijnegem", 
       "pcode": "2110", 
       "source": "afgeleidVanGebouw", 
@@ -2624,11 +2642,11 @@
         "294"
       ], 
       "housenumber": "294", 
-      "lat": 51.226744876809, 
-      "lon": 4.515980948328, 
+      "lat": 51.226679816012, 
+      "lon": 4.5160407221, 
       "municipality": "Wijnegem", 
       "pcode": "2110", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Turnhoutsebaan"
     }, 
     {
@@ -4012,11 +4030,11 @@
         "398"
       ], 
       "housenumber": "398", 
-      "lat": 51.227639168752, 
-      "lon": 4.521315691492, 
+      "lat": 51.228045310214, 
+      "lon": 4.52190296018, 
       "municipality": "Wijnegem", 
       "pcode": "2110", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Turnhoutsebaan"
     }, 
     {
@@ -4364,8 +4382,9 @@
       "street": "Turnhoutsebaan"
     }, 
     {
-      "apptnrs": [
-        "1.0"
+      "busnrs": [
+        "bus 1", 
+        "bus 2"
       ], 
       "hnrlbls": [
         "424"
@@ -4522,6 +4541,7 @@
         "1.0"
       ], 
       "busnrs": [
+        "1", 
         "2", 
         "glvl"
       ], 
@@ -5206,11 +5226,11 @@
         "484"
       ], 
       "housenumber": "484", 
-      "lat": 51.22852281863, 
-      "lon": 4.528365046506, 
+      "lat": 51.228536326778, 
+      "lon": 4.528213490143, 
       "municipality": "Wijnegem", 
       "pcode": "2110", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Turnhoutsebaan"
     }, 
     {
@@ -5234,8 +5254,8 @@
         "486"
       ], 
       "housenumber": "486", 
-      "lat": 51.228531692221, 
-      "lon": 4.528515964033, 
+      "lat": 51.228531170604, 
+      "lon": 4.528370372017, 
       "municipality": "Wijnegem", 
       "pcode": "2110", 
       "source": "afgeleidVanGebouw", 
@@ -5267,11 +5287,11 @@
         "488"
       ], 
       "housenumber": "488", 
-      "lat": 51.228513762692, 
-      "lon": 4.528547396755, 
+      "lat": 51.228531692221, 
+      "lon": 4.528515964033, 
       "municipality": "Wijnegem", 
       "pcode": "2110", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Turnhoutsebaan"
     }, 
     {
@@ -5739,6 +5759,7 @@
       ], 
       "busnrs": [
         "1", 
+        "2", 
         "3"
       ], 
       "hnrlbls": [
@@ -6563,11 +6584,11 @@
         "575"
       ], 
       "housenumber": "575", 
-      "lat": 51.228121389226, 
-      "lon": 4.54283609754, 
+      "lat": 51.228221351803, 
+      "lon": 4.542767328105, 
       "municipality": "Wijnegem", 
       "pcode": "2110", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Turnhoutsebaan"
     }, 
     {
@@ -6583,15 +6604,41 @@
       "street": "Turnhoutsebaan"
     }, 
     {
-      "hnrlbls": [
-        "577"
+      "busnrs": [
+        "bus 1", 
+        "bus 2", 
+        "bus 3", 
+        "bus 4", 
+        "bus 5"
       ], 
-      "housenumber": "577", 
-      "lat": 51.228186267818, 
-      "lon": 4.543030316553, 
+      "hnrlbls": [
+        "577A"
+      ], 
+      "housenumber": "577A", 
+      "lat": 51.228246288092, 
+      "lon": 4.542923747627, 
       "municipality": "Wijnegem", 
       "pcode": "2110", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Turnhoutsebaan"
+    }, 
+    {
+      "busnrs": [
+        "bus 1", 
+        "bus 2", 
+        "bus 3", 
+        "bus 4", 
+        "bus 5"
+      ], 
+      "hnrlbls": [
+        "577B"
+      ], 
+      "housenumber": "577B", 
+      "lat": 51.228233342622, 
+      "lon": 4.54316820902, 
+      "municipality": "Wijnegem", 
+      "pcode": "2110", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Turnhoutsebaan"
     }, 
     {

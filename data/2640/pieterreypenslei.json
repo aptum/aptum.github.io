@@ -5,14 +5,14 @@
         "2"
       ], 
       "hnrlbls": [
-        "1-2"
+        "1"
       ], 
       "housenumber": "1", 
-      "lat": 51.170350895608, 
-      "lon": 4.453557492824, 
+      "lat": 51.170152810738, 
+      "lon": 4.453649636318, 
       "municipality": "Mortsel", 
       "pcode": "2640", 
-      "source": "geinterpoleerdObvWegverbinding", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Pieter Reypenslei"
     }, 
     {
@@ -160,14 +160,14 @@
         "3"
       ], 
       "hnrlbls": [
-        "1-2"
+        "2"
       ], 
       "housenumber": "2", 
-      "lat": 51.170350895608, 
-      "lon": 4.453557492824, 
+      "lat": 51.170187516214, 
+      "lon": 4.453387908348, 
       "municipality": "Mortsel", 
       "pcode": "2640", 
-      "source": "geinterpoleerdObvWegverbinding", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Pieter Reypenslei"
     }, 
     {
@@ -183,18 +183,6 @@
       "municipality": "Mortsel", 
       "pcode": "2640", 
       "source": "afgeleidVanGebouw", 
-      "street": "Pieter Reypenslei"
-    }, 
-    {
-      "hnrlbls": [
-        "22"
-      ], 
-      "housenumber": "22", 
-      "lat": 51.169791079813, 
-      "lon": 4.453070205501, 
-      "municipality": "Mortsel", 
-      "pcode": "2640", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Pieter Reypenslei"
     }, 
     {
@@ -250,11 +238,11 @@
         "27"
       ], 
       "housenumber": "27", 
-      "lat": 51.169398699773, 
-      "lon": 4.453484118359, 
+      "lat": 51.169518100976, 
+      "lon": 4.453314053231, 
       "municipality": "Mortsel", 
       "pcode": "2640", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Pieter Reypenslei"
     }, 
     {
@@ -305,11 +293,11 @@
         "30"
       ], 
       "housenumber": "30", 
-      "lat": 51.169770384535, 
-      "lon": 4.452599347472, 
+      "lat": 51.169632395915, 
+      "lon": 4.45286975055, 
       "municipality": "Mortsel", 
       "pcode": "2640", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Pieter Reypenslei"
     }, 
     {
@@ -407,11 +395,6 @@
       "street": "Pieter Reypenslei"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "glvl"
-      ], 
       "hnrlbls": [
         "38"
       ], 
@@ -488,14 +471,17 @@
         "42"
       ], 
       "housenumber": "42", 
-      "lat": 51.16958200375, 
-      "lon": 4.452194242568, 
+      "lat": 51.169354305945, 
+      "lon": 4.452470488487, 
       "municipality": "Mortsel", 
       "pcode": "2640", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Pieter Reypenslei"
     }, 
     {
+      "busnrs": [
+        "glvl"
+      ], 
       "hnrlbls": [
         "43"
       ], 
@@ -645,14 +631,14 @@
         "3"
       ], 
       "hnrlbls": [
-        "45-56"
+        "56"
       ], 
       "housenumber": "56", 
-      "lat": 51.169168963783, 
-      "lon": 4.451962880631, 
+      "lat": 51.169130850282, 
+      "lon": 4.452218306937, 
       "municipality": "Mortsel", 
       "pcode": "2640", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Pieter Reypenslei"
     }, 
     {
@@ -709,7 +695,8 @@
     }, 
     {
       "busnrs": [
-        "1"
+        "1", 
+        "glvl"
       ], 
       "hnrlbls": [
         "60"
@@ -944,10 +931,8 @@
       "street": "Pieter Reypenslei"
     }, 
     {
-      "apptnrs": [
-        "0.0"
-      ], 
       "busnrs": [
+        "0.0", 
         "1", 
         "2", 
         "3"

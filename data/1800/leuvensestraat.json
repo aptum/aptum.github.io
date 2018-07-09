@@ -166,6 +166,9 @@
     {
       "apptnrs": [
         "0", 
+        "01/1", 
+        "02/1", 
+        "03/1", 
         "1", 
         "2", 
         "3"
@@ -419,14 +422,12 @@
       "street": "Leuvensestraat"
     }, 
     {
-      "apptnrs": [
-        "0/1", 
-        "0/2", 
-        "2/2"
-      ], 
       "busnrs": [
-        "22", 
-        "O/02"
+        "00/1", 
+        "00/2", 
+        "0001", 
+        "02/1", 
+        "02/2"
       ], 
       "hnrlbls": [
         "125"
@@ -842,56 +843,43 @@
       "street": "Leuvensestraat"
     }, 
     {
-      "apptnrs": [
-        "1", 
-        "2", 
-        "B1/1", 
-        "B1/2", 
-        "B2/1", 
-        "B2/2", 
-        "B3/1", 
-        "B3/2"
-      ], 
-      "hnrlbls": [
-        "152"
-      ], 
-      "housenumber": "152", 
-      "lat": 50.927552996884, 
-      "lon": 4.431852370719, 
-      "municipality": "Vilvoorde", 
-      "pcode": "1800", 
-      "source": "manueleAanduidingVanIngangVanGebouw", 
-      "street": "Leuvensestraat"
-    }, 
-    {
-      "apptnrs": [
-        "2", 
-        "3"
+      "busnrs": [
+        "00/1", 
+        "01/1", 
+        "02/1", 
+        "03/1"
       ], 
       "hnrlbls": [
         "152A"
       ], 
       "housenumber": "152A", 
-      "lat": 50.927556704208, 
-      "lon": 4.431977829729, 
+      "lat": 50.927484280707, 
+      "lon": 4.431922116089, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
-      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Leuvensestraat"
     }, 
     {
-      "apptnrs": [
-        "4"
+      "busnrs": [
+        "00/1", 
+        "01/1", 
+        "01/2", 
+        "02/1", 
+        "02/2", 
+        "03/1", 
+        "03/2", 
+        "04"
       ], 
       "hnrlbls": [
         "152B"
       ], 
       "housenumber": "152B", 
-      "lat": 50.92756798194, 
-      "lon": 4.43206745509, 
+      "lat": 50.927508826624, 
+      "lon": 4.432077900011, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
-      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Leuvensestraat"
     }, 
     {
@@ -1549,6 +1537,11 @@
       "street": "Leuvensestraat"
     }, 
     {
+      "busnrs": [
+        "00/1", 
+        "01/1", 
+        "02/1"
+      ], 
       "hnrlbls": [
         "32"
       ], 
@@ -2412,40 +2405,38 @@
       "street": "Leuvensestraat"
     }, 
     {
-      "apptnrs": [
-        "0", 
-        "2", 
-        "3"
-      ], 
       "busnrs": [
-        "01/1"
+        "01/1", 
+        "02/1", 
+        "O000"
       ], 
       "hnrlbls": [
         "95"
       ], 
       "housenumber": "95", 
-      "lat": 50.927609926192, 
-      "lon": 4.430123542529, 
+      "lat": 50.927608667916, 
+      "lon": 4.430123114151, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "afgeleidVanGebouw", 
       "street": "Leuvensestraat"
     }, 
     {
-      "apptnrs": [
-        "1", 
-        "2", 
-        "3"
+      "busnrs": [
+        "00/1", 
+        "01/1", 
+        "02", 
+        "03"
       ], 
       "hnrlbls": [
         "95A"
       ], 
       "housenumber": "95A", 
-      "lat": 50.927703966962, 
-      "lon": 4.430269603607, 
+      "lat": 50.927705406078, 
+      "lon": 4.430268040891, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "afgeleidVanGebouw", 
       "street": "Leuvensestraat"
     }, 
     {
