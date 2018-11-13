@@ -1,7 +1,7 @@
 CRAB-import
 ===========
 
-With the HTML-page 'index.html', data from the AGIV-CRAB-adressenlijst dataset can be imported into JOSM on a per postcode / per street basis. The up-to-date version of the tool is found at http://aptum.bitless.be/
+With the HTML-page 'index.html', data from the AGIV-CRAB-adressenlijst dataset can be imported into JOSM on a per postcode / per street basis. The up-to-date version of the tool is found at http://crab-import.osm.be/
 
 The JSON-files in the data folder are derived from the AGIV-CRAB-adressenlijst dataset using the python import script `extract.py`. So they fall under the Free Open Data License Flanders v1.0.
 
