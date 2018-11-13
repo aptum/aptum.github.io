@@ -11,9 +11,10 @@ DATA Update
 Updating the data is rather simple, but you have to make sure that all the removed streetnames are actually gone, and that the new streetnames are added.
 
 1. Make sure this git repo is updated (`git pull`)
-2. First download the shapefile from https://download.agiv.be/Producten/Detail?id=447
+2. First download the shapefile from https://download.vlaanderen.be/Producten/Detail?id=447&title=CRAB_Adressenlijst
+   try:
   ```
-  try wget https://downloadagiv.blob.core.windows.net/crab-adressenlijst/Shapefile/CRAB_Adressenlijst.zip
+  wget https://downloadagiv.blob.core.windows.net/crab-adressenlijst/Shapefile/CRAB_Adressenlijst.zip
   ```
 3. Extract the zip on your computer, you need the entire Shapefile directory together (so not only the .shp file).
 4. Delete the `data` directory (`rm -r data`) to remove the old streets
