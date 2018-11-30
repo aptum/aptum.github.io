@@ -65,7 +65,7 @@
       "lon": 3.567177166288, 
       "municipality": "Zomergem", 
       "pcode": "9930", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Dreef"
     }, 
     {
@@ -329,8 +329,8 @@
         "25"
       ], 
       "housenumber": "25", 
-      "lat": 51.118886613789, 
-      "lon": 3.562173409977, 
+      "lat": 51.118881631125, 
+      "lon": 3.562180923001, 
       "municipality": "Zomergem", 
       "pcode": "9930", 
       "source": "afgeleidVanGebouw", 
@@ -396,8 +396,8 @@
         "3"
       ], 
       "housenumber": "3", 
-      "lat": 51.118630076619, 
-      "lon": 3.561163184022, 
+      "lat": 51.118640741305, 
+      "lon": 3.561171569556, 
       "municipality": "Zomergem", 
       "pcode": "9930", 
       "source": "afgeleidVanGebouw", 
@@ -505,8 +505,8 @@
         "39"
       ], 
       "housenumber": "39", 
-      "lat": 51.119209919547, 
-      "lon": 3.562970966012, 
+      "lat": 51.119210818367, 
+      "lon": 3.562970950527, 
       "municipality": "Zomergem", 
       "pcode": "9930", 
       "source": "afgeleidVanGebouw", 
@@ -601,8 +601,8 @@
         "47"
       ], 
       "housenumber": "47", 
-      "lat": 51.120161096141, 
-      "lon": 3.565415012929, 
+      "lat": 51.120159111935, 
+      "lon": 3.565414047183, 
       "municipality": "Zomergem", 
       "pcode": "9930", 
       "source": "afgeleidVanGebouw", 
@@ -719,11 +719,11 @@
         "52-52B"
       ], 
       "housenumber": "52", 
-      "lat": 51.119064741778, 
-      "lon": 3.564025262047, 
+      "lat": 51.119063300746, 
+      "lon": 3.564024858354, 
       "municipality": "Zomergem", 
       "pcode": "9930", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Dreef"
     }, 
     {
@@ -731,11 +731,11 @@
         "52-52B"
       ], 
       "housenumber": "52A", 
-      "lat": 51.119064741778, 
-      "lon": 3.564025262047, 
+      "lat": 51.119063300746, 
+      "lon": 3.564024858354, 
       "municipality": "Zomergem", 
       "pcode": "9930", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Dreef"
     }, 
     {
@@ -743,11 +743,11 @@
         "52-52B"
       ], 
       "housenumber": "52B", 
-      "lat": 51.119064741778, 
-      "lon": 3.564025262047, 
+      "lat": 51.119063300746, 
+      "lon": 3.564024858354, 
       "municipality": "Zomergem", 
       "pcode": "9930", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Dreef"
     }, 
     {
@@ -1164,7 +1164,7 @@
     }, 
     {
       "hnrlbls": [
-        "82"
+        "82-82E"
       ], 
       "housenumber": "82", 
       "lat": 51.119438577952, 
@@ -1224,31 +1224,50 @@
     }, 
     {
       "hnrlbls": [
+        "82-82E"
+      ], 
+      "housenumber": "82E", 
+      "lat": 51.119438577952, 
+      "lon": 3.56616085716, 
+      "municipality": "Zomergem", 
+      "pcode": "9930", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Dreef"
+    }, 
+    {
+      "apptnrs": [
+        "A", 
+        "B", 
+        "C", 
+        "D", 
+        "E"
+      ], 
+      "hnrlbls": [
         "84"
       ], 
       "housenumber": "84", 
-      "lat": 51.119537216819, 
-      "lon": 3.566310279321, 
+      "lat": 51.119537560818, 
+      "lon": 3.566307988128, 
       "municipality": "Zomergem", 
       "pcode": "9930", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Dreef"
     }, 
     {
       "hnrlbls": [
-        "84A-84E"
+        "84A"
       ], 
       "housenumber": "84A", 
-      "lat": 51.119451340197, 
-      "lon": 3.566358886759, 
+      "lat": 51.119517468, 
+      "lon": 3.566314331752, 
       "municipality": "Zomergem", 
       "pcode": "9930", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Dreef"
     }, 
     {
       "hnrlbls": [
-        "84A-84E"
+        "84B-84E"
       ], 
       "housenumber": "84B", 
       "lat": 51.119451340197, 
@@ -1260,7 +1279,7 @@
     }, 
     {
       "hnrlbls": [
-        "84A-84E"
+        "84B-84E"
       ], 
       "housenumber": "84C", 
       "lat": 51.119451340197, 
@@ -1272,7 +1291,7 @@
     }, 
     {
       "hnrlbls": [
-        "84A-84E"
+        "84B-84E"
       ], 
       "housenumber": "84D", 
       "lat": 51.119451340197, 
@@ -1284,7 +1303,7 @@
     }, 
     {
       "hnrlbls": [
-        "84A-84E"
+        "84B-84E"
       ], 
       "housenumber": "84E", 
       "lat": 51.119451340197, 

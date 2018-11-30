@@ -46,15 +46,39 @@
       "street": "Diesterstraat"
     }, 
     {
-      "hnrlbls": [
-        "13"
+      "busnrs": [
+        "0.01", 
+        "1.01", 
+        "2.01"
       ], 
-      "housenumber": "13", 
-      "lat": 50.930421862673, 
-      "lon": 5.333461314199, 
+      "hnrlbls": [
+        "13A-13B"
+      ], 
+      "housenumber": "13A", 
+      "lat": 50.930538643274, 
+      "lon": 5.333603557635, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Diesterstraat"
+    }, 
+    {
+      "busnrs": [
+        "0.01", 
+        "0.02", 
+        "1.01", 
+        "1.02"
+      ], 
+      "hnrlbls": [
+        "13B", 
+        "13A-13B"
+      ], 
+      "housenumber": "13B", 
+      "lat": 50.930538643274, 
+      "lon": 5.333603557635, 
+      "municipality": "Hasselt", 
+      "pcode": "3500", 
+      "source": "afgeleidVanGebouw", 
       "street": "Diesterstraat"
     }, 
     {

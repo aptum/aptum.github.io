@@ -172,11 +172,11 @@
         "114"
       ], 
       "housenumber": "114", 
-      "lat": 50.86271414083, 
-      "lon": 4.507587727962, 
+      "lat": 50.862878196482, 
+      "lon": 4.50751421093, 
       "municipality": "Zaventem", 
       "pcode": "1933", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Tramlaan"
     }, 
     {
@@ -1095,8 +1095,12 @@
       "street": "Tramlaan"
     }, 
     {
+      "apptnrs": [
+        "X001", 
+        "X011"
+      ], 
       "hnrlbls": [
-        "225"
+        "225-225X"
       ], 
       "housenumber": "225", 
       "lat": 50.863157473922, 
@@ -1104,6 +1108,21 @@
       "municipality": "Zaventem", 
       "pcode": "1933", 
       "source": "afgeleidVanGebouw", 
+      "street": "Tramlaan"
+    }, 
+    {
+      "busnrs": [
+        "1"
+      ], 
+      "hnrlbls": [
+        "225-225X"
+      ], 
+      "housenumber": "225X", 
+      "lat": 50.863157473922, 
+      "lon": 4.498226543516, 
+      "municipality": "Zaventem", 
+      "pcode": "1933", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Tramlaan"
     }, 
     {
@@ -2239,8 +2258,8 @@
         "452"
       ], 
       "housenumber": "452", 
-      "lat": 50.861911598502, 
-      "lon": 4.482002891536, 
+      "lat": 50.86189586239, 
+      "lon": 4.482007540683, 
       "municipality": "Zaventem", 
       "pcode": "1933", 
       "source": "afgeleidVanPerceelGrb", 
@@ -2540,11 +2559,11 @@
         "9"
       ], 
       "housenumber": "9", 
-      "lat": 50.86330830658, 
-      "lon": 4.515055740235, 
+      "lat": 50.863345258746, 
+      "lon": 4.515051452463, 
       "municipality": "Zaventem", 
       "pcode": "1933", 
-      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Tramlaan"
     }, 
     {
@@ -2668,11 +2687,11 @@
         "9A"
       ], 
       "housenumber": "9A", 
-      "lat": 50.863306929675, 
-      "lon": 4.51515019506, 
+      "lat": 50.863345137875, 
+      "lon": 4.515147899908, 
       "municipality": "Zaventem", 
       "pcode": "1933", 
-      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Tramlaan"
     }, 
     {
@@ -2680,11 +2699,11 @@
         "9B"
       ], 
       "housenumber": "9B", 
-      "lat": 50.863302778959, 
-      "lon": 4.51494734353, 
+      "lat": 50.863340371585, 
+      "lon": 4.514934108908, 
       "municipality": "Zaventem", 
       "pcode": "1933", 
-      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Tramlaan"
     }
   ]

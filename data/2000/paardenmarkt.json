@@ -1,6 +1,12 @@
 {
   "addresses": [
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -37,8 +43,18 @@
       "street": "Paardenmarkt"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "002", 
+        "003", 
+        "101", 
+        "102", 
+        "201", 
+        "202", 
+        "301"
+      ], 
       "hnrlbls": [
-        "100-102"
+        "100"
       ], 
       "housenumber": "100", 
       "lat": 51.224480770034, 
@@ -57,19 +73,7 @@
       "lon": 4.412370686019, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Paardenmarkt"
-    }, 
-    {
-      "hnrlbls": [
-        "100-102"
-      ], 
-      "housenumber": "102", 
-      "lat": 51.224480770034, 
-      "lon": 4.413836568403, 
-      "municipality": "Antwerpen", 
-      "pcode": "2000", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Paardenmarkt"
     }, 
     {
@@ -82,11 +86,11 @@
         "103"
       ], 
       "housenumber": "103", 
-      "lat": 51.225128376632, 
-      "lon": 4.412436951995, 
+      "lat": 51.225126938815, 
+      "lon": 4.412436091752, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Paardenmarkt"
     }, 
     {
@@ -503,8 +507,8 @@
         "13"
       ], 
       "housenumber": "13", 
-      "lat": 51.225248397976, 
-      "lon": 4.407814303821, 
+      "lat": 51.225183767796, 
+      "lon": 4.407825557243, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
@@ -581,23 +585,22 @@
       "street": "Paardenmarkt"
     }, 
     {
-      "apptnrs": [
-        "101", 
-        "201", 
-        "301"
-      ], 
       "hnrlbls": [
         "18"
       ], 
       "housenumber": "18", 
-      "lat": 51.224810325791, 
-      "lon": 4.408283445303, 
+      "lat": 51.224892925901, 
+      "lon": 4.408292391561, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
       "street": "Paardenmarkt"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101"
+      ], 
       "hnrlbls": [
         "19"
       ], 
@@ -763,6 +766,12 @@
       "street": "Paardenmarkt"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "102", 
+        "201", 
+        "401"
+      ], 
       "hnrlbls": [
         "29"
       ], 
@@ -1378,8 +1387,8 @@
         "66"
       ], 
       "housenumber": "66", 
-      "lat": 51.224433660609, 
-      "lon": 4.410988535667, 
+      "lat": 51.224434738746, 
+      "lon": 4.410989824953, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
@@ -1390,8 +1399,8 @@
         "67"
       ], 
       "housenumber": "67", 
-      "lat": 51.225343873461, 
-      "lon": 4.4103505111, 
+      "lat": 51.225292840602, 
+      "lon": 4.41029148853, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
@@ -1402,8 +1411,8 @@
         "68"
       ], 
       "housenumber": "68", 
-      "lat": 51.2248331077, 
-      "lon": 4.411470729184, 
+      "lat": 51.224834095212, 
+      "lon": 4.411474022436, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
@@ -1450,8 +1459,8 @@
         "70"
       ], 
       "housenumber": "70", 
-      "lat": 51.224798953085, 
-      "lon": 4.411711610067, 
+      "lat": 51.22479805467, 
+      "lon": 4.411710464068, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
@@ -1470,6 +1479,10 @@
       "street": "Paardenmarkt"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101"
+      ], 
       "hnrlbls": [
         "72"
       ], 
@@ -1627,11 +1640,11 @@
         "81-83"
       ], 
       "housenumber": "81", 
-      "lat": 51.225340576599, 
-      "lon": 4.411018572609, 
+      "lat": 51.225340666483, 
+      "lon": 4.411018572692, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Paardenmarkt"
     }, 
     {
@@ -1658,11 +1671,11 @@
         "81-83"
       ], 
       "housenumber": "83", 
-      "lat": 51.225340576599, 
-      "lon": 4.411018572609, 
+      "lat": 51.225340666483, 
+      "lon": 4.411018572692, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Paardenmarkt"
     }, 
     {
@@ -1777,11 +1790,11 @@
         "89"
       ], 
       "housenumber": "89", 
-      "lat": 51.225231753671, 
-      "lon": 4.411683386066, 
+      "lat": 51.225144606654, 
+      "lon": 4.411817861627, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Paardenmarkt"
     }, 
     {
@@ -1801,11 +1814,11 @@
         "90-90A"
       ], 
       "housenumber": "90", 
-      "lat": 51.224560355014, 
-      "lon": 4.412798279523, 
+      "lat": 51.22467252171, 
+      "lon": 4.412820001961, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Paardenmarkt"
     }, 
     {
@@ -1813,11 +1826,11 @@
         "90-90A"
       ], 
       "housenumber": "90A", 
-      "lat": 51.224560355014, 
-      "lon": 4.412798279523, 
+      "lat": 51.22467252171, 
+      "lon": 4.412820001961, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Paardenmarkt"
     }, 
     {
@@ -1993,7 +2006,7 @@
       "lon": 4.412302840034, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Paardenmarkt"
     }
   ]

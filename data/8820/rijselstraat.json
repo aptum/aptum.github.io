@@ -418,8 +418,8 @@
         "133"
       ], 
       "housenumber": "133", 
-      "lat": 51.056637987023, 
-      "lon": 3.103154789336, 
+      "lat": 51.056638166775, 
+      "lon": 3.103154784477, 
       "municipality": "Torhout", 
       "pcode": "8820", 
       "source": "afgeleidVanGebouw", 
@@ -442,8 +442,8 @@
         "135"
       ], 
       "housenumber": "135", 
-      "lat": 51.056494812135, 
-      "lon": 3.102698040885, 
+      "lat": 51.056497780081, 
+      "lon": 3.102706519662, 
       "municipality": "Torhout", 
       "pcode": "8820", 
       "source": "afgeleidVanPerceelGrb", 
@@ -977,7 +977,8 @@
         "V4", 
         "V5", 
         "V6", 
-        "V7"
+        "V7", 
+        "V8"
       ], 
       "hnrlbls": [
         "18"
@@ -1111,11 +1112,11 @@
         "2"
       ], 
       "housenumber": "2", 
-      "lat": 51.062912490534, 
-      "lon": 3.103309863443, 
+      "lat": 51.063153192075, 
+      "lon": 3.103187364903, 
       "municipality": "Torhout", 
       "pcode": "8820", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "geinterpoleerdObvWegverbinding", 
       "street": "Rijselstraat"
     }, 
     {
@@ -1394,11 +1395,11 @@
         "37"
       ], 
       "housenumber": "37", 
-      "lat": 51.061202368049, 
-      "lon": 3.102480700161, 
+      "lat": 51.061367974819, 
+      "lon": 3.101811969737, 
       "municipality": "Torhout", 
       "pcode": "8820", 
-      "source": "geinterpoleerdObvWegverbinding", 
+      "source": "afgeleidVanGebouw", 
       "street": "Rijselstraat"
     }, 
     {
@@ -1737,25 +1738,23 @@
       "street": "Rijselstraat"
     }, 
     {
-      "apptnrs": [
-        "V1", 
-        "V2", 
-        "V3", 
-        "V4", 
-        "V5", 
-        "V6", 
-        "V7", 
-        "V8"
+      "busnrs": [
+        "V001", 
+        "V002", 
+        "V003", 
+        "V004", 
+        "V005", 
+        "V006"
       ], 
       "hnrlbls": [
-        "6-6A"
+        "6"
       ], 
       "housenumber": "6", 
-      "lat": 51.062774800714, 
-      "lon": 3.103179618766, 
+      "lat": 51.062776461356, 
+      "lon": 3.103183568623, 
       "municipality": "Torhout", 
       "pcode": "8820", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Rijselstraat"
     }, 
     {
@@ -1880,7 +1879,7 @@
     }, 
     {
       "hnrlbls": [
-        "6-6A"
+        "6A"
       ], 
       "housenumber": "6A", 
       "lat": 51.062774800714, 
@@ -1939,15 +1938,18 @@
       "street": "Rijselstraat"
     }, 
     {
+      "apptnrs": [
+        "V4"
+      ], 
       "hnrlbls": [
         "73"
       ], 
       "housenumber": "73", 
-      "lat": 51.059741511829, 
-      "lon": 3.10214273576, 
+      "lat": 51.059768066764, 
+      "lon": 3.102463859678, 
       "municipality": "Torhout", 
       "pcode": "8820", 
-      "source": "afgeleidVanGebouw", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Rijselstraat"
     }, 
     {
@@ -2080,8 +2082,8 @@
         "81A"
       ], 
       "housenumber": "81A", 
-      "lat": 51.059311869035, 
-      "lon": 3.102301727388, 
+      "lat": 51.059308781115, 
+      "lon": 3.102323923108, 
       "municipality": "Torhout", 
       "pcode": "8820", 
       "source": "afgeleidVanPerceelKadaster", 
@@ -2198,7 +2200,8 @@
     }, 
     {
       "apptnrs": [
-        "V6"
+        "V6", 
+        "V8"
       ], 
       "hnrlbls": [
         "9"

@@ -275,9 +275,6 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "2", 
-        "3", 
         "BU01", 
         "BU02", 
         "BU03", 
@@ -297,11 +294,11 @@
         "26"
       ], 
       "housenumber": "26", 
-      "lat": 50.969134631354, 
-      "lon": 5.502991582483, 
+      "lat": 50.969096071457, 
+      "lon": 5.503000046109, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Bochtlaan"
     }, 
     {
@@ -367,7 +364,8 @@
     }, 
     {
       "busnrs": [
-        "11"
+        "11", 
+        "31"
       ], 
       "hnrlbls": [
         "31"
@@ -382,9 +380,9 @@
     }, 
     {
       "hnrlbls": [
-        "32A"
+        "32"
       ], 
-      "housenumber": "32A", 
+      "housenumber": "32", 
       "lat": 50.969320944684, 
       "lon": 5.502913369413, 
       "municipality": "Genk", 
@@ -394,14 +392,26 @@
     }, 
     {
       "hnrlbls": [
-        "32B"
+        "32A"
       ], 
-      "housenumber": "32B", 
-      "lat": 50.969375621974, 
-      "lon": 5.502920957799, 
+      "housenumber": "32A", 
+      "lat": 50.969383613004, 
+      "lon": 5.502875446776, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "manueleAanduidingVanGebouw", 
+      "street": "Bochtlaan"
+    }, 
+    {
+      "hnrlbls": [
+        "32B"
+      ], 
+      "housenumber": "32B", 
+      "lat": 50.969447604215, 
+      "lon": 5.502830864118, 
+      "municipality": "Genk", 
+      "pcode": "3600", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Bochtlaan"
     }, 
     {
@@ -448,8 +458,8 @@
         "36"
       ], 
       "housenumber": "36", 
-      "lat": 50.970028414113, 
-      "lon": 5.502537802097, 
+      "lat": 50.970028091669, 
+      "lon": 5.50253394994, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
@@ -626,6 +636,8 @@
     {
       "busnrs": [
         "21", 
+        "32", 
+        "51", 
         "BU11", 
         "BU12", 
         "BU21", 

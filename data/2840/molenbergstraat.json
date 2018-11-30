@@ -2,18 +2,6 @@
   "addresses": [
     {
       "hnrlbls": [
-        "1"
-      ], 
-      "housenumber": "1", 
-      "lat": 51.079151370185, 
-      "lon": 4.422712764644, 
-      "municipality": "Rumst", 
-      "pcode": "2840", 
-      "source": "afgeleidVanStraat", 
-      "street": "Molenbergstraat"
-    }, 
-    {
-      "hnrlbls": [
         "10"
       ], 
       "housenumber": "10", 
@@ -147,8 +135,8 @@
         "13"
       ], 
       "housenumber": "13", 
-      "lat": 51.077468464216, 
-      "lon": 4.423122755607, 
+      "lat": 51.077516024462, 
+      "lon": 4.42329532871, 
       "municipality": "Rumst", 
       "pcode": "2840", 
       "source": "afgeleidVanGebouw", 
@@ -483,7 +471,7 @@
     }, 
     {
       "hnrlbls": [
-        "38-40"
+        "38"
       ], 
       "housenumber": "38", 
       "lat": 51.078137443373, 
@@ -521,18 +509,6 @@
       "housenumber": "4", 
       "lat": 51.077385345949, 
       "lon": 4.423826422887, 
-      "municipality": "Rumst", 
-      "pcode": "2840", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Molenbergstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "38-40"
-      ], 
-      "housenumber": "40", 
-      "lat": 51.078137443373, 
-      "lon": 4.423447034864, 
       "municipality": "Rumst", 
       "pcode": "2840", 
       "source": "afgeleidVanGebouw", 
@@ -582,6 +558,18 @@
       "municipality": "Rumst", 
       "pcode": "2840", 
       "source": "afgeleidVanGebouw", 
+      "street": "Molenbergstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "44"
+      ], 
+      "housenumber": "44", 
+      "lat": 51.078398491413, 
+      "lon": 4.423422657447, 
+      "municipality": "Rumst", 
+      "pcode": "2840", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Molenbergstraat"
     }, 
     {
@@ -658,11 +646,11 @@
         "52"
       ], 
       "housenumber": "52", 
-      "lat": 51.078810915791, 
-      "lon": 4.423389896974, 
+      "lat": 51.078836926601, 
+      "lon": 4.42427008955, 
       "municipality": "Rumst", 
       "pcode": "2840", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Molenbergstraat"
     }, 
     {
@@ -794,7 +782,7 @@
       "lon": 4.422721394571, 
       "municipality": "Rumst", 
       "pcode": "2840", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Molenbergstraat"
     }, 
     {
@@ -1003,7 +991,7 @@
     }, 
     {
       "hnrlbls": [
-        "76-76A"
+        "76"
       ], 
       "housenumber": "76", 
       "lat": 51.07974245946, 
@@ -1011,18 +999,6 @@
       "municipality": "Rumst", 
       "pcode": "2840", 
       "source": "afgeleidVanGebouw", 
-      "street": "Molenbergstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "76-76A"
-      ], 
-      "housenumber": "76A", 
-      "lat": 51.07974245946, 
-      "lon": 4.422751841853, 
-      "municipality": "Rumst", 
-      "pcode": "2840", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Molenbergstraat"
     }, 
     {
@@ -1262,18 +1238,12 @@
     }, 
     {
       "apptnrs": [
-        "00.01", 
         "01.01", 
         "01.02", 
-        "01.03", 
-        "01.04", 
         "02.01", 
         "02.02", 
-        "02.03", 
-        "02.04", 
         "03.01", 
-        "03.02", 
-        "03.03"
+        "03.02"
       ], 
       "busnrs": [
         "A", 
@@ -1283,11 +1253,11 @@
         "94"
       ], 
       "housenumber": "94", 
-      "lat": 51.080440051619, 
-      "lon": 4.422043566484, 
+      "lat": 51.08031640061, 
+      "lon": 4.42196565085, 
       "municipality": "Rumst", 
       "pcode": "2840", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Molenbergstraat"
     }, 
     {
@@ -1300,6 +1270,26 @@
       "municipality": "Rumst", 
       "pcode": "2840", 
       "source": "afgeleidVanGebouw", 
+      "street": "Molenbergstraat"
+    }, 
+    {
+      "busnrs": [
+        "00.01", 
+        "01.01", 
+        "01.02", 
+        "02.01", 
+        "02.02", 
+        "03.01"
+      ], 
+      "hnrlbls": [
+        "96"
+      ], 
+      "housenumber": "96", 
+      "lat": 51.080469979482, 
+      "lon": 4.421857944336, 
+      "municipality": "Rumst", 
+      "pcode": "2840", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Molenbergstraat"
     }, 
     {

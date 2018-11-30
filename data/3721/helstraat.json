@@ -5,11 +5,11 @@
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 50.868508345051, 
-      "lon": 5.426157105809, 
+      "lat": 50.868359339493, 
+      "lon": 5.4263404343, 
       "municipality": "Kortessem", 
       "pcode": "3721", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Helstraat"
     }, 
     {
@@ -73,51 +73,20 @@
       "street": "Helstraat"
     }, 
     {
+      "apptnrs": [
+        "16A", 
+        "16B", 
+        "16C"
+      ], 
       "hnrlbls": [
-        "16-16C"
+        "16"
       ], 
       "housenumber": "16", 
       "lat": 50.869727454965, 
       "lon": 5.425816297386, 
       "municipality": "Kortessem", 
       "pcode": "3721", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Helstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "16-16C"
-      ], 
-      "housenumber": "16A", 
-      "lat": 50.869727454965, 
-      "lon": 5.425816297386, 
-      "municipality": "Kortessem", 
-      "pcode": "3721", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Helstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "16-16C"
-      ], 
-      "housenumber": "16B", 
-      "lat": 50.869727454965, 
-      "lon": 5.425816297386, 
-      "municipality": "Kortessem", 
-      "pcode": "3721", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Helstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "16-16C"
-      ], 
-      "housenumber": "16C", 
-      "lat": 50.869727454965, 
-      "lon": 5.425816297386, 
-      "municipality": "Kortessem", 
-      "pcode": "3721", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Helstraat"
     }, 
     {
@@ -189,7 +158,7 @@
       "lon": 5.424862175861, 
       "municipality": "Kortessem", 
       "pcode": "3721", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Helstraat"
     }, 
     {
@@ -213,7 +182,7 @@
       "lon": 5.425880275896, 
       "municipality": "Kortessem", 
       "pcode": "3721", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Helstraat"
     }, 
     {
@@ -285,7 +254,7 @@
       "lon": 5.426404890344, 
       "municipality": "Kortessem", 
       "pcode": "3721", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Helstraat"
     }, 
     {
@@ -566,6 +535,18 @@
     }, 
     {
       "hnrlbls": [
+        "53"
+      ], 
+      "housenumber": "53", 
+      "lat": 50.873272713791, 
+      "lon": 5.426195217309, 
+      "municipality": "Kortessem", 
+      "pcode": "3721", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Helstraat"
+    }, 
+    {
+      "hnrlbls": [
         "54"
       ], 
       "housenumber": "54", 
@@ -681,7 +662,7 @@
       "lon": 5.426049888777, 
       "municipality": "Kortessem", 
       "pcode": "3721", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Helstraat"
     }, 
     {
@@ -693,7 +674,7 @@
       "lon": 5.426049888777, 
       "municipality": "Kortessem", 
       "pcode": "3721", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Helstraat"
     }, 
     {
@@ -1017,7 +998,7 @@
       "lon": 5.423835502536, 
       "municipality": "Kortessem", 
       "pcode": "3721", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Helstraat"
     }
   ]

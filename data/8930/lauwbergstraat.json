@@ -2,19 +2,19 @@
   "addresses": [
     {
       "busnrs": [
-        "101", 
-        "102", 
-        "103", 
-        "201", 
-        "202", 
-        "203"
+        "0101", 
+        "0102", 
+        "0103", 
+        "0201", 
+        "0202", 
+        "0203"
       ], 
       "hnrlbls": [
         "10"
       ], 
       "housenumber": "10", 
-      "lat": 50.794376792203, 
-      "lon": 3.187511566584, 
+      "lat": 50.794376790774, 
+      "lon": 3.187511424767, 
       "municipality": "Menen", 
       "pcode": "8930", 
       "source": "afgeleidVanGebouw", 
@@ -53,10 +53,13 @@
       "lon": 3.192559681998, 
       "municipality": "Menen", 
       "pcode": "8930", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Lauwbergstraat"
     }, 
     {
+      "busnrs": [
+        "0101"
+      ], 
       "hnrlbls": [
         "102"
       ], 
@@ -65,7 +68,7 @@
       "lon": 3.194335793913, 
       "municipality": "Menen", 
       "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Lauwbergstraat"
     }, 
     {
@@ -273,6 +276,24 @@
       "street": "Lauwbergstraat"
     }, 
     {
+      "busnrs": [
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202"
+      ], 
+      "hnrlbls": [
+        "119"
+      ], 
+      "housenumber": "119", 
+      "lat": 50.794746897977, 
+      "lon": 3.194019783798, 
+      "municipality": "Menen", 
+      "pcode": "8930", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Lauwbergstraat"
+    }, 
+    {
       "hnrlbls": [
         "12"
       ], 
@@ -289,8 +310,8 @@
         "120"
       ], 
       "housenumber": "120", 
-      "lat": 50.794559313108, 
-      "lon": 3.195452221976, 
+      "lat": 50.794558863682, 
+      "lon": 3.195452233175, 
       "municipality": "Menen", 
       "pcode": "8930", 
       "source": "afgeleidVanGebouw", 
@@ -341,18 +362,18 @@
     }, 
     {
       "busnrs": [
-        "101", 
-        "102"
+        "0101", 
+        "0102"
       ], 
       "hnrlbls": [
         "124"
       ], 
       "housenumber": "124", 
-      "lat": 50.793965654114, 
-      "lon": 3.196314864117, 
+      "lat": 50.794048241441, 
+      "lon": 3.196239186392, 
       "municipality": "Menen", 
       "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Lauwbergstraat"
     }, 
     {
@@ -360,11 +381,11 @@
         "124A"
       ], 
       "housenumber": "124A", 
-      "lat": 50.794241729121, 
-      "lon": 3.196149965772, 
+      "lat": 50.794222554695, 
+      "lon": 3.196156542956, 
       "municipality": "Menen", 
       "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Lauwbergstraat"
     }, 
     {
@@ -382,6 +403,7 @@
     {
       "busnrs": [
         "0101", 
+        "0102", 
         "0201"
       ], 
       "hnrlbls": [
@@ -392,7 +414,7 @@
       "lon": 3.195859095197, 
       "municipality": "Menen", 
       "pcode": "8930", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Lauwbergstraat"
     }, 
     {
@@ -508,11 +530,11 @@
         "134"
       ], 
       "housenumber": "134", 
-      "lat": 50.794482270831, 
-      "lon": 3.196288665863, 
+      "lat": 50.794615957591, 
+      "lon": 3.196279095338, 
       "municipality": "Menen", 
       "pcode": "8930", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Lauwbergstraat"
     }, 
     {
@@ -580,8 +602,8 @@
         "14-16"
       ], 
       "housenumber": "14", 
-      "lat": 50.794551282443, 
-      "lon": 3.187803947487, 
+      "lat": 50.794551631981, 
+      "lon": 3.187802945743, 
       "municipality": "Menen", 
       "pcode": "8930", 
       "source": "afgeleidVanGebouw", 
@@ -637,7 +659,7 @@
     }, 
     {
       "busnrs": [
-        "1"
+        "0001"
       ], 
       "hnrlbls": [
         "144"
@@ -711,27 +733,51 @@
       "street": "Lauwbergstraat"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0301", 
+        "0302"
+      ], 
       "hnrlbls": [
         "149"
       ], 
       "housenumber": "149", 
-      "lat": 50.795025308259, 
-      "lon": 3.196207336741, 
+      "lat": 50.794801763572, 
+      "lon": 3.196266808358, 
       "municipality": "Menen", 
       "pcode": "8930", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Lauwbergstraat"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0301", 
+        "0302"
+      ], 
       "hnrlbls": [
         "151"
       ], 
       "housenumber": "151", 
-      "lat": 50.795180798466, 
-      "lon": 3.196274250476, 
+      "lat": 50.7947889763, 
+      "lon": 3.196714251838, 
       "municipality": "Menen", 
       "pcode": "8930", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Lauwbergstraat"
     }, 
     {
@@ -739,23 +785,11 @@
         "152"
       ], 
       "housenumber": "152", 
-      "lat": 50.794685227355, 
-      "lon": 3.198541361146, 
+      "lat": 50.794724127842, 
+      "lon": 3.198538408381, 
       "municipality": "Menen", 
       "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Lauwbergstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "153"
-      ], 
-      "housenumber": "153", 
-      "lat": 50.794811498424, 
-      "lon": 3.196485021823, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Lauwbergstraat"
     }, 
     {
@@ -772,35 +806,11 @@
     }, 
     {
       "hnrlbls": [
-        "155"
-      ], 
-      "housenumber": "155", 
-      "lat": 50.794828861503, 
-      "lon": 3.196611974886, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Lauwbergstraat"
-    }, 
-    {
-      "hnrlbls": [
         "156"
       ], 
       "housenumber": "156", 
       "lat": 50.794677791789, 
       "lon": 3.19931876394, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Lauwbergstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "157"
-      ], 
-      "housenumber": "157", 
-      "lat": 50.794811314406, 
-      "lon": 3.196745329337, 
       "municipality": "Menen", 
       "pcode": "8930", 
       "source": "afgeleidVanGebouw", 
@@ -832,14 +842,14 @@
     }, 
     {
       "busnrs": [
-        "101"
+        "0101"
       ], 
       "hnrlbls": [
         "14-16"
       ], 
       "housenumber": "16", 
-      "lat": 50.794551282443, 
-      "lon": 3.187803947487, 
+      "lat": 50.794551631981, 
+      "lon": 3.187802945743, 
       "municipality": "Menen", 
       "pcode": "8930", 
       "source": "afgeleidVanGebouw", 
@@ -967,11 +977,11 @@
     }, 
     {
       "busnrs": [
-        "101", 
-        "102", 
-        "2", 
-        "201", 
-        "202"
+        "0002", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202"
       ], 
       "hnrlbls": [
         "17"
@@ -1085,8 +1095,8 @@
         "18"
       ], 
       "housenumber": "18", 
-      "lat": 50.794540916785, 
-      "lon": 3.187979822611, 
+      "lat": 50.794540547244, 
+      "lon": 3.187978838901, 
       "municipality": "Menen", 
       "pcode": "8930", 
       "source": "afgeleidVanGebouw", 
@@ -1301,7 +1311,7 @@
     }, 
     {
       "busnrs": [
-        "101"
+        "0101"
       ], 
       "hnrlbls": [
         "20"
@@ -1688,9 +1698,9 @@
     }, 
     {
       "busnrs": [
-        "101", 
-        "201", 
-        "301"
+        "0101", 
+        "0201", 
+        "0301"
       ], 
       "hnrlbls": [
         "24"
@@ -1753,7 +1763,7 @@
     }, 
     {
       "busnrs": [
-        "1"
+        "0001"
       ], 
       "hnrlbls": [
         "247"
@@ -1840,7 +1850,7 @@
     }, 
     {
       "busnrs": [
-        "101"
+        "0101"
       ], 
       "hnrlbls": [
         "26"
@@ -1882,8 +1892,8 @@
         "265"
       ], 
       "housenumber": "265", 
-      "lat": 50.796681284883, 
-      "lon": 3.210419327469, 
+      "lat": 50.796659174282, 
+      "lon": 3.210429092307, 
       "municipality": "Menen", 
       "pcode": "8930", 
       "source": "afgeleidVanGebouw", 
@@ -1939,10 +1949,10 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "101", 
-        "102", 
-        "2"
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102"
       ], 
       "hnrlbls": [
         "3-5"
@@ -1952,12 +1962,12 @@
       "lon": 3.188150963048, 
       "municipality": "Menen", 
       "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Lauwbergstraat"
     }, 
     {
       "busnrs": [
-        "101"
+        "0101"
       ], 
       "hnrlbls": [
         "30"
@@ -2023,11 +2033,11 @@
         "35"
       ], 
       "housenumber": "35", 
-      "lat": 50.79479574747, 
-      "lon": 3.190717184304, 
+      "lat": 50.794796469402, 
+      "lon": 3.19071744995, 
       "municipality": "Menen", 
       "pcode": "8930", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Lauwbergstraat"
     }, 
     {
@@ -2131,8 +2141,8 @@
         "45"
       ], 
       "housenumber": "45", 
-      "lat": 50.794759222739, 
-      "lon": 3.191198133677, 
+      "lat": 50.794778151234, 
+      "lon": 3.191104461864, 
       "municipality": "Menen", 
       "pcode": "8930", 
       "source": "manueleAanduidingVanPerceel", 
@@ -2155,8 +2165,8 @@
         "47"
       ], 
       "housenumber": "47", 
-      "lat": 50.794761438539, 
-      "lon": 3.191293404466, 
+      "lat": 50.794769218783, 
+      "lon": 3.191280301143, 
       "municipality": "Menen", 
       "pcode": "8930", 
       "source": "manueleAanduidingVanPerceel", 
@@ -2192,14 +2202,14 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "101", 
-        "2", 
-        "201", 
-        "3", 
-        "4", 
-        "5", 
-        "6"
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0005", 
+        "0006", 
+        "0101", 
+        "0201"
       ], 
       "hnrlbls": [
         "3-5"
@@ -2209,7 +2219,7 @@
       "lon": 3.188150963048, 
       "municipality": "Menen", 
       "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Lauwbergstraat"
     }, 
     {
@@ -2265,8 +2275,8 @@
         "54"
       ], 
       "housenumber": "54", 
-      "lat": 50.794512918636, 
-      "lon": 3.190763979591, 
+      "lat": 50.794514944659, 
+      "lon": 3.190759815145, 
       "municipality": "Menen", 
       "pcode": "8930", 
       "source": "afgeleidVanGebouw", 
@@ -2340,11 +2350,11 @@
         "6"
       ], 
       "housenumber": "6", 
-      "lat": 50.794487870601, 
-      "lon": 3.187158968505, 
+      "lat": 50.794526934846, 
+      "lon": 3.187154441834, 
       "municipality": "Menen", 
       "pcode": "8930", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Lauwbergstraat"
     }, 
     {
@@ -2469,9 +2479,9 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "101", 
-        "201"
+        "0001", 
+        "0101", 
+        "0201"
       ], 
       "hnrlbls": [
         "78"
@@ -2486,7 +2496,7 @@
     }, 
     {
       "busnrs": [
-        "1"
+        "0001"
       ], 
       "hnrlbls": [
         "8"
@@ -2501,11 +2511,11 @@
     }, 
     {
       "busnrs": [
-        "0202", 
-        "1", 
-        "101", 
-        "102", 
-        "201"
+        "0001", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202"
       ], 
       "hnrlbls": [
         "82-82A"
@@ -2571,8 +2581,8 @@
         "9"
       ], 
       "housenumber": "9", 
-      "lat": 50.794852607888, 
-      "lon": 3.188602834514, 
+      "lat": 50.794853382583, 
+      "lon": 3.188599410581, 
       "municipality": "Menen", 
       "pcode": "8930", 
       "source": "afgeleidVanGebouw", 
@@ -2583,16 +2593,16 @@
         "92"
       ], 
       "housenumber": "92", 
-      "lat": 50.794439582321, 
-      "lon": 3.193372939393, 
+      "lat": 50.794597287823, 
+      "lon": 3.193284032078, 
       "municipality": "Menen", 
       "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Lauwbergstraat"
     }, 
     {
       "busnrs": [
-        "101"
+        "0101"
       ], 
       "hnrlbls": [
         "93"

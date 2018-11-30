@@ -540,10 +540,13 @@
     }, 
     {
       "apptnrs": [
-        "001", 
         "002", 
+        "101", 
         "201", 
         "202"
+      ], 
+      "busnrs": [
+        "1"
       ], 
       "hnrlbls": [
         "219"
@@ -746,25 +749,16 @@
       "street": "Eksterlaar"
     }, 
     {
-      "busnrs": [
-        "247"
+      "apptnrs": [
+        "101", 
+        "102", 
+        "201", 
+        "202"
       ], 
       "hnrlbls": [
-        "245-247"
+        "245"
       ], 
       "housenumber": "245", 
-      "lat": 51.199652165434, 
-      "lon": 4.47491898645, 
-      "municipality": "Antwerpen", 
-      "pcode": "2100", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Eksterlaar"
-    }, 
-    {
-      "hnrlbls": [
-        "245-247"
-      ], 
-      "housenumber": "247", 
       "lat": 51.199652165434, 
       "lon": 4.47491898645, 
       "municipality": "Antwerpen", 
@@ -961,7 +955,7 @@
         "7"
       ], 
       "hnrlbls": [
-        "41-240"
+        "41-43"
       ], 
       "housenumber": "41", 
       "lat": 51.200300546771, 
@@ -985,7 +979,7 @@
     }, 
     {
       "hnrlbls": [
-        "41-240"
+        "41-43"
       ], 
       "housenumber": "43", 
       "lat": 51.200300546771, 
@@ -1024,14 +1018,19 @@
         "46"
       ], 
       "housenumber": "46", 
-      "lat": 51.199467476987, 
-      "lon": 4.467368050185, 
+      "lat": 51.199537005766, 
+      "lon": 4.467417985646, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Eksterlaar"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
         "47"
       ], 

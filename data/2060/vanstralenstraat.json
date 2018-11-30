@@ -261,6 +261,7 @@
         "102", 
         "201", 
         "202", 
+        "301", 
         "302", 
         "402", 
         "501"
@@ -695,7 +696,7 @@
     }, 
     {
       "hnrlbls": [
-        "40-42"
+        "40"
       ], 
       "housenumber": "40", 
       "lat": 51.220616834221, 
@@ -733,11 +734,11 @@
         "9"
       ], 
       "hnrlbls": [
-        "40-42"
+        "42"
       ], 
       "housenumber": "42", 
-      "lat": 51.220616834221, 
-      "lon": 4.419128657425, 
+      "lat": 51.22064424422, 
+      "lon": 4.419139279218, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
       "source": "afgeleidVanGebouw", 
@@ -852,6 +853,12 @@
       "street": "Van Stralenstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
         "50"
       ], 
@@ -884,14 +891,6 @@
       "street": "Van Stralenstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6"
-      ], 
       "hnrlbls": [
         "52"
       ], 
@@ -959,14 +958,14 @@
         "5"
       ], 
       "hnrlbls": [
-        "56"
+        "56-56A"
       ], 
       "housenumber": "56", 
       "lat": 51.221053161841, 
       "lon": 4.419264253156, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Van Stralenstraat"
     }, 
     {
@@ -974,14 +973,14 @@
         "3"
       ], 
       "hnrlbls": [
-        "56A"
+        "56-56A"
       ], 
       "housenumber": "56A", 
-      "lat": 51.221049384364, 
-      "lon": 4.419269688072, 
+      "lat": 51.221053161841, 
+      "lon": 4.419264253156, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Van Stralenstraat"
     }, 
     {
@@ -1265,8 +1264,11 @@
       "street": "Van Stralenstraat"
     }, 
     {
-      "busnrs": [
-        "2"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301"
       ], 
       "hnrlbls": [
         "82"

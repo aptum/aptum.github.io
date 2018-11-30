@@ -5,11 +5,11 @@
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 50.796147870839, 
-      "lon": 3.111014832595, 
+      "lat": 50.796208151874, 
+      "lon": 3.110901435472, 
       "municipality": "Menen", 
       "pcode": "8930", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Hogeweg"
     }, 
     {
@@ -53,8 +53,8 @@
         "102"
       ], 
       "housenumber": "102", 
-      "lat": 50.796441373492, 
-      "lon": 3.106869441289, 
+      "lat": 50.796446557919, 
+      "lon": 3.10687497682, 
       "municipality": "Menen", 
       "pcode": "8930", 
       "source": "afgeleidVanGebouw", 
@@ -125,8 +125,8 @@
         "108"
       ], 
       "housenumber": "108", 
-      "lat": 50.796435228289, 
-      "lon": 3.106641066044, 
+      "lat": 50.796435766062, 
+      "lon": 3.106640909766, 
       "municipality": "Menen", 
       "pcode": "8930", 
       "source": "afgeleidVanGebouw", 
@@ -353,8 +353,8 @@
         "126"
       ], 
       "housenumber": "126", 
-      "lat": 50.796449936111, 
-      "lon": 3.105969805289, 
+      "lat": 50.796452369074, 
+      "lon": 3.105970307481, 
       "municipality": "Menen", 
       "pcode": "8930", 
       "source": "afgeleidVanGebouw", 
@@ -533,11 +533,11 @@
         "14-16"
       ], 
       "housenumber": "14", 
-      "lat": 50.79573037408, 
-      "lon": 3.10992997595, 
+      "lat": 50.795471528232, 
+      "lon": 3.109754465874, 
       "municipality": "Menen", 
       "pcode": "8930", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hogeweg"
     }, 
     {
@@ -634,8 +634,8 @@
         "149"
       ], 
       "housenumber": "149", 
-      "lat": 50.796689897356, 
-      "lon": 3.103992892051, 
+      "lat": 50.796689446409, 
+      "lon": 3.103992762302, 
       "municipality": "Menen", 
       "pcode": "8930", 
       "source": "afgeleidVanGebouw", 
@@ -700,8 +700,8 @@
         "154"
       ], 
       "housenumber": "154", 
-      "lat": 50.796376495135, 
-      "lon": 3.104695016776, 
+      "lat": 50.7963792054, 
+      "lon": 3.104696220767, 
       "municipality": "Menen", 
       "pcode": "8930", 
       "source": "afgeleidVanGebouw", 
@@ -781,11 +781,11 @@
         "14-16"
       ], 
       "housenumber": "16", 
-      "lat": 50.79573037408, 
-      "lon": 3.10992997595, 
+      "lat": 50.795471528232, 
+      "lon": 3.109754465874, 
       "municipality": "Menen", 
       "pcode": "8930", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hogeweg"
     }, 
     {
@@ -1009,8 +1009,8 @@
         "175"
       ], 
       "housenumber": "175", 
-      "lat": 50.796638099256, 
-      "lon": 3.102002102823, 
+      "lat": 50.796636228568, 
+      "lon": 3.102003713649, 
       "municipality": "Menen", 
       "pcode": "8930", 
       "source": "afgeleidVanGebouw", 
@@ -1190,11 +1190,11 @@
         "19"
       ], 
       "housenumber": "19", 
-      "lat": 50.796063065654, 
-      "lon": 3.110133446432, 
+      "lat": 50.796395077174, 
+      "lon": 3.110374105783, 
       "municipality": "Menen", 
       "pcode": "8930", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hogeweg"
     }, 
     {
@@ -1406,8 +1406,8 @@
         "23"
       ], 
       "housenumber": "23", 
-      "lat": 50.796135440595, 
-      "lon": 3.1099825574, 
+      "lat": 50.796133182848, 
+      "lon": 3.109981624736, 
       "municipality": "Menen", 
       "pcode": "8930", 
       "source": "afgeleidVanGebouw", 
@@ -1418,11 +1418,11 @@
         "231"
       ], 
       "housenumber": "231", 
-      "lat": 50.796447328096, 
-      "lon": 3.09717114524, 
+      "lat": 50.79637929615, 
+      "lon": 3.097149007978, 
       "municipality": "Menen", 
       "pcode": "8930", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hogeweg"
     }, 
     {
@@ -1463,7 +1463,8 @@
     }, 
     {
       "busnrs": [
-        "2"
+        "2", 
+        "A"
       ], 
       "hnrlbls": [
         "239"
@@ -1474,6 +1475,18 @@
       "municipality": "Menen", 
       "pcode": "8930", 
       "source": "manueleAanduidingVanPerceel", 
+      "street": "Hogeweg"
+    }, 
+    {
+      "hnrlbls": [
+        "239A"
+      ], 
+      "housenumber": "239A", 
+      "lat": 50.796152959529, 
+      "lon": 3.095944757558, 
+      "municipality": "Menen", 
+      "pcode": "8930", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hogeweg"
     }, 
     {
@@ -1538,6 +1551,18 @@
     }, 
     {
       "hnrlbls": [
+        "263"
+      ], 
+      "housenumber": "263", 
+      "lat": 50.795665061936, 
+      "lon": 3.094765186936, 
+      "municipality": "Menen", 
+      "pcode": "8930", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Hogeweg"
+    }, 
+    {
+      "hnrlbls": [
         "265"
       ], 
       "housenumber": "265", 
@@ -1574,7 +1599,19 @@
     }, 
     {
       "hnrlbls": [
-        "279A"
+        "279-279A"
+      ], 
+      "housenumber": "279", 
+      "lat": 50.795147718895, 
+      "lon": 3.093144689894, 
+      "municipality": "Menen", 
+      "pcode": "8930", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Hogeweg"
+    }, 
+    {
+      "hnrlbls": [
+        "279-279A"
       ], 
       "housenumber": "279A", 
       "lat": 50.795147718895, 
@@ -1617,7 +1654,7 @@
       "lon": 3.092801799985, 
       "municipality": "Menen", 
       "pcode": "8930", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hogeweg"
     }, 
     {
@@ -1661,8 +1698,8 @@
         "285"
       ], 
       "housenumber": "285", 
-      "lat": 50.794933167475, 
-      "lon": 3.092522780804, 
+      "lat": 50.79494197911, 
+      "lon": 3.092522825665, 
       "municipality": "Menen", 
       "pcode": "8930", 
       "source": "afgeleidVanGebouw", 
@@ -1709,11 +1746,11 @@
         "291"
       ], 
       "housenumber": "291", 
-      "lat": 50.794838844769, 
-      "lon": 3.092051532444, 
+      "lat": 50.794809609299, 
+      "lon": 3.0920584251, 
       "municipality": "Menen", 
       "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hogeweg"
     }, 
     {
@@ -1798,8 +1835,8 @@
         "307"
       ], 
       "housenumber": "307", 
-      "lat": 50.794998118321, 
-      "lon": 3.091114920479, 
+      "lat": 50.79473362196, 
+      "lon": 3.091174301608, 
       "municipality": "Menen", 
       "pcode": "8930", 
       "source": "afgeleidVanGebouw", 
@@ -1993,8 +2030,8 @@
         "33"
       ], 
       "housenumber": "33", 
-      "lat": 50.796163492227, 
-      "lon": 3.109647724155, 
+      "lat": 50.796152547772, 
+      "lon": 3.109641633094, 
       "municipality": "Menen", 
       "pcode": "8930", 
       "source": "afgeleidVanGebouw", 
@@ -2053,8 +2090,8 @@
         "338"
       ], 
       "housenumber": "338", 
-      "lat": 50.795713078494, 
-      "lon": 3.096255407431, 
+      "lat": 50.795716408791, 
+      "lon": 3.096255743001, 
       "municipality": "Menen", 
       "pcode": "8930", 
       "source": "afgeleidVanGebouw", 
@@ -2125,8 +2162,8 @@
         "348"
       ], 
       "housenumber": "348", 
-      "lat": 50.795305913595, 
-      "lon": 3.094934354968, 
+      "lat": 50.795308089287, 
+      "lon": 3.094935998413, 
       "municipality": "Menen", 
       "pcode": "8930", 
       "source": "afgeleidVanGebouw", 
@@ -2185,8 +2222,8 @@
         "355"
       ], 
       "housenumber": "355", 
-      "lat": 50.794595638127, 
-      "lon": 3.08912466337, 
+      "lat": 50.794599129631, 
+      "lon": 3.08912329176, 
       "municipality": "Menen", 
       "pcode": "8930", 
       "source": "afgeleidVanGebouw", 
@@ -2357,7 +2394,7 @@
       "lon": 3.109529529924, 
       "municipality": "Menen", 
       "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Hogeweg"
     }, 
     {
@@ -2665,11 +2702,11 @@
         "418"
       ], 
       "housenumber": "418", 
-      "lat": 50.794233053535, 
-      "lon": 3.089917421722, 
+      "lat": 50.794344670294, 
+      "lon": 3.089780903108, 
       "municipality": "Menen", 
       "pcode": "8930", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hogeweg"
     }, 
     {
@@ -2857,8 +2894,8 @@
         "472"
       ], 
       "housenumber": "472", 
-      "lat": 50.793986807015, 
-      "lon": 3.08679974524, 
+      "lat": 50.793982773137, 
+      "lon": 3.086800848062, 
       "municipality": "Menen", 
       "pcode": "8930", 
       "source": "afgeleidVanGebouw", 
@@ -2989,11 +3026,11 @@
         "6"
       ], 
       "housenumber": "6", 
-      "lat": 50.795877550209, 
-      "lon": 3.11051561256, 
+      "lat": 50.795890410037, 
+      "lon": 3.110457247976, 
       "municipality": "Menen", 
       "pcode": "8930", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hogeweg"
     }, 
     {
@@ -3101,7 +3138,7 @@
       "lon": 3.107468203592, 
       "municipality": "Menen", 
       "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hogeweg"
     }, 
     {
@@ -3157,11 +3194,11 @@
         "8"
       ], 
       "housenumber": "8", 
-      "lat": 50.795888606701, 
-      "lon": 3.110389770621, 
+      "lat": 50.795908850275, 
+      "lon": 3.110391073744, 
       "municipality": "Menen", 
       "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hogeweg"
     }, 
     {
@@ -3212,7 +3249,7 @@
       "lon": 3.106596052528, 
       "municipality": "Menen", 
       "pcode": "8930", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hogeweg"
     }, 
     {
@@ -3251,7 +3288,7 @@
       "lon": 3.106167791472, 
       "municipality": "Menen", 
       "pcode": "8930", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hogeweg"
     }, 
     {
@@ -3263,7 +3300,7 @@
       "lon": 3.106167791472, 
       "municipality": "Menen", 
       "pcode": "8930", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hogeweg"
     }, 
     {
@@ -3275,7 +3312,7 @@
       "lon": 3.106167791472, 
       "municipality": "Menen", 
       "pcode": "8930", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hogeweg"
     }, 
     {

@@ -2,6 +2,11 @@
   "addresses": [
     {
       "apptnrs": [
+        "0.01", 
+        "0.02", 
+        "0.03", 
+        "0.04", 
+        "0.06", 
         "1.01", 
         "1.02", 
         "1.03", 
@@ -24,11 +29,14 @@
         "2.08", 
         "2.09", 
         "2.10", 
+        "2.11", 
         "2.12", 
         "3.02", 
         "3.03", 
+        "3.06", 
         "3.07", 
         "3.08", 
+        "3.09", 
         "3.10", 
         "3.11", 
         "3.12", 
@@ -86,7 +94,7 @@
     }, 
     {
       "hnrlbls": [
-        "104-112"
+        "104"
       ], 
       "housenumber": "104", 
       "lat": 51.081020387155, 
@@ -94,6 +102,23 @@
       "municipality": "Rumst", 
       "pcode": "2840", 
       "source": "afgeleidVanGebouw", 
+      "street": "Kerkstraat"
+    }, 
+    {
+      "busnrs": [
+        "106.00.01", 
+        "106.01.01", 
+        "106.02.01"
+      ], 
+      "hnrlbls": [
+        "106"
+      ], 
+      "housenumber": "106", 
+      "lat": 51.080955234542, 
+      "lon": 4.432040757957, 
+      "municipality": "Rumst", 
+      "pcode": "2840", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Kerkstraat"
     }, 
     {
@@ -115,30 +140,6 @@
       "housenumber": "11", 
       "lat": 51.079038923382, 
       "lon": 4.429461140534, 
-      "municipality": "Rumst", 
-      "pcode": "2840", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Kerkstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "104-112"
-      ], 
-      "housenumber": "110", 
-      "lat": 51.081020387155, 
-      "lon": 4.432236638017, 
-      "municipality": "Rumst", 
-      "pcode": "2840", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Kerkstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "104-112"
-      ], 
-      "housenumber": "112", 
-      "lat": 51.081020387155, 
-      "lon": 4.432236638017, 
       "municipality": "Rumst", 
       "pcode": "2840", 
       "source": "afgeleidVanGebouw", 
@@ -293,11 +294,11 @@
         "134"
       ], 
       "housenumber": "134", 
-      "lat": 51.081408878856, 
-      "lon": 4.433878860334, 
+      "lat": 51.081530652769, 
+      "lon": 4.434404619091, 
       "municipality": "Rumst", 
       "pcode": "2840", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -307,18 +308,6 @@
       "housenumber": "134A", 
       "lat": 51.081437729085, 
       "lon": 4.434526786353, 
-      "municipality": "Rumst", 
-      "pcode": "2840", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Kerkstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "134B"
-      ], 
-      "housenumber": "134B", 
-      "lat": 51.081530652769, 
-      "lon": 4.434404619091, 
       "municipality": "Rumst", 
       "pcode": "2840", 
       "source": "afgeleidVanGebouw", 
@@ -486,7 +475,7 @@
     }, 
     {
       "hnrlbls": [
-        "3-3A"
+        "3"
       ], 
       "housenumber": "3", 
       "lat": 51.078256852931, 
@@ -566,7 +555,7 @@
     }, 
     {
       "hnrlbls": [
-        "36-36D"
+        "36"
       ], 
       "housenumber": "36", 
       "lat": 51.07774153301, 
@@ -577,32 +566,15 @@
       "street": "Kerkstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3"
-      ], 
       "hnrlbls": [
-        "36-36D"
-      ], 
-      "housenumber": "36A", 
-      "lat": 51.07774153301, 
-      "lon": 4.427409341913, 
-      "municipality": "Rumst", 
-      "pcode": "2840", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Kerkstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "36-36D"
+        "36B"
       ], 
       "housenumber": "36B", 
-      "lat": 51.07774153301, 
-      "lon": 4.427409341913, 
+      "lat": 51.077771868618, 
+      "lon": 4.427502132053, 
       "municipality": "Rumst", 
       "pcode": "2840", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -615,22 +587,6 @@
       "municipality": "Rumst", 
       "pcode": "2840", 
       "source": "afgeleidVanGebouw", 
-      "street": "Kerkstraat"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
-      "hnrlbls": [
-        "36-36D"
-      ], 
-      "housenumber": "36D", 
-      "lat": 51.07774153301, 
-      "lon": 4.427409341913, 
-      "municipality": "Rumst", 
-      "pcode": "2840", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -671,14 +627,14 @@
     }, 
     {
       "hnrlbls": [
-        "3-3A"
+        "3A"
       ], 
       "housenumber": "3A", 
-      "lat": 51.078256852931, 
-      "lon": 4.427965512572, 
+      "lat": 51.078304965431, 
+      "lon": 4.427922051769, 
       "municipality": "Rumst", 
       "pcode": "2840", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Kerkstraat"
     }, 
     {
@@ -1142,11 +1098,11 @@
         "9"
       ], 
       "housenumber": "9", 
-      "lat": 51.078577471942, 
-      "lon": 4.428520587626, 
+      "lat": 51.07860554831, 
+      "lon": 4.428809728829, 
       "municipality": "Rumst", 
       "pcode": "2840", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Kerkstraat"
     }, 
     {

@@ -5,8 +5,8 @@
         "14"
       ], 
       "housenumber": "14", 
-      "lat": 50.863441763315, 
-      "lon": 4.433133081869, 
+      "lat": 50.863451506725, 
+      "lon": 4.433232384132, 
       "municipality": "Zaventem", 
       "pcode": "1930", 
       "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
@@ -476,8 +476,8 @@
         "472"
       ], 
       "housenumber": "472", 
-      "lat": 50.871524016839, 
-      "lon": 4.473867775587, 
+      "lat": 50.871514669487, 
+      "lon": 4.473865907647, 
       "municipality": "Zaventem", 
       "pcode": "1930", 
       "source": "afgeleidVanPerceelGrb", 
@@ -500,8 +500,8 @@
         "476-478"
       ], 
       "housenumber": "476", 
-      "lat": 50.871643017991, 
-      "lon": 4.474980016677, 
+      "lat": 50.871588992132, 
+      "lon": 4.474880445633, 
       "municipality": "Zaventem", 
       "pcode": "1930", 
       "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
@@ -512,8 +512,8 @@
         "476-478"
       ], 
       "housenumber": "478", 
-      "lat": 50.871643017991, 
-      "lon": 4.474980016677, 
+      "lat": 50.871588992132, 
+      "lon": 4.474880445633, 
       "municipality": "Zaventem", 
       "pcode": "1930", 
       "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
@@ -659,8 +659,8 @@
         "500"
       ], 
       "housenumber": "500", 
-      "lat": 50.87165141964, 
-      "lon": 4.47698761152, 
+      "lat": 50.871668876294, 
+      "lon": 4.476969183026, 
       "municipality": "Zaventem", 
       "pcode": "1930", 
       "source": "afgeleidVanPerceelGrb", 
@@ -785,8 +785,8 @@
         "510B"
       ], 
       "housenumber": "510B", 
-      "lat": 50.870083722182, 
-      "lon": 4.479409154606, 
+      "lat": 50.871024303121, 
+      "lon": 4.479678753818, 
       "municipality": "Zaventem", 
       "pcode": "1930", 
       "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
@@ -797,8 +797,8 @@
         "512"
       ], 
       "housenumber": "512", 
-      "lat": 50.870783051413, 
-      "lon": 4.480874236818, 
+      "lat": 50.871253340214, 
+      "lon": 4.481009051745, 
       "municipality": "Zaventem", 
       "pcode": "1930", 
       "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
@@ -1146,11 +1146,11 @@
         "544-544A"
       ], 
       "housenumber": "544", 
-      "lat": 50.8727964694, 
-      "lon": 4.494745338021, 
+      "lat": 50.872780239701, 
+      "lon": 4.494623822377, 
       "municipality": "Zaventem", 
       "pcode": "1930", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelKadaster", 
       "street": "Leuvensesteenweg"
     }, 
     {
@@ -1158,11 +1158,11 @@
         "544-544A"
       ], 
       "housenumber": "544A", 
-      "lat": 50.8727964694, 
-      "lon": 4.494745338021, 
+      "lat": 50.872780239701, 
+      "lon": 4.494623822377, 
       "municipality": "Zaventem", 
       "pcode": "1930", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelKadaster", 
       "street": "Leuvensesteenweg"
     }, 
     {
@@ -1721,8 +1721,8 @@
         "599"
       ], 
       "housenumber": "599", 
-      "lat": 50.877053856457, 
-      "lon": 4.49902051469, 
+      "lat": 50.877050131468, 
+      "lon": 4.498975179094, 
       "municipality": "Zaventem", 
       "pcode": "1930", 
       "source": "afgeleidVanPerceelGrb", 
@@ -2035,21 +2035,19 @@
     }, 
     {
       "apptnrs": [
-        "1.0", 
-        "2.0"
-      ], 
-      "busnrs": [
-        "2"
+        "001", 
+        "011", 
+        "X021"
       ], 
       "hnrlbls": [
         "626"
       ], 
       "housenumber": "626", 
-      "lat": 50.87767968365, 
-      "lon": 4.505866742788, 
+      "lat": 50.877680324087, 
+      "lon": 4.505857224822, 
       "municipality": "Zaventem", 
       "pcode": "1930", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Leuvensesteenweg"
     }, 
     {
@@ -2361,7 +2359,8 @@
         "01b", 
         "01c", 
         "01d", 
-        "01e"
+        "01e", 
+        "1.0"
       ], 
       "hnrlbls": [
         "651"
@@ -2372,6 +2371,23 @@
       "municipality": "Zaventem", 
       "pcode": "1930", 
       "source": "manueleAanduidingVanGebouw", 
+      "street": "Leuvensesteenweg"
+    }, 
+    {
+      "busnrs": [
+        "b", 
+        "c", 
+        "d"
+      ], 
+      "hnrlbls": [
+        "651_1"
+      ], 
+      "housenumber": "651_1", 
+      "lat": 50.87823536886, 
+      "lon": 4.505289218475, 
+      "municipality": "Zaventem", 
+      "pcode": "1930", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Leuvensesteenweg"
     }, 
     {
@@ -2629,17 +2645,14 @@
     }, 
     {
       "apptnrs": [
-        "1.0", 
-        "2.0"
-      ], 
-      "busnrs": [
-        "1", 
-        "2", 
-        "26", 
-        "3", 
-        "4", 
-        "5", 
-        "6"
+        "001", 
+        "002", 
+        "011", 
+        "012", 
+        "021", 
+        "022", 
+        "023", 
+        "024"
       ], 
       "hnrlbls": [
         "680"
@@ -2654,11 +2667,9 @@
     }, 
     {
       "apptnrs": [
-        "1.0"
-      ], 
-      "busnrs": [
-        "2", 
-        "3"
+        "011", 
+        "021", 
+        "X001"
       ], 
       "hnrlbls": [
         "681"
@@ -2673,11 +2684,8 @@
     }, 
     {
       "apptnrs": [
-        "1.0", 
-        "2.0"
-      ], 
-      "busnrs": [
-        "2"
+        "011", 
+        "021"
       ], 
       "hnrlbls": [
         "683"
@@ -2933,11 +2941,11 @@
         "712"
       ], 
       "housenumber": "712", 
-      "lat": 50.879390875202, 
-      "lon": 4.515801607651, 
+      "lat": 50.879426792518, 
+      "lon": 4.515690888422, 
       "municipality": "Zaventem", 
       "pcode": "1930", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Leuvensesteenweg"
     }, 
     {
@@ -3173,8 +3181,8 @@
         "855"
       ], 
       "housenumber": "855", 
-      "lat": 50.87228236818, 
-      "lon": 4.473567440866, 
+      "lat": 50.872277684603, 
+      "lon": 4.473577517374, 
       "municipality": "Zaventem", 
       "pcode": "1930", 
       "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 

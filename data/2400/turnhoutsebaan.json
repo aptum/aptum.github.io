@@ -200,7 +200,7 @@
       "street": "Turnhoutsebaan"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3", 
@@ -368,11 +368,11 @@
         "131"
       ], 
       "housenumber": "131", 
-      "lat": 51.199422690608, 
-      "lon": 5.115120901008, 
+      "lat": 51.199343462529, 
+      "lon": 5.114970119984, 
       "municipality": "Mol", 
       "pcode": "2400", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
       "street": "Turnhoutsebaan"
     }, 
     {
@@ -634,7 +634,7 @@
       "street": "Turnhoutsebaan"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "101"
       ], 
       "hnrlbls": [
@@ -838,18 +838,6 @@
     }, 
     {
       "hnrlbls": [
-        "20"
-      ], 
-      "housenumber": "20", 
-      "lat": 51.192856825291, 
-      "lon": 5.116327427644, 
-      "municipality": "Mol", 
-      "pcode": "2400", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Turnhoutsebaan"
-    }, 
-    {
-      "hnrlbls": [
         "200"
       ], 
       "housenumber": "200", 
@@ -902,7 +890,7 @@
       "street": "Turnhoutsebaan"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "101", 
         "102", 
@@ -920,7 +908,7 @@
       "street": "Turnhoutsebaan"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "2"
       ], 
       "hnrlbls": [
@@ -1017,18 +1005,6 @@
       "housenumber": "212", 
       "lat": 51.206925591135, 
       "lon": 5.115810604042, 
-      "municipality": "Mol", 
-      "pcode": "2400", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Turnhoutsebaan"
-    }, 
-    {
-      "hnrlbls": [
-        "216"
-      ], 
-      "housenumber": "216", 
-      "lat": 51.207153154168, 
-      "lon": 5.115773612589, 
       "municipality": "Mol", 
       "pcode": "2400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1747,35 +1723,11 @@
     }, 
     {
       "hnrlbls": [
-        "297"
-      ], 
-      "housenumber": "297", 
-      "lat": 51.209781241281, 
-      "lon": 5.1148340404, 
-      "municipality": "Mol", 
-      "pcode": "2400", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Turnhoutsebaan"
-    }, 
-    {
-      "hnrlbls": [
         "298"
       ], 
       "housenumber": "298", 
       "lat": 51.211956187863, 
       "lon": 5.115701782945, 
-      "municipality": "Mol", 
-      "pcode": "2400", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Turnhoutsebaan"
-    }, 
-    {
-      "hnrlbls": [
-        "299"
-      ], 
-      "housenumber": "299", 
-      "lat": 51.209973709284, 
-      "lon": 5.114945310757, 
       "municipality": "Mol", 
       "pcode": "2400", 
       "source": "afgeleidVanGebouw", 
@@ -1918,6 +1870,7 @@
     }, 
     {
       "apptnrs": [
+        "1", 
         "101", 
         "102", 
         "2", 
@@ -2382,6 +2335,12 @@
       "street": "Turnhoutsebaan"
     }, 
     {
+      "apptnrs": [
+        "101"
+      ], 
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "80"
       ], 

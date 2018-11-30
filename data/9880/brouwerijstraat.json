@@ -29,11 +29,11 @@
         "102"
       ], 
       "housenumber": "102", 
-      "lat": 51.083951113976, 
-      "lon": 3.442159767342, 
+      "lat": 51.086026154978, 
+      "lon": 3.434838820467, 
       "municipality": "Aalter", 
       "pcode": "9880", 
-      "source": "afgeleidVanStraat", 
+      "source": "afgeleidVanGebouw", 
       "street": "Brouwerijstraat"
     }, 
     {
@@ -140,11 +140,11 @@
     }, 
     {
       "hnrlbls": [
-        "19-21"
+        "19"
       ], 
       "housenumber": "19", 
-      "lat": 51.083799562379, 
-      "lon": 3.446463192248, 
+      "lat": 51.083849428477, 
+      "lon": 3.446505883192, 
       "municipality": "Aalter", 
       "pcode": "9880", 
       "source": "afgeleidVanGebouw", 
@@ -188,7 +188,7 @@
     }, 
     {
       "hnrlbls": [
-        "19-21"
+        "21"
       ], 
       "housenumber": "21", 
       "lat": 51.083799562379, 
@@ -200,11 +200,15 @@
     }, 
     {
       "busnrs": [
-        "00OA", 
-        "00OB", 
-        "00OC", 
+        "0A", 
+        "0B", 
+        "0C", 
+        "1A", 
+        "1B", 
         "1C", 
         "1D", 
+        "2A", 
+        "2B", 
         "2C", 
         "2D", 
         "3C", 
@@ -231,16 +235,16 @@
         "24"
       ], 
       "housenumber": "24", 
-      "lat": 51.084111709756, 
-      "lon": 3.446352137767, 
+      "lat": 51.084045512706, 
+      "lon": 3.446382272909, 
       "municipality": "Aalter", 
       "pcode": "9880", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Brouwerijstraat"
     }, 
     {
       "hnrlbls": [
-        "25-27"
+        "25-29"
       ], 
       "housenumber": "25", 
       "lat": 51.083670558551, 
@@ -255,11 +259,11 @@
         "26"
       ], 
       "housenumber": "26", 
-      "lat": 51.084174431566, 
-      "lon": 3.446027057741, 
+      "lat": 51.083965308359, 
+      "lon": 3.446104113202, 
       "municipality": "Aalter", 
       "pcode": "9880", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Brouwerijstraat"
     }, 
     {
@@ -305,7 +309,7 @@
         "3B"
       ], 
       "hnrlbls": [
-        "25-27"
+        "25-29"
       ], 
       "housenumber": "27", 
       "lat": 51.083670558551, 
@@ -329,14 +333,14 @@
     }, 
     {
       "hnrlbls": [
-        "29"
+        "25-29"
       ], 
       "housenumber": "29", 
-      "lat": 51.083563084908, 
-      "lon": 3.446031118607, 
+      "lat": 51.083670558551, 
+      "lon": 3.446221248623, 
       "municipality": "Aalter", 
       "pcode": "9880", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Brouwerijstraat"
     }, 
     {
@@ -373,38 +377,23 @@
     }, 
     {
       "busnrs": [
-        "00OA", 
-        "00OB", 
+        "0A", 
+        "0B", 
         "1A", 
         "1B", 
         "2A", 
         "2B", 
-        "3B"
+        "3A"
       ], 
       "hnrlbls": [
         "31"
       ], 
       "housenumber": "31", 
-      "lat": 51.08358309904, 
-      "lon": 3.445969495605, 
-      "municipality": "Aalter", 
-      "pcode": "9880", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Brouwerijstraat"
-    }, 
-    {
-      "busnrs": [
-        "A"
-      ], 
-      "hnrlbls": [
-        "31_3"
-      ], 
-      "housenumber": "31_3", 
       "lat": 51.083621624188, 
       "lon": 3.445952893664, 
       "municipality": "Aalter", 
       "pcode": "9880", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Brouwerijstraat"
     }, 
     {
@@ -420,6 +409,35 @@
       "street": "Brouwerijstraat"
     }, 
     {
+      "busnrs": [
+        "1A"
+      ], 
+      "hnrlbls": [
+        "33-35A"
+      ], 
+      "housenumber": "33", 
+      "lat": 51.083139379263, 
+      "lon": 3.443009764839, 
+      "municipality": "Aalter", 
+      "pcode": "9880", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Brouwerijstraat"
+    }, 
+    {
+      "busnrs": [
+        "1A", 
+        "1B", 
+        "1C", 
+        "2A", 
+        "2B", 
+        "2C", 
+        "3A", 
+        "3B", 
+        "3C", 
+        "4A", 
+        "4B", 
+        "4C"
+      ], 
       "hnrlbls": [
         "34"
       ], 
@@ -445,7 +463,7 @@
     }, 
     {
       "hnrlbls": [
-        "35A"
+        "33-35A"
       ], 
       "housenumber": "35A", 
       "lat": 51.083139379263, 
@@ -460,11 +478,11 @@
         "36"
       ], 
       "housenumber": "36", 
-      "lat": 51.08392770979, 
-      "lon": 3.445297033169, 
+      "lat": 51.083748306832, 
+      "lon": 3.445289155187, 
       "municipality": "Aalter", 
       "pcode": "9880", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Brouwerijstraat"
     }, 
     {
@@ -539,8 +557,7 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "B"
+        "1B"
       ], 
       "hnrlbls": [
         "4"
@@ -573,21 +590,6 @@
       "municipality": "Aalter", 
       "pcode": "9880", 
       "source": "afgeleidVanGebouw", 
-      "street": "Brouwerijstraat"
-    }, 
-    {
-      "busnrs": [
-        "A"
-      ], 
-      "hnrlbls": [
-        "2-40_3"
-      ], 
-      "housenumber": "40_3", 
-      "lat": 51.084148157363, 
-      "lon": 3.444749042651, 
-      "municipality": "Aalter", 
-      "pcode": "9880", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Brouwerijstraat"
     }, 
     {
@@ -699,8 +701,6 @@
     }, 
     {
       "busnrs": [
-        "00OB", 
-        "0A", 
         "0B", 
         "1A", 
         "1B", 
@@ -746,7 +746,6 @@
     }, 
     {
       "busnrs": [
-        "00OA", 
         "0A", 
         "1A", 
         "2A"
@@ -853,6 +852,18 @@
       "housenumber": "59", 
       "lat": 51.083979184035, 
       "lon": 3.439214511774, 
+      "municipality": "Aalter", 
+      "pcode": "9880", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Brouwerijstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "6"
+      ], 
+      "housenumber": "6", 
+      "lat": 51.084254542535, 
+      "lon": 3.447581757943, 
       "municipality": "Aalter", 
       "pcode": "9880", 
       "source": "afgeleidVanGebouw", 
@@ -1117,6 +1128,18 @@
       "housenumber": "79", 
       "lat": 51.084772040307, 
       "lon": 3.435909040444, 
+      "municipality": "Aalter", 
+      "pcode": "9880", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Brouwerijstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "8"
+      ], 
+      "housenumber": "8", 
+      "lat": 51.084243987688, 
+      "lon": 3.447484912336, 
       "municipality": "Aalter", 
       "pcode": "9880", 
       "source": "afgeleidVanGebouw", 

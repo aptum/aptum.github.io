@@ -1200,7 +1200,7 @@
       "lon": 3.252308360612, 
       "municipality": "Ingelmunster", 
       "pcode": "8770", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Bruggestraat"
     }, 
     {
@@ -1677,8 +1677,8 @@
         "232"
       ], 
       "housenumber": "232", 
-      "lat": 50.935930423586, 
-      "lon": 3.250679102834, 
+      "lat": 50.93590619586, 
+      "lon": 3.250683948262, 
       "municipality": "Ingelmunster", 
       "pcode": "8770", 
       "source": "afgeleidVanGebouw", 
@@ -2518,8 +2518,8 @@
         "292"
       ], 
       "housenumber": "292", 
-      "lat": 50.94264725403, 
-      "lon": 3.248846934787, 
+      "lat": 50.942641396337, 
+      "lon": 3.248798265676, 
       "municipality": "Ingelmunster", 
       "pcode": "8770", 
       "source": "afgeleidVanGebouw", 
@@ -2626,8 +2626,8 @@
         "306"
       ], 
       "housenumber": "306", 
-      "lat": 50.944459369897, 
-      "lon": 3.25064569719, 
+      "lat": 50.944429329752, 
+      "lon": 3.250436370198, 
       "municipality": "Ingelmunster", 
       "pcode": "8770", 
       "source": "afgeleidVanGebouw", 
@@ -3054,9 +3054,10 @@
       "street": "Bruggestraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "102"
+      "apptnrs": [
+        "0001", 
+        "0101", 
+        "0102"
       ], 
       "hnrlbls": [
         "46"
@@ -3066,7 +3067,7 @@
       "lon": 3.254648952441, 
       "municipality": "Ingelmunster", 
       "pcode": "8770", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Bruggestraat"
     }, 
     {
@@ -3550,6 +3551,7 @@
     {
       "apptnrs": [
         "0001", 
+        "0002", 
         "0101", 
         "0102", 
         "0103", 
@@ -3558,9 +3560,6 @@
         "0203", 
         "0301", 
         "0302"
-      ], 
-      "busnrs": [
-        "0002"
       ], 
       "hnrlbls": [
         "8"

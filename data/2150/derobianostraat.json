@@ -151,6 +151,9 @@
       "street": "de Robianostraat"
     }, 
     {
+      "apptnrs": [
+        "1.0"
+      ], 
       "busnrs": [
         "0001", 
         "0002", 
@@ -158,7 +161,10 @@
         "0004", 
         "0005", 
         "0006", 
-        "0007"
+        "0007", 
+        "gelA", 
+        "gelM", 
+        "gelV"
       ], 
       "hnrlbls": [
         "109"
@@ -169,6 +175,22 @@
       "municipality": "Borsbeek", 
       "pcode": "2150", 
       "source": "manueleAanduidingVanGebouw", 
+      "street": "de Robianostraat"
+    }, 
+    {
+      "busnrs": [
+        "A", 
+        "M"
+      ], 
+      "hnrlbls": [
+        "8-109_1"
+      ], 
+      "housenumber": "109_1", 
+      "lat": 51.194359487609, 
+      "lon": 4.48174901869, 
+      "municipality": "Borsbeek", 
+      "pcode": "2150", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "de Robianostraat"
     }, 
     {

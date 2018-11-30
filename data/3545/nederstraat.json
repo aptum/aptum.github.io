@@ -2,17 +2,17 @@
   "addresses": [
     {
       "busnrs": [
-        "001", 
-        "002", 
-        "003", 
-        "004", 
-        "005", 
-        "006", 
-        "007", 
-        "008"
+        "B001", 
+        "B002", 
+        "B003", 
+        "B004", 
+        "B005", 
+        "B006", 
+        "B007", 
+        "B008"
       ], 
       "hnrlbls": [
-        "1-1B"
+        "1"
       ], 
       "housenumber": "1", 
       "lat": 50.948158174714, 
@@ -48,7 +48,7 @@
     }, 
     {
       "hnrlbls": [
-        "12-12B"
+        "12"
       ], 
       "housenumber": "12", 
       "lat": 50.948742847576, 
@@ -56,21 +56,6 @@
       "municipality": "Halen", 
       "pcode": "3545", 
       "source": "afgeleidVanPerceelGrb", 
-      "street": "Nederstraat"
-    }, 
-    {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "12-12B"
-      ], 
-      "housenumber": "12B", 
-      "lat": 50.948742847576, 
-      "lon": 5.115877129526, 
-      "municipality": "Halen", 
-      "pcode": "3545", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
       "street": "Nederstraat"
     }, 
     {
@@ -111,18 +96,6 @@
     }, 
     {
       "hnrlbls": [
-        "16"
-      ], 
-      "housenumber": "16", 
-      "lat": 50.948539063973, 
-      "lon": 5.116214140909, 
-      "municipality": "Halen", 
-      "pcode": "3545", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Nederstraat"
-    }, 
-    {
-      "hnrlbls": [
         "17"
       ], 
       "housenumber": "17", 
@@ -135,36 +108,14 @@
     }, 
     {
       "hnrlbls": [
-        "18-20B"
+        "18"
       ], 
       "housenumber": "18", 
-      "lat": 50.948594899698, 
-      "lon": 5.116269108969, 
+      "lat": 50.948477536181, 
+      "lon": 5.116333125691, 
       "municipality": "Halen", 
       "pcode": "3545", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Nederstraat"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6", 
-        "7", 
-        "8"
-      ], 
-      "hnrlbls": [
-        "1-1B"
-      ], 
-      "housenumber": "1B", 
-      "lat": 50.948158174714, 
-      "lon": 5.115139334718, 
-      "municipality": "Halen", 
-      "pcode": "3545", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Nederstraat"
     }, 
     {
@@ -180,50 +131,26 @@
       "street": "Nederstraat"
     }, 
     {
+      "apptnrs": [
+        "B001", 
+        "B002", 
+        "B003", 
+        "B004", 
+        "B006"
+      ], 
       "busnrs": [
-        "5"
+        "B005", 
+        "B007"
       ], 
       "hnrlbls": [
         "20"
       ], 
       "housenumber": "20", 
-      "lat": 50.948602393145, 
-      "lon": 5.116334690665, 
+      "lat": 50.948571792389, 
+      "lon": 5.116283825108, 
       "municipality": "Halen", 
       "pcode": "3545", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Nederstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "18-20B"
-      ], 
-      "housenumber": "20A", 
-      "lat": 50.948594899698, 
-      "lon": 5.116269108969, 
-      "municipality": "Halen", 
-      "pcode": "3545", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Nederstraat"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6"
-      ], 
-      "hnrlbls": [
-        "18-20B"
-      ], 
-      "housenumber": "20B", 
-      "lat": 50.948594899698, 
-      "lon": 5.116269108969, 
-      "municipality": "Halen", 
-      "pcode": "3545", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Nederstraat"
     }, 
     {

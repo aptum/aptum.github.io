@@ -136,9 +136,10 @@
       "street": "Leuvensestraat"
     }, 
     {
-      "apptnrs": [
-        "1", 
-        "2"
+      "busnrs": [
+        "00/1", 
+        "0001", 
+        "02/1"
       ], 
       "hnrlbls": [
         "106"
@@ -166,6 +167,7 @@
     {
       "apptnrs": [
         "0", 
+        "00/1", 
         "01/1", 
         "02/1", 
         "03/1", 
@@ -592,11 +594,6 @@
       "street": "Leuvensestraat"
     }, 
     {
-      "apptnrs": [
-        "0", 
-        "1", 
-        "2"
-      ], 
       "hnrlbls": [
         "136"
       ], 
@@ -895,11 +892,6 @@
       "street": "Leuvensestraat"
     }, 
     {
-      "apptnrs": [
-        "0", 
-        "1", 
-        "2"
-      ], 
       "hnrlbls": [
         "153"
       ], 
@@ -1027,26 +1019,14 @@
       "street": "Leuvensestraat"
     }, 
     {
+      "busnrs": [
+        "00/1", 
+        "01/1"
+      ], 
       "hnrlbls": [
-        "160-160A"
+        "160"
       ], 
       "housenumber": "160", 
-      "lat": 50.927579943316, 
-      "lon": 4.432713943717, 
-      "municipality": "Vilvoorde", 
-      "pcode": "1800", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Leuvensestraat"
-    }, 
-    {
-      "apptnrs": [
-        "1", 
-        "2"
-      ], 
-      "hnrlbls": [
-        "160-160A"
-      ], 
-      "housenumber": "160A", 
       "lat": 50.927579943316, 
       "lon": 4.432713943717, 
       "municipality": "Vilvoorde", 
@@ -1177,8 +1157,8 @@
         "168"
       ], 
       "housenumber": "168", 
-      "lat": 50.92750328272, 
-      "lon": 4.433493017323, 
+      "lat": 50.92750463159, 
+      "lon": 4.433492165776, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
       "source": "afgeleidVanGebouw", 
@@ -1907,12 +1887,13 @@
     }, 
     {
       "busnrs": [
+        "00/1", 
+        "0005", 
         "01/1", 
         "01/2", 
         "02/1", 
         "02/2", 
         "03/1", 
-        "03/2", 
         "04/1"
       ], 
       "hnrlbls": [
@@ -2426,7 +2407,8 @@
         "00/1", 
         "01/1", 
         "02", 
-        "03"
+        "03", 
+        "1"
       ], 
       "hnrlbls": [
         "95A"

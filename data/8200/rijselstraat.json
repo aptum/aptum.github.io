@@ -2,14 +2,14 @@
   "addresses": [
     {
       "hnrlbls": [
-        "1-1A"
+        "1"
       ], 
       "housenumber": "1", 
-      "lat": 51.194516454053, 
-      "lon": 3.215074901458, 
+      "lat": 51.194655961418, 
+      "lon": 3.216290549, 
       "municipality": "Brugge", 
       "pcode": "8200", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Rijselstraat"
     }, 
     {
@@ -41,8 +41,8 @@
         "101"
       ], 
       "housenumber": "101", 
-      "lat": 51.186922377754, 
-      "lon": 3.210951297639, 
+      "lat": 51.186923158608, 
+      "lon": 3.210948417355, 
       "municipality": "Brugge", 
       "pcode": "8200", 
       "source": "afgeleidVanGebouw", 
@@ -620,8 +620,8 @@
         "145"
       ], 
       "housenumber": "145", 
-      "lat": 51.184578249792, 
-      "lon": 3.210116436175, 
+      "lat": 51.184570068269, 
+      "lon": 3.210125507611, 
       "municipality": "Brugge", 
       "pcode": "8200", 
       "source": "afgeleidVanGebouw", 
@@ -1374,7 +1374,7 @@
         "8"
       ], 
       "hnrlbls": [
-        "1-1A"
+        "1A"
       ], 
       "housenumber": "1A", 
       "lat": 51.194516454053, 
@@ -1429,8 +1429,8 @@
         "200"
       ], 
       "housenumber": "200", 
-      "lat": 51.184148445594, 
-      "lon": 3.209418494305, 
+      "lat": 51.184146955488, 
+      "lon": 3.209431547717, 
       "municipality": "Brugge", 
       "pcode": "8200", 
       "source": "afgeleidVanGebouw", 
@@ -1489,8 +1489,8 @@
         "206"
       ], 
       "housenumber": "206", 
-      "lat": 51.183930932371, 
-      "lon": 3.209486259326, 
+      "lat": 51.183931682336, 
+      "lon": 3.209480233158, 
       "municipality": "Brugge", 
       "pcode": "8200", 
       "source": "afgeleidVanGebouw", 
@@ -1582,14 +1582,14 @@
     }, 
     {
       "hnrlbls": [
-        "216"
+        "216-218"
       ], 
       "housenumber": "216", 
-      "lat": 51.183460689279, 
-      "lon": 3.209504943626, 
+      "lat": 51.18357583383, 
+      "lon": 3.209485349584, 
       "municipality": "Brugge", 
       "pcode": "8200", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Rijselstraat"
     }, 
     {
@@ -1606,14 +1606,14 @@
     }, 
     {
       "hnrlbls": [
-        "218"
+        "216-218"
       ], 
       "housenumber": "218", 
-      "lat": 51.183487265263, 
-      "lon": 3.209400726102, 
+      "lat": 51.18357583383, 
+      "lon": 3.209485349584, 
       "municipality": "Brugge", 
       "pcode": "8200", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Rijselstraat"
     }, 
     {
@@ -2349,8 +2349,8 @@
         "298"
       ], 
       "housenumber": "298", 
-      "lat": 51.177536183094, 
-      "lon": 3.208352136913, 
+      "lat": 51.177539297754, 
+      "lon": 3.208367219346, 
       "municipality": "Brugge", 
       "pcode": "8200", 
       "source": "afgeleidVanGebouw", 
@@ -2814,11 +2814,11 @@
         "5"
       ], 
       "housenumber": "5", 
-      "lat": 51.194170712499, 
-      "lon": 3.21417210275, 
+      "lat": 51.192057515805, 
+      "lon": 3.214345112427, 
       "municipality": "Brugge", 
       "pcode": "8200", 
-      "source": "geinterpoleerdObvWegverbinding", 
+      "source": "afgeleidVanGebouw", 
       "street": "Rijselstraat"
     }, 
     {
@@ -3265,6 +3265,9 @@
       "street": "Rijselstraat"
     }, 
     {
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "82"
       ], 

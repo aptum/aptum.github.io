@@ -74,14 +74,14 @@
     }, 
     {
       "hnrlbls": [
-        "12P-13P"
+        "12P"
       ], 
       "housenumber": "12P", 
-      "lat": 50.774810136017, 
-      "lon": 3.193091241624, 
+      "lat": 50.775181004929, 
+      "lon": 3.193144800594, 
       "municipality": "Menen", 
       "pcode": "8930", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Lar"
     }, 
     {
@@ -98,14 +98,14 @@
     }, 
     {
       "hnrlbls": [
-        "12P-13P"
+        "13P"
       ], 
       "housenumber": "13P", 
       "lat": 50.774810136017, 
       "lon": 3.193091241624, 
       "municipality": "Menen", 
       "pcode": "8930", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Lar"
     }, 
     {
@@ -153,7 +153,7 @@
       "lon": 3.197181947731, 
       "municipality": "Menen", 
       "pcode": "8930", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Lar"
     }, 
     {
@@ -421,18 +421,15 @@
       "street": "Lar"
     }, 
     {
-      "busnrs": [
-        "101"
-      ], 
       "hnrlbls": [
         "30C"
       ], 
       "housenumber": "30C", 
-      "lat": 50.778201643136, 
-      "lon": 3.199920546487, 
+      "lat": 50.778200991309, 
+      "lon": 3.199918293794, 
       "municipality": "Menen", 
       "pcode": "8930", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Lar"
     }, 
     {
@@ -464,8 +461,8 @@
         "30P"
       ], 
       "housenumber": "30P", 
-      "lat": 50.774004985688, 
-      "lon": 3.189751718678, 
+      "lat": 50.774040424604, 
+      "lon": 3.189869369858, 
       "municipality": "Menen", 
       "pcode": "8930", 
       "source": "manueleAanduidingVanGebouw", 
@@ -476,11 +473,11 @@
         "31E"
       ], 
       "housenumber": "31E", 
-      "lat": 50.774903514666, 
-      "lon": 3.196128985916, 
+      "lat": 50.778746105315, 
+      "lon": 3.199900512316, 
       "municipality": "Menen", 
       "pcode": "8930", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Lar"
     }, 
     {
@@ -488,11 +485,11 @@
         "32E"
       ], 
       "housenumber": "32E", 
-      "lat": 50.778860076546, 
-      "lon": 3.198852287883, 
+      "lat": 50.778842340744, 
+      "lon": 3.19892192987, 
       "municipality": "Menen", 
       "pcode": "8930", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Lar"
     }, 
     {
@@ -592,6 +589,9 @@
       "street": "Lar"
     }, 
     {
+      "busnrs": [
+        "A"
+      ], 
       "hnrlbls": [
         "50P"
       ], 
@@ -605,20 +605,24 @@
     }, 
     {
       "busnrs": [
-        "301"
+        "0301", 
+        "A"
       ], 
       "hnrlbls": [
         "51P"
       ], 
       "housenumber": "51P", 
-      "lat": 50.773845876784, 
-      "lon": 3.194741512836, 
+      "lat": 50.773837841208, 
+      "lon": 3.194711227971, 
       "municipality": "Menen", 
       "pcode": "8930", 
       "source": "manueleAanduidingVanGebouw", 
       "street": "Lar"
     }, 
     {
+      "busnrs": [
+        "C"
+      ], 
       "hnrlbls": [
         "52P"
       ], 
@@ -631,6 +635,9 @@
       "street": "Lar"
     }, 
     {
+      "busnrs": [
+        "D"
+      ], 
       "hnrlbls": [
         "53P"
       ], 
@@ -752,18 +759,6 @@
     }, 
     {
       "hnrlbls": [
-        "6-6A"
-      ], 
-      "housenumber": "6", 
-      "lat": 50.775237654825, 
-      "lon": 3.197319548557, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Lar"
-    }, 
-    {
-      "hnrlbls": [
         "60M"
       ], 
       "housenumber": "60M", 
@@ -800,19 +795,19 @@
     }, 
     {
       "hnrlbls": [
-        "64"
+        "64P"
       ], 
-      "housenumber": "64", 
+      "housenumber": "64P", 
       "lat": 50.7739977542, 
       "lon": 3.192189444569, 
       "municipality": "Menen", 
       "pcode": "8930", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Lar"
     }, 
     {
       "hnrlbls": [
-        "6-6A"
+        "6A"
       ], 
       "housenumber": "6A", 
       "lat": 50.775237654825, 
@@ -827,11 +822,11 @@
         "70M"
       ], 
       "housenumber": "70M", 
-      "lat": 50.77594885796, 
-      "lon": 3.186117703853, 
+      "lat": 50.775993123442, 
+      "lon": 3.186717674475, 
       "municipality": "Menen", 
       "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Lar"
     }, 
     {
@@ -843,7 +838,7 @@
       "lon": 3.188561892075, 
       "municipality": "Menen", 
       "pcode": "8930", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Lar"
     }, 
     {

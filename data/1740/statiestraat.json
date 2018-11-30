@@ -145,15 +145,23 @@
       "street": "Statiestraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "002", 
+        "101", 
+        "102", 
+        "201", 
+        "202"
+      ], 
       "hnrlbls": [
         "11"
       ], 
       "housenumber": "11", 
-      "lat": 50.870344303044, 
-      "lon": 4.176526497876, 
+      "lat": 50.870373164888, 
+      "lon": 4.176529931851, 
       "municipality": "Ternat", 
       "pcode": "1740", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Statiestraat"
     }, 
     {
@@ -381,6 +389,25 @@
       "housenumber": "128", 
       "lat": 50.873500006508, 
       "lon": 4.168933797452, 
+      "municipality": "Ternat", 
+      "pcode": "1740", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Statiestraat"
+    }, 
+    {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "102", 
+        "201", 
+        "202"
+      ], 
+      "hnrlbls": [
+        "13"
+      ], 
+      "housenumber": "13", 
+      "lat": 50.870343839992, 
+      "lon": 4.176353038056, 
       "municipality": "Ternat", 
       "pcode": "1740", 
       "source": "afgeleidVanGebouw", 
@@ -700,6 +727,9 @@
       "street": "Statiestraat"
     }, 
     {
+      "busnrs": [
+        "101"
+      ], 
       "hnrlbls": [
         "158"
       ], 
@@ -1118,15 +1148,20 @@
       "street": "Statiestraat"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201", 
+        "202"
+      ], 
       "hnrlbls": [
         "33a"
       ], 
       "housenumber": "33a", 
-      "lat": 50.870340757117, 
-      "lon": 4.174911656352, 
+      "lat": 50.870282221013, 
+      "lon": 4.174902804827, 
       "municipality": "Ternat", 
       "pcode": "1740", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Statiestraat"
     }, 
     {
@@ -1252,11 +1287,11 @@
         "44"
       ], 
       "housenumber": "44", 
-      "lat": 50.870861905553, 
-      "lon": 4.173839466323, 
+      "lat": 50.870846468204, 
+      "lon": 4.173854305088, 
       "municipality": "Ternat", 
       "pcode": "1740", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Statiestraat"
     }, 
     {
@@ -1300,11 +1335,11 @@
         "48"
       ], 
       "housenumber": "48", 
-      "lat": 50.871589381058, 
-      "lon": 4.172784295522, 
+      "lat": 50.871602620799, 
+      "lon": 4.172799441887, 
       "municipality": "Ternat", 
       "pcode": "1740", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Statiestraat"
     }, 
     {
@@ -1426,12 +1461,19 @@
       "street": "Statiestraat"
     }, 
     {
-      "hnrlbls": [
-        "57"
+      "apptnrs": [
+        "001", 
+        "002", 
+        "101", 
+        "102", 
+        "103"
       ], 
-      "housenumber": "57", 
-      "lat": 50.873252553796, 
-      "lon": 4.16820969999, 
+      "hnrlbls": [
+        "56"
+      ], 
+      "housenumber": "56", 
+      "lat": 50.871839817206, 
+      "lon": 4.172507923291, 
       "municipality": "Ternat", 
       "pcode": "1740", 
       "source": "afgeleidVanGebouw", 
@@ -1439,11 +1481,11 @@
     }, 
     {
       "hnrlbls": [
-        "58"
+        "57"
       ], 
-      "housenumber": "58", 
-      "lat": 50.871991099031, 
-      "lon": 4.17266314471, 
+      "housenumber": "57", 
+      "lat": 50.873252553796, 
+      "lon": 4.16820969999, 
       "municipality": "Ternat", 
       "pcode": "1740", 
       "source": "afgeleidVanGebouw", 
@@ -1670,11 +1712,11 @@
         "81-85"
       ], 
       "housenumber": "81", 
-      "lat": 50.873850479448, 
-      "lon": 4.1666007039, 
+      "lat": 50.873841926337, 
+      "lon": 4.166593068479, 
       "municipality": "Ternat", 
       "pcode": "1740", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Statiestraat"
     }, 
     {
@@ -1702,11 +1744,11 @@
         "81-85"
       ], 
       "housenumber": "83", 
-      "lat": 50.873850479448, 
-      "lon": 4.1666007039, 
+      "lat": 50.873841926337, 
+      "lon": 4.166593068479, 
       "municipality": "Ternat", 
       "pcode": "1740", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Statiestraat"
     }, 
     {
@@ -1717,15 +1759,16 @@
         "81-85"
       ], 
       "housenumber": "85", 
-      "lat": 50.873850479448, 
-      "lon": 4.1666007039, 
+      "lat": 50.873841926337, 
+      "lon": 4.166593068479, 
       "municipality": "Ternat", 
       "pcode": "1740", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Statiestraat"
     }, 
     {
       "busnrs": [
+        "101", 
         "201"
       ], 
       "hnrlbls": [

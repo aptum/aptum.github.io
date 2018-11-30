@@ -191,11 +191,11 @@
         "24"
       ], 
       "housenumber": "24", 
-      "lat": 51.206634600769, 
-      "lon": 4.405549937259, 
+      "lat": 51.207180073381, 
+      "lon": 4.406222902063, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanToegangTotDeWeg", 
       "street": "Molenstraat"
     }, 
     {
@@ -321,23 +321,23 @@
         "33"
       ], 
       "housenumber": "33", 
-      "lat": 51.207323587661, 
-      "lon": 4.406318890564, 
+      "lat": 51.207305089725, 
+      "lon": 4.406262497498, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Molenstraat"
     }, 
     {
       "hnrlbls": [
-        "33B"
+        "33A"
       ], 
-      "housenumber": "33B", 
-      "lat": 51.20732547375, 
-      "lon": 4.406323471028, 
+      "housenumber": "33A", 
+      "lat": 51.207342197375, 
+      "lon": 4.406307601624, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Molenstraat"
     }, 
     {
@@ -610,11 +610,11 @@
         "54"
       ], 
       "housenumber": "54", 
-      "lat": 51.206587505834, 
-      "lon": 4.407199857462, 
+      "lat": 51.206706498157, 
+      "lon": 4.40724388572, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
-      "source": "manueleAanduidingVanToegangTotDeWeg", 
+      "source": "afgeleidVanGebouw", 
       "street": "Molenstraat"
     }, 
     {
@@ -787,6 +787,7 @@
     }, 
     {
       "busnrs": [
+        "1", 
         "2", 
         "3"
       ], 
@@ -929,13 +930,24 @@
       "street": "Molenstraat"
     }, 
     {
-      "busnrs": [
-        "11", 
-        "3", 
-        "9"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "102", 
+        "103", 
+        "104", 
+        "201", 
+        "202", 
+        "203", 
+        "204", 
+        "301", 
+        "302", 
+        "303", 
+        "304", 
+        "401"
       ], 
       "hnrlbls": [
-        "78-80"
+        "78"
       ], 
       "housenumber": "78", 
       "lat": 51.20620790881, 
@@ -946,15 +958,20 @@
       "street": "Molenstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "79"
       ], 
       "housenumber": "79", 
-      "lat": 51.206427234375, 
-      "lon": 4.408818052838, 
+      "lat": 51.20633051318, 
+      "lon": 4.408834280362, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Molenstraat"
     }, 
     {
@@ -964,32 +981,6 @@
       "housenumber": "8", 
       "lat": 51.207353633546, 
       "lon": 4.405113371467, 
-      "municipality": "Antwerpen", 
-      "pcode": "2018", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Molenstraat"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "10", 
-        "11", 
-        "12", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6", 
-        "7", 
-        "8", 
-        "9"
-      ], 
-      "hnrlbls": [
-        "78-80"
-      ], 
-      "housenumber": "80", 
-      "lat": 51.20620790881, 
-      "lon": 4.408578904665, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "afgeleidVanGebouw", 
@@ -1016,11 +1007,11 @@
         "41"
       ], 
       "hnrlbls": [
-        "4-86"
+        "82"
       ], 
       "housenumber": "82", 
-      "lat": 51.205921572593, 
-      "lon": 4.408737339242, 
+      "lat": 51.206149159373, 
+      "lon": 4.408738825512, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "afgeleidVanGebouw", 
@@ -1063,11 +1054,11 @@
         "52"
       ], 
       "hnrlbls": [
-        "4-86"
+        "86"
       ], 
       "housenumber": "86", 
-      "lat": 51.205921572593, 
-      "lon": 4.408737339242, 
+      "lat": 51.205993147562, 
+      "lon": 4.408919694597, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "afgeleidVanGebouw", 

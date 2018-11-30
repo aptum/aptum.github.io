@@ -5,11 +5,11 @@
         "10"
       ], 
       "housenumber": "10", 
-      "lat": 50.795304422198, 
-      "lon": 3.185546707619, 
+      "lat": 50.795302341959, 
+      "lon": 3.185545483189, 
       "municipality": "Menen", 
       "pcode": "8930", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Leiestraat"
     }, 
     {
@@ -29,8 +29,8 @@
         "102"
       ], 
       "housenumber": "102", 
-      "lat": 50.79948939044, 
-      "lon": 3.1878592598, 
+      "lat": 50.799488353257, 
+      "lon": 3.187863400011, 
       "municipality": "Menen", 
       "pcode": "8930", 
       "source": "afgeleidVanGebouw", 
@@ -38,16 +38,16 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "101", 
-        "102", 
-        "103", 
-        "2", 
-        "201", 
-        "202", 
-        "203", 
-        "301", 
-        "302"
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0301", 
+        "0302"
       ], 
       "hnrlbls": [
         "103"
@@ -63,16 +63,16 @@
     {
       "busnrs": [
         "0001", 
+        "0002", 
+        "0003", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0201", 
         "0202", 
-        "101", 
-        "102", 
-        "103", 
-        "2", 
-        "201", 
-        "203", 
-        "3", 
-        "301", 
-        "302"
+        "0203", 
+        "0301", 
+        "0302"
       ], 
       "hnrlbls": [
         "105"
@@ -118,7 +118,7 @@
       "lon": 3.185310174678, 
       "municipality": "Menen", 
       "pcode": "8930", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Leiestraat"
     }, 
     {
@@ -154,7 +154,7 @@
       "lon": 3.185564284551, 
       "municipality": "Menen", 
       "pcode": "8930", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Leiestraat"
     }, 
     {
@@ -214,7 +214,7 @@
       "lon": 3.185335150992, 
       "municipality": "Menen", 
       "pcode": "8930", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Leiestraat"
     }, 
     {
@@ -450,8 +450,8 @@
         "3C"
       ], 
       "housenumber": "3C", 
-      "lat": 50.795205276723, 
-      "lon": 3.184907868185, 
+      "lat": 50.795204435523, 
+      "lon": 3.184922500503, 
       "municipality": "Menen", 
       "pcode": "8930", 
       "source": "afgeleidVanGebouw", 
@@ -471,22 +471,22 @@
     }, 
     {
       "busnrs": [
-        "101", 
-        "102", 
-        "201", 
-        "202", 
-        "301", 
-        "302"
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302"
       ], 
       "hnrlbls": [
         "4-8B"
       ], 
       "housenumber": "4", 
-      "lat": 50.794987677759, 
-      "lon": 3.185279609817, 
+      "lat": 50.795072880322, 
+      "lon": 3.185321159739, 
       "municipality": "Menen", 
       "pcode": "8930", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Leiestraat"
     }, 
     {
@@ -510,7 +510,7 @@
       "lon": 3.185643166387, 
       "municipality": "Menen", 
       "pcode": "8930", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Leiestraat"
     }, 
     {
@@ -578,8 +578,8 @@
         "48"
       ], 
       "housenumber": "48", 
-      "lat": 50.796671215464, 
-      "lon": 3.185503705835, 
+      "lat": 50.796670762865, 
+      "lon": 3.185494496283, 
       "municipality": "Menen", 
       "pcode": "8930", 
       "source": "manueleAanduidingVanGebouw", 
@@ -587,18 +587,18 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "101", 
-        "102", 
-        "201", 
-        "202"
+        "0001", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202"
       ], 
       "hnrlbls": [
         "49"
       ], 
       "housenumber": "49", 
-      "lat": 50.797863859856, 
-      "lon": 3.184517284959, 
+      "lat": 50.79786550071, 
+      "lon": 3.184519513511, 
       "municipality": "Menen", 
       "pcode": "8930", 
       "source": "afgeleidVanGebouw", 
@@ -618,35 +618,11 @@
     }, 
     {
       "hnrlbls": [
-        "52"
-      ], 
-      "housenumber": "52", 
-      "lat": 50.797022108329, 
-      "lon": 3.185430765927, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "manueleAanduidingVanLot", 
-      "street": "Leiestraat"
-    }, 
-    {
-      "hnrlbls": [
-        "54"
-      ], 
-      "housenumber": "54", 
-      "lat": 50.797145129784, 
-      "lon": 3.185397883007, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "manueleAanduidingVanLot", 
-      "street": "Leiestraat"
-    }, 
-    {
-      "hnrlbls": [
         "56"
       ], 
       "housenumber": "56", 
-      "lat": 50.797801570986, 
-      "lon": 3.185427063931, 
+      "lat": 50.797800001105, 
+      "lon": 3.185414051918, 
       "municipality": "Menen", 
       "pcode": "8930", 
       "source": "afgeleidVanGebouw", 
@@ -666,25 +642,25 @@
     }, 
     {
       "busnrs": [
-        "101", 
-        "102", 
-        "103", 
-        "201", 
-        "202", 
-        "203", 
-        "301", 
-        "302", 
-        "303"
+        "0101", 
+        "0102", 
+        "0103", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0301", 
+        "0302", 
+        "0303"
       ], 
       "hnrlbls": [
         "4-8B"
       ], 
       "housenumber": "6", 
-      "lat": 50.794987677759, 
-      "lon": 3.185279609817, 
+      "lat": 50.795072880322, 
+      "lon": 3.185321159739, 
       "municipality": "Menen", 
       "pcode": "8930", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Leiestraat"
     }, 
     {
@@ -817,11 +793,11 @@
         "69"
       ], 
       "housenumber": "69", 
-      "lat": 50.799205518032, 
-      "lon": 3.184914390443, 
+      "lat": 50.799389453278, 
+      "lon": 3.184895010965, 
       "municipality": "Menen", 
       "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Leiestraat"
     }, 
     {
@@ -838,14 +814,26 @@
     }, 
     {
       "hnrlbls": [
-        "70"
+        "70-70A"
       ], 
       "housenumber": "70", 
-      "lat": 50.79845917854, 
-      "lon": 3.185821237026, 
+      "lat": 50.798517402167, 
+      "lon": 3.185719616746, 
       "municipality": "Menen", 
       "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Leiestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "70-70A"
+      ], 
+      "housenumber": "70A", 
+      "lat": 50.798517402167, 
+      "lon": 3.185719616746, 
+      "municipality": "Menen", 
+      "pcode": "8930", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Leiestraat"
     }, 
     {
@@ -937,8 +925,8 @@
         "80"
       ], 
       "housenumber": "80", 
-      "lat": 50.798780717817, 
-      "lon": 3.186376652775, 
+      "lat": 50.798790067035, 
+      "lon": 3.186367622238, 
       "municipality": "Menen", 
       "pcode": "8930", 
       "source": "afgeleidVanGebouw", 
@@ -973,11 +961,11 @@
         "84"
       ], 
       "housenumber": "84", 
-      "lat": 50.798972599266, 
-      "lon": 3.186761827059, 
+      "lat": 50.79895621743, 
+      "lon": 3.186590578962, 
       "municipality": "Menen", 
       "pcode": "8930", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Leiestraat"
     }, 
     {
@@ -997,11 +985,11 @@
         "4-8B"
       ], 
       "housenumber": "8B", 
-      "lat": 50.794987677759, 
-      "lon": 3.185279609817, 
+      "lat": 50.795072880322, 
+      "lon": 3.185321159739, 
       "municipality": "Menen", 
       "pcode": "8930", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Leiestraat"
     }, 
     {
@@ -1093,8 +1081,8 @@
         "98"
       ], 
       "housenumber": "98", 
-      "lat": 50.799380077199, 
-      "lon": 3.187655441155, 
+      "lat": 50.799379185495, 
+      "lon": 3.187656172868, 
       "municipality": "Menen", 
       "pcode": "8930", 
       "source": "afgeleidVanGebouw", 

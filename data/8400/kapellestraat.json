@@ -107,14 +107,14 @@
     }, 
     {
       "hnrlbls": [
-        "12-14"
+        "12"
       ], 
       "housenumber": "12", 
-      "lat": 51.231346869359, 
-      "lon": 2.917960697906, 
+      "lat": 51.231371497295, 
+      "lon": 2.917938309691, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Kapellestraat"
     }, 
     {
@@ -122,8 +122,8 @@
         "13"
       ], 
       "housenumber": "13", 
-      "lat": 51.23124674904, 
-      "lon": 2.917589222654, 
+      "lat": 51.231248731367, 
+      "lon": 2.917589590544, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -131,14 +131,14 @@
     }, 
     {
       "hnrlbls": [
-        "12-14"
+        "14"
       ], 
       "housenumber": "14", 
-      "lat": 51.231346869359, 
-      "lon": 2.917960697906, 
+      "lat": 51.231316995472, 
+      "lon": 2.917987831445, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Kapellestraat"
     }, 
     {
@@ -185,8 +185,8 @@
         "19"
       ], 
       "housenumber": "19", 
-      "lat": 51.231002540746, 
-      "lon": 2.918033268545, 
+      "lat": 51.230999737336, 
+      "lon": 2.918031923843, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -712,11 +712,11 @@
         "29"
       ], 
       "hnrlbls": [
-        "6"
+        "6-8"
       ], 
       "housenumber": "6", 
-      "lat": 51.23151435369, 
-      "lon": 2.917770052838, 
+      "lat": 51.231490562673, 
+      "lon": 2.917794706254, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -782,8 +782,8 @@
         "66"
       ], 
       "housenumber": "66", 
-      "lat": 51.229347981736, 
-      "lon": 2.920041231244, 
+      "lat": 51.229349218834, 
+      "lon": 2.920039474582, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -791,7 +791,7 @@
     }, 
     {
       "busnrs": [
-        "101"
+        "0101"
       ], 
       "hnrlbls": [
         "67"
@@ -805,22 +805,27 @@
       "street": "Kapellestraat"
     }, 
     {
-      "busnrs": [
-        "2", 
-        "201", 
-        "3", 
-        "301", 
-        "4"
-      ], 
       "hnrlbls": [
         "68"
       ], 
       "housenumber": "68", 
-      "lat": 51.229274759821, 
-      "lon": 2.920125837633, 
+      "lat": 51.229256365867, 
+      "lon": 2.920011287689, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Kapellestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "68A"
+      ], 
+      "housenumber": "68A", 
+      "lat": 51.229209121283, 
+      "lon": 2.920058861082, 
+      "municipality": "Oostende", 
+      "pcode": "8400", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kapellestraat"
     }, 
     {
@@ -872,32 +877,37 @@
       "street": "Kapellestraat"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101"
+      ], 
       "hnrlbls": [
         "72B"
       ], 
       "housenumber": "72B", 
-      "lat": 51.228942280457, 
-      "lon": 2.920446732831, 
+      "lat": 51.228930670382, 
+      "lon": 2.920364905374, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kapellestraat"
     }, 
     {
       "busnrs": [
-        "201", 
-        "202", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0401", 
+        "0402", 
         "4", 
-        "401", 
-        "402", 
         "A"
       ], 
       "hnrlbls": [
         "73"
       ], 
       "housenumber": "73", 
-      "lat": 51.229534975232, 
-      "lon": 2.919520093954, 
+      "lat": 51.229535445604, 
+      "lon": 2.919521797575, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -917,15 +927,15 @@
     }, 
     {
       "busnrs": [
-        "202", 
+        "0202", 
         "6"
       ], 
       "hnrlbls": [
         "75"
       ], 
       "housenumber": "75", 
-      "lat": 51.229501953885, 
-      "lon": 2.919547180048, 
+      "lat": 51.22949984969, 
+      "lon": 2.919551541029, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1018,8 +1028,8 @@
         "79"
       ], 
       "housenumber": "79", 
-      "lat": 51.22931193311, 
-      "lon": 2.919622959622, 
+      "lat": 51.229312360953, 
+      "lon": 2.919628530577, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -1027,11 +1037,11 @@
     }, 
     {
       "hnrlbls": [
-        "8"
+        "6-8"
       ], 
       "housenumber": "8", 
-      "lat": 51.231466063252, 
-      "lon": 2.917820240841, 
+      "lat": 51.231490562673, 
+      "lon": 2.917794706254, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -1039,14 +1049,14 @@
     }, 
     {
       "busnrs": [
-        "101", 
-        "2", 
-        "201", 
-        "301", 
-        "401", 
-        "402", 
-        "501", 
-        "502"
+        "0101", 
+        "0201", 
+        "0301", 
+        "0401", 
+        "0402", 
+        "0501", 
+        "0502", 
+        "2"
       ], 
       "hnrlbls": [
         "80"
@@ -1064,8 +1074,8 @@
         "81"
       ], 
       "housenumber": "81", 
-      "lat": 51.229264454148, 
-      "lon": 2.919673404467, 
+      "lat": 51.229282561917, 
+      "lon": 2.919720522691, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -1100,8 +1110,8 @@
         "83"
       ], 
       "housenumber": "83", 
-      "lat": 51.229218626527, 
-      "lon": 2.91971921596, 
+      "lat": 51.229218502894, 
+      "lon": 2.919723801741, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -1133,8 +1143,8 @@
     }, 
     {
       "busnrs": [
+        "0201", 
         "2", 
-        "201", 
         "3", 
         "4", 
         "5", 
@@ -1145,8 +1155,8 @@
         "86"
       ], 
       "housenumber": "86", 
-      "lat": 51.228392188218, 
-      "lon": 2.920983713438, 
+      "lat": 51.228393692643, 
+      "lon": 2.920989107691, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1306,8 +1316,8 @@
         "95"
       ], 
       "housenumber": "95", 
-      "lat": 51.228583900761, 
-      "lon": 2.920341024483, 
+      "lat": 51.22858183783, 
+      "lon": 2.920334072555, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 

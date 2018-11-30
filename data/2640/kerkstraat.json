@@ -2,26 +2,14 @@
   "addresses": [
     {
       "hnrlbls": [
-        "1"
-      ], 
-      "housenumber": "1", 
-      "lat": 51.165517002232, 
-      "lon": 4.462769759874, 
-      "municipality": "Mortsel", 
-      "pcode": "2640", 
-      "source": "geinterpoleerdObvWegverbinding", 
-      "street": "Kerkstraat"
-    }, 
-    {
-      "hnrlbls": [
         "101"
       ], 
       "housenumber": "101", 
-      "lat": 51.168366701689, 
-      "lon": 4.463043184785, 
+      "lat": 51.168368671583, 
+      "lon": 4.463052624935, 
       "municipality": "Mortsel", 
       "pcode": "2640", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -140,8 +128,8 @@
         "11"
       ], 
       "housenumber": "11", 
-      "lat": 51.165806413309, 
-      "lon": 4.463131902961, 
+      "lat": 51.165806863198, 
+      "lon": 4.463131332021, 
       "municipality": "Mortsel", 
       "pcode": "2640", 
       "source": "afgeleidVanGebouw", 
@@ -216,14 +204,14 @@
         "4"
       ], 
       "hnrlbls": [
-        "114-116"
+        "114"
       ], 
       "housenumber": "114", 
-      "lat": 51.169111939137, 
-      "lon": 4.463272887852, 
+      "lat": 51.169109219399, 
+      "lon": 4.463301620101, 
       "municipality": "Mortsel", 
       "pcode": "2640", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -240,7 +228,7 @@
     }, 
     {
       "hnrlbls": [
-        "114-116"
+        "116"
       ], 
       "housenumber": "116", 
       "lat": 51.169111939137, 
@@ -478,7 +466,7 @@
       "lon": 4.463696586145, 
       "municipality": "Mortsel", 
       "pcode": "2640", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -486,11 +474,11 @@
         "27"
       ], 
       "housenumber": "27", 
-      "lat": 51.166112623674, 
-      "lon": 4.463726402904, 
+      "lat": 51.166109385589, 
+      "lon": 4.463729112602, 
       "municipality": "Mortsel", 
       "pcode": "2640", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -538,8 +526,8 @@
         "32"
       ], 
       "housenumber": "32", 
-      "lat": 51.16668500056, 
-      "lon": 4.463967759899, 
+      "lat": 51.16668356715, 
+      "lon": 4.46396189532, 
       "municipality": "Mortsel", 
       "pcode": "2640", 
       "source": "afgeleidVanGebouw", 
@@ -551,14 +539,14 @@
         "glvl"
       ], 
       "hnrlbls": [
-        "33"
+        "33-35"
       ], 
       "housenumber": "33", 
-      "lat": 51.166226754578, 
-      "lon": 4.463645146575, 
+      "lat": 51.166230877052, 
+      "lon": 4.463660309337, 
       "municipality": "Mortsel", 
       "pcode": "2640", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -575,14 +563,14 @@
     }, 
     {
       "hnrlbls": [
-        "35"
+        "33-35"
       ], 
       "housenumber": "35", 
-      "lat": 51.166185823785, 
-      "lon": 4.463351984191, 
+      "lat": 51.166230877052, 
+      "lon": 4.463660309337, 
       "municipality": "Mortsel", 
       "pcode": "2640", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -626,8 +614,8 @@
         "39"
       ], 
       "housenumber": "39", 
-      "lat": 51.166416509705, 
-      "lon": 4.463637529014, 
+      "lat": 51.166415075005, 
+      "lon": 4.463633237101, 
       "municipality": "Mortsel", 
       "pcode": "2640", 
       "source": "afgeleidVanGebouw", 
@@ -780,11 +768,11 @@
         "5"
       ], 
       "housenumber": "5", 
-      "lat": 51.165737375492, 
-      "lon": 4.462915172232, 
+      "lat": 51.165736745833, 
+      "lon": 4.462915742807, 
       "municipality": "Mortsel", 
       "pcode": "2640", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -836,6 +824,10 @@
       "street": "Kerkstraat"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "GLVL"
+      ], 
       "hnrlbls": [
         "56"
       ], 
@@ -844,19 +836,19 @@
       "lon": 4.463744517236, 
       "municipality": "Mortsel", 
       "pcode": "2640", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
       "hnrlbls": [
-        "57-59"
+        "57"
       ], 
       "housenumber": "57", 
-      "lat": 51.166895970362, 
-      "lon": 4.463403043453, 
+      "lat": 51.166904342012, 
+      "lon": 4.463499134617, 
       "municipality": "Mortsel", 
       "pcode": "2640", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -869,18 +861,6 @@
       "municipality": "Mortsel", 
       "pcode": "2640", 
       "source": "afgeleidVanGebouw", 
-      "street": "Kerkstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "57-59"
-      ], 
-      "housenumber": "59", 
-      "lat": 51.166895970362, 
-      "lon": 4.463403043453, 
-      "municipality": "Mortsel", 
-      "pcode": "2640", 
-      "source": "afgeleidVanPerceelGrb", 
       "street": "Kerkstraat"
     }, 
     {
@@ -989,8 +969,8 @@
         "69"
       ], 
       "housenumber": "69", 
-      "lat": 51.167260057295, 
-      "lon": 4.463341738748, 
+      "lat": 51.16726022357, 
+      "lon": 4.463358466396, 
       "municipality": "Mortsel", 
       "pcode": "2640", 
       "source": "afgeleidVanGebouw", 
@@ -1297,8 +1277,8 @@
         "94"
       ], 
       "housenumber": "94", 
-      "lat": 51.168631125386, 
-      "lon": 4.463402870107, 
+      "lat": 51.168633903759, 
+      "lon": 4.463412883867, 
       "municipality": "Mortsel", 
       "pcode": "2640", 
       "source": "afgeleidVanGebouw", 
@@ -1321,8 +1301,8 @@
         "96"
       ], 
       "housenumber": "96", 
-      "lat": 51.168676414449, 
-      "lon": 4.463419404477, 
+      "lat": 51.168676504335, 
+      "lon": 4.463419404661, 
       "municipality": "Mortsel", 
       "pcode": "2640", 
       "source": "afgeleidVanGebouw", 

@@ -1,19 +1,25 @@
 {
   "addresses": [
     {
+      "apptnrs": [
+        "B001", 
+        "B004", 
+        "B005", 
+        "B006"
+      ], 
       "busnrs": [
-        "2", 
-        "3"
+        "B002", 
+        "B003"
       ], 
       "hnrlbls": [
-        "1-5B"
+        "1"
       ], 
       "housenumber": "1", 
-      "lat": 50.947035694465, 
-      "lon": 5.115595898881, 
+      "lat": 50.947023025992, 
+      "lon": 5.115608931275, 
       "municipality": "Halen", 
       "pcode": "3545", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sportlaan"
     }, 
     {
@@ -45,11 +51,11 @@
         "15"
       ], 
       "housenumber": "15", 
-      "lat": 50.946651790188, 
-      "lon": 5.114796725363, 
+      "lat": 50.94675231858, 
+      "lon": 5.114736423803, 
       "municipality": "Halen", 
       "pcode": "3545", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Sportlaan"
     }, 
     {
@@ -96,33 +102,15 @@
       "street": "Sportlaan"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "4", 
-        "5", 
-        "6"
-      ], 
       "hnrlbls": [
-        "1-5B"
-      ], 
-      "housenumber": "1B", 
-      "lat": 50.947035694465, 
-      "lon": 5.115595898881, 
-      "municipality": "Halen", 
-      "pcode": "3545", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Sportlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "2-4A"
+        "2"
       ], 
       "housenumber": "2", 
-      "lat": 50.946560503105, 
-      "lon": 5.115665880778, 
+      "lat": 50.946820249545, 
+      "lon": 5.115872518842, 
       "municipality": "Halen", 
       "pcode": "3545", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sportlaan"
     }, 
     {
@@ -228,7 +216,7 @@
       "lon": 5.113163983041, 
       "municipality": "Halen", 
       "pcode": "3545", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Sportlaan"
     }, 
     {
@@ -257,26 +245,26 @@
     }, 
     {
       "hnrlbls": [
-        "2A-2B"
+        "2A"
       ], 
       "housenumber": "2A", 
-      "lat": 50.946553493404, 
-      "lon": 5.115608990231, 
+      "lat": 50.94686990534, 
+      "lon": 5.11605104793, 
       "municipality": "Halen", 
       "pcode": "3545", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Sportlaan"
     }, 
     {
       "hnrlbls": [
-        "2A-2B"
+        "2B"
       ], 
       "housenumber": "2B", 
-      "lat": 50.946553493404, 
-      "lon": 5.115608990231, 
+      "lat": 50.946880866722, 
+      "lon": 5.115924856942, 
       "municipality": "Halen", 
       "pcode": "3545", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Sportlaan"
     }, 
     {
@@ -373,14 +361,14 @@
         "3"
       ], 
       "hnrlbls": [
-        "/zn-38B"
+        "38B"
       ], 
       "housenumber": "38B", 
-      "lat": 50.945901422333, 
-      "lon": 5.111691160473, 
+      "lat": 50.946247155828, 
+      "lon": 5.109016814417, 
       "municipality": "Halen", 
       "pcode": "3545", 
-      "source": "afgeleidVanStraat", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Sportlaan"
     }, 
     {
@@ -408,18 +396,6 @@
       "street": "Sportlaan"
     }, 
     {
-      "hnrlbls": [
-        "41"
-      ], 
-      "housenumber": "41", 
-      "lat": 50.946604608875, 
-      "lon": 5.109013211343, 
-      "municipality": "Halen", 
-      "pcode": "3545", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Sportlaan"
-    }, 
-    {
       "busnrs": [
         "45B001", 
         "45B002", 
@@ -441,14 +417,26 @@
     }, 
     {
       "hnrlbls": [
-        "2-4A"
+        "4A"
       ], 
       "housenumber": "4A", 
-      "lat": 50.946560503105, 
-      "lon": 5.115665880778, 
+      "lat": 50.946525163929, 
+      "lon": 5.11546950897, 
       "municipality": "Halen", 
       "pcode": "3545", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Sportlaan"
+    }, 
+    {
+      "hnrlbls": [
+        "4B"
+      ], 
+      "housenumber": "4B", 
+      "lat": 50.946125879206, 
+      "lon": 5.114812971093, 
+      "municipality": "Halen", 
+      "pcode": "3545", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Sportlaan"
     }, 
     {
@@ -468,11 +456,11 @@
         "6"
       ], 
       "housenumber": "6", 
-      "lat": 50.945639869168, 
-      "lon": 5.113698566562, 
+      "lat": 50.945869186504, 
+      "lon": 5.114153447412, 
       "municipality": "Halen", 
       "pcode": "3545", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sportlaan"
     }, 
     {
@@ -504,18 +492,6 @@
       "municipality": "Halen", 
       "pcode": "3545", 
       "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Sportlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "/zn-38B"
-      ], 
-      "housenumber": "zn", 
-      "lat": 50.945901422333, 
-      "lon": 5.111691160473, 
-      "municipality": "Halen", 
-      "pcode": "3545", 
-      "source": "afgeleidVanStraat", 
       "street": "Sportlaan"
     }
   ]

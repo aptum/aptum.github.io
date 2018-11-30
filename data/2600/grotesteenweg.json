@@ -568,6 +568,7 @@
         "62", 
         "63", 
         "64", 
+        "65", 
         "66", 
         "67", 
         "68"
@@ -581,21 +582,6 @@
       "municipality": "Antwerpen", 
       "pcode": "2600", 
       "source": "afgeleidVanPerceelGrb", 
-      "street": "Grotesteenweg"
-    }, 
-    {
-      "apptnrs": [
-        "6.5"
-      ], 
-      "hnrlbls": [
-        "146B"
-      ], 
-      "housenumber": "146B", 
-      "lat": 51.195494585582, 
-      "lon": 4.419398568363, 
-      "municipality": "Antwerpen", 
-      "pcode": "2600", 
-      "source": "manueleAanduidingVanGebouw", 
       "street": "Grotesteenweg"
     }, 
     {
@@ -1415,6 +1401,9 @@
         "601", 
         "602"
       ], 
+      "busnrs": [
+        "302"
+      ], 
       "hnrlbls": [
         "19-21"
       ], 
@@ -1627,6 +1616,12 @@
       "street": "Grotesteenweg"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
         "239"
       ], 
@@ -3200,8 +3195,8 @@
         "428"
       ], 
       "housenumber": "428", 
-      "lat": 51.186749694319, 
-      "lon": 4.42919209206, 
+      "lat": 51.186748528256, 
+      "lon": 4.429187370605, 
       "municipality": "Antwerpen", 
       "pcode": "2600", 
       "source": "afgeleidVanGebouw", 
@@ -3308,9 +3303,11 @@
       "street": "Grotesteenweg"
     }, 
     {
-      "busnrs": [
-        "2", 
-        "5"
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301", 
+        "401"
       ], 
       "hnrlbls": [
         "433"
@@ -3503,8 +3500,8 @@
         "454"
       ], 
       "housenumber": "454", 
-      "lat": 51.186261365585, 
-      "lon": 4.430022293812, 
+      "lat": 51.186169321365, 
+      "lon": 4.429854258694, 
       "municipality": "Antwerpen", 
       "pcode": "2600", 
       "source": "afgeleidVanGebouw", 
@@ -3815,11 +3812,11 @@
         "489"
       ], 
       "housenumber": "489", 
-      "lat": 51.181601603689, 
-      "lon": 4.429206657152, 
+      "lat": 51.182103685001, 
+      "lon": 4.430952513095, 
       "municipality": "Antwerpen", 
       "pcode": "2600", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Grotesteenweg"
     }, 
     {
@@ -4254,7 +4251,7 @@
     }, 
     {
       "hnrlbls": [
-        "11-55"
+        "55"
       ], 
       "housenumber": "55", 
       "lat": 51.196748737406, 
@@ -4602,7 +4599,8 @@
         "102", 
         "201", 
         "202", 
-        "301"
+        "301", 
+        "401"
       ], 
       "hnrlbls": [
         "586"
@@ -5170,11 +5168,11 @@
         "642"
       ], 
       "housenumber": "642", 
-      "lat": 51.178095044535, 
-      "lon": 4.435558626042, 
+      "lat": 51.178060044951, 
+      "lon": 4.435461048418, 
       "municipality": "Antwerpen", 
       "pcode": "2600", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Grotesteenweg"
     }, 
     {
@@ -5612,11 +5610,11 @@
         "660"
       ], 
       "housenumber": "660", 
-      "lat": 51.177473605419, 
-      "lon": 4.436291315639, 
+      "lat": 51.17739181278, 
+      "lon": 4.436130178708, 
       "municipality": "Antwerpen", 
       "pcode": "2600", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Grotesteenweg"
     }, 
     {
@@ -5630,11 +5628,11 @@
         "662"
       ], 
       "housenumber": "662", 
-      "lat": 51.177416310699, 
-      "lon": 4.436356582651, 
+      "lat": 51.177348184759, 
+      "lon": 4.436188458789, 
       "municipality": "Antwerpen", 
       "pcode": "2600", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Grotesteenweg"
     }, 
     {
@@ -5696,11 +5694,11 @@
         "668"
       ], 
       "housenumber": "668", 
-      "lat": 51.177271322837, 
-      "lon": 4.436516529432, 
+      "lat": 51.177178119773, 
+      "lon": 4.436347225177, 
       "municipality": "Antwerpen", 
       "pcode": "2600", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Grotesteenweg"
     }, 
     {
@@ -5761,11 +5759,11 @@
         "676"
       ], 
       "housenumber": "676", 
-      "lat": 51.177136838125, 
-      "lon": 4.436699227446, 
+      "lat": 51.177049374882, 
+      "lon": 4.436552525478, 
       "municipality": "Antwerpen", 
       "pcode": "2600", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Grotesteenweg"
     }, 
     {

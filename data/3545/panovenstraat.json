@@ -1,15 +1,23 @@
 {
   "addresses": [
     {
+      "apptnrs": [
+        "B001"
+      ], 
+      "busnrs": [
+        "B002", 
+        "B003", 
+        "B004"
+      ], 
       "hnrlbls": [
-        "1-3A"
+        "1"
       ], 
       "housenumber": "1", 
-      "lat": 50.932245398286, 
-      "lon": 5.066530013142, 
+      "lat": 50.9323771851, 
+      "lon": 5.066454728382, 
       "municipality": "Halen", 
       "pcode": "3545", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Panovenstraat"
     }, 
     {
@@ -62,10 +70,11 @@
     }, 
     {
       "busnrs": [
-        "1"
+        "B001", 
+        "B002"
       ], 
       "hnrlbls": [
-        "14-14B"
+        "14"
       ], 
       "housenumber": "14", 
       "lat": 50.931363237659, 
@@ -73,22 +82,6 @@
       "municipality": "Halen", 
       "pcode": "3545", 
       "source": "afgeleidVanGebouw", 
-      "street": "Panovenstraat"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
-      "hnrlbls": [
-        "14-14B"
-      ], 
-      "housenumber": "14B", 
-      "lat": 50.931363237659, 
-      "lon": 5.067391896941, 
-      "municipality": "Halen", 
-      "pcode": "3545", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Panovenstraat"
     }, 
     {
@@ -104,8 +97,12 @@
       "street": "Panovenstraat"
     }, 
     {
+      "busnrs": [
+        "B001", 
+        "B002"
+      ], 
       "hnrlbls": [
-        "16-16B"
+        "16"
       ], 
       "housenumber": "16", 
       "lat": 50.931271841238, 
@@ -113,22 +110,6 @@
       "municipality": "Halen", 
       "pcode": "3545", 
       "source": "afgeleidVanGebouw", 
-      "street": "Panovenstraat"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
-      "hnrlbls": [
-        "16-16B"
-      ], 
-      "housenumber": "16B", 
-      "lat": 50.931271841238, 
-      "lon": 5.067417278783, 
-      "municipality": "Halen", 
-      "pcode": "3545", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Panovenstraat"
     }, 
     {
@@ -165,24 +146,6 @@
       "municipality": "Halen", 
       "pcode": "3545", 
       "source": "afgeleidVanGebouw", 
-      "street": "Panovenstraat"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4"
-      ], 
-      "hnrlbls": [
-        "1B-3B"
-      ], 
-      "housenumber": "1B", 
-      "lat": 50.932126169402, 
-      "lon": 5.06659481508, 
-      "municipality": "Halen", 
-      "pcode": "3545", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Panovenstraat"
     }, 
     {
@@ -324,22 +287,6 @@
       "housenumber": "29", 
       "lat": 50.931423539103, 
       "lon": 5.06852700311, 
-      "municipality": "Halen", 
-      "pcode": "3545", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Panovenstraat"
-    }, 
-    {
-      "busnrs": [
-        "1B", 
-        "2B"
-      ], 
-      "hnrlbls": [
-        "1-3A"
-      ], 
-      "housenumber": "3", 
-      "lat": 50.932245398286, 
-      "lon": 5.066530013142, 
       "municipality": "Halen", 
       "pcode": "3545", 
       "source": "afgeleidVanGebouw", 
@@ -491,33 +438,34 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "2"
+        "B001", 
+        "B002"
       ], 
       "hnrlbls": [
-        "1-3A"
+        "3A"
       ], 
       "housenumber": "3A", 
-      "lat": 50.932245398286, 
-      "lon": 5.066530013142, 
+      "lat": 50.932255511505, 
+      "lon": 5.06652248173, 
       "municipality": "Halen", 
       "pcode": "3545", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Panovenstraat"
     }, 
     {
       "busnrs": [
-        "2"
+        "B001", 
+        "B002"
       ], 
       "hnrlbls": [
-        "1B-3B"
+        "3B"
       ], 
       "housenumber": "3B", 
       "lat": 50.932126169402, 
       "lon": 5.06659481508, 
       "municipality": "Halen", 
       "pcode": "3545", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Panovenstraat"
     }, 
     {

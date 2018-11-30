@@ -65,8 +65,7 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "B"
+        "1"
       ], 
       "hnrlbls": [
         "107"
@@ -84,11 +83,11 @@
         "107A"
       ], 
       "housenumber": "107A", 
-      "lat": 50.960987115262, 
-      "lon": 5.703998233068, 
+      "lat": 50.960902557751, 
+      "lon": 5.703907274544, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Dokter Haubenlaan"
     }, 
     {
@@ -96,11 +95,11 @@
         "107B"
       ], 
       "housenumber": "107B", 
-      "lat": 50.960940568418, 
-      "lon": 5.704106810525, 
+      "lat": 50.960865378823, 
+      "lon": 5.704038042569, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Dokter Haubenlaan"
     }, 
     {
@@ -336,10 +335,10 @@
     }, 
     {
       "apptnrs": [
-        "001", 
-        "002", 
-        "003", 
-        "004"
+        "1", 
+        "2", 
+        "3", 
+        "4"
       ], 
       "hnrlbls": [
         "17"
@@ -417,8 +416,8 @@
         "21"
       ], 
       "housenumber": "21", 
-      "lat": 50.963372078007, 
-      "lon": 5.698161269559, 
+      "lat": 50.963376255558, 
+      "lon": 5.698165516789, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
       "source": "afgeleidVanGebouw", 
@@ -613,8 +612,8 @@
         "34"
       ], 
       "housenumber": "34", 
-      "lat": 50.961017911833, 
-      "lon": 5.701237847868, 
+      "lat": 50.961069874703, 
+      "lon": 5.701277763262, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
       "source": "afgeleidVanGebouw", 
@@ -705,20 +704,15 @@
       "street": "Dokter Haubenlaan"
     }, 
     {
-      "busnrs": [
-        "2", 
-        "3", 
-        "4"
-      ], 
       "hnrlbls": [
         "4"
       ], 
       "housenumber": "4", 
-      "lat": 50.962686073767, 
-      "lon": 5.698115185582, 
+      "lat": 50.962684940492, 
+      "lon": 5.698119993924, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Dokter Haubenlaan"
     }, 
     {
@@ -734,7 +728,7 @@
       "street": "Dokter Haubenlaan"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2"
       ], 
@@ -899,6 +893,17 @@
       "street": "Dokter Haubenlaan"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6", 
+        "7", 
+        "8", 
+        "9"
+      ], 
       "hnrlbls": [
         "4A"
       ], 
@@ -911,6 +916,13 @@
       "street": "Dokter Haubenlaan"
     }, 
     {
+      "busnrs": [
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6"
+      ], 
       "hnrlbls": [
         "4B"
       ], 
@@ -923,12 +935,34 @@
       "street": "Dokter Haubenlaan"
     }, 
     {
+      "busnrs": [
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6", 
+        "7", 
+        "8", 
+        "9"
+      ], 
+      "hnrlbls": [
+        "4C"
+      ], 
+      "housenumber": "4C", 
+      "lat": 50.962458779165, 
+      "lon": 5.698338659937, 
+      "municipality": "Maasmechelen", 
+      "pcode": "3630", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Dokter Haubenlaan"
+    }, 
+    {
       "hnrlbls": [
         "5"
       ], 
       "housenumber": "5", 
-      "lat": 50.963797788166, 
-      "lon": 5.696491094182, 
+      "lat": 50.963827853203, 
+      "lon": 5.696519708354, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
       "source": "afgeleidVanGebouw", 
@@ -1218,7 +1252,7 @@
       "street": "Dokter Haubenlaan"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "2", 
         "3", 
         "4"
@@ -1266,8 +1300,8 @@
         "75"
       ], 
       "housenumber": "75", 
-      "lat": 50.961533441447, 
-      "lon": 5.701554460462, 
+      "lat": 50.9615300826, 
+      "lon": 5.701549382194, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
       "source": "afgeleidVanGebouw", 
@@ -1290,8 +1324,8 @@
         "77"
       ], 
       "housenumber": "77", 
-      "lat": 50.961477871425, 
-      "lon": 5.701650256882, 
+      "lat": 50.961525491496, 
+      "lon": 5.701684639772, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
       "source": "afgeleidVanGebouw", 
@@ -1350,8 +1384,8 @@
         "82"
       ], 
       "housenumber": "82", 
-      "lat": 50.959992256459, 
-      "lon": 5.704958858622, 
+      "lat": 50.959988433804, 
+      "lon": 5.704955048284, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
       "source": "afgeleidVanGebouw", 
@@ -1410,11 +1444,11 @@
         "86"
       ], 
       "housenumber": "86", 
-      "lat": 50.959838385609, 
-      "lon": 5.705571028202, 
+      "lat": 50.95985763163, 
+      "lon": 5.705625816004, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Dokter Haubenlaan"
     }, 
     {
@@ -1437,11 +1471,11 @@
         "87A"
       ], 
       "housenumber": "87A", 
-      "lat": 50.961433778503, 
-      "lon": 5.702208349813, 
+      "lat": 50.961432951272, 
+      "lon": 5.702217864645, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "afgeleidVanGebouw", 
       "street": "Dokter Haubenlaan"
     }, 
     {
@@ -1498,11 +1532,11 @@
     }, 
     {
       "apptnrs": [
-        "001", 
-        "002", 
-        "003", 
-        "004", 
-        "005"
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5"
       ], 
       "hnrlbls": [
         "9"
@@ -1532,8 +1566,8 @@
         "91"
       ], 
       "housenumber": "91", 
-      "lat": 50.961195759054, 
-      "lon": 5.702330415624, 
+      "lat": 50.961195489422, 
+      "lon": 5.702330407951, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
       "source": "afgeleidVanGebouw", 
@@ -1580,18 +1614,6 @@
         "94-94A"
       ], 
       "housenumber": "94", 
-      "lat": 50.959637368595, 
-      "lon": 5.706233382131, 
-      "municipality": "Maasmechelen", 
-      "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dokter Haubenlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "94-94A"
-      ], 
-      "housenumber": "94A", 
       "lat": 50.959637368595, 
       "lon": 5.706233382131, 
       "municipality": "Maasmechelen", 

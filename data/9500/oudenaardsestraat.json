@@ -719,7 +719,7 @@
     }, 
     {
       "hnrlbls": [
-        "156-156A"
+        "156"
       ], 
       "housenumber": "156", 
       "lat": 50.772372339327, 
@@ -731,14 +731,14 @@
     }, 
     {
       "hnrlbls": [
-        "156-156A"
+        "156A"
       ], 
       "housenumber": "156A", 
-      "lat": 50.772372339327, 
-      "lon": 3.867911420527, 
+      "lat": 50.772394131556, 
+      "lon": 3.867814783744, 
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Oudenaardsestraat"
     }, 
     {
@@ -1083,7 +1083,7 @@
     }, 
     {
       "hnrlbls": [
-        "186-186A"
+        "186"
       ], 
       "housenumber": "186", 
       "lat": 50.772970681044, 
@@ -1095,14 +1095,14 @@
     }, 
     {
       "hnrlbls": [
-        "186-186A"
+        "186A"
       ], 
       "housenumber": "186A", 
-      "lat": 50.772970681044, 
-      "lon": 3.865721315872, 
+      "lat": 50.772947499732, 
+      "lon": 3.865724256914, 
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Oudenaardsestraat"
     }, 
     {
@@ -2460,6 +2460,13 @@
       "street": "Oudenaardsestraat"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5"
+      ], 
       "hnrlbls": [
         "37"
       ], 
@@ -2469,24 +2476,6 @@
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
       "source": "afgeleidVanGebouw", 
-      "street": "Oudenaardsestraat"
-    }, 
-    {
-      "busnrs": [
-        "2", 
-        "3", 
-        "4", 
-        "5"
-      ], 
-      "hnrlbls": [
-        "37B"
-      ], 
-      "housenumber": "37B", 
-      "lat": 50.772332417385, 
-      "lon": 3.874477459427, 
-      "municipality": "Geraardsbergen", 
-      "pcode": "9500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Oudenaardsestraat"
     }, 
     {
@@ -3308,7 +3297,9 @@
     }, 
     {
       "busnrs": [
-        "AB01"
+        "AB01", 
+        "AB03", 
+        "AB05"
       ], 
       "hnrlbls": [
         "87"

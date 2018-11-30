@@ -557,10 +557,6 @@
       "street": "Molenstraat"
     }, 
     {
-      "apptnrs": [
-        "0.01", 
-        "1.01"
-      ], 
       "hnrlbls": [
         "141"
       ], 
@@ -621,15 +617,21 @@
       "street": "Molenstraat"
     }, 
     {
+      "busnrs": [
+        "00.01", 
+        "01.01", 
+        "01.02", 
+        "02.01"
+      ], 
       "hnrlbls": [
         "145"
       ], 
       "housenumber": "145", 
-      "lat": 51.099363791416, 
-      "lon": 4.402613411654, 
+      "lat": 51.099406392186, 
+      "lon": 4.402634286223, 
       "municipality": "Rumst", 
       "pcode": "2840", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Molenstraat"
     }, 
     {
@@ -773,7 +775,7 @@
       "lon": 4.400884871126, 
       "municipality": "Rumst", 
       "pcode": "2840", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Molenstraat"
     }, 
     {
@@ -1108,18 +1110,6 @@
     }, 
     {
       "hnrlbls": [
-        "180"
-      ], 
-      "housenumber": "180", 
-      "lat": 51.101721989977, 
-      "lon": 4.393040995562, 
-      "municipality": "Rumst", 
-      "pcode": "2840", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Molenstraat"
-    }, 
-    {
-      "hnrlbls": [
         "181"
       ], 
       "housenumber": "181", 
@@ -1264,6 +1254,18 @@
     }, 
     {
       "hnrlbls": [
+        "194"
+      ], 
+      "housenumber": "194", 
+      "lat": 51.101691580645, 
+      "lon": 4.392310150855, 
+      "municipality": "Rumst", 
+      "pcode": "2840", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Molenstraat"
+    }, 
+    {
+      "hnrlbls": [
         "195"
       ], 
       "housenumber": "195", 
@@ -1375,8 +1377,8 @@
         "202"
       ], 
       "housenumber": "202", 
-      "lat": 51.10175394669, 
-      "lon": 4.391500831372, 
+      "lat": 51.101605931009, 
+      "lon": 4.391801996697, 
       "municipality": "Rumst", 
       "pcode": "2840", 
       "source": "afgeleidVanGebouw", 
@@ -1538,6 +1540,14 @@
         "2.01", 
         "2.02"
       ], 
+      "busnrs": [
+        "219.00.01", 
+        "219.00.02", 
+        "219.01.01", 
+        "219.01.02", 
+        "219.02.01", 
+        "219.02.02"
+      ], 
       "hnrlbls": [
         "219"
       ], 
@@ -1547,6 +1557,18 @@
       "municipality": "Rumst", 
       "pcode": "2840", 
       "source": "afgeleidVanGebouw", 
+      "street": "Molenstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "219A"
+      ], 
+      "housenumber": "219A", 
+      "lat": 51.101283272406, 
+      "lon": 4.392491823669, 
+      "municipality": "Rumst", 
+      "pcode": "2840", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Molenstraat"
     }, 
     {
@@ -1740,7 +1762,7 @@
     }, 
     {
       "hnrlbls": [
-        "31-31B"
+        "31"
       ], 
       "housenumber": "31", 
       "lat": 51.098130055906, 
@@ -1748,18 +1770,6 @@
       "municipality": "Rumst", 
       "pcode": "2840", 
       "source": "afgeleidVanGebouw", 
-      "street": "Molenstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "31-31B"
-      ], 
-      "housenumber": "31B", 
-      "lat": 51.098130055906, 
-      "lon": 4.411393480053, 
-      "municipality": "Rumst", 
-      "pcode": "2840", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Molenstraat"
     }, 
     {
@@ -1883,21 +1893,6 @@
       "street": "Molenstraat"
     }, 
     {
-      "busnrs": [
-        "R"
-      ], 
-      "hnrlbls": [
-        "42-44"
-      ], 
-      "housenumber": "42_1", 
-      "lat": 51.100350443982, 
-      "lon": 4.40789354368, 
-      "municipality": "Rumst", 
-      "pcode": "2840", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
-      "street": "Molenstraat"
-    }, 
-    {
       "hnrlbls": [
         "43"
       ], 
@@ -1932,6 +1927,18 @@
       "housenumber": "45", 
       "lat": 51.100313467081, 
       "lon": 4.409807972349, 
+      "municipality": "Rumst", 
+      "pcode": "2840", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Molenstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "46"
+      ], 
+      "housenumber": "46", 
+      "lat": 51.10022642075, 
+      "lon": 4.407828052391, 
       "municipality": "Rumst", 
       "pcode": "2840", 
       "source": "afgeleidVanGebouw", 
@@ -2050,8 +2057,8 @@
         "55"
       ], 
       "housenumber": "55", 
-      "lat": 51.1001978072, 
-      "lon": 4.40947965631, 
+      "lat": 51.100229649763, 
+      "lon": 4.409416297586, 
       "municipality": "Rumst", 
       "pcode": "2840", 
       "source": "afgeleidVanGebouw", 
@@ -2119,11 +2126,11 @@
         "6"
       ], 
       "housenumber": "6", 
-      "lat": 51.101390959876, 
-      "lon": 4.411041155794, 
+      "lat": 51.101329036483, 
+      "lon": 4.411261530688, 
       "municipality": "Rumst", 
       "pcode": "2840", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Molenstraat"
     }, 
     {
@@ -2378,11 +2385,11 @@
         "81-83"
       ], 
       "housenumber": "81", 
-      "lat": 51.099141284801, 
-      "lon": 4.407853825489, 
+      "lat": 51.098946417431, 
+      "lon": 4.407824964978, 
       "municipality": "Rumst", 
       "pcode": "2840", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Molenstraat"
     }, 
     {
@@ -2402,11 +2409,11 @@
         "81-83"
       ], 
       "housenumber": "83", 
-      "lat": 51.099141284801, 
-      "lon": 4.407853825489, 
+      "lat": 51.098946417431, 
+      "lon": 4.407824964978, 
       "municipality": "Rumst", 
       "pcode": "2840", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Molenstraat"
     }, 
     {
@@ -2431,18 +2438,6 @@
       "municipality": "Rumst", 
       "pcode": "2840", 
       "source": "afgeleidVanGebouw", 
-      "street": "Molenstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "85"
-      ], 
-      "housenumber": "85", 
-      "lat": 51.099372143209, 
-      "lon": 4.407238865932, 
-      "municipality": "Rumst", 
-      "pcode": "2840", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Molenstraat"
     }, 
     {

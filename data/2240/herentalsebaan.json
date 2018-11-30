@@ -121,6 +121,25 @@
       "street": "Herentalsebaan"
     }, 
     {
+      "busnrs": [
+        "BUs 1", 
+        "Bus 2", 
+        "Bus 3", 
+        "Bus 4", 
+        "Bus 5"
+      ], 
+      "hnrlbls": [
+        "109"
+      ], 
+      "housenumber": "109", 
+      "lat": 51.188678578147, 
+      "lon": 4.648003042631, 
+      "municipality": "Zandhoven", 
+      "pcode": "2240", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Herentalsebaan"
+    }, 
+    {
       "hnrlbls": [
         "11"
       ], 
@@ -141,11 +160,11 @@
         "111A"
       ], 
       "housenumber": "111A", 
-      "lat": 51.188704459212, 
-      "lon": 4.648422576677, 
+      "lat": 51.188644023118, 
+      "lon": 4.648322804311, 
       "municipality": "Zandhoven", 
       "pcode": "2240", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Herentalsebaan"
     }, 
     {
@@ -160,11 +179,11 @@
         "111B"
       ], 
       "housenumber": "111B", 
-      "lat": 51.188570043773, 
-      "lon": 4.648589405637, 
+      "lat": 51.188665543963, 
+      "lon": 4.648609718617, 
       "municipality": "Zandhoven", 
       "pcode": "2240", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Herentalsebaan"
     }, 
     {
@@ -644,6 +663,11 @@
     }, 
     {
       "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "5", 
+        "6", 
         "Bus 2", 
         "Bus 3", 
         "Bus 4", 
@@ -688,6 +712,8 @@
     {
       "busnrs": [
         "1", 
+        "2", 
+        "5", 
         "Bus 1", 
         "Bus 2", 
         "Bus 3", 

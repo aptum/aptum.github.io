@@ -1,6 +1,9 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "2"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -120,30 +123,34 @@
       "street": "August Van Landeghemplein"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "3"
       ], 
       "housenumber": "3", 
-      "lat": 51.060726090909, 
-      "lon": 4.359595614212, 
+      "lat": 51.060726899214, 
+      "lon": 4.359585914354, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "August Van Landeghemplein"
     }, 
     {
       "busnrs": [
-        "0101"
+        "0101", 
+        "0201"
       ], 
       "hnrlbls": [
         "3A"
       ], 
       "housenumber": "3A", 
-      "lat": 51.060702010203, 
-      "lon": 4.359730130675, 
+      "lat": 51.060702997257, 
+      "lon": 4.35970573859, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "August Van Landeghemplein"
     }, 
     {
@@ -151,8 +158,8 @@
         "4"
       ], 
       "housenumber": "4", 
-      "lat": 51.061088412539, 
-      "lon": 4.359301131608, 
+      "lat": 51.061085986031, 
+      "lon": 4.359307836326, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
       "source": "afgeleidVanGebouw", 
@@ -184,21 +191,6 @@
     }, 
     {
       "busnrs": [
-        "101"
-      ], 
-      "hnrlbls": [
-        "60"
-      ], 
-      "housenumber": "60", 
-      "lat": 51.060479387293, 
-      "lon": 4.360203741966, 
-      "municipality": "Willebroek", 
-      "pcode": "2830", 
-      "source": "afgeleidVanStraat", 
-      "street": "August Van Landeghemplein"
-    }, 
-    {
-      "busnrs": [
         "1"
       ], 
       "hnrlbls": [
@@ -222,18 +214,6 @@
       "municipality": "Willebroek", 
       "pcode": "2830", 
       "source": "afgeleidVanGebouw", 
-      "street": "August Van Landeghemplein"
-    }, 
-    {
-      "hnrlbls": [
-        "9"
-      ], 
-      "housenumber": "9", 
-      "lat": 51.060220492372, 
-      "lon": 4.359994673328, 
-      "municipality": "Willebroek", 
-      "pcode": "2830", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "August Van Landeghemplein"
     }
   ]
