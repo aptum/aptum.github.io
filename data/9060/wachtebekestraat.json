@@ -149,7 +149,7 @@
       "lon": 3.82148199955, 
       "municipality": "Zelzate", 
       "pcode": "9060", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Wachtebekestraat"
     }, 
     {
@@ -274,14 +274,14 @@
     }, 
     {
       "hnrlbls": [
-        "116C-167"
+        "116C"
       ], 
       "housenumber": "116C", 
-      "lat": 51.196375191144, 
-      "lon": 3.822419863669, 
+      "lat": 51.196436703051, 
+      "lon": 3.822406697873, 
       "municipality": "Zelzate", 
       "pcode": "9060", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Wachtebekestraat"
     }, 
     {
@@ -1002,6 +1002,10 @@
       "street": "Wachtebekestraat"
     }, 
     {
+      "busnrs": [
+        "0101", 
+        "0201"
+      ], 
       "hnrlbls": [
         "175-177"
       ], 
@@ -1010,7 +1014,7 @@
       "lon": 3.82382040511, 
       "municipality": "Zelzate", 
       "pcode": "9060", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Wachtebekestraat"
     }, 
     {
@@ -2320,7 +2324,11 @@
     {
       "apptnrs": [
         "0001", 
-        "0002"
+        "0002", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202"
       ], 
       "hnrlbls": [
         "9"

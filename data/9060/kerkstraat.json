@@ -2,19 +2,14 @@
   "addresses": [
     {
       "busnrs": [
-        "0002", 
-        "0101", 
-        "0102", 
-        "0103", 
-        "0201", 
-        "0202"
+        "0002"
       ], 
       "hnrlbls": [
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 51.199815545066, 
-      "lon": 3.81298436774, 
+      "lat": 51.199815278107, 
+      "lon": 3.812984943205, 
       "municipality": "Zelzate", 
       "pcode": "9060", 
       "source": "afgeleidVanGebouw", 
@@ -282,6 +277,11 @@
       "street": "Kerkstraat"
     }, 
     {
+      "apptnrs": [
+        "0001", 
+        "0002", 
+        "001"
+      ], 
       "busnrs": [
         "0101", 
         "0102", 
@@ -296,7 +296,7 @@
       "lon": 3.810492972092, 
       "municipality": "Zelzate", 
       "pcode": "9060", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -315,7 +315,7 @@
       "lon": 3.810492972092, 
       "municipality": "Zelzate", 
       "pcode": "9060", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -356,14 +356,14 @@
     }, 
     {
       "hnrlbls": [
-        "118A"
+        "118A-120"
       ], 
       "housenumber": "118A", 
-      "lat": 51.203902998402, 
-      "lon": 3.810753685599, 
+      "lat": 51.203903618131, 
+      "lon": 3.810751675009, 
       "municipality": "Zelzate", 
       "pcode": "9060", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -376,6 +376,18 @@
       "municipality": "Zelzate", 
       "pcode": "9060", 
       "source": "afgeleidVanGebouw", 
+      "street": "Kerkstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "118A-120"
+      ], 
+      "housenumber": "120", 
+      "lat": 51.203903618131, 
+      "lon": 3.810751675009, 
+      "municipality": "Zelzate", 
+      "pcode": "9060", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -743,23 +755,23 @@
     }, 
     {
       "hnrlbls": [
+        "146"
+      ], 
+      "housenumber": "146", 
+      "lat": 51.204704735126, 
+      "lon": 3.810418010758, 
+      "municipality": "Zelzate", 
+      "pcode": "9060", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Kerkstraat"
+    }, 
+    {
+      "hnrlbls": [
         "147"
       ], 
       "housenumber": "147", 
       "lat": 51.205051930268, 
       "lon": 3.809762522346, 
-      "municipality": "Zelzate", 
-      "pcode": "9060", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Kerkstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "148"
-      ], 
-      "housenumber": "148", 
-      "lat": 51.204723760855, 
-      "lon": 3.810449691746, 
       "municipality": "Zelzate", 
       "pcode": "9060", 
       "source": "afgeleidVanGebouw", 
@@ -858,7 +870,7 @@
       "lon": 3.812277731176, 
       "municipality": "Zelzate", 
       "pcode": "9060", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -1075,7 +1087,8 @@
         "0101", 
         "0102", 
         "0103", 
-        "0104"
+        "0104", 
+        "0201"
       ], 
       "hnrlbls": [
         "40"
@@ -1574,18 +1587,6 @@
     }, 
     {
       "hnrlbls": [
-        "92-94"
-      ], 
-      "housenumber": "92", 
-      "lat": 51.203172293957, 
-      "lon": 3.81076999922, 
-      "municipality": "Zelzate", 
-      "pcode": "9060", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Kerkstraat"
-    }, 
-    {
-      "hnrlbls": [
         "93"
       ], 
       "housenumber": "93", 
@@ -1598,7 +1599,7 @@
     }, 
     {
       "hnrlbls": [
-        "92-94"
+        "94"
       ], 
       "housenumber": "94", 
       "lat": 51.203172293957, 

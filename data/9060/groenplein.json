@@ -41,6 +41,10 @@
     }, 
     {
       "busnrs": [
+        "0001", 
+        "0101", 
+        "0201", 
+        "0301", 
         "2"
       ], 
       "hnrlbls": [
@@ -55,6 +59,11 @@
       "street": "Groenplein"
     }, 
     {
+      "busnrs": [
+        "0101", 
+        "0201", 
+        "0301"
+      ], 
       "hnrlbls": [
         "13"
       ], 
@@ -67,6 +76,9 @@
       "street": "Groenplein"
     }, 
     {
+      "apptnrs": [
+        "0202"
+      ], 
       "busnrs": [
         "0001", 
         "0002", 
@@ -84,7 +96,7 @@
       "lon": 3.794248553853, 
       "municipality": "Zelzate", 
       "pcode": "9060", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Groenplein"
     }, 
     {
@@ -121,7 +133,9 @@
       "busnrs": [
         "0001", 
         "0101", 
+        "0102", 
         "0201", 
+        "0202", 
         "0301", 
         "0302"
       ], 
@@ -129,11 +143,11 @@
         "17"
       ], 
       "housenumber": "17", 
-      "lat": 51.196234548024, 
-      "lon": 3.79530054042, 
+      "lat": 51.196191740943, 
+      "lon": 3.795222096155, 
       "municipality": "Zelzate", 
       "pcode": "9060", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Groenplein"
     }, 
     {
@@ -212,17 +226,18 @@
         "0101", 
         "0201", 
         "0202", 
-        "0301"
+        "0301", 
+        "0302"
       ], 
       "hnrlbls": [
         "23-25"
       ], 
       "housenumber": "23", 
-      "lat": 51.196043862258, 
-      "lon": 3.795497444183, 
+      "lat": 51.196043771683, 
+      "lon": 3.795497302233, 
       "municipality": "Zelzate", 
       "pcode": "9060", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Groenplein"
     }, 
     {
@@ -247,11 +262,11 @@
         "23-25"
       ], 
       "housenumber": "25", 
-      "lat": 51.196043862258, 
-      "lon": 3.795497444183, 
+      "lat": 51.196043771683, 
+      "lon": 3.795497302233, 
       "municipality": "Zelzate", 
       "pcode": "9060", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Groenplein"
     }, 
     {
@@ -426,17 +441,19 @@
         "0101", 
         "0102", 
         "0201", 
-        "0202"
+        "0202", 
+        "0301", 
+        "0302"
       ], 
       "hnrlbls": [
         "9"
       ], 
       "housenumber": "9", 
-      "lat": 51.196446838759, 
-      "lon": 3.79479521406, 
+      "lat": 51.196446658301, 
+      "lon": 3.794795073215, 
       "municipality": "Zelzate", 
       "pcode": "9060", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Groenplein"
     }
   ]
